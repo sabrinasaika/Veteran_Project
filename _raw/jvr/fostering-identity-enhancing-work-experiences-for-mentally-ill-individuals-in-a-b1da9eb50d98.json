@@ -1,0 +1,1537 @@
+{
+  "source_type": "jvr_pdf_candidate",
+  "doi": "10.1177/10522263251376309",
+  "doi_url": "https://doi.org/10.1177/10522263251376309",
+  "source_url": "https://journals.sagepub.com/doi/10.1177/10522263251376309",
+  "attempted_pdf_urls": [
+    "https://journals.sagepub.com/doi/pdf/10.1177/10522263251376309",
+    "https://journals.sagepub.com/doi/10.1177/10522263251376309",
+    "https://doi.org/10.1177/10522263251376309",
+    "https://content.iospress.com/download?id=10.1177/10522263251376309"
+  ],
+  "selected_pdf_url": "",
+  "selected_final_url": "",
+  "download_status": "unavailable",
+  "match": {
+    "veteran_hits": [
+      "va "
+    ],
+    "pathway_hits": [
+      "employment",
+      "work"
+    ],
+    "disability_hits": []
+  },
+  "openalex": {
+    "id": "https://openalex.org/W4414057530",
+    "doi": "https://doi.org/10.1177/10522263251376309",
+    "title": "Fostering Identity-Enhancing Work Experiences for Mentally Ill Individuals in a Sheltered Workshop: A Case Study",
+    "display_name": "Fostering Identity-Enhancing Work Experiences for Mentally Ill Individuals in a Sheltered Workshop: A Case Study",
+    "publication_year": 2025,
+    "publication_date": "2025-09-08",
+    "ids": {
+      "openalex": "https://openalex.org/W4414057530",
+      "doi": "https://doi.org/10.1177/10522263251376309"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/10522263251376309",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1177/10522263251376309",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S190353498",
+        "display_name": "Journal of Vocational Rehabilitation",
+        "issn_l": "1052-2263",
+        "issn": [
+          "1052-2263",
+          "1878-6316"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310318577",
+        "host_organization_name": "IOS Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310318577"
+        ],
+        "host_organization_lineage_names": [
+          "IOS Press"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Vocational Rehabilitation",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://doi.org/10.1177/10522263251376309",
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5118595582",
+          "display_name": "Barbara Jarmila Germann",
+          "orcid": "https://orcid.org/0000-0001-9693-3750"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I2972652528",
+            "display_name": "FHNW University of Applied Sciences and Arts",
+            "ror": "https://ror.org/04mq2g308",
+            "country_code": "CH",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I2972652528"
+            ]
+          }
+        ],
+        "countries": [
+          "CH"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Barbara Jarmila Germann",
+        "raw_affiliation_strings": [
+          "FHNW University of Applied Sciences and Arts Northwestern Switzerland",
+          "School of Applied Psychology, FHNW University of Applied Sciences and Arts Northwestern Switzerland, Olten, Switzerland"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "FHNW University of Applied Sciences and Arts Northwestern Switzerland",
+            "institution_ids": [
+              "https://openalex.org/I2972652528"
+            ]
+          },
+          {
+            "raw_affiliation_string": "School of Applied Psychology, FHNW University of Applied Sciences and Arts Northwestern Switzerland, Olten, Switzerland",
+            "institution_ids": [
+              "https://openalex.org/I2972652528"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5057478497",
+          "display_name": "Dörte Resch",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I2972652528",
+            "display_name": "FHNW University of Applied Sciences and Arts",
+            "ror": "https://ror.org/04mq2g308",
+            "country_code": "CH",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I2972652528"
+            ]
+          }
+        ],
+        "countries": [
+          "CH"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Dörte Resch",
+        "raw_affiliation_strings": [
+          "FHNW University of Applied Sciences and Arts Northwestern Switzerland",
+          "School of Applied Psychology, FHNW University of Applied Sciences and Arts Northwestern Switzerland, Olten, Switzerland"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "FHNW University of Applied Sciences and Arts Northwestern Switzerland",
+            "institution_ids": [
+              "https://openalex.org/I2972652528"
+            ]
+          },
+          {
+            "raw_affiliation_string": "School of Applied Psychology, FHNW University of Applied Sciences and Arts Northwestern Switzerland, Olten, Switzerland",
+            "institution_ids": [
+              "https://openalex.org/I2972652528"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 2,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5118595582"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I2972652528"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.38859857,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": "63",
+      "issue": "3",
+      "first_page": "260",
+      "last_page": "270"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11084",
+      "display_name": "Workplace Health and Well-being",
+      "score": 0.994700014591217,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3600",
+        "display_name": "General Health Professions"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/36",
+        "display_name": "Health Professions"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11084",
+        "display_name": "Workplace Health and Well-being",
+        "score": 0.994700014591217,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3600",
+          "display_name": "General Health Professions"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/36",
+          "display_name": "Health Professions"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11959",
+        "display_name": "Employment and Welfare Studies",
+        "score": 0.9922000169754028,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3600",
+          "display_name": "General Health Professions"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/36",
+          "display_name": "Health Professions"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10272",
+        "display_name": "Mental Health Treatment and Access",
+        "score": 0.9768000245094299,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3207",
+          "display_name": "Social Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/thematic-analysis",
+        "display_name": "Thematic analysis",
+        "score": 0.7340999841690063
+      },
+      {
+        "id": "https://openalex.org/keywords/work",
+        "display_name": "Work (physics)",
+        "score": 0.7293000221252441
+      },
+      {
+        "id": "https://openalex.org/keywords/mental-health",
+        "display_name": "Mental health",
+        "score": 0.6769000291824341
+      },
+      {
+        "id": "https://openalex.org/keywords/focus-group",
+        "display_name": "Focus group",
+        "score": 0.5960000157356262
+      },
+      {
+        "id": "https://openalex.org/keywords/stigma",
+        "display_name": "Stigma (botany)",
+        "score": 0.5299999713897705
+      },
+      {
+        "id": "https://openalex.org/keywords/supported-employment",
+        "display_name": "Supported employment",
+        "score": 0.41850000619888306
+      },
+      {
+        "id": "https://openalex.org/keywords/identity",
+        "display_name": "Identity (music)",
+        "score": 0.40540000796318054
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C74196892",
+        "wikidata": "https://www.wikidata.org/wiki/Q7781188",
+        "display_name": "Thematic analysis",
+        "level": 3,
+        "score": 0.7340999841690063
+      },
+      {
+        "id": "https://openalex.org/C18762648",
+        "wikidata": "https://www.wikidata.org/wiki/Q42213",
+        "display_name": "Work (physics)",
+        "level": 2,
+        "score": 0.7293000221252441
+      },
+      {
+        "id": "https://openalex.org/C134362201",
+        "wikidata": "https://www.wikidata.org/wiki/Q317309",
+        "display_name": "Mental health",
+        "level": 2,
+        "score": 0.6769000291824341
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.637499988079071
+      },
+      {
+        "id": "https://openalex.org/C56995899",
+        "wikidata": "https://www.wikidata.org/wiki/Q1126687",
+        "display_name": "Focus group",
+        "level": 2,
+        "score": 0.5960000157356262
+      },
+      {
+        "id": "https://openalex.org/C168285401",
+        "wikidata": "https://www.wikidata.org/wiki/Q1427245",
+        "display_name": "Stigma (botany)",
+        "level": 2,
+        "score": 0.5299999713897705
+      },
+      {
+        "id": "https://openalex.org/C2778965245",
+        "wikidata": "https://www.wikidata.org/wiki/Q2499074",
+        "display_name": "Supported employment",
+        "level": 3,
+        "score": 0.41850000619888306
+      },
+      {
+        "id": "https://openalex.org/C2778355321",
+        "wikidata": "https://www.wikidata.org/wiki/Q17079427",
+        "display_name": "Identity (music)",
+        "level": 2,
+        "score": 0.40540000796318054
+      },
+      {
+        "id": "https://openalex.org/C75630572",
+        "wikidata": "https://www.wikidata.org/wiki/Q538904",
+        "display_name": "Applied psychology",
+        "level": 1,
+        "score": 0.3790000081062317
+      },
+      {
+        "id": "https://openalex.org/C2776674806",
+        "wikidata": "https://www.wikidata.org/wiki/Q12135",
+        "display_name": "Mental illness",
+        "level": 3,
+        "score": 0.34630000591278076
+      },
+      {
+        "id": "https://openalex.org/C3019946834",
+        "wikidata": "https://www.wikidata.org/wiki/Q12135",
+        "display_name": "Mentally ill",
+        "level": 4,
+        "score": 0.33059999346733093
+      },
+      {
+        "id": "https://openalex.org/C190248442",
+        "wikidata": "https://www.wikidata.org/wiki/Q839486",
+        "display_name": "Qualitative research",
+        "level": 2,
+        "score": 0.32339999079704285
+      },
+      {
+        "id": "https://openalex.org/C509550671",
+        "wikidata": "https://www.wikidata.org/wiki/Q126945",
+        "display_name": "Medical education",
+        "level": 1,
+        "score": 0.28949999809265137
+      },
+      {
+        "id": "https://openalex.org/C2779713723",
+        "wikidata": "https://www.wikidata.org/wiki/Q17088139",
+        "display_name": "Photo elicitation",
+        "level": 2,
+        "score": 0.28119999170303345
+      },
+      {
+        "id": "https://openalex.org/C159110408",
+        "wikidata": "https://www.wikidata.org/wiki/Q121176",
+        "display_name": "Nursing",
+        "level": 1,
+        "score": 0.28040000796318054
+      },
+      {
+        "id": "https://openalex.org/C56154687",
+        "wikidata": "https://www.wikidata.org/wiki/Q10998095",
+        "display_name": "Personal development",
+        "level": 2,
+        "score": 0.2759000062942505
+      },
+      {
+        "id": "https://openalex.org/C2781094116",
+        "wikidata": "https://www.wikidata.org/wiki/Q1569083",
+        "display_name": "Peer support",
+        "level": 2,
+        "score": 0.2648000121116638
+      },
+      {
+        "id": "https://openalex.org/C2775882741",
+        "wikidata": "https://www.wikidata.org/wiki/Q6130303",
+        "display_name": "Vocational rehabilitation",
+        "level": 3,
+        "score": 0.2554999887943268
+      },
+      {
+        "id": "https://openalex.org/C77805123",
+        "wikidata": "https://www.wikidata.org/wiki/Q161272",
+        "display_name": "Social psychology",
+        "level": 1,
+        "score": 0.25450000166893005
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1177/10522263251376309",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1177/10522263251376309",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S190353498",
+          "display_name": "Journal of Vocational Rehabilitation",
+          "issn_l": "1052-2263",
+          "issn": [
+            "1052-2263",
+            "1878-6316"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310318577",
+          "host_organization_name": "IOS Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310318577"
+          ],
+          "host_organization_lineage_names": [
+            "IOS Press"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Vocational Rehabilitation",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.1177/10522263251376309",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1177/10522263251376309",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S190353498",
+        "display_name": "Journal of Vocational Rehabilitation",
+        "issn_l": "1052-2263",
+        "issn": [
+          "1052-2263",
+          "1878-6316"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310318577",
+        "host_organization_name": "IOS Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310318577"
+        ],
+        "host_organization_lineage_names": [
+          "IOS Press"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Vocational Rehabilitation",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "content_urls": null,
+    "referenced_works_count": 46,
+    "referenced_works": [
+      "https://openalex.org/W1454046488",
+      "https://openalex.org/W1903790687",
+      "https://openalex.org/W1974833633",
+      "https://openalex.org/W1977925417",
+      "https://openalex.org/W1979290264",
+      "https://openalex.org/W1986104633",
+      "https://openalex.org/W1995444638",
+      "https://openalex.org/W2010351470",
+      "https://openalex.org/W2042623444",
+      "https://openalex.org/W2054678634",
+      "https://openalex.org/W2065090810",
+      "https://openalex.org/W2082348950",
+      "https://openalex.org/W2096892183",
+      "https://openalex.org/W2097009687",
+      "https://openalex.org/W2104104711",
+      "https://openalex.org/W2117347476",
+      "https://openalex.org/W2128048144",
+      "https://openalex.org/W2130775007",
+      "https://openalex.org/W2138664283",
+      "https://openalex.org/W2160173578",
+      "https://openalex.org/W2166720752",
+      "https://openalex.org/W2170244478",
+      "https://openalex.org/W2232813484",
+      "https://openalex.org/W2562051577",
+      "https://openalex.org/W2730475747",
+      "https://openalex.org/W2736942037",
+      "https://openalex.org/W2741208257",
+      "https://openalex.org/W2753575939",
+      "https://openalex.org/W2768019144",
+      "https://openalex.org/W2772192884",
+      "https://openalex.org/W2782880241",
+      "https://openalex.org/W2811287167",
+      "https://openalex.org/W2884339618",
+      "https://openalex.org/W2946481069",
+      "https://openalex.org/W2957157243",
+      "https://openalex.org/W2970621047",
+      "https://openalex.org/W2996128963",
+      "https://openalex.org/W3083254810",
+      "https://openalex.org/W3124525735",
+      "https://openalex.org/W3196868174",
+      "https://openalex.org/W4245542559",
+      "https://openalex.org/W4306178517",
+      "https://openalex.org/W4311343065",
+      "https://openalex.org/W4364348136",
+      "https://openalex.org/W4386932068",
+      "https://openalex.org/W4388041923"
+    ],
+    "related_works": [
+      "https://openalex.org/W4391375266",
+      "https://openalex.org/W2748952813",
+      "https://openalex.org/W2467115379",
+      "https://openalex.org/W2329654467",
+      "https://openalex.org/W3122048720",
+      "https://openalex.org/W3160311917",
+      "https://openalex.org/W2468062211",
+      "https://openalex.org/W1979456278",
+      "https://openalex.org/W2047219861",
+      "https://openalex.org/W2015813243"
+    ],
+    "abstract_inverted_index": {
+      "Background": [
+        0
+      ],
+      "Sheltered": [
+        1
+      ],
+      "workshops": [
+        2,
+        34,
+        60,
+        187
+      ],
+      "remain": [
+        3
+      ],
+      "a": [
+        4,
+        67,
+        87,
+        135,
+        169
+      ],
+      "common": [
+        5
+      ],
+      "form": [
+        6
+      ],
+      "of": [
+        7,
+        44,
+        66,
+        122
+      ],
+      "employment": [
+        8
+      ],
+      "for": [
+        9,
+        173
+      ],
+      "individuals": [
+        10,
+        72,
+        174
+      ],
+      "with": [
+        11,
+        73,
+        134,
+        149,
+        175
+      ],
+      "mental": [
+        12,
+        74,
+        176
+      ],
+      "health": [
+        13,
+        75,
+        177
+      ],
+      "conditions": [
+        14,
+        57,
+        178
+      ],
+      "in": [
+        15,
+        58,
+        86,
+        90,
+        179
+      ],
+      "Switzerland.": [
+        16,
+        91
+      ],
+      "As": [
+        17
+      ],
+      "there": [
+        18
+      ],
+      "are": [
+        19
+      ],
+      "currently": [
+        20
+      ],
+      "no": [
+        21
+      ],
+      "national": [
+        22
+      ],
+      "requirements": [
+        23
+      ],
+      "governing": [
+        24
+      ],
+      "their": [
+        25
+      ],
+      "design,": [
+        26,
+        163
+      ],
+      "it": [
+        27
+      ],
+      "is": [
+        28
+      ],
+      "crucial": [
+        29
+      ],
+      "to": [
+        30,
+        38,
+        51,
+        63,
+        107,
+        159,
+        188
+      ],
+      "examine": [
+        31
+      ],
+      "how": [
+        32
+      ],
+      "sheltered": [
+        33,
+        59,
+        88,
+        180,
+        186
+      ],
+      "can": [
+        35
+      ],
+      "be": [
+        36
+      ],
+      "improved": [
+        37
+      ],
+      "better": [
+        39,
+        189
+      ],
+      "meet": [
+        40
+      ],
+      "the": [
+        41,
+        53,
+        64,
+        120
+      ],
+      "specific": [
+        42
+      ],
+      "needs": [
+        43
+      ],
+      "this": [
+        45
+      ],
+      "population.": [
+        46
+      ],
+      "Objective": [
+        47
+      ],
+      "This": [
+        48,
+        153
+      ],
+      "study": [
+        49,
+        154
+      ],
+      "aimed": [
+        50
+      ],
+      "explore": [
+        52
+      ],
+      "work": [
+        54,
+        69,
+        110,
+        116,
+        131,
+        146,
+        160,
+        162,
+        165,
+        171
+      ],
+      "experiences": [
+        55
+      ],
+      "and": [
+        56,
+        124,
+        140,
+        142,
+        164,
+        193
+      ],
+      "that": [
+        61,
+        118,
+        167
+      ],
+      "contribute": [
+        62
+      ],
+      "development": [
+        65,
+        139
+      ],
+      "positive": [
+        68,
+        170
+      ],
+      "identity": [
+        70,
+        172
+      ],
+      "among": [
+        71
+      ],
+      "conditions.": [
+        76
+      ],
+      "Method": [
+        77
+      ],
+      "Two": [
+        78
+      ],
+      "group": [
+        79
+      ],
+      "discussions": [
+        80
+      ],
+      "(n": [
+        81
+      ],
+      "=": [
+        82
+      ],
+      "10)": [
+        83
+      ],
+      "were": [
+        84,
+        93
+      ],
+      "conducted": [
+        85
+      ],
+      "workshop": [
+        89
+      ],
+      "Data": [
+        92
+      ],
+      "analyzed": [
+        94
+      ],
+      "using": [
+        95
+      ],
+      "inductive": [
+        96
+      ],
+      "thematic": [
+        97
+      ],
+      "analysis.": [
+        98
+      ],
+      "Results": [
+        99
+      ],
+      "The": [
+        100
+      ],
+      "analysis": [
+        101
+      ],
+      "revealed": [
+        102
+      ],
+      "three": [
+        103
+      ],
+      "main": [
+        104
+      ],
+      "themes": [
+        105
+      ],
+      "central": [
+        106
+      ],
+      "promoting": [
+        108
+      ],
+      "identity-enhancing": [
+        109
+      ],
+      "experiences:": [
+        111
+      ],
+      "(1)": [
+        112
+      ],
+      "Cultivating": [
+        113
+      ],
+      "an": [
+        114
+      ],
+      "egalitarian": [
+        115
+      ],
+      "environment": [
+        117
+      ],
+      "emphasizes": [
+        119
+      ],
+      "absence": [
+        121
+      ],
+      "stigma": [
+        123
+      ],
+      "actively": [
+        125
+      ],
+      "promotes": [
+        126
+      ],
+      "equality;": [
+        127
+      ],
+      "(2)": [
+        128
+      ],
+      "Enhancing": [
+        129
+      ],
+      "motivational": [
+        130
+      ],
+      "design": [
+        132
+      ],
+      "characteristics,": [
+        133
+      ],
+      "focus": [
+        136
+      ],
+      "on": [
+        137
+      ],
+      "skill": [
+        138
+      ],
+      "autonomy;": [
+        141
+      ],
+      "(3)": [
+        143
+      ],
+      "Providing": [
+        144
+      ],
+      "meaningful": [
+        145
+      ],
+      "through": [
+        147
+      ],
+      "products": [
+        148,
+        166
+      ],
+      "societal": [
+        150
+      ],
+      "impact.": [
+        151
+      ],
+      "Conclusion": [
+        152
+      ],
+      "highlights": [
+        155
+      ],
+      "critical": [
+        156
+      ],
+      "factors": [
+        157
+      ],
+      "related": [
+        158
+      ],
+      "culture,": [
+        161
+      ],
+      "facilitate": [
+        168
+      ],
+      "workshops.": [
+        181
+      ],
+      "These": [
+        182
+      ],
+      "recommendations": [
+        183
+      ],
+      "help": [
+        184
+      ],
+      "improve": [
+        185
+      ],
+      "support": [
+        190
+      ],
+      "personal": [
+        191
+      ],
+      "recovery": [
+        192
+      ],
+      "labor": [
+        194
+      ],
+      "market": [
+        195
+      ],
+      "reintegration.": [
+        196
+      ]
+    },
+    "counts_by_year": [],
+    "updated_date": "2026-03-07T16:01:11.037858",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  "crossref": {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          22
+        ]
+      ],
+      "date-time": "2025-10-22T00:37:47Z",
+      "timestamp": 1761093467929,
+      "version": "build-2065373602"
+    },
+    "reference-count": 51,
+    "publisher": "SAGE Publications",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              8
+            ]
+          ],
+          "date-time": "2025-09-08T00:00:00Z",
+          "timestamp": 1757289600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              8
+            ]
+          ],
+          "date-time": "2025-09-08T00:00:00Z",
+          "timestamp": 1757289600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+      }
+    ],
+    "funder": [
+      {
+        "name": "Stiftung Töpferhaus"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.sagepub.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Journal of Vocational Rehabilitation"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          11
+        ]
+      ]
+    },
+    "abstract": "<jats:sec>\n            <jats:title>Background</jats:title>\n            <jats:p>Sheltered workshops remain a common form of employment for individuals with mental health conditions in Switzerland. As there are currently no national requirements governing their design, it is crucial to examine how sheltered workshops can be improved to better meet the specific needs of this population.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Objective</jats:title>\n            <jats:p>This study aimed to explore the work experiences and conditions in sheltered workshops that contribute to the development of a positive work identity among individuals with mental health conditions.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Method</jats:title>\n            <jats:p>Two group discussions (n = 10) were conducted in a sheltered workshop in Switzerland. Data were analyzed using inductive thematic analysis.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Results</jats:title>\n            <jats:p>The analysis revealed three main themes central to promoting identity-enhancing work experiences: (1) Cultivating an egalitarian work environment that emphasizes the absence of stigma and actively promotes equality; (2) Enhancing motivational work design characteristics, with a focus on skill development and autonomy; and (3) Providing meaningful work through products with societal impact.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Conclusion</jats:title>\n            <jats:p>This study highlights critical factors related to work culture, work design, and work products that facilitate a positive work identity for individuals with mental health conditions in sheltered workshops. These recommendations help improve sheltered workshops to better support personal recovery and labor market reintegration.</jats:p>\n          </jats:sec>",
+    "DOI": "10.1177/10522263251376309",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          8
+        ]
+      ],
+      "date-time": "2025-09-08T16:04:21Z",
+      "timestamp": 1757347461000
+    },
+    "page": "260-270",
+    "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Fostering Identity-Enhancing Work Experiences for Mentally Ill Individuals in a Sheltered Workshop: A Case Study"
+    ],
+    "prefix": "10.1177",
+    "volume": "63",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-9693-3750",
+        "authenticated-orcid": false,
+        "given": "Barbara Jarmila",
+        "family": "Germann",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "FHNW University of Applied Sciences and Arts Northwestern Switzerland"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0002-1753-7069",
+        "authenticated-orcid": false,
+        "given": "Dörte",
+        "family": "Resch",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "FHNW University of Applied Sciences and Arts Northwestern Switzerland"
+          }
+        ]
+      }
+    ],
+    "member": "179",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          8
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_3_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/jar.12092"
+      },
+      {
+        "key": "e_1_3_3_3_1",
+        "unstructured": "Baer N. Frick U. Auerbach S. Basler M. (2017). “Der tägliche Wahnsinn”. Psychisch auffällige Mitarbeitende und ihr Problemverlauf aus Sicht von Deutschschweizer Führungskräften. Hochschule Luzern Psychiatrie Baselland. https://www.npg-rsp.ch/fileadmin/npg-rsp/Themen-Bibliothek/Fachthemen/HSLU_2017_Psychisch_kranke_MA_Studie.pdf"
+      },
+      {
+        "key": "e_1_3_3_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1176/appi.ps.57.3.388"
+      },
+      {
+        "key": "e_1_3_3_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1468-3148.2009.00534.x"
+      },
+      {
+        "key": "e_1_3_3_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/14427591.2014.882250"
+      },
+      {
+        "key": "e_1_3_3_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1192/bjp.182.6.467"
+      },
+      {
+        "key": "e_1_3_3_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.alter.2014.11.003"
+      },
+      {
+        "key": "e_1_3_3_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1191/1478088706qp063oa"
+      },
+      {
+        "key": "e_1_3_3_10_1",
+        "volume-title": "Successful qualitative research: A practical guide for beginners",
+        "author": "Braun V.",
+        "year": "2013",
+        "unstructured": "Braun V., Clarke V. (2013). Successful qualitative research: A practical guide for beginners. Sage."
+      },
+      {
+        "key": "e_1_3_3_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-2011-0550"
+      },
+      {
+        "key": "e_1_3_3_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1362361311408129"
+      },
+      {
+        "key": "e_1_3_3_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/10887-000"
+      },
+      {
+        "key": "e_1_3_3_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-230045"
+      },
+      {
+        "key": "e_1_3_3_15_1",
+        "unstructured": "Department of Education Culture and Sport Canton Aargau. (2023). AARGAUER QUALITÄTSSTANDARDS für Einrichtungen mit Betriebsbewilligung für erwachsene Menschen mit Behinderungen. https://www.ag.ch/media/kanton-aargau/bks/behindertenbetreuung/einrichtungen/aargauer-qualitaetsstandards-fuer-einrichtungen-mit-betriebsbewilligung-fuer-erwachsene-menschen-mit-behinderungen.pdf"
+      },
+      {
+        "key": "e_1_3_3_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0018726717716752"
+      },
+      {
+        "key": "e_1_3_3_17_1",
+        "unstructured": "Federal Social Insurance Office. (2023). IV-Statistik 2022. Swiss Federal Department of Home Affairs. https://www.bsv.admin.ch/dam/bsv/de/dokumente/iv/statistiken/iv-stat_2022.pdf.download.pdf/IV-Statistik%202022.pdf"
+      },
+      {
+        "key": "e_1_3_3_18_1",
+        "unstructured": "Federal Statistical Office. (2023). Schweizerische Gesundheitsbefragung 2022 – Übersicht. Swiss Federal Department of Home Affairs. https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/erhebungen/sgb.assetdetail.28625352.html"
+      },
+      {
+        "key": "e_1_3_3_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1468-3148.2010.00576.x"
+      },
+      {
+        "key": "e_1_3_3_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0149206317741194"
+      },
+      {
+        "key": "e_1_3_3_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1300/J004v18n02_03"
+      },
+      {
+        "issue": "2",
+        "key": "e_1_3_3_22_1",
+        "first-page": "142",
+        "article-title": "A comparison of self-esteem and job satisfaction of adults with mild mental retardation in sheltered workshops and supported employment",
+        "volume": "31",
+        "author": "Griffin D. K.",
+        "year": "1996",
+        "unstructured": "Griffin D. K., Rosenberg H., Cheyney W., Greenberg B. (1996). A comparison of self-esteem and job satisfaction of adults with mild mental retardation in sheltered workshops and supported employment. Education and Training in Mental Retardation and Developmental Disabilities, 31(2), 142–150. http://www.jstor.org/stable/23879130",
+        "journal-title": "Education and Training in Mental Retardation and Developmental Disabilities"
+      },
+      {
+        "key": "e_1_3_3_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0030-5073(76)90016-7"
+      },
+      {
+        "key": "e_1_3_3_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-658-07462-3_27-1"
+      },
+      {
+        "key": "e_1_3_3_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1600-0447.2011.01780.x"
+      },
+      {
+        "key": "e_1_3_3_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/prj0000400"
+      },
+      {
+        "key": "e_1_3_3_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0021-9010.92.5.1332"
+      },
+      {
+        "key": "e_1_3_3_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/11038120310009489"
+      },
+      {
+        "key": "e_1_3_3_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-221213"
+      },
+      {
+        "key": "e_1_3_3_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/jar.12319"
+      },
+      {
+        "key": "e_1_3_3_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/14427591.2008.9686604"
+      },
+      {
+        "key": "e_1_3_3_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/11038128.2019.1609084"
+      },
+      {
+        "key": "e_1_3_3_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/jar.12492"
+      },
+      {
+        "key": "e_1_3_3_34_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1352/1934-9556-47.6.413"
+      },
+      {
+        "key": "e_1_3_3_35_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jvb.2018.07.004"
+      },
+      {
+        "key": "e_1_3_3_36_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-2007-00358"
+      },
+      {
+        "key": "e_1_3_3_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-150780"
+      },
+      {
+        "key": "e_1_3_3_38_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10926-019-09837-2"
+      },
+      {
+        "key": "e_1_3_3_39_1",
+        "unstructured": "Panzano P. C. Baird P. Seffrin B. (2002). Examining the value of the job characteristics model for improving the experience of work and work-related outcomes for adults with severe and persistent mental illness. In D. Roth & W. J. Lutz (Eds.) New Research in Mental Health 2002–2003 Biennium (Vol. 16 pp. 85–92). http://dssincorporated.com/Research/JobDesign/062304%20Job%20Tax%20research%20findings%20update%20for%20NRMH%20v%2016.doc."
+      },
+      {
+        "key": "e_1_3_3_40_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S2045796017000786"
+      },
+      {
+        "key": "e_1_3_3_41_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/00380261231199889"
+      },
+      {
+        "key": "e_1_3_3_42_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.hrmr.2017.07.003"
+      },
+      {
+        "key": "e_1_3_3_43_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/WOR-172674"
+      },
+      {
+        "issue": "011867",
+        "key": "e_1_3_3_44_1",
+        "article-title": "Interventions for obtaining and maintaining employment in adults with severe mental illness, a network meta-analysis",
+        "volume": "9",
+        "author": "Suijkerbuijk Y. B.",
+        "year": "2017",
+        "unstructured": "Suijkerbuijk Y. B., Schaafsma F. G., van Mechelen J. C., Ojajärvi A., Corbière M., Anema J. R. (2017). Interventions for obtaining and maintaining employment in adults with severe mental illness, a network meta-analysis. The Cochrane database of systematic reviews, 9(CD011867). https://doi.org/10.1002/14651858.CD011867.pub2",
+        "journal-title": "The Cochrane database of systematic reviews"
+      },
+      {
+        "key": "e_1_3_3_45_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-201130"
+      },
+      {
+        "key": "e_1_3_3_46_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-221225"
+      },
+      {
+        "key": "e_1_3_3_47_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/intqhc/mzm042"
+      },
+      {
+        "key": "e_1_3_3_48_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10926-021-09998-z"
+      },
+      {
+        "key": "e_1_3_3_49_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/jar.12802"
+      },
+      {
+        "key": "e_1_3_3_50_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.hrmr.2007.09.001"
+      },
+      {
+        "key": "e_1_3_3_51_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1046/j.1365-2788.2001.00342.x"
+      },
+      {
+        "key": "e_1_3_3_52_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/str0000141"
+      }
+    ],
+    "container-title": [
+      "Journal of Vocational Rehabilitation"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/10522263251376309",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/10522263251376309",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/10522263251376309",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          21
+        ]
+      ],
+      "date-time": "2025-10-21T11:41:38Z",
+      "timestamp": 1761046898000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/10.1177/10522263251376309"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          8
+        ]
+      ]
+    },
+    "references-count": 51,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            11
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1177/10522263251376309"
+    ],
+    "URL": "https://doi.org/10.1177/10522263251376309",
+    "relation": {},
+    "ISSN": [
+      "1052-2263",
+      "1878-6316"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "1052-2263"
+      },
+      {
+        "type": "electronic",
+        "value": "1878-6316"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          8
+        ]
+      ]
+    }
+  }
+}

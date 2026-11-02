@@ -1,0 +1,546 @@
+FILENAME: aaa312b16eba-pep19-02-00-002.pdf
+PATH: _raw/tacqe.com/aaa312b16eba-pep19-02-00-002.pdf
+
+• 
+ • 
+ • 
+ • 
+ • 
+       
+       
+  
+ 
+ 
+   
+ADVISORY  
+Mental and Substance Use Disorder Treatment for 
+People With Physical and Cognitive Disabilities 
+This Advisory highlights how mental and substance use disorder treatment programs can better serve 
+people with physical and cognitive disabilities and substance use disorders (SUDs) and/or serious mental 
+illness (SMI). The most current prevalence data (2016), an estimated 61.4 million noninstitutionalized 
+U.S. adults had one or more disabilities.1 SMI and co-occurring substance use disorder SUDs are 
+generally considered disabilities under federal disability rights laws. This publication is not intended to 
+provide guidance on complying with federal, state, or local disability rights laws. This advisory includes 
+some recommendations that are required, may be required or may exceed the requirements of the 
+federal, state, or local disability rights laws.  
+Key  Messages  
+People with  physical and cognitive  disabilities have a higher prevalence of  SMI and  SUD, as well as lower 
+treatment rates  for both conditions  than  do people without these  disabilities.  
+Mental and substance use disorder treatment providers  may  underestimate the  barriers of  accessibility  to 
+their programs  for  people with physical or cognitive disabilities,  or  they  may  have specific  exclusion  
+criteria for  some  people with  disabilities.  
+Physical and cognitive  disabilities  are not  always  obvious. lients with such “invisible” disabilities  may  
+receive  services  that  do not  meet  their mental and substance use disorder treatment needs.  
+Behaviors associated  with  some  cognitive  disabilities  may falsely be  mistaken for willful nonadherence or 
+lack of motivation.  
+Providers should  inform  each  client of the  program’s ability to meet a range of access needs—and  should  
+act on access requests—to help ensure that  clients  with disabilities get the most out of their  mental and  
+substance use disorder treatment.  
+Some people with physical and cognitive disabilities may have different mental illness and/or 
+substance misuse presentations compared to those without disabilities; providers should develop 
+expertise in understanding best practices for this population 
+1
+
+Summary of Advisory Action Steps 
+Have you or your program: 
+•	 Conducted and begun acting on a client pathway analysis? 
+•	 Reviewed the recommended resources for improving accessibility? 
+•	 Trained staff to inform all clients at first contact and at the intake/assessment interview about your 
+program’s ability to meet a range of access needs, and then to provide information on how to make 
+access requests? 
+•	 Trained staff on how to act on access requests? 
+•	 Begun offering clients voluntary cognitive screening during the intake/assessment interview? 
+•	 Followed suggested tips on group and individual SUD and SMI counseling for clients with physical or 
+cognitive disabilities? 
+•	 Learned about the accessibility efforts of local peer recovery support groups? 
+Some people with physical or cognitive  disabilities may  begin  misusing  substances to cope with chronic 
+pain, social isolation, stigma related to their disabilities, or  physical  or sexual abuse  or other trauma.2,3,4 
+Other SUD risk factors in this population include impulsivity and unemployment.5,6,7,8,9 In other cases, 
+preexisting substance misuse has contributed to an accident that caused the individual’s disability.10,11 
+Definitions of “disability” and types of disabilities vary widely. For purposes of this Advisory, the term 
+“physical disabilities” includes motor, medical, and sensory disabilities, and the term “cognitive 
+disabilities” includes intellectual and developmental disabilities, although developmental disabilities 
+may be cognitive, physical, or both.12 For brief descriptions of motor, sensory, cognitive, intellectual, 
+and developmental disabilities, see www.nln.org/docs/default-source/professional-development­
+programs/ace-series/definitions-related-to-disability-7-20-17.pdf?sfvrsn=6. For examples of medical 
+disabilities, see https://supportservices.jobcorps.gov/disability/Pages/Common-Disabilities-and­
+Related%20Accommodation-Resources.aspx. For the Americans with Disabilities Act (ADA) definition 
+of disability, see www.ada.gov/ada_intro.htm. 
+Although barriers to mental disorders and SUD treatment engagement for people with physical or 
+cognitive disabilities may be social, environmental, economic, or psychological,13 some barriers relate to 
+treatment facilities. Examples include:14,15,16 
+•	 Inaccessible parking, entrances, and interior spaces. 
+•	 Policies that exclude people with disabilities, such as a requirement that clients be able to 
+evacuate a facility unassisted in an emergency. 
+•	 SUD counseling that isn’t adapted for people with cognitive disabilities. 
+•	 No materials in Braille or other alternative formats (e.g., large print, electronic format) for 
+people who are blind or visually impaired. 
+•	 Lack of staff training on technologies for communicating with people who are deaf. 
+Disability departments stating that individuals with SMI do not fall within their jurisdiction, and 
+mental health departments stating that individuals with disabilities do not fall within theirs 
+Note that some treatment providers may overestimate the accessibility of their facilities and 
+services,17,18 or be unaware of the wide range of disabilities that exist and ways to accommodate them. 
+2
+
+Client Pathway Analysis for Mental and SUD Treatment Settings 
+Conducting and acting on client pathway analysis can make your program more accessible to people 
+with physical and cognitive disabilities (and other clients too).19 It can also help your program more fully 
+comply with disability rights laws requiring, except in certain circumstances, that people with disabilities 
+have an equal opportunity to participate in and benefit from your services. 
+The analysis should include ensuring people with disabilities have physical, communication, and 
+programmatic accessibility.20 First, evaluate the physical access of the facility, while doing so assess the 
+physical accessibility, furnishings, and signage from the perspective of clients with disabilities, especially 
+physical disabilities. Second, analysis the operations and policies of the program. C onsider how clients 
+with disabilities, especially sensory or cognitive disabilities, would maneuver through the different 
+stages, processes, and content of the program. A review of the policies on eligibility criteria and the 
+application process should also be included in the analysis. 
+You should involve people with disabilities and disability organizations in the analysis. A local Center for 
+Independent Living (CIL) is a good starting point for making these connections. See 
+www.ilru.org/projects/cil-net/cil-center-and-association-directory for links to CILs. For more on the 
+analysis process, see pages 84–85 in Renewing the Commitment: An ADA Compliance Guide for 
+Nonprofits at https://cct.org/wp-content/uploads/2015/08/2015ADAComplianceGuide.pdf. (The basic 
+process can be used by any type of SUD treatment facility, not just nonprofit ones.) The NIATx walk-
+through guide (https://niatx.net/Content/ContentPage.aspx?NID=146), although not disability specific, 
+also offers some useful ideas. See also the resources listed in the next section. 
+In addition, programs should review any exclusionary policies that exist.  For example, a number of 
+mental and substance use disorder providers do not provide services for those with individuals with 
+autistic disorder.  With training, staff may be able to meet the needs of such individuals. 
+Resources for Improving Accessibility 
+ADA.gov is the go-to federal website for information on ADA accessibility requirements, including 
+materials explaining the 2010 changes to ADA regulations. See in particular the guidance on: 
+•	 Effective communication requirements (for providing alternative methods of communicating, 
+like Braille materials and qualified sign language interpretation) and the limitations on these 
+requirements (www.ada.gov/effective-comm.htm). 
+3
+
+•	 Service animals 
+(www.ada.gov/service_animals_2010.htm).
+ 
+The 10 regional centers of the Department of Health and 
+Human Services-funded ADA National Network provide 
+free, confidential answers to questions on accessibility 
+requirements of the ADA and associated laws 
+(https://adata.org). They can also provide specific 
+trainings by request. You can reach your region’s ADA 
+Center at 1-800-949-4232 or www.adata.org/email. Two 
+helpful network resources are: 
+•	 The ADA Title II Action Guide for State and Local 
+Governments website 
+(www.adaactionguide.org).
+ 
+•	 The ADA Checklist for Existing Facilities (https://adachecklist.org/checklist.html). 
+Creating a treatment environment that is welcoming and understanding of people with disabilities is one 
+of the most important accessibility measures you can take.21,22 Start by: 
+•	 Taking the free Disability Implicit Attitudes Test (available online through 
+https://implicit.harvard.edu/implicit/takeatest.html) or a similar measure to assess your 
+attitudes toward people with disabilities. Encourage other staff to assess their attitudes too. 
+•	 Reviewing online resources listed at https://disabilityinpublichealth.org/communication-with­
+people-with-disabilities-resources for tips on interacting with people with disabilities. 
+•	 Improving your knowledge of specific disabilities with information at https://askjan.org/a-to­
+z.cfm. 
+Admissions and Intake 
+Clients with physical and cognitive disabilities may not know about mental disorder and SUD treatment 
+provider’s ability—and often, legal responsibility—to meet their physical, communication, or 
+programmatic access needs. In these instances, clients with a disability may not request 
+accommodations for their disability.  Starting at intake, programs should identify and provide the 
+appropriate adaptive services to support clients’ with disabilities and other unique needs, make sure 
+that:23,24,25 
+•	 Staff who interact with clients know that some disabilities aren’t obvious. (See 
+https://naric.com/?q=en/node/88 for examples.) 
+•	 Frontline staff inform all potential clients at first contact that the program can meet a range of 
+access needs throughout the admission, intake, and treatment process. 
+•	 Frontline staff give potential clients examples of how access needs are met, explain how to 
+make access requests, and act on these requests according to program procedures. 
+4
+
+•	 Staff conducting intake/assessment interviews remind 
+new clients that the program can meet a range of access 
+needs, then give examples, explain how to make access 
+requests, and act on these requests according to program 
+procedures. 
+•	 Intake/assessment interviews include voluntary brief 
+cognitive screening, unless cognitive impairment is 
+already documented (see “Why Offer Cognitive Screening 
+During Intake/Assessment?”). 
+If a client requires accessibility supports to participate in your 
+treatment program, ensure all staff are aware of the clients’
+	
+physical or cognitive disability. Ensure the accessibility support (s) are provided at each treatment 
+encounter.
+ 
+A person with a history of a opioid use disorder (OUD) is generally considered a disability under 
+federal disability rights laws. A person, current OUD and is seeking treatment, is exempt from the 
+ADA disability right laws in some instances. OUD treatment programs should contact the ADA for 
+additional guidance case-by-case. ADA protections do apply for Individuals with SMI. Treatment 
+programs may be in violation of applicable laws if their admissions policies exclude people taking 
+Food and Drug Administration-approved medications for OUD as prescribed.26 (Some medications 
+should not be administered simultaneously with OUD medications. See the Substance Abuse and 
+Mental Health Services !dministration’s [SAMHSA] Treatment Improvement Protocol [TIP] 63, 
+Medications for Opioid Use Disorder, at https://store.samhsa.gov/product/TIP-63-Medications-for­
+Opioid-Use-Disorder-Full-Document-Including-Executive-Summary-and-Parts-1-5-/SMA18­
+5063FULLDOC.) 
+5
+
+Why Offer Cognitive Screening During Intake/Assessment? 
+People with traumatic brain injury (TBI), fetal alcohol spectrum disorder, intellectual disability, autism 
+and other conditions that affect cognition make up a significant share of the SUD population, as well 
+as populations receiving mental health services.27,28,29,30,31 New clients won’t always know or say 
+whether they have cognitive problems, and such impairment isn’t always obvious or documented. Yet 
+treatment can be more effective if providers are aware of these problems, because clients with 
+cognitive impairment may:32,33,34,35,36 
+•	 Need adaptations to group and individual mental or SUD
+ 
+counseling, and other services (see “Treatment
+	
+Approaches” below).
+	
+•	 Need appointment and activity reminders (e.g., calls;
+ 
+alarms, apps, or tasks set up on smartphones).
+ 
+•	 Behave in ways that could be mistaken for willful non-
+adherence or poor motivation. For example, reduced 
+stamina may come across as laziness; impaired judgement
+ 
+as rebelliousness; memory problems as lack of motivation.
+ 
+•	 Need simplified handouts and forms. 
+•	 Say they understand more than they really do. 
+Before administering a cognitive screen, make clear to the client 
+that taking it is voluntary. Also, explain to the client that the purpose of the screening is to help make 
+sure that treatment meets his or her needs. 
+One brief cognitive screen validated for people with SUDs is the Montreal Cognitive Assessment 
+(MoCA), available for free for clinical use at www.mocatest.org. The MoCA requires provider training 
+and certification.  The MoCA can be administer by a diverse discipline of trained and certified 
+37,38clinicians.  . 
+Drug–Drug Interactions 
+Keep in mind the potential for dangerous interactions between medications used to treat mental 
+disorders and SUDs, and other medications that people with physical and cognitive disabilities may be 
+prescribed. For example, anticonvulsant medications—which people with TBI or developmental 
+disabilities may take40,41—can interact with methadone.42 
+Treatment Approaches
+ 
+Special Considerations: People living with an Intellectual Disability 
+People living with an intellectual disability have deficits in over-all mental capacities, such as 
+reasoning, problem solving, planning, abstract thinking, judgement, academic learning, and 
+learning from experience (American Psychiatric Association: Diagnostic and Statistical Manual of 
+Mental Disorders, Fifth Edition. Arlington, VA, American Psychiatric Association, 2013, p. 31.) 
+When developing a plan of care and selecting a treatment approach, practitioners should take into 
+consideration the special needs of people with intellectual disabilities. 
+6
+
+Some General Principles 
+Individualized planning and care. Keep in mind that each client with a physical or cognitive disability is 
+unique, with different treatment and access needs. 
+Trauma-informed care. Providing trauma-informed care is especially important when working with 
+clients with disabilities. Many people with disabilities have experienced physical or sexual abuse or other 
+trauma.43,44 See SAMHSA’s TIP 57, Trauma-Informed Care in Behavioral Health Services, at 
+https://store.samhsa.gov/product/TIP-57-Trauma-Informed-Care-in-Behavioral-Health-Services/SMA14­
+4816. 
+Integrated or specialized services. The ADA provides for individuals with disabilities to receive services in 
+the most integrated setting appropriate to their needs. Separate programs are permitted if necessary to 
+ensure equal opportunity, but individuals with disabilities may, with some exceptions, still choose the 
+“regular” program. You should understand the ADA regulations on integrated and separate settings (see 
+www.ada.gov/2010_regs.htm). 
+Pain. Providers should consider providing pain-coping strategies as part of mental and SUD treatment 
+for clients with disabilities and pain issues (see S!MHS!’s TIP 54, Managing Chronic Pain in Adults With 
+or in Recovery From Substance Use Disorders, at https://store.samhsa.gov/product/TIP-54-Managing­
+Chronic-Pain-in-Adults-With-or-in-Recovery-From-Substance-Use-Disorders/SMA13-4671). Many adults 
+with disabilities experience persistent pain, which contributes to the relatively high risk of prescription 
+45,46opioid misuse and heroin use among this population. 
+Promising Approach to Serving Clients With Developmental Disabilities 
+In 2012, Alta California Regional Center (ACRC), a Sacramento-based nonprofit that serves individuals 
+with developmental, including intellectual, disabilities, began helping area SUD treatment 
+professionals better identify and work with such individuals. This collaboration, launched with state 
+grant funds, in part involved: 
+•	 Developing a brief questionnaire that SUD treatment staff could use to screen clients for 
+developmental disabilities.
+ 
+•	 Convening a joint task force of SUD treatment and developmental disabilities professionals to 
+develop training materials. 
+•	 Cross-training SUD treatment personnel on working with individuals with developmental
+ 
+disabilities.
+ 
+•	 Making SUD treatment staff aware of the support services available through ACRC to clients
+ 
+with developmental disabilities.
+ 
+•	 Cross-training ACRC staff on working with clients with developmental disabilities and SUDs. 
+For information on this project, see www.altaregional.org/post/mhsa-substance-abuse-reduction­
+training-project. To connect with the developmental disabilities agencies for your clients’ 
+communities, find your state agency website at www.nasddds.org/state-agencies and check it for 
+contact information. State developmental disabilities services vary significantly across the country but 
+can include adult day programs, employment or housing support, and transportation assistance.47 
+7
+
+Selected Tips on SUD Counseling for People With Cognitive Disabilities 
+Limited evidence-based guidance exists on working with people with cognitive disabilities in SUD 
+counseling settings.48,49 The suggestions below draw mainly on clinical experience. 
+For groups composed of one or more individuals with cognitive disabilities:50,51,52,53,54,55,56,57,58 
+•	 Minimize noise and visual distractions. 
+•	 When permissible and appropriate, supplement the client’s report with input from family 
+members or caregivers (with the client’s consent) on the client’s strengths and preferred 
+learning style. 
+•	 Go over group rules, including confidentiality, at each session. 
+•	 Sum up the previous session. 
+•	 Repeat important questions and points. 
+•	 If needed, give the individual(s) with a cognitive disability a short break. 
+•	 Convey key ideas visually. 
+•	 Incorporate role-playing and skills practice (e.g., refusal skills, deep diaphragmatic breathing). 
+•	 After sessions, see whether clients with cognitive disabilities understood key points by asking 
+them, one on one, questions that cannot be answered simply “yes” or “no.” 
+In individual SUD counseling:59,60,61 
+•	 Emphasize concrete action steps and healthy routines instead of abstract concepts. 
+•	 Consider having more frequent but shorter sessions. 
+•	 Minimize distractions, repeat important information, take a short break when needed, convey 
+key ideas visually, use role-playing, get family and caregiver input when permissible and 
+appropriate (with client consent), incorporate skills practice, and check for understanding. 
+For more on these and other strategies, see the cited sources for this section. 
+Home visits or online SUD counseling may be good options for individuals with disabilities who cannot 
+participate in your program in person for reasons related to their disabilities. 
+Selected Tips on SUD Counseling for People With Physical Disabilities 
+Suggestions are:62,63,64,65,66 
+•	 Incorporating role-playing and storytelling when working with clients who are deaf. 
+•	 For a group member who uses a sign language interpreter, reminding other group members to 
+take turns speaking and to address the member who is deaf, not the interpreter. 
+•	 If a group member is blind, reminding other group members to let him or her know when they 
+join or leave the meeting. 
+•	 If a group member with a physical disability cannot sit for long periods of time, arranging for 
+brief breaks in the meeting. 
+•	 Keeping in mind when scheduling appointments that some individuals with physical disabilities 
+have limited transportation options or require a significant amount of time in the morning for 
+hygiene and dressing routines. 
+8
+
+-     
+ 
+    
+  
+ 
+ -       
+ 
+     
+  
+  
+         
+ 
+ 
+ 
+ 
+ 
+   
+  
+Selected Tips on Adapting Mental Disorder treatments for people with cognitive disabilities: 
+A number of professional organizations have developed best practices for the population of individuals 
+with mental illness and cognitive disabilities. 
+The Mental Health and Developmental Disabilities National Training Center (MHDD-NTC)., supported by 
+the Administration for Community Living, has been funded and provides technical assistance in the form 
+of webinars, fact sheets, and other curricula to support care for this population. 
+The Mental Health Technology Transfer Center (MHTTC), supported by the Substance Abuse Mental 
+Health Services Administration, has resources specific to individuals with mental health and co-occurring 
+cognitive disabilities. 
+Innovative Approaches to Serving Clients With Cognitive Disabilities 
+The nonprofit Vinland National Center in Minnesota provides specialized residential and outpatient 
+SUD treatment services for adults with cognitive impairments. Two promising practices used at 
+Vinland that other providers can potentially replicate are:67,68 
+•	 An adaptation—by Vinland and the Center for Spirituality and Healing at the University of  
+Minnesota—of the  evidenced-based  Mindfulness-Based Stress Reduction  program.  
+Vinland’s adapted program for clients with SUD and cognitive impairment addresses such 
+challenges as low frustration tolerance, depression, and impulsivity. 
+•	 Group work that follows the evidence-based Illness Management and Recovery (IMR) model, 
+originally developed for people with severe mental illness (see 
+https://store.samhsa.gov/product/Illness-Management-and-Recovery-Evidence-Based­
+Practices-EBP-KIT/sma09-4463). 
+Vinland’s adapted group work approach includes problem solving, coping with stress, and 
+goal setting.* 
+Peer Recovery Support Groups and People With Disabilities 
+Your clients with physical and cognitive disabilities can face physical, attitudinal, communication, and 
+cognitive barriers to participating in peer recovery support, or mutual-help, groups. These suggestions 
+and resources will help you assist these clients in participating in such groups: 
+• Some Alcoholics Anonymous (AA) areas and districts now have accessibility  committees  (also  
+called special needs committees) that  work  to  meet participants’ access needs by, for example,  
+providing  Braille materials, wheelchair  ramps, sign  language interpretation,  or  easy-to-read  
+literature. 69  Call or check the websites  of  your local  AA area and districts to learn  about their 
+accessibility  efforts.  (See www.aa.org for a locator.)  
+• You can find a list of online  AA meetings for people who  are  deaf or hard  of hearing  at  www.aa­
+intergroup.org/directory_dhoh.php. 
+* You can download a free manual on Enhanced IMR (E-IMR) for people with mental and substance use disorders 
+from http://mncamh.umn.edu/e-imr. E-IMR incorporates IMR and Integrated Dual Disorder Treatment. 
+9
+
+•	 Clients with or without disabilities who take OUD medications or other medications with abuse 
+potential may feel uncomfortable in 12-Step meetings where some members believe in total 
+abstinence. 
+•	 You can help prepare a client with a cognitive disability to attend 12-Step meetings by explaining 
+what happens at them in simple terms beforehand.70 
+•	 While there is little specific research identifying the effectiveness of peers to improve 
+outcomes in individuals with cognitive disabilities and mental health concerns, peers are 
+likely to be helpful in supporting individuals in engagement and service navigation. 
+•	 The organization SMART Recovery supports appropriate use of prescribed medications.71 Find 
+local and online meetings at www.smartrecoverytest.org/local. 
+The Center for START Services has a certified program model (START Model) that 
+supports programs who are interested in improving the lives of individuals with 
+intellectual developmental disabilities and behavioral health needs.  START is embodies 
+a comprehensive, system linkage approach, to improve the program capacity to service 
+individuals with special needs.  https://www.centerforstartservices.org/ 
+Notes 
+1	 Okoro, C. A., Hollis, N. D., Cyrus, A. C., & Griffin-Blake, S. (2018). Prevalence of disabilities and health care 
+access by disability status and type among adults—United States, 2016. Morbidity and Mortality Weekly Report, 
+67(32), 882–887. 
+2	 Brooks, G. I., DiNitto, D. M., Schaller, J., & Choi, N. G. (2014). Correlates of substance dependence among 
+people with visual impairments. Journal of Visual Impairment and Blindness, 108(5), 428–433. 
+3	 Substance Abuse and Mental Health Services Administration. (2011). Substance use disorders in people with 
+physical and sensory disabilities. In Brief, Vol. 6, Issue 1. 
+4	 Taggart, L., & Chaplin, E. (2014). Substance misuse. In J. L. Matson (Series Ed.), E. Tsakanikos & J. McCarthy (Vol. 
+Eds.), Autism and Child Psychopathology Series: Handbook of psychopathology in intellectual disability: 
+Research, practice, and policy (pp. 205–223). New York, NY: Springer. 
+5	 Brooks et al. (2014). 
+6	 Substance Abuse and Mental Health Services Administration. (2011). 
+7	 Hammink, A. B., VanDerNagel, J., & van de Mheen, D. (2015). Dual disorders: Mild intellectual disability and 
+substance abuse. In G. Dom & F. Moggi (Eds.), Co-occurring addictive and psychiatric disorders: A practice-based 
+handbook from a European perspective (pp. 205–220). Berlin, Germany: Springer. 
+8	 Taggart & Chaplin. (2014). 
+9	 DiNitto, D. M., & Webb, D. K. (2012). Substance use disorders and co -occurring disabilities. In C. A. McNeece & 
+D. M. DiNitto (Eds.), Chemical dependency: A systems approach (4th ed., pp. 354–406). Boston, MA: Pearson. 
+10 Glazier, R. E., & Kling, R. N. (2013). Recent trends in substance abuse among persons with disabilities compared 
+to that of persons without disabilities. Disability and Health Journal, 6, 107–115. 
+11 Ebener, D. J., & Smedema, S. M. (2011). Physical disability and substance use disorders: A convergence of 
+adaptation and recovery. Rehabilitation Counseling Bulletin, 54(3), 131–141. 
+12	 American Association on Intellectual and Developmental Disabilities. (n.d.). Frequently asked questions on 
+intellectual disability. Retrieved June 3, 2019, from https://aaidd.org/intellectual-disability/definition/faqs-on­
+intellectual-disability 
+13	 Novotna et al. (2017). 
+10
+
+14	 Novotna et al. (2017). 
+15	 National Institute on Disability, Independent Living, and Rehabilitation Research. (2018). Summary of responses 
+from a Request for Information: People with disabilities and opioid use disorder. Retrieved June 3, 2019, 
+through https://acl.gov/news-and-events/announcements/summary-responses-request-information-people­
+disabilities-and-opioid 
+16	 Decker, J. W. (2016). Substance abuse in people with intellectual disabilities [PowerPoint slides]. Retrieved June 
+3, 2019, from www.uscucedd.org/component/jdownloads/send/18-dual-diagnosis-conference/156-slides­
+substance-abuse-in-people-with-intellectual-disabilities 
+17	 Novotna et al. (2017). 
+18	 West, S. L. (2007). The accessibility of substance abuse treatment facilities in the United States for persons with 
+disabilities. Journal of Substance Abuse Treatment, 33(1), 1–5. 
+19	 Bowen, I. (2015). Renewing the commitment: An ADA compliance guide for nonprofits. Chicago, IL: Chicago 
+Community Trust. 
+20	 Bowen. (2015). 
+21	 Novotna et al. (2017). 
+22	 Moore, D., & Lorber, C. (2005). Clinical characteristics and staff training needs of two substance use disorder 
+treatment programs specialized for persons with disabilities. Journal of Teaching in the Addictions, 3(1), 3–20. 
+23	 Grant, T., Novick Brown, N., Graham, J., & Ernst, C. (2014). Substance abuse treatment outcomes in women 
+with fetal alcohol spectrum disorder. International Journal of Alcohol and Drug Research, 3(1), 43–49. 
+24	 Sacks, !. L., Fenske, . L., Gordon, W. !., Hibbard, M. R., Perez, K., randau, S., / Spielman, L. !. (2009). Co-
+morbidity of substance abuse and traumatic brain injury. Journal of Dual Diagnosis, 5(3–4), 404–417. 
+25	 Marceau, E. M., Lunn, J., Berry, J., Kelly, P. J., & Solowij, N. (2016). The Montreal Cognitive Assessment (MoCA) 
+is sensitive to head injury and cognitive impairment in a residential alcohol and other drug therapeutic 
+community. Journal of Substance Abuse Treatment, 66, 30–36. 
+26	 Substance Abuse and Mental Health Services Administration. (2009). Know your rights: Rights for individuals on 
+medication-assisted treatment. HHS Publication No. (SMA) 09-4449. Rockville, MD: Center for Substance Abuse 
+Treatment, Substance Abuse and Mental Health Services Administration. 
+27	 Grant, T. M., Brown, N. N., Graham, J. C., Whitney, N., Dubovsky, D., & Nelson, L. (2013). Screening in treatment 
+programs for fetal alcohol spectrum disorders that could affect therapeutic progress. International Journal of 
+Alcohol and Drug Research, 2(3), 37–49. 
+28	 Sacks et al. (2009). 
+29	 Grant et al. (2014). 
+30	 Aharonovich, E., Hasin, D. S., Nunes, E. V., Stohl, M., Cannizzaro, D., Sarvet, A., ... Genece, K. G. (2018). Modified 
+cognitive behavioral therapy (M-CBT) for cocaine dependence: Development of treatment for cognitively 
+impaired users and results from a Stage 1 trial. Psychology of Addictive Behaviors, 32(7), 800–811. 
+31	 Allan, J., Collings, S., & Munro, A. (2019). The process of change for people with cognitive impairment in a 
+residential rehabilitation program for substance problems: a phenomenographical analysis. Substance Abuse 
+Treatment, Prevention, and Policy, 14(1), 1–11. doi:10.1186/s13011-019-0200-y 
+32	 Novotna et al. (2017). 
+33	 Taggart & Chaplin. (2014). 
+34	 Bauman, S., & Shaw, L. R. (2016). Group work with persons with disabilities. Alexandria, VA: American 
+Counseling Association. 
+35	 Pearson, A. (2016). Addressing the challenges: Brain injury and substance use disorders [PowerPoint slides]. 
+Retrieved June 3, 2019, from 
+www.naadac.org/assets/2416/annette_pearson_addressing_the_challenges_ac16.pdf 
+36	 Network of Alcohol and Drug Agencies. (2013). Complex needs capable: A practice resource for drug and alcohol 
+services. Sydney, Australia: Author. 
+37	 Marceau et al. (2016). 
+38	 Hagen, E., Sømhovd, M., Hesse, M., Arnevik, E. A., & Erga, A. H. (2019). Measuring cognitive impairment in 
+young adults with polysubstance use disorder with MoCA or BRIEF-A: The significance of psychiatric symptoms. 
+Journal of Substance Abuse Treatment, 97, 21–27. 
+11
+
+39	 Substance Abuse and Mental Health Services Administration. (2011). 
+40	 Hart, T., Fann, J. R., Brockway, J. A., & Maiuro, R. D. (2017). Treatment of a nger and aggression following 
+acquired brain injury. In P. Sturmey (Ed.), The Wiley handbook of violence and aggression (pp. 1–13). 
+doi:10.1002/9781119057574.whbva080 
+41	 Erickson, S. R., Nicaj, D., & Barron, S. (2018) Complexity of medication regimens of pe ople with intellectual and 
+developmental disabilities. Journal of Intellectual and Developmental Disability, 43(3), 351–361. 
+42	 Substance Abuse and Mental Health Services Administration. (2018). Medications for opioid use disorder. 
+Treatment Improvement Protocol (TIP) Series 63, Full Document. HHS Publication No. (SMA) 18 -5063FULLDOC. 
+Rockville, MD: Substance Abuse and Mental Health Services Administration. 
+43	 Carroll Chapman, S. L., & Wu, L. T. (2012). Substance abuse among individuals with intellectual disa bilities. 
+Research in Developmental Disabilities, 33(4), 1147–1156. 
+44	 Krahn, G. L., Walker, D. K., & Correa-De-Araujo, R. (2015). Persons with disabilities as an unrecognized health 
+disparity population. American Journal of Public Health, 105(Suppl. 2), S198–S206. 
+45	 National Institute on Disability, Independent Living, and Rehabilitation Research. (2018). 
+46	 Lauer, E. A., Henly, M., & Brucker, D. L. (2018). Prescription opioid behaviors among adults with and without 
+disabilities—United States, 2015–2016. Disability and Health Journal. Advance online publication. 
+doi:10.1016/j.dhjo.2018.12.001 
+47	 Larson, S. A., Eschenbacher, H. J., Anderson, L. L., Taylor, B., Pettingell, S., Hewitt, A., / Bourne, M. L. (2018). In-
+home and residential long-term supports and services for persons with intellectual or developmental 
+disabilities: Status and trends through 2016. Minneapolis, MN: University of Minnesota, Research and Training 
+Center on Community Living, Institute on Community Integration. 
+48	 Didden, R. (2017). Substance use and abuse in individuals with mild intellectual disability or borderline 
+intellectual functioning: An introduction to the special section. Research in Developmental Disabilities, 63, 95– 
+98. 
+49	 Aharonovich et al. (2018). 
+50	 Taggart & Chaplin. (2014). 
+51	 Bauman & Shaw. (2016). 
+52	 Pearson. (2016). 
+53	 Gavriel, M. (2018). ASAM 3.3 decoded: The nuts and bolts of clinically managed, population specific, high 
+intensity residential services [PowerPoint slides]. Retrieved June 3, 2019, from 
+www.cibhs.org/sites/main/files/file-attachments/asam_3.3_decoded.pptx 
+54	 Dubovsky, D. (2016). Improving outcomes in psychiatric treatment by recognizing the impact o f fetal alcohol 
+spectrum disorders and modifying approaches [PowerPoint slides]. Retrieved June 3, 2019, from 
+https://ubmm.med.buffalo.edu/uploads/MMU3/9-16­
+2016%20Buffalo%20Grand%20Rounds%20presentation%20September%2016%202016.pd f 
+55	 Decker. (2016). 
+56	 Network of Alcohol and Drug Agencies. (2013). 
+57	 SAMHSA-HRSA Center for Integrated Health Solutions. (n.d.). Relaxation response. Retrieved June 3, 2019, from 
+www.integration.samhsa.gov/health-wellness/wham/relaxation-response 
+58	 Allan et al. (2019). 
+59	 Hammink et al. (2015). 
+60	 Network of Alcohol and Drug Agencies. (2013). 
+61	 Decker. (2016). 
+62	 Ficchi, G., Shaw, L. R., & Bauman, S. (2016). Physical disabilities. In Group work with persons with disabilities 
+(pp. 169–178). Alexandria, VA: American Counseling Association. 
+63	 Guthmann, D., & Sternfeld, C. (2013). Substance abuse treatment and recovery: Adaptations to best practices 
+when working with culturally Deaf persons. In N. S. Glickman (Ed.), Deaf mental health care (pp. 234–267). New 
+York, NY: Routledge/Taylor & Francis Group. 
+64	 Ficchi, G., Shaw, L. R., & Bauman, S. (2016). 
+65	 DiNitto & Webb. (2012). 
+12
+
+66	 Artman, L. K., & Daniels, J. A. (2010). Disability and psychotherapy practice: Cultural competence and practical 
+tips. Professional Psychology: Research and Practice, 41(5), 442–448. 
+67	 Kristofersson, G. K., Beckers, T., & Krueger, R. (2016). Perceptions of an adapted mindfulness program for 
+persons experiencing substance use disorders and traumatic brain injury. Journal of Addictions Nursing, 27(4), 
+247–253. 
+68	 Krueger, R. (2017). Integrated treatment of substance use disorders and mental health and cognitive challenges 
+[PowerPoint slides]. Retrieved June 3, 2019, from http://biaw.org/wp-content/uploads/2017/04/Krueger-
+Integrated-Treatment-of-Subst-Abuse-.pdf 
+69	 Alcoholics Anonymous General Service Office. (2016). A.A. guidelines: Accessibility for all alcoholics. Retrieved 
+June 3, 2019, from www.aa.org/assets/en_US/mg-16_accessibilityforallalcoholics.pdf 
+70	 Pearson. (2016). 
+71	 SMART Recovery. (n.d.). Get started. Retrieved June 3, 2019, from www.smartrecovery.org/get-started 
+13
+
+Advisory 
+This Advisory was written and produced under contract number 270-14-0445 by the Knowledge 
+Application Program (KAP) for the Substance Abuse and Mental Health Services Administration 
+(SAMHSA), U.S. Department of Health and Human Services (HHS). Kirk E. James, M.D., served 
+as the Product Champion.
+Recommended Citation: Substance Abuse and Mental Health Services Administration. (2019). 
+Substance Use Disorder Treatment for People With Physical and Cognitive Disabilities. 
+Advisory. 
+Substance Use Disorder Treatment for People With Physical and Cognitive Disabilities Advisory 
+HHS Publication No. PEP19-02-00-002 
+Printed 2019 
+14

@@ -1,0 +1,744 @@
+FEDERAL FISCAL YEAR 2024 
+FISCAL MONITORING REPORT OF 
+IDAHO DIVISION OF VOCATIONAL 
+REHABILITATION 
+VOCATIONAL REHABILITATION 
+PROGRAM 
+U.S. Department of Education 
+Office of Special Education and 
+Rehabilitative Services 
+Rehabilitation Services Administration 
+November 20, 2024
+
+400 MARYLAND AVE. S.W., WASHINGTON, DC 20202-2600 
+www.ed.gov 
+The Department of Education’s mission is to promote student achievement and preparation for global competitiveness 
+by fostering educational excellence and ensuring equal access. 
+U
+NITED STATES DEPARTMENT OF EDUCATION 
+OFFICE OF SPECIAL EDUCATION AND REHABILITATIVE SERVICES 
+REHABILITATION SERVICES ADMINISTRATION 
+COMMISSIONER 
+N
+ovember 4, 2024 
+Judy Taylor  
+Interim Administrator 
+Idaho Division of Vocational Rehabilitation 
+650 West State St., Suite 150 
+Boise, ID 83720 
+R
+e: Transmitting FFY 2024 Offsite Review Report; Identifying Additional Fiscal Concerns 
+D
+ear Judy Taylor: 
+T
+he purpose of this letter is to transmit the attached Federal fiscal year (FFY) 2024 Offsite 
+Review Report, “Focus Area: Allocation and Expenditure of State Vocational Rehabilitation 
+Services Program Funds,” and to share additional fiscal concerns the Rehabilitation Services 
+Administration (RSA) has noted since conducting the offsite review in August 2024. 
+Specifically, while working with the Idaho Division of Vocational Rehabilitation (IDVR) to 
+implement the agency’s route payment process, RSA found that IDVR lacks internal controls to 
+ensure amounts paid under the Vocational Rehabilitation (VR) program satisfy the requirements 
+under title I of the Rehabilitation Act of 1973 (Rehabilitation Act), 34 C.F.R. part 361, and 2 
+C.F.R. part 200. Specifically, IDVR submitted numerous invoices to RSA for reimbursement for
+unallowable costs or for services that were outside the period of performance for which the
+agency had no Federal funds remaining to make drawdowns.
+I
+n the attached FFY 2024 Offsite Review Report, RSA describes the significant internal control 
+failures that resulted in IDVR substantially over-obligating FFYs 2023 and 2024 VR program 
+funds which nearly resulted in IDVR shutting down in September 2024. To address these 
+concerns at that time, RSA placed IDVR on “route payment status” for purposes of receipt of 
+Federal VR program funds. These same internal control failures are at the root of the continued 
+fiscal concerns that RSA discovered in October 2024 when IDVR submitted invoices for 
+reimbursement.  
+I
+n one recent submission for reimbursement, IDVR submitted 409 PDF documents totaling more 
+than $3 million in VR program costs that had been paid by IDVR and for which the agency 
+requested reimbursement from its FFY 2024 carryover or FFY 2025 grant funds. Prior to 
+submitting the invoices, IDVR did not ensure the costs were allowable, from the proper period of 
+performance, or accompanied by appropriate supporting documentation to validate the 
+allowability of costs. For example, RSA found that IDVR was seeking reimbursement for costs 
+incurred during the period of performance for the FFY 2023 VR grant award even though IDVR 
+has no FFY 2023 VR grant funds remaining for reimbursement. Additionally, some invoices 
+lacked the information required to determine which VR consumers were served and what
+
+Page 2 – Taylor 
+services were provided. 
+In t
+he above examples, as well as others not identified herein, IDVR paid the costs with non-
+Federal funds without first ensuring compliance with the Federal financial management and 
+internal control requirements governing all Federal grantees. RSA highlights these examples in 
+this cover letter because they are consistent with those described in the attached Offsite Review 
+Report and which led RSA to designate IDVR as a high risk grantee and place its VR grant on 
+route payment status in FFYs 2024 and 2025. Therefore, RSA expects that IDVR will address 
+these additional fiscal concerns when it develops its corrective action plan in response to the 
+Offsite Review Report. 
+RS
+A will continue to work with IDVR to address these ongoing issues. If you have any 
+questions, please contact David Steele, RSA Fiscal Unit Chief, at David.Steele@ed.gov or 202-
+245-6358.
+Tha
+nk you for your continued efforts to bring IDVR into compliance with Federal requirements 
+and your commitment to assisting individuals with disabilities achieve competitive integrated 
+employment. 
+Si
+ncerely, 
+Dan
+té Q. Allen 
+/s/
+
+3 
+FOCUS AREA – ALLOCATION AND EXPENDITURE OF STATE VOCATIONAL 
+REHABILITATION SERVICES PROGRAM FUNDS  
+ 
+A. Introduction  
+ 
+In August 2024, the Rehabilitation Services Administration (RSA) conducted a targeted off-site review 
+of the Idaho Division of Vocational Rehabilitation’s (IDVR) fiscal administration of the State 
+Vocational Rehabilitation Services (VR) program. RSA’s continued concerns with IDVR’s fiscal 
+administration of the VR program since the designation of the State as a high-risk grantee for purposes 
+of the VR program and the imposition of specific conditions on May 3, 2024, necessitated the offsite 
+review.  
+ 
+During the offsite review, RSA assessed IDVR’s fiscal accountability of the VR program to ensure that: 
+obligations are incurred, and expenditures are paid within the proper period of performance for each 
+grant award; funds are used only for intended purposes; the State is satisfying its match and maintenance 
+of effort (MOE) requirements under the VR program; and the agency has internal controls and reporting 
+systems that satisfy Federal requirements. RSA conducted the offsite review through videoconference 
+calls conducted between August 1 and August 8, 2024. The reviews were conducted in accordance with 
+the Federal fiscal year (FFY) 2024 Monitoring and Technical Assistance Guide (MTAG) and with the 
+requirements of section 107 of the Rehabilitation Act of 1973 (Rehabilitation Act). IDVR was provided 
+a copy of the draft report in accordance with the MTAG. IDVR accepted the draft report without 
+comment.  
+ 
+This report consists of the following sections: Part B: Background Facts Necessitating the Offsite 
+Review; Part C: Overview of the Offsite Review; Part D: Analysis of Findings; Part E: Corrective 
+Actions; and Part F: Conclusion.  
+ 
+B. Background Facts Necessitating the Offsite Review  
+ 
+On May 3, 2024, RSA issued a letter to IDVR designating the agency a high-risk grantee for purposes of 
+the VR program, in accordance with 2 C.F.R. § 3474.10, and imposing specific conditions on the 
+agency’s FFY 2024 VR award in accordance with 2 C.F.R. § 200.208. These actions were necessitated 
+by RSA’s significant concerns regarding the current ability of IDVR to ensure appropriate financial 
+accountability of the Idaho VR program in accordance with Federal requirements in title I of the 
+Rehabilitation Act and 34 C.F.R. part 361, as well as those applicable to all Federal grantees in 2 C.F.R. 
+part 200. RSA designated IDVR a high-risk grantee and imposed specific conditions because the agency 
+had failed to implement a financial and data management system that meets Federal requirements at 34 
+C.F.R. §§ 361.12 and 76.702 and at 2 C.F.R. §§ 200.302, 200.303, and 200.305. Specifically, IDVR was 
+unable to track and report the expenditure of Federal award funds in a manner that permitted RSA to 
+assess the agency’s compliance with Federal fiscal requirements and the allowability of costs charged to 
+the Federal award and State funds used as non-Federal share, thereby, affecting RSA’s ability to protect 
+the Federal interest. Without accurate Vocational Rehabilitation Financial Reports (RSA-17s) from 
+IDVR, RSA cannot determine whether the State has satisfied the match and MOE requirements of 
+Sections 19 and 111(a) of the Rehabilitation Act and 34 C.F.R. §§ 361.60, 361.62, and 361.64, because 
+RSA relies on the financial data submitted on those reports to make these determinations. In addition, 
+without accurate RSA-17s, RSA cannot be certain whether IDVR has satisfied other recordkeeping and
+
+4 
+drawdown requirements applicable to all Federal grantees set forth in 2 C.F.R. part 200 or requirements 
+of the Cash Management Improvement Act of 1990 (CMIA).  
+ 
+Subsequent to issuing the May 3, 2024, letter, RSA fiscal staff communicated regularly with IDVR 
+management and fiscal staff through emails and bi-weekly conference calls to assist IDVR in 
+understanding the financial accountability changes needed so they could begin working toward bringing 
+the agency into compliance with Federal requirements. Through these communications, more details 
+regarding the nature and scope of IDVR’s uncertain financial situation became known. For example, in 
+FFY 2024, the State appropriated $4,708,100, which IDVR assigned to the Trustee & Benefits (T&B) 
+cost category (i.e., the category IDVR uses to pay costs associated with services provided to VR 
+program participants). Although this amount of State appropriation would be sufficient for IDVR to 
+match and draw down $17,395,656 in Federal VR grant funds, the State imposed a statutory spending 
+authority limit of approximately $11.5 million, including in FFY 2024. This means that IDVR only has 
+the authority under State law to incur costs under the VR program up to that maximum amount (i.e., 
+approximately $11.5 million), regardless of whether the costs are paid with Federal or State funds. As of 
+August 2024, IDVR estimated that the total amount of outstanding T&B service authorizations is more 
+than $6.67 million or 141.7 percent of the FFY 2024 appropriation for the T&B cost category. At around 
+the same time, IDVR also estimated total outstanding authorizations (i.e., unpaid expenditures and 
+obligations) of $18.45 million in T&B service and other costs – approximately $7 million more than the 
+State spending authority limit for IDVR. Additionally, IDVR projected a 3 percent annual increase in 
+T&B expenditures due to inflation, further compounding the future deficit projections for the agency.  
+   
+As another example, RSA learned that IDVR was considering implementing an order of selection (OOS) 
+that it planned to implement during the summer of 2024 because of its anticipated inability to serve all 
+eligible individuals with disabilities. Once this information became known, RSA provided several 
+rounds of technical assistance regarding requirements for implementing an OOS and necessary edits to 
+the relative descriptions in the VR services portion of the Combined State Plan (State Plan) related to 
+implementing an OOS. IDVR submitted its amendments to the VR services portion of the State Plan 
+through the State Plan portal on August 26, 2024, and requested to implement the OOS immediately 
+upon RSA’s approval of the State Plan amendments.
+1 In its request to amend its State Plan, IDVR 
+forecasted it would reach the State’s spending authority for SFY 2025 (July 1, 2024, through June 30, 
+2025) by early Fall 2024. In its proposed OOS, IDVR would cease providing all VR services to all 
+individuals who have not yet begun receiving VR services under an approved Individualized Plan for 
+Employment (IPE) until resources become available to open closed categories. To support its request for 
+the OOS, IDVR explained that the agency had not accounted fully for outstanding obligations for 
+consumer services and, thus, over-obligated against available State and Federal funds. IDVR further 
+described the factors necessitating the OOS request as including: 
+ 
+1. IDVR reported considerable unspent funds by the end of FFY 2023 and created a targeted 
+outreach and services expansion strategy to increase the VR participation rate significantly. 
+Specifically, IDVR reportedly increased the number of IPEs developed from 1,625 in FFY 
+2023 to 2,390 at the start of FFY 2024 (47.08 percent increase), resulting in a significant 
+increase in the amount of case service funds required to provide the required services under the 
+ 
+1 RSA approved IDVR’s OOS amendments to its VR services portion of the Combined State Plan on September 
+6, 2024.
+
+5 
+IPEs; and  
+2. IDVR used $3.8 million from the FY2 2024 appropriation to pay for the previous fiscal year 
+expenditures, instead of expenditures from FY 2024. This contributed to an ongoing shortfall in 
+available funding to pay current expenditures in FFY 2024.  
+ 
+Despite the frequent contact by RSA fiscal staff with IDVR and the revelation of the new fiscal 
+information just described, IDVR was unable to provide accurate financial data to assist RSA in better 
+assessing the agency’s current financial circumstances, particularly with respect to the total amount of 
+outstanding unpaid obligations so that RSA could have a better understanding of the full extent of the 
+over-obligations that occurred. Therefore, RSA initiated a targeted offsite fiscal review on August 1, 
+2024. 
+ 
+C.  Overview of the Offsite Review 
+ 
+Considering these facts, the purpose of RSA’s offsite review of IDVR was to: 
+ 
+1. assess, to the extent possible, the amount of over-obligations incurred by IDVR and the period of 
+performance during which those over-obligations were incurred; 
+2. identify the root cause of the over-obligations; 
+3. identify the significance of the risk of the over-obligations to Federal funds; 
+4. assess IDVR’s ability to provide accurate financial data; 
+5. determine the accuracy of Federal financial reports submitted to RSA; and  
+6. identify any potential risks to the provision of ongoing services to VR participants. 
+ 
+RSA focused its offsite review on IDVR’s financial management and internal control processes for 
+ensuring VR obligations and expenditures, both Federal funds and non-Federal funds used as match, are 
+assigned to the appropriate period of performance for each grant award and the accuracy of financial 
+reports submitted by IDVR. In focusing on these financial management and internal control processes, 
+RSA hoped to identify the root cause that enabled IDVR to over-obligate a substantial amount of VR 
+program funds without the accounting errors being caught immediately with the initial over-obligation. 
+As noted above, the accuracy of Federal financial reports is important because RSA uses them to 
+determine, among other things, IDVR’s satisfaction of the State’s match and MOE requirements. 
+ 
+Through supporting documents, and during the virtual review, IDVR demonstrated its current financial 
+management and internal control processes, including: 
+ 
+a. IDVR’s Case Management System (CMS) 
+• Vocational Rehabilitation Assistant (VRA) Desktop Manual; 
+• Screenshots demonstrating CMS functionality (e.g., authorization development, processing, 
+and tracking); 
+• Reports generated by CMS. 
+b. Idaho’s LUMA – Statewide Accounting System. 
+c. IDVR’s accounting system interface -- FARM. 
+ 
+2 This is directly from IDVR’s justification for the implementation of OOS and it is unclear whether IDVR is referencing 
+SFY or FFY.
+
+6 
+d. IDVR’s development process, including supporting documentation and internal controls for 
+completing the RSA-17. 
+ 
+RSA also requested and reviewed a breakdown of the obligations and expenditures paid from FFY 2024 
+VR Federal funds drawn down from award H126A240016 to include the dates of obligation, dates of 
+service, dates invoices were received, dates paid, and fund account to which expenditures were assigned. 
+RSA determined that the payroll expenses included in this breakdown were charged to the period in 
+which the time was worked, as was proper for IDVR to do in accordance with 34 C.F.R. 76.707; 
+however, as will be described in more detail later, RSA found invoices for the provision of VR services 
+that were not charged to the proper period of performance.  
+ 
+In addition, RSA reviewed the supporting documentation for IDVR’s submitted RSA-17s, including the 
+date of obligation, date of service, date invoice received, date paid, and account expenditure assigned to 
+the Federal Financial Report (FFR). Related to line 29, Non-Federal Share of Unliquidated Obligations 
+(1st - 4th Qtr), RSA also reviewed the unliquidated obligations reported and requested documentation 
+regarding the liquidation of the unliquidated obligations or any journaling or reassignment of the 
+unliquidated obligations since the RSA-17 was submitted.  
+ 
+As will be described in more detail in the “Analysis of Findings” section below, RSA found that IDVR 
+failed to implement a financial management system and internal controls process that meets Federal 
+requirements because IDVR cannot ensure: 
+ 
+1. its internal controls and accounting procedures ensure that IDVR has a process for reconciling 
+obligations between IDVR’s CMS and the State accounting system Luma, which is necessary to 
+ensure accurate Federal financial reporting required by 34 C.F.R. § 361.12 and 2 C.F.R. § 
+200.302. Such a reconciliation process would have enabled IDVR to identify the accounting 
+errors that resulted in substantial over-obligations of authorizations immediately and take prompt 
+action to ensure compliance, as required by 2 C.F.R. § 200.303(d); 
+2. assign and track financial obligations to fund sources, including Federal award and non-
+Federal funds, to ensure the agency fulfills Federal requirements for period of performance 
+and the budget period, accurate data collection and reporting, and financial accountability, as 
+required by 2 C.F.R. §§ 200.1, 34 C.F.R. § 361.12, and 34 C.F.R. § 76.707; 
+3. it has expended requisite non-Federal share to meet match and MOE requirements, as 
+required by 34 C.F.R. §§ 361.60 and 361.62 and 2 C.F.R. § 200.306;  
+4. the preparation of reports required by general and program-specific terms and conditions, and the 
+tracing of funds to a level of expenditures adequate to establish that such funds have been used 
+according to the Federal statutes, regulations, and the terms and conditions of the Federal award, 
+as required by 34 C.F.R. § 361.12 and 2 C.F.R. § 200.302; and  
+5. effective internal control is established and maintained over the Federal award that provides 
+reasonable assurance that the non-Federal entity is managing the Federal award in compliance 
+with Federal statutes, regulations, and the terms and conditions of the Federal award, as required 
+by 2 C.F.R. § 200.303, including that the non-Federal entity: 
+a. evaluates and monitors in compliance with statute, regulations, and the terms and conditions 
+of Federal awards; and  
+b. takes prompt action when instances of noncompliance are identified including 
+noncompliance identified in audit findings.
+
+7 
+ 
+IDVR’s financial management systems lack basic controls required to ensure the proper expenditure of 
+Federal funds, particularly within the proper period of performance of the VR grant award. Thereby, 
+placing these funds at considerable risk and resulting in substantial over-obligations. IDVR lacks the 
+required system functionality and oversight capability required of all Federal grantees for the 
+administration of Federal award funds because the over-obligation occurred for an extended period of 
+time before the agency began to take internal corrective measures. 
+ 
+D.  Analysis of Findings 
+ 
+As a recipient of Federal VR funds, IDVR must implement procedures that ensure proper and efficient 
+administration of its VR program and enable IDVR to carry out all required functions, including 
+financial reporting. The methods of administration must ensure accurate data collection and financial 
+accountability (34 C.F.R. § 361.12 and 2 C.F.R. § 200.302). Among these requirements, IDVR must be 
+able to submit timely and accurate financial reports (i.e., RSA-17s), as required by 34 C.F.R. § 361.12, 2 
+C.F.R. §§ 200.302, 200.303, and 200.328. 
+ 
+1. Failure to Maintain Internal Controls 
+ 
+Each non-Federal entity must establish and maintain effective internal control over the Federal 
+award that provides reasonable assurance that the non-Federal entity is managing the Federal 
+award in compliance with Federal statues, regulations, and the terms and conditions of the 
+Federal award (2 C.F.R. § 200.303). Internal controls mean a process, implemented by the 
+grantee, designed to provide reasonable assurance regarding the achievement of objectives in the 
+effectiveness and efficiency of operations, reliability of reporting for internal and external use, 
+and compliance with applicable laws and regulations (2 C.F.R. § 200.1). A grantee must take 
+prompt action when instances of noncompliance are identified, including noncompliance 
+identified in audit findings (2 C.F.R. § 200.303(d)). 
+ 
+Internal controls serve to safeguard assets and prevent fraud, waste, abuse, improper payments, 
+and mismanagement. They include methods and procedures the grantee uses to manage the day-
+to-day operations of grant-supported activities to assure compliance with applicable Federal 
+requirements and that performance goals are being achieved. The VR agency’s internal controls 
+for ensuring compliance with fiscal requirements are a core component of the financial 
+management system review, particularly as they relate to the VR agency’s use of Federal funds, 
+and the requirements for non-Federal match.  
+ 
+From the time RSA designated IDVR a high risk grantee on May 3, 2024, and began the offsite 
+review on August 1, 2024, RSA met biweekly with the Interim IDVR director and fiscal staff to 
+ascertain the full scope of the fiscal deficit facing the VR program and its root cause. With each 
+meeting, it became clear to RSA that the issues IDVR faces are complex, but, at their core, stem 
+from internal controls and financial management system processes that do not satisfy Federal 
+requirements. 
+ 
+Specifically, RSA learned that the Case Management System used by IDVR for program and 
+service authorization data management purposes does not “talk with” the State’s accounting
+
+8 
+system. In other words, authorizations for services in one system were not reflected as 
+obligations or expenditures in the other system. As a result, IDVR continued to authorize for the 
+provision of services because the account seemed to suggest funds were available when, in fact 
+those funds had previously been obligated with other authorizations. Although it was 
+problematic that the two accounting systems did not “talk with” each other, the fundamental 
+internal controls deficiency was that IDVR did not have a process in place to reconcile the 
+authorizations and obligations occurring in both accounts on a regular basis (e.g., bi-weekly or 
+monthly) so that it could ensure the accounts were accurate and thus the fiscal reports would be 
+accurate, as required by 34 C.F.R. § 361.12 and 2 C.F.R. § 200.302. Had it engaged in regular 
+reconciliations of the accounts, as it should have done pursuant to 2 C.F.R. § 200.303(d), IDVR 
+would have been able to take prompt action to remedy the accounting errors and thus avoid the 
+over-obligations of millions of dollars leading to the agency reaching its spending limit by 
+September 2024 -- just a little over two months into the start of SFY 2025. Because the agency 
+did not, IDVR faced a significant financial crisis jeopardizing services to thousands of Idahoans 
+with disabilities.   
+ 
+Once RSA identified the root cause of IDVR’s financial crisis (i.e., the lack of reconciliations 
+between the IDVR and State accounting systems), RSA focused most of its efforts during the 
+offsite review on evaluating IDVR’s fiscal management system. Specifically, RSA evaluated 
+IDVR’s process for complying with Federal period of performance requirements to determine 
+whether the agency assigns VR program obligations and expenditures to the correct VR grant 
+award. Period of performance is the time during which the non-Federal entity (grantee) may 
+incur new obligations to carry out the work authorized under the Federal award (i.e., the time 
+interval between the start of the VR grant period (October 1) and the planned end date for that 
+grant award (September 30)) (2 C.F.R. § 200.1). For expenditures to be allowable under a 
+particular VR grant award, IDVR must demonstrate that the obligation occurred within the 
+period of performance of that award (34 C.F.R. §§ 76.702 and 76.703). A “financial obligation,” 
+as defined at 2 C.F.R. § 200.1, refers to orders placed for products and services, contracts made, 
+and similar transactions that require payment. The Education Department General 
+Administrative Regulations at 34 C.F.R. § 76.707 describe when an obligation is made. 
+Therefore, to properly account for and liquidate expenditures, IDVR must be able to assign an 
+obligation to a Federal VR grant award based on the date the obligation was made (34 C.F.R. §§ 
+76.702, 76.703, 76.707, and 76.709).  
+ 
+2.   Insufficient Financial Management System; Failure to Account for and Report Obligations and 
+Expenditures Properly  
+ 
+In this section of the report, RSA highlights specific deficiencies noted with IDVR’s financial 
+management system, highlighting for the agency those aspects of the system that must be 
+remedied to bring the financial management system into compliance with Federal requirements, 
+particularly with respect to ensuring that the agency expends funds in the correct period of 
+performance for each grant award. RSA’s review of IDVR’s CMS identified several areas where 
+the processing of consumer service authorizations and invoices is inconsistent with Federal 
+requirements related to period of performance and the accounting and reporting of obligations 
+and expenditures:
+
+9 
+a. IDVR’s CMS permits the backdating of service authorizations without controls to ensure the 
+proper assignment of those authorizations to the correct FFY. The report of open 
+authorizations produced from the CMS found 323 authorizations where the service begin 
+date was before the authorization date. This indicates an established practice of VR staff 
+backdating authorizations in the CMS after services have begun. This practice is inconsistent 
+with IDVR’s Vocational Rehabilitation Assistant (VRA) Desktop Manual which states “the 
+begin date must not precede the start date of the service or current date.” 
+ 
+Authorizations represent an agreement between the VR agency and the vendor, ensuring the 
+correct service is provided to the correct consumer in accordance with Federal, State, and 
+agency requirements. The authorization serves to protect the consumer, agency, and vendor 
+by ensuring the terms of the transaction are clearly defined. It also protects Federal and State 
+funds by preventing fraudulent transactions. The practice of back dating these authorizations 
+not only could lead to fraud, but it also contributes to IDVR’s inability to track expenditures 
+to the proper period of performance discussed previously. In the event an authorization must 
+be backdated in accordance with the agency’s exception process for consumer emergencies, 
+the agency must ensure that the start date of the services is within the period of performance 
+for the Federal award to which the service is obligated or paid.  
+ 
+b. IDVR’s CMS does not assign obligations or invoices for service authorizations to a FFY but 
+is configured only to account for case service expenditures on a SFY basis. Federal 
+regulations at 2 C.F.R. § 200.302 require that IDVR’s financial management system must be 
+sufficient to permit the preparation of reports required by general and program-specific terms 
+and conditions of the grant award. For purposes of the VR program, all fiscal data are 
+reported on a FFY basis (see DCL-23-03 for RSA-17 fiscal reporting instructions). 
+Therefore, to satisfy government-wide financial management requirements, IDVR must be 
+able to adapt its SFY accounting system to account for obligations and invoices on a FFY 
+basis as well so that these obligations and expenditures can be traced and reported to a level 
+that ensures the funds were used in accordance with the requirements of the VR program (34 
+C.F.R. § 361.12 and 2 C.F.R. § 200.302). In other words, the expenditures reported on the 
+RSA-17 must be those that can be traced as having been incurred within that grant award’s 
+period of performance.  
+ 
+Without the proper assignment of obligations and invoices to a FFY, IDVR is unable to 
+accurately report the total amount of State and Federal obligations (both liquidated and 
+unliquidated) on the RSA-17 for each VR grant award. Rather, IDVR simply reports the 
+liquidation of expenditures in a given grant year, regardless of when the obligation was 
+actually incurred. As a result, IDVR is paying for costs that are outside of the period of 
+performance for a particular VR grant award, which leads to questioned costs. When RSA 
+pursued this further with IDVR during the offsite review and requested supporting 
+documentation for sample obligations and expenditures to ensure they were incurred during 
+the proper period of performance for a VR grant award, IDVR was unable to provide 
+supporting documentation that reconciled to the amounts reported by IDVR. To the extent 
+IDVR reported any unsupported non-Federal expenditures and obligations on its RSA-17 for 
+match purposes, such amounts could lead to determinations that IDVR has not satisfied its
+
+10 
+match and MOE requirements for those FFYs. These determinations, in turn, could lead to 
+further enforcement actions (i.e., recovery of funds or reduction of awards), as appropriate. 
+ 
+c. IDVR’s CMS does not account properly for remaining balances on obligations and 
+obligations cancelled after they have been reported on IDVR’s fourth quarter RSA-17 report 
+as an unliquidated obligation. As stated in DCL-23-03, the instructions for the RSA-17:  
+ 
+all non-Federal expenditures and obligations used for match purposes must be incurred 
+during the FFY of appropriation. During the carryover year, the awardee must liquidate 
+all unliquidated obligations reported on line 29 as having been incurred by the end of the 
+FFY of appropriation but not liquidated by that time. All unliquidated obligations 
+reported on line 29 for match purposes, incurred prior to the end of the FFY of 
+appropriation, must be liquidated by the end of the liquidation period for that award (i.e., 
+120 days after the end of the 8
+th quarter (period of performance)). However, we recognize 
+unliquidated obligations sometimes fall through during the carryover year and must be 
+cancelled or deobligated. When this occurs, the awardee can no longer count those 
+obligations toward satisfying its match requirement. 
+  
+When IDVR has a remaining balance on an authorization that is closed or when an 
+authorization is cancelled, the CMS returns those funds to IDVR‘s budget. There is no 
+accounting for whether the initial obligations were reported as unobligated match on IDVR’s 
+fourth quarter RSA-17 report. Consequently, to the extent these cancelled non-Federal 
+unliquidated obligations remained on the RSA-17 for purposes of satisfying the State’s match 
+and MOE requirements, such amounts could lead to RSA determining that the State did not 
+satisfy its match and MOE requirements for those FFYs.  Should RSA make such a 
+determination, RSA may need to take further enforcement action.  
+ 
+d. According to IDVR staff, the “end date of services” in the CMS can be either 1) the date 
+through which the authorized services are to be provided or 2) the date the service invoice 
+was received. However, the “service end date” should be only the date through which the 
+authorized services are to be provided, thereby providing a mechanism in the CMS for 
+ensuring that the services are provided during the period of performance for the grant award 
+from which the invoices are paid. During the offsite review, IDVR stated it often receives 
+delayed invoices from providers; therefore, to the extent invoices are delayed from a prior 
+FFY and the “end date of services” is coded as the date the invoice is received, IDVR is 
+likely paying for services that were not incurred during the period of performance of the 
+particular VR grant award from which the payment is made. To the extent the “service end 
+date” represents the invoice receipt date, IDVR has no mechanism for determining when the 
+services were provided in the CMS. This makes it impossible for IDVR to account for and 
+report these expenditures and obligations, with accuracy, for the proper period of 
+performance for each VR grant award, as it is required to do pursuant to 34 C.F.R. § 361.12 
+and 2 C.F.R. § 200.302. 
+ 
+Neither IDVR’s VRA Desktop Manual nor the Authorization and Payment Guide contain 
+references to proper assignment of obligations and expenditures to the correct period of 
+performance. RSA’s review of the Open Authorizations 7-26-24 document provided by
+
+11 
+IDVR indicates open authorizations covered three SFYs; however, the period of performance 
+of a VR award covers a maximum of two FFYs (if the State satisfies the requirement to carry 
+over funds in accordance with section 19 of the Rehabilitation Act). As shown in the chart 
+below, outstanding FFY 2023 authorizations total $307,192.01; however, there was only 
+$127,241.68 remaining in IDVR’s FFY 2023 VR award as of August 28, 2024. The 
+unliquidated balance of $179,950.33 represents authorizations that were entered into during 
+FFY 2023, meaning that they were incurred during the FFY 2023 VR grant award’s period of 
+performance and, thus, can only be paid with funds associated with the FFY 2023 VR grant 
+award. Given that there are no such funds available to pay these obligations, IDVR must pay 
+these past obligations with non-Federal funds that cannot be used for match purposes since 
+the payments from any other grant award would be outside of the period of performance for 
+that FFY 2023 grant award. Because IDVR’s CMS does not identify the FFY to which costs 
+can be assigned, IDVR had no process for tracking and ensuring the outstanding 
+authorizations that could only be paid from the FFY 2023 VR award were not charged to the 
+FFY 2024 VR award.  
+ 
+The VRA Desktop Manual indicates that contracts should not stop and start to accommodate a 
+FFY; however, the document is unclear on how IDVR assigns obligations that extend beyond 
+the period of performance of the VR award. A contract that crosses Federal fiscal years still 
+constitutes a valid obligation, as established by 34 C.F.R. § 76.707. Consequently, IDVR 
+must ensure that all services provided under a service authorization that crosses Federal fiscal 
+years are assigned to and paid from the appropriate Federal award.  
+ 
+As the above demonstrates, RSA has found that IDVR’s fiscal management system failed to 
+satisfy Federal fiscal management requirements for ensuring the proper expenditure of VR 
+program funds within the periods of performance for at least FFYs 2023 and 2024. 
+ 
+3. Inaccurate and Unsupported Federal Financial Reporting 
+ 
+In addition to the deficiencies noted above with the agency’s financial management system, RSA 
+noted deficiencies with IDVR’s financial reporting – all of which should have been caught and 
+remedied if IDVR had proper internal controls in place in accordance with 2 C.F.R. § 200.303. 
+In this section, RSA highlights the financial reporting deficiencies noted during the offsite 
+review.   
+ 
+As a recipient of Federal VR program funds, IDVR must have procedures that ensure the proper 
+and efficient administration of its VR program and enable IDVR to carry out all required 
+functions, including financial reporting (34 C.F.R. § 361.12). In accordance with the Uniform 
+Guidance in 2 C.F.R. § 200.302(a), a State’s financial management systems, including records 
+documenting compliance with Federal statutes, regulations, and the terms and conditions of the 
+award, must be sufficient to permit the preparation of reports required by general and program 
+specific terms and conditions; and the tracing of funds to a level of expenditures adequate to 
+establish that such funds have been used according to the Federal statutes, regulations, and the 
+terms and conditions of the Federal award.
+
+12 
+The Uniform Guidance requires the financial management system of each non-Federal entity to 
+provide for the identification, in its accounts, of all Federal awards received and expended and 
+the Federal programs under which they were received (2 C.F.R. § 200.302(b)). In addition, 34 
+C.F.R. § 76.702 requires States to use fiscal control and fund accounting procedures that ensure 
+proper disbursement of and accounting for Federal funds.  
+ 
+RSA’s review of supporting documentation provided to verify amounts IDVR reported on its 
+RSA-17 reports did not reconcile with the reported data. Specifically, when RSA asked for 
+sample supporting documentation to demonstrate how IDVR calculated the data that were 
+reported on the RSA-17, IDVR fiscal staff could not produce any documentation to explain the 
+basis for any of the data, including any of the reported obligation and expenditure amounts, and 
+could not reconcile any of these reported amounts with the data in their financial systems.  
+ 
+a. IDVR submitted a Financial Specialist Senior Desk Manual for completion of RSA-17 
+financial reports. The instructions had not been updated to reflect the RSA-17 revisions 
+included in DCL-23-03, dated September 8, 2023. In addition, the instructions did not 
+include updated 2 C.F.R. part 200 citations to include the revisions that took effect 
+November 12, 2020.
+3 Additionally, the instructions incorrectly state the basis upon which 
+the amount of Federal funds required to be reserved for the provision of pre-employment 
+transition services is calculated. While these instructions primarily mirror the instructions to 
+the RSA-17, they do not result in accurate reporting. 
+ 
+b. In IDVR’s RSA-17 for FFY 2023, the Federal share of allowable expenditures listed 
+($16,823,595) was $549,338 more than the total of the agency’s Federal award amount, 
+thereby demonstrating that IDVR does not submit accurate financial reports as it is required 
+to do in accordance with 34 C.F.R.§ 200.302. The following chart illustrates IDVR draws 
+from the Department of Education’s Grants Management System (G5) for award 
+H126A230016 (on the left) and the RSA-17 amount of Federal Cash Disbursements reported 
+by IDVR for QTRs 1-6 (on the right). For quarter 1, the draws reported by IDVR were equal 
+to the Federal cash receipts reported in G5. However, for quarters 2, 3, 4, 5, and 6 the Federal 
+draw amounts do not match the Federal cash receipts reported. 
+ 
+3 IDVR should note that 2 C.F.R. part 200 was updated again recently, with changes taking effect October 1, 
+2024.
+
+13 
+ 
+Quarter G5 Draw 
+Amount 
+RSA-17 
+Report Line 
+QTR 1 QTR 2 QTR 3 QTR 4 QTR 5 QTR 6 
+QTR 1 $349,210.69  Line 11. 
+Federal Cash 
+Receipts  
+$349,211.00  $990,557.00  $3,259,733.00  $6,141,595.00  $12,613,539.00  $15,847,701.00  
+QTR 2 $641,366.39  Line 12. 
+Federal Cash 
+Disbursements  
+$349,211.00  $990,557.00  $3,259,733.00  $6,141,595.00  $12,613,539.00  $15,847,701.00  
+QTR 3 $2,269,156.12  Line 13. 
+Federal Cash 
+on Hand  
+$0.00  $0.00  $0.00  $0.00  $0.00  $0.00  
+QTR 4 $2,881,861.75  Line 14. 
+Federal Share 
+of Allowable 
+Expenditures  
+$369,634.00  $1,000,176.00  $3,521,194.00  $7,633,338.00  $13,878,946.00  $16,823,595.00  
+QTR 5 $6,471,943.88  Line 18. 
+Federal Share 
+of Allowable 
+Unliquidated 
+Obligations  
+$45,555.00  $2,558,221.00  $4,943,017.00  $4,599,419.00  $2,187,497.00  $0.00  
+QTR 6 $3,234,162.53  Line 19. Total 
+Federal Share  
+$415,189.00  $3,558,397.00  $8,464,211.00  $12,232,757.00  $16,066,443.00  $16,823,595.00  
+QTR 7 $299,313.96  Line 20. 
+Unobligated 
+Balance of 
+Federal Funds  
+$3,948,932.00  $17,124,642.00  $12,218,828.00  $4,041,500.00  $207,814.00  ($549,338.00) 
+ 
+RSA compared revenue reported in the RSA-17 reports for FFYs 2023 and 2024, the G5 
+drawdowns, and VR program financial data recorded in IDVR’s general ledger (GL). The 
+results indicate significant material discrepancies between the GL, G5 draws, and RSA-17 
+fiscal data reported for FFY 2023. In a monitoring call on August 8, 2024, IDVR stated the 
+financial data reported on the GL and in the FFRs cannot be relied upon. Specifically, 
+because the CMS and State accounting system are configured to only track funds on a SFY 
+basis, there is no process for assigning the individual transactions to the appropriate FFY for 
+a Federal award. The systems, as configured, lack a place for the Federal fiscal year 
+associated with the transaction to be recorded.  
+ 
+RSA’s review of the accuracy and reliability of IDVR’s financial reporting identified 
+significant material deficiencies. The financial reports did not adhere to financial reporting 
+requirements, represent an accurate accounting of IDVR’s use of Federal and non-Federal 
+funds for the VR program, and enable RSA to determine IDVR’s compliance with Federal 
+VR financial requirements. 
+ 
+E.  Corrective Actions 
+ 
+In RSA’s high risk designation letter to IDVR on May 3, 2024, RSA stated that to ensure continued 
+long-term compliance with Federal requirements, IDVR must submit a detailed corrective action plan 
+(CAP) to address the fiscal and accountability deficiencies, including specific action steps and 
+measurable timelines. The CAP IDVR submitted, dated June 17, 2024, contained only generalized 
+goals, not specific action steps or measurable timelines. 
+ 
+Through RSA’s fiscal review, RSA learned substantially more about IDVR’s fiscal operations and 
+processes. This enabled RSA to more clearly outline the outcomes that must be achieved for IDVR to be
+
+14 
+successful in correcting the identified issues. The completion of IDVR’s CAP will be measured by 
+IDVR’s ability to demonstrate: 
+ 
+1. The use of proper internal controls processes sufficient to safeguard against accounting errors or 
+payments being made for costs that are either not allowable or outside of the period of 
+performance. 
+ 
+2. The collection and analysis of appropriate and accurate financial data under the VR program. 
+This means that IDVR’s financial and data management systems must be able to: 
+a. assign allowable VR expenditures and unliquidated obligations only to the FFY in which the 
+expenditure was made or obligation was incurred; 
+b. distinguish liquidated expenditures from unliquidated obligations; 
+c. identify which source of funds (Federal or non-Federal) is used to cover the liquidation or 
+obligation of allowable VR expenditures; 
+d. determine when obligations under the VR program are liquidated; 
+e. ensure all obligations incurred under the VR program are liquidated within 120 days after the 
+end of the period of performance; and 
+f. make necessary accounting adjustments when non-Federal obligations, previously reported 
+for match and MOE purposes under the VR program, are cancelled or otherwise not 
+liquidated, to remove those obligations from the amount IDVR reported to RSA. 
+ 
+3. The timely and accurate reporting of Federal and non-Federal expenditures and unliquidated 
+obligations under the VR program. To ensure the financial reports are accurate and timely, IDVR 
+must: 
+a. report only those non-Federal expenditures and unliquidated obligations, used to satisfy 
+match and MOE requirements under the VR program, that were incurred by September 30 of 
+the FFY of appropriation with non-Federal funds that were available at that time; 
+b. carry over into the subsequent FFY only those Federal funds that were matched by non-
+Federal expenditures or obligations incurred by September 30 of the FFY of appropriation; 
+and 
+c. have processes that ensure the timely submission of accurate financial reports. 
+ 
+4. The retention of, and access to, financial records, supporting documents, and other agency 
+records pertinent to a Federal award, as required by 2 C.F.R. §§ 200.333 and 200.336. This 
+includes maintaining supporting documentation for RSA-17s submitted by IDVR for the VR 
+program. 
+ 
+RSA will provide technical assistance to IDVR to review its current CAP to ensure the steps necessary 
+to meet the requirements above are included. To minimize the reporting and tracking burden for IDVR 
+and RSA, RSA intends for the initial CAP to be updated to include the requirements noted above and the 
+specifics steps below. 
+ 
+1. Implementation of the Approved Corrective Actions: 
+ 
+a. IDVR must develop interim processes to ensure that it can submit timely and accurate 
+financial reports for its FFY 2025 VR award. These processes must be reviewed by RSA to
+
+15 
+ensure they have a high likelihood of resulting in compliance with the required reporting 
+and program requirements. In particular, the processes must ensure the proper assignment 
+of Federal and non-Federal funds to the FFY 2025 award. IDVR must implement these 
+processes even if the tracking and reporting is completed outside of the agency’s CMS and 
+financial systems due to configuration and system’s issues.  
+b. IDVR must develop and implement internal controls and policies. 
+ 
+2. Post-Implementation Reconciliations and Submissions: 
+ 
+a. After implementing its approved financial and internal control policies and processes, IDVR 
+must reconcile its Federal financial reports for FFYs 2020 through 2024, using the newly 
+approved processes, and resubmit as necessary to ensure that all forms submitted are 
+accurate. RSA will use these revised forms to determine whether the State has met its match 
+and MOE for each of these FFYs and will take further action, as necessary, to remedy any 
+deficits, in accordance with Section 111(a)(2)(B) of the Rehabilitation Act, Part D of the 
+General Education Provisions Act (20 U.S.C. §§ 1234a-1234b), and 34 C.F.R. part 81. 
+b. On a quarterly basis, submit written updates to RSA regarding progress made toward its 
+implementation to satisfy these corrective actions. 
+c. On a quarterly basis, submit supporting documentation, from its financial management 
+system, for Federal and non-Federal VR expenditures it reports on the Federal financial 
+reports, at the time IDVR submits these reports. RSA will use these submissions to verify the 
+accuracy of the submitted financial reports as a means of verifying that IDVR’s 
+implementation of its financial and data management systems comply with Federal 
+requirements. 
+ 
+If IDVR fails to satisfy these corrective actions, RSA may take additional enforcement actions in 
+accordance with 34 C.F.R. part 81 and 2 C.F.R. § 200.208. 
+ 
+F. Conclusion 
+ 
+RSA identified significant concerns due to the lack of procedures and internal controls related to the 
+assignment and reporting of obligations and expenditures to the proper Federal award and non-Federal 
+funding sources. RSA found that IDVR is not satisfying Federal requirements to account for expending 
+funds within the appropriate period of performance for Federal grant awards, including obligating and 
+assigning costs to the proper FFY award based on period of availability, as described in 34 C.F.R. § 
+76.707, and expenditures are not being assigned appropriately or monitored for compliance. IDVR failed 
+to implement a financial management system that meets Federal requirements because IDVR is not able 
+to ensure: 
+ 
+• Its internal controls and accounting procedures assign and track financial obligations to fund 
+sources, including Federal award and non-Federal funds, to ensure the agency fulfills Federal 
+requirements for period of performance and the budget period, accurate data collection, and 
+financial accountability, as required by 2 C.F.R. §§ 200.1 and 200.303, 34 C.F.R. § 361.12, and 
+34 C.F.R. § 76.707; 
+• The proper disbursement of and accounting for Federal funds, as required by 34 C.F.R. § 76.702;
+
+16 
+• It has expended requisite non-Federal share to meet match and MOE requirements, as required 
+by 34 C.F.R. §§ 361.60 and 361.62, and 2 C.F.R. § 200.306; 
+• Its financial management system procedures permit preparation of required Federal reports, as 
+required by 2 C.F.R. § 200.302(a); and 
+• Only allowable costs resulting from obligations of the budget period are charged to the award, as 
+required by 2 C.F.R. § 200.1. 
+ 
+As a result of IDVR’s financial deficiencies, the agency over-obligated its funds, thereby jeopardizing 
+the delivery of services to individuals with disabilities and nearly shutting down the VR program. 
+Therefore, IDVR’s actions make it impossible for RSA to determine whether IDVR has satisfied Federal 
+fiscal requirements in a timely manner. RSA is particularly concerned that IDVR lacks the capacity to 
+accurately assign, track and report both Federal and non-Federal obligations and expenditures, including 
+the extent to which IDVR, and the State of Idaho, has met its match and MOE requirements. The 
+financial data reviewed by RSA indicate a substantial shortfall in non-Federal funds available to pay for 
+service obligations incurred by IDVR. RSA is concerned about the impact of such a deficit on IDVR’s 
+ability to meet current and future non-Federal share requirements and to provide for VR services already 
+authorized or included on approved IPEs. 
+ 
+RSA would like to thank the IDVR staff that participated in this offsite review. Given recent leadership 
+changes, IDVR leadership staff have had to accept new responsibilities to ensure continued 
+administration of the VR program. We understand their time is valuable and appreciate the time they 
+devoted to this review. If you have any questions regarding this report, please contact Kristine Nimmo, 
+RSA Financial Management Specialist, at Kristine.nimmo@ed.gov or 202-987-0840.  
+ 
+IDVR has 15 days from the date this report is issued to respond to RSA to provide clarifications or 
+corrections to this draft report. RSA will take IDVR’s response under advisement in the final version of 
+this monitoring report.

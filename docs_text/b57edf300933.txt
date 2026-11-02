@@ -1,0 +1,1568 @@
+FILENAME: 72217593a562-nebraska_F.pdf
+PATH: _raw/tacqe.com/72217593a562-nebraska_F.pdf
+
+Nebraska 
+Vocational 
+Rehabilitation 
+Progressive Employment 
+(Rapid Engagement) 
+Model Replication and 
+Evaluation Report 
+Dennis Moore 
+Kelly Haines 
+Susan Foley 
+Ngai Kwan 
+DeBrittany Mitchell 
+2018 
+Institute for Community Inclusion, University of Massachusetts Boston
+
+2 
+Nebraska Vocational Rehabilitation Progressive Employment Model Replication and Evaluation Report: Working Paper
+2018 
+Nebraska Vocational Rehabilitation Progressive Employment Model Replication and 
+Evaluation Report: Working Paper 
+Dennis Moore, Kelly Haines, Susan Foley, Ngai Kwan, DeBrittany Mitchell 
+This working paper is a product of the Progressive Employment Model Replication and Evaluation study, funded 
+by the National Institute on Disability, Independent Living, and Rehabilitation Research (Grant # H133B120002). 
+The products associated with this study are housed on ExploreVR (www.explorevr.org), a data hub for a group of 
+vocational rehabilitation research projects based at the Institute for Community Inclusion (ICI) at UMass Boston. 
+The data, information, and views expressed herein do not necessarily represent the overall findings or outcomes of 
+the ongoing Progressive Employment Model Replication and Evaluation study. This working paper series is meant to 
+provide preliminary information and document the process and impact of the model implementation in various state 
+agencies. These papers will be updated as the research progresses to reflect new data and findings. 
+Suggested citation: Nebraska Vocational Rehabilitation Progressive Employment Model Replication and Evaluation 
+Report: Working Paper. Version 1. (May 2018), Moore, D., Haines, K., Foley, S., Kwan, N., Mitchell, D. Boston, MA: 
+University of Massachusetts Boston, Institute for Community Inclusion.
+
+3 
+Nebraska Vocational Rehabilitation Progressive Employment Model Replication and Evaluation Report: Working Paper
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TABLE OF CONTENTS 
+Executive Summary ........................................................................................................................................................................ 5
+ 
+1. Introduction .................................................................................................................................................................................... 7
+ 
+1.1  Contents of this Report… .........................................................................................................................................................................................7
+ 
+1.2  Overview of the PE Model .....................................................................................................................................................................................7
+ 
+1.3  Background and Context for PE Model Replication ......................................................................................................................... 9
+ 
+1.4  Nebraska VR’s PE Model Implementation Strategies .................................................................................................................10
+ 
+1.5 Key Evaluation Questions ...................................................................................................................................................................................11
+ 
+1.6  Methods Used to Address Evaluation Questions ............................................................................................................................ 12
+ 
+2. Summary of RE Services.........................................................................................................................................................14
+ 
+2.1  Clients Served ...............................................................................................................................................................................................................14
+ 
+2.2  RE Activities .................................................................................................................................................................................................................14
+ 
+3. Impact on Service-Related Outcomes............................................................................................................................... 16
+ 
+3.1  Case flow ..........................................................................................................................................................................................................................16
+ 
+3.2  Case Cost ......................................................................................................................................................................................................................... 17
+ 
+3.3  Business Relations ..................................................................................................................................................................................................18
+ 
+4. Impact on Employment Outcomes.................................................................................................................................... 20
+ 
+4.1  Successful Rehabilitation Outcomes ........................................................................................................................................................20
+ 
+5. Nebraska VR Staff Experiences with RE.......................................................................................................................... 21
+ 
+6. Discussion and Implications..................................................................................................................................................23
+ 
+7. Additional Observations and Recommendations ....................................................................................................... 26
+ 
+Appendices....................................................................................................................................................................................... 29
+
+4 
+Nebraska Vocational Rehabilitation Progressive Employment Model Replication and Evaluation Report: Working Paper
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tables 
+Table 1. PE fidelity components ........................................................................................................................................................................................ 9
+ 
+Table 2. Model components and implementation strategies ..................................................................................................................11
+ 
+Table 3. RE: Total number of services provided ..................................................................................................................................................15
+ 
+Table 4. Statewide number and percent of RE / total cases over time by adult and youth.............................................16
+ 
+Table 5. Median days from application to first RE experience................................................................................................................16
+ 
+Table 6. Comparison of unsuccessful early dropout rates for RE vs. non-RE for closed cases only 
+(successfully closed + terminated) from case file data....................................................................................................................... 17
+ 
+Table 7. Average case costs by team for RE and non-RE adults and youth.................................................................................. 17
+ 
+Table 8. Number and percent of RE youth and adult by BAM region................................................................................................19
+ 
+Table 9. Comparison of outcomes for RE vs. non-RE (traditional comparison).......................................................................20
+ 
+Table 10. Comparison of outcomes for RE vs. non-RE (non-traditional comparison*) ......................................................20
+ 
+Table 11. Frequency of responses: Usefulness of RE model components in daily work (N=55) ..................................21
+ 
+Table 12. RE model impact on work (N=53)......................................................................................................................................................... 22
+ 
+Table 13. Frequency of responses: RE as a model for service delivery (N=54) ......................................................................... 22
+ 
+Table 14. Frequency of responses: RE as a model for service delivery, continued.................................................................. 22
+ 
+Table 15. Priority category distribution of cases............................................................................................................................................... 25
+ 
+Table 16. Statewide VR client satisfaction survey comparison 2015-2016 Q1 ......................................................................... 27
+ 
+Table 17. Demographic information of RE and non-RE youth and adults..................................................................................... 29
+ 
+Table 18. VR case details and closure information..........................................................................................................................................30
+ 
+Table 19. Case status and flow outcomes ..............................................................................................................................................................30
+ 
+Table 20. Characteristics of clients referred to RE........................................................................................................................................... 31
+ Figures 
+Figure 1. RE: Total number of services provided ................................................................................................................................................14
+ 
+Figure 2. Cases by BAM region........................................................................................................................................................................................18
+ 
+Figure 3. Priority category distribution for RE and non-RE cases ...................................................................................................... 25
+
+5 
+Nebraska Vocational Rehabilitation Progressive Employment Model Replication and Evaluation Report: Working Paper
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+  
+EXECUTIVE SUMMARY 
+In January 2015, the Institute for Community Inclusion at the University of 
+Massachusetts Boston launched the Vermont Progressive Employment (PE) Model 
+Replication and Evaluation study (NIDILRR Grant #H133B120002). Co-facilitated 
+by the ICI and Vermont Division of Vocational Rehabilitation (DVR), the project 
+recruited four state VR agencies that would adopt and study the PE model. The 
+participating states received training and technical assistance, adapted the 
+model to their states, implemented the key components, and started serving 
+jobseekers and businesses. Nebraska VR (NVR) was an early adopter of the PE 
+model, and joined the Learning Collaborative in March 2015 after having agreed 
+to serve as a “beta test” site for PE model replication in Fall 2014. 
+NVR was in the process of expanding their own service model that was in many 
+respects parallel to PE; however, the nomenclature for Nebraska’s model is 
+unique – “Rapid Engagement” (RE) replaces Progressive Employment. The 
+Lincoln office began piloting this RE approach in September 2014, and state­
+wide implementation occurred in July 2015. Several new business account 
+managers, or BAMs, were hired to support PE state-wide.. NVR is similar in their 
+approach to VT DVR by intention and design. 
+The NVR approach parallels VT DVR approach in several ways: 
+• Focus on employers and businesses1 as partners (dual customer model). 
+• Early engagement – NVR is highly focused on “Rapid Engagement” as a tool 
+for exposing clients to job opportunities and client focused career selections 
+very early in the VR process.   
+• Jobsville meetings – The types and levels of staff communication during team 
+meetings parallel the intent of VT Jobsville meetings (WIN meetings). 
+• BAMs – NE hired several BAMs whose primary focus is business. As in VT, they 
+do not carry a client caseload, and their focus is developing new business 
+contacts and client placement opportunities. 
+• Mechanisms for covering wages, stipends, liability, and worker compensation 
+are in place. 
+• The percentage of overall agency clientele served by RE in Nebraska is 
+roughly similar to persons receiving PE in VT DVR.  
+Since July 2015, RE services in NVR have been recorded for 247 youth and 
+453 adult VR clients. This represents 10% of youth and 6.4% of adults who 
+became VR clients during this time. The demographics of persons who receive 
+RE services are similar to the general VR population; however, RE recipients 
+tend to be less educated and have slightly higher enrollment in Supplemental 
+Security Income and Social Security Disability Insurance. They are less likely to 
+We acknowledge the differences between the terms “business” and “employer” , and have attempted to shift toward the use of 
+“business” as the default terminology to describe what might be a potential employer. This report uses both terms, as the accepted 
+nomenclature is shifting in the field.  
+1
+
+6 
+Nebraska Vocational Rehabilitation Progressive Employment Model Replication and Evaluation Report: Working Paper
+ 
+ 
+ 
+ 
+ 
+be employed at VR application, and represent a higher percentage of diagnoses of 
+most significant disabilities, mental illness, and intellectual disability. 
+According to staff survey results, the highest percentages of reasons why clients 
+are referred to RE are “little or no work history” (49%), “stuck cases” (40%), “client’s 
+stated interest in obtaining work experience” (38%), and “soft skills or behavioral 
+issues” (33%). 
+The specific business exposure options differ somewhat in frequency from adults to 
+youth, but these options include on-the-job evaluation (OJE), on-the-job training 
+(OJT), job shadow, informational interview, business tours, and mock interviews. The 
+majority of business exposures for youth and adults tend to be “high-dose” exposures, 
+meaning that the experience lasts more than one day. 
+NVR has a larger than usual group of employees who focus on vocational evaluation, 
+and these individuals appear to be using RE as a means for planning rehabilitation 
+services. Consequently, the most common work exposure option for youth and adults 
+is OJE. As a result, the duration of time from application to IPE is longer for RE than 
+non-RE clients (especially for youth), because nearly half of RE clients are gaining 
+business exposures prior to their IPE. 
+Since July 2015, data indicate that approximately 69.6% of RE youth cases are still 
+open, compared with 58.8% of non-RE youth. RE adults are still open in 57% of cases, 
+compared with 37.8% of non-RE adults. This closure differential suggests that the 
+success rates for RE will grow somewhat larger compared to non-RE over time. 
+We used a different metric for comparing overall success, one that reflects how 
+Congress looks at employment rates for persons with disabilities. We compared the 
+success rate against ALL closures, even those occurring prior to plan [(successful 
+closures / (successful closures + terminated cases)]. 
+When comparing the overall success rate of RE vs non-RE among closed cases, 
+there is a pattern of more successful closures in RE (RE youth = 32% success vs non-RE 
+youth = 18%; RE adults = 45.1% vs non-RE adults = 33.6%). One reason for this large 
+differential in success is the lower number of clients in RE who drop out of VR prior to 
+IPE compared with non-RE. This report also compares success rates of RE vs non-RE 
+using the convention reported to RSA (only terminations after plan included). 
+Costs associated with RE service delivery were compared with non-RE case costs 
+based on data taken from case files shared with ICI. In most cases, the median costs 
+of RE are higher than for non-RE. Additional dialogue and analysis will be necessary to 
+sort out and clarify case cost information. 
+Business contact activities expanded considerably since the start of RE. The business 
+database nearly doubled to 2,036 specific business contacts in less than two years. It 
+is not known how many of these contacts have actually been used to date for RE or 
+other client services.
+
+7 
+Nebraska Vocational Rehabilitation Progressive Employment Model Replication and Evaluation Report: Working Paper
+ 
+ 
+ 
+ 
+ 
+ 
+1. INTRODUCTION 
+In January 2015, the Institute for Community Inclusion at the University of Massachusetts Boston 
+issued a Request for Participation (RFP) for state vocational rehabilitation agencies to join 
+the Vermont Progressive Employment Model Replication and Evaluation study. Housed under 
+the Rehabilitation Research and Training Center on Demand-Side Strategies (NIDILRR Grant 
+#H133B120002) at the ICI, the study was designed to include a Learning Collaborative co-facilitated 
+by the ICI and Vermont Division of Vocational Rehabilitation of four state VR agencies that would 
+adopt and study the PE model. 
+The participating states received training and technical assistance, adapted the model to their 
+states, implemented the key components, and started serving job seekers and businesses. Nebraska 
+VR was an early adopter of the PE model, and joined the Learning Collaborative in March 2015 
+after having agreed to serve as a “beta test” site for PE model replication in Fall 2014.   
+1.1 Contents of this Report 
+Section 1 of this report gives an overview of the PE model components, and all aspects of the 
+replication and evaluation study. Section 2 provides a summary of RE services delivered. First, we 
+describe the demographic and case profile of individuals in RE, and then we provide an overview 
+of the RE services provided to this group. Section 3 includes a description of Nebraska VR staff 
+experience using the RE model. Section 4 provides the results of the impact analysis on service-
+related outcomes and Section 5 discusses the impact on employment outcomes. Sections 6 
+and 7 provide discussion points and implications of the evaluation findings, as well as additional 
+observations and recommendations.  
+1.2 Overview of the PE Model 
+The Progressive Employment (PE) model is an innovative, dual-customer practice emerging out of 
+Vermont Division of Vocational Rehabilitation (DVR). This model has demonstrated strong success at 
+Vermont DVR in a five-year evaluation, with PE participants experiencing successful rehabilitation 
+closure rates approximately 10% higher than the average for other DVR consumers. At its core, PE 
+uses work-based learning strategies to meet the needs of both the business and the job seeker with 
+a disability while minimizing the risks for both parties. Elements of the model include early consumer 
+engagement in work environments (everyone is ready for something), a strong team approach, 
+and VR-provided short-term liability insurance and training offset compensation for consumers.  
+The key components of the PE model are listed here, organized by Business, Customer, and 
+Team Components. PE is implemented as a team approach with the job seeker, counselor, 
+employment specialist, and business relations or account manager as core team members. 
+Business account managers have a “caseload” of businesses and have unique roles including 
+developing business contacts, becoming very familiar with the local economy, and acting as a 
+resource for local businesses.
+
+8
+Nebraska Vocational Rehabilitation Progressive Employment Model Replication and Evaluation Report: Working Paper
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BUSINESS FOCUSED COMPONENTS: 
+• Creating a “business as customer” delivery system: Engagement with businesses is characterized 
+as a sales approach that seeks to serve the business’s current and future employment needs. 
+• Business risk reduction options that include liability and worker’s compensation coverage for 
+businesses and sources for stipends for trainees’ time.
+ 
+• Business tracking database: An ever-expanding business database is maintained that includes 
+business specifics, and their levels of availability for providing work experiences. 
+CUSTOMER FOCUSED COMPONENTS: 
+• Adoption of the “everybody is ready for something” approach: Work experiences boost 
+confidence, increase motivation to complete VR, and introduce businesses to potential future 
+employees. Early work experiences provide vocational evaluation information while increasing 
+motivation for consumers. 
+• Full array of work experiences: These include low and high dose strategies such as job tours, 
+mock interviews by businesses through to 6-week work experiences and internships. 
+• Focus on jobseekers with intensive pre-work needs such as those with multiple significant 
+disabilities, criminal justice involvement, behavioral disabilities, and poor work histories. 
+• Rapid engagement in real-life work settings with a reduction of “job readiness” assessments and 
+evaluations. 
+TEAM-FOCUSED COMPONENTS: 
+• A team approach to service delivery that includes the job seeker, business, counselor, 
+employment specialist, and a business account manager. The employment specialist has 
+greater autonomy than usual in creating work experiences based on consumer interests. 
+The employment team meets weekly or biweekly through live meetings or teleconferences 
+depending on the rural nature of the territory covered.
+ 
+• Rapid communication of labor market intelligence in which all teams share information across 
+job seekers and businesses for the express purpose of identifying matches and opportunities. 
+• Disaggregation of rehabilitation caseload dollars from work experience placements: In states 
+such as VT where funds are allocated to specific VR counselors, there are separate funds 
+for PE so that necessary rehabilitation services do not compete for dollars with early work 
+experience placements.
+ 
+The Demand-Side RRTC spent time in the first two years defining PE in order to create a working 
+model that could be transported beyond Vermont. Considering the number of VR and state-
+specific factors that might impact delivery of PE (e.g., work experience reimbursement policies, use 
+of community rehabilitation providers, local labor market dynamics, VR counselor caseloads and 
+funding levels, staffing ratios, and minimum wage regulations), the RRTC project team constructed 
+the following beta version of a fidelity tool to guide the pilot efforts.
+
+Nebraska Vocational Rehabilitation Progressive Employment Model Replication and Evaluation Report: Working Paper
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 1. PE fidelity components 
+Component Fidelity elements 
+Dual customer design 1. Employment staff negotiate directly with businesses to implement work-based learning experiences 
+2. Regular contact between employment staff and businesses participating in PE 
+3. Business account manager role focuses on business outreach, not VR caseload 
+Team approach with emphasis on 
+rapid engagement 
+4. Jobsville or equivalent regular team meetings focused on communication and coordination between 
+employment staff and VR counselors 
+5. Entire team credit for successful rehab closure 
+6. Consumers meet with employment specialists close to time of IPE signing 
+7. Several, very specific work experience or related consumer options 
+Focus on high-risk or difficult-to­
+place consumers 
+8. Option for consumers with high risk for employment failure due to lack of work history, criminal history, 
+mental illness, multiple disabilities, or co-existing risk factors 
+Mechanism for set-asides or training 
+offset funds 
+9. Funds for PE training offset separate from VR counselor case management funds, so that funds do not 
+compete with other VR needs 
+Liability and workers’ compensation 
+insurance for trainees 
+10. Mechanism for providing liability and worker comp for trainees in lieu of employer need to provide the 
+same, or equivalent method of liability coverage 
+Data tracking tools for PE 11. Consumer RSA-911 case services linked at client level with PE data forms 
+12. Continuously updated local business database regularly used by PE team 
+1.3 Background and Context for PE Model Replication
+ 
+OVERVIEW OF NEBRASKA VR 
+Nebraska VR is a general VR agency serving over 6000 clients per year, with approximately 2000 
+job seekers entering the work force every year. Services are available via 10 area offices, with 
+approximately 213 total staff. Among specialized staff 73% are VR counselors and Pre-Employment 
+Transition Services, 23% are placement, 14% evaluators, and 3% are independent living. This is an 
+approximation, as a number of staff wear multiple hats.  
+Nebraska VR provides the majority of VR services in-house, using community rehabilitation providers for 
+some service provision (e.g., benefits analysis and supported employment). The largest client population 
+distribution centers on the eastern part of the state, with the western half of the state being very rural 
+and relatively unpopulated. The reported rehabilitation rate at the time we initiated the PE replication in 
+2015 was above 65%, making it one of the more successful VR programs in the country. 
+IMPETUS FOR PE MODEL ADOPTION 
+In a preliminary discussion between NVR, VT DVR, and ICI in early 2014, the basic components of the 
+Progressive Employment (PE) model were discussed. NE was doing similar business-focused activities, 
+or the plans were in place to initiate them. One aspect of the PE model that NE wished to emulate 
+was the dual customer model. NE began hiring business account managers (BAMs), with the plan of 
+having one BAM position per region in the state. Currently there are four BAMs in the state who are 
+geographically dispersed in the eastern (most populated) side of the state.  
+NVR has a strong vocational evaluation component, with over a dozen staff with this primary job 
+role. Vocational evaluators were initially concerned that the amount of OJE they conducted was 
+contrary to the PE model; however, Hugh Bradshaw from VT DVR thought that the use of OJE in NE 
+was comparable to the work experience component of PE in VT. In the end, it was the vocational 
+evaluation staff who took advantage of PE-type employment exposures to gather very pertinent 
+data on client rehabilitation needs. 
+9
+
+10 
+Nebraska Vocational Rehabilitation Progressive Employment Model Replication and Evaluation Report: Working Paper
+After continued discussion about the target clientele for the new approach it was decided that any 
+VR applicant who appeared to qualify for services would be potentially eligible for this approach. 
+Once PE case cost data from VT were shared with NE in February 2014, NVR agreed to be involved 
+with the project, and trainings were planned and conducted for their staff by VT and ICI personnel. 
+Subsequently, NVR agreed to join a cohort of three other states replicating PE, rather than remaining 
+a beta site as was originally proposed. This decision was based on timing of the overall project, 
+the potential for a large number of participants in PE, and the alignment of NVR’s services and 
+philosophy (including the RE approach) with the PE model. 
+There were several advantages for replication of PE in Nebraska, including NVR being an innovative 
+program that embraces change and continuous quality improvement. Their philosophical 
+approach to VR service delivery was similar to VT DVR, especially related to business relations, early 
+engagement, and team-based services. Their staff appear to be very supportive of changes and 
+in fact desire to move in the proposed directions—they seem to be used to change and embrace 
+it. Additionally, a field office supervisor characterized the current counselor and employment 
+specialist paperwork burden as “light,” and documentation of some additional data fields would be 
+acceptable to field staff in light of program changes already underway. 
+NVR is unusual in the number of agency staff dedicated to the vocational evaluation function. This 
+factor appears to have had an impact on how PE might be used in the state, especially in regard 
+to the overall percentage of work exposures that might be used early in the process for vocational 
+evaluation purposes. 
+TRAINING AND TECHNICAL ASSISTANCE FOR MODEL IMPLEMENTATION 
+The ICI and Vermont DVR staff provided training and technical assistance, including in-person and 
+web/teleconference meetings to Nebraska VR staff. PE model training, TA, and research staff were 
+available for on-demand TA (email, phone) throughout the model implementation. Additionally, 
+Dennis Moore contributed to the NVR monthly internal newsletter on PE-specific topics pertinent to 
+the field, which supported staff understanding and application of the PE model. 
+PEER-TO-PEER LEARNING COLLABORATIVE 
+The ICI and Vermont DVR hosted the PE Learning Collaborative to facilitate cross-state partnership 
+in PE model replication, implementation, and evaluation. The LC also served as a resource for PE 
+implementation sites for PE materials (written briefs) and other learning objects (videos). As an 
+off-shoot of the PE Learning Collaborative, the ICI also hosted a community of practice for job 
+developers across states to discuss implementation strategies and challenges for topics related 
+to job development and business relations. State agency VR staff and community rehabilitation 
+providers attended a series of web-based conferences to exchange ideas. Nebraska VR was an 
+active participant in both the cross-state LC and the job development community of practice. (See 
+Appendix 3 for a more detailed description of the Learning Collaborative.) 
+1.4 Nebraska VR’s PE Model Implementation Strategies 
+A new approach in NVR that was being introduced when they enrolled in the PE replication 
+study and learning collaborative is called “Meet You Where You Are.” Within this rubric, staff are 
+encouraged to offer early, client-centered services using a range of options. One option is that 
+a job seeker can elect to go into the “Rapid Engagement” (RE) component, which is strongly 
+akin to VT’s Progressive Employment model. The Lincoln office began piloting this RE approach 
+in September 2014, and state-wide implementation started in July 2015 once initial data were 
+available, several BAMs were hired, and state-wide trainings could be accomplished.
+
+Nebraska Vocational Rehabilitation Progressive Employment Model Replication and Evaluation Report: Working Paper
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 2. Model components and implementation strategies 
+PE Component Fidelity Elements of PE NVR Rapid Engagement Implementation Strategy 
+Dual customer design Employment staff negotiate directly with 
+businesses 
+BAM theoretically has first contact with new businesses, then employment 
+specialists do majority of contact with businesses. 
+Regular contact between employment staff and 
+businesses participating in PE 
+Insufficient data to quantify, but staff report regular contact with businesses. OJE 
+sites include some well-established and regularly used business locations. 
+Business Account Manager role focuses on 
+business outreach, not VR caseload 
+Four BAMs represent most populated regions in the eastern part of the state. 
+BAMs do not carry caseload. 
+PE team approach with 
+emphasis on rapid 
+engagement 
+Jobsville or equivalent regular team meetings 
+focused on communication and coordination 
+between employment staff and VR counselors 
+“WIN” meetings follow Jobsville, format and staff are expected to attend. Lincoln 
+has 2 meetings per week due to overall caseload. Staff elect which meeting to 
+attend based on specific agenda and client list. 
+Entire team credit for successful rehab closure This is the NE philosophy but credit goes to VRC in their database. Strong 
+teamwork evident in WIN meetings observed. Staff share roles, often regardless 
+of staff job description. 
+Consumers meet with employment specialists 
+close to time of IPE signing 
+Approximately 1/3 of RE employment exposures are prior to IPE. Often very short 
+time from Application to first RE. 
+Several, very specific work experience or related 
+consumer options 
+RE Activities include company tours, informational interviews, job shadows, mock 
+interviews, OJE, and OJT. 
+Focus on high risk 
+or difficult to place 
+consumers  
+Option for consumers with high risk for 
+employment failure due to lack of work history, 
+criminal justice, mental illness, multiple 
+disabilities, or co-existing risk factors 
+NE is not differentiating anyone as “high-risk,” and RE is available to all clients. 
+Note: at the time of this report, approximately 7.5% of NVR clients received RE 
+services.  
+Mechanism for set-asides 
+or training offset funds 
+Funds for PE training offset separate from VR 
+counselor case management funds, so that 
+funds do not “compete” with other perceived 
+VR needs 
+Funding is not issue, and most funds are pooled and drawn down when needed. 
+Counselors do not have discrete budgets, therefore no issue with spending on 
+VR services vs. job experience. State payroll averages $7.25/hr for longer RE 
+exposures, categorized as “reimbursement” instead of “stipend.” 
+Liability and workers’ 
+compensation insurance 
+for trainees 
+Mechanism for providing liability and worker 
+comp for trainees in lieu of employer need to 
+provide the same, or equivalent method of 
+liability coverage 
+At beginning of replication NVR obtained liability insurance for consumers in work 
+experience, and Workers Comp covered through state. 
+Data tracking tools for PE 1. Consumer RSA-911 case services linked at 
+client level with PE data forms 
+The case management system, QE2, is comprehensive and fluid. Some issues 
+in identifying all RE cases, and especially low dose RE experiences may not be 
+recorded as RE. 
+2. Up to date local business database 
+regularly used by PE team 
+Business data tracking in QE2 was expanded and cleaned of duplicates following 
+hiring of BAMs. 
+1.5 Key Evaluation Questions 
+Each of the four PE replication states had an evaluation plan that was jointly drafted by ICI and 
+the administrative VR staff of the state. Although the plans are similar, each was modified to take 
+advantage of existing data collection systems and specific topics of interest to VR administrators. 
+Because of state-to-state variations in services, programs, and policies, there was no attempt to do 
+rigorous cross-state analysis in this phase of study. The following evaluation plan with six hypotheses was 
+finalized for NVR in December 2015, and the results to date are provided in later sections of this report. 
+• Consumers who participate in rapid engagement work experiences will achieve a higher 
+percentage of successful rehabilitation outcomes compared with consumers who do not 
+participate in rapid engagement over the same time period.
+ 
+• The agency-wide percent of consumers recorded with rapid engagement work experiences, as 
+defined in the “meet you where you are—rapid engagement” option, will increase over the time 
+of the evaluation period. 
+• The median duration of time from application to first work experience will decrease over the 
+period of the project.  
+• The mean number of case services and case costs will be higher for consumers who participate 
+11
+
+12 
+Nebraska Vocational Rehabilitation Progressive Employment Model Replication and Evaluation Report: Working Paper
+ 
+ 
+ 
+ 
+in rapid engagement than for other VR consumers in the same time period. 
+• The total number of businesses that provide work experiences to NVR consumers will increase by 
+20% in the evaluation period. 
+• The percentage of rapid engagement consumers in specific field offices will vary by regions 
+created by specific BAM territories.    
+1.6 Methods Used to Address Evaluation Questions 
+To address the evaluation questions and provide a summary of RE activities in Nebraska VR, we 
+used multiple quantitative and qualitative primary data sources, described below. 
+Although the study design did not specify a comparison group to measure statistical differences 
+between “RE versus non-RE clients,” we summarized variables provided by NVR for youth and adult 
+cases that did not receive RE services in order to provide some context for reported findings on RE 
+client outcomes. For most analyses, we separated youth and adult cases. 
+DATA COLLECTION AND DATA SOURCES 
+Case Data Files 
+Nebraska VR provided case file data drawn from the management information system QE2. The ICI 
+requested a data query of the case management system for all cases with the application date 
+within the range of PE rollout through April 30, 2017 which included: basic case file data elements 
+(e.g., demographics) for all cases including RE and non-RE, and all RE-specific data for all RE cases. 
+Nebraska VR provided an Excel data file with each containing a single case (representing a single 
+individual) with all personally identifiable information redacted. Each case was represented by a 
+case ID number. Nebraska VR also provided a data extract containing services provided to each 
+case in a separate file. The case file data extract contained 9,609 cases, of which 700 were RE 
+cases and 8,909 were non-RE cases. 
+Monthly Aggregate Rapid Engagement Summary Reports 
+ICI was provided approximately 25 monthly summary spreadsheets about RE activities. These 
+spreadsheets were delivered timely, provided cumulative data to date, and were used in the 
+monthly phone conference calls as a source of information on progress of this initiative. The reports 
+were very helpful in generating discussions about numerous aspects of RE service delivery. 
+Survey of Nebraska VR Staff on Rapid Engagement 
+Overview. The ICI and NVR implemented a web-based Rapid Engagement Evaluation Survey of 
+NVR staff who are responsible for implementing the PE model. The purpose of the survey was to 
+describe NVR staff use of PE and gauge satisfaction with the model. 
+The survey instrument was reviewed by NVR’s PE team and questions were added / edited based 
+on NVR recommendations. Participants were invited to complete the survey through an email with 
+a link to the accessible web-based survey housed in Survey Gizmo. ICI research staff managed the 
+data collection and analysis. The survey was launched and data collection was completed June– 
+July of 2017. 
+Respondents. A total of 55 NVR staff responded to the survey, for a response rate of 25.8% (213 
+staff, some of whom probably are not involved with RE). Most repondents were VR counselors (n=22
+
+13 
+Nebraska Vocational Rehabilitation Progressive Employment Model Replication and Evaluation Report: Working Paper
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+or 40%) or job placement / employment specialists (n=17 or 31%). Other titles include vocational 
+evaluator, business account manager, administrator / supervisor, or other. Respondents were asked 
+to indicate the number of RE cases they were involved with by selecting a range option. Responses 
+were distributed across the different ranges, indicating a diverse level of involvement in PE cases 
+across respondents. 
+In-person Fidelity Site Visit 
+A PE fidelity to model visit was conducted by ICI staff Kelly Haines and Dennis Moore at the end 
+of April 2016, to determine the fit of RE with the Vermont PE model. The draft fidelity instrument 
+consisted of 25 items, and it was created for the purpose of estimating fidelity to model in the PE 
+replication states.  
+Based on the fidelity visit, monthly phone calls with NVR and ICI, and anecdotal data, it was 
+determined that the RE model fits very closely with PE as developed in VT DVR. Operational 
+practices, as well as process and outcome data, appeared to be consistent from VT to NE in spite 
+of the differences in program nomenclature. 
+The following areas of RE match PE principles and practices: 
+• Focus on employers and businesses as partners (dual customer model). 
+• Early engagement – NVR is highly focused on “Rapid Engagement” as a tool for exposing clients 
+to job opportunities and client focused career selections very early in the VR process.   
+• Jobsville meetings – The types and levels of staff communication during staffing sessions parallel 
+the intent of VT Jobsville meetings (called “WIN meetings” in NE). 
+• Business Account Managers (BAMs) – NVR has hired several BAMs whose primary focus is 
+businesses. As in VT, they do not carry a client caseload, and their focus is developing new 
+business contacts and client placement opportunities. The main difference between BAMs in VT 
+and NE is that BAMs in NE are area-based. 
+• Funds exist to substantially lower the burden for employment sites, such as mechanisms for 
+covering wages, stipends, liability, and Workers Compensation. NVR reports that they have 
+sufficient resources in house to cover these expenses. Budgets are not assigned to specific VR 
+counselors. 
+• The percentage of overall agency clientele served by RE in NE is roughly similar to people 
+receiving PE in VT DVR.  
+Quarterly/Monthly Conference Calls 
+Monthly conference calls were held between NVR and ICI, with Janet Drudik and Dennis Moore 
+attending the bulk of these calls. These frequent contacts provided an opportunity to refine the 
+model and implementation strategies, and to discuss training needs and areas of concern. The calls 
+were also helpful in providing a larger context to ICI regarding the overall philosophy of NVR, as well 
+as understanding other initiatives that were also in effect at the same time at the agency. 
+Additional Documents / PE Materials Review 
+In keeping with the materials available on PE in VT, several brochures and other informational media 
+were developed in NE to assist their clients, as well as potential employers, in understanding the 
+benefits of the VR program. These materials are high quality, and they have already been shared 
+with several other VR programs across the country.
+
+14 
+Nebraska Vocational Rehabilitation Progressive Employment Model Replication and Evaluation Report: Working Paper
+2. SUMMARY OF RE SERVICES
+ 
+2.1 Clients Served 
+The official state-wide start of RE occurred in July 2015. Approximately 700 VR consumers were 
+recorded as receiving some service within RE from that time to June 2017. 
+Although the criteria for recruitment into RE may differ from that of PE in VT DVR, there are a 
+number of similarities in participant demographics across the two state VR programs. In particular, 
+the percentage of NVR RE participants employed at application was lower than non-RE clients, 
+and NVR RE participants had higher percentages receiving Supplemental Security Income or 
+Social Security Disability Insurance. The primary disability of NVR RE participants is similar to the 
+demographic trends for PE in VT DVR with the highest percentages of participants with mental 
+health or intellectual disabilities diagnoses. Table 18 in the Appendices describes demographic and 
+descriptive data on RE and non-RE participants. 
+Generally speaking, the demographics of clients referred into RE match the non-PE VR population. 
+However, there are indications that the RE cohort has less successful job experience, or they have 
+somewhat greater barriers to vocational success. 
+2.2 RE Activities 
+NVR has a number of staff positions dedicated either full or part time to vocational evaluation. 
+There was some concern at the start of this project about how these staff would interface with a PE-
+type model of early intervention; however, the staff appear to have not only endorsed the model 
+but have expanded it to include significant work exposures for the purpose of on-the-job evaluation 
+(OJE). In fact, this work exposure service type is the most common for both adults and youth going 
+into RE. Similar to VT DVR, work exposures tend to involve more high-dose than low-dose exposures, 
+where a low dose is any exposure lasting no more than one day. Figure 1 and Table 4 below details 
+the RE experiences for adults and youth. 
+Figure 1. RE Experiences: Total Number of Services Provided
+
+Nebraska Vocational Rehabilitation Progressive Employment Model Replication and Evaluation Report: Working Paper
+Table 3. RE experiences: Total number of services provided 
+Adult RE experiences Services Total Youth RE experiences Services Total 
+Employer Tours-Group 0 Employer Tours-Group 0 
+Employer Tours-Individual 59 Employer Tours-Individual 36 
+Informational Interview 68 Informational Interview 22 
+Job Shadow 51 Job Shadow 74 
+Mock Interviews-Employer 31 Mock Interviews-Employer 30 
+On-the-job Training 128 On-the-job Training 61 
+On-the-job-evaluation 449 On-the-job-evaluation 184 
+Volunteer Experience 24 Volunteer Experience 8 
+Total Adult 810 Total Youth 415 
+Adult Youth 
+High dose = 601 Low dose = 209 High dose = 253 Low dose = 162 
+74.2% high dose – 25.8% low dose 61.0% high dose – 39.0% low dose 
+High dose = experience lasting more than one day (OJT, OJE, volunteer)
+ 
+Low dose = experience lasting one day or less (tour, interview, job shadow)
+ 
+High/Low dose ratio for adults similar to VT DVR percentage
+ 
+*Note: some low dose experiences may not have been recorded as an “RE” case although the individual was staffed 
+as RE in a team meeting. A similar phenomenon exists in VT.
+ 
+The numbers for NVR reported in the table above also include open cases, so the average RE exposures per job 
+seeker are likely to be somewhat higher in the future.  
+15
+
+Nebraska Vocational Rehabilitation Progressive Employment Model Replication and Evaluation Report: Working Paper
+ 
+3. IMPACT ON SERVICE-RELATED OUTCOMES 
+3.1 Case Flow 
+The agency-wide percent of consumers recorded with rapid engagement work experiences, as 
+defined in the “meet you where you are—rapid engagement” option, will increase over the time of 
+the evaluation period. 
+Table 4. Statewide number and percent of RE / total cases over time by adult and youth 
+Spreadsheet Date RE adult RE youth Non-RE adult Non-RE youth 
+12/3/15 33  (2.4%) 21  (2.6%) 1343 785 
+5/1/16 144  (4.7%) 119 (6.4%) 2944 1754 
+12/1/16 284  (5.5%) 248  (9.9%) 4879 2254 
+7/ 7/ 17 435  (6.4%) 299  (10%) 6334 2675 
+From selected monthly reports spaced approximately 6–7 months apart 
+As demonstrated in the above table, this hypothesis appears to be supported. 
+The median duration of time from application to first work experience will decrease over the period 
+of the project. 
+Table 5. Median days from application to first RE experience 
+Date of Application RE adult days from application to first RE RE youth days from application to first RE 
+Mean Median Mean Median 
+Before 12/31/15 124.9 92.5 197.5 183 
+1/1/2016–5/31/16 103.2 70 118.5 99.5 
+6/1/2016–12/31/16 82.1 62 89.6 57 
+After 1/1/17 48.3 42 31.5 26 
+According to Table 5, this hypothesis is supported. The times from application to first RE appear to 
+shorten as the project continued. It appears that as the RE option became more frequently used, 
+staff became more practiced at implementing RE more quickly and earlier in the rehabilitation 
+process. Anecdotally, comments by senior staff suggested that the agency trained and dialoged 
+with staff in how they could better use vocational evaluation strategies earlier in the VR process. 
+Current VR research suggests that early engagement leads to greater success and less drop-out, 
+but some information from NVR is counterintuitive. Specifically, participants in RE tend to experience 
+a much longer median time from eligibility to IPE than non-RE participants. However, unlike most 
+state VR programs, in NE the RE participants are engaged with businesses during the time before 
+the IPE is developed, often in OJE activities. Then experiences and observations of participants, 
+businesses, and VR staff are then used to craft a targeted IPE based on vocational interests and 
+rehabilitation issues identified during the work exposure. 
+One somewhat unexpected but dramatic effect of RE appears to be the reduction of dropouts 
+prior to IPE, as seen in Table 6 below. The table examines closed cases only (successful + 
+terminated), including terminated cases due to ineligibility. 
+16
+
+Nebraska Vocational Rehabilitation Progressive Employment Model Replication and Evaluation Report: Working Paper
+ 
+ 
+Table 6. Comparison of unsuccessful early dropout rates for RE vs. non-RE for closed cases only (successfully closed + terminated) from 
+case file data 
+Rapid Engagement Statistics Non Rapid Engagement Statistics 
+Adult Youth Adult Youth 
+Total Unsuccessful 
+prior to IPE Total Unsuccessful 
+prior to IPE Total Unsuccessful 
+prior to IPE Total Unsuccessful 
+prior to IPE 
+195 60 75 37 4155 2083 919 618 
+Unsuccessful % prior to IPE 
+30.8% 49.3% 50.1% 67.2% 
+All Active cases are excluded; terminated cases due to ineligibility are included. 
+It might be argued that early engagement with clients is the deciding factor in the above statistics, 
+rather than RE itself. However, two things mitigate this possibility. Over one half of RE employment-
+related experiences occurred after the IPE was signed. Also, the success of RE does not appear to 
+be related to how closely after application that the first RE experience occurs. 
+In order to test this, we calculated the Pearson Correlation Coefficient between status of early 
+dropout in RE and time in days from application to first business contact. The result (R=0.068, 
+p=0.268) indicates minimal correlation between early dropout and days from application to first RE 
+business contact. This suggests that it is the RE experience itself, not the proximity of the experience 
+to the application date, that contributes to successful outcomes for people in RE. 
+3.2 Case Cost 
+The mean number of case services and case costs will be higher for consumers who participate in 
+rapid engagement than for other VR consumers in the same time period. 
+Table 7. Average case costs by team for RE and non-RE adults and youth 
+Open Case Successful Closure Terminated 
+Mean Median Mean Median Mean Median 
+RE-Youth 969.71 497.00 1969.29 1307.37 354.55 0.00 
+RE-Adult 1143.53 732.34 1823.76 1196.17 918.30 428.49 
+Non-RE-Youth 490.14 0.00 1471.16 160.47 71.84 0.00 
+Non-RE-Adult 776.87 0.00 1896.76 500.51 225.46 0.00 
+Cost data are somewhat confusing. Based on case services data provided to ICI, average and 
+median successful RE youth costs are higher than non-RE youth. The average costs for RE adults 
+with a successful closure are slightly lower than similar non-RE adults, although the median is higher 
+for RE than non-RE. The RE costs are approximately four times higher for unsuccessfully terminated 
+cases than for non-RE cases. However, median case costs appear substantially higher for RE in 
+all categories compared with non-RE cases. Confusing the issue, the spreadsheets generated 
+specifically for RE ICI phone calls consistently showed lower costs for RE than non-RE for both youth 
+and adults. The expectation has been that RE would cost more than non-RE due to the nature of 
+the model and the somewhat more problematic clientele involved with the RE approach.  
+One interesting observation is the “00” values under median costs for non-RE participants in the 
+above table. Zeros only occur in median values for some categories of open cases and terminated 
+cases. In Nebraska VR, staff-provided services do not have an associated cost. One explanation 
+for the zero values may be that these cases did not yet receive any cost services (open cases) or 
+17
+
+18 
+Nebraska Vocational Rehabilitation Progressive Employment Model Replication and Evaluation Report: Working Paper
+terminated cases that closed before services were provided. Given the longer duration of open 
+cases in RE, as well as the increased number of business exposures, it seems logical that RE would 
+be more costly. This additional cost is hidden somewhat by VR staff providing job placement and 
+business contact services rather than through contractors.  
+3.3 Business Relations 
+The total number of employers/businesses that provide work experiences to NVR consumers will 
+increase by 20% in the evaluation period. 
+One of the goals of NVR was to develop a more robust system of recruiting and recording potential 
+employers willing to provide work experiences. In the latter half of 2015, the business database 
+was cleaned and made more usable for BAMs and other personnel. Because of those changes to 
+the database, business figures after that time were used to calculate the growth of the business 
+database. 
+The NVR RE spreadsheet from April 2016 indicated that 1,232 businesses were recorded in the 
+database. Approximately 14 months later, the June 2017 spreadsheet recorded 2,036 businesses. 
+This constitutes a 65.3% increase in businesses just in that 14-month period. However, it does not 
+specifically indicate that this larger number of businesses provided work experiences for RE clients. 
+Assuming these numbers are correct, it seems likely that the 20% goal has been exceeded, but no 
+clear evidence is available to rigorously test this assumption at this time. 
+The percentage of rapid engagement consumers in specific field offices will vary by regions 
+created by specific BAM territories.    
+Figure 2. Number of Cases in RE by BAM Region
+
+Nebraska Vocational Rehabilitation Progressive Employment Model Replication and Evaluation Report: Working Paper
+     
+ 
+     
+     
+     
+Table 8. Number and percent of RE youth and adult by BAM region 
+BAM region Team RE Adult RE Youth Non-RE Adult Non-RE 
+Youth 
+No BAM Scottsbluff/North Platte 72 32 676 437 
+No BAM percent 9.6 6.8 
+A Col/Frem/Norfolk 74 109 1120 591 
+A percent 6.2 15.6 
+B Omaha-B, D, W 41 25 1462 403 
+B percent 2.7 5.8 
+C Kearney/GI 99 70 1339 594 
+C percent 6.9 10.5 
+D Lincoln 124 60 1690 638 
+D percent 6.8 8.6 
+The above chart and table show the variations in frequency of use of RE throughout the state. 
+Scottsbluff/North Platte have the highest percentage of adult RE (9.6%), with Scottsbluff having the 
+highest individual office rate (13.7%) of adults who are in RE. The highest percentage of youth in RE 
+occurs in BAM area A, with 15.6% of youth in RE, and Norfolk has the highest rate of the two offices 
+(16.6%). 
+After several discussions with NVR staff, it seems likely that factors beyond individual BAMs impact 
+differences in use of RE in an area. A case in point is that the highest adult RE use comes from an 
+area without an official BAM. It is likely that multiple factors influence RE use, and the ICI fidelity 
+review visit noted some factors. We reported that specific roles within the VR team are often shared 
+by staff, regardless of what their specific job title might be. This is seen as a strength of the NVR 
+program, but it makes determinations of factors that influence RE use more difficult. 
+With the available data, it is difficult to predict with any certainty the impact of BAM regions or BAM 
+personnel on the total clientele recruited into RE by region. 
+19
+
+Nebraska Vocational Rehabilitation Progressive Employment Model Replication and Evaluation Report: Working Paper
+ 
+ 
+ 
+ 
+4. IMPACT ON EMPLOYMENT OUTCOMES 
+4.1 Successful Rehabilitation Outcomes 
+Consumers who participate in rapid engagement work experiences will achieve a higher 
+percentage of successful rehabilitation outcomes compared with consumers who do not participate 
+in rapid engagement over the same time period. 
+Table 9. Comparison of outcomes for RE vs. non-RE (traditional comparison)
+  Status of participants with IPE 
+RE(PE) 
+Total no yes 
+Adult Open case 1531 187 1718 
+Successful outcome 1385 88 1473 
+Terminated unsuccessful 677 47 724 
+3593 322 3915 
+Youth Open case 587 83 670 
+Successful outcome 161 23 184 
+Terminated unsuccessful 136 14 150 
+884 120 1004 
+RE adult 65.19% 
+Non-RE Adult 67.17% 
+RE Youth 62.16% 
+Non-RE Youth 54.21% 
+Table 10. Comparison of outcomes for RE vs. non-RE (non-traditional comparison*)
+  Status of participants with IPE 
+RE(PE) 
+Total no yes 
+Adult Open case 2525 258 2783 
+Successful outcome 1395 88 1483 
+Terminated unsuccessful 2760 107 2867 
+6680 453 7133 
+Youth Open case 1310 172 1482 
+Successful outcome 165 24 189 
+Terminated unsuccessful 754 51 05 
+2229 247 2476 
+Successful closure rate* 
+RE adult 45.13% 
+Non-RE Adult 33.57% 
+RE Youth 32.0% 
+Non-RE Youth 17.95%
+ *Successful closure rate = # Successful outcome / (# Successful outcome+ #Terminated Unsuccessful including prior to IPE) (not 
+convention for reporting successful rehabilitation to RSA as pre-IPE closures included in analysis) 
+20
+
+Nebraska Vocational Rehabilitation Progressive Employment Model Replication and Evaluation Report: Working Paper
+ 
+Table 10 considers all VR participants, including those who drop out or are terminated from services 
+prior to IPE. Therefore, the “successful closure rate” will be lower than the “rehabilitation rate” as 
+normally calculated. The table was calculated this way to consider all persons who are found 
+eligible for VR, and the employment rates for people with disabilities derived from this table more 
+closely match congressional figures.  
+Using this method of calculation, RE appears to be more effective in leading to success than non-
+RE. To date, the success rate for RE adults is over 11% higher than for non-RE adults, and for RE youth 
+there is a 14% better success rate than for non-RE youth. 
+5. NEBRASKA VR STAFF EXPERIENCES WITH RE 
+Rapid Engagement Evaluation Survey—Nebraska VR Results 
+The ICI and NVR implemented a web-based Rapid Engagement Evaluation Survey of NVR staff who 
+are responsible for implementing the PE model. The purpose of the survey was to describe NVR staff 
+use of PE and gauge satisfaction with the model. Respondents were asked to consider referral to RE 
+and select the top three characteristics that best describe job seekers that are a good fit for Rapid 
+Engagement. 
+The most frequently selected responses were: 1) little to no work history, 2) “stuck” case (no progress 
+in some time), and 3) client’s stated interest in obtaining work experience. The next most frequently 
+selected response was “No set criteria: it depends on the client” (n=20 or 36.4%). (See Table 22 in 
+the Appendices for the frequency of all responses.) 
+The survey included a series of three questions about the utility of the RE model across different 
+aspects of day-to-day work, including engagement with key stakeholders. We first asked 
+respondents to think about the usefulness of RE in daily work with job seekers, employers, and team 
+members. Overall, the three major components of the RE model were reported to be very useful or 
+somewhat useful by the majority of respondents. Table 11 summarizes the frequency of responses. 
+Table 11. Frequency of responses: Usefulness of RE model components in daily work (N=55) 
+Very useful Somewhat useful Not very useful Not at all useful N/A 
+Finding work exposures for job seekers 
+/ clients 
+21 27 2 0 5 
+Meeting employer needs 16 27 8 0 4 
+Communicating within the VR team 
+(e.g. through “WIN” or team meetings) 
+29 21 1 1 3 
+Total 66 75 11 1 12 
+One respondent wrote in a response option (“educational for client-hands on approach”) as very 
+useful. 
+Next, respondents were asked to consider the period before NVR started Rapid Engagement, 
+and report how the RE model changed the way the respondent works. More than half of the 
+respondents found the RE model to make work with job seekers, employers, and the VR team easier 
+or better. About a third of respondents reported that the RE model had no effect on the way the 
+agency worked with job seekers and within the VR team, and slightly more (43%) said the same for 
+working with employers. Two respondents thought that the RE model made work with job seekers 
+and employers more difficult. 
+21
+
+Nebraska Vocational Rehabilitation Progressive Employment Model Replication and Evaluation Report: Working Paper
+  
+ 
+Table 12. RE model impact on work (N=53) 
+Easier / better No change (business as usual) More difficult 
+With jobseekers / clients 34 17 2 
+With employers 28 23 2 
+With the VR team 36 17 0 
+Total 98 57 4 
+In a similar vein, responses related to the overall utility of the RE model for service delivery were 
+positive. Nearly all respondents agreed or strongly agreed that RE is an important tool for VR; that 
+RE has potential to improve outcomes; and that RE allows staff to be empowered as part of the PE 
+team. These results are summarized in Table 13. 
+Table 13. Frequency of responses: RE as a model for service delivery (N=54) 
+Strongly 
+Agree Agree Disagree Strongly 
+Disagree N/A 
+RE is an important tool for VR  20 34 0 0 0 
+I feel that RE has a lot of potential to 
+improve outcomes 20 34 0 0 0 
+RE has allowed me to be more empowered 
+and part of the PE team 9 32 4 0 9 
+Total 49 100 4 0 9 
+The survey also included statements related to respondents’ understanding of the RE model and 
+comparison to business as usual, as well as the potential difficulties in implementing the RE model. 
+There was limited consensus across statements, particularly with regard to the statement that “RE 
+is pretty much business as usual with no real changes,” and with the level of difficulty RE entails in 
+engaging with clients or employers. Table 14 shows the frequency of responses. 
+Table 14. Frequency of responses: RE as a model for service delivery, continued 
+Strongly 
+Agree Agree Disagree Strongly 
+Disagree N/A Total N 
+I do not understand how RE differs from 
+what we do on other cases 1 6 30 15 3 55 
+RE is pretty much business as usual with 
+no real changes 3 20 18 11 2 54 
+RE is more difficult due to expectations 
+regarding the intensity of contact with 
+clients or employers 
+2 13 25 12 2 54 
+RE is more difficult because of 
+funding issues 0 5 30 16 4 55 
+Total 6 44 103 54 11 
+22
+
+23 
+Nebraska Vocational Rehabilitation Progressive Employment Model Replication and Evaluation Report: Working Paper
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+DISCUSSION AND IMPLICATIONS 
+Synopsis of Findings based on the Evaluation Questions 
+There will be a higher percentage of successful outcomes in RE compared with other clients (non-RE). 
+Outcomes for youth suggest a difference in the traditional method of measuring VR success (RE = 
+62% success vs 54% non-RE). For adults the results are very close (RE = 65% vs non-RE = 65%). When 
+all consumers are taken into account, including those who exit prior to plan, then RE appears to 
+be more effective for both adults and youth. Considering the likelihood of a more challenging 
+demographic profile of adults in RE, this is an encouraging finding in itself.  
+Moreover, since times in service are considerably longer for RE clients, it is possible that the results 
+will continue to improve for this group over the next year or two when the higher percentage of 
+consumers in RE are closed.  
+The percent of clients in RE will increase over time. 
+As demonstrated by Table 5, the percent of clientele referred into RE expanded from approximately 
+2.5% of all clients in December 2015, to over 6% of adults and 10% of youth in June 2017. Although 
+NVR administration agreed to a goal of 200 total new cases per year, this target was exceeded by 
+nearly double to 700 in RE at the end of the project period. 
+Aside from the enthusiasm from the field for this VR option, the NVR project lead is recognized for her 
+continuing work to improve this VR option. From the monthly phone calls with ICI (Moore & Haines), 
+it became obvious that her mentorship, guidance, trainings, and feedback to the field staff greatly 
+improved the adoption of this program. At the present time, approximately 11% of all clientele in VT 
+DVR enter PE, and NE appears to be approaching this overall percentage. Since the beginning of the 
+NVR replication project, approximately 10% of youth and 6.4% of adults have entered RE. 
+The duration from application to first work experience will decrease over time. 
+The 3rd hypothesis was not supported – i.e., the time from application to first work exposure did 
+not shorten as the project continued. Almost the opposite was observed. However, the excellent 
+outcomes for RE do not seem to make this measure nearly as important as was anticipated. NVR 
+takes the concept of “early engagement” to the logical conclusion that select services should begin 
+as soon after application as possible. The policies, personnel (especially vocational evaluators and 
+transition staff), and practices promote early exploration of job matching and rehabilitation objectives 
+that are individualized and timely, especially for clientele who would benefit from such exposure. 
+A post-hoc analysis of correlation between successful outcome and timing of the RE after 
+application suggested that RE itself, not proximity of work exposure to application date, is the 
+deciding factor in rehabilitation success. The duration from application to first RE tended to grow 
+wider as the project continued, and this same phenomenon was observed in other replication sites. 
+This may be a factor of caseload size and prioritization of resources by personnel responsible for job 
+placement and employment exposures. 
+Case costs will be higher for RE than others not in RE. 
+Using case cost data from QE2, case costs appear to be higher for persons in RE than those not in 
+RE. One difference in NVR from the other replication sites is that the agency does not rely to a great
+
+24 
+Nebraska Vocational Rehabilitation Progressive Employment Model Replication and Evaluation Report: Working Paper
+degree on CRPs to provide employment-related services. This changes the accounting of service 
+delivery costs, effectively lowering them for RE services. The longer open case time in RE may 
+change the actual case costs slightly over the next year as more people in RE are closed. 
+The number of employers providing work experiences will increase by 20%. 
+Insufficient specificity linking work exposures to specific businesses existed in the databases (other 
+than text files) to rigorously test this hypothesis. However, the growth in the number of businesses 
+willing to provide experiences, plus the addition of so many new BAM positions, strongly suggest that 
+the goal was most likely met. 
+Anecdotal evidence in the form of staff comments offered appreciation for the BAM positions. 
+However, some employment specialists continued to be concerned that short-term placements 
+of some clients in employment settings would jeopardize those sites if the client did not fulfill the 
+agreed-upon obligation.  
+It is suggested that booster sessions on RE be conducted with employment specialists to solidify 
+how and when the specialist can make certain that job sites are not lost because of unsuccessful 
+placements. It is further recommended that NVR consider enhancing its business database so that 
+specific businesses can be linked with client-specific data. 
+The percent of RE consumers in field offices will vary by BAM regions. 
+Overall, approximately 6% of adults and 10% of youth ended up in RE statewide during the 
+evaluation period. There was variation in the percent of clients in RE for youth and adults by 
+BAM regions, and this pattern is similar to what has been observed in VT. Interestingly, the highest 
+percentage of RE adults occurred in a region without a designated BAM (Scottsbluff/North 
+Platte), with 9.6% of adults in RE average in that region. The highest percent of youth in RE was 
+15.6 % in Col/Frem/North Fork. There are likely multiple factors that influence this distribution, 
+including case mix, staff case load specialties or job duties, number and commitment of BAMs, 
+and supervisor influences. 
+Additional Evaluation Question: Severity of Disability 
+Preliminary discussions of this evaluation report with NVR administrators identified an addition 
+of topic of concern, namely the potential impact of RE on the decision to implement Order of 
+Selection. Specifically, does the distribution of Priority Categories of participants in RE differ from 
+those of the general VR population? Table 15 and Figure 3 provide some insight into this question.  
+The distribution of cases across Priority Categories for RE closely matches that of non-RE cases. 
+RE cases represent individuals in all categories, with almost half in Priority Category 1, a third in 
+Priority Category 2, and one-fifth in Priority Category 3. Just over 1,000 cases in the QE2 dataset 
+had Priority Category blank and are noted as “No category” in the chart. These cases were in the 
+assessment stage prior to eligibility, and/or terminated prior to determination of eligibility at the 
+time of the report. Nebraska VR was waiting for medical information, or in some cases, an on-the­
+job evaluation (OJE) was in progress to assess work issues to determine priority categorization in 
+conjunction with eligibility.
+
+Nebraska Vocational Rehabilitation Progressive Employment Model Replication and Evaluation Report: Working Paper
+ 
+Table 15. Priority category distribution of cases 
+Priority Category Non-Rapid Engagement 
+(N=8909) 
+Rapid Engagement 
+(N=700) Total 
+No category 1016 (11.4%) 6 (0.9%) 1022 
+1 3704 (41.6%) 337 (48.1%) 4041 
+2 2599 (29.2%) 219 (31.3%) 2818 
+3 1590 (17.8%) 138 (19.7%) 1728 
+Total 8909 700 9609 
+Figure 3. Priority category distribution for RE and non-RE cases 
+25
+
+26 
+Nebraska Vocational Rehabilitation Progressive Employment Model Replication and Evaluation Report: Working Paper
+7. ADDITIONAL OBSERVATIONS AND RECOMMENDATIONS
+ 
+ADHERENCE TO PROGRESSIVE EMPLOYMENT MODEL. Although the NVR model is not specifically 
+called “progressive employment,” the “rapid engagement” option offered under “Meet you where 
+you are” is very close to the PE approach used in VT DVR. This is supported by the fidelity-to-model 
+observations listed above, as well as the demographic and outcome data available on NVR RE 
+consumers that parallels VT DVR. The fidelity-to-model information is contained in Tables 1 & 2 and 
+the accompanying text contained above. 
+In addition, the demographic and outcome data in NE match VT in many ways, e.g., profile of 
+clientele served, mean # RE experiences per consumer, high- vs low-dose ratio of RE experiences, 
+and the comparable rates of successful outcomes (especially of NE youth). Consumers using RE 
+include individuals with a 50% higher incidence of SSDI/SSI receipt for youth, and nearly double 
+the incidence for adults compared with other NVR clientele. RE recipients also have a lower rate 
+of employment at the time of application. In spite of this, the educational levels, gender balance, 
+and ethnic balance are approximately the same for RE and non-RE participants. The category 
+of disability severity for RE recipients is slightly higher in percentage for category I, but generally 
+matches the distribution of severity for all NVR participants. 
+RE OUTCOMES. Given the profile of persons entering RE, the outcome statistics are impressive. RE 
+appears to be an effective means for addressing individuals with a limited work history or conditions 
+that might stigmatize or otherwise seriously prevent them from finding successful employment. 
+This approach appears to be particularly effective for youth, as demonstrated by a successful 
+rehabilitation rate of 62% of RE youth vs 54% of non-RE youth (using the standard convention for 
+reporting VR success). The potential role of RE with or after Pre-ETS and with transition services seems 
+particularly promising.  
+An additional unexpected benefit of RE is the dramatic decrease in drop-out rates prior to IPE. The 
+drop-out rates prior to IPE for adults and youth were decreased by nearly two thirds for individuals in 
+RE. The apparent effectiveness of RE in reducing closures prior to IPE is worth continued monitoring 
+and evaluation. 
+NVR is the only agency currently using RE/PE prior to IPE. Research in VR supports the claim that 
+early intervention is quite effective in retaining consumers in VR as well as linking them with jobs. 
+Furthermore, the literature suggests that early work experiences are especially helpful when 
+working with youth. The linking of vocational evaluation with RE is seen as a promising tool for those 
+consumers who have limited successful prior work experience. 
+STAFF ROLES IN RE. As stated in the ICI fidelity report, NVR staff seem to be particularly flexible in the 
+roles and responsibilities that they undertake. This reflects a sense of team cooperation as well as 
+ingenuity and dedication in serving clients. These attributes seem compatible with the RE/PE model, 
+as team communication and cooperation are critical elements. 
+The staff satisfaction survey data on RE suggest that some job placement staff still are on the fence 
+about the benefits of RE, which may be expected given the short time this intervention has been 
+used. We recommend additional booster sessions for job placement personnel. 
+The vocational evaluation staff in NVR appear to understand the value of RE, as they have been 
+active in referring clients for early RE experiences. These staff appeared to be responsible for nearly 
+half of RE referrals, especially when those work experiences were organized prior to plan. Although
+
+Nebraska Vocational Rehabilitation Progressive Employment Model Replication and Evaluation Report: Working Paper
+the pre-IPE experiences tend to extend the time from application to plan, the lower rates of early 
+dropout, as well as the rates of success, clearly suggest that the model is paying dividends for the 
+vocational evaluation staff and NVR in general. Staff referrals for transition youth also contributed 
+significantly to this model. 
+A more detailed analysis of survey responses suggests that staff think that RE has improved the 
+provision of VR services and works well with employers; however, some respondents consistently 
+described RE as “business as usual,” and some expressed concern with the time commitment 
+required to provide RE services, suggesting there is an opportunity for additional training and 
+refinement of the model. 
+COST DATA. The cost data suggest that RE is compatible with the funding structures in NVR, as most 
+services are provided in house. This is an internal staff expense, and as such it side-steps the costs 
+normally associated with contracted services that most state VR programs encounter. Outcome 
+data suggest that RE is more costly than services as usual; however, some ambivalence in “costs” 
+definitions make it prudent to continue investigation into this question. 
+ANNUAL CLIENT SATISFACTION SURVEY. Although the NVR annual client satisfaction survey did not 
+differentiate clients who received RE, the overall change in “job meets needs” between 2015 
+and 2016 was notable. Mark Schultz remarked that RE likely contributed to the increase in client 
+satisfaction. Future satisfaction surveys may be able to tease this out, with the caveat that many VR 
+consumers are not always able to identify the specific program or services that they received during 
+their tenure as a client with the agency. 
+Table 16. Statewide VR client satisfaction survey comparison 2015–2016 Q1 
+FY2016 Q1 FY2015Q1 
+Surveys completed 335 312 
+Currently employed 94.03% 88.78% 
+Job meets needs 96.52% 81.95% 
+How likely to recommend VR to friend or family 
+Very likely 87.16% 86.54% 
+Somewhat likely 10.15% 8.65% 
+Very & somewhat likely total 97.31% 95.15% 
+Neutral 2.09% 2.24% 
+Somewhat unlikely 00.0% 1.28% 
+Very unlikely 0.60% 1.28% 
+Somewhat and very unlikely total 0.60% 2.56% 
+Taken from agency document 
+DATA COLLECTION IN RE. Concomitant with additional trainings or dialogue with staff, we 
+recommend that administrative staff in concert with QE2 data staff and ICI personnel consider 
+additional ways that RE experiences can be recorded in the QE2 database. There is evidence 
+suggesting that not all persons who received an RE experience were recorded as such, especially 
+for those who may have had a “low-dose” experience such as a company tour. 
+27
+
+28 
+Nebraska Vocational Rehabilitation Progressive Employment Model Replication and Evaluation Report: Working Paper
+Data from the business contacts spreadsheet indicate that nearly double the number 
+of businesses have been contacted since the BAMs were hired. This is outstanding. It is 
+recommended that all staff be encouraged to use this database. In particular, dates and the 
+topics of discussion on follow-ups with businesses could be documented so that the patterns of 
+interaction with businesses can be evaluated at a later date. Client-specific information also 
+could be maintained in this database, including a categorical variable “yes” or “no” to indicate if 
+any client placements have occurred with this business.  
+Further, a protocol for including the primary NVR contact with the business could be considered 
+so that staff who are attempting placements are able to talk with the individual who might have 
+the strongest relationship with that business prior to placement attempts. Variables that VT DVR 
+have found particularly helpful pertain to who, how often, when, and where the primary business 
+contact prefers to have follow-up contact from the BAM or job placement persons. 
+The relatively short timeframe of evaluation for RE has already produced some encouraging and 
+positive findings. Since the data collection infrastructure is already in place, it will be enlightening 
+to continue to evaluate this program and client outcomes over the next several years. And given 
+the growing interest in PE within the VR community, NVR can continue to lead the field in this 
+exciting work.
+
+Nebraska Vocational Rehabilitation Progressive Employment Model Replication and Evaluation Report: Working Paper
+ 
+APPENDICES 
+Appendix 1: Additional RE Demographic and Outcome Tables 
+Table 17. Demographic information of RE and non-RE youth and adults 
+Rapid Engagement Non-Rapid Engagement 
+Youth 
+(N=247) 
+Adult 
+(N=453) 
+Youth 
+(N=2229) 
+Adult 
+(N=6680) 
+DEMOGRAPHIC INFORMATION 
+Sex 
+Female 89 36.0% 203 44.8% 935 41.9% 2959 44.3% 
+Male 158 64.0% 250 55.2% 1294 58.1% 3721 55.7% 
+Age at Application 
+Mean 18.56 42.34 18.85 42.05 
+Median 18.12 42.98 18.48 41.07 
+Race 
+American Indian or Alaska Native 5 2.0% 6 1.3% 40 1.8% 218 3.3% 
+Asian 2 0.8% 6 1.3% 20 0.9% 50 0.7% 
+Black/African American 15 6.1% 28 6.2% 145 6.5% 654 9.8% 
+Pacific Islander/Native Hawaiian 0 0.0% 0 0.0% 6 0.3% 14 0.2% 
+White 225 91.1% 413 91.2% 2018 90.5% 5744 86.0% 
+Ethnicity
+ Hispanic/Latino 38 15.4% 38 8.4% 261 11.7% 498 7.5% 
+Level of Education Attained at Application
+  Below HS 159 64.4% 92 20.3% 1334 59.8% 1017 15.2%
+  HS Grad 77 31.2% 185 40.8% 739 33.2% 2831 42.4%
+  Post-Secondary 11 4.5% 134 29.6% 152 6.8% 2101 31.5%
+ BA 0 0.0% 36 7.9% 2 0.1% 527 7.9%
+  BA above 0 0.0% 6 1.3% 2 0.1% 204 3.1% 
+SSDI Status at Application 
+No 243 98.4% 383 84.5% 2205 98.9% 6118 91.6% 
+Yes 4 1.6% 70 15.5% 24 1.1% 562 8.4% 
+SSI Status at Application 
+No 236 95.5% 421 92.9% 2153 96.6% 6400 95.8% 
+Yes 11 4.5% 32 7.1% 76 3.4% 280 4.2% 
+Corrections Involvement 
+No 247 100% 453 100% 2229 100% 6672 99.90% 
+Yes 0 0.0% 0 0.0% 0 0.0% 8 0.1% 
+EMPLOYMENT AT APPLICATION 
+Employment Status 
+Competitive Supported 0 0.0% 0 0.0% 1 0.0% 1 0.0% 
+Competitive Unsupported 0 0.0% 0 0.0% 6 0.3% 9 0.1% 
+Employed 41 16.6% 71 15.7% 484 21.7% 1926 28.8% 
+Employed With Supports 2 0.8% 1 0.2% 13 0.6% 35 0.5% 
+Homemaker 0 0.0% 10 2.2% 3 0.1% 103 1.5% 
+Not Employed 90 36.4% 355 78.4% 762 34.2% 4404 65.9% 
+Not Employed: All Other Students 10 4.0% 5 1.1% 70 3.1% 65 1.0% 
+Not Employed: Student In High School 101 40.9% 0 
+0.0% 873 39.2% 10 0.1% 
+Self employment Independent Contracting 0 0.0% 0 0.0% 0 0.0% 2 0.0% 
+Self-employment 0 0.0% 5 1.1% 4 0.2% 93 1.4% 
+Unpaid Family worker 1 0.4% 1 0.2% 7 0.3% 14 0.2% 
+Unpaid Trainee, Intern, Volunteer 2 0.8% 5 1.1% 6 0.3% 18 0.3% 
+Weekly Earnings 
+Mean 173.27 424.28 214.26 424.33 
+Median 160 400 180 360 
+Hours Worked in a Week 
+Mean 19.98 32 21.56 31.11 
+Median 20 39 20 35 
+29
+
+Nebraska Vocational Rehabilitation Progressive Employment Model Replication and Evaluation Report: Working Paper
+ 
+ 
+               
+Table 18. VR case details and closure information 
+Rapid Engagement Non-Rapid Engagement 
+Youth Adult Youth Adult 
+(N=247) (N=453) (N=2229) (N=6680) 
+VR office / team (number of cases) 
+Omaha Downtown 2 0.8% 6 1.3% 38 1.7% 262 3.9% 
+Grand Island) 5 2.0% 5 1.1% 44 2.0% 136 2.0% 
+Columbus 31 12.6% 41 9.1% 232 10.4% 570 8.5% 
+Grand Island 30 12.1% 78 17.2% 274 12.3% 854 12.8% 
+Kearney 19 7.7% 24 5.3% 139 6.2% 418 6.3% 
+Lincoln 53 21.5% 129 28.5% 513 23.0% 1737 26.0% 
+Norfolk 57 23.1% 35 7.7% 254 11.4% 593 8.9% 
+North Platte 14 5.7% 22 4.9% 226 10.1% 377 5.6% 
+Omaha 13 5.3% 14 3.1% 267 12.0% 800 12.0% 
+Omaha West 11 4.5% 25 5.5% 107 4.8% 536 8.0% 
+Scottsbluff 11 4.5% 48 10.6% 129 5.8% 348 5.2% 
+State Office - Schultz 0 0.0% 0 0.0% 0 0.0% 5 0.1% 
+State Office Service Team 1 0.4% 26 5.7% 6 0.3% 44 0.7% 
+Table 19. Case status and flow outcomes 
+Case Status (open / closed) 
+Progressive Employment Non-Progressive Employment 
+Youth Adult Youth Adult 
+(N=247) (N=453) (N=2229) (N=6680) 
+Open 172 69.6% 258 57.0% 1310 58.8% 2525 37.8% 
+Successful outcome 24 9.7% 88 19.4% 165 7.4% 1395 20.9% 
+Terminated 51 20.6% 107 23.6% 754 33.8% 2760 41.3% 
+Time in status 
+Days from Application to Eligibility 
+Mean 23.58 21.89 26.6 19.4 
+Median 15 14 19 13 
+Days from Eligibility to IPE 
+Mean 173 70.39 89.11 28.96 
+Median 132 42 32.5 10 
+30
+
+Nebraska Vocational Rehabilitation Progressive Employment Model Replication and Evaluation Report: Working Paper
+ 
+ 
+ 
+ 
+Appendix 2: Additional Staff Survey Results 
+Table 20. Characteristics of clients referred to RE 
+Characteristic of Clients Frequency Percent 
+Little to no work history 27 49.1% 
+“Stuck” case (no progress in some time) 22 40.0% 
+Client’s stated interest in obtaining work experience 21 38.2% 
+Soft skills or behavioral issues 18 32.7% 
+Nature of the client’s disability (e.g. most significant disability MSD) 11 20.0% 
+Previous job failure 9 16.4% 
+Client’s geographic location 3 5.5% 
+No set criteria: it depends on the client 20 36.4% 
+Other - Write In 3 5.5% 
+None of the above 1 1.8% 
+OTHER RESPONSES INCLUDED: 
+• Ready to work or wanting to learn more about an industry or industries 
+• Unclear direction or goal; need to explore 
+• Client is ready to work, has an idea of what wants to do 
+Rapid Engagement Non-Rapid Engagement 
+Youth Adult Youth Adult 
+(N=247) (N=453) (N=2229) (N=6680) 
+Successful outcome 24 9.7% 88 19.4% 165 7.4% 1395 20.9% 
+Terminated after plan 14 5.7% 47 10.4% 136 6.1% 677 10.1% 
+Terminated prior to plan 37 15.0% 60 13.2% 618 27.7% 2083 31.2% 
+Traditional rehab rate (success/success+ 
+terminated after plan) 63.2% 65.2% 54.8% 67.3% 
+Overall success rate all cases (success/success+ all 
+terminated) 32.0% 45.1% 18.0% 33.6% 
+Competitive Employment at Closure 
+Days from Application to Closure 
+Mean 325.23 272.71 231.89 181.28 
+Median 313.5 244 216 153 
+Days from Eligibility to Closure 
+Mean 310.94 253.37 228.45 180.17 
+Median 294.5 230 208.5 153 
+Days from IPE to Closure 
+Mean 253.86 225.58 227.25 197.11 
+Median 217 195 207 165 
+Weekly Earnings at Closure 
+Mean 269.29 316.44 331.32 437.17 
+Median 250 285.6 320 400 
+Hours Worked in a Week at Closure 
+Mean 24.96 28.1 30.4 32.86 
+Median 22 25.5 30 40 
+31
+
+32 
+Nebraska Vocational Rehabilitation Progressive Employment Model Replication and Evaluation Report: Working Paper
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The final question of the survey provided an open text box for all respondents to write any additional 
+comments about their experience using the RE model. Seventeen respondents answered this 
+question. The open-ended responses most often reflected positive opinions about the importance 
+and effectiveness of RE. There were several comments indicating the time or effort required in 
+implementing RE, and a few other notes on use and understanding of the model. 
+IMPORTANCE OF RE AS A TOOL: 
+• I enjoy using the Rapid Engagement model with jobseekers that are unsure of a job direction 
+because they do not know what they would like to do and/or they are not sure what they are 
+capable of doing. I think it helps to give jobseekers hope and exposure to help them continue to 
+move forward. 
+• I use RE almost on a daily basis. Since I have been using it, I have made a ton of business 
+contacts and that has made me more effective with my clients. I have seen a ton of successes 
+using this model. 
+• Very important tool   
+USE OF RE WITH SPECIFIC POPULATIONS: 
+• I work with many clients with significant challenges, that have little to no progress over a great 
+amount of time. I utilize RE in conjunction with Customized Employment, and I enjoy the level of 
+engagement.
+ 
+• It is a great tool to use with clients. I like to use it in smaller towns or areas where there are limited 
+opportunities available in specific job goals so they can explore other job areas to find the right fit. 
+• I have found RE to be an important tool, especially when working with students. 
+• Rapid engagement comes naturally to me often because the population that I work with (Deaf/ 
+hard of hearing) often struggle understanding why there are some barriers to their employment 
+that are there and they may have good skill/ abilities/ history that are not taken seriously 
+because of their hearing loss and rapid engagement can be a way to help them and potential 
+employers to notice their true skills and true barriers. 
+USING RE TO GENERATE IDEAS: 
+• As a team we have come up with some really good job ideas for the client and able to also talk 
+about any frustrations we have about a case. 
+• We have used rapid engagement to come up with new ideas for jobs with our clients and also 
+find connections within businesses to talk to.
+ 
+TIME TO IMPLEMENT RE: 
+• RE is more time intensive and as an evaluator I am spending a lot more time finding employers 
+who will work with VR clients. In rural areas this can be a challenge.  Some team members use 
+RE as a way to screen out clients or prove they are not ready for competitive work, rather than 
+using it as a process to help clients achieve the next level of what they are ready for.  
+• Rapid Engagement is time consuming, but the results are worth the investment, especially with 
+clients who have minimal exposure to the world of work. 
+• We use a lot of paid OJE’s. These are great for the clients to test their work stamina after a long 
+lay-off from the workforce. Unfortunately they take a while to set up, and the clients can get 
+discouraged while we coordinate with the employer to define job duties and set up a start date 
+that works well for the employer. In some ways this removes the “rapid” out of the process.
+
+33 
+Nebraska Vocational Rehabilitation Progressive Employment Model Replication and Evaluation Report: Working Paper
+ 
+ 
+ 
+ 
+ 
+ 
+   
+   
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+• While I have less experience with RE activities, I find them to be an effective evaluation tool, 
+more effective than many assessments performed outside of a workplace; however, they’re 
+quite time consuming causing more stress on myself and my teammates. 
+UNDERSTANDING AND USE OF RE: 
+• RE is not utilized as much as it could be. Not sure if counselors understand. 
+• changes my job duties and has been an adjustment for me, but overall a great tool 
+• Will do more, depending on consumers needs. 
+• RE as been pretty much what we have always done but now we have a title for it and are 
+tracking it. 
+Appendix 3. Description of Progressive Employment Learning Collaborative 
+The Progressive Employment Learning Collaborative facilitates cross-state discussions and lessons 
+learned about the replication of the PE model to study the impact on employment outcomes 
+for people with disabilities in state VR agency settings. Learning Collaborative activities include: 
+regularly scheduled virtual meetings; the dissemination of knowledge and resources to all 
+participating agencies; and the creation and application of multiple training resources informed by 
+research and the field. The five participating state VR agencies are: Vermont Division of Vocational 
+Rehabilitation, Florida Division of Blind Services, Maine Division of Vocational Rehabilitation, Oregon 
+Commission for the Blind, and Nebraska Division of Vocational Rehabilitation. 
+Each state has played an integral role in sharing lessons learned and observations about the PE 
+model implementation according to their unique state experiences: 
+• Vermont DVR led many of the LC discussions. As the first state to implement the model, Hugh 
+Bradshaw in Vermont has served as a trainer to help other states think through solutions and 
+strategies for multiple challenges related to job development, including utilizing employment 
+specialists and business account managers focus attention engaging and relationship building 
+with local small businesses. 
+• Nebraska VR shared their unique perspectives as the only LC participant that provides 
+employment services directly. Their “Meet You Where You Are Model” has had great success and 
+they have been a great resource for states to brainstorm about marketing the success of the PE 
+model for consumers and businesses. 
+• Maine BRS shared their experiences applying the PE model to transition-age youth consumers.  	As 
+Maine relies on CRPs for job placement, they have contributed to the LC discussions with a focus 
+on CRP business outreach and involvement that leads to better employment outcomes and 
+experiences for their youth with disabilities in Lewiston and Portland (later expansion to Bangor 
+and Augusta). 
+• Oregon CFB shared their experiences as a blind agency implementing PE. They shared 
+challenges and successes as the main VR office in Portland piloted PE for blind and/ or low vision 
+transition-age youth consumers who have barriers to maintaining employment. 
+• Florida DBS shared their experiences as a few of their field offices piloted PE. Their approach of 
+applying the model to engage consumers who have been receiving VR for two years or more 
+without recent progress had some challenges and small successes that were shared with the LC 
+participants.
+
+Nebraska Vocational Rehabilitation Progressive Employment Model Replication and Evaluation Report: Working Paper
+34 
+Nebraska Vocational Rehabilitation Progressive Employment Model Replication and Evaluation Report: Working Paper
+ 
+ 
+ 
+ 
+ 
+The LC also featured Monthly Job Development Virtual Conferences hosted by the ICI in partnership 
+with Vermont DVR. The virtual conferences were about topics specific to those who directly interact 
+with businesses at participating VR agencies. The virtual conferences covered an array of topics, 
+such as: 
+• How to help VTPE consumers through application processes 
+• Nebraska VR’s progressive employment marketing strategies 
+• How to help VTPE consumers overcome criminal background checks 
+• VTPE business relations with “Big Box” stores.

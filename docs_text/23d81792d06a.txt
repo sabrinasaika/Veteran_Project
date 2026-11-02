@@ -1,0 +1,748 @@
+FILENAME: fourth-20circuit-20opinion-pdf-6081b2719a87.pdf
+PATH: _raw/rsa.ed.gov/fourth-20circuit-20opinion-pdf-6081b2719a87.pdf
+
+---------------------------------------------------------------
+UNPUBLISHED 
+UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+No. 19-1452 
+STATE OF KANSAS, BY AND THROUGH THE KANSAS DEPARTMENT 
+FOR CHILDREN AND FAMILIES,
+ Intervenor - Appellant, 
+v. 
+SOURCEAMERICA; LAKEVIEW CENTER, INC., 
+Plaintiffs - Appellees, 
+and 
+UNITED STATES DEPARTMENT OF EDUCATION; UNITED STATES 
+DEPARTMENT OF THE ARMY; UNITED STATES DEPARTMENT OF 
+DEFENSE; BETSY DEVOS, in her official capacity as Secretary of Education; 
+RYAN D. MCCARTHY, in his official capacity as Secretary of the Army; MARK 
+T. ESPER, in his official capacity as Secretary of Defense, 
+Defendants – Appellees. 
+NATIONAL FEDERATION OF THE BLIND; NATIONAL COUNSEL OF 
+STATE AGENCIES FOR THE BLIND, INC., 
+     Amici Supporting Appellant. 
+No. 19-1514
+
+---------------------------------------------------------------
+SOURCEAMERICA; LAKEVIEW CENTER, INC., 
+Plaintiffs - Appellees, 
+STATE OF KANSAS, BY AND THROUGH THE KANSAS DEPARTMENT 
+FOR CHILDREN AND FAMILIES, 
+Intervenor - Appellee 
+v. 
+UNITED STATES DEPARTMENT OF EDUCATION; UNITED STATES 
+DEPARTMENT OF THE ARMY; UNITED STATES DEPARTMENT OF 
+DEFENSE; BETSY DEVOS, in her official capacity as Secretary of Education; 
+RYAN D. MCCARTHY, in his official capacity as Secretary of the Army; MARK 
+T. ESPER, in his official capacity as Secretary of Defense, 
+Defendants - Appellants, 
+NATIONAL FEDERATION OF THE BLIND; NATIONAL COUNCIL OF 
+STATE AGENCIES FOR THE BLIND, INC., 
+Amici Supporting Appellee. 
+Appeals from the United States District Court for the Eastern District of Virginia, at 
+Alexandria.  T.S. Ellis, III, Senior District Judge.  (1:17-cv-00893-TSE-IDD) 
+Argued: May 28, 2020 Decided: September 22, 2020 
+Before DIAZ and THACKER, Circuit Judges, and TRAXLER, Senior Circuit Judge. 
+Affirmed in part, vacated in part, and remanded by unpublished per curiam opinion. 
+ARGUED:  Peter A. Nolan, WINSTEAD PC, Austin, Texas, for Appellant/Cross-
+Appellee. Laura E. Myron, UNITED STATES DEPARTMENT OF JUSTICE, 
+2
+
+Washington, D.C.; Craig Alan Holman, ARNOLD & PORTER KAYE SCHOLER LLP, 
+Washington, D.C., for Appellees/Cross-Appellants.  ON BRIEF: Jonathan R. Mook, 
+Jayna Genti, DIMUROGINSBERG, PC, Alexandria, Virginia; Andrew J. Schumacher, 
+WINSTEAD PC, Austin, Texas, for Appellant/Cross-Appellee.  Sonia Tabriz, ARNOLD 
+& PORTER KAYE SCHOLER LLP, Washington, D.C., for Appellees/Cross-Appellants.  
+Andrew D. Freeman, Emily L. Levenson, Brooke E. Lierman, BROWN, GOLDSTEIN & 
+LEVY, LLP, Baltimore, Maryland, for Amici National Federation of the Blind and 
+National Council of State Agencies for the Blind. 
+Unpublished opinions are not binding precedent in this circuit. 
+3
+
+PER CURIAM: 
+These cross-appeals are from the district court’s decision to overturn, in part, a 
+Department of Education (“DOE”) arbitration panel’s award in favor of the State of Kansas 
+(“Kansas”), by and through the Kansas Department for Children and Families (“Kansas 
+DCF”).  The DOE arbitration panel determined that the Department of the Army (“Army”) 
+violated the Randolph- Sheppard Vending Facility Act of 1936, 20 U.S.C. §§ 107–107f 
+(“RSA”), which accords preference to vendors employing blind persons in the procurement 
+of government contracts in “the operation of vending facilities on Federal property.” 20 
+U.S.C. § 107(b).  Specifically, the arbitration panel decided the Army violated the RSA in 
+designating a dining facility contract for its Fort Riley, Kansas military cafeteria to 
+Lakeview Center, Inc. (“Lakeview”) and SourceAmerica, formerly known as the National 
+Industries for the Severely Handicapped (“SourceAmerica”), nonprofit entities seeking to 
+advance opportunities to the blind and persons with other severe disabilities, rather than 
+renewing its contract with Kansas DCF, an entity with similar noble goals. 
+Following the arbitration award, Lakeview and SourceAmerica filed suit in the 
+Eastern District of Virginia against the DOE and its Secretary, the Department of Defense 
+(“DOD”) and its Secretary, and the Army and its Secretary (collectively, the “Government 
+Appellees”), challenging the arbitration award under the Administrative Procedures Act 
+(“APA”).  Lakeview and SourceAmerica claimed that Lakeview, not Kansas, was entitled 
+to the dining facility contract at Fort Riley pursuant to a different statute, the Javits Wagner 
+O’Day Act (“JWOD”), 41 U.S.C. §§ 8501–8506, and that Lakeview and SourceAmerica 
+4
+
+were impermissibly excluded from the arbitration proceedings. Kansas intervened in the 
+suit. 
+The district court granted summary judgment in part to Lakeview and 
+SourceAmerica, in part to the Government Appellees, and in part to Kansas.  The parties 
+filed cross-appeals.  As explained below, we affirm in part, vacate in part, and remand for 
+further proceedings consistent with this opinion.     
+I. 
+This appeal arises out of the Army’s procurement of a contract for certain dining 
+support services to be performed in the dining facilities at Fort Riley.  Army regulations 
+distinguish between two types of contracts with respect to Army cafeterias or mess halls:  
+(1) Full Food Service (“FFS”) contracts, which are entered into when the contractor is or 
+can be required to perform food preparation; and (2) Dining Facility Attendant (“DFA”) 
+contracts, which cover support functions up to, but not including, any food preparation.  
+A. 
+The Relevant Statutes 
+As a matter of background, we first set forth the governing rules at play in these 
+appeals: the RSA and its counterpart statute, the JWOD.  
+1. 
+The Randolph-Sheppard Vending Facility Act 
+We begin our discussion with the RSA.  The RSA seeks to “enlarg[e] the economic 
+opportunities of the blind” by giving them preference in the bidding of contracts “to operate 
+vending facilities on any Federal property.”  20 U.S.C. §§ 107(a), (b).  Vending facilities 
+5
+
+include military “cafeterias.” See id. § 107e(7); see also NISH v. Cohen, 247 F.3d 197, 
+204 (4th Cir. 2001).  The RSA applies to all federal agencies, and Congress has charged 
+the DOE with “prescrib[ing] regulations to establish a priority for the operation of 
+cafeterias” on federal property by blind vendors.  20 U.S.C. § 107d–3(e); see also id. 
+§§ 107(b), 107a, 107d –1.  In addition, the RSA requires that “[a]ny limitation on the 
+placement or operation of a vending facility based on a finding that such placement or 
+operation would adversely affect the interests of the United States shall be fully justified 
+in writing to the Secretary [of DOE], who shall determine whether such limitation is 
+justified.” Id. § 107(b) (the “RSA Review Requirement”).  
+The RSA’s priority bidding procedures are as follows.  In each state, the DOE 
+designates a State Licensing Agency (“SLA”) to issue licenses to blind vendors for the 
+“operation of vending facilities” on federal property pursuant to the RSA.  20 U.S.C. § 
+107a(a)(5). Federal agencies procure the vending facility services, either directly through 
+the SLA or by soliciting competitive bids for contracts in conjunction with the SLA.  See 
+34 C.F.R. §§ 395.33(b), (d).  
+According to the RSA regulations, federal agencies may solicit offers to provide 
+vending services, using criteria such as “sanitation practices, personnel, staffing, menu 
+pricing and portion sizes, menu variety, [and] budget and accounting practices.”  34 C.F.R. 
+§ 395.33(b).  The SLA may submit a bid on behalf of a blind vendor if that vendor can 
+provide services “at comparable cost and of comparable high quality as that available from 
+other providers of cafeteria services.” Id. If the SLA bid is “within a competitive range 
+and has been ranked among those proposals which have a reasonable chance of being 
+6
+
+selected for final award,” the federal agency procuring the vending services must consult 
+the DOE.  Id. Then, if the DOE concludes that the “operation can be provided at a 
+reasonable cost” and with food of a comparatively “high quality,” the DOE “shall [] 
+afford[]” priority to the blind vendor to operate and manage the cafeteria.  Id. § 395.33(a). 
+These operations “shall be expected to provide maximum employment opportunities to 
+blind vendors to the greatest extent possible.”  Id.  Upon the expiration of the blind vendor’s 
+contract, the federal agency may either renew the contract with the SLA or reinitiate the 
+bidding process.  See id. § 395.33(d). 
+The RSA provides for arbitration when disputes arise in the procurement process.  
+See 20 U.S.C. § 107d–1.  An SLA may file a complaint with the DOE alleging a violation 
+of the RSA. See id. § 107d–1(b). The DOE then “convene[s] a panel to arbitrate the dispute 
+. . . and the decision of such panel shall be final and binding on the parties.”  Id. The 
+arbitration panel’s decision is “subject to appeal and review as a final agency action” 
+pursuant to the APA.  Id. § 107d–2(a). 
+2. 
+The Javits Wagner O’Day Act 
+The JWOD is a more general procurement statute and counterpart statute to the 
+RSA.
+1 The JWOD is intended “to increase employment and training opportunities for 
+persons who are blind or have other severe disabilities through the purchase of 
+1 As set forth in the briefing herein, Congress has attempted many times to clarify 
+the differences between the RSA and JWOD.  However, we find this discussion 
+unnecessary to the disposition of this case. 
+7
+
+commodities and services from qualified nonprofit agencies employing [such] persons.” 
+41 C.F.R. § 51–1.1(a) (emphasis supplied).  Like the RSA, the JWOD is applicable to 
+dining facility contracts for military mess halls.  See Cohen, 247 F.3d at 205.  But, unlike 
+the RSA, which “deals explicitly with . . . the operation of cafeterias,” the JWOD is a 
+“general procurement statute.”  Id. 
+Whereas the DOE promulgates rules pursuant to the RSA, the AbilityOne 
+Commission (the “Commission”) 2 is tasked with implementing the JWO D and 
+promulgating its regulations. See 41 U.S.C. §§ 8502, 8503(d). The Commission is 
+composed of 15 members who are appointed by the President, including four nonfederal 
+government members and 11 members from federal agencies.  See id. § 8502(b).  The 
+Commission oversees the AbilityOne Program in order to “maintain and publish in the 
+Federal Register a procurement list [(the “Procurement List”)],” which contains products 
+and services provided by qualified nonprofit agencies. Id. § 8503(a); see also 41 C.F.R. 
+§ 51–1.3. The federal government must procure products and services from the 
+Procurement List at the price set by the Commission.  See 41 U.S.C. § 8504(a). 
+The Commission works with two “central nonprofit agenc[ies]” to administer the 
+AbilityOne Program: the National Industries for the Blind and SourceAmerica.  See 41 
+U.S.C. § 8503(c); 41 C.F.R. § 51–3.1.  The former “represent[s] nonprofit agencies for the 
+blind,” while the latter “represent[s] nonprofit agencies employing persons with other 
+2 Otherwise known in the statute as the “Committee for Purchase from People Who 
+Are Blind or Severely Disabled.” 
+8
+
+severe disabilities.”  41 C.F.R. §§ 51–3.1(a), (b).  The Commission tasks these central 
+nonprofit agencies with identifying possible services to be included on the Procurement 
+List. See id. § 51–3.2. 
+B. 
+Fort Riley Contracts 
+1. 
+The Kansas Full Food Services Contract 
+Pursuant to the RSA, on June 1, 2006, the Army awarded Kansas the Fort Riley FFS 
+contract.  According to the Army’s regulations, FFS “cover[s] those activities that comprise 
+the full operation of an [Army] dining facility,” including, but not limited to, 
+“requisitioning, receiving, storing, preparing, and serving food” as well as “related 
+administrative, custodial, and sanitation functions.” J.A. 148.3 DFA services cover 
+“janitorial and custodial duties within dining facilities,” including “sweeping, mopping, 
+scrubbing, trash removal, dishwashing, waxing, stripping, buffing, window washing, pot 
+and pan cleaning, and other sanitation-related functions.” Id. at 147–48. During the span 
+of the 2006 Fort Riley FFS contract, Kansas DCF performed all of the activities necessary 
+for the full operation of the Army dining facilities. This included, as set forth above, all of 
+the activities necessary to both prepare the food and clean the facilities.  Thereafter, on 
+3 Citations to the “J.A.” refer to the Joint Appendix filed by the parties in these 
+appeals. 
+9
+
+September 1, 2011, the Army awarded Kansas a follow-on contract, which was scheduled 
+to expire on August 31, 2015.  
+2. 
+The Dining Facility Attendant Services Contract 
+On March 12, 2015, as a result of the return of military personnel from Iraq and 
+Afghanistan to Fort Riley, the Army determined that soldiers, rather than a blind vendor, 
+would resume food service operations in the Fort Riley dining facilities.  However, because 
+soldiers are generally prohibited from performing DFA duties, the Army (expecting that 
+the soldiers would take over only the FFS duties) sought a new contract solely for 
+performance of DFA services. Because it sought a DFA contract for these limited services, 
+the Army decided the RSA did not govern the contract, reasoning those DFA services do 
+not involve the “operation” of vending facilities.  Based on this determination, on March 
+13, 2015, the Army informed Kansas of its intent to procure a new contract at the 
+conclusion of the Kansas FFS contract.  
+On July 17, 2015, the Army proposed adding a new DFA contract for Fort Riley 
+dining services to the Procurement List in the Federal Register, pursuant to the JWOD.  
+The Commission ultimately did so.  Following the publication of the Fort Riley DFA 
+contract, the Commission published a proposal by Lakeview , which offered to act as the 
+“Mandatory Source[] of Supply”4 for the Fort Riley DFA contract, effective February 21, 
+4 Pursuant to 41 C.F.R. § 51–5.2(a), “mandatory sources of supply” are those 
+nonprofit agencies designated by the Commission that supply to federal agencies 
+“commodities and services included on the Procurement List.”  
+10
+
+2016.  J.A. 2709.  In essence, this meant that Lakeview was entitled to supply DFA services 
+under the Fort Riley contract.  SourceAmerica, as a central nonprofit agency designated by 
+the Commission, facilitated the DFA contract procurement. But because Kansas DCF was 
+not an agency designated by the Commission pursuant to the JWOD, Kansas was not able 
+to compete for the new DFA contract for janitorial and custodial services.    
+C. 
+Arbitration 
+1. 
+Before the expiration of its contract with the Army, on May 7, 2015, and before the 
+DFA contract was added to the Procurement List, Kansas filed a request for arbitration 
+pursuant to the RSA.  In the request, Kansas alleged that Fort Riley was “preparing to 
+request that the new contract for DFA services be added to the [] AbilityOne Commission 
+Procurement List,” which “is a violation of the [RSA].” J.A. 157. It asked that “Fort Riley 
+continue to recognize the priority of the [RSA] and cease its plans to place th[e DFA 
+contract] on the P[rocurement] L[ist].”  Id. at 158.
+5 
+On October 15, 2016, after the DFA contract had been added to the Procurement 
+List and Lakeview had been named the Mandatory Source of Supply, the DOE convened 
+5 Additionally, on July 22, 2015, Kansas filed suit in the United States District Court 
+for the District of Kansas, seeking to enjoin the Army from awarding the new DFA contract 
+during the pendency of arbitration.  On February 26, 2016, the district court granted the 
+preliminary injunction.  As a result of this preliminary injunction, on March 1, 2016, the 
+Army awarded a bridge contract for DFA services to Kansas. The preliminary injunction 
+was dissolved at the conclusion of the arbitration. 
+11
+
+an arbitration panel to address these claims. Lakeview and SourceAmerica twice sought 
+to intervene in the arbitration proceeding, claiming the arbitration prevented them from 
+executing their operations, receiving payment pursuant to the Fort Riley DFA contract, and 
+fulfilling their purpose of assisting persons with significant disabilities. The arbitration 
+panel did not respond to the requests to intervene.  
+On January 10, 2017, the arbitration panel held the hearing on Kansas’s claims. 
+Despite a lack of response to their requests to intervene, Lakeview and SourceAmerica 
+attended the hearing and sought to present testimony.  However, the arbitration panel 
+denied the request, explaining Lakeview and SourceAmerica were “not [parties] to this 
+matter.” J.A. 626.  
+2. 
+On May 9, 2017, two of the three arbitration panel members found in favor of 
+Kansas and denied the Army’s request for a new hearing . The arbitration panel majority 
+concluded that the Army violated the RSA when it solicited the Fort Riley DFA contract. 
+Specifically, as to the RSA, the panel majority concluded DFA services for which the Army 
+contracted constituted a crucial piece of the entire operation of a cafeteria: 
+Where the tasks to be performed by a contract for DFA services 
+includes [sic] tasks that constitute an integral element of 
+providing food service at a military cafeteria facility, or pertain 
+to the operation of a cafeteria, or tasks that without which the 
+cafeteria would not be able to function, fall within the 
+definition included in the [RSA], and its implementing 
+regulations, and are entitled to [RSA] priority when awarding 
+said contract. 
+12
+
+J.A. 315.  The panel majority found that the Fort Riley DFA contract centers on the 
+functioning of the cafeteria, with around the clock janitorial and sanitation related tasks: 
+[The] DFA contract called for, inter alia, maintenance of 
+quality control plan in support of dining facility operations; 
+cleaning and sanitizing food service equipment and surfaces in 
+support of dining facility operations; preparing, maintaining 
+and cleaning dining areas to allow each diner a clean area 
+within which to eat without delay; keeping appropriate 
+condiments available without delay; cleaning spills, removing 
+soiled dinnerware and bussing soiled trays within five minutes 
+of occurrence; and bussing and replacing tray carts during meal 
+service period and making space available for soiled trays, 
+without diner delay 100% of the time. 
+Id. at 314. 
+Accordingly, the panel majority concluded that the RSA’s requirement that priority 
+be given to a blind vendor in the procurement process applied to the solicitation of the Fort 
+Riley DFA contract.  Additionally, the arbitration panel majority concluded that the Army 
+violated the RSA Review Requirement when it failed to seek advance review by the DOE 
+of its decision to terminate the FFS contract and replace it with the new DFA contract.  One 
+member of the arbitration panel dissented, concluding the RSA does not apply to DFA 
+services and believed a new hearing should be granted because “the proceedings lacked 
+fundamental fairness.” J.A. 340. 
+D. 
+District Court Proceedings 
+1. 
+On August 5, 2017, Lakeview and SourceAmerica filed suit in the United States 
+District Court for the Eastern District of Virginia against the Government Appellees , 
+13
+
+seeking judicial review of the arbitration decision pursuant to the APA.  Specifically, 
+Lakeview and SourceAmerica alleged the following claims: 
+• violation of the APA and the Tucker Act, 28 U.S.C. 
+§ 1491(b)(1),6 alleging the arbitration panel lacked 
+jurisdiction to issue its decision  (Count I); 
+• violation of the APA, alleging the arbitration panel decision 
+was arbitrary, capricious, and not in accordance with the 
+JWOD (Count II); 
+• violation of the APA, alleging the arbitration panel decision 
+was arbitrary, capricious, and not in accordance with the 
+RSA (Count III); 
+• violation of Section 555(b) of the APA, alleging the 
+arbitration panel failed to permit Lakeview and 
+SourceAmerica to intervene, testify, and participate in the 
+arbitration (Count IV); 
+• violation of procedural due process pursuant to the Fifth 
+Amendment of the Constitution, alleging a property interest 
+in the Fort Riley DFA contract (Count V); 
+• violation of the nondelegation doctrine
+7, alleging the 
+RSA’s arbitration provisions vest private citizens (the 
+6 Section 1491(b)(1) provides: 
+Both the Unites States Court of Federal Claims and the district 
+courts of the United States shall have jurisdiction [1] to render 
+judgment on an action by an interested party objecting to a 
+solicitation by a Federal agency for bids or proposals for a 
+proposed contract or to a proposed award or the award of a 
+contract or any alleged violation of statute or regulation in 
+connection with a procurement or a proposed procurement. . . 
+[and] [2] to entertain such an action without regard to whether 
+suit is instituted before or after the contract is awarded. 
+7 “The nondelegation doctrine bars Congress from transferring its legislative power 
+to another branch of Government.” Gundy v. United States, 139 S. Ct. 2116, 2121 (2019) 
+14
+
+arbitration panel members) with regulatory power in the 
+interpretation of the applicability of the RSA (Count VI) ; 
+and 
+• specifically against DOD, violation of the APA, alleging it 
+unlawfully withheld and unreasonably delayed 
+promulgation of a joint policy statement on this matter 
+(Count VII). 
+2. 
+Opinion Letter 
+During the pendency of the district court lawsuit, on October 17, 2017, the Secretary 
+of DOE met with former member of the United States House of Representatives Pete 
+Sessions regarding the meaning of “operation of a vending facility” in the RSA. Following 
+that meeting, the Secretary sent a follow-up letter to Representative Sessions on March 5, 
+2018 (the “Opinion Letter”).  The Opinion Letter stated, in part: 
+[DOD] regulations distinguish between [FFS] and [DFA] 
+contracts.  Under [FFS] contracts, the vendor manages the 
+entire operation of the cafeteria, including food preparation. 
+Under [DFA] contracts, the vendor manages those aspects of 
+the cafeteria besides food preparation because military 
+personnel prepare the food. 
+[DOE] believes that the [RSA] priority applies to both types of 
+cafeteria contracts.  The term “operation” in the [RSA] means 
+that the vendor must “manage” or “direct the working of” the 
+cafeteria.  Oxford English Dictionary (2d ed. 1989).  Nothing 
+in the [RSA] requires a vendor to participate in every activity 
+of the cafeteria in order to “manage” or “direct the working of” 
+the cafeteria. Where a vendor is responsible for all the 
+(plurality); see also id. at 2123 (quoting U.S. Const. art. I, § 1 (“All legislative Powers 
+herein granted shall be vested in a Congress of the United States.” (alteration omitted))).  
+This doctrine “is rooted in the principle of separation of powers that underlies our tripartite 
+system of Government.”  Mistretta v. United States, 488 U.S. 361, 371 (1989). 
+15
+
+functions of the cafeteria aside from those performed by 
+military personnel -- such as supervisory, administrative, and 
+sanitation-related function -- the vendor can be said to 
+“manage” the cafeteria, even if the vendor is not preparing the 
+food. Indeed, the cafeteria would not be able to operate 
+without the vendor performing those functions. 
+Some contracts may be limited to discrete tasks so as not to 
+entail overall “operation” of the cafeteria, but that 
+characterization would not apply to all [DFA] contracts. 
+J.A. 2261.  Of note, the Opinion Letter cites the arbitration panel’s decision in this case. 
+See id. (“An arbitration panel recently convened to consider a dispute under the [RSA] 
+concerning a cafeteria at Fort Riley, Kansas.”).  But the Opinion Letter does not make any 
+conclusion regarding the arbitration panel’s decision.  
+3. 
+Intervention of Kansas 
+On May 21, 2018, Kansas moved to intervene in the district court lawsuit in order 
+to defend the arbitration decision and attached a copy of the Opinion Letter to its motion. 
+The Opinion Letter was not a part of the complaint or the administrative record.  The next 
+day, the district court granted Kansas’s motion to intervene. 
+4. 
+District Court’s Decision 
+Following the submission of each party’s motion for summary judgment, on March 
+15, 2019, the district court granted in part and denied in part each of the parties’ motions 
+for summary judgment.  Specifically, the district court: 
+• entered judgment in favor of Kansas as to Count II 
+(violation of the APA, alleging the arbitration panel 
+16
+
+decision was arbitrary, capricious, and not in accordance 
+with JWOD) and Count V (violation of procedural due 
+process pursuant to the Fifth Amendment, alleging a 
+property interest in the Fort Riley DFA contract); 
+• entered judgment in favor of Lakeview and SourceAmerica 
+as to Count III (violation of the APA, alleging the 
+arbitration panel decision was arbitrary, capricious, and not 
+in accordance with RSA) and Count IV (violation of 
+Section 555(b) of the APA, alleging the arbitration panel 
+failed to permit Lakeview and SourceAmerica to intervene, 
+testify, and participate in the arbitration); 
+• vacated the arbitration panel’s findings that: 
+o the Fort Riley DFA contract is subject to the RSA’s 
+preference; and 
+o the Army violated the RSA when it failed to apply 
+the RSA’s preference to the Fort Riley DFA 
+contract; and 
+• affirmed the arbitration panel decision finding that the 
+Army violated the RSA Review Requirement. 
+See J.A. 3014.
+8 
+8 Counts I, VI, and VII were disposed of as follows:  Appellees withdrew Count I 
+(violation of the APA and the Tucker Act, 28 U.S.C. § 1491(b)(1), alleging the arbitration 
+panel lacked jurisdiction to issue its decision); and the district court dismissed Counts VI 
+(alleging the RSA’s arbitration provisions vest private citizens -- the arbitration panel 
+members -- with regulatory power in the interpretation of the applicability of the RSA), 
+and VII (violation of the APA against DOD) upon motion by the Government Appellees. 
+None of these Counts are at play in this appeal. 
+17
+
+a. 
+Statutory Standing 
+In the district court, the Government Appellees’ contended that Lakeview and 
+SourceAmerica lacked statutory standing. 
+The APA provides, “A person suffering legal wrong because of agency action, or 
+adversely affected or aggrieved by agency action within the meaning of a relevant statute, 
+is entitled to judicial review thereof.” 5 U.S.C. § 702. Those who are injured by agency 
+action may seek judicial review of that action where “the interest sought to be protected by 
+the complainant is arguably within the zone of interests to be protected or regulated by the 
+statute or constitutional guarantee in question.” Ass’n of Data Processing Serv. Org., Inc. 
+v. Camp, 397 U.S. 150, 153 (1990). The Government Appellees argued below that 
+Lakeview and SourceAmerica could not satisfy this zone of interests test and, therefore, 
+lacked standing to challenge the arbitration decision. 
+The district court disagreed, first determining Lakeview and SourceAmerica were 
+within the zone of interests to be protected by the RSA, as they had strong interests in 
+“providing blind persons with remunerative employment [and] enlarging the economic 
+opportunities of the blind,” both reflecting the purposes of the RSA. J.A. 2990 (alteration 
+in original) (internal quotation marks omitted).  Next, the district court determined the 
+Government Appellees had failed to prove that the RSA precludes judicial review because 
+it was not fairly discernable that Congress intended to preclude such review under the RSA. 
+Last, the district court determined another remedy was not available to Lakeview and 
+SourceAmerica because after arbitration, Lakeview suffered the denial of “a contract that 
+18
+
+it was otherwise entitled to receive,” and “there is no guarantee that it will be able to seek 
+redress for that harm through a bid protest action.”  Id. at 2994.  
+For these reasons, the district court concluded Lakeview and SourceAmerica 
+possessed statutory standing to seek judicial review of the arbitration panel decision.  
+b. 
+Violation of Section 555(b) of the APA 
+The district court also concluded the arbitration panel violated the APA in denying 
+Lakeview’s and SourceAmerica’s participation in the arbitration hearing. The APA 
+provides, “So far as the orderly conduct of public business permits, an interested person 
+may appear before an agency or its responsible employees for the presentation, adjustment, 
+or determination of an issue, request or controversy in a proceeding.”  5 U.S.C. § 555(b) 
+(emphasis supplied). The district court determined Lakeview and SourceAmerica were 
+“interested persons” pursuant to this statute, and that the arbitration panel’s failure to 
+permit their participation was prejudicial and not harmless.  
+c. 
+Meaning of “Operation of Vending Facilities” 
+The district court concluded that the arbitration panel erred when it found the RSA 
+applies to the Fort Riley DFA contract because the district court concluded the contract is 
+for “ancillary services, ” J.A. 2995, and those services do not constitute “operation of 
+vending facilities,” 20 U.S.C. § 107(b).  Specifically, the district court reasoned 
+“operation” means that “the vendor must exercise control or management over the 
+19
+
+functioning of the vending facility as a whole, not merely exercise control or management 
+over tasks performed in support of the facility’s functioning.”  J.A. 2996.  
+In so concluding, the district court declined to give the Secretary’s Opinion Letter 
+any deference or consideration, based on the fact that the DOE itself disavowed the Opinion 
+Letter as either its general position or its litigation position on the proper interpretation of 
+RSA with respect to the Fort Riley DFA contract.  The district court further explained 
+“[Kansas] cannot credibly argue that a letter written by the Secretary [of DOE] to a 
+congressman constitutes an agency interpretation promulgated in the exercise of the 
+authority to make rules carrying the force of law.”  J.A. 3000 n.20. 
+d. 
+RSA Review Requirement 
+Although it concluded the RSA does not apply to the Fort Riley DFA contract, the 
+district court nonetheless determined the arbitration panel correctly concluded that the 
+Army failed to comply with the RSA Review Requirement, which requires the DOE’s 
+approval for any “limitation on the placement or operation of a vending facility.” 20 U.S.C. 
+§ 107(b). The district court acknowledged that “[u]nder the Army’s plan, the operation of 
+Fort Riley dining facilities was to be limited in that the facilities would not be operated by 
+a vendor at all,” and “[r]emoving a vendor entirely is the most basic limitation on the 
+operation of vending facilities of all.” J.A. 3002. Relying on the legislative history, the 
+district court noted the Senate added the RSA Review Requirement because it was 
+concerned that “federal agencies were not doing all they could to ensure blind vendors 
+continued to operate dining facilities.” Id. Therefore, the district court concluded “[the 
+20
+
+Army’s] decision to discontinue the operation of its vending facilities by a vendor triggered 
+the RSA Review Requirement” because such decision was “the exact scenario that 
+motivated the Senate to add the review provision.”  Id. 
+e. 
+Applicability of the JWOD 
+The district court determined the applicability of JWOD to the Fort Riley DFA 
+contract was not at issue because, as the agency tasked with implementing the RSA, the 
+DOE arbitration panel “did not have authority to make any findings regarding the JWOD 
+or its applicability to the Fort Riley DFA contract”; rather, it was only authorized to 
+determine whether a federal agency violated the RSA or its regulations.  J.A. 3005.  
+f. 
+Proper Remedy 
+When all was said and done, the district court determined the proper remedy in this 
+case was neither equitable relief nor remand to the arbitration panel. Instead, the district 
+court affirmed the arbitration panel’s finding that the Army violated the RSA Review 
+Requirement, but it vacated the arbitration panel’s findings that “(i) the Fort Riley DFA 
+contract is subject to the RSA’s preference, [and] (ii) [the Army] violated the RSA when it 
+failed to apply the RSA’s preference to the Fort Riley DFA contract.”  J.A. 3012. 
+Accordingly, the district court determined the Army was “free to procure a contract for the 
+Fort Riley DFA services consistent with [its] Opinion.”  Id. 
+These cross appeals followed.   
+21
+
+II. 
+The Instant Appeals 
+In the instant appeals, Kansas appeals the district court’s summary judgment 
+decision as to the statutory standing of Lakeview and SourceAmerica, and its decision that 
+the RSA does not apply to the Fort Riley DFA contract.  The Government Appellees cross-
+appeal the district court’s summary judgment decision as to the application of the RSA 
+Review Requirement to the Fort Riley DFA contract.  
+We review a grant of summary judgment de novo.  See N. Carolina Growers’ Ass’n, 
+Inc. v. United Farm Workers, 702 F.3d 755, 763 (4th Cir. 2012).  “Summary judgment is 
+appropriate when there is no genuine issue of material fact, and the moving party is entitled 
+to judgment as a matter of law.”  Id. (citations omitted).  Particularly in APA actions, “the 
+focal point for judicial review should be the administrative record already in existence, not 
+some new record made initially in the reviewing court.” See Camp v. Pitts, 411 U.S. 138, 
+142 (1973) (per curiam).  Accordingly, based on the administrative record, a reviewing 
+court must uphold an agency’s interpretation of a statute if it is “in accordance with law,” 
+which requires a court to “decide all relevant questions of law” and “interpret constitutional 
+and statutory provisions.”  5 U.S.C. § 706(2)(A).       
+III. 
+A. 
+Standing 
+We first address Kansas’s argument in the main appeal that Lakeview and 
+SourceAmerica lack standing pursuant to the RSA to appeal the arbitration panel’s award 
+22
+
+because: (1) “the interest sought to be protected by [Lakeview and SourceAmerica] are not 
+within the ‘zone of interest’ to be protected by the RSA”; (2) “the RSA limits participation 
+in the arbitration to the SLA and the federal agency in charge of the military dining 
+facility”; and (3) Lakeview and SourceAmerica “had an adequate remedy at law . . . [which] 
+was to . . . file a declaratory judgment action challenging the application of the RSA in 
+awarding the Fort Riley Dining Facility Contract to [Kansas].”  Appellant/Cross-Appellee 
+Kansas’s Br. 12.  
+1. 
+Statutory standing is effectively a jurisdictional inquiry concerning whether a party 
+may pursue a cause of action pursuant to a specific statute. See Lexmark Int’l, Inc. v. Static 
+Control Components, Inc., 134 S. Ct. 1377, 1387 and n.4 (2014) (explaining the label 
+“statutory standing” rather than “prudential standing” “correctly places the focus on the 
+statute”). But “the absence of a valid (as opposed to arguable) cause of action does not 
+implicate subject-matter jurisdiction, i.e., the court’s statutory or constitutional power to 
+adjudicate the case.” Id. at n.4 (emphasis in original) (quoting Verizon Md. Inc. v. Public 
+Serv. Comm’n of Md., 535 U.S. 635, 642–43 (2002) (internal quotation marks omitted)). 
+Accordingly, questions concerning statutory standing -- unlike those concerning 
+constitutional standing -- are waivable.  See Del Webb Cmtys., Inc. v. Carlson, 817 F.3d 
+867, 872 (4th Cir. 2016); see also Manning v. Caldwell, 930 F.3d 265, 271 n.6 (4th Cir. 
+2019) (en banc) (Waiver is “a party’s relinquishment of rights before a district court.” 
+(emphasis in original) (internal quotation marks omitted)).  
+23
+
+2. 
+Lakeview and SourceAmerica claim that Kansas waived its statutory standing 
+argument by not raising it in the district court, and because the Government Appellees --
+the only party to have raised the statutory standing argument in the district court -- have 
+abandoned the issue by not raising it on appeal.   
+In turn, Kansas claims it raised a statutory standing argument below in opposition 
+to Lakeview and SourceAmerica’s motion for summary judgment. However, according to 
+the Lakeview and SourceAmerica, Kansas made only passing reference to statutory 
+standing before the district court, and it did so in opposition to their standing to intervene 
+in an RSA arbitration pursuant to Section 555(b) of the APA, rather than in opposition to 
+summary judgment. Moreover, Lakeview and SourceAmerica point out that Kansas did 
+not itself appeal the district court’s decision as to the Section 555(b) claim.  
+Indeed, in support of its statutory standing claim before us, Kansas cites to the 
+Government Appellees’ memorandum in opposition to summary judgment, rather than to 
+its own memorandum.  There, the Government Appellees presented the following three 
+statutory standing arguments: (1) Lakeview and SourceAmerica “do not fall within the 
+zone of interests arguably protected by the [RSA],” J.A. 2850; (2) “[the RSA] arbitration 
+scheme permits only [SLAs] to seek judicial review of arbitration decisions,” id. at 2852; 
+and, (3) specifically with regard to Lakeview, it “cannot seek judicial review under the 
+APA because there is another adequate remedy in the form of a bid protest action.” Id. at 
+2854. As noted, these are the same arguments Kansas now co -opts as its own on appeal. 
+24
+
+At oral argument, Kansas acknowledged that the memorandum it now asserts 
+contains its standing argument is not in the record before us, but it directed our attention to 
+such memorandum on the district court docket.  Following oral argument, Kansas filed a 
+letter pursuant to Rule 28 of the Federal Rules of Appellate Procedure,9 wherein it claimed 
+its standing argument before the district court was contained in its memorandum in 
+response to Lakeview and SourceAmerica’s motion for summary judgment.  
+But this claim does not hold up. Just as Lakeview and SourceAmerica indicated, in 
+that memorandum, Kansas merely referenced standing in passing concerning their standing 
+to intervene in the RSA arbitration pursuant to section 555(b) of the APA.  See Intervenor’s 
+Br. in Support of Resp. to Pl.’s Mot. for Sum. J. and Intervenor’s Mot. for Sum. J. at 25, 
+SouceAmerica v. U.S. Dep’t of Educ., No. 1:17-cv-893 (E.D. Va. Aug. 5, 2017; filed Sept. 
+10, 2018), ECF No. 69 (“Defendants did not violate APA Section 555(b) by preventing 
+[Lakeview and SourceAmerica] from participating in the arbitration proceeding because 
+they lacked standing to intervene in a[n] RSA arbitration.”). 
+9 Federal Rule of Appellate Procedure 28(j) provides, 
+If pertinent and significant authorities come to a party’s 
+attention . . . after oral argument but before decision[,] a party 
+may promptly advise the circuit clerk by letter, with a copy to 
+all other parties, setting forth the citations.  The letter must state 
+the reasons for the supplemental citations, referring . . . to a 
+point argued orally. 
+25
+
+3. 
+In our review of the record, it is clear Kansas did not present its claimed statutory 
+standing argument before the district court. “When a party in a civil case fails to raise an 
+argument in the lower court and instead raises it for the first time before us, we may reverse 
+only if the newly raised argument establishes ‘fundamental error’ or a denial of 
+fundamental justice.”  ACA Fin. Guar. Corp. v. City of Buena Vista, Virginia, 917 F.3d 
+206, 214 n.4 (4th Cir. 2019); see also In re Under Seal, 749 F.3d 276, 285 (4th Cir. 2014). 
+This is not such a case.  The Government Appellees were the only parties to present the 
+statutory standing arguments below, and they have abandoned their arguments in this 
+regard on appeal. Kansas cannot now latch onto these abandoned arguments in order to 
+remediate its own failure to present these arguments in the first instance. Thus, we hold 
+that Kansas has waived its argument as to statutory standing, and we decline to address it.  
+B. 
+RSA Review Requirement 
+In the cross-appeal filed by the Government Appellees, we are tasked with 
+considering whether the Army’s decision to eliminate the contract operated by its blind 
+vendor triggered the RSA Review Requirement.  Although it determined that the RSA 
+preference accorded to blind vendors did not apply to the Fort Riley DFA contract, the 
+district court concluded, nonetheless, that the RSA Review Requirement was invoked when 
+the Army decided “to terminate the operation of vending facilities” by Kansas. J.A. 3001. 
+Thus, the Army was “obligated . . . to justify its decision . . . to the Secretary [of DOE] in 
+writing,” and it “failed to comply with this requirement.” Id. We agree with the district 
+26
+
+court’s decision on the RSA Review Requirement, thus rendering unnecessary a decision 
+on the remaining issues in the main appeal. 
+1. 
+Lakeview, SourceAmerica, and the Government Appellees argue that the Army’s 
+decision to redeploy troops to staff dining facilities at Fort Riley and to secure a DFA 
+contract is not subject to the RSA Review Requirement. The Government Appellees 
+contend that the RSA Review Requirement “does not, by its terms, apply to changes in the 
+use of military personnel that have a downstream effect of eliminating an opportunity for 
+an RSA vendor.” Gov’t Appellees/Cross-Appellants’ Br. 21. They assert that, in light of 
+the plain language of the RSA and legislative history, the RSA Review Requirement is 
+intended “to prevent agencies from imposing direct restrictions on the placement of 
+operation of vending facilities” rather than “indirect effect[s]” that may “narrow[] an RSA 
+contracting opportunity.”  Id. at 40. 
+Kansas, in turn, maintains that the Fort Riley DFA contract included the same 
+services provided per its FFS contract, except limited food preparation services and 
+contingency cooks.  Therefore, Kansas claims that the change from an FFS to a DFA 
+contract is precisely the type of limitation on the services provided by blind vendors that 
+are subject to the RSA Review Requirement. 
+2. 
+Our analysis of this issue is grounded in the plain language of the statute. See Lynch 
+v. Jackson, 853 F.3d 116, 121 (4th Cir. 2017) (“[W]hen the statute’s language is plain, the 
+27
+
+sole function of the courts -- at least where the disposition required by the text is not absurd 
+-- is to enforce it according to its terms.”). 
+The plain language of Section 107(b) of the statute makes clear that the Fort Riley 
+DFA contract is subject to the RSA Review Requirement without regard to the meaning of 
+“operation of vending facilities.”  20 U.S.C. §§ 107(a), (b).  The RSA provides that “[a]ny 
+limitation on the placement or operation of a vending facility based on a finding that such 
+placement or operation would adversely affect the interests of the United States shall be 
+fully justified in writing to [the Secretary of DOE], who shall determine whether such 
+limitation is justified.” Id. § 107(b) (emphasis supplied); see also 34 C.F.R. § 395.30(b). 
+There are no qualifiers as to the type or degree of limitations. And, in accordance with the 
+purpose of the RSA, “blind persons licensed under the provisions of this chapter shall be 
+authorized to operate vending facilities on any Federal property.” Id. § 107(a) (emphasis 
+supplied). 
+The only other circuit to have considered this issue,
+10 also supports the interpretation 
+of the RSA Review Requirement as prohibiting any limitation on the “operation of a 
+10 Recently, a divided panel of the Fifth Circuit concluded that a DFA contract for 
+a military cafeteria in Texas was for the “operat[ion of] vending facilities” and thus, was 
+subject to the RSA. Texas Workforce Comm ’n v. United States Dep’t of Educ., --- F.3d 
+---, 2020 WL 5105167, at *2 (5th Cir. Aug. 31, 2020).  The majority opinion did not, 
+however, address the RSA Review Requirement, other than to say the arbitration panel did 
+not consider it. The dissenting judge noted this fault: “I . . . would remand for the district 
+court to determine in the first instance whether the Army was required to ‘justify in writing 
+to the Secretary’ its decision to split the cafeteria work into two contracts.”  Id. at *10 
+(Clement, J., dissenting) (quoting 20 U.S.C. § 107(b)).  As explained, we agree with the 
+dissent’s view in that case. 
+28
+
+vending facility” unless justified by DOE. In Minnesota Department of Jobs & Training 
+v. Riley, the Eighth Circuit addressed whether the Department of Veterans Affairs could 
+charge commissions on sales from a blind vendor’s vending operation.  See 18 F.3d 606, 
+608 (8th Cir. 1994).  The Eighth Circuit concluded that the language of Section 107(b) is 
+clear that the RSA precludes the charging of commissions on vending sales without the 
+approval of DOE.  See id. at 609. A dditionally, the Eighth Circuit concluded that the 
+legislative history demonstrated Congress’s “concern[] with federal agency abuses of blind 
+vendor’s operations, like forcing blind vendors to pay commissions.” Id. (citing S. Rep. 
+No. 93–937 (2d Sess. 1974)).  
+Three years later, when addressing whether the Department of Veterans Affairs 
+could install a vending machine that would compete with the blind vendor, the Eighth 
+Circuit relied on its prior decision in Department of Jobs and Training, and concluded that 
+the RSA preclude d the installation of the competing vending machine without the DOE 
+Secretary’s approval.  See Minn. Dep’t of Econ. Sec. v. Riley 107 F.3d 648, 650 (8th Cir. 
+1997).  The Eighth Circuit explained, “No less than commission payments, competing 
+machines would limit the blind vendor’s operation.  [Department of Jobs and Training ] 
+rules out both, unless the Secretary decides otherwise.”  Id. 
+Here, the Army’s decision to forego the FFS contract with Kansas in favor of a DFA 
+contract did more than just “limit” a blind vendor’s operation of the vending facility; it 
+eliminated it altogether.  Minn. Dep’t of Econ. Sec., 107 F.3d at 650.  Therefore, the Army 
+was required to justify its actions to the Secretary of DOE, and it is undisputed that the 
+Army did not do so.  
+29
+
+3. 
+Accordingly, we hold that the Army’s decision to forego the FFS contract with 
+Kansas in favor of publishing a DFA contract pursuant to the JWOD -- eliminating 
+Kansas’s operation of the Fort Riley cafeteria -- invoked the RSA Review Requirement , 
+and we affirm the cross-appeal on that ground. 
+C. 
+Because we conclude per the RSA Review Requirement that the Army was required 
+to justify its decision with regard to the Kansas FFS contract, and because the Secretary of 
+DOE will have the authority to accept or reject such justification, reaching the other issues 
+in this appeal at this juncture would be premature.  Indeed, our ultimate review of those 
+issues “ultimately hinges on” the Secretary’s approval (or not) of the Army’s actions. Am. 
+Whitewater v. Tidwell, 770 F.3d 1108, 1122 (4th Cir. 2014); see Minn. Dep’t of Econ. Sec., 
+107 F.3d at 650 (explaining the RSA “precludes the [federal agency’s] exercise of its 
+statutory authority when that exercise would limit a blind vendor’s operation, unless the 
+Secretary approves the limitation” (emphasis supplied)). 
+Therefore, we vacate the district court’s decision as to those issues, and remand so 
+that the Army may properly comply with the RSA Review Requirement.   
+IV. 
+The district court correctly determined that, in foregoing an FFS contract with 
+Kansas in favor of a DFA contract without the Secretary’s approval, the Army violated the 
+RSA Review Requirement.  We affirm this determination.  Because we see no need to 
+decide the other issues presented in this appeal until the Army properly abides by the RSA 
+30
+
+Review Requirement, we vacate the remainder of the district court’s opinion and remand 
+for further proceedings below consistent with this opinion. 
+AFFIRMED IN PART, VACATED IN PART, AND REMANDED 
+31

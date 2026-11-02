@@ -1,0 +1,97 @@
+URL: https://tacqe.com/accessible-plain-language-tips/
+
+Making Your Materials Accessible
+Twitter
+Facebook
+LinkedIn
+Email
+Print
+Creating accessible materials is essential for professionals who support and serve people with disabilities. Whether you're preparing brochures, training handouts, presentations, or digital content, accessibility ensures everyone can easily use, understand, and benefit from your materials.
+Why Accessibility Matters
+Accessibility means creating materials that people with disabilities can easily use. It shows a commitment to inclusion and helps your message reach more people. Using plain language and universal design makes your content clearer, more inclusive, and more effective.
+Start with These Plain Language and Universal Design Tips
+Use these practical tips to create content that works for everyone - no matter their abilities or preferred way of accessing information.
+1. Use Plain Language
+Write clearly and directly.
+Avoid complex sentences and jargon.
+Use short sentences and familiar words.
+Clearly define any necessary technical term – especially acronyms.
+2. Improve Readability
+Use easy-to-read fonts (For example, Arial, Verdana, Tahoma).
+Font size should be at least 12 points for print and 16 points or larger for digital content.
+Use plenty of white space to reduce visual clutter.
+Align text to the left, not centered or justified, to make reading easier.
+3. Provide Clear Headings and Structure
+Break content into sections with clear headings and subheadings.
+Headings help readers easily find and understand content.
+Use lists and bullet points to clearly organize information.
+4. Ensure Color Contrast
+High contrast between text and background colors makes content easier to read.
+Black text on white or pale backgrounds works best.
+Avoid color combinations difficult for colorblind users (For example, red/green).
+Double check to make sure your foreground and background colors have enough contrast using the
+Color Contrast Checker.
+5. Include Alternative Text for Images
+Add brief descriptions (alt text) to images.
+Alt text helps people using screen readers understand visual content.
+Clearly describe the content or function of each image.
+6. Design for Digital Accessibility
+Ensure your website and digital documents are keyboard-navigable.
+Clearly label all links and buttons.
+Avoid flashing animations or rapid movements.
+Test your materials with common assistive technologies like screen readers.
+7. Create Accessible Print Materials
+Use matte or non-glossy paper to reduce glare.
+Avoid tight binding methods that prevent pages from laying flat.
+Provide electronic or large-print versions upon request.
+8. Add Captions and Transcripts
+Add captions to videos and presentations.
+Provide transcripts for audio content.
+Make sure captions and transcripts accurately represent spoken content.
+Show Your Commitment to Accessibility in Outreach and Events
+Make sure to clearly communicate your commitment to accessibility in event invitations and promotional materials.
+Offer materials in multiple formats (For example, print, digital, audio).
+Ask for feedback regularly to improve accessibility.
+Check Your Work
+Always test your materials with diverse users, including people with disabilities. Use accessibility checkers available in software like Microsoft Word, Adobe Acrobat, and various online tools. Start with these:
+Microsoft Word – Accessibility Checker
+Tool:
+Microsoft Accessibility Checker
+How to Use:
+Go to the Review tab in Word.
+Click Check Accessibility.
+A panel will open with issues and suggestions for improvement.
+Adobe Acrobat – Accessibility Tools
+Tool:
+Adobe Acrobat Accessibility Checker
+How to Use:
+Open a PDF in Adobe Acrobat Pro.
+Go to Tools > Accessibility.
+Select Accessibility Check to scan for accessibility issues.
+WebAIM Color Contrast Checker
+Tool:
+Color Contrast Checker
+How to Use:
+Enter hex codes or use the color picker for the Foreground Color and Background Color.
+View the contrast ratio and WCAG pass/fail results.
+Adjust colors, font size, or boldness to improve accessibility and meet guidelines.
+Access for Everyone Is the Goal
+By using these straightforward universal design practices, you demonstrate respect for all people, ensuring everyone can fully engage with your important work. Accessibility isn’t just good practice - it’s essential for effective communication and true community access to your programs and services.
+Helpful Resources
+Learn more about creating accessible materials with these resources:
+Plainlanguage.gov - Federal Plain Language Guidelines
+Center for Plain Language
+The Complete Checklist to PDF Accessibility
+Everything You Need to Know to Write Effective Alt Text
+Did you find this post useful?
+Click to like!
+Boo-yah!
+Drat!
+Have a suggestion?
+Leave us a comment.
+Leave a Comment
+Cancel reply
+You must be
+logged in
+to post a comment.
+Type and Press “enter” to Search

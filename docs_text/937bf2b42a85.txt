@@ -1,0 +1,198 @@
+FILENAME: eta-9169-annualreport-py2022-national-pdf-5f8458e11c6f.pdf
+PATH: _raw/rsa.ed.gov/eta-9169-annualreport-py2022-national-pdf-5f8458e11c6f.pdf
+
+WIOA STATEWIDE AND LOCAL PREFORMANCE REPORT 
+PY2022
+PROGRAM
+STATE:     National 
+
+From: 7/1/2022 To: 6/30/2023  X
+
+SUMMARY INFORMATION
+Service
+BY PARTICIPANT CHARACTERISTICS
+Num Rate Num Rate Num Rate Num Rate
+Negotiated 
+Target N/A N/A N/A N/A
+Actual 142,775 56.2% 132,017 52.8% 30,370 37.6% 103,455 48.7%
+62,754 56.8% 58,176 53.4% 13,059 38.1% 45,464 48.7%
+79,392 55.8% 73,343 52.3% 17,235 37.3% 57,089 48.7%
+1,388 51.1% 1,192 49.0% 766 36.2% 7,213 57.8%
+35,992 60.0% 34,621 57.7% 19,444 41.8% 63,207 52.9%
+28,546 57.6% 26,396 55.0% 5,534 30.3% 18,976 43.7%
+41,649 57.3% 38,480 53.6% 3,179 35.0% 10,077 39.3%
+17,294 53.3% 15,790 48.6% 979 32.7% 2,610 35.6%
+8,342 50.6% 7,433 45.5% 295 29.0% 832 34.2%
+9,564 47.8% 8,105 42.2% 173 22.9% 540 32.4%
+2,806 50.9% 2,560 46.9% 639 36.1% 1,089 49.1%
+3,331 55.5% 2,840 50.6% 707 35.6% 3,462 46.5%
+31,677 52.9% 29,335 49.4% 5,963 34.9% 18,296 45.3%
+21,654 54.3% 19,774 51.7% 5,435 33.8% 18,835 44.9%
+766 52.7% 726 48.5% 141 30.5% 618 47.5%
+105,432 57.5% 97,673 54.1% 23,346 38.7% 80,634 49.8%
+3,613 53.4% 3,241 49.8% 832 35.7% 3,449 46.5%
+OMB Control Number 1205‐0526
+Expiration Date:  05‐31‐2024 ETA‐9169
+Statewide Performance Report
+TITLE (select one):
+Title I Local Area:N/A Title I Adult  Title II Adult Education
+REPORTING PERIOD COVERED (Required for current and three preceding years.) Title I Dislocated Worker Title III Wagner‐Peyser
+Title I Youth Title IV Vocational Rehabilitation
+Title I and Title III combined
+Participants Served
+(Cohort Period: 
+07/01/2022 ‐ 06/30/2023)
+Participants Exited
+(Cohort Period: 07/01/2022 ‐ 06/30/2023)
+Funds Expended
+(Cohort Period: 07/01/2022 ‐ 
+06/30/2023)
+Cost Per Participant Served
+(Cohort Period: 07/01/2022 ‐ 
+06/30/2023)
+Career Services 617,018  186,928       $1,091,433,772 $1,769
+Training Services 230,835  37,901         $585,603,426 $2,537
+Percent training‐related employment1: Percent enrolled in more than one core program: Percent Admin Expended:
+N/A 9.9% N/A
+Total Participants 
+Served
+(Cohort Period: 
+07/01/2022 ‐ 
+06/30/2023)
+Total Participants 
+Exited
+(Cohort Period: 
+07/01/2022 ‐ 
+06/30/2023)
+Employment Rate 
+(Q2)2 
+(Cohort Period: 
+07/01/2021‐ 
+06/30/2022)
+Employment Rate 
+(Q4)2 
+(Cohort Period: 
+01/01/2021 ‐ 
+12/31/2021)
+Median 
+Earnings        
+(Cohort Period: 
+07/01/2021 ‐ 
+06/30/2022)
+Credential Rate3
+(Cohort Period: 
+01/01/2021 ‐ 
+12/31/2021)
+Measurable Skill 
+Gains3
+(Cohort Period: 
+07/01/2022 ‐ 
+06/30/2023)
+Earnings
+Total Statewide 818,646 256,435
+N/A
+Sex
+Female  358,401 111,298 $5,063
+Male 453,397 143,487 $5,182
+$5,130
+Age
+ < 16 19,208 2,875 $3,970
+16 ‐ 18 239,703 58,402 $4,738
+19 ‐ 24 162,570 48,760 $4,259
+25 ‐ 44 210,782 73,872 $5,490
+45 ‐ 54 88,834 32,836 $6,686
+55 ‐ 59 43,325 16,750 $6,696
+60+ 54,224 22,940 $6,403
+Ethnicity/Race
+American Indian / Alaska Native 18,587 5,913 $4,934
+Asian  24,961 6,411 $5,544
+Black / African American 188,710 58,940 $4,659
+Hispanic / Latino 155,887 39,953 $5,532
+Native Hawaiian / Pacific 
+Islander 5,992 1,540 $5,409
+White 589,481 186,138 $5,253
+More Than One Race 25,232 7,321 $4,641
+1
+
+WIOA STATEWIDE AND LOCAL PREFORMANCE REPORT 
+PY2022
+BY EMPLOYMENT BARRIER4
+Num Rate Num Rate Num Rate Num Rate
+Negotiated 
+Target N/A N/A N/A N/A
+Actual 142,775 56.2% 132,017 52.8% 30,370 37.6% 103,455 48.7%
+1,511 53.1% 1,424 47.5% 328 38.3% 721 41.6%
+43,931 53.9% 37,869 51.0% 10,232 35.9% 34,991 47.9%
+2,667 51.0% 3,079 49.2% 371 29.4% 1,415 48.8%
+12,173 47.5% 11,372 43.6% 1,074 33.8% 3,166 37.8%
+3,273 46.6% 3,219 42.7% 348 27.9% 954 38.0%
+46,872 47.5% 42,493 43.9% 10,336 34.7% 37,551 48.8%
+64,017 51.7% 59,004 48.2% 11,525 35.7% 35,112 43.9%
+654 55.9% 630 51.2% 80 36.7% 150 47.0%
+142,775 56.2% 132,016 52.8% 30,369 37.6% 103,455 48.7%
+8,361 55.2% 8,057 52.6% 1,138 38.0% 3,069 41.0%
+1,608 54.4% 1,612 52.8% 512 36.0% 1,569 45.8%
+Total Participants 
+Served
+(Cohort Period: 
+07/01/2021 ‐ 
+06/30/2023)
+Total Participants 
+Exited
+(Cohort Period: 
+07/01/2022 ‐ 
+06/30/2023)
+Employment Rate 
+(Q2)2 
+(Cohort Period: 
+07/01/2021‐ 
+06/30/2022)
+Employment Rate 
+(Q4)2 
+(Cohort Period: 
+01/01/2021 ‐ 
+12/31/2021)
+Median 
+Earnings        
+(Cohort Period: 
+07/01/2021 ‐ 
+06/30/2022)
+Credential Rate3
+(Cohort Period: 
+01/01/2021 ‐ 
+12/31/2021)
+Measurable Skill 
+Gains3
+(Cohort Period: 
+07/01/2022 ‐ 
+06/30/2023)
+Earnings
+Total Statewide 818,646 256,435
+N/A
+$5,130
+Displaced Homemakers 9,241 3,004 $5,013
+English Language Learners, Low Levels of 
+Literacy, Cultural Barriers 271,900 82,405 $4,320
+Exhausting TANF within 2 years (Part A Title 
+IV of the Social Security Act) 15,883 4,890 $4,837
+Ex‐offenders 68,166 26,394 $5,411
+Homeless Individuals / runaway youth 18,547 6,902 $4,739
+Long‐term Unemployed
+(27 or more consecutive weeks) 326,706 97,943 $4,058
+Low‐Income Individuals 388,270 125,507 $4,302
+Migrant and Seasonal Farmworkers 3,707 1,124 $5,359
+Individuals with Disabilities (incl. youth) 818,646 256,435 $5,130
+Single Parents (incl. single pregnant 
+women) 44,028 15,096 $5,841
+Public Burden Statement (1205‐0526) 
+Persons are not required to respond to this collection of information unless it displays a currently valid OMB control number. Respondent’s reply to these reporting requirements is required to obtain 
+or retain benefits (Workforce Innovation and Opportunity Act, Section 185(a)(2)). Public reporting burden for this collection of information is estimated to range between 240 and 360 minutes which 
+averages 300 minutes per response, including the time for reviewing instructions, searching existing data sources, gathering and maintaining the data needed, and completing and reviewing the 
+collection of information. Send comments regarding this burden estimate to the Office of Policy Development and Research ●  U.S. Department of Labor ● Room N‐5641 ● 200 ConsƟtuƟon Ave., NW, 
+● Washington, DC ● 20210. Do NOT send the completed 9169 applicaƟon to this address.
+Youth in foster care or aged out of system 9,200 2,826 $3,569
+1Applies to Title I only.
+2This indicator also includes those who entered into a training or education program for the Youth program.   
+3Credential Rate and Measurable Skill Gains do not apply to the Wagner‐Peyser program.
+4Barriers to Employment are determined at the point of entry into the program. 
+2

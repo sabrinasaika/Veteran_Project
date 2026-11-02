@@ -1,0 +1,482 @@
+[
+  {
+    "id": "ptsd_mobility_remote_full_agent",
+    "question": "I am a U.S. Army veteran with PTSD and a mobility impairment. I want stable remote or hybrid work. Search relevant employment and veteran rehabilitation evidence, use O*NET for occupation ideas, use JAN for accommodation ideas, and use RSA-911 safe SQL or statistical analysis where relevant. What pathway should I pursue?",
+    "reference_answer": "A strong answer should integrate veteran rehabilitation evidence, O*NET occupation ideas, JAN-derived accommodations, and privacy-safe RSA-911 aggregate evidence if relevant. It should recommend realistic remote or hybrid pathways, explain PTSD and mobility accommodations, cite sources, and avoid row-level data.",
+    "expected_topics": [
+      "PTSD",
+      "mobility impairment",
+      "remote",
+      "O*NET",
+      "JAN",
+      "RSA-911",
+      "VR&E",
+      "accommodations"
+    ],
+    "ground_truth": {
+      "status": "DRAFT 2026-10-21: drafted from official pages; verify every fact against its source before using results.",
+      "key_facts": [
+        {
+          "id": "VRE-ELIG",
+          "fact": "VR&E eligibility for Veterans requires a discharge that is not dishonorable and a VA service-connected disability rating of at least 10%.",
+          "source": "https://www.va.gov/careers-employment/vocational-rehabilitation/eligibility/",
+          "basis": "verbatim"
+        },
+        {
+          "id": "VRE-VRC",
+          "fact": "A VR&E counselor (VRC) determines whether the Veteran has an employment handicap and is eligible, and works with the Veteran on a rehabilitation plan.",
+          "source": "https://www.va.gov/careers-employment/vocational-rehabilitation/how-to-apply",
+          "basis": "verbatim"
+        },
+        {
+          "id": "VRE-TRACKS-WORK",
+          "fact": "Relevant VR&E tracks for finding new work are Rapid Access to Employment (a job search using the Veteran's existing skills) and Employment Through Long-Term Services (education or training for work in a different field).",
+          "source": "https://www.va.gov/careers-employment/vocational-rehabilitation/programs/",
+          "basis": "verbatim"
+        },
+        {
+          "id": "VRE-SERVICES",
+          "fact": "VR&E services can include help finding and keeping a job, including the use of special employer incentives and job accommodations.",
+          "source": "https://www.va.gov/careers-employment/vocational-rehabilitation/eligibility/",
+          "basis": "verbatim"
+        },
+        {
+          "id": "JAN-PTSD-TELEWORK",
+          "fact": "JAN lists telework / work from home as an accommodation for PTSD (under attentiveness/concentration and decreased stamina/fatigue).",
+          "source": "https://askjan.org/disabilities/Post-Traumatic-Stress-Disorder-PTSD.cfm",
+          "basis": "verbatim"
+        },
+        {
+          "id": "JAN-PTSD-STRESS",
+          "fact": "For PTSD-related stress, JAN lists accommodations such as a flexible schedule, modified break schedule, counseling, and a support person or support animal.",
+          "source": "https://askjan.org/disabilities/Post-Traumatic-Stress-Disorder-PTSD.cfm",
+          "basis": "verbatim"
+        },
+        {
+          "id": "JAN-MOBILITY",
+          "fact": "For leg/mobility impairments, JAN lists accommodations such as adjustable office workstations, periodic rest breaks, a flexible schedule, and telework.",
+          "source": "https://askjan.org/disabilities/Leg-Impairment.cfm",
+          "basis": "verbatim"
+        }
+      ],
+      "known_errors": [
+        {
+          "id": "ERR-CWT",
+          "error": "Describes Compensated Work Therapy (CWT) as one of the VR&E support-and-services tracks.",
+          "why": "VR&E has exactly five tracks: Reemployment, Rapid Access to Employment, Self-Employment, Employment Through Long-Term Services, and Independent Living. CWT is a separate Veterans Health Administration program.",
+          "source": "https://www.va.gov/careers-employment/vocational-rehabilitation/programs/"
+        },
+        {
+          "id": "ERR-AUTO-ELIGIBLE",
+          "error": "States that the Veteran's condition automatically qualifies them for VR&E services or a serious employment handicap, without noting that a VR&E counselor makes that determination.",
+          "why": "Eligibility and employment handicap are determined by a VR&E counselor after application.",
+          "source": "https://www.va.gov/careers-employment/vocational-rehabilitation/how-to-apply"
+        },
+        {
+          "id": "ERR-20-PERCENT",
+          "error": "States that a Veteran needs a 20% (or higher) disability rating to be eligible for VR&E.",
+          "why": "For Veterans the threshold is a 10% service-connected rating; the 20% memorandum rating applies to service members still on active duty.",
+          "source": "https://www.va.gov/careers-employment/vocational-rehabilitation/eligibility/"
+        }
+      ],
+      "notes": "JAN states its lists are 'only a sample of the possibilities available'; an answer may suggest other reasonable accommodations."
+    }
+  },
+  {
+    "id": "black_veteran_employment_disparity",
+    "question": "Use the RSA-911 safe SQL tool. Show the SQL query you used. Among veterans only, compare employment outcome rates for Black and non-Black veterans using blank exitEmpOutcome as not employed. Interpret the result carefully.",
+    "reference_answer": "A strong answer should show an aggregate SQL query with veteran filtering, n, employment rate, and n >= 5 privacy protection. It should compare Black and non-Black veterans descriptively, state that blank exitEmpOutcome is treated as not employed only for this definition, and avoid causal claims.",
+    "expected_topics": [
+      "RSA-911",
+      "safe SQL",
+      "Black veterans",
+      "non-Black veterans",
+      "exitEmpOutcome",
+      "n",
+      "employment rate",
+      "descriptive"
+    ]
+  },
+  {
+    "id": "homelessness_employment_rates",
+    "question": "Use the RSA-911 safe SQL tool. Show the SQL query you used. Among veterans only, compare employment outcome rates by homelessness/runaway status using blank exitEmpOutcome as not employed. Label blank, 0, 1, and 9 values clearly.",
+    "reference_answer": "A strong answer should run aggregate safe SQL filtered to veterans, include COUNT(*) AS n and employment rate, enforce n >= 5, label blank values and 0/1/9 codes based on the codebook, and interpret rates descriptively.",
+    "expected_topics": [
+      "RSA-911",
+      "safe SQL",
+      "homelessorrunaway",
+      "blank",
+      "0",
+      "1",
+      "9",
+      "employment rate"
+    ]
+  },
+  {
+    "id": "statistical_feature_importance",
+    "question": "Use the RSA-911 statistical analysis layer. Among veterans only, what features are most associated with employment at exit? Explain feature importance, discriminant features, and feature relationships in plain language without revealing individual records.",
+    "reference_answer": "A strong answer should use the statistical analysis layer, report privacy-safe aggregate feature associations, distinguish association from causation, explain code labels where verified, and avoid individual rows.",
+    "expected_topics": [
+      "statistical analysis",
+      "feature importance",
+      "discriminant",
+      "feature relationships",
+      "veterans",
+      "employment at exit",
+      "privacy"
+    ]
+  },
+  {
+    "id": "hearing_loss_federal_admin",
+    "question": "I am a veteran with hearing loss and mild depression. I want stable federal or administrative work. Recommend pathways using the full agent system, including O*NET occupations and JAN accommodation ideas if relevant.",
+    "reference_answer": "A strong answer should recommend VR&E or related supports, identify administrative/federal-friendly O*NET occupations, discuss hearing-loss and depression accommodations from JAN where retrieved, cite sources, and include practical next steps.",
+    "expected_topics": [
+      "hearing loss",
+      "depression",
+      "federal",
+      "administrative",
+      "O*NET",
+      "JAN",
+      "VR&E",
+      "accommodations"
+    ],
+    "ground_truth": {
+      "status": "DRAFT 2026-10-21: drafted from official pages; verify every fact against its source before using results.",
+      "key_facts": [
+        {
+          "id": "VRE-ELIG",
+          "fact": "VR&E eligibility for Veterans requires a discharge that is not dishonorable and a VA service-connected disability rating of at least 10%.",
+          "source": "https://www.va.gov/careers-employment/vocational-rehabilitation/eligibility/",
+          "basis": "verbatim"
+        },
+        {
+          "id": "VRE-VRC",
+          "fact": "A VR&E counselor (VRC) determines whether the Veteran has an employment handicap and is eligible, and works with the Veteran on a rehabilitation plan.",
+          "source": "https://www.va.gov/careers-employment/vocational-rehabilitation/how-to-apply",
+          "basis": "verbatim"
+        },
+        {
+          "id": "VRE-RAE-PREFERENCE",
+          "fact": "VR&E's Rapid Access to Employment track includes help determining whether the Veteran is eligible for Veterans' Preference.",
+          "source": "https://www.va.gov/careers-employment/vocational-rehabilitation/programs/rapid-access-to-employment",
+          "basis": "verbatim"
+        },
+        {
+          "id": "OPM-30PCT",
+          "fact": "The 30% Disabled Veterans appointing authority allows a noncompetitive temporary appointment of more than 60 days, or a term appointment, for a veteran with a disability rating of 30% or more.",
+          "source": "https://www.opm.gov/policy-data-oversight/hiring-information/hiring-authorities/",
+          "basis": "verbatim"
+        },
+        {
+          "id": "OPM-SCHEDULE-A",
+          "fact": "Schedule A, 5 CFR 213.3102(u), for hiring people with severe physical disabilities, psychiatric disabilities, and intellectual disabilities. In order to be eligible for employment through the Schedule A non-competitive process, documentation of the disability is required.",
+          "source": "https://www.opm.gov/policy-data-oversight/disability-employment/hiring/",
+          "basis": "verbatim"
+        },
+        {
+          "id": "JAN-HEARING",
+          "fact": "For hearing loss, JAN lists accommodations such as assistive listening devices, CART (real-time captioning) services, captioned telephone calls, and video relay services.",
+          "source": "https://askjan.org/disabilities/Hearing-Impairment.cfm",
+          "basis": "verbatim"
+        },
+        {
+          "id": "JAN-DEPRESSION",
+          "fact": "For depression, JAN lists accommodations such as a flexible schedule, modified break schedule or periodic rest breaks, telework, and counseling or an employee assistance program.",
+          "source": "https://askjan.org/disabilities/Depression.cfm",
+          "basis": "verbatim"
+        }
+      ],
+      "known_errors": [
+        {
+          "id": "ERR-CWT",
+          "error": "Describes Compensated Work Therapy (CWT) as one of the VR&E support-and-services tracks.",
+          "why": "VR&E has exactly five tracks: Reemployment, Rapid Access to Employment, Self-Employment, Employment Through Long-Term Services, and Independent Living. CWT is a separate Veterans Health Administration program.",
+          "source": "https://www.va.gov/careers-employment/vocational-rehabilitation/programs/"
+        },
+        {
+          "id": "ERR-AUTO-ELIGIBLE",
+          "error": "States that the Veteran's condition automatically qualifies them for VR&E services or a serious employment handicap, without noting that a VR&E counselor makes that determination.",
+          "why": "Eligibility and employment handicap are determined by a VR&E counselor after application.",
+          "source": "https://www.va.gov/careers-employment/vocational-rehabilitation/how-to-apply"
+        },
+        {
+          "id": "ERR-20-PERCENT",
+          "error": "States that a Veteran needs a 20% (or higher) disability rating to be eligible for VR&E.",
+          "why": "For Veterans the threshold is a 10% service-connected rating; the 20% memorandum rating applies to service members still on active duty.",
+          "source": "https://www.va.gov/careers-employment/vocational-rehabilitation/eligibility/"
+        }
+      ],
+      "notes": "JAN states its lists are 'only a sample of the possibilities available'; an answer may suggest other reasonable accommodations."
+    }
+  },
+  {
+    "id": "vision_loss_anxiety_compare_options",
+    "question": "I am a veteran with vision loss and anxiety. Compare remote administrative work, customer support, and self-employment. Which path is most realistic and what accommodations should I request?",
+    "reference_answer": "A strong answer should compare all three options, identify the most realistic path with caveats, discuss assistive technology and anxiety-related accommodations, cite evidence, and recommend a VR&E route.",
+    "expected_topics": [
+      "vision loss",
+      "anxiety",
+      "remote administrative",
+      "customer support",
+      "self-employment",
+      "assistive technology",
+      "VR&E"
+    ],
+    "ground_truth": {
+      "status": "DRAFT 2026-10-21: drafted from official pages; verify every fact against its source before using results.",
+      "key_facts": [
+        {
+          "id": "VRE-ELIG",
+          "fact": "VR&E eligibility for Veterans requires a discharge that is not dishonorable and a VA service-connected disability rating of at least 10%.",
+          "source": "https://www.va.gov/careers-employment/vocational-rehabilitation/eligibility/",
+          "basis": "verbatim"
+        },
+        {
+          "id": "VRE-VRC",
+          "fact": "A VR&E counselor (VRC) determines whether the Veteran has an employment handicap and is eligible, and works with the Veteran on a rehabilitation plan.",
+          "source": "https://www.va.gov/careers-employment/vocational-rehabilitation/how-to-apply",
+          "basis": "verbatim"
+        },
+        {
+          "id": "VRE-SELF-EMPLOYMENT",
+          "fact": "VR&E's Self-Employment track helps a Veteran start their own business, with services including help developing a business plan, analysis of the business concept, and training in small-business operations, marketing, and finances.",
+          "source": "https://www.va.gov/careers-employment/vocational-rehabilitation/programs/self-employment",
+          "basis": "verbatim"
+        },
+        {
+          "id": "JAN-VISION-AT",
+          "fact": "For blindness/vision loss, JAN lists assistive technology such as screen reading software, a computer Braille display, and optical character recognition (OCR).",
+          "source": "https://askjan.org/disabilities/Blind.cfm",
+          "basis": "verbatim"
+        },
+        {
+          "id": "JAN-VISION-TELEWORK",
+          "fact": "JAN lists telework and a flexible schedule as accommodations for blindness, including for commuting barriers.",
+          "source": "https://askjan.org/disabilities/Blind.cfm",
+          "basis": "verbatim"
+        },
+        {
+          "id": "JAN-ANXIETY",
+          "fact": "For anxiety, JAN's key accommodations include a flexible schedule, modified break schedule, a rest area/private space, a support person or support animal, and identifying and reducing triggers.",
+          "source": "https://askjan.org/disabilities/Anxiety-Disorder.cfm",
+          "basis": "verbatim"
+        }
+      ],
+      "known_errors": [
+        {
+          "id": "ERR-CWT",
+          "error": "Describes Compensated Work Therapy (CWT) as one of the VR&E support-and-services tracks.",
+          "why": "VR&E has exactly five tracks: Reemployment, Rapid Access to Employment, Self-Employment, Employment Through Long-Term Services, and Independent Living. CWT is a separate Veterans Health Administration program.",
+          "source": "https://www.va.gov/careers-employment/vocational-rehabilitation/programs/"
+        },
+        {
+          "id": "ERR-AUTO-ELIGIBLE",
+          "error": "States that the Veteran's condition automatically qualifies them for VR&E services or a serious employment handicap, without noting that a VR&E counselor makes that determination.",
+          "why": "Eligibility and employment handicap are determined by a VR&E counselor after application.",
+          "source": "https://www.va.gov/careers-employment/vocational-rehabilitation/how-to-apply"
+        },
+        {
+          "id": "ERR-20-PERCENT",
+          "error": "States that a Veteran needs a 20% (or higher) disability rating to be eligible for VR&E.",
+          "why": "For Veterans the threshold is a 10% service-connected rating; the 20% memorandum rating applies to service members still on active duty.",
+          "source": "https://www.va.gov/careers-employment/vocational-rehabilitation/eligibility/"
+        }
+      ],
+      "notes": "JAN states its lists are 'only a sample of the possibilities available'; an answer may suggest other reasonable accommodations."
+    }
+  },
+  {
+    "id": "ptsd_housing_gap_reentry",
+    "question": "I am a veteran with PTSD, housing instability, and a long employment gap. What programs and stepwise employment pathway could help me re-enter work?",
+    "reference_answer": "A strong answer should recommend stabilization-oriented supports, VR&E/CWT or supported employment where appropriate, realistic stepwise re-entry, accommodations for PTSD, and evidence limitations.",
+    "expected_topics": [
+      "PTSD",
+      "housing instability",
+      "employment gap",
+      "supported employment",
+      "CWT",
+      "VR&E",
+      "stepwise"
+    ],
+    "ground_truth": {
+      "status": "DRAFT 2026-10-21: drafted from official pages; verify every fact against its source before using results.",
+      "key_facts": [
+        {
+          "id": "VRE-ELIG",
+          "fact": "VR&E eligibility for Veterans requires a discharge that is not dishonorable and a VA service-connected disability rating of at least 10%.",
+          "source": "https://www.va.gov/careers-employment/vocational-rehabilitation/eligibility/",
+          "basis": "verbatim"
+        },
+        {
+          "id": "VHA-CWT",
+          "fact": "Compensated Work Therapy (CWT) is a Department of Veterans Affairs (VA) clinical vocational rehabilitation program that provides evidence based and evidence informed vocational rehabilitation services. CWT programs are located within all VA medical centers.",
+          "source": "https://department.va.gov/vha/compensated-work-therapy/",
+          "basis": "verbatim"
+        },
+        {
+          "id": "VHA-CWT-SE",
+          "fact": "IPS is a person-centered approach that is integrated within a treatment team. Also known as supported employment, IPS prioritizes rapid job search for employment opportunities that match with a Veteran’s needs, talents, and preferences and provides ongoing support until steady employment is achieved. IPS Specialist should be aligned under CWT and co-located in office space within proximity to the PTSD and/or MH teams.",
+          "source": "https://marketplace.va.gov/innovations/individual-placement-and-support",
+          "basis": "verbatim"
+        },
+        {
+          "id": "VA-HUD-VASH",
+          "fact": "The Housing and Urban Development-VA Supportive Housing (HUD-VASH) program is a partnership between the U.S. Department of Housing and Urban Development (HUD) and VA. Unlike programs that only provide housing assistance, HUD-VASH pairs a housing voucher with ongoing support tailored to each Veteran’s needs. The program is specifically tailored for Veterans experiencing homelessness who have a need for ongoing, intensive case management due to more complex challenges, such as chronic health conditions, that can make finding and maintaining housing more difficult.",
+          "source": "https://department.va.gov/homeless/hud-vash/",
+          "basis": "verbatim"
+        },
+        {
+          "id": "VA-SSVF",
+          "fact": "Supportive Services for Veteran Families (SSVF) grants provide housing stability services to low-income Veteran families who are experiencing homelessness or are at imminent risk of experiencing homelessness through compassionate and responsive services.",
+          "source": "https://department.va.gov/homeless/supportive-services-for-veteran-families/",
+          "basis": "verbatim"
+        },
+        {
+          "id": "VA-HVCES",
+          "fact": "VA created Homeless Veteran Community Employment Services (HVCES) to improve employment outcomes for Veterans who have experienced homelessness.",
+          "source": "https://department.va.gov/homeless/employment/",
+          "basis": "verbatim"
+        },
+        {
+          "id": "VA-HOMELESS-HOTLINE",
+          "fact": "If you are a Veteran who is homeless or at imminent risk of homelessness, we strongly encourage you to contact the National Call Center for Homeless Veterans at 877-424-3838 for assistance. The call is free, confidential, and available 24 hours a day, 7 days a week.",
+          "source": "https://department.va.gov/homeless/nationalcallcenter/",
+          "basis": "verbatim"
+        },
+        {
+          "id": "JAN-PTSD-STRESS",
+          "fact": "For PTSD-related stress, JAN lists accommodations such as a flexible schedule, modified break schedule, counseling, and a support person or support animal.",
+          "source": "https://askjan.org/disabilities/Post-Traumatic-Stress-Disorder-PTSD.cfm",
+          "basis": "verbatim"
+        }
+      ],
+      "known_errors": [
+        {
+          "id": "ERR-CWT",
+          "error": "Describes Compensated Work Therapy (CWT) as one of the VR&E support-and-services tracks.",
+          "why": "VR&E has exactly five tracks: Reemployment, Rapid Access to Employment, Self-Employment, Employment Through Long-Term Services, and Independent Living. CWT is a separate Veterans Health Administration program.",
+          "source": "https://www.va.gov/careers-employment/vocational-rehabilitation/programs/"
+        },
+        {
+          "id": "ERR-AUTO-ELIGIBLE",
+          "error": "States that the Veteran's condition automatically qualifies them for VR&E services or a serious employment handicap, without noting that a VR&E counselor makes that determination.",
+          "why": "Eligibility and employment handicap are determined by a VR&E counselor after application.",
+          "source": "https://www.va.gov/careers-employment/vocational-rehabilitation/how-to-apply"
+        },
+        {
+          "id": "ERR-20-PERCENT",
+          "error": "States that a Veteran needs a 20% (or higher) disability rating to be eligible for VR&E.",
+          "why": "For Veterans the threshold is a 10% service-connected rating; the 20% memorandum rating applies to service members still on active duty.",
+          "source": "https://www.va.gov/careers-employment/vocational-rehabilitation/eligibility/"
+        }
+      ],
+      "notes": "JAN states its lists are 'only a sample of the possibilities available'; an answer may suggest other reasonable accommodations."
+    }
+  },
+  {
+    "id": "ms_fatigue_part_time_remote",
+    "question": "I am a veteran with multiple sclerosis and fatigue. I want part-time remote work that could later become full-time. What pathways and accommodations fit best?",
+    "reference_answer": "A strong answer should recommend part-time remote-friendly occupations, fatigue-aware accommodations such as flexible scheduling and rest breaks, VR&E support, and a plan for scaling toward full-time work.",
+    "expected_topics": [
+      "multiple sclerosis",
+      "fatigue",
+      "part-time",
+      "remote",
+      "flexible scheduling",
+      "rest breaks",
+      "VR&E"
+    ],
+    "ground_truth": {
+      "status": "DRAFT 2026-10-21: drafted from official pages; verify every fact against its source before using results.",
+      "key_facts": [
+        {
+          "id": "VRE-ELIG",
+          "fact": "VR&E eligibility for Veterans requires a discharge that is not dishonorable and a VA service-connected disability rating of at least 10%.",
+          "source": "https://www.va.gov/careers-employment/vocational-rehabilitation/eligibility/",
+          "basis": "verbatim"
+        },
+        {
+          "id": "VRE-VRC",
+          "fact": "A VR&E counselor (VRC) determines whether the Veteran has an employment handicap and is eligible, and works with the Veteran on a rehabilitation plan.",
+          "source": "https://www.va.gov/careers-employment/vocational-rehabilitation/how-to-apply",
+          "basis": "verbatim"
+        },
+        {
+          "id": "VRE-SERVICES",
+          "fact": "VR&E services can include help finding and keeping a job, including the use of special employer incentives and job accommodations.",
+          "source": "https://www.va.gov/careers-employment/vocational-rehabilitation/eligibility/",
+          "basis": "verbatim"
+        },
+        {
+          "id": "JAN-MS-FATIGUE",
+          "fact": "For MS-related fatigue, JAN lists accommodations such as a flexible schedule, periodic rest breaks, task rotation, and telework.",
+          "source": "https://askjan.org/disabilities/Multiple-Sclerosis.cfm",
+          "basis": "verbatim"
+        },
+        {
+          "id": "JAN-MS-HEAT",
+          "fact": "For MS-related heat sensitivity, JAN lists accommodations such as cooling clothing, fans, and a flexible schedule.",
+          "source": "https://askjan.org/disabilities/Multiple-Sclerosis.cfm",
+          "basis": "verbatim"
+        },
+        {
+          "id": "JAN-MS-COGNITIVE",
+          "fact": "For MS-related memory or concentration problems, JAN lists accommodations such as calendars and planners, apps for memory, reminders, and written instructions.",
+          "source": "https://askjan.org/disabilities/Multiple-Sclerosis.cfm",
+          "basis": "verbatim"
+        }
+      ],
+      "known_errors": [
+        {
+          "id": "ERR-CWT",
+          "error": "Describes Compensated Work Therapy (CWT) as one of the VR&E support-and-services tracks.",
+          "why": "VR&E has exactly five tracks: Reemployment, Rapid Access to Employment, Self-Employment, Employment Through Long-Term Services, and Independent Living. CWT is a separate Veterans Health Administration program.",
+          "source": "https://www.va.gov/careers-employment/vocational-rehabilitation/programs/"
+        },
+        {
+          "id": "ERR-AUTO-ELIGIBLE",
+          "error": "States that the Veteran's condition automatically qualifies them for VR&E services or a serious employment handicap, without noting that a VR&E counselor makes that determination.",
+          "why": "Eligibility and employment handicap are determined by a VR&E counselor after application.",
+          "source": "https://www.va.gov/careers-employment/vocational-rehabilitation/how-to-apply"
+        },
+        {
+          "id": "ERR-20-PERCENT",
+          "error": "States that a Veteran needs a 20% (or higher) disability rating to be eligible for VR&E.",
+          "why": "For Veterans the threshold is a 10% service-connected rating; the 20% memorandum rating applies to service members still on active duty.",
+          "source": "https://www.va.gov/careers-employment/vocational-rehabilitation/eligibility/"
+        }
+      ],
+      "notes": "JAN states its lists are 'only a sample of the possibilities available'; an answer may suggest other reasonable accommodations."
+    }
+  },
+  {
+    "id": "race_ethnicity_rates",
+    "question": "Use the RSA-911 safe SQL tool. Show the SQL query you used. Among veterans only, compare employment outcome rates separately for Black, White, Asian, American Indian/Alaska Native, Native Hawaiian/Pacific Islander, and Hispanic veterans. Treat blank exitEmpOutcome as not employed.",
+    "reference_answer": "A strong answer should use aggregate safe SQL, include n and employment rate for each requested group, enforce n >= 5, explain that race/ethnicity categories can overlap, and avoid causal interpretation.",
+    "expected_topics": [
+      "RSA-911",
+      "safe SQL",
+      "Black",
+      "White",
+      "Asian",
+      "American Indian",
+      "Hawaiian",
+      "Hispanic",
+      "employment rate"
+    ]
+  },
+  {
+    "id": "primary_disability_rates",
+    "question": "Use the RSA-911 safe SQL tool. Show the SQL query you used. Among veterans only, compare employment outcome rates by primary disability category using blank exitEmpOutcome as not employed. Explain the top five and bottom five reportable groups.",
+    "reference_answer": "A strong answer should show SQL grouped by primary disability, include n and employment rate, suppress n < 5, interpret top and bottom groups descriptively, and use codebook labels where verified.",
+    "expected_topics": [
+      "RSA-911",
+      "safe SQL",
+      "primary disability",
+      "top five",
+      "bottom five",
+      "codebook",
+      "employment rate"
+    ]
+  }
+]

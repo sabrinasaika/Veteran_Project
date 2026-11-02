@@ -1,0 +1,344 @@
+FILENAME: faq-25-01-pdf-b4e94a210326.pdf
+PATH: _raw/rsa.ed.gov/faq-25-01-pdf-b4e94a210326.pdf
+
+U.S. DEPARTMENT OF EDUCATION 
+OFFICE OF SPECIAL EDUCATION AND REHABILITATIVE SERVICES 
+REHABILITATION SERVICES ADMINISTRATION 
+July 17, 2025 
+FAQ 25-01 
+ 
+Frequently Asked Questions 
+ 
+Workforce Innovation and Opportunity Act (WIOA) Core Program1 Performance Accountability  
+Assessment for Program Year (PY) 2024 
+ 
+Consistent with Joint WIOA Final Rule requirements2, the U.S. Departments of Labor and 
+Education (the Departments) have determined it is appropriate and reasonable in PY 2024 for 
+the: 
+• U.S. Department of Labor (DOL) to assess performance for five performance indicators 
+under WIOA title I core programs and three performance indicators under the 
+Employment Service (referred to as “WIOA title III”) core program; 
+• U.S. Department of Education (ED) to assess performance for five performance 
+indicators under the Vocational Rehabilitation (“WIOA title IV”) core program;  
+• ED to assess performance for two performance indicators under the Adult Education and 
+Family Literacy Act (“WIOA title II”) core program; and 
+• Departments to delay assessing performance for the purpose of imposing sanctions for 
+the remaining performance indicators in the WIOA title II core program to provide for 
+the orderly transition from the requirements of the Workforce Investment Act of 1998 
+(WIA) to those of WIOA, as permitted under section 503(a) of WIOA. 
+The Departments’ determinations, as will be described more fully herein, are consistent with the 
+phased-in approach to performance assessments described in 
+Negotiations and Sanctions 
+Guidance for WIOA Core Programs (TAC-20-02) issued on January 6, 2025.3  
+Summary  
+ 
+The Departments have determined it is appropriate and reasonable to assess performance for the 
+WIOA title I, III, and IV core programs for PY 2024 for the following performance indicators 
+and scores as applicable: 
+• Employment Rate 2
+nd Quarter after Exit;  
+ 
+1 These six core programs are the Adult, Dislocated Worker, and Youth programs, authorized under WIOA title I 
+and administered by DOL; the Adult Education and Family Literacy Act (AEFLA) program, authorized under 
+WIOA title II and administered by the US Department of Education (ED); the Employment Service program 
+authorized under the Wagner-Peyser Act, as amended by WIOA title III and administered by DOL; and the 
+Vocational Rehabilitation (VR) program authorized under title I of the Rehabilitation Act of 197 3, as amended by 
+WIOA title IV and administered by ED. 
+2 See 20 C.F.R. § 677.190(c) and 34 C.F.R. §§ 361.190(c) and 463.190(c). 
+3 This guidance is a statement of the Departments’ policy regarding WIOA. Other than statutory and regulatory 
+requirements included in this document, the contents of this guidance do not have the force and effect of law. This 
+document is intended only to provide clarity regarding existing requirements under the applicable law or agency 
+policies.
+
+2 
+ 
+• Median Earnings 2nd Quarter after Exit;  
+• Employment Rate 4th Quarter after Exit;  
+• Credential Attainment Rate;  
+• Measurable Skill Gains; 
+• The Overall State Program Scores; and 
+• The Overall State Indicator Scores for Employment Rate 2nd Quarter after Exit and 
+Measurable Skill Gains.   
+The Departments have determined that it is appropriate and reasonable to assess performance for 
+the WIOA title II program for PY 2024 for the following performance indicators as applicable: 
+• Employment Rate 2nd Quarter after Exit; and 
+• Measurable Skill Gains. 
+The Departments have determined that the available baseline data are not sufficient to produce 
+reliable estimates using the required statistical adjustment model for the remaining performance 
+indicators. Therefore, the Departments have determined it is necessary to use their transition 
+authority, pursuant to section 503(a) of WIOA, to delay assessment of: 
+• Effectiveness in Serving Employers for all WIOA core programs
+4; 
+• Median Earnings 2nd Quarter after Exit, Employment Rate 4th Quarter after Exit, and 
+Credential Attainment Rate for the WIOA title II core program; 
+• The Overall State Indicator Scores for Median Earnings 2nd Quarter after Exit, 
+Employment Rate 4th Quarter after Exit, and Credential Attainment Rate; and 
+• The Overall State Program Scores for the WIOA title II program. 
+This means the Departments will not assess performance for the purpose of imposing sanctions 
+for the above performance indicators for PY 2024 but will continue to use performance data for 
+effective program management, oversight, monitoring, and continuous improvement.  
+States are required to submit timely and complete performance reports for PY 2024 and will be 
+sanctioned for failure to do so.
+5 If a state is unable to submit complete and timely performance 
+reports by October 1, 2025, due to exceptional circumstances outside of the state’s control, it 
+must notify the Departments pursuant to 20 C.F.R. § 677.185(c) and 34 C.F.R. §§ 361.185(c) 
+and 463.185(c) and consistent with guidance set forth in TAC-20-02. The practical implications 
+of the Departments’ decision on sanctions implementation are explained in a series of questions 
+and answers below.  
+With respect to the title II core program, states report aggregate data annually, resulting in four 
+times less data than is generated each year for the titles I, III, and IV core programs for use in the 
+statistical adjustment model. As a result, it is taking more time for the title II model to yield 
+reliable estimates for purposes of measuring program performance on some indicators; however, 
+with each additional year’s worth of data, the Departments have observed improvement in the 
+model’s ability to produce reliable estimates, as evidenced by the inclusion of additional 
+ 
+4 Effectiveness in Serving Employers is a shared measure, as defined in TAC -17-01, Performance Accountability 
+Guidance for Workforce Innovation and Opportunity Act (WIOA) Core Programs, available at 
+https://rsa.ed.gov/sites/default/files/subregulatory/TAC-17-01.pdf  
+5 See 20 C.F.R. § 677.185(a) and 34 C.F.R. §§ 361.185(a) and 463.185(a).
+
+3 
+ 
+indicators in the PY 2024 assessment. This continued and steady improvement constitutes 
+progress toward the Departments’ ability to assess all performance indicators for all core 
+programs. In the meantime, the Departments have determined it is necessary to use the transition 
+authority in section 503(a) of WIOA to provide for the orderly transition to the WIOA 
+performance accountability requirements for all core programs.  
+ 
+Background 
+ 
+Section 116 of WIOA establishes primary performance indicators that apply to the six core 
+programs and reporting requirements that assess states’ effectiveness in achieving positive 
+outcomes for individuals and employers served by WIOA’s six core programs.
+6 WIOA also 
+requires that the Departments use a statistical adjustment model to assess state performance by 
+adjusting negotiated performance levels for the characteristics of participants actually served 
+throughout the program year and for the actual economic conditions within the state. WIOA 
+requires the Departments to use the model to assess state performance and determine whether a 
+state has met its adjusted levels of performance. The Departments developed a model and 
+process for this purpose.
+7 To date, the implementation of a model and the performance 
+accountability provisions have informed the Departments’ performance negotiations with states, 
+helped to prioritize technical assistance efforts, and advanced the workforce system toward a 
+more objective and data-driven accountability structure.  
+WIOA instituted a new approach to performance accountability in the workforce system, and the 
+Departments find it is taking longer to collect sufficient baseline data to produce reliable 
+estimates from the statistical adjustment model for certain performance indicators and for certain 
+core programs than had been anticipated. The Departments remain focused and committed to 
+collecting performance data and promoting robust practices related to data collection, data 
+integrity, and complete reporting. As additional data are collected, the Departments will continue 
+to review and refine the statistical adjustment model.  
+Section 503(a) of WIOA authorizes the Secretaries of Education and Labor to take such action as 
+appropriate to provide for the orderly transition from any requirement under WIA to those under 
+WIOA, including those related to the performance accountability system established in section 
+116 of WIOA. The Departments have determined that it would be inappropriate to assess for 
+performance pursuant to section 116(b)(3)(A) of WIOA and 20 C.F.R. § 677.190, and 34 C.F.R. 
+§§ 361.190 and 463.190, and to impose sanctions pursuant to section 116(f) of WIOA, on a state 
+on the basis of a statistical adjustment model for which the available baseline data are not 
+sufficient to produce reliable estimates. 
+Use of WIOA’s transition authority to delay assessing performance and imposing sanctions is an 
+appropriate action for an orderly transition to the WIOA performance accountability system, 
+ 
+6 As stated in 20 C.F.R. § 677.150(d) and 34 C.F.R. § 361.150(d) and § 463.150(d), the negotiations and sanctions 
+process only applies to states as defined in sec. 3(56) of WIOA – each of the several states of the United States, the 
+District of Columbia, and the Commonwealth of Puerto Rico. It does not apply to the outlying areas as defined in  
+WIOA sec. 3(45)—American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, the U.S. Virgin 
+Islands, and the Republic of Palau. 
+7 TAC-20-02 Negotiations and Sanctions Guidance for the Workforce Innovation and Opportunity Act Core 
+Programs, available at  https://rsa.ed.gov/sites/default/files/subregulatory/RSA-TAC-20-02-01.06.25.pdf .
+
+4 
+ 
+because of the performance accountability system’s reliance on the statistical adjustment model. 
+Therefore, the Departments determined that it is necessary to use the transition authority in 
+section 503(a) of WIOA to delay assessing performance and imposing sanctions against states 
+that fail to meet adjusted levels of performance for those Individual Indicator Scores, as well as 
+for the Overall State Program Scores and the Overall State Indicator Scores, for which the 
+baseline data are not sufficient.  
+However, the Departments have determined there are sufficient baseline data for the statistical 
+adjustment model to yield consistently reliable results for all of the performance indicators for 
+the WIOA titles I, III, and IV core programs, as applicable, as well as for Employment Rate in 
+the 2
+nd Quarter After Exit and Measurable Skill Gains for WIOA title II. Therefore, the 
+Departments have determined it is appropriate for DOL and ED to assess performance for those 
+performance indicators for PY 2024 in accordance with joint WIOA regulations and the phased-
+in approach to performance assessments described in TAC-20-02. Notably, this will be the first 
+program year since the enactment of WIOA that the Departments will be assessing Overall State 
+Program Scores for the titles I and IV core programs, and Overall State Indicator Scores for 
+Employment Rate 2nd Quarter after Exit and Measurable Skill Gains. The Departments, as 
+permitted under section 503(a) of WIOA, will delay assessing performance for the purpose of 
+imposing sanctions for the remaining performance indicators. The following questions and 
+answers explain what this means in practical terms. 
+ 
+Questions and Answers  
+ 
+Q1: For which primary indicators of performance and for which core programs will the 
+Departments assess state performance for PY 2024? 
+ 
+DOL and ED will assess state performance for the following Individual Indicator Scores for the 
+WIOA titles I and IV core programs:  
+• Employment Rate 2
+nd Quarter after Exit; 
+• Median Earnings 2nd Quarter after Exit;  
+• Employment Rate 4th Quarter after Exit;  
+• Credential Attainment Rate; and 
+• Measurable Skill Gains. 
+ 
+ED will assess state performance for the following Individual Indicator Scores for the WIOA 
+title II core program:  
+• Employment Rate 2
+nd Quarter after Exit; and 
+• Measurable Skill Gains. 
+ 
+DOL will assess state performance for the following Individual Indicator Scores for the WIOA 
+title III core program:  
+• Employment Rate 2
+nd Quarter after Exit; 
+• Median Earnings 2nd Quarter after Exit; and 
+• Employment Rate 4th Quarter after Exit.8 
+ 
+8 The Credential Attainment Rate and Measurable Skill Gains performance indicators are not applicable to the 
+WIOA Title III core program, pursuant to section 116(b)(2)(A)(i).
+
+5 
+ 
+ 
+The Departments will also assess state performance for the Overall State Program Score for the 
+WIOA title I, title III, and title IV core programs since the Departments will be assessing all of 
+the Individual Indicator Scores applicable to that program. The Departments will also assess state 
+performance for the Overall State Indicator Score for Employment Rate 2
+nd Quarter after Exit 
+and Measurable Skill Gains since the Departments will be assessing these Individual Indicator 
+Scores for all of the applicable programs. See Attachments I and II for additional information.  
+ 
+Q2: What happens if a state has a performance failure with respect to WIOA titles I, II, III, 
+and IV core program Individual Indicator Scores or the WIOA titles I, III, and IV core 
+program Overall State Program Score for PY 2024? 
+ 
+If a WIOA title I, II, III, or IV core program, for the first time, fails to achieve an Individual 
+Indicator Score of at least 50 percent, as described on page 14-15 of TAC-20-02, for the 
+individual indicators that will be assessed in PY 2024 (as described in Question 1 above), the 
+state must receive technical assistance and develop a performance improvement plan in 
+accordance with section 116(f)(1)(A) of WIOA. If the state fails the same Individual Indicator 
+Score for the same program, for the second consecutive time in PY 2024 or PY 2025, the 
+Departments must impose a financial sanction in accordance with section 116(f)(1)(B) of WIOA.  
+ 
+If a WIOA title I, III, or IV core program, for the first time, fails to achieve an Overall State 
+Program Score of at least 90 percent in PY 2024, as described on page 14-15 of TAC-20-02, the 
+state must receive technical assistance and develop a performance improvement plan in 
+accordance with section 116(f)(1)(A) of WIOA. If a state WIOA title I, III, or IV core program 
+fails to achieve an Overall State Program Score of 90 percent, for the second consecutive time in 
+PY 2024 or PY 2025, the Departments must impose a financial sanction in accordance with 
+section 116(f)(1)(B) of WIOA. 
+ 
+Q3: Will the Departments suspend or delay WIOA performance reporting for PY 2024?  
+ 
+No, states must submit complete and timely performance information as they have done since 
+PY 2016. 
+ 
+Q4: Will states be subject to sanctions for failure to submit complete and timely reports for 
+PY 2024? 
+ 
+Yes, states are subject to sanctions for failure to submit complete and timely performance reports 
+for all six core programs, as has been true since PY 2017. Failing to certify complete PY 2024 
+annual performance reports by October 1, 2025, could lead to a financial sanction through a 
+reduction of a state’s PY 2025 Governor’s Reserve funds.
+9 For details regarding complete and 
+timely reporting and requesting an annual reporting extension, refer to pages 11-13 of TAC-20-
+02.  
+ 
+ 
+9 This refers to the percentage of a state’s WIOA title I allotment that the state’s Governor is allowed to reserve for 
+statewide activities under sec. 128(a) of WIOA (29 U.S.C. § 3163(a)).
+
+6 
+ 
+Q5: If the Departments are not using the data for certain indicators to assess performance 
+for sanctions purposes, how will the Departments use performance data from PY 2024? 
+ 
+The Departments will continue to use the data for the purposes of effective program 
+management, system oversight, monitoring and internal controls, and the provision of technical 
+assistance, including implementing methods for ensuring data reliability, as appropriate. The 
+Departments will share performance results with states as appropriate. States should expect to 
+review performance data for PY 2024 and prepare to engage with Federal staff to discuss, among 
+other topics, data quality, continuous improvement, and performance results. All data reported by 
+states, even those not used for performance assessment in a particular PY, benefit the statistical 
+adjustment model used by the Departments by increasing the amount of data input, thereby 
+enabling the model to produce more reliable results over time.  
+ 
+Q6: Does the Departments’ decision regarding assessing for performance for PY 2024 
+apply to PY 2025 too? 
+ 
+The Departments’ decision to assess state performance for certain performance indicators and 
+overall scores based on the reliability of the statistical adjustment model applies to PY 2024 
+only. The Departments’ decision for PY 2024 is based on a determination that sufficient baseline 
+data are available to produce reliable estimates using the statistical adjustment model for the 
+indicators that will be assessed for performance. In an effort to accelerate the full implementation 
+of WIOA performance accountability requirements, the Departments will make a separate 
+assessment of the model’s reliability for PY 2025, rather than making a determination to delay 
+certain assessments for both program years at this time. The Departments are therefore 
+advancing performance assessment consistent with the reliability of the data yielded by the 
+statistical adjustment model. For those indicators for which assessment is delayed in PY 2024, 
+the Departments will make a new determination for PY 2025 with the benefit of another year’s 
+worth of data input for the model.
+
+I-1 
+ 
+Attachment I: Individual Indicator Scores and Overall State Program Score Subject to  
+Performance Assessment in PY 2024 
+ 
+Primary 
+Indicator/ 
+Core 
+Program 
+Title I 
+Adult 
+Title I 
+Dislocated 
+Worker 
+Title I 
+Youth 
+Title II 
+AEFLA 
+Title III 
+Wagner- 
+Peyser 
+Title IV 
+Vocational 
+Rehabilitation 
+Overall 
+State 
+Indicator 
+Score 
+Employment 
+Rate 2nd Qtr 
+after Exit 
+Yes Yes Yes Yes Yes Yes Yes 
+Employment 
+Rate 4th Qtr 
+after Exit 
+Yes Yes Yes No Yes Yes No 
+Median 
+Earnings 2nd 
+Qtr after Exit 
+Yes Yes Yes  No Yes Yes No 
+Credential 
+Attainment 
+Rate 
+Yes Yes Yes No 
+ 
+Yes No 
+Measurable 
+Skill Gains 
+Rate 
+Yes Yes Yes Yes 
+ 
+Yes Yes 
+Effectiveness 
+in Serving 
+Employers 
+N/A N/A  N/A N/A  N/A N/A  N/A 
+Overall State 
+Program 
+Score 
+Yes Yes Yes No Yes Yes  -

@@ -1,0 +1,39 @@
+URL: https://tacqe.com/accessibility/
+
+Accessibility Statement - Technical Assistance Center for Quality Employment
+Accessibility Statement
+We are committed to following current website accessibility best practices by following the principles of universal design (usable by all, to the greatest extent possible, without the need for adaptation or specialized design) and Web Content Accessibility Guidelines ("WCAG") 2.1 AA, published by the World Wide Web Consortium.
+Accessibility Tips
+▼
+How to zoom in your screen
+Some people like to zoom into the screen or web browser in order to see things better. Here are a few ways of doing it depending on your setup:
+On Windows, press the Windows key and plus sign (+) at the same time to zoom in. You can also use the "Magnifier" application under "Accessories".
+On Mac, go to "System Preferences", open "Universal Access" and select the "Seeing" tab. Check the box under "Zoom" to "On".
+On your Apple device, tap "Settings", then "General", then "Accessibility". Tap the "Zoom" button and toggle it "On".
+Another trick is to use "Ctrl" ("Cmd" on Mac) plus the plus (+) or minus (-) keys when you're in a web browser.
+▼
+How to change the colors or fonts on the page
+Some people like to change colors or fonts to see words more clearly. Most major web browsers have options to do this:
+In Internet Explorer, go to "Tools", then "Internet Options", on to "General". From here, select "Colors, Fonts, or Accessibility".
+In Mozilla Firefox, choose "Options", then "Content", then finally "Fonts & Colors".
+In Safari, select "Preferences", "Appearance" tab, and then hit the "Select…" button next to the font fields.
+In Chrome, go to "Preferences", activate the "Show advanced settings" link, go to the "Web content" heading and change the "Font size", "Customize fonts" in other ways, or set default "Page zoom".
+We recommend a mixture of settings like enlarging font size and zooming into the browser for a better experience.
+▼
+How to find and use a screen reader
+Screen readers are text-to-speech software that allow people to read and interact with content in different ways. Many people who cannot perceive what is on the screen will use them to allow audible access to web content. Capital One designs and codes for accessibility. We strive to ensure that our content is accessible to screen readers.
+There are free options available including NVDA for Windows and VoiceOver for Mac. What we recommend is JAWS for Windows. You can use this with your favorite web browser.
+Screen readers accept input in a variety of ways, but one of the most common forms is through your keyboard. By pressing the down arrow in JAWS, for example, you are able navigate through items on the page. JAWS will also accept Braille input.
+▼
+How to use accessibility tools on mobile
+There are a lot of great features right on your smart phone. iOS and Android alike provide many tools to help you access what you love. Let’s have a look at a few of those tools.
+VoiceOver for iOS and TalkBack for Android are the screen readers that come built-in. To turn on VoiceOver, go to "Settings", then "General", to "Accessibility", and then turn "VoiceOver" on. You can set the “Accessibility Shortcut” to “VoiceOver” from the "Accessibility" page in order to triple-click the "Home" button to toggle VoiceOver on and off. TalkBack has a similar feature.
+"Zoom", "Magnifier", "Invert Colors", "Color Filters", and "Reduce White Point" are other features and tools on iOS that you can use. These are also available through the “Accessibility Shortcut”.
+Our Approach
+We follow current website accessibility best practices using the principles of universal design (usable by all, to the greatest extent possible, without the need for adaptation or specialized design) and Web Content Accessibility Guidelines ("WCAG") 2.1 AA, published by the World Wide Web Consortium.
+We are committed to making our website usable by all people by meeting or exceeding the requirements of the Web Content Accessibility Guidelines 2.0 Level AA (WCAG 2.0 AA).
+We have engaged Employment Resources Inc. (eri-wi.org) to assist us in ensuring that our Web presence is in conformance with the WCAG 2.0 AA.
+Please be aware that our efforts are ongoing as we implement the relevant improvements to meet WCAG 2.0 AA guidelines over time. If you need assistance in using the processes found within this site, or have specific questions or concerns about the accessibility of this site, please contact Employment Resources Inc. using the form below.
+If you do encounter an accessibility issue, please be sure to specify the web page and we will make all reasonable efforts to make that page accessible.
+Help Us
+Type and Press “enter” to Search

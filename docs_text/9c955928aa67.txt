@@ -1,0 +1,635 @@
+FILENAME: 6th-20circuit-20decision-20-01-25-2021-pdf-741402a699ce.pdf
+PATH: _raw/rsa.ed.gov/6th-20circuit-20decision-20-01-25-2021-pdf-741402a699ce.pdf
+
+RECOMMENDED FOR PUBLICATION 
+Pursuant to Sixth Circuit I.O.P. 32.1(b) 
+ 
+File Name: 21a0016p.06 
+ 
+UNITED STATES COURT OF APPEALS 
+ 
+FOR THE SIXTH CIRCUIT 
+ 
+ 
+ 
+STATE OF OHIO, Opportunities for Ohioans with 
+Disabilities, Bureau of Services of Visually Impa ired, 
+Business Enterprise Program,  
+Petitioner-Appellee, 
+ 
+ v. 
+ 
+UNITED STATES DEPARTMENT OF EDUCATION, et al., 
+Respondents, 
+ 
+JAMES CYRUS, 
+Intervenor-Appellant. 
+┐ 
+│ 
+│ 
+│ 
+│ 
+│ 
+│ 
+│ 
+│ 
+│ 
+│ 
+│ 
+│ 
+│ 
+┘ 
+ 
+ 
+ 
+ 
+ 
+No. 19-3397 
+ 
+Appeal from the United States District Court 
+for the Southern District of Ohio at Columbus. 
+No. 2:17-cv-00873—Edmund A. Sargus, Jr., District Judge. 
+ 
+Argued:  February 6, 2020 
+Decided and Filed:  January 25, 2021 
+Before:  BATCHELDER, STRANCH, and NALBANDIAN, Circuit Judges 
+_________________ 
+COUNSEL 
+ARGUED:  Paul T. Belazis, MALONE, AULT & FARELL, Toledo, Ohio, for Appellant.  
+Katherine J. Bockbrader, OFFICE OF THE OHIO ATTORNEY GENERAL, Columbus, Ohio, 
+for Appellee.  ON BRIEF:  Paul T. Belazis, MALONE, AULT & FARELL, Toledo, Ohio, for 
+Appellant.  Katherine J. Bockbrader, Charissa Payer, OFFICE OF THE OHIO ATTORNEY 
+GENERAL, Columbus, Ohio, for Appellee.  Franklin J. Hickman, HICKMAN & LOWDER 
+CO., L.P.A., Cleveland, Ohio, for Amici Curiae. 
+>
+
+No. 19-3397 State of Ohio v. U.S. Dep’t of Educ. Page 2 
+ 
+_________________ 
+OPINION 
+_________________ 
+ NALBANDIAN, Circuit Judge.  To participate in a program that provided opportunities 
+to blind vendors under federal and state law, James Cyrus signed a contract with a state agency 
+establishing vending facilities.  As a condition of participating in the program, he agreed to pay 
+commissions to state and county facilities in Ohio.  But everything changed after the Ohio 
+Attorney General issued a formal opinion finding the commissions paid to state fa cilities illegal.  
+Cyrus stopped making those payments and sought damages from a state agency for about a half -
+million dollars in commissions he had paid both to a state facility and to county facilities.  The 
+state agency rejected his arguments.  But a fe deral arbitration panel agreed with Cyrus and 
+awarded him damages, attorneys’ fees, and prospective relief.   
+ The State sought review of the arbitration order by suing in federal court.  And the 
+district court mainly ruled in the State’s favor.  Cyrus now  appeals.  He urges us to overturn the 
+district court’s decision and reinstate his damages awards and prospective relief.  Because we 
+believe that the district court got it right except as to prospective relief for the commissions 
+charged by counties, we AFFIRM in part and REVERSE in part.   
+I. 
+Congress enacted the Randolph -Sheppard Vending Stand Act  (RSA) in 1936 to 
+“provid[e] blind persons with remunerative employment, enlarg[e] the economic opportunities of 
+the blind, and stimulat[e] the blind to greater efforts in striving to make themselves  self-
+supporting.”  20 U.S.C. §  107(a).  To achieve its goal, Congress authorized blind persons to 
+“operate vending facilities on any Federal property.”  Id.  Congress also authorized the 
+Department of Education Secretary to “prescribe regulations” to carr y out and enforce the RSA.  
+Id. § 107(b).  And Congress required the Secretary to “[d]esignate [in each State] .  . . the State 
+agency” that meets the Secretary’s requirements and that will issue licenses to blind persons 
+operating those vending facilities “on Federal and other property in such State.”  20 U.S.C. 
+§§ 107a(a)(5), 107b; see 34 C.F.R. § 395.3.
+
+No. 19-3397 State of Ohio v. U.S. Dep’t of Educ. Page 3 
+ 
+Like other states, Ohio has enacted parallel legislation (Ohio’s “mini -RSA”) to expand 
+the RSA’s priority for blind merchants to state properties.  See 33 Ohio Rev. Code §§  3304.28–
+3304.35.  It created its own state agency, Opportunities for Ohioans with Disabilities (OOD), to 
+set up the state’s blind vendor program (the Business Enterprise Program).  Id. § 3304.12.  It also 
+designated Ohio’s Bureau of Se rvices for the Visually Impaired (BSVI), a division of OOD, to 
+implement the RSA and mini -RSA.  Id. §§ 3304.28–3304.29.  As part of its responsibilities, 
+BSVI licenses blind persons to operate vending facilities on the state’s “governmental 
+property”—“any real property, building, or facility owned, leased, or rented by the state or any 
+board, commission, department, division, or other unit or agency thereof.”  Id. §§ 3304.28(C), 
+3304.29(C). 
+The BSVI acts as a middleman by creating two different kinds of con tracts.  The first 
+kind—the Bureau -Grantor agreement —establishes a property or facility as part of the RSA 
+program and define s the terms for granting use of the facility for RSA vending.  See Ohio 
+Admin. Code 3304:1 -21-01(G).  The second kind —the Bureau-Operator agreement —brings a 
+blind vendor into the program and defines the terms for operating an RSA facility.  Id. at 3304:1-
+21-01(F). 
+The RSA also sets up a two -tiered scheme for resolving vendors’ grievances that result 
+from the state agency’s ac tions carrying out the RSA program.  The state agency must first hear 
+and decide the grievance.  20 U.S.C. §  107d-1(a).  A vendor dissatisfied with the agency’s 
+decision may then request arbitration (RSA arbitration) by a federal panel convened by the 
+Department of Education (RSA panel).  Id.  That arbitration decision is a final agency action 
+subject to judicial review under the Administrative Procedure Act.  Id. § 107d-2; see 5 U.S.C. 
+§§ 701–706. 
+James Cyrus is a blind vendor who has participated in the R SA program in Ohio since 
+July 1989.  Since then, he has operated facilities in Ohio under the program, including one at the 
+University of Toledo (a state university in Toledo, Ohio) and others in Lucas County, including 
+at the Lucas County Corrections Cent er.  ( Id. at 1576 –79.)  To participate in the program, he 
+signed a Bureau -Operator Agreement that required Cyrus to comply with the terms of the 
+Bureau-Grantor Agreement at any place where he operated a vending facility.  BSVI’s Bureau -
+
+No. 19-3397 State of Ohio v. U.S. Dep’t of Educ. Page 4 
+ 
+Grantor Agreements w ith both Lucas County and the University of Toledo required vendors to 
+pay commissions directly to the grantors —the university and the county.  Ohio v. U.S. Dep’t of 
+Educ., 377 F. Supp. 3d 823, 827 –28 (S.D. Ohio 2019).  So because his Bureau-Operator 
+Agreement effectively incorporated the terms of the Bureau -Grantor Agreements, Cyrus had to 
+pay commissions to both grantors. Cyrus estimates that he has paid $504,000 in commissions as 
+a licensed RSA vendor.  Ohio, 377 F. Supp. 3d at 828. 
+In March 2014, the Oh io Attorney General (AG) issued a formal opinion on the legality 
+of conditioning RSA-vending opportunities at state or state-affiliated universities on commission 
+payments.  He found them illegal after concluding that “BSVI has no authority, under current 
+statutes or rules, to collect commission payments based on the sales of a vending facility from a 
+blind vendor and pay those commissions to a college or university.”  (R. 20 -27, AG Opinion, 
+PageID 2412 (explaining that those commissions “contravene[] the l etter and spirit of the 
+pertinent state and federal laws”).)  But he distinguished “set-aside” payments—funds “set aside, 
+or caused to be set aside, from the net proceeds of the operation of the vending facilities” for 
+enumerated purposes—as legal.  § 107b(3). 
+Based on that opinion, Cyrus filed a grievance against BSVI challenging all the 
+commission payments and stopped making payments to the University of Toledo.  Ohio, 377 F. 
+Supp. 3d at 828.  He did not, however, stop paying commissions to Lucas County.  BSVI 
+contacted the University of Toledo, stating that based on the AG’s opinion, “OOD believes the 
+[contractual] requirement .  . . to pay commissions is void and can no longer be part of the 
+agreement.”  (R. 20-49, Letter, PageID 2703.)  On that basis, BSVI denied Cyrus’s grievance but 
+took no action on the Lucas County commissions.  Cyrus then requested a state administrative 
+hearing, but the hearing officer denied relief.  See Ohio , 377 F. Supp. 3d at 829; 
+§§ 107b(6), 107d-1.  BSVI adopted the hearing officer’s recommendation. 
+Unsatisfied, Cyrus filed an arbitration complaint with the Secretary under the RSA’s 
+grievance procedures.  See Ohio, 377 F. Supp. 3d at 829; §§  107d-1, 107d-2.  Cyrus maintained 
+the illegality of the compelled commission payments a t all RSA -vending sites (including Lucas 
+County) under both the RSA and the State’s mini -RSA.  Ohio, 377 F. Supp. 3d at 829.  On those 
+grounds, he sought compensatory damages for all illegally imposed commission payments,
+
+No. 19-3397 State of Ohio v. U.S. Dep’t of Educ. Page 5 
+ 
+monetary damages for losses, decla ratory and injunctive relief, interest, and attorneys’ fees and 
+costs.  Id. at 829–30. 
+The divided RSA panel found in Cyrus’s favor.  It found that BSVI breached its duties by 
+requiring commission payments to both the University of Toledo and Lucas County in violation 
+of the RSA and the mini -RSA.  For that violation, the panel awarded Cyrus “an award in the 
+amount of commissions [] paid under the .  . . Bureau -Operator Agreement to the University of 
+Toledo and to Lucas County” to be paid by the state.  (R. 2 0-43, Panel Decision, PageID 2661.)  
+It also awarded Cyrus prospective relief —enjoining the BSVI from compelling Cyrus to pay 
+commissions under the Bureau -Grantor agreements and preventing the agency from taking any 
+adverse action against Cyrus for nonpaym ent of those commissions.  And it awarded Cyrus pre - 
+and post-judgment interest as well as attorneys’ fees. 
+Seeking review of the arbitration decision, BSVI sued.  See § 107d-2 (subjecting the RSA 
+panel’s decision “to appeal and review as a final agency ac tion for purposes of” 5 U.S.C. §  706).  
+Before the district court, BSVI raised three arguments: 
+First, the monetary damages award was improper because sovereign immunity 
+applies to Article I proceedings and the State did not waive it.  Second, attorney 
+fees are barred by sovereign immunity or are otherwise unavailable under the 
+[RSA].  Third, .  . . the Panel’s decision was “arbitrary, capricious, an abuse of 
+discretion, and otherwise not in accordance with law.” 
+Ohio, 377 F. Supp.  3d at 830 (citations omitt ed).  In response, Cyrus moved to enforce the 
+panel’s award and opposed BSVI’s arguments before the district court.  Id.   
+ After reviewing the arguments, the district court granted in part and denied in part 
+BSVI’s arguments as well as granted in part and  denied in part Cyrus’s motion to enforce the 
+panel’s decision.  Because it found the Eleventh Amendment barred the panel’s award of 
+damages and attorneys’ fees against BSVI, the court overruled that part of the panel’s decision.  
+Id. at 838, 842.  It also  agreed with BSVI and found improper the panel’s decision to award 
+prospective relief against commissions required under agreements with county -grantors.  Id. at 
+841.  But it found the panel’s decision to award Cyrus prospective relief “enjoining grantors on 
+state colleges or universities from charging commission payments” proper.  Id. at 840.  Cyrus 
+appeals.
+
+No. 19-3397 State of Ohio v. U.S. Dep’t of Educ. Page 6 
+ 
+II. 
+ When reviewing an administrative agency’s final decision under the APA, we review the 
+district court’s decision de novo.  Latin Am. for Soc. and Econ. Dev. v. Admin. of the Fed. 
+Highway Admin., 756 F.3d 447, 462 (6th Cir. 2014).  We “decide all relevant questions of law, 
+interpret constitutional and statutory provisions, and determine the meaning or applicability of 
+the terms of an agency action” a nd “hold unlawful and set aside agency action, findings, and 
+conclusions found to be”—among other prohibitions—“not in accordance with law” or “contrary 
+to constitutional  . . . immunity.”  §  706, 706(2)(A) –(B). We also “accept the agency’s factual 
+findings if those findings are supported by substantial evidence on the record as a whole.” Ky. 
+Waterways All. v. Johnson , 540 F.3d 466, 473 (6th Cir. 2008) (quoting Arkansas v. Oklahoma , 
+503 U.S. 91, 113 (1992)). 
+Cyrus makes four main arguments on appeal.  First,  he argues the district court erred 
+when it found that BSVI may legally charge blind vendors commissions for operating on county 
+facilities.  Second, Cyrus urges us to find that the Eleventh Amendment does not bar the RSA 
+panel from imposing liability agai nst BSVI in proceedings brought by private parties.  Third, he 
+argues that Ohio waived its immunity, given its prelitigation conduct (submitting itself to final 
+and binding arbitration) and its agreement that all RSA panel decisions are subject to appeal i n 
+federal court as a final agency action. 1  Last, he asks us to affirm the RSA panel’s award of 
+attorneys’ fees. 
+A. 
+The first question that we address is whether the BSVI can enter into agreements that 
+require blind vendors to pay commissions to Ohio counties.  BSVI focuses its argument on 
+“priority,” emphasizing that blind vendors only get priority on “governmental property” under 
+the state law, and counties are not within the state -law definition of “governmental property.” 
+33 Ohio Rev. Code §  3304.28(C).  But that argument is misguided because priority under state 
+ 
+1Cyrus does not specify whether he contends that Ohio has waived that immunity in adjudications before 
+the federal arbitration panel or in appeals of the panel’s decision in federal court.  His argument implies that he takes 
+both positions.  We accordingly address both.
+
+No. 19-3397 State of Ohio v. U.S. Dep’t of Educ. Page 7 
+ 
+law does not determine which of its contracts are subject to federal regulations.  Rather, the 
+federal RSA and its relevant regulations govern the legality of taking money from blind vendors. 
+Section 107b governs how State Licensing Agencies (SLAs) execute the program.  
+Section 107b(3) directs that “if any funds are set aside, or caused to be set aside, from the net 
+proceeds of the operation of the vending facilities such funds shall be set aside, or caused to be 
+set aside, only to the extent necessary for and may be used only for” enumerated purposes that do 
+not include commissions.  When Section 107b(3) discusses funds that are “set aside, or caused to 
+be set aside,” it refers to any money that a SLA collects, whether the facility is on federal 
+property or “other property.” 2  This means that any money the SLA collects, including 
+commissions from county property, is subject to the §  107b(3) limitation.  Since BSVI’s 
+contracts with counties a re subject to the federal RSA, the contracts must comply with the 
+limitations on use of funds. 
+But reading § 107b(3) to apply to SLAs instead of certain types of property does not 
+reduce the force of the fund -collection restriction.  Because SLAs always administer the 
+contracts for blind vendors in the state, the SLAs will always be the middlemen be tween the 
+blind vendors and the property owner, whether state, federal, or local.  Thus, any commission 
+collected would require that the SLA itself  “set aside, or cause[] to be set aside” that 
+commission.  § 107b(3).  The structure of the system and relev ant federal regulations confirm 
+this.  See, e.g., 34 C.F.R. § 395.33(b) (“the appropriate State licensing agency shall be invited to 
+ 
+2Since 34 C.F.R. § 395.1(n) defines “other property” as non -federal property “on which vending facilities 
+are established or operated by the use of any funds derived in whole or in part, directly or indir ectly, from the 
+operation of vending facilities on any Federal property,” any property on which an SLA establishes a blind vending 
+facility becomes “other property” because the establishing agency is necessarily funded in part by vending facilities 
+on federal property.  This view aligns with other courts’ interpretation of the funding system.  See New Hampshire v. 
+Ramsey, 366 F.3d 1, 6 (1st Cir. 2004) (noting that states receive funding from vending facilities on federal property 
+and can use those funds for  various program costs); Tamashiro v. Dep’t of Human Servs. , 146 P.3d 103, 116 
+(Haw. 2006) (noting that receiving these funds makes the federal RSA provisions apply to non -federal property). 
+As the Arbitration Panel correctly explained: “The Bureau receive s both unassigned income from federal 
+facilities, as well as set aside funds from federal, state, county and municipal facilities. These funds are intermingled 
+and used to operate the Ohio’s Business Enterprise Program, including the management of the prog ram and 
+establishment and ongoing support of all vending facilities. As such, all blind vending facilities in Ohio are 
+‘established or operated by the use of  . . . funds derived in whole or in part, directly or indirectly, from the operation 
+of vending fac ilities on  . . . Federal property.’”  (R. 20 -43, Majority Arb. Panel Op., PageID 2659 –60 (citations 
+removed, ellipses in original).)
+
+No. 19-3397 State of Ohio v. U.S. Dep’t of Educ. Page 8 
+ 
+respond to solicitations for offers . . .”).  Nowhere does the Act grant the federal government, or 
+any other entity, the p ower to collect funds from blind vendors. 3  So a provision restricting 
+collection need only apply to the SLA to be fully effective. 
+The rest of the statutory text supports our reading as well.  Section 107, though entitled 
+“Operation of vending facilities ,” appears to outline rules for facilities on “Federal property” 
+only. See §§ 107(a), (b).  Section 107(b) starts by specifying that it applies to “authorizing the 
+operation of vending facilities on Federal property.”  Also, § 107(a) refers specifically to  
+“Federal property.” And the “[a]ny limitation” portion of § 107(b) refers only to the “interests of 
+the United States,” not to any state involved in the program.  Together, these indicate that § 107 
+is only about federal property, not other property.  The  Act itself also seems to contemplate 
+§ 107b(3) as the source of fund -collection restrictions.  Section 107a(a)(1) tasks the Secretary of 
+Education with establishing “requirements for the uniform application of this chapter by each 
+State agency,” including  “the use and control of set -aside funds under  section 107b(3)  of this 
+title.”  
+Not every circuit court to address this issue has agreed on which statutory language 
+prohibits commissions.  The Eighth Circuit relied on § 107(b), legislative history, and § 1 07b(3) 
+together to determine that a federal department could not charge an SLA a commission that the 
+SLA then passed on to the blind vendor.  State of Minn., Dep’t of Jobs & Training v. Riley , 
+18 F.3d 606, 609 (8th Cir. 1994).  And other circuit opinions h ave relied on only the § 107(b) 
+language that no one may put “[a]ny limitation on the . . . operation of a vending facility” 
+without permission from the Secretary of Education. See Minnesota Dep’t of Econ. Sec., State 
+Servs. for the Blind & Visually Handic apped v. Riley , 107 F.3d 648, 649 –50 (8th Cir. 1997); 
+Kansas v. SourceAmerica, 826 F. App’x 272, 285–86 (4th Cir. 2020).  Neither of the latter cases, 
+ 
+3While 34 C.F.R. § 395.32(a) tasks federal officials with collecting “vending machine income from 
+vending machines on Feder al property,” the statute clarifies that this does not include income from blind licensees. 
+20 U.S.C. § 107e(8).
+
+No. 19-3397 State of Ohio v. U.S. Dep’t of Educ. Page 9 
+ 
+however, dealt with commissions specifically.  And none of these cases addressed the statutory 
+structure we rely on today in our reading of the fund collection restrictions.4 
+Finally, BSVI argues that the commissions paid to counties do not violate Section 
+107b(3)  because it does not pay the commissions from the “set -aside funds” that it collects.  
+Since the vendors pay the counties directly, it is technically true that BSVI never pays counties 
+with set-aside funds.  This argument, however, ignores the fact that BSVI cannot “cause[] to be 
+set aside” funds except “to the extent necessary for and . . . used on ly for” the enumerated 
+purposes.  § 107b(3).  BSVI cannot cause a county, by operation of the agreements that it enters 
+into, to collect the money for impermissible reasons any more than it can directly fund such 
+purposes.5  
+We conclude that the RSA prohi bits commissions in the contracts with blind vendors, 
+even for facilities on county-owned properties.  Thus, prospective relief was appropriate.  
+B. 
+As for sovereign immunity, we first examine whether it applies to the RSA panels at all 
+before asking if th e state consented to the arbitration.  To address the Eleventh Amendment 
+questions, we must revisit precedent —the Supreme Court’s and ours.  As part of their entering 
+into the social contract under the nation’s Constitution, states gave up some of their in herent 
+immunity from suits brought by select parties.  Fed. Mar. Comm’n v. S.C. Ports Auth. , 535 U.S. 
+743, 752 (2002) (“FMC”).  But each state also retained its “residuary and inviolable sovereignty” 
+and remained immune from private suits.  Id. at 751 (quo ting The Federalist, No. 39, p. 245 
+(C. Rossiter ed. 1961) (J. Madison)).  Congress later enacted the Eleventh Amendment to clarify 
+that immunity in response to Chisholm v. Georgia, 2 U.S. 419 (1793).  Id. at 752. 
+ 
+4Also, we note that the facilities at issue in Riley were on “Federal property.”  107 F.3d at 649.  So if the 
+“any limitation” restriction in § 107(b) is the main source of the prohibition on commissions in that case, it could not 
+complete our analysis of county property here, given our interpretation of §  107 as applying to federal property only.  
+5BSVI points out that the Secretary defines “set -aside funds” as “funds which accrue to a State licensing 
+agency from an assessment against the net proceeds of each vending facility in the State’s vending facility 
+program.”  34 C.F.R. §  395.1(s). But the agency’s definition of the noun “set -aside funds”  does not alter our 
+construction of the verb phrase used in the statute —“such funds shall be set aside, or caused to be set aside,” 20 
+U.S.C. § 107b(3)—which is unambiguous.  See Sandusky Wellness Ctr., LLC v. Medco Health Sols., Inc. , 788 F.3d 
+218, 223 (6th Cir. 2015).
+
+No. 19-3397 State of Ohio v. U.S. Dep’t of Educ. Page 10 
+ 
+This Court has ruled that the Eleventh Ame ndment does not apply in proceedings before 
+a federal arbitration panel convened under the RSA.  See Tenn. Dep’t of Human Servs. v. U.S. 
+Dep’t of Educ., 979 F.2d 1162 (6th Cir. 1992) (“ T-DHS”).  In T-DHS, an RSA panel awarded a 
+blind vendor retroactive dam ages from the state agency as well as interest and attorneys’ fees,  
+id. at 1165, but the reviewing district court ruled for the agency based on Eleventh Amendment 
+immunity, id.  On appeal, the T-DHS panel held that the Eleventh Amendment “applies to Article 
+III” and not Article I proceedings.  Id. at 1166–67 (reasoning that “the fundamental principle of 
+sovereign immunity limits the grant of judicial authority in Art. III ” (quoting Pennhurst State 
+Sch. v. Halderman, 465 U.S. 89, 98 (1984))).  On that basis , it found that the RSA panel’s award 
+for retroactive damages against state agencies did not violate the Eleventh Amendment.  Id.  
+Still, the T-DHS panel held that sovereign immunity did apply when “a private party who wins 
+an arbitration award petitions an Article III court for enforcement of the award.”  Id. at 1167.  
+Because the RSA’s text “reflects neither an unmistakable intention by Congress to  abrogate the 
+states’ sovereign immunity nor a clear statement that participation in the program will constitute 
+a waiver of immunity,” the court found that the RSA did not abrogate states’ sovereign immunity 
+in federal court.  Id. at 1168. 
+After this cour t decided T-DHS, however, the Supreme Court found that the Eleventh 
+Amendment could apply in Article I proceedings.  The Court specifically resolved “whether the 
+sovereign immunity embedded in our constitutional structure and retained by the States when 
+they joined the Union extends to FMC [Federal Maritime Commission] adjudicative 
+proceedings.”  FMC, 535 U.S. at 754 (explaining that its assumption that the FMC does not 
+exercise “the judicial power of the United States” does not end the sovereign immunity i nquiry).  
+To resolve that issue, the Court first noted that it had in the past “applied a presumption .  . . that 
+the Constitution was not intended to ‘raise up’ any proceedings against the States that were 
+‘anomalous and unheard of when the Constitution wa s adopted.’”  Id. at 755 (original alterations 
+omitted) (quoting Hans v. Louisiana, 134 U.S. 1, 18 (1890)).   
+The Court then “examine[d] FMC adjudications to determine whether they are the type of 
+proceedings from which the Framers would have thought the S tates possessed immunity when 
+they agreed to enter the Union.”  Id. at 756.   Doing so, the Court found that “the similarities
+
+No. 19-3397 State of Ohio v. U.S. Dep’t of Educ. Page 11 
+ 
+between FMC proceedings and civil litigation are overwhelming.”  Id. at 757–59 (remarking that 
+the parties agreed the agency’s adj udication “walks, talks, and squawks very much like a 
+lawsuit” (quoting S.C. State Ports Auth. v. Fed. Mar. Comm’n , 243 F.3d 165, 174 (4th Cir. 
+2001))).  The Court looked at the role of the administrative law judge, the procedural and 
+discovery rules, and the coercive nature of the proceeding. 
+The role of the administrative law judge and that of an Article III judge are “functionally 
+comparable.”  Id. at 756 (quoting Butz v. Economou , 438 U.S. 478, 513 (1978)).  For example, 
+the FMC ALJ “has the authority t o ‘arrange and give notice of hearing’” where she may, among 
+other things, “rule upon offers of proof and dispose of any other matter that normally and 
+properly arises in the course of proceedings.”  Id. at 758–59 (original alteration omitted) (quoting 
+46 C.F.R. §  502.147 (2001)).  That ALJ also “issues a decision that” looks much like a court 
+opinion and that “becomes the final decision of the FMC unless a party  . . . appeals to the 
+Commission or the Commission decides to review the ALJ’s decision.”  Id. at 759 (noting that 
+the decision is to include “a statement of findings and conclusions, as well as the reasons or basis 
+therefor, . . . the appropriate rule, order, section, relief, or denial thereof” (quoting § 502.223)).   
+Also, the FMC’s rules governing  pleadings mimic the Federal Rules of Civil Procedure.  
+Id. at 757.  The Court noted the fact that a case before the agency “is commenced by the filing of 
+a complaint,” that the defendant “must file an answer” within a predetermined period, and that 
+the defendant “may also file a motion to dismiss.”  Id.  Other similarities include intervention 
+and default judgment rules.  Id.  The Federal Rules of Evidence even apply unless they conflict 
+with the Administrative Procedure Act or the FMC’s own rules.  Id. at 759 n.10 (quoting 
+§ 502.156).  And discovery in the agency’s adjudications “largely mirrors discovery in federal 
+civil litigation.”  Id. at 758. 
+Finally, the proceedings in FMC are coercive, similar to an Article III proceeding. 6  
+FMC, 535 U.S. at 761 –64.  The Court noted that any state not appearing before the FMC would 
+ 
+6Cyrus conflates the questions of whether a proceeding is coercive (and thus similar to an Article III court) 
+and whether attending a proceeding is coerced (meaning that the state did not consent to the suit).  When the FMC 
+Court discussed c oercion, it did so in describing how an adjudication could be like an Article III case even though 
+the Commission’s orders were “not self -executing.”  FMC, 535 U.S. at 761.  And as the Court noted, a state’s
+
+No. 19-3397 State of Ohio v. U.S. Dep’t of Educ. Page 12 
+ 
+be subject to the Commission’s decision —including in later enforcement actions by the United 
+States where sovereign immunity would not apply.  Id. at 762–63.  The Court concluded that this 
+dilemma—to “appear before the Commission . . . or stand defenseless” to later enforcement —
+made the proceeding coercive.  Id. at 762–64. 
+The Court then discussed the primary purposes behind sovereign immunity —
+“accord[ing] States the dignity that is consis tent with their status as sovereign entities” and 
+providing “an immunity from suit.”  Id. at 760 (describing this as the “preeminent purpose of 
+state sovereign immunity”), 766; see also id.  at 769 (“[T]he relief sought by a plaintiff suing a 
+State is irrel evant to the question whether the suit is barred by the Eleventh Amendment.” 
+(quoting Seminole Tribe of Fla. v. Florida , 517 U.S. 44, 58 (1996))).  It explained that the 
+Framers “thought it ‘neither becoming nor convenient’” to “summon[] [States] as defend ants to 
+answer the complaints of private persons.”  Id. at 760 (quoting Alden v. Maine , 527 U.S. 706, 
+748 (1999)).   
+“Given both this interest in protecting States’ dignity and the strong similarities between 
+FMC proceedings and civil litigation,” the Cour t “h[e]ld that state sovereign immunity bars the 
+FMC from adjudicating complaints filed by a private party against a nonconsenting State.”  Id.  
+In other words,  
+[I]f the Framers thought it an impermissible affront to a State’s dignity to be 
+required to an swer the complaints of private parties in federal courts, we cannot 
+imagine that they would have found it acceptable to compel a State to do exactly 
+the same thing before the administrative tribunal of an agency, such as the FMC.  
+Id. And the Court suggest ed that permitting a private party to “haul a State” before an 
+administrative tribunal even more greatly insults a State’s dignity.  Id. at 760 n.11.   
+Despite FMC, Cyrus urges us to find that T-DHS controls the outcome and that the 
+Eleventh Amendment does not bar the arbitration panel from awarding damages against BSVI.  
+While not contesting the fact that FMC overruled T-DHS’s broad holding, Cyrus observes 
+differences between the RSA arbitrations an d the proceedings in FMC:  RSA arbitrations 
+ 
+consenting to suit would not make the proceeding  no longer coercive, but rather would make the coercion 
+“permissible.”  Id. at 764.  Coercion and consent are two separate inquiries.
+
+No. 19-3397 State of Ohio v. U.S. Dep’t of Educ. Page 13 
+ 
+proceed before ad hoc panels, see § 107d-2(b)(1), the RSA panel does not require the state file an 
+answer, and failure to answer does not lead to default.  But he fails to show that RSA arbitrations 
+are so unlike civil proceedings that they fall outside the logic of FMC.   
+The only court of appeals that has examined this question thus far has found RSA 
+arbitrations sufficiently like civil litigation to satisfy FMC. See Tyler v. United States Dep’t of 
+Educ. Rehab. Servs. Admin., 904 F.3d 1167, 1188–90 (10th Cir. 2018).  That court noted several 
+shared characteristics of RSA arbitrations and Article III proceedings, including their adversarial 
+nature; their use of evidence, including oral and documentary, transcripts  of testimony, exhibits, 
+and pleadings; and the requirement of a rationale for the findings and conclusions.  Id. at 1188.  
+And just like FMC proceedings, a state can choose to either appear to defend itself or lose all 
+rights to argue the merits on appeal .  Id. at 1191 –92.  Tyler also addressed differences between 
+the two, which it concluded did not materially distinguish them:   that RSA proceedings are not 
+necessarily decided by a “federal officer” and do not carry subpoena power; that complaints can 
+be s creened without arbitration; that there is no provision for default if the SLA does not 
+respond; and that the governing rules are less formal.  
+We find the Tenth Circuit’s reasons for overlooking these differences persuasive.  For 
+one, RSA’s ad hoc panels have the “protections from political influence” necessary to support 
+their impartial use of “independent judgment on the evidence.”  Id. at 1190 (quoting FMC, 535 
+U.S. at 756.)  Second, RSA panels have powers comparable to a trial judge’s powers, such as 
+arranging and regulating hearings.  Id. at 1190–91.  Third, an RSA panel’s ability to screen cases 
+mirrors a federal judge’s power to dismiss a meritless case sua sponte.  Id.  Fourth, the fact that 
+there are no default judgments does not obviate the state’ s need to defend itself in the RSA 
+proceedings to avoid “substantially compromis[ing] its ability to defend itself at all.”  Id. 
+(quoting FMC, 535 U.S. at 762).  Finally, the Tenth Circuit concluded that the less formal nature 
+of RSA arbitrations was not extreme enough to negate their strong resemblance to civil litigation.  
+Altogether, these attributes make RSA arbitration panels enough like civil litigation in Article III 
+courts to bring them under the logic of FMC. We therefore hold that sovereign immuni ty applies 
+in RSA proceedings.
+
+No. 19-3397 State of Ohio v. U.S. Dep’t of Educ. Page 14 
+ 
+C. 
+ Having decided that sovereign immunity applies to the arbitrations, we next ask whether 
+and to what extent Ohio consented to adjudication before the federal arbitration panels under the 
+RSA.  Unlike in FMC, Ohio (and cor respondingly, BSVI) voluntarily participates in the RSA 
+program and in proceedings before the federal arbitration panel.  See §§ 107d-1(a), 107d-2(a).  
+So BSVI is not entirely immune to suit in that forum.  Simply because BSVI has consented or 
+waived its immunity to suit in that forum, however, does not require a finding that BSVI waived 
+its sovereign immunity to retroactive damages imposed by that forum.  See Alden, 527 U.S. at 
+758; Lane v. Pe ña, 518 U.S. 187, 192 (1996); Hoffman v. Conn. Dep’t of Income M aint., 
+492 U.S. 96, 101–02 (1989) (plurality opinion).  We find Ohio has not waived its immunity from 
+RSA damages awards imposed by federal arbitration panels.  
+The Supreme Court’s discussion in Sossamon v. Texas, 563 U.S. 277 (2011), is most on 
+point.  The Court in that case addressed whether the states, by accepting federal funds, had 
+waived immunity to suits for money damages under the Religious Land Use and Institutionalized 
+Persons Act of 2000, 114 Stat. 803,  42 U.S.C. § 2000cc, et seq. (RLUIPA).  Sossamon, 563 U.S. 
+at 280.  An inmate sued the State of Texas and prison officials in their official capacities under 
+RLUIPA’s express cause of action—“[a] person may assert a violation of RLUIPA as a claim or 
+defense in a judicial proceeding and obtain appropriate relief against a government”—and sought 
+injunctive and monetary relief.  Id. at 282 (original alteration omitted) (quoting §  2000cc-2(a)).  
+The Court acknowledged that a State may consent to suit and “waive [] [its] sovereign immunity 
+to other types of relief” and “not waive [its] immunity to damages.”  Id. at 285.  It found 
+RLUIPA fit that bill.  RLUIPA “is susceptible of multiple plausible interpretations,” one that 
+authorizes private suits against a State for damages and one that does not.  Id. at 287.  The statute 
+accordingly did not have the “clear declaration” required to indicate States “in fact consent[ed]” 
+to those suits.  Id. at 284 (quoting Coll. Sav. Bank v. Fla. Prepaid Postsecondary Ed uc. Expense 
+Bd., 527 U.S. 666, 680 (1999)).  So while RLUIPA’s terms created a private cause of action, the 
+Court found that RLUIPA’s text “does not include suits for damages against a State.”  Id. at 288.   
+The RSA includes language even more ambiguous than RLUIPA.  It authorizes “blind 
+licensee[s] . . . dissatisfied with any action arising from the operation or administration of the
+
+No. 19-3397 State of Ohio v. U.S. Dep’t of Educ. Page 15 
+ 
+vending facility program . . . [to] submit to a State licensing agency a request for a full 
+evidentiary hearing.”  §  107d-1(a).  If tha t licensee remains dissatisfied with the agency’s 
+decision, “he may file a complaint with the Secretary who shall convene a panel to arbitrate the 
+dispute pursuant to section 107d -2 . . . and the decision of such panel shall be final and binding 
+on the parties except as otherwise provided in this chapter.”  Id.  And § 107d-2 dictates that the 
+“ad hoc arbitration panel[’s decision] .  . . shall be subject to appeal and review as a final agency 
+action for purposes of chapter 7 of such Title 5” (§ 706 of the APA).  Id. § 107d-2(a).   
+The RSA does not mention any type of available remedy, only that RSA panels have 
+jurisdiction over complaints coming from state agency decisions and the effect of those panels’ 
+decisions (“final and binding on the parties”).  And th e RSA does not make an explicit statement 
+that comprehensively waives any immunity States would otherwise retain.  See, e.g., Port Auth. 
+Trans-Hudson Corp. v. Feeney , 495 U.S. 299, 303 (1990) (waiving immunity “of any form or 
+nature at law, in equity or ot herwise” (emphasis added)).  So although Ohio voluntarily 
+participates in the RSA program and in RSA arbitrations, and agrees that RSA panels’ decisions 
+are “final and binding on the parties,” it has “not waive[d] [its] immunity to damages” awarded 
+by those panels.7 
+The panel thus exceeded its authority when it awarded Cyrus damages, prejudgment 
+interest, and post -judgment interest; its decision is “contrary to constitutional .  . . immunity.”  
+§ 706.  We affirm the district court’s decision overruling the panel majority.   
+ 
+7This conclusion seems to be in tension with the T-DHS panel’s finding that the RSA’s text authorizes RSA 
+panels to award retroactive damages.  979 F.2d at 1165.  But T-DHS did not have the benefit of Sossamon or FMC. 
+The T-DHS panel found sovereign immunity simply did not apply to Article I adjudications, so it never evaluated 
+§ 107d-1(a) in the context of whether it amounted to a waiver of immunity.  And T-DHS’s finding that §  107d-2(a) 
+“reflects neither an unmistakable intent ion by Congress to abrogate the states’ sovereign immunity nor a clear 
+statement that participation in the program will constitute a waiver of immunity” in federal courts is telling.  Id. at 
+1168.   
+So that part of T-DHS—that the RSA’s text authorizes RSA panels to award retroactive damages—does not 
+control our resolution on the extent of the waiver in §  107d-1(a); T-DHS never addressed that question and left us to 
+resolve it in the first instance.  And we note that the other courts of appeals that have res olved this question after 
+Sossamon have reached the same conclusion as we do here.  See Tyler, 904 F.3d at 1192–93; cf. Ramsey, 366 F.3d at 
+21–22 (describing this as “[a]t best .  . . [a] disagreement as to whether the R -S Act arbitration panels can award 
+damages” in the context of evaluating “whether Congress intended in” another statute “to subject states to damages 
+awards for violations found in R-S grievance procedures”).
+
+No. 19-3397 State of Ohio v. U.S. Dep’t of Educ. Page 16 
+ 
+Given that sovereign immunity bars RSA panels from issuing decisions that award 
+damages in private suits, a private party could not possibly enforce that decision in federal court.  
+So we need not address Cyrus’s arguments that under § 107d-2(a), Ohio has waived its immunity 
+to enforcement of the panel’s damages awards in federal court.  
+D. 
+ Finally, Cyrus challenges the district court’s decision to reject the RSA panel’s attorneys’ 
+fees award.  Although the trial court granted prospective  relief for the commissions paid to state 
+agencies (and we now believe similar relief is also appropriate for commissions paid to counties) 
+and agreed that attorneys’ fees are permitted under the RSA, it rejected the attorneys’ fees award 
+on sovereign immunity grounds.  Cyrus now argues that:  (1)  FMC does not affect the holding in 
+T-DHS that RSA panels can award attorneys’ fees, and (2)  attorneys’ fees may be awarded 
+against a state as an ancillary component of prospective relief without implicating the st ate’s 
+sovereign immunity.  We reject the first argument for the same reasons we reject Cyrus’s claim 
+to damages, and we decline to address the second. 
+ The federal RSA does not provide for—or even mention—attorneys’ fees.  See Tyler, 904 
+F.3d at 1194 (“The  RSA’s text makes no mention of attorney fees, litigation costs, prevailing 
+parties, or other related terms.”).  And the American Rule dictates that “absent statute or 
+enforceable contract, litigants pay their own attorneys’ fees.”  Alyeska Pipeline Serv. Co. v. 
+Wilderness Soc ’y, 421 U.S. 240, 257 (1975).  The American Rule is the “basic point of 
+reference” and “bedrock principle” for determining allocation of fees in our system.  Peter v. 
+NantKwest, Inc., 140 S. Ct. 365, 370 (2019) (quoting Hardt v. Reliance Standard Life Ins. Co. , 
+560 U.S. 242, 252 (2010)).  Its roots stretch back to the 18 th Century, and courts should “not 
+deviate from the American Rule ‘absent explicit statutory authority.’”  Baker Botts L.L.P. v. 
+ASARCO LLC, 576 U.S. 121, 126 (2015) (quoting Buckhannon Bd. & Care Home, Inc. v. W. Va. 
+Dep’t of Health & Human Res. , 532 U.S. 598, 602 (2001)).  The Supreme Court “has never 
+suggested that any statute is exempt from the presumption against fee shifting.”  Peter, 140 S. Ct. 
+at 371.
+
+No. 19-3397 State of Ohio v. U.S. Dep’t of Educ. Page 17 
+ 
+Cyrus notes that the T-DHS panel, though ultimately rejecting a fee award on Eleventh 
+Amendment grounds, broadly stated that the American Rule did not apply to RSA proceedings.  
+The American Rule, it concluded, applied only “to the awarding of attorneys’ fees to parti es that 
+have litigated their cause  in the federal courts, ” suggesting that non -court tribunals are free to 
+award fees regardless of the statute at issue.  T-DHS, 979 F.2d at 1169.  Thus, for T-DHS, the 
+nature of the proceeding was the dispositive factor, not the statutory language. 
+But that analysis flies in the face of Supreme Court precedent both before and after 
+T-DHS.  For example, in Summit Valley, the Supreme Court applied the American Rule to fees 
+incurred for proceedings before the National Labor Relations Board.  Summit Valley Indus. Inc. 
+v. Loc. 112, United Brotherhood of Carpenters & Joiners of Am. , 456 U.S. 717, 727 (1982).  
+Emphasizing that the American Rule “has been consistently followed for almost 200 years,” the 
+Supreme Court searched the statute for the “express congressional authority” necessary to create 
+an exception to the rule.  Id. at 721, 724.  Finding no authorization for attorneys’ fees in the text 
+or implicit in the statutory right to “damages,” the Court denied  them.  Id. at 722 –27. That 
+decision followed the Court’s earlier decision in Alyeska, which stated that the focus of the fee 
+inquiry is on whether there is “statutory authorization for such an award.”  421 U.S. at 245; see 
+also Greene Cnty. Plan. Bd. v. F ed. Power Comm’n , 559 F.2d 1227, 1239 –40 (2d Cir. 1976) 
+(en banc) (Federal Power Commission had no authority to award attorneys’ fees in connection 
+with administrative hearings absent “appropriate Congressional action.”). 
+The T-DHS panel ignored the statut e’s language and the Court’s decision in Summit 
+Valley. And as we’ve said, when a circuit panel overlooks a Supreme Court ruling, we are bound 
+to “discharg[e] our duty to follow clearly controlling Supreme Court precedent” rather than the 
+holding in a deci sion of our court that failed to acknowledge the relevant Supreme Court 
+precedent.  The Ne. Ohio Coal. for the Homeless v. Husted , 831 F.3d 686, 720 (6th Cir. 2016) 
+(quoting Tucker v. Phyfer , 819 F.2d 1030, 1035 n.7 (11th Cir. 1987)).  That principle is 
+applicable here, even putting aside whether the T-DHS panel’s categorical rejection of the 
+American Rule in RSA proceedings was necessary to its holding in that case.   
+But regardless, s hortly after T-DHS, the Supreme Court again made clear that American 
+Rule analysis centers on the statute, not the type of proceeding.  In  Key Tronic Corp. v. United
+
+No. 19-3397 State of Ohio v. U.S. Dep’t of Educ. Page 18 
+ 
+States, the Court began with the presumption that “attorney’s fees generally are not a recoverable 
+cost of litigation ‘absent explicit congressional authorization .’”  511 U.S. 809, 814 (1994) 
+(quoting Runyon v. McCrary , 427 U.S. 160, 185 (1976)).  It then analyzed the statute to 
+determine whether the American Rule blocked recovery of fees for attorneys’ work in 
+negotiating a consent decree.  Id. at 814 –19.  After c onfirming that neither applicable section 
+referenced attorneys’ fees, the Court considered whether the statute “otherwise evince[d] an 
+intent to provide for such fees.”  Id. at 815.  It concluded that the statute did not, specifically 
+noting that the secti on lacked an express fee provision despite related sections having such 
+provisions, and that it would be a stretch to include private cost recovery actions in the statute’s 
+provision for “enforcement activities” that qualify for attorneys’ fees.  Id. at 818–19. 
+And the Supreme Court has continued to focus its discussion of the American Rule on 
+statutory language, never suggesting that the nature of the proceedings was relevant, much less 
+dispositive.  See, e.g. , Fogerty v. Fantasy, Inc ., 510 U.S. 517, 533 –34 (1994) (rejecting the 
+argument that 17 U.S.C. § 505 mandated attorneys’ fees as a matter of course); Buckhannon, 
+532 U.S. at 604 –05 (holding that the ordinary meaning of “prevailing party” in 42 U.S.C. 
+§ 3613(c)(2) and 42 U.S.C. § 12205 allows attorneys’ fees only when there is a “material 
+alteration of the legal relationship of the parties.”); Baker Botts, 576 U.S. at 128 (holding that 
+11 U.S.C. § 330 did “neither specifically nor explicitly authorize[d]” an attorneys’ fees award, 
+but did provide for compensation for services rendered for the bankruptcy administrator); Peter, 
+140 S. Ct. at 372 –73 (2019) (holding that the plain text of 35 U.S.C. § 145 does not allow for 
+attorneys’ fees in its provision allocating “expenses”). 
+We thus join two other circuits in applying the American Rule to administrative 
+proceedings. See Tyler, 904 F.3d at 1193–94 (applying the American Rule to RSA proceedings); 
+Unbelievable, Inc. v. NLRB, 118 F.3d 795, 806 (D.C. Cir. 1997) (applying the American Rule to 
+National Labor Relations Board proceedings). Given the Supreme Court’s guidance on the 
+American Rule, we leave the prerogative of providing for attorneys’ fees in RSA proceedings to 
+Congress.  Neither the federal RSA nor Ohio’s mini-RSA contains a provision shifting attorneys’ 
+fees, and “the efficacy of an exception to the American rule is a policy decision that must be 
+made by Congress, not the courts.”  Key Tronic, 511 U.S. at 819 n.13 (quoting FMC Corp. v.
+
+No. 19-3397 State of Ohio v. U.S. Dep’t of Educ. Page 19 
+ 
+Aero Indus.,  998 F.2d  842, 847 (10th Cir. 1993)). 8  Because the American Rule applies to 
+arbitration panel proceedings, the RSA panel’s award of fees was inappropriate.  
+Because we hold that the American Rule bars attorneys’ fees, we need not address 
+whether sovereign immunity bars the fees.  We affirm the trial court’s denial of attorneys’ fees.  
+III. 
+We REVERSE the judgment of the district court denying prospective relie f against the 
+charging of commissions by counties, and REMAND for entry of judgment ordering that 
+prospective relief.  We AFFIRM the judgment of the district court in all other respects. 
+ 
+ 
+ 
+8Although WMA Sec. Inc. v. Wynn  cites T-DHS for its analysis of the American Rule i n the arbitration 
+panel context, that opinion is unpublished and does not bind this Court.   32 F. App’x 726, 730 (6th Cir. 2002).

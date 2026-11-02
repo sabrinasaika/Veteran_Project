@@ -1,0 +1,206 @@
+1 
+ 
+Vocational Rehabilitation Financial Report (RSA-17) 
+SF-425/RSA-2 Data Element Comparison 
+While a data element in the SF-425 and RSA-2 may be similar to an RSA-17 data element, this does not mean the data being reported is exactly the same. For 
+example, while the chart below lists RSA-2 data elements that are comparable to RSA-17 data elements, the RSA-2 data is submitted annually, includes State 
+Supported Employment Service expenditures, and is not specific to a grant award. The RSA-17 data is submitted quarterly, does NOT include State Supported 
+Employment Service expenditures, and IS tied to financial activity specific to a grant award. Therefore, agencies should be careful when developing their internal 
+controls for the RSA-17 to ensure the correct data is being reported. 
+*Data entry not required. 
+RSA-17 SF-425 for VR RSA-2 (Schedule I) New 
+A. Grant Award Information  
+1. Federal Grant Award Number*  2. Federal Grant or Other Identifying Number Assigned by 
+Federal Agency 
+N/A  No 
+2. Federal Fiscal Year* N/A N/A Yes 
+3. Grant Period (From/To)* 8. Project/Grant Period From / To N/A  No 
+4. Recipient Organization* 3. Recipient Organization N/A  No 
+5. Basis of Accounting (Accrual; Cash) 7. Basis of Accounting N/A  No 
+6. Reporting Period End Date* 9. Reporting Period End Date N/A  No 
+7. Final Report 6. Report Type (Quarterly, Semi-Annual, Annual, Final) N/A  No 
+8. DUNS Number* 4a. DUNS Number N/A  No 
+9. Recipient Account Number or Identifying Number* 5. Recipient Account Number or Identifying Number N/A  No 
+B. Federal Funds 
+10. Total Federal Funds Awarded* 10d. Total Federal funds authorized N/A  No 
+11. Federal Cash Receipts 10a. Cash Receipts N/A  No 
+12. Federal Cash Disbursements 10b. Cash Disbursements N/A  No 
+13. Federal Cash on Hand* 10c. Cash on Hand N/A  No 
+14. Federal Share of Expenditures 10e. Federal share of expenditures N/A  No 
+15. Federal Funds Expended for the Provision of Pre-
+Employment Transition Services  
+12b. Pre-Employment Transition Services N/A  No 
+16. Federal Share for Establishment of Facilities for CRP 
+Purposes 
+N/A N/A Yes 
+17. Federal Share for Construction of Facilities for CRP 
+Purposes 
+N/A 3. Services to Groups Expenditures; 
+H. Construction of Facilities for 
+Community Rehabilitation Programs 
+ No 
+18. Federal Share of Unliquidated Obligations 10f. Federal share of unliquidated obligations N/A  No 
+19. Total Federal Share* 10g. Total Federal share N/A  No
+
+2 
+ 
+RSA-17 SF-425 for VR RSA-2 (Schedule I) New 
+20. Unobligated Balance of Federal Funds* 10h. Unobligated balance of Federal funds N/A  No 
+C. Federal Program Income  
+21. Total Federal Program Income Received  10l. Total Federal program income earned N/A  No 
+22. Program Income Expended under VR Program in 
+Accordance with the Addition Alternative 
+10n. Program income expended in accordance with the 
+addition alternative 
+N/A  No 
+23. VR SSA Payments Transferred to the State Independent 
+Living Services Program 
+12e. Federal Program Income (VR SSA Payments Only) 
+Transferred to the State Independent Living Services (SILS) 
+Program 
+N/A  No 
+24. VR SSA Payments Transferred to the Independent 
+Living Services for Older Individuals who are Blind Program 
+12f. Federal Program Income (VR SSA Payments Only) 
+Transferred to the Independent Living Services for Older 
+Individuals who are Blind (OIB) Program 
+N/A  No 
+25. VR SSA Payments Transferred to the Client Assistance 
+Program 
+12g. Federal Program Income (VR SSA Payments Only) 
+Transferred to the Client Assistance Program 
+N/A  No 
+26. VR SSA Payments Transferred to the State Supported 
+Employment Services Program 
+12h. Federal Program Income (VR SSA Payments Only) 
+Transferred to the State Supported Employment Services 
+(SE) Program 
+N/A  No 
+27. Unexpended Program Income* 10o. Unexpended program income N/A  No 
+D. Reporting Non-Federal Share in the Year of Appropriation (1st - 4th Qtr.)  
+28. Total Non-Federal Share of Allowable Expenditures (1st 
+– 4th Qtr.) 
+10j. Recipient share of expenditures N/A  No 
+29. Non-Federal Share of Allowable Unliquidated 
+Obligations (1st – 4th Qtr.) 
+12d. Recipient Share of Unliquidated Obligations N/A  No 
+30. Non-Federal Share for Establishment of Facilities for 
+CRP Purposes (1st – 4th Qtr.) 
+12a. Non-Federal Share of Expenditures for the 
+Establishment or Construction of Facilities for Community 
+Rehabilitation Program Purposes 
+N/A  No 
+31. Non-Federal Share for Construction of Facilities for CRP 
+Purposes (1st – 4th Qtr.) 
+12a. Non-Federal Share of Expenditures for the 
+Establishment or Construction of Facilities for Community 
+Rehabilitation Program Purposes 
+N/A  No 
+E. Reporting Non-Federal Share in the Carryover Year (5th – 8th Qtr.) 
+32. Non-Federal Expenditures for Allowable Unliquidated 
+Obligations Reported on the 4th Quarter Report, Line 29, 
+Liquidated After the 4th Quarter (5th – 8th Qtr.) 
+N/A N/A Yes 
+33. Additional New Non-Federal Expenditures (5th – 8th 
+Qtr.) 
+10j. Recipient share of expenditures N/A  No 
+34. Non-Federal Share for Establishment of Facilities for 
+CRP Purposes (5th – 8th Qtr.) 
+12a. Non-Federal Share of Expenditures for the 
+Establishment or Construction of Facilities for Community 
+Rehabilitation Program Purposes 
+N/A  No
+
+3 
+ 
+RSA-17 SF-425 for VR RSA-2 (Schedule I) New 
+35. Non-Federal Share for Construction of Facilities for CRP 
+Purposes (5th – 8th Qtr.) 
+12a. Non-Federal Share of Expenditures for the 
+Establishment or Construction of Facilities for Community 
+Rehabilitation Program Purposes 
+N/A  No 
+F. Indirect Expenses  
+36. Federal Cognizant Agency for Indirect Costs: N/A N/A Yes 
+a. Type 11a. Type of Rate N/A  No 
+b. Rate 11b. Rate N/A  No 
+c. Period From 11c. Period From N/A  No 
+d. Period To 11 Period To N/A  No 
+e. Base 11d. Base N/A  No 
+f. Amount Charged* 11e. Amount Charged N/A  No 
+g. Federal Share 11f. Federal Share N/A  No 
+h. Totals* 11g. Totals N/A  No 
+G. Federal and Non-Federal Expenditures  
+37. Administrative Expenditures N/A 1. Administration Expenditures; 
+A. Direct Administration Costs 
+ No 
+38. Expenditures incurred for the Provision of Pre-
+employment Transition Services by Agency Staff Only   
+N/A N/A New 
+a. Required and Coordination Pre-employment Transition 
+Services Provided by Agency Staff Only  
+N/A N/A New 
+b. Authorized Pre-employment Transition Services 
+Provided by Agency Staff Only 
+N/A N/A New 
+39. Services to Groups  N/A N/A  No 
+a. Establishment, Development, or Improvement of CRP* N/A 3. Services to Groups Expenditures;  
+A. Establishment, Development, or 
+Improvement of CRPs 
+ No 
+b. Telecommunication Systems N/A 3. Services to Groups Expenditures; 
+B. Telecommunication Systems 
+ No 
+c. Special Services to Provide Nonvisual Access to 
+Information 
+N/A 3. Services to Groups Expenditures; 
+C. Special Services to Provide Nonvisual 
+Access to Information 
+ No 
+d. Technical Assistance to Businesses N/A 3. Services to Groups Expenditures; 
+D. Technical Assistance to Businesses 
+ No 
+e. Business Enterprise Program (Randolph-Sheppard 
+Program) 
+N/A 3. Services to Groups Expenditures;  
+E. Business Enterprise Program 
+ No
+
+4 
+ 
+RSA-17 SF-425 for VR RSA-2 (Schedule I) New 
+f. Transition Consultation and Technical Assistance N/A 3. Services to Groups Expenditures;  
+F. Transition Consultation and Technical 
+Assistance 
+ No 
+g. Transition Services to Youth and Students N/A 3. Services to Groups Expenditures; 
+G. Transition Services to Youth and 
+Students 
+ No 
+h. Establishment, Development, or Improvement of 
+Assistive Technology 
+N/A N/A New 
+I. Support for Advanced Training N/A 3. Services to Groups Expenditures; 
+I. Support for Advanced Training 
+ No 
+40. American Job Center Infrastructure Expenditures N/A N/A New 
+41. Total Innovation and Expansion (I&E) Expenditures N/A 4. Total Agency Expenditures; 
+B. Total Innovation and Expansion Activity 
+Costs included in 1, 2 and 3 above 
+ No 
+a. I&E Expenditures Supporting State Rehabilitation Council 
+Resource Plan 
+N/A N/A New 
+b. I&E Expenditures Supporting Statewide Independent 
+Living Council Resource Plan 
+N/A N/A New 
+H. Remarks  
+42. Remarks 12. Remarks N/A  No 
+I. Certification 
+43. Name and Title of Authorized Certifying Official 13a. Typed or Printed Name and Title of Authorized 
+Certifying Official 
+N/A  No 
+44. Telephone (Area code, number, and extension) 13c. Telephone N/A  No 
+45. Email Address 13d. Email address N/A  No 
+46. Signature of Authorized Certifying Official 13b. Signed N/A  No 
+47. Date Report Submitted (Month, day, year) 13e. Date Report Submitted (Month, Day, Year) N/A  No

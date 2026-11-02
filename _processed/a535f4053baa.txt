@@ -1,0 +1,40 @@
+TITLE: About RSA.ED.GOV and RSAMIS | Rehabilitation Services Administration
+URL: https://rsa.ed.gov/help/technical-support
+
+RSA.ED.GOV
+This website serves as RSA's platform for sharing information and news related to RSA Programs and our repository of guidance, technical assistance, and other resources. We welcome feedback from our partners and the public as we deliver a website that is accessible to all users. Please share your feedback with Technical Support.
+RSA Management Information System (RSAMIS)
+This website also serves as the RSAMIS wherein RSA grantees report data through information collections approved by the Office of Management and Budget.
+Grantee Accounts
+RSA grantees only need an RSAMIS account if they need to report data to RSA through an information collection.
+- If you are an RSA grantee and your RSAMIS account is deactivated, please visit Account Unblock.
+- If you are an RSA grantee and need a RSAMIS account to report data, please visit Create New Account.
+RSA will verify with grantee leadership whether RSAMIS accounts should be approved and reporting permissions granted. RSAMIS accounts are linked to only one grantee (e.g., one State VR agency or one Client Assistance Program). In States with two State VR agencies, State VR agency staff may only submit a report for one grantee. In other words, State VR agency staff cannot submit the same report for both State VR agencies.
+All RSAMIS accounts are subject to 90-day auto-disablement. If RSA grantees do not log-into the RSAMIS for a period of 90 days, RSA will disable the account and the grantee will be required to reestablish the account if necessary. RSA will email grantees two weeks before the 90th day and emails will continue on a daily basis until grantees log-in or the account is disabled.
+Collecting Data
+RSA grantees use the RSAMIS to submit the following reports:
+- Case Service Report (RSA-911)
+- WIOA Annual Report (ETA-9169)
+- Resolution of Applicant/Client Appeals (RSA-722)
+- Vocational Rehabilitation Financial Report (RSA-17)
+- Independent Living Services for Older Individuals who are Blind (RSA-7-OB)
+- Annual Client Assistance Program Report (RSA-227)
+- Protection and Advocacy of Individual Rights Report (RSA-509)
+- Report of the Randolph-Sheppard Vending Facility Program (RSA-15)
+- Grant Reallotment (RSA-692): Federal Formula Awards
+- Federal Financial Report (SF-425): Federal Formula Awards
+Reporting Data
+Reporting instructions are available for the RSA-911 and other information collections. When using the RSAMIS to report data, please consider the following important details:
+- When a RSA grantee is assigned permissions to a report, the grantee has full access to that report. In other words, the grantee may enter data and submit it to RSA.
+- The RSAMIS does not grant "view-only" permissions.
+- An RSA grantee may have permissions to just one report or several reports.
+- RSA grantees may also have multiple staff with permissions to the same reports. If this is the case, RSA grantees cannot view or edit one another’s work within the report. In other words, one grantee cannot begin the report, a second cannot add to it, and a third cannot submit it. Each grantee works independently in the report.
+- If a RSA grantee has multiple staff with permissions to the same reports, it is incumbent upon the RSA grantee to ensure only one report is submitted to RSA.
+Resubmitting Reports
+When an RSA grantee begins a report, the report is is Partially Saved status. When the grantee submits the report, it is changed to Complete status. Each report has RSA staff assigned who may change the status back to Partially Saved, allowing the RSA grantee to edit and resubmit the report. If you have submitted a report and need to correct it, please contact the RSA staff listed in the table at View Data for assistance.
+Case Service Report (RSA-911) and WIOA Annual Report (ETA-9169)
+State VR agencies report quarterly RSA-911 data differently than other reports; State VR agencies upload a CSV file to the RSAMIS. Once the file has cleared the RSA-911 Edit Checks without errors, the file is immediately saved to a separate and secure RSA-911 database. For this reason, RSA grantees and the public cannot view RSA-911 data in the RSAMIS.
+In States that have established two State VR agencies, both VR agencies must collaborate on the submission of the ETA-9169. The General and Blind agencies may have multiple staff with permissions to the ETA-9169, but only one RSA grantee should submit the report on behalf of both agencies. These reports are due annually by October 1 following the completion of the preceding Program Year (July 1 through June 30).
+Open Data Platform
+As required by The Foundations for Evidence-Based Policymaking Act of 2018 Open Data Plan, RSA is committed to making the data it collects from grantees "open by default" and available to the public.
+RSA publishes reports at View Data. The publishing process is incremental and not all reports are available at once. For formula awards, the Fiscal Unit publishes certain reports (e.g., RSA-2, RSA-17, RSA-692, and SF-425) while RSA Project Officers publish other reports (e.g., RSA-7-OB, RSA-15, RSA-227, RSA-509, and RSA-722). Some RSA reports (e.g., Annual Reports to Congress, WIOA Annual Reports and VR Program Monitoring Reports) are available elsewhere.

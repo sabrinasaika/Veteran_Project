@@ -1,0 +1,1206 @@
+FILENAME: d61c634e9339-luxton-riek-rehab-ai-robotics.pdf
+PATH: _raw/tacqe.com/d61c634e9339-luxton-riek-rehab-ai-robotics.pdf
+
+507
+C h a p t e r  3 0
+ARTIFICIAL INTELLIGENCE 
+AND ROBOTICS IN 
+REHABILITATION
+David D. Luxton and Laurel D. Riek
+This chapter provides an overview of applications 
+of intelligent technologies in contemporary reha-
+bilitation practice and research. Within the context 
+of the chapter, we focus primarily on current trends 
+and future capabilities in ubiquitous computing, 
+especially smart environments, intelligent mobile 
+and wearable devices, and other assistive technolo-
+gies. We also explore the application and study of 
+robotics in rehabilitation practice and research. This 
+is followed by a discussion of the broader implica-
+tions for rehabilitation practice and research.
+INTRODUCTION
+Technological advances, particularly in artificial 
+intelligence (AI) and robotics, are revolutionizing the 
+methods and capabilities of rehabilitation research 
+and practice. Smart homes, for example, can assist 
+inhabitants with everyday functioning and alert  
+care providers if assistance is required. Intelligent 
+mobile and wearable devices are available to collect 
+data, and provide users with information to assess 
+health and monitor progress toward individualized 
+rehabilitation goals. Moreover, socially and physically  
+assistive robots can be used to help people recuperate 
+after illness or injury , or to help bridge gaps caused 
+by sensory , motor, or cognitive impairments. These 
+technologies are playing an important role in helping 
+people to improve their functional abilities, indepen-
+dence, and overall well-being.
+Our goal with this chapter is to provide an over-
+view of intelligent technologies in contemporary 
+rehabilitation practice and research. We begin by 
+summarizing current trends and future capabilities 
+in ubiquitous computing, especially smart environ-
+ments, intelligent mobile and wearable devices, and 
+the application and study of robotics in rehabilitation  
+practice and research. Although a comprehensive 
+review of all intelligent technologies and evidence 
+of their effectiveness in rehabilitation is outside 
+the scope of this chapter, we do provide several 
+examples of their application to demonstrate their 
+capabilities. We also discuss assistive technologies 
+(AT; equipment or systems designed to maintain or 
+improve the functional capabilities of people), and 
+the human activity assistive technology model as a 
+basic conceptual framework for conducting research 
+and practice. We conclude with a discussion of the 
+broader implications for rehabilitation practice and 
+research, including ethical considerations.
+UBIQUITOUS COMPUTING  
+AND AMBIENT INTELLIGENCE
+Ubiquitous computing (also referred to as pervasive 
+computing) entails embedding computational capa-
+bility into everyday objects so they can communicate  
+information (Abowd et al., 1999; Fogg, 2002; Weiser,  
+1993). The continual reduction in size of electronic 
+devices (e.g., microprocessors and sensor technology),  
+http://dx.doi.org/10.1037/0000129-031
+Handbook of Rehabilitation Psychology , Third Edition, L. A. Brenner, S. A. Reid-Arndt, T. R. Elliott, R. G. Frank, and B. Caplan (Editors-in-Chief)
+Copyright © 2019 by the American Psychological Association. All rights reserved.
+2ND PAGES
+
+Luxton and Riek
+508
+as well as the use of wireless technology , make 
+it possible to do this in such a way that systems 
+are transparent (unobtrusive) and fully integrated 
+(Luxton, June, Sano, & Bickmore, 2015). Ubiquitous 
+computing systems can be designed so that data 
+is captured implicitly, through passive sensing, or 
+explicitly, by periodically surveying people, such as 
+via a kiosk, smart mobile device, or through speech 
+(voice processing).
+Ambient intelligence (AmI) is a type of ubiquitous 
+computing that refers to intelligent electronic envi-
+ronments that are sensitive and responsive to the 
+presence of people within them (Aarts & de Ruyter, 
+2009; Aarts & Wichert, 2009; D. J. Cook, Augusto, 
+& Jakkula, 2009; Vasilakos & Pedrycz, 2006). For 
+example, ubiquitous computing systems embedded 
+within a person’s home or other rehabilitation 
+setting can be aware of the needs, preferences, and 
+functioning of inhabitants by analyzing situational 
+data in real time, such as a person’s physical location 
+within the environment and other relevant informa-
+tion, such as the time of day . Context awareness refers 
+to how technologies infer the current activity state  
+of the user (e.g., smart home inhabitant) and the 
+characteristics of the environment in order to manage 
+information content and information distribution 
+(D. J. Cook et al., 2009; O’Connor & Riek, 2015).
+Recent gains in speech recognition, natural 
+language processing (NLP), eye and face tracking, 
+and gesture recognition provide users with multiple 
+ways for interacting with intelligent technologies 
+in a naturalistic manner. For example, it may be 
+difficult or impossible for some people to effectively 
+use keyboards or touch screens as an input device. 
+Verbal interaction can allow people with physical 
+or visual impairments to communicate with and 
+control devices and eye trackers can enable respirator 
+users to do the same.
+AI can also assist with other basic but important 
+“behind the scenes” functions such as preserving 
+battery life by being aware of the situation (e.g., 
+shutting down equipment when it is not in use). 
+Basic functions such as battery life may be espe -
+cially important when considering the use of  
+technologies in critical health contexts, such as  
+patient monitoring (Luxton et al., 2015), fall detec-
+tion (Casilari & Oviedo-Jiménez, 2015), or when 
+performing resuscitation (Gonzales, Henry , Calhoun, 
+& Riek, 2016).
+INTELLIGENT MOBILE  
+AND WEARABLE DEVICES
+Intelligent mobile and wearable devices make  
+excellent data collection platforms for health-related 
+data, as well as contextual data relevant during  
+rehabilitation. Consumer wearable devices from 
+companies such as Apple, Fitbit, Jawbone, or Nike 
+can be used to collect physiologic, behavioral, envi-
+ronmental (e.g., from ambient sensors), biological, 
+and self-reported assessments (Luxton et al., 2015; 
+Patel, Park, Bonato, Chan, & Rodgers, 2012; Piwek, 
+Ellis, Andrews, & Joinson, 2016). A principal 
+advantage of wearable technologies, such as smart 
+watches, is that they are in physical contact with 
+users for extended periods of time and they do  
+not require the user to interact with a keyboard  
+or touch screen while wearing them (Luxton  
+et al., 2015).
+Fall detection systems (FDS; Acampora, Cook, 
+Rashidi, & Vasilakos, 2013; Gasparrini, Cippitelli, 
+Spinsante, & Gambi, 2014) are an example of a 
+technology germane to rehabilitation that uses  
+intelligent sensors placed within an environment  
+and/or as a wearable device. The goal of these 
+systems is to detect falls and automatically alert 
+medical staff, emergency services, or family members 
+if assistance is required (Casilari & Oviedo-Jiménez, 
+2015). Casilari and Oviedo-Jiménez (2015) pilot 
+tested such a system that uses fall detection algo-
+rithms implemented in a smartphone app and a 
+smartwatch (both provided with an embedded 
+accelerometer and a gyroscope) to track and analyze 
+movements of simulated patients. The system was 
+designed to discriminate falls from the conventional 
+activities of daily living by simultaneously and 
+independently analyzing the data from the two 
+devices (they can interact via Bluetooth connection). 
+Machine learning algorithms allow these types of 
+systems to learn the behavioral patterns and char-
+acteristics of individuals over time and therefore 
+help to reduce false positives. Moreover, systems 
+can be designed to assess environmental risks, such 
+as household lights that are off or proximity to fall 
+2ND PAGES
+
+Artificial Intelligence and Robotics in Rehabilitation
+509
+hazards (e.g., stairwells) and preemptively alert 
+inhabitants or care providers.
+A growing number of mobile apps for use in 
+rehabilitation are now available to health care 
+professionals, clients, and family members. These 
+include point-of-use tools for accessing health-
+related information, clinical decision support tools, 
+medical imaging, mood and behavior trackers  
+(e.g., pain diaries), physiological monitors, and 
+assistive tools. (For general reviews regarding 
+available mobile health apps, see Boulos, Brewer, 
+Karimkhani, Buller, & Dellavalle, 2014; Luxton, 
+McCann, Bush, Mishkind, & Reger, 2011; Martínez-
+Pérez et al., 2014; Ventola, 2014). Mobile devices 
+also offer a way to facilitate live chatting with 
+health care or other support professionals, text 
+messaging interventions (e.g., behavioral reminders), 
+scheduling and appointment reminders, and 
+synchronous video-based tele-rehabilitation 
+services (Kuemmel & Luxton, 2015; Luxton  
+et al., 2011).
+Integrated systems, such as our example in 
+Figure 30.1, may collect data seamlessly from several 
+types of sensors and data inputs. Data can be 
+collected from sensor networks embedded within 
+the environment (e.g., motion sensors) or worn 
+on the user (e.g., physiological sensors) and sent 
+via wireless connections to other mobile devices, 
+a desktop computer, or other central processing 
+system for analysis. Fully automated systems can 
+be built to analyze and monitor data 24/7 and alert 
+health care professionals and/or family members 
+if needed. Synchronous video-based telehealth 
+services could also be provided. Moreover, robots that 
+provide physical assistance functions (e.g., lifting 
+items, opening doors), monitoring, and therapeutic 
+social functions may also be placed in these envi-
+ronments (Chan, Estève, Escriba, & Campo, 2008). 
+The Care-O-bot 4, from Fraunhofer IPA (depicted  
+in Figure 30.1), for example, is a commercially  
+available configurable robot designed to provide 
+assistive functions in the home.
+INTELLIGENT VIRTUAL AGENTS
+An intelligent virtual agent (IVA) is a computer-
+generated, animated, artificial intelligent virtual 
+character that can be designed to take on the visual 
+appearance of humans, animals, or any other form 
+imaginable (Hudlicka, 2015; Prendinger &  
+Ishizuka, 2004). Their design can range from 
+cartoonlike agents to highly detailed and lifelike 
+three-dimensional agents. IVAs can been deployed 
+on personal computers and on mobile phones and 
+tablet computers, or even on robots (Luxton et al., 
+2015). Speech recognition and natural language 
+processing (NLP) can allow the virtual agent to 
+converse with the user through basic text interface 
+or through verbal conversation. IVAs typically have 
+a knowledge-engine with information that it uses  
+Medical and
+Behavioral Health
+Services
+Family
+Support
+Intelligent Analytics
+Environment
+Internet
+Ambient/Embedded Sensors
+Wireless Network
+Wearables
+Assistive Robot
+Mobile
+Devices
+Home-Based
+Telehealth
+Capabilities
+FIGURE 30.1.  Integrated smart environment system.
+2ND PAGES
+
+Luxton and Riek
+510
+in conversation to enable it to understand, reason, 
+and sometimes exhibit emotions.
+Virtual affective agents are IVAs that are capable  
+of affective interaction through recognition of human 
+emotions and expression of emotions by the agent 
+(Hudlicka, 2015; Hudlicka et al., 2008). Systems 
+can be designed to detect mood states through 
+analysis of language as well as through sensors that 
+detect nonverbal information such as facial expres-
+sions and eye gaze (Luxton, 2014a). Affective 
+agents may also be designed with the capability to 
+explicitly model emotions, thereby enabling the 
+agents to display nuances of emotional and social 
+intelligence (e.g., awareness of social cues and user 
+goals; Hudlicka, 2015). This capability gives these 
+systems some ability to form and maintain relation-
+ships with human users, as well as to adapt in  
+real time to the changing states and needs of the 
+user. IVAs with this ability are sometimes called  
+relational agents. As noted by Hudlicka (2015),  
+it is important for agent developers to balance the 
+need for agent expressiveness, the complexity of  
+the associated processing required for them to  
+function, and the needs of the users within the  
+given interaction context.
+IVAs, such as virtual humans, provide many 
+potential benefits for rehabilitation and health care 
+in general. For example, IVAs that simulate patients 
+can be used for training purposes (Talbot, Sagae, 
+John, & Rizzo, 2012). They can be designed to 
+simulate various disorders or conditions in order to 
+allow trainees to practice their interviewing skills 
+and gain experience. The U.S. military , for example, 
+has tested the use of lifelike virtual military veterans 
+with depression and suicidal thoughts to teach mili-
+tary clinicians and other personnel how to recognize 
+the risk for suicide (Kenny , Parsons, & Rizzo, 2009). 
+Virtual patient simulations used in instruction have 
+shown to be associated with better learning outcomes 
+compared to conventional educational methods 
+without simulations (Hirumi et al., 2016).
+IVAs have also been developed for providing 
+clinical care and coaching tasks (Luxton, 2015).  
+For example, Bickmore and colleagues (2010) 
+developed and tested a virtual nurse for use in 
+hospital discharge planning and found that patients 
+preferred to receive the discharge planning from the 
+virtual human because they spent more time with 
+the patient and never seemed rushed. Other studies 
+suggest that IVAs can make users feel better under-
+stood while also reducing social anxiety (Bailenson 
+& Yee, 2005; Gratch, Wang, Gerten, Fast, & Duffy , 
+2007; Kandalaft, Didehbani, Krawczyk, Allen, & 
+Chapman, 2013; Kang, Gratch, Wang, & Watt, 2008; 
+Lucas, Gratch, King, & Morency , 2014).
+Other advantages of IVAs who stand in for human  
+coaches and care providers are that they will not 
+experience burnout or fatigue, and they may poten-
+tially be more reliable than humans (Luxton, 2014b).  
+That is, they could be programmed with and learn 
+skills that are applied consistently while also 
+adapting to the client/patient’s needs and preferences 
+(Luxton, 2014b). They may also be capable of  
+sensitivity and adaptation to specific aspects of a 
+patient’s culture, such as race/ethnicity or socio -
+economic status. For example, a virtual human 
+rehabilitation psychologist could modify its physical 
+appearance and mannerisms (e.g., eye contact), 
+speech dialect, use of colloquialisms, and other 
+characteristics to match a given cultural group. 
+This capability could help the system to develop 
+and enhance rapport with a client, contributing to 
+improved rehabilitation outcomes.
+The application of IVAs that “stand in” for human 
+rehabilitation professionals suggests that they may  
+become a competitive threat to the rehabilitation 
+workforce. There is indeed growing concern and 
+evidence in many industries, including health care,  
+that AI will replace human professionals (Brynjolfsson 
+& McAfee, 2012; Luxton, 2014a). It is most likely , 
+however, that IVAs will be used to assist rehabilita-
+tion professionals and enhance what they do, rather 
+than replace them. There are also opportunities for 
+rehabilitation psychologists to contribute to the 
+design and testing of IVAs and to assure that they  
+are put to use in ways that are ethical and effective  
+at improving outcomes for clients.
+VIRTUAL REALITY, AUGMENTED REALITY, 
+AND SERIOUS GAMES FOR REHABILITATION
+Virtual reality allows people to become immersed 
+within and interact with three-dimensional computer-
+generated simulated environments (Rizzo, Buckwalter, 
+2ND PAGES
+
+Artificial Intelligence and Robotics in Rehabilitation
+511
+& Neumann, 1997; see also Chapter 31, this volume). 
+Virtual reality can be used to create virtual humans 
+or other simulated life forms (e.g., virtual pets) that 
+humans can interact with inside of virtual environ-
+ments (e.g., in computer games). In therapeutic 
+applications, virtual reality affords the capability 
+to create and control environmental stimuli such 
+that behavioral reactions to them can be practiced 
+and recorded for clinical assessment, intervention, 
+and rehabilitation goals (Schultheis & Rizzo, 2001). 
+Augmented reality allows computer-generated virtual 
+reality to be superimposed over live “real world” 
+video imagery (Caudell & Mizell, 1992; Craig, 2013; 
+Hugues, Fuchs, & Nannipieri, 2011). This allows 
+infor mation about the surrounding environment of 
+the user to be available for interaction and digital 
+manipulation in order to augment the user’s percep-
+tion of the world.
+Virtual and augmented reality systems have 
+been used for motor function training and recovery 
+after stroke (Merians et al., 2002) and in pain 
+management (Sato et al., 2010). Mirror therapy , for 
+example, entails the use of a glass mirror to provide 
+visual feedback to the brain. Augmented reality 
+mirror systems use a high-resolution video screen 
+and video cameras to simulate a mirror reflection. 
+Thus, the technology allows a person to look into 
+the simulated mirror to see a computer-generated 
+image (e.g., a limb) or other images created by 
+augmented reality . Sato and colleagues (2010) devel-
+oped and tested a virtual mirror visual feedback 
+system and applied it to the treatment of complex 
+regional pain syndrome and found that it may be an 
+effective alternative treatment for complex regional 
+pain syndrome.
+Serious games are computer games developed 
+for training and learning purposes (as opposed to 
+games designed solely for entertainment purposes; 
+Hudlicka, 2015). In health care, serious games are 
+used for training and education purposes for health 
+care professionals (e.g., emergency room triage, 
+nursing care, surgery) as well as for therapeutic 
+and educational purposes for patients and clients 
+(e.g., education about diet and exercise, coaching to 
+increase physical activity , pain management, social 
+skills training; Horne-Moyer, Moyer, Messer, & 
+Messer, 2014). The skills to be learned or practiced are 
+embedded within the game tasks and can be custom-
+ized to the user’s specific learning needs or therapeutic 
+goals. The game aspect provides the benefit of moti-
+vating users (i.e., behavioral reinforcement) while also 
+making the training or tasks more engaging.
+One example of serious gaming for rehabilitation 
+are exergames. These are video game—like simulations 
+that allow a user to, for example, relearn basic motor 
+skills by practicing them in a virtual environment. 
+By combining a virtual mirror therapy component, 
+these simulations can allow users to observe their 
+own movements “in the game.”
+Desai and colleagues (2016) developed and tested 
+an exergame for rehabilitation that uses low-cost, 
+commercially available cameras such as Microsoft 
+Kinect V2, to create a 3D model of the person and 
+immersing the model in interactive virtual environ-
+ments. These researchers designed games, such as a 
+bowling simulation and a shotput game as well as a 
+virtual trivia game requiring elbow rotation move-
+ment. Results of their initial test on ten participants 
+(with no known disabilities) showed the games to 
+be fun and realistic, and at the same time engaging 
+and motivating for performing exercises. This 
+example, while a preliminary test of this technology 
+for rehabilitation, shows promise as a cost-effective 
+tool for both in-office and in-home rehabilitation. 
+Desai and colleagues (2016) also noted that this 
+particular system does not require sensors to be 
+worn by the user, thus it is less cumbersome and 
+restrictive of physical movements.
+ROBOTICS TECHNOLOGY  
+IN REHABILITATION
+Robots are “physically embodied systems capable  
+of enacting physical change in the world” (Riek, 
+2015, p. 185). They enact this change with effec -
+tors which can move the robot (locomotion), or  
+objects in the environment (manipulation). Robots 
+typically use sensor data to make decisions. They 
+can vary in their degree of autonomy , from fully 
+autonomous (the robot makes all decisions itself)  
+to fully teleoperated (an operator makes all decisions 
+for the robot), though most modern systems have 
+mixed initiative, or shared autonomy . More broadly , 
+robotics technology includes affiliated systems, such 
+2ND PAGES
+
+Luxton and Riek
+512
+as related sensors, algorithms for processing data, 
+and so on (Riek, 2015).
+Robotics is a field of study that began in the 
+industrial domain, studying the “intelligent 
+connections between perception and actions” 
+(Siciliano & Khatib, 2016, p. 2), though in the 
+past few decades it has shifted to supporting 
+people across nearly every human environment 
+and exploring problems relating to teaming with 
+real people in the real world (Iqbal & Riek, 2017; 
+Riek, 2013).
+This shift has been referred to in the literature 
+as human-centered robotics, and an emerging  
+area in the past decade focusing on problems in 
+this space is known as human-robot interaction  
+(HRI; Riek, 2015).
+In health care, robots have tremendous potential 
+to help people receiving rehabilitative care and their 
+caregivers, as well as the clinical workforce itself. 
+Robots can provide both physical and cognitive 
+support to these individuals, across multiple types 
+of care settings, and across the lifespan (Riek, 2017). 
+These applications are discussed within the context 
+of rehabilitation below .
+Physically Assistive Robotics
+Robots have been used extensively in physical  
+rehabilitation applications across multiple clinical 
+areas, including helping patients recover motion 
+after a stroke (Johnson, Rai, Barathi, Mendonca,  
+& Bustamente-Valles, 2017; Mataric ´, Eriksson, 
+Feil-Seifer, & Winstein, 2007), recovering or supple-
+menting lost function (Maciejasz, Eschweiler, 
+Gerlach-Hahn, Janson-Troy , & Leonhardt, 2014), 
+and supporting mobility (van den Heuvel, Lexis, 
+Gelderblom, Jansens, & de Witte, 2015). For 
+example, Lancioni, Sigafoos, O’Reilly , and Singh 
+(2012) described several robot-based intervention 
+studies that aimed to increase activity engagement 
+and ambulation among a small number of partici-
+pants (n = 56) with severe physical and cognitive 
+disabilities. The mobile robots used in the studies 
+helped to improve participants’ engagement with  
+the physical world while also increasing their 
+independence. Other recent advancements have 
+included providing care receivers with additional 
+physical reach, such as with wheelchair-mounted 
+robot arms or smart, on-body prostheses, and multi-
+setting mobility capabilities, such as via exoskeletons 
+or accessible personal transportation devices  
+(Riek, 2017).
+Another key area for physically assistive robots 
+is as an aid to the clinical workforce itself. This is 
+a population often overlooked in the technology 
+literature, yet who are under constant physical and 
+cognitive overload, and are at great risk for burnout 
+and suicide (Card, 2018). They could greatly benefit 
+from additional assistance in their work. For 
+example, physically assistive robots can be used to 
+help health care providers accomplish nonvalue-
+added tasks that detract from care delivery , such as 
+removing waste, fetching supplies, cleaning rooms, 
+or helping lift patients (Riek, 2017). Robots can also 
+help treat patients with highly infectious diseases, 
+which can further protect the clinical workforce 
+(Kraft, Chu, Hansen, & Smart, 2016). Recent work 
+in robotics has explored ways that robots can  
+physically adapt to people in real time, by modeling 
+their motion and altering their movement accord -
+ingly , as well as by predicting future behavior 
+(Iqbal, Rack, & Riek, 2016; Nikolaidis, Forlizzi, 
+Hsu, Shah, & Srinivasa, 2017). These concepts  
+may prove particularly useful in future robots that  
+provide physical rehabilitative support to people 
+with disabilities, as well as to clinicians, by 
+providing affordances for intuitive human-robot/
+human-agent teaming.
+Socially Assistive Robotics
+Socially assistive robotics represent a juncture 
+between assistive robotics and socially intelligent 
+robotics (Riek, 2015). As can be seen in Figure 30.2, 
+socially assistive robots can be designed to be 
+anthropomorphic, animal-like (zoomorphic), or 
+machinelike (Riek, Rabinowitch, Chakrabarti, & 
+Robinson, 2009). Roles that these robots can take 
+in health care, and specifically in rehabilitation, 
+include companion, coach or instructor, or play 
+partner (e.g., in play therapy). Paro, for example, 
+is a robotic baby seal used to provide therapy for 
+patients with dementia (Shibata & Wada, 2011)  
+and RoboKind’s Milo is a small anthropomorphic  
+robot that teaches social behaviors for young 
+persons with autism.
+2ND PAGES
+
+Artificial Intelligence and Robotics in Rehabilitation
+513
+Application domains of socially assistive robotics 
+include support for older adults, individuals with 
+physical recovery/rehabilitation and training  
+needs, and individuals with cognitive, develop -
+mental, and social disorders (Tapus, Mataric, & 
+Scassellati, 2007). Socially assistive robotics are 
+highly useful for facilitating active rehabilitation  
+exercises (Tapus et al., 2007). For example, 
+Eriksson, Mataric, and Winstein (2005) tested a 
+“hands-off” therapist robot that assists, encourages,  
+and socially interacts with patients who have 
+suffered a stroke. These authors note that the 
+shared physical context and physical movement  
+of the robot, encouragement, and continuous 
+monitoring supported patient compliance with 
+rehabilitation exercises.
+IMPLICATIONS FOR REHABILITATION 
+PRACTICE AND RESEARCH
+The development, evaluation, and practical use of 
+technologies in rehabilitation require the identifi-
+cation and measurement of relevant outcomes.  
+As noted by Smith (2016), there is great complexity 
+around outcomes in the field of rehabilitation in 
+general, so target outcomes must be simplified and 
+FIGURE 30.2.  Example robots used for rehabilitation from Dr. Riek’s lab. Clockwise from left: (a) the Toyota 
+Human Service Robot is a mobile robot used to encourage activity in older adults and to assist with activities around 
+the house; (b) stuffed animal robots, like the Hasbro companion pet robot, are often used to alleviate symptoms  
+of loneliness and depression; (c) table top social robots, like Jibo, are being used to provide cognitive support to 
+people with autism and dementia; and (d) mobile telepresence robots, like the Double (shown at the bottom  
+center and right), provide prehabilitation support to workers. For more information, see Lee and Riek (2018) and 
+Woodworth, Ferrari, Zosa, and Riek (2018). Parts a–c copyright 2018 by L. D. Riek. Reprinted with permission. 
+Part d from “Preference Learning in Assistive Robotics: Observational Repeated Inverse Reinforcement Learning,” 
+by B. Woodworth, F . Ferrari, T. E. Zosa, and L. D. Riek, 2018, Proceedings of Machine Learning Research, 85, p. 11. 
+Copyright 2018 by B. Woodworth, F . Ferrari, T. E. Zosa, and L. D. Riek. Reprinted with permission.
+2ND PAGES
+
+Luxton and Riek
+514
+well organized. The multitude of emerging technolo-
+gies used in diverse rehabilitation contexts and 
+populations adds to this complexity .
+The Need for Conceptual Models
+Conceptual models are useful for rehabilitation 
+professionals because they can provide a theoretical 
+basis for advancing research and improving practice. 
+Specifically , conceptual models can help to classify 
+areas of inquiry (and outcomes), evaluate design 
+and alternatives, and analyze data across different 
+populations and contextual circumstances (Lenker 
+& Paquet, 2003). The human activity assistive tech-
+nology model (HAAT; A. M. Cook & Hussey , 1995) 
+is one longstanding conceptual model involving 
+assistive technologies (for review of additional 
+models, see Lenker & Paquet, 2003). Assistive 
+technologies (AT) can range from low-tech devices, 
+such as a walker, to high-tech devices, such as 
+sophisticated smart room environments (A. M. Cook 
+& Polgar, 2015; Mihailidis, Boger, Craig, & Hoey , 
+2008). Formal definitions of AT, such as from the 
+United States, The Assistive Technology Act of 1998 
+(amended in 2004) and from the World Health 
+Organization (WHO) focus on individuals with 
+disabilities—a fact that some have argued is based 
+too strictly on the medical model (Hersh & Johnson, 
+2008). ATs are also described in the context of  
+rehabilitation and in educational settings, which are 
+not limited to “disabled persons” or older persons. 
+The primary difference is the applicability to broader 
+populations and the goals concerning the use of 
+the technology . For education, the principal goal is 
+enabling participation and learning. For rehabilitation, 
+it is the restoration of functioning.
+As shown in Figure 30.3, the HAAT model  
+has four components: the human, the activity ,  
+the assistive technology , and the context in which  
+these three components exist. Essentially , the 
+HAAT model describes an AT system in terms 
+of a person (human) who is using an AT device 
+to accomplish a desired task (activity) within a 
+Activity
+Output
+Human/Technology
+Interface
+Processor
+Assistive
+TechnologyHuman
+Context
+Activity
+Environmental
+Interface
+FIGURE 30.3.  The human activity assistive technology model showing  
+the assistive technology component. From Assistive Technologies: Principles 
+and Practice (4th ed., p. 26), by A. M. Cook and J. M. Polgar, 2015,  
+St. Louis, MO: Elsevier Mosby. Copyright 2015 by Elsevier Inc. Adapted 
+with permission.
+2ND PAGES
+
+Artificial Intelligence and Robotics in Rehabilitation
+515
+particular context (environment). Each component 
+should be considered both independently and 
+in combination with the others when designing, 
+selecting, applying, and evaluating AT devices 
+(Lenker & Paquet 2003).
+According to A. M. Cook and Hussey (1995), 
+the human element refers to physical, cognitive, 
+and affective aspects of the participant. The physical 
+element has to do with the physical attributes and 
+functioning of a person, such as their coordina-
+tion, strength, balance, and physical structure (i.e., 
+anatomy). The cognitive element refers to measurable 
+constructs such as attention, alertness, and problem-
+solving abilities, as well as other varying deficits of 
+attention, judgment, insight, and so on. The affective  
+element may include attitudes associated with  
+the experience (e.g., frustration) as well affective 
+symptoms associated with psychiatric conditions 
+such as depression. The activity component refers to 
+the process of doing something, such as daily living 
+activities (e.g., dressing, hygiene, mobility), work 
+activities (e.g., home management, educational, 
+vocational activities), or play and leisure activities 
+(e.g., activities related to enjoyment, relaxation, 
+and self-expression). The context refers to social 
+and cultural contexts, as well as environments  
+and physical conditions. Lastly , the AT technology   
+component (i.e., the device or devices) is 
+described as having a human-technology inter -
+face, a processor (typically , an electronic computer 
+or a mechanical device), and an activity output 
+(Lenker & Paquet, 2003).
+As noted by Lenker and Paquet (2003), the 
+HAAT model aims to characterize system perfor-
+mance, rather than confining focus to human or 
+device performance. The approach also considers 
+aspects of human factors engineering and occupa-
+tional therapy: the former entails analysis of how 
+task characteristics of and environments influence 
+human performance and the later aims to improve 
+human performance in purposeful activities.
+Quality of Care and  
+Economic Considerations
+The development of intelligent technologies in  
+rehabilitation and health care in general has the 
+potential to improve the quality of care while also 
+providing economic benefits. One way that these 
+technologies can improve overall quality of care 
+is by the amount of health- related data that can 
+be collected to assess patient outcomes. As noted 
+earlier, mobile devices such as smartphones and 
+ambient home technologies can collect data in real 
+time, with more frequent data collection, and in the 
+environments that people live in, thus providing 
+richer data to measure improvements in functioning 
+and outcomes of treatments. These technologies  
+also have the potential to improve adherence to 
+treatment and rehabilitation plans by providing 
+users with behavioral reminders (e.g., to conduct  
+a daily exercise regimen) and feedback regarding 
+use and progress toward goals (Luxton et al., 2015). 
+Moreover, assistive technologies can also improve 
+safety outcomes by providing real-time monitoring 
+and alerts when increased assistance is needed.
+Intelligent technologies in rehabilitation and 
+health care can also provide significant economic 
+benefits for health care providers and consumers 
+of services. The increased accessibility and lower 
+costs of intelligent technologies that provide services 
+may make available opportunities for longer term 
+treatments that might otherwise be restricted by 
+managed-care costs (Luxton, 2014b). Thus, patients 
+will have the opportunity to participate in longer term 
+therapies and also receive periodic checkups that 
+improve outcomes while also greatly reducing costs.
+While initial development costs of fully interac-
+tive, intelligent rehabilitative systems may presently 
+be high, depending of the complexity of the system, 
+they can provide economic benefits. For example, 
+they can potentially address treatment access gaps 
+and be part of stepped care—the process whereby 
+the least resource intensive care is provided to the 
+most people first, with more intensive care provided 
+to patients who need it the most (Bower & Gilbody , 
+2005). Clients could seek initial consultation and be 
+assessed or screened by a virtual human and referred 
+to more intensive care if needed.
+Privacy and Data Security Considerations
+The technologies presented in this chapter entail 
+specific privacy and electronic data security require-
+ments that may need to be met, such as those 
+enforced by the Health Insurance Portability and 
+2ND PAGES
+
+Luxton and Riek
+516
+Accountability Act (HIPAA) in the United States. 
+With HIPAA, the health care service provider must 
+assure compliance whenever a user is to transmit 
+protected health information to a health care 
+provider (if they are considered a covered entity). 
+Although business associate agreements (BAAs) 
+are required, they do not remit clinicians or their 
+employers of all responsibility if consumers are 
+harmed (Luxton, Nelson, & Maheu, 2016). HIPAA 
+requires that several standards be met, including 
+the availability of “audit trails” that make records of 
+interactions accessible to authorities when needed, 
+as well as “breach notification tools” that inform 
+clinicians of breaches, such as when a transmission 
+is illegally hacked.
+It is important to note that physiological data that 
+are collected, stored, and transmitted by ubiquitous 
+computing technologies could also be used to  
+identify a person (Luxton, Kayl, & Mishkind, 2012). 
+This extends far beyond video and audio data—  
+even basic actigraphy can reveal identifiable health 
+information, and even “anonymized” data can be 
+easily de-anonymized (Piewek, Ellis, Andrews, & 
+Joinson, 2016). Thus, systems that collect such data, 
+whether mobile apps, ambient intelligence systems 
+or robots, might fall under the same regulatory 
+requirements when used in the context of health 
+care. Moreover, the technologies that we have 
+discussed in this chapter also pose privacy issues 
+associated with third parties (e.g., bystanders, 
+family members). For example, cameras or micro -
+phones in smart environments may also collect 
+images and sounds from residents and guests who 
+are not aware of the data collection (Luxton, June, 
+Sano, & Bickmore, 2015).
+To help address these ethical quandaries, 
+researchers and practitioners are encouraged to 
+consult resources such as the Connected and Open 
+Research Ethics (CORE) tool, a dynamic online 
+resource which provides ethical practices and guide-
+lines (Torous & Nebeker, 2017). Other professional 
+organizations have also recently released codes of 
+ethics guiding research practice in these technolo-
+gies, including the IEEE, which may also provide 
+a valuable resource to researchers (Chatila, Firth-
+Butterflied, Havens, & Karachalios, 2017; Riek & 
+Howard, 2014).
+CONCLUSION
+The technologies and methods presented in this 
+chapter provide many exciting opportunities to 
+enhance rehabilitation services and research. 
+Improvements in existing technologies and future 
+ones not yet developed will further advance reha -
+bilitation capabilities and methods. These systems 
+can provide numerous benefits to rehabilitation 
+professionals, care providers, and clients.
+While all of the specific technologies presented 
+in this chapter can be expected to advance the field 
+of rehabilitation psychology , it is likely that the  
+integration of these technologies will provide the 
+most significant opportunities for the field in the years 
+ahead. For example, assistive robots with onboard 
+IVAs can facilitate interactive communication and 
+therapeutic bonds with the client. The system could 
+also receive information (e.g., physical activity) from 
+an ambient sensor network at home and, through  
+the use of machine learning techniques, predict and  
+adapt interventions that optimize rehabilitation 
+outcomes, safety , and user satisfaction. The integration 
+of these technologies also poses some challenges, 
+including the need to design for interoperability 
+and additional privacy risks (e.g., data security). 
+Researchers and clinicians will need to consider  
+the additional complexities and requirements of 
+these systems.
+Several limitations warrant mention. More 
+research, especially clinical trials, are needed to 
+evaluate the effectiveness of these technologies in 
+the rehabilitation context. Unfortunately , the clinical 
+trials that are needed to make informed decisions 
+about the efficacy and benefits of various technolo-
+gies can take many years to go through funding, 
+implementation, and results and simply cannot 
+keep up with the rapid evolution in many types of 
+technology . Disruption technologies (or disruptive  
+innovations) present a particular problem. New tech-
+nologies and methods are constantly being brought 
+to the marketplace, and while this progress is 
+a good thing, it also requires new research and 
+sometimes entire paradigm shifts in how care or 
+services are provided. Technology access limitations 
+is a related issue. Some people will simply not have 
+access to technologies due to lack of economic 
+2ND PAGES
+
+Artificial Intelligence and Robotics in Rehabilitation
+517
+resources and infrastructure (e.g., Internet access). 
+This presents an ethical issue that needs to be 
+considered by policy makers, researchers, and 
+practitioners.
+References
+Aarts, E., & de Ruyter, B. (2009). New research perspectives 
+on ambient intelligence. Journal of Ambient Intelligence 
+and Smart Environments, 1, 5–14.
+Aarts, E., & Wichert, R. (2009). Ambient intelligence. In 
+H. J. Bullinger (Ed.), T echnology guide (pp. 244–249). 
+Berlin/Heidelberg, Germany: Springer. http://dx.doi.org/ 
+10.1007/978-3-540-88546-7_47
+Abowd, G., Dey , A., Brown, P ., Davies, N., Smith, M., & 
+Steggles, P . (1999). Towards a better understanding of 
+context and context-awareness. In H. Gellerson (Ed.), 
+Handheld and ubiquitous computing (pp. 304–307). 
+Berlin/Heidelberg, Germany: Springer.
+Acampora, G., Cook, D. J., Rashidi, P ., & Vasilakos, A. V . 
+(2013). A survey on ambient intelligence in health-
+care. Proceedings of the IEEE, 101, 2470–2494.  
+http://dx.doi.org/10.1109/JPROC.2013.2262913
+Bailenson, J. N., & Yee, N. (2005). Digital chameleons: 
+Automatic assimilation of nonverbal gestures in 
+immersive virtual environments. Psychological 
+Science, 16, 814–819. http://dx.doi.org/10.1111/
+j.1467-9280.2005.01619.x
+Bickmore, T. W ., Mitchell, S. E., Jack, B. W ., Paasche-
+Orlow , M. K., Pfeifer, L. M., & Odonnell, J. (2010). 
+Response to a relational agent by hospital patients 
+with depressive symptoms. Interacting with 
+Computers, 22, 289–298. http://dx.doi.org/10.1016/ 
+j.intcom.2009.12.001
+Boulos, M. N. K., Brewer, A. C., Karimkhani, C., Buller, 
+D. B., & Dellavalle, R. P . (2014). Mobile medical and 
+health apps: State of the art, concerns, regulatory 
+control and certification. Online Journal of Public 
+Health Informatics, 5, 229.
+Bower, P ., & Gilbody , S. (2005). Stepped care in psycho-
+logical therapies: Access, effectiveness and efficiency: 
+Narrative literature review . The British Journal of 
+Psychiatry, 186, 11–17. http://dx.doi.org/10.1192/
+bjp.186.1.11
+Brynjolfsson, E., & McAfee, A. (2012). Race against the 
+machine: How the digital revolution is accelerating 
+innovation, driving productivity , and irreversibly  
+transforming employment and the economy. Retrieved 
+from http://ebusiness.mit.edu/research/Briefs/ 
+Brynjolfsson_McAfee_Race_Against_the_Machine.pdf
+Card, A. J. (2018). Physician burnout: Resilience 
+training is only part of the solution. Annals of Family 
+Medicine, 16, 267–270. http://dx.doi.org/10.1370/ 
+afm.2223
+Casilari, E., & Oviedo-Jiménez, M. A. (2015). Automatic 
+fall detection system based on the combined use  
+of a smartphone and a smartwatch. PLoS One, 
+10(11), e0140929. http://dx.doi.org/10.1371/ 
+journal.pone.0140929
+Caudell, T. P ., & Mizell, D. W . (1992). Augmented reality: 
+An application of heads-up display technology to 
+manual manufacturing processes. Proceedings of 
+the 25th Hawaii International Conference on System 
+Sciences, 2, 659–669. http://dx.doi.org/10.1109/
+HICSS.1992.183317
+Chan, M., Estève, D., Escriba, C., & Campo, E. (2008). 
+A review of smart homes—Present state and future 
+challenges. Computer Methods and Programs in 
+Biomedicine, 91, 55–81. http://dx.doi.org/10.1016/ 
+j.cmpb.2008.02.001
+Chatila, R., Firth-Butterflied, K., Havens, J. C., & 
+Karachalios, K. (2017). The IEEE global initiative  
+for ethical considerations in artificial intelligence and 
+autonomous systems [standards]. IEEE Robotics & 
+Automation Magazine, 24, 110. http://dx.doi.org/ 
+10.1109/MRA.2017.2670225
+Cook, A. M., & Hussey , S. M. (1995). Assistive technologies: 
+Principles and practice. Baltimore, MD: Mosby .
+Cook, A. M., & Polgar, J. M. (2015). Assistive technologies:  
+Principles and practice (4th ed.). St. Louis, MO: 
+Elsevier Mosby .
+Cook, D. J., Augusto, J. C., & Jakkula, V . R. (2009). 
+Ambient intelligence: Technologies, applications, and 
+opportunities. Pervasive and Mobile Computing, 5, 
+277–298. http://dx.doi.org/10.1016/j.pmcj.2009.04.001
+Craig, A. B. (2013). Understanding augmented reality: 
+Concepts and applications. San Francisco, CA: Elsevier.
+Desai, K., Bahirat, K., Ramalingam, S., Prabhakaran, B.,  
+Annaswamy , T., & Makris, U. E. (2016). Augmented 
+reality-based exergames for rehabilitation. Proceedings  
+of the 7th International Conference on Multimedia 
+Systems, 232–241. http://dx.doi.org/10.1145/  
+2910017.2910612
+Eriksson, J., Mataric, M. J., & Winstein, C. J. (2005). 
+Hands-off assistive robotics for post-stroke arm  
+rehabilitation. Proceedings of the IEEE 9th Inter -
+national Conference on Rehabilitation Robotics. Retrieved 
+from http://robotics.usc.edu/publications/media/
+uploads/pubs/452.pdf
+Fogg, B. J. (2002). Persuasive technology: Using computers 
+to change what we think and do. San Francisco, CA: 
+Morgan Kaufmann.
+Gasparrini, S., Cippitelli, E., Spinsante, S., & Gambi, E. 
+(2014). A depth-based fall detection system  
+using a Kinect® sensor. Sensors, 14, 2756–2775. 
+http://dx.doi.org/10.3390/s140202756
+Gonzales, M. J., Henry , J. M., Calhoun, A. W ., & Riek, 
+L. D. (2016). Visual task: A collaborative cognitive  
+2ND PAGES
+
+Luxton and Riek
+518
+aid for acute care resuscitation. Proceedings of the 
+10th EAI International Conference on Pervasive 
+Computing T echnologies for Healthcare, 45–52.
+Gratch, J., Wang, N., Gerten, J., Fast, E., & Duffy , R. (2007). 
+Creating rapport with virtual agents. In C. Pelachaud, 
+J. C. Martin, E. André, G. Chollett, K. Karpouzis, & 
+D. Pelé (Eds.), Intelligent virtual agents (pp. 125–138). 
+Berlin/Heidelberg, Germany: Springer. http://dx.doi.org/ 
+10.1007/978-3-540-74997-4_12
+Hersh, M., & Johnson, M. A. (Eds.) (2008). Assistive  
+technology for visually impaired and blind people. 
+Berlin/Heidelberg, Germany: Springer.
+Hirumi, A., Kleinsmith, A., Johnsen, K., Kubovec, S.,  
+Eakins, M., Bogert, K., . . . Cendan, J. (2016). 
+Advancing virtual patient simulations through 
+design research and interPLAY: Part I: Design and 
+development. Educational T echnology Research  
+and Development, 64, 763–785. http://dx.doi.org/ 
+10.1007/s11423-016-9429-6
+Horne-Moyer, H. L., Moyer, B. H., Messer, D. C., & 
+Messer, E. S. (2014). The use of electronic games in 
+therapy: A review with clinical implications. Current 
+Psychiatry Reports, 16(520). http://dx.doi.org/ 
+10.1007/s11920-014-0520-6
+Hudlicka, E. (2015). Virtual affective agents and therapeutic 
+games. In D. D. Luxton (Ed.), Artificial intelligence  
+in mental and behavioral healthcare (pp. 81–116).  
+San Diego, CA: Elsevier.
+Hudlicka, E., Lisetti, C., Hodge, D., Paiva, A., Rizzo, A., 
+& Wagner, E. (2008). Artificial agents for psycho-
+therapy . Proceedings of the AAAI spring symposium on 
+emotion, personality and social behavior (pp. 60–64). 
+Menlo Park, CA: AAAI.
+Hugues, O., Fuchs, P ., & Nannipieri, O. (2011).  
+New augmented reality taxonomy: Technologies  
+and features of augmented environment. In B. Furht  
+(Ed.), Handbook of augmented reality (pp. 47–63).  
+New York, NY: Springer. http://dx.doi.org/10.1007/ 
+978-1-4614-0064-6_2
+Iqbal, T., Rack, S., & Riek, L. D. (2016). Movement  
+coordination in human–robot teams: A dynamical  
+systems approach. IEEE T ransactions on Robotics, 
+32, 909–919. http://dx.doi.org/10.1109/
+TRO.2016.2570240
+Johnson, M. J., Rai, R., Barathi, S., Mendonca, R., & 
+Bustamante-Valles, K. (2017). Affordable stroke  
+therapy in high-, low- and middle-income countries:  
+From Theradrive to Rehab CARES, a compact 
+robot gym. Journal of Rehabilitation and Assistive 
+T echnologies Engineering, 4. http://dx.doi.org/ 
+10.1177/2055668317708732
+Kandalaft, M. R., Didehbani, N., Krawczyk, D. C.,  
+Allen, T. T., & Chapman, S. B. (2013). Virtual reality  
+social cognition training for young adults with 
+high-functioning autism. Journal of Autism and 
+Developmental Disorders, 43, 34–44. http://dx.doi.org/ 
+10.1007/s10803-012-1544-6
+Kang, S. H., Gratch, J., Wang, N., & Watt, J. H.  
+(2008, May). Does the contingency of agents’ 
+nonverbal feedback affect users’ social anxiety? 
+Proceedings of the 7th International Joint Conference  
+on Autonomous Agents and Multiagent Systems (Vol. 1,  
+pp. 120–127). Liverpool, England: International 
+Foundation for Autonomous Agents and Multiagent 
+Systems.
+Kenny , P . G., Parsons, T. D., & Rizzo, A. A. (2009). 
+Human computer interaction in virtual standardized 
+patient systems. In J. A. Jacko (Ed.), Human-computer 
+interaction: Interacting in various application domains 
+(Part IV , pp. 514–523). Berlin/Heidelberg, Germany: 
+Springer.
+Kraft, K., Chu, T., Hansen, P ., & Smart, W . D. (2016). 
+Real-time contamination modeling for robotic  
+health care support. Proceedings of the IEEE/RSJ 
+International Conference on Intelligent Robots and 
+Systems, 2249–2254. http://dx.doi.org/10.1109/
+IROS.2016.7759352
+Kuemmel, A., & Luxton, D. D. (2015, February). Best 
+telehealth practices with rehabilitation populations: 
+Ethical, legal, privacy , and safety considerations. 
+Paper presented at the meeting of Rehabilitation 
+Psychology , San Diego, CA.
+Lancioni, G. E., Sigafoos, J., O’Reilly , M. F ., & Singh, 
+N. N. (2012). Assistive technology: Interventions  
+for individuals with severe/profound and multiple 
+disabilities. New York, NY: Springer.
+Lee, H. R., & Riek, L. D. (2018). Reframing assistive 
+robots to promote successful aging. ACM T ransactions 
+on Human-Robot Interaction, 7, Article 11.
+Lenker, J. A., & Paquet, V . L. (2003). A review of con-
+ceptual models for assistive technology outcomes 
+research and practice. Assistive T echnology, 15, 1–15. 
+http://dx.doi.org/10.1080/10400435.2003.10131885
+Lucas, G. M., Gratch, J., King, A., & Morency , L. P . (2014). 
+It’s only a computer: Virtual humans increase willing-
+ness to disclose. Computers in Human Behavior, 37, 
+94–100. http://dx.doi.org/10.1016/j.chb.2014.04.043
+Luxton, D. D. (2014a). Artificial intelligence in psycho-
+logical practice: Current and future applications and 
+implications. Professional Psychology: Research and 
+Practice, 45, 332–339. http://dx.doi.org/10.1037/
+a0034559
+Luxton, D. D. (2014b). Recommendations for the  
+ethical use and design of artificial intelligent care 
+providers. Artificial Intelligence in Medicine, 62, 1–10. 
+http://dx.doi.org/10.1016/j.artmed.2014.06.004
+Luxton, D. D. (Ed.). (2015). Artificial intelligence in 
+behavioral and mental health care. San Diego, CA: 
+Elsevier/Academic Press.
+2ND PAGES
+
+Artificial Intelligence and Robotics in Rehabilitation
+519
+Luxton, D. D., June, J. D., Sano, A., & Bickmore, T. 
+(2015). Mobile, wearable, and ambient intelligence  
+in behavioral health care. In D. D. Luxton (Ed.), 
+Artificial intelligence in behavioral and mental health  
+care (pp. 137–162). San Diego, CA: Elsevier Academic 
+Press.
+Luxton, D. D., Kayl, R. A., & Mishkind, M. C. (2012). 
+mHealth data security: The need for HIPAA-compliant 
+standardization. T elemedicine and e-Health, 18, 
+284–288. http://dx.doi.org/10.1089/tmj.2011.0180
+Luxton, D. D., McCann, R. A., Bush, N. E., Mishkind, 
+M. C., & Reger, G. M. (2011). mHealth for mental 
+health: Integrating smartphone technology in  
+behavioral healthcare. Professional Psychology: 
+Research and Practice, 42, 505–512. http://dx.doi.org/ 
+10.1037/a0024485
+Luxton, D. D., Nelson, E., & Maheu, M. (2016). A prac-
+titioner’ s guide to telemental health. Washington, DC: 
+American Psychological Association.
+Maciejasz, P ., Eschweiler, J., Gerlach-Hahn, K., Jansen-
+Troy , A., & Leonhardt, S. (2014). A survey on robotic 
+devices for upper limb rehabilitation. Journal  
+of Neuroengineering and Rehabilitation, 11(3).  
+http://dx.doi.org/10.1186/1743-0003-11-3
+Martínez-Pérez, B., de la Torre-Díez, I., López-Coronado, M.,  
+Sainz-de-Abajo, B., Robles, M., & García-Gómez, J. M. 
+(2014). Mobile clinical decision support systems  
+and applications: A literature and commercial review . 
+Journal of Medical Systems, 38(4). http://dx.doi.org/ 
+10.1007/s10916-013-0004-y
+Mataric ´, M. J., Eriksson, J., Feil-Seifer, D. J., & Winstein, 
+C. J. (2007). Socially assistive robotics for post-
+stroke rehabilitation. Journal of Neuroengineering  
+and Rehabilitation, 4(5). http://dx.doi.org/10.1186/ 
+1743-0003-4-5
+Merians, A. S., Jack, D., Boian, R., Tremaine, M., Burdea, 
+G. C., Adamovich, S. V ., . . . Poizner, H. (2002). 
+Virtual reality-augmented rehabilitation for patients 
+following stroke. Physical Therapy, 82, 898–915.
+Mihailidis, A., Boger, J. N., Craig, T., & Hoey , J. (2008). 
+The COACH prompting system to assist older adults 
+with dementia through handwashing: An efficacy  
+study . BMC Geriatrics, 8(28). http://dx.doi.org/ 
+10.1186/1471-2318-8-28
+Nikolaidis, S., Forlizzi, J., Hsu, D., Shah, J., & Srinivasa, S. 
+(2017). Mathematical models of adaptation in human-
+robot collaboration. Retrieved from https://arxiv .org/
+pdf/1707.02586.pdf
+O’Connor, M. F ., & Riek, L. D. (2015). Detecting social 
+context: A method for social event classification  
+using naturalistic multimodal data. Retrieved from  
+https://cseweb.ucsd.edu/∼lriek/papers/ 
+fg2015-oconnor-riek.pdf
+Patel, S., Park, H., Bonato, P ., Chan, L., & Rodgers, M. 
+(2012). A review of wearable sensors and systems 
+with application in rehabilitation. Journal of 
+Neuroengineering and Rehabilitation, 9(21).  
+http://dx.doi.org/10.1186/1743-0003-9-21
+Piwek, L., Ellis, D. A., Andrews, S., & Joinson, A. (2016). 
+The rise of consumer health wearables: Promises  
+and barriers. PLoS Medicine, 13(2), e1001953.  
+http://dx.doi.org/10.1371/journal.pmed.1001953
+Prendinger, H., & Ishizuka, M. (Eds.). (2004). Life-like 
+characters: tools, affective functions, and applications. 
+Berlin/Heidelberg, Germany: Springer.
+Riek, L., & Howard, D. (2014). A code of ethics for 
+the human-robot interaction profession. We Robot, 
+2014. Retrieved from https://www .researchgate.net/
+publication/286220724_A_Code_of_Ethics_for_ 
+the_Human-Robot_Interaction_Profession
+Riek, L. D. (2015). Robotics technology in mental health-
+care. In D. Luxton (Ed.), Artificial intelligence in 
+behavioral health and mental health care (pp. 185–203). 
+San Diego, CA: Elsevier. http://dx.doi.org/10.1016/
+B978-0-12-420248-1.00008-8
+Riek, L. D. (2017). Healthcare robotics. Communications 
+of the ACM, 60(11), 68–78. http://dx.doi.org/  
+10.1145/3127874
+Riek, L. D., Rabinowitch, T. C., Chakrabarti, B., & 
+Robinson, P . (2009). Empathizing with robots: 
+Fellow feeling along the anthropomorphic spec-
+trum. Proceedings of the 3rd International Conference 
+on Affective Computing and Intelligent Interaction 
+and Workshops, 1–6. http://dx.doi.org/10.1109/
+ACII.2009.5349423
+Rizzo, A. A., Buckwalter, J. G., & Neumann, U. (1997). 
+Virtual reality and cognitive rehabilitation: A brief  
+review of the future. The Journal of Head T rauma 
+Rehabilitation, 12(6), 1–15. http://dx.doi.org/ 
+10.1097/00001199-199712000-00002
+Sato, K., Fukumori, S., Matsusaki, T., Maruo, T., 
+Ishikawa, S., Nishie, H., . . . Morita, K. (2010). 
+Nonimmersive virtual reality mirror visual feedback  
+therapy and its application for the treatment of 
+complex regional pain syndrome: An open-label pilot 
+study . Pain Medicine, 11, 622–629. http://dx.doi.org/ 
+10.1111/j.1526-4637.2010.00819.x
+Schultheis, M. T., & Rizzo, A. A. (2001). The application  
+of virtual reality technology in rehabilitation. Rehab-
+ilitation Psychology, 46, 296–311. http://dx.doi.org/ 
+10.1037/0090-5550.46.3.296
+Shibata, T., & Wada, K. (2011). Robot therapy: A new 
+approach for mental healthcare of the elderly— 
+A mini-review . Gerontology, 57, 378–386.  
+http://dx.doi.org/10.1159/000319015
+Siciliano, B., & Khatib, O. (Eds.). (2008). Springer hand-
+book of robotics. Berlin/Heidelberg, Germany: Springer. 
+http://dx.doi.org/10.1007/978-3-540-30301-5
+2ND PAGES
+
+Luxton and Riek
+520
+Smith, R. O. (2016). The emergence and emergency of 
+assistive technology outcomes research methodology . 
+Assistive T echnology Outcomes and Benefits, 10(1), 
+19–37.
+Talbot, T. B., Sagae, K., John, B., & Rizzo, A. A. (2012). 
+Sorting out the virtual patient: How to exploit 
+artificial intelligence, game technology and sound 
+educational practices to create engaging role-playing 
+simulations. International Journal of Gaming and 
+Computer-Mediated Simulations, 4(3), 1–19.  
+http://dx.doi.org/10.4018/jgcms.2012070101
+Tapus, A., Mataric, M. J., & Scassellatti, B. (2007). Socially 
+assistive robots [Grand Challenges of Robotics].  
+IEEE Robotics & Automation Magazine, 14, 35–42. 
+http://dx.doi.org/10.1109/MRA.2007.339605
+Torous, J., & Nebeker, C. (2017). Navigating ethics in 
+the digital age: Introducing Connected and Open 
+Research Ethics (CORE), a tool for researchers 
+and institutional review boards. Journal of Medical 
+Internet Research, 19(2), e38. http://dx.doi.org/ 
+10.2196/jmir.6793
+van den Heuvel, R. J., Lexis, M. A., Gelderblom, G. J., 
+Jansens, R. M., & de Witte, L. P . (2016). Robots 
+and ICT to support play in children with severe 
+physical disabilities: A systematic review . Disability 
+and Rehabilitation: Assistive T echnology, 11, 103–116. 
+http://dx.doi.org/10.3109/17483107.2015.1079268
+Vasilakos, A., & Pedrycz, W . (2006). Ambient intelli-
+gence, wireless networking, and ubiquitous computing. 
+Norwood, MA: Artech House.
+Ventola, C. L. (2014). Mobile devices and apps for health 
+care professionals: Uses and benefits. Pharmacy and 
+Therapeutics, 39, 356–364.
+Weiser, M. (1993). Some computer science issues in  
+ubiquitous computing. Communications of the  
+ACM, 36(7), 75–84. http://dx.doi.org/10.1145/ 
+159544.159617
+Woodworth, B., Ferrari, F ., Zosa, T. E., & Riek, L. D. 
+(2018). Preference learning in assistive robotics: 
+Observational repeated inverse reinforcement 
+learning. Proceedings of Machine Learning Research, 
+85, 1–19.
+2ND PAGES

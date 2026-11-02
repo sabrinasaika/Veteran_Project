@@ -1,0 +1,808 @@
+UNITED STATES DEPARTMENT OF EDUCATION 
+REHABILITATION SERVICES ADMINISTRATION 
+RANDOLPH-SHEPPARD ARBITRATION
+ILLINOIS DEPARTMENT OF HUMAN 
+SERVICES, Division of Rehabilitative 
+Services, Petitioner, 
+vs. 
+UNITED STATES DEPARTMENT OF ENERGY-
+FERMI NATIONAL ACCELERATOR 
+LABORATORY, Respondent.
+No. R-S/16-12 
+DECISION AND AWARD
+DECISION AND AWARD 
+Pursuant to the Randolph-Sheppard Act, 20 U.S.C. §§ 107 through 107f (R-S Act), an arbitration 
+was convened in the above-captioned matter, as authorized by 20 U.S.C. § 107d-2.  Petitioner 
+Illinois Department of Human Services, Division of Rehabilitative Services (IDHS), the designated 
+State Licensing Agency
+1 (SLA) pursuant to the R-S Act, appointed Susan Rockwood Gashel as 
+arbitrator, and the United States Department of Energy-Fermi National Accelerator Laboratory 
+(Fermi Lab) appointed Alan Handwerker as its Panel Member.  Mr. Michael H. LeRoy was jointly 
+appointed by Arbitrators Gashel and Handwerker as Panel Chair.  The hearing took place on 
+November 13, 2019 at the Fermi National Accelerator Laboratory.  IDHS was represented by 
+Maggie Jones and Diane Mosham. Fermi Lab was represented by Steven M. Thiede.  
+I. ISSUE: 
+In its convening letter, the United States Department of Education authorized:  
+the convening of an arbitration panel to hear and render a decision on the issues raised 
+in the complaint. The central issue to be addressed is whether Energy violated the Act 
+and implementing regulations by failing to apply the Act’s priority to solicitation No. 
+06884-SAE and rejecting the SLA’s bid as not falling within the competitive range and 
+having a reasonable chance of being selected for a final award.
+2 
+II. STANDARD OF REVIEW  
+This Panel must, “in accordance with the provisions of subchapter II of chapter 5 of Title 5, give 
+notice, conduct a hearing, and render its decision[.]” 20 U.S.C. § 107d-2(a).  That subchapter, 
+ 
+1 The State Licensing Agency (SLA) is the agency in each state charged with training, licensing, and supervision of 
+blind persons licensed to operate vending facilities on Federal property.  20 U.S.C. § 107b.   
+2 Letter from Carol L. Dobak, Acting Deputy Commissioner and Commissioner, Department of Education (July 20, 
+2017).
+
+provides, at 5 U.S.C. § 556(d), that the proponent of an order has the burden of proof, and an 
+order may issue “in accordance with the reliable, probative, and substantial evidence.”  Id.  
+Accordingly, the SLA has the burden of proof to prove by substantial evidence that Fermi Lab 
+violated the Act.  “This is something more than a mere scintilla but something less than the 
+weight of the evidence.”  Pennaco Energy v. U.S. Dep’t of Interior, 377 F.3d 2247, 1156 (10th Cir. 
+2004). 
+III. FINDINGS OF FACT 
+1. The Department of Energy is an agency of the United States.  Fermi National Accelerator 
+Laboratory (Fermi Lab) is a 6,800-acre parcel of land located in DuPage and Kane County 
+Illinois. This land is owned by the United States, and is under the control of the 
+Department of Energy.   
+2. Fermi Research Alliance, LLC, d/b/a Fermilab (FRA) is a non-profit limited liability 
+corporation organized under the laws of the State of Illinois. This entity manages and 
+operates Fermilab. 
+3. IDHS is the SLA for the State of Illinois and is authorized to administer Illinois’ vending 
+facility program under the Illinois Blind Vendors Act, 20 ILCS, 2421, et seq. 
+4. On or about April 18, 2016, FRA issued a Request for Proposal for Food Service 
+Management (RFP) at Fermilab (Solicitation).  The RFP was for the management and 
+operation of food services at the Wilson Hall Cafeteria and the User’s Center Bar, 
+including preparing and dispensing food, alcoholic and nonalcoholic beverages, 
+supporting catering events as requested, and such other work as authorized by Fermilab 
+pursuant to contract.  The period of the contract was two years, with extensions 
+thereafter, up to a total of 15 years. 
+5. Southern Foodservice has provided cafeteria services at Fermilab since approximately 
+2004.  In 2011, Southern Foodservice successfully rebid for the cafeteria contract.  
+Southern Foodservice had an excellent relationship with Fermilab and FRA, and received 
+positive feedback. 
+6. In 2016, Southern Foodservice responded to the Solicitation.  Southern Foodservice 
+subsequently was contacted by IDHS.  IDHS obtained a brief extension of the deadline to 
+respond to the Solicitation, and submitted a proposal with IDHS in response to the 
+Solicitation.  Mr. Walter Berry, president of Southern Foodservice Management, 
+testified that the work requirements in the RFP were identical to the work requirements 
+in place at the time of the submission of the proposal in response to the Solicitation.
+3 
+ 
+3 T. 17-19. 
+Q. And between 2004 and 2016, how would you describe Southern Foodservice Management's relationship with 
+Fermilab? 
+A. I would describe it as excellent. We were always—  seemed to have a great relationship with our client. We had 
+the same client the entire time. And he was one of our biggest cheer leaders, as far as we used him almost
+
+The awardee of the RFP was required to remit payment .75% of net revenue to FRA as a 
+concessionaire fee. 
+7. By letter dated July 13, 2016, Fermilab informed IDHS that it was awarding the contract 
+to Taher, Inc., stating that the award to Taher, Inc. was in the “best interest for 
+Fermilab.” 
+8. According to the Department of Energy, FRA did not award the contract to IDHS because 
+its proposal was not in the competitive range.  
+9. On September 14, 2016 IDHS filed its request for arbitration with the United States 
+Department of Education, and thereafter filed its Amended Complaint on December 1, 
+2016. 
+12. By correspondence dated July 20, 2017, the Department of Education authorized the 
+convening of an arbitration panel to hear and render a decision on the issues raised in 
+the SLA’s complaint letter. 
+ 
+exclusively in almost every proposal as a reference, because we knew we could count on him to give us a good 
+reference. 
+Q. And what, if any, sort of feedback has Southern Foodservice received from Fermilab? 
+A. Do you mean while we operated? 
+Q. Yes. 
+A. We, you know, we received positive feedback. I mean, they liked us. We were always well received. We got 
+good feedback from every aspect of our operation. 
+Q. And how many times has Southern Foodservice Management had to rebid for this contract between 2004 and 
+2016? 
+A. To my knowledge, there was just one time. 
+Q. And when was this? 
+A. 2011. Well, then there was, of course, the 2006 that's at issue here. But the 2011 was the only 
+other time from the original solicitation that I recall. 
+Q. And during the 2011 rebid, what type of proposal did Southern Foodservice Management submit? 
+A. A written. A written proposal. Is that what you mean, what type of proposal? 
+Q. Right. 
+A. It was a written response to a solicitation. 
+Q. And when did Southern Foodservice partner with the Illinois Department of Human Services? 
+A. Okay. So, we submitted a proposal based on a deadline. Subsequent to us submitting a  proposal, we were 
+approached by the State of Illinois blind who had not been made aware of by the Department of Energy that the 
+contract was being solicited. And they were able to get a brief extension of the deadline. So, we submitted a 
+proposal with the blind at that time. 
+Q. I’m sorry. For clarification, are you talking about in 2011 or 2016? 
+A. 2011. 
+Q. Okay. And—  
+A. So, we actually had submitted two proposals to the Department of Energy at that time. 
+Q. And in 2011 how did those two proposals that you submitted compare to one another? 
+A. They were identical. We just basically took our proposal we had already submit, and where 
+appropriate substituted the name BEP team for Southern. 
+Q. And how did this 2011 rebid process end? What was the result of it? 
+A. They selected the bid with Southern without the BEP.
+
+13. Two years later— on July 22, 2019— Michael H. LeRoy was contacted via email by Jesse 
+Hartle, Program Specialist, United States Department of Education, Office of Special 
+Education and Rehabilitative Services, notifying him of his appointment as Chair of this 
+Panel. Chair LeRoy, a professor at the University of Illinois at Urbana-Champaign, replied 
+by noting a potential appearance of a conflict of interest, insofar as his large university 
+conducts research projects on this property. Chair LeRoy did not have, nor does he have, 
+any research projects at Fermi Lab, nor any federally-funded research; nor does he 
+supervise or know anyone who has research at Fermi Lab. On July 26, 2019, Mr. Hartle 
+replied that there was no objection to the Chair’s appointment. 
+14. With notice to, and concurrence by, all interested Parties, Chair LeRoy convened a 
+formal hearing for November 13, 2019. 
+15. The R-S Act grants a priority to licensed blind persons to operate vending facilities, such 
+as the food service management contract at Fermilab, on Federal property.  20 U.S.C. § 
+107. 
+16. The R-S Act broadly defines “vending facility”: 
+“vending facility” means automatic vending machines, cafeterias, snack bars, 
+cart services, shelters, counters, and such other appropriate auxiliary equipment 
+as the Secretary may by regulation prescribe as being necessary for the sale of 
+the articles or services described in section 107a(a)(5) of this title and which may 
+be operated by blind licensees 20 U.S.C. § 107e(7). 
+17. The R-S Act broadly defines “Federal property”: 
+“Federal property” means any building, land, or other real property owned, 
+leased, or occupied by any department, agency, or instrumentality of the United 
+States (including the Department of Defense and the United States Postal 
+Service), or any other instrumentality wholly owned by the United States, or by 
+any department or agency of the District of Columbia or any territory or 
+possession of the United States 20 U.S.C. § 107e(3) (emphasis added).   
+18. The purpose of the R-S Act is to provide blind persons with remunerative employment, 
+enlarge the economic opportunities of the blind, and to stimulate the blind to greater 
+efforts in striving to make themselves self-supporting.  Id.  The R-S Act requires that, 
+“wherever feasible, one or more vending facilities are established on all Federal 
+property to the extent that any such facility or facilities would not adversely affect the 
+interests of the United States.”  20 U.S.C. § 107(b)(2). 
+19. To justify “any limitation on the placement or operation” of a vending facility (including 
+a cafeteria), the R-S Act requires a full justification to the Department of Education’s 
+Secretary, who determines whether such a limitation is justified.  The only grounds 
+permitted for a limitation on the placement or operation of a vending facility are
+
+whether the interests of the United States would be adversely affected.  There was no 
+evidence that the Department of Energy submitted a request to the Department of 
+Education’s Secretary for a limitation on the placement or operation of a vending 
+facility. 
+20. The regulation at 34 C.F.R. § 395.30(a) requires that each Federal department is to: 
+take all steps necessary to assure that, wherever feasible, in light of appropriate 
+space and potential patronage, one or more vending facilities for operation by 
+blind licensees shall be located on all Federal property provided that the location 
+or operation of such facility or facilities would not adversely affect the interests 
+of the United States. Blind persons licensed by State licensing agencies shall be 
+given priority in the operation of vending facilities on any Federal property. 
+(emphasis added). 
+21. The regulation at 34 C.F.R. § 395.33 governs the award of contracts for cafeterias.  
+Section (a) thereof provides that the priority shall be afforded when the Secretary 
+determines, on an individual basis, after consultation with the Federal agency, that the 
+“operation can be provided at a reasonable cost, with food of a high quality comparable 
+to that currently provided employees, whether by contract or otherwise.  Such 
+operation shall be expected to provide maximum employment opportunities to blind 
+vendors to the greatest extent possible.” Id. 
+22. Section (b) requires that the appropriate SLA be invited to respond to solicitations for 
+offers when a cafeteria contract is contemplated.  The solicitation “shall establish 
+criteria under which all responses will be judged. Such criteria may include sanitation 
+practices, personnel, staffing, menu pricing and portion sizes, menu variety, budget and 
+accounting practices. If the proposal received from the State licensing agency is judged 
+to be within a competitive range and has been ranked among those proposals which 
+have a reasonable chance of being selected for final award, the property managing 
+department, agency, or instrumentality shall consult with the Secretary as required 
+under paragraph (a) of this section. If the State licensing agency is dissatisfied with an 
+action taken relative to its proposal, it may file a complaint with the Secretary under the 
+provisions of Section 395.37.” 
+23. Section (d) authorizes an award of a cafeteria contract through direct negotiations. Ms. 
+Whitney Begner, contract specialist and contracting officer employed by the 
+Department of Energy, testified that “(i)n performing work under this contract, the 
+contractor shall comply with the requirements of applicable federal, state and local laws 
+and regulations, including DOE regulations, unless relief has been granted in writing by 
+the appropriate regulatory agency.”
+4 
+ 
+4 T. 107.
+
+24. The RFP stated, in relevant part:  
+25.  
+• Proposals will be evaluated in accordance with applicable regulations including the 
+procedures contained within this RFP. 
+• Negotiations may be conducted with those Offerors submitting technically acceptable 
+proposals.  Fermilab shall evaluate proposals for award purposes without considering 
+any conditions or contingencies. 
+• This Subcontract is a Food Services and Management Subcontract requiring payment of 
+0.75 percent of net revenue to Fermilab as a concessionaire fee. 
+• This is a best value procurement.  
+• Fermilab will evaluate and rank Offerors’ ability to successfully provide the overall best 
+long term value to Fermilab based on the technical proposal submitted.
+5  
+26. Terry Smith testified for IDHS as an expert witness on the R-S Act.6  Mr. Smith testified 
+that if the standard employed to evaluate a bid made by an SLA on behalf of a blind 
+vendor were the best interests of Fermilab, rather than the standards articulated in 34 
+C.F.R. § 395.33, that would be a violation of the R-S Act, in that the only way to use the 
+“best interest” criteria is to seek a Department of Education ruling that the blind 
+vending facility would “adversely affect the interests of the United States.”
+7    
+ 
+5 Plaintiff’s Exhibit No. 2. 
+6 See T. 59-60, as reproduced here:  
+Q. And I note specifically in your resume when you worked from 2011 to 2016 at the Mississippi State University 
+Research Center and Training Center for the Blind, you indicate you were a Randolph-Sheppard subject matter 
+expert on U.S. Department of Energy grant. Can you just explain what that grant was about from the 
+Department of Energy? I’m sorry, Education. Excuse me.  
+A. Yes. That was a grant that was awarded to the Mississippi State University. I was the Randolph-Sheppard expert 
+when we applied for the grant. And the purpose of that—  the primary purpose for the part that I was working on 
+was to develop on-line training modules for Randolph-Sheppard staff who were working the state agencies 
+across the country. That was intended primarily for new hires. And so, we created an on-line training module on 
+the on-line training courses. I think there’s 14 modules. Don’t hold me to that. And I wrote eight or nine of those, 
+including the modules on the Randolph-Sheppard Act. Prior to that I was—  I chaired the National Council of 
+State Agencies for the Blind, the Randolph-Sheppard committee for ten years. So, that’s really why I started 
+getting really involved nationally with—  other than just statewide for working through the National Council State 
+Agency for the blind from 2001 to 2011. That’s where I really began to get involved with all the stuff happening 
+on the state program. 
+7 See T. 75-76, reproduced here:  
+Q. Based on your experience with the Randolph-Sheppard Act, under what situation would a blind vendor bid not 
+be considered in the best interests of the United States? 
+A. I can't think of a circumstance where you could make that claim, but, you know, I’m sure that somebody could 
+try. But you—  because basically the argument would be that it's not in the best interests to give a contract to a 
+blind person and instead give it to another company, and that’s a hard case to make. In fact, never in the history
+
+IV. CONCLUSIONS OF LAW 
+1. Because Fermilab is located on Federal property, the Department of Energy has a 
+responsibility to take all steps necessary to ensure, in light of appropriate space and 
+potential patronage, that one or more vending facilities for operation by blind licensees 
+shall be located on all Federal property. 
+2. The Competition in Contracting Act (CICA), the Federal Acquisition Regulation (FAR), and 
+the Department of Energy Acquisition Regulation (DEAR) apply “except in case of other 
+procurement procedures expressly authorized by statute.”  10 U.S.C. § 2304(a)(1), 41 
+U.S.C. § 3301. The R-S Act is such a procurement procedure.   Automated Comm. Syst v. 
+U.S., 49 Fed. Cl. 570, 577-78 (2001), NISH v. Rumsfeld, 348 F.3d 1263 (10th Cir. 2003), 
+NISH v. Cohen, 247 F.3d 197 (4th Cir. 2001).  Accordingly, the Department of Energy 
+regulations at 48 C.F.R. § 901, et seq. do not apply to R-S Act procurements, insofar as 
+they conflict with the regulations implementing the R-S Act. 
+3. The regulation at 34 C.F.R. § 395.33(a) that a cafeteria contract be awarded to the SLA 
+provided that the SLA can operate the cafeteria at comparable cost and comparable 
+high quality as that currently provided to employees was violated when the SLA’s bid 
+with Southern Foodservice was not accepted.  Southern Foodservice had provided 
+satisfactory service at Fermilab since 2004. It is self-evident that Southern Foodservice’s 
+bid provided for food service at a reasonable cost with high quality comparable to that 
+currently provided employees.  There was no evidence submitted by the Department of 
+Energy to contravene the testimony of Mr. Berry of Southern Foodservice that it had an 
+excellent relationship with FRA and received positive feedback. 
+4. The regulation at 34 CFR 395.33(a) provides for an individualized determination by the 
+Secretary of Education, after consultation with the Federal agency, to ensure that the 
+operation provides maximum employment opportunities to blind vendors to the full 
+extent possible. The Department of Energy failed to consult with the Secretary of 
+Education as required by 34 C.F.R. § 395.33.  Accordingly, the Panel concludes that the 
+Department of Energy violated the R-S Act when it failed seek a determination from the 
+Department of Education’s secretary that the cafeteria operation “can be provided at a 
+reasonable cost, with food of a high quality comparable to that currently provided.” 34 
+C.F.R. § 395.33(a). 
+5. Only the Secretary of Education has the authority to impose a limitation on the 
+placement or operation of a vending facility. 20 U.S.C. § 107.  By providing for a 0.75% 
+concessionaire fee, the RFP placed a limitation on the operation/placement of a vending 
+facility in violation of the R-S Act without following the procedures set out in 20 U.S.C. § 
+107. 
+ 
+of the Randolph-Sheppard program has the Secretary of Education made a determination that awarding a 
+contract to an FLA (phonetic) would adversely effect (sic) the interests of the United States.
+
+V. ANALYSIS 
+A. The Department of Energy’s Defense that the United States is Not Liable for Acts or 
+Omissions of its Contractors Has No Basis in the Randolph-Sheppard Act or Precedent 
+The Department of Energy cites two cases for the proposition that the United States is not 
+liable for the acts or omissions of its subcontractors, Logue v. U.S., 412 U.S. 521 (1973) and 
+Severin v. U.S., 99 Ct Cl. 435 (1943). In Logue, a federal prisoner hanged himself while confined 
+in a county jail pending trial.8  His mother and adoptive father sued the United States for 
+damages under the Federal Tort Claims Act, claiming that negligence by county agents and 
+employees acting as a federal contractor proximately caused the death of their son.9 Severin, 
+decided by the U.S. Court of Claims nearly 80 years to resolve a contract dispute over 
+construction of a post office, stated the issue in these terms: “We have, then, a case in which 
+plaintiffs are suing for damages sustained by themselves as a result of the Government’s breach 
+of contract and also for damages sustained by another person, a subcontractor. Plaintiffs may, 
+of course, recover for their own loss, which so far as proved, was $73.71.”10 Due to facts and 
+underlying legal claims that differ from the issue here, neither case furnishes a meaningful 
+precedent for addressing the liability of the U.S. government for the contracting violations of 
+one of its sub-contractors who ignored legal requirements under the Randolph-Sheppard Act.   
+Additionally, the two cases cited by the Department of Energy for the fact that Fermilab is not 
+an instrumentality of the United States, U.S. v. Boyd, 378 U.S. 39 (1964), and U.S. v. New 
+Mexico, 455 U.S. 720 (1981), makes Federal agencies responsible to ensure compliance with 
+the R-S Act.  
+In Boyd, the Atomic Energy Commission and two of its contractors sued to recover Tennessee 
+sales and use taxes imposed upon purchases made by the contractors under their contracts 
+with the AEC. The Supreme Court held that cost-plus contractors for profit— one who 
+managed, operated and maintained Atomic Energy Commission plant, and the other who 
+performed construction services for AEC— were not so incorporated into governmental 
+structure as to become instrumentalities of the United States. Thus, these contracts did not 
+enjoy governmental immunity from taxation, and therefore, Tennessee had lawful authority to 
+impose a use tax upon property which was purchased by the federal contractors.
+11  
+ 
+8 Id. at 522. 
+9 Id.  
+10 Id. at 442. 
+11 Id. at 49-50, stating: 
+It is undoubtedly true, as the Government points out, that subjection of government property used by AEC 
+contractors to state use taxes will result in a substantial future tax liability. But this result was brought to the 
+attention of Congress in the debates on the repeal of §9(b), which exempted the activities of AEC contractors 
+from state taxation; indeed the AEC argued that the repeal would substantially increase the cost of the atomic 
+energy program by subjecting AEC contractors to state ‘sales and use taxes’ and ‘business and occupation’ taxes. 
+Nonetheless, Congress, well aware of the principle that ‘constitutional immunity does not extend to cost-plus-
+fixed-fee contractors of the Federal Government, but is limited to taxes imposed directly upon the United 
+States,’ S.Rep. No. 694, 83d Cong., 1st Sess. 2, U.S.Code Congressional and Administrative News 1953, pp. 2379,
+
+In New Mexico, the Supreme Court ruled that corporations that contract with the federal 
+Government to manage certain government-owned atomic laboratories in New Mexico were 
+not constituent parts of federal Government, and imposition of state use tax upon property 
+purchased by them under that contract did not infringe upon federal immunity from state 
+taxation, even when contractors procured materials and paid for goods with government funds 
+under advanced funding arrangement.
+12 
+In sum, while it is true that a federal contractor is an independent entity of the U.S. 
+government, these two cases only mean that a state may levy taxes on the contractor who 
+performs in connection with a cost-plus contract.  Whether or not the Department of Energy 
+directs or supervises the activities of Fermilab is not dispositive of whether the Department of 
+Energy has complied with the R-S Act.  The plain language of the R-S Act is that it applies to all 
+Federal property.    
+B. The R-S Act was Violated by the Use of a Best Value to Fermi Lab Standard to Evaluate 
+the Proposals 
+The correct standard is whether the SLA can provide high quality at a reasonable cost 
+comparable to the service currently provided.  The uncontroverted evidence is that the 
+proposal of the SLA with Southern Food Service met the standard in the R-S Act. The 
+Department of Energy provided no testimony to the contrary, and provided no justification as 
+to why the SLA’s bid was not within the competitive range.  Accordingly, the Panel finds that 
+the solicitation was improperly evaluated under the “best value procurement” standard, in 
+violation of the R-S Act. 
+C. A Requirement to Pay a Percentage of Net Revenue to Fermilab Violates the R-S Act 
+The requirement in the Solicitation that the awardee pay 0.75 percent of net revenue to 
+Fermilab as a concessionaire fee violates the R-S Act. See Minnesota Dep’t of Jobs Training v. 
+Riley, 18 F.3d 606 (8th Cir. 1994) holding that the R-S Act applies to the Veterans Canteen 
+Service (VCS), and that commission payments, like any limitation on a blind vendor’s operation, 
+are unlawful unless approved by the Secretary of Education. The Eighth Circuit Court of 
+Appeals’ reasoning bears repeating here because it directly applies to the present dispute: 
+We also agree with the district court that in prohibiting “[a]ny limitation on the ... 
+operation of a vending facility” unless justified by the Secretary of the DOE, 20 U.S.C. § 
+ 
+2380, repealed the statutory exemption for the declared purpose of placing AEC contractors in the same 
+position as all other government contractors. 
+12 Id. at 735, explaining: 
+What the Court’s cases leave room for, then, is the conclusion that tax immunity is appropriate in only one 
+circumstance: when the levy falls on the United States itself, or on an agency or instrumentality so closely 
+connected to the Government that the two cannot realistically be viewed as separate entities, at least insofar as 
+the activity being taxed is concerned. This view, we believe, comports with the principal purpose of the 
+immunity doctrine, that of forestalling “clashing sovereignty,” McCulloch v. Maryland, 4 Wheat., at 430, 4 L.Ed. 
+579, by preventing the States from laying demands directly on the Federal Government.
+
+107(b), the Randolph–Sheppard Act precludes the VCS [Veterans’ Canteen Service] from 
+requiring blind vendors to pay commissions on vending sales without the Secretary’s 
+approval. Although we need not resort to other tools of statutory construction because 
+the statute is clear, Robertson, 978 F.2d at 1486, the Act’s legislative history and the 
+Act’s related provisions support our conclusion. When Congress amended the Act in 
+1974, Congress was concerned with federal agency abuses of blind vendor’s operations, 
+like forcing blind vendors to pay commissions. See S.Rep. No. 93–937, 93d Cong., 2d 
+Sess. (1974).
+13 
+See also, Minn. Dep’t of Economic Sec. v. Riley, 107 F.3d 648 (8th Cir. 1997). Again, the federal 
+appeals court’s crystal clear analysis bears repeating here because it is directly on-point: 
+In truth, the VCS has done far more than merely limit the blind vendor’s operation at the 
+VA Medical Center. Congress assumed federal agencies would respect a blind person’s 
+vending enterprise and willingly comply with the Act. See 20 U.S.C. § 107d–2(b)(2). 
+Instead, the VCS has tried to drive the blind vendor out of its domain.
+14 
+The Veterans Canteen Service was no different from any other steward of federal property; if it 
+wanted to impose limitations on a blind vendor’s operation, it was required to get permission 
+from the Secretary of Education. The same principle applies in the present matter. 
+D. The R-S Act Vests Exclusive Authority in the Secretary of Education to Make the Decision 
+that the Blind Licensee Can Provide Cafeteria Services at a Reasonable Cost with High 
+Quality. 
+The statutory and regulatory scheme make clear that an SLA’s bid cannot be rejected without 
+the on-site official consulting with the Secretary of Education, who makes the final decision.  34 
+C.F.R. § 395.33(a).  See Colo. Dep’t of Human Serv. v. U.S., R-S/10-6 (May 30, 2012) (“the fact 
+that a blind vendor’s bid was not within a competitive range set by a contracting agency does 
+not preclude the Secretary of Education from concluding that the blind vendor is entitled to the 
+priority when the blind vendor can nonetheless provide services at a reasonable cost.”); 
+Randolph-Sheppard Vendors of America, Inc. v. Harris, 628 F.2d 1364, 1367 (D.C. Cir. 1980) 
+(“the bidding system allows the Secretary to determine whether the blind operator’s cost is 
+‘reasonable,’ and the bidding regulation provides that if the blind vendor’s bid falls within a 
+reasonable and competitive range, even if it is higher than some others, it will be given 
+priority.”)   
+Here, given that the SLA’s bid met the standards for selection set by the R-S Act, it is self-
+evident that the SLA’s bid was ranked among those bids that had a reasonable chance of being 
+selected for award. Pertinent authority in 20 U.S.C. § 107d-3(e) provides with respect to 
+regulations governing the award of cafeteria contracts:  
+ 
+13 Id. at 609. 
+14 Id. at 650.
+
+The Secretary, through the Commissioner, shall prescribe regulations to establish a 
+priority for the operation of cafeterias on Federal property by blind licensees when he 
+determines, on an individual basis and after consultation with the head of the 
+appropriate installation, that such operation can be provided at a reasonable cost with 
+food of a high quality comparable to that currently provided to employees, whether by 
+contract or otherwise. 
+The R-S Act provides for deference to the Secretary of Education’s authority to resolve 
+questions about the SLA and its ability to provide services at a reasonable price. For example, 
+20 U.S.C. § 107(b) expressly provides that “any limitation on the placement or operation of 
+vending facility” is within the exclusive purview of the Secretary.  The Panel therefore concludes 
+that any interpretation of 34 C.F.R. § 395.33 that eliminates the Secretary of Education from 
+being the ultimate decision maker is inconsistent with the R-S Act’s intent to have the Secretary 
+of Education act as the final arbiter.  Accordingly, the Panel concludes that the Department of 
+Energy’s failure to properly consult with the Secretary of Education as required by 34 C.F.R. § 
+395.33(a) violated the R-S Act.   
+By awarding a contract to Taher, Inc., stating that the award to Taher, Inc. was in the “best 
+interest for Fermilab,” the Department of Energy eviscerated the R-S Act. This disregarded 
+Congressional intent that the blind have a statutory priority to operate vending facilities on all 
+Federal property. The Panel concludes that the SLA has established by substantial evidence that 
+the R-S Act was violated. 
+VI. DECISION AND AWARD  
+A. The Department of Energy violated the R-S Act by failing to ensure that its contractor, 
+FRA, comply with the R-S Act’s standard of providing food service comparable to that 
+currently provided employees. 
+B. The Department of Energy violated the R-S Act and its implementing regulations by 
+failing to ensure that employment opportunities for blind vendors were maximized. 
+C. The Department of Energy shall terminate the acts or practices found by this Panel to be 
+in violation of the R-S Act and its implementing regulations, and shall take all actions as 
+may be necessary to effectuate this decision. 
+D. To these ends, the Panel finds as a matter of law that the Department of Energy was 
+obligated under the R-S Act and its implementing regulations to evaluate the proposals 
+as required by 34 C.F.R. § 395.33 and to award to the SLA based on the R-S Act priority 
+so long as the operation of the cafeteria can be provided at a reasonable cost with food 
+of a high quality comparable to that currently provided employees.   
+Dated April 30, 2020.
+
+Michael H. LeRoy, Panel Chair (Concur) 
+Susan Rockwood Gashel, Panel Member (Concur) 
+Alan Handwerker, Panel Member (Dissent)
+
+DISSENT 
+On September 14, 2016 the Illinois Attorney General, on behalf of the SLA filed a Complaint and 
+Request For Arbitration against the US Department of Energy (DOE) in which it requested the 
+convening of an arbitration panel under the R-SA 20 U.S.C. 107 d-1 (b) and 107d-2 and 
+implementing regulations found at 34 CFR 395.37. The Illinois Attorney General charged that 
+DOE, by awarding of the contract for cafeteria services at Fermilab under RFP No.06884-SAE to 
+a non-blind vendor over the SLA blind vendor, violated the R-SA priority afforded blind vendors.  
+Janet L. LaBreck, US Department of Education (DoEd) requested the Parties to attempt to settle 
+this matter. On November 30, 2016 the Illinois Attorney General notified DoEd, Jesse Hartle, 
+that it was necessary for the SLA to name Fermi Research Alliance (FRA) as a defendant, and to 
+serve DOE in order for settlement discussions to proceed. The Illinois Attorney General filed an 
+amended Complaint on December 1, 2016 naming FRA LLC as a defendant and serving DOE.  
+Subsequently, and at the request of the FRA General Counsel, the Arbitration Panel removed 
+FRA as a Party to this case as the United States is the owner of the Federal property comprising 
+Fermilab. Therefore, FRA was not a Party to, or represented in, this Arbitration. 
+On July 20, 2017 Carol L. Dobak, Acting Deputy Commissioner and Commissioner at DoEd 
+authorized the R-SA arbitration in this matter. In her authorization letter Ms. Dobak, directed 
+that the central issue to be addressed is: 
+Whether Energy violated the Act and implementing regulations by failing to apply the 
+Act’s priority to Solicitation No. 06884-SAE and rejecting the SLA’s bid as not falling 
+within the competitive range and having a reasonable chance of being selected for a 
+final award? 
+For the reasons more fully discussed below I find that the DOE fully complied with the R-SA and 
+its implementing regulations.  
+BACKGROUND FACTS 
+1. The United States government, acting through the DOE, is responsible for conducting, 
+inter alia, research in the field of high - energy physics. DOE is a department, agency or 
+instrumentality of the United States. 
+2. On November 21, 1962 DOE (then the Atomic Energy Commission) established the 
+Fermi National Accelerator Laboratory (hereinafter Fermilab or FNAL) in Batavia, Illinois. 
+3. Fermilab is located on a 6800 acre site in Batavia, Illinois and is entirely owned by the 
+United States government. 
+4. Fermilab is a government owned- contractor operated site. The current contractor 
+operating Fermilab is FRA, which is a joint venture consisting of the University of 
+Chicago and the Universities Research Association, Inc. (hereinafter U of C and URA,
+
+respectively). URA is an association of 89 United States educational research 
+institutions. 
+5. FRA operates Fermilab under the terms of Management and Operating Contract DE-
+AC02-07CH11359. (the Prime contract). The Prime contract is valued at over one billion 
+dollars for a 5 year term, with options to extend performance based on FRA’s 
+performance. 
+6. FRA is an independent contractor and is not a purchasing agent of the Government. 
+7. FRA employs approximately 3000 private sector employees at Fermilab.   Fourteen 
+Federal employees are stationed at the DOE Fermi Site Office, which is the only 
+permanent Government personnel presence on the Fermilab site. 
+8. Many of the Fermilab employees, and all of the government employees are located in 
+Wilson Hall, which is also the location of the Fermilab cafeteria. The Fermilab cafeteria is 
+operated pursuant to a food services subcontract with FRA.  Fermilab also houses 
+numerous vending machine facilities, which are operated under the R-SA. 
+9. The Fermilab Prime contract does not expressly mention the R-SA.  It does contain 
+provisions requiring FRA to comply with the DOE approved purchasing policies and 
+procedures and the provisions of the Prime contract including the Laws, Regulations and 
+DOE Directives clause (Clause I-90). Clause I-90 requires FRA to comply with all 
+applicable laws, regulations and DOE directives. 
+10. A decision was made by FRA to conduct a competitive selection process to select a food 
+service management subcontractor. A Fermilab Request for Proposals No.06884-SAE 
+(RFP) was issued on April 18, 2016 by FRA Procurement Administrator Mr. Scott Engel.  
+A pre–proposal conference was held at Fermilab on April 28, 2016 and afforded 
+potential offerors the opportunity to tour the cafeteria site and ask Fermilab employees 
+questions regarding the RFP.  The SLA after reviewing the solicitation did not object to 
+the terms of the solicitation or to the evaluation criteria contained therein which would 
+be used to evaluate proposals (transcript pg43, line 6-9). 
+11. RFP Section 13.2 states: “This is a best value procurement”. The RFP contemplated a 
+two-year subcontract term with options for additional years. 
+12. RFP Section 13.3 states: “Fermilab will evaluate and rank offerors ability to provide the 
+overall best value to Fermilab based on the Technical proposal submitted”. 
+13. On May 11, 2016 Mr. Raven A. Pulliam, Program Administrator, Illinois Business 
+Enterprise Program for the Blind (BEP) submitted a joint proposal to Fermilab, 
+partnering with Southern Foodservice - Management Incorporated (Southern). Southern 
+was the incumbent cafeteria food service management subcontractor at Fermilab and
+
+had served in that capacity since approximately 2004.  Complainant’s, Closing brief, 
+page 3. 
+14. By letter dated July 13, 2016, Fermilab Procurement Administrator, Scott Engel advised 
+Mr. Raven Pulliam that the BEP /Southern proposal was not selected for award. This 
+letter advised that the Taher proposal was selected as in the best interest of Fermilab-
+Defense Exhibit D. 
+15. On July 28, 2016 Mr. Freeman, an Attorney for the Illinois Business Enterprise Program 
+for the Blind and the Illinois Committee For Blind Vendors sent a letter to the Fermilab 
+Procurement Administrator, Scott Engel, advising him that the R-SA applied to the 
+procurement and that “…if the state licensing agency and its blind vendo r can operate a 
+cafeteria at a reasonable cost with food of a high quality comparable to that currently 
+provided employees” then the Federal property manager must award the contract to 
+the state licensing agency. Moreover, if there is any doubt as to whether that is so the 
+Secretary of Education is to make that determination.  Citing (34 C.F.R 395.33a); - 
+Defense Exhibit E. 
+16. On August 5, 2016 Mr. John Myer, the Fermilab General Counsel, responded to Mr. 
+Freeman’s letter. Mr. Myer stated:  
+FRA understands and respects that the Randolph -Sheppard Act applies to 
+vending and cafeteria operations on federal property. Accordingly, the FRA 
+procurements for vending and cafeteria operations, including the recent 
+Foodservice Management Services solicitation are conducted in accordance with 
+the Act and regulations. (In fact, the Illinois BEPB has held vending subcontracts 
+at Fermilab for a number of years.) In this instance, FRA conducted the 
+solicitation and determined that the Illinois BEPB was not in the competitive 
+range and did not have a reasonable chance of being awarded the contract… 
+Under the regulations the potential of priority for a blind vendor is triggered if a 
+proposal by the State licensing agency for blind vendors is judged to be within a 
+competitive range and has been ranked among those proposals which have a 
+reasonable chance of being selected for final award” 34 CFR 395.33(b). 
+Mr. Myer also stated that the Illinois BEPB attended the pre-proposal meeting and did not ask 
+questions about the “best value” basis of award. Mr. Myer advised the BEPB that its proposal 
+was the lowest ranked of the three proposals received. It was disclosed that there were three 
+Offerors, the first being Taher, the second being an unknown entity and the third being the 
+SLA/Southern proposal. The Taher proposal was graded at 100 and the SLA/Southern proposal 
+was rated with a score of 90. The score of the middle proposal was not disclosed. 
+17. The solicitation for Cafeteria Food Services Management Services was entirely 
+conducted by FRA contractor employees. DOE and its Federal employees did not 
+participate in any way in the preparation, solicitation, evaluation, selection and award of 
+the Cafeteria Food Services Management subcontract.
+
+Discussion 
+As previously stated the charge to be addressed by the Arbitration panel is as follows: 
+Did DOE violate the R-SA by: 
+1. Failing to apply the Act’s Priority to Solicitation No.06884 - SAE? 
+And 
+2. Rejecting the SLA’s bid as not falling in the competitive range and having a reasonable 
+chance of being selected for award? 
+The threshold question to be addressed in answering the charge is whether the R-SA and its 
+priority apply at all to a Government contractor procurement of a food services management 
+subcontract, if the cafeteria is located on Federal property? 
+The proponent of the order has the burden of proof based on reliable, probative and 
+substantial evidence. (See, 34 CFR 395.37(b) requiring the Arbitration Panel to be conducted in 
+accordance with 5 U.S.C. Chapter 5); see also 5 U.S.C. 556(d). 
+The Complainant in its Complaint, briefs and at the hearing do not present legal cases which 
+directly address this issue. They presume in their arguments that DOE has failed to comply with 
+R-SA even while recognizing that the actual procurement process was not conducted by the 
+Federal government, but instead by FRA, a government contractor. The Complainant’s position 
+is that Fermilab is located on Federal property and therefore the R-SA and its regulations apply 
+to the procurement of cafeteria services, whether the solicitation is issued by the Federal 
+government, or a government prime contractor. 
+The totality of Respondent’s legal argument in its Answer, at the arbitration hearing, and in its 
+briefs is that the terms of the R-SA including its priority do not apply to a Federal prime 
+contractor’s, (FRA) procurement of a food services management subcontractor on Federal 
+property. The Respondent asserts that R-SA only applies to Federal procurements and since 
+DOE did not issue, participate in, evaluate or award a contract for cafeteria management 
+services, R-SA, does not apply. No case law was provided to directly support this position.  All of 
+these actions were taken by DOE’s management contractor FRA and not by DOE. 
+Based on the evidence presented I find the Complainant’s arguments more persuasive. 
+The R-SA defines Federal property as …  “any building, land or other real property owned, leased 
+or occupied by any department, agency, or instrumentality of the United States…” 20 U.S.C. 
+107e. The definition of “vending facilities” includes “cafeterias”.20 U.S.C. 107e(7). The R-SA 
+regulations at 34 CFR 395.33 require that: 
+Priority in the operation of cafeterias by blind vendors on Federal Property (emphasis 
+added) shall be afforded when the Secretary (of Education) determines, on an individual
+
+basis, and after consultation with the appropriate property managing department, 
+agency, or instrumentality, that such operation can be provided at a reasonable cost 
+with food of a high quality comparable to that currently provided to employees whether 
+by Contract or otherwise. 
+It is uncontested that Fermilab is located on Federal property. The DOE is required to assure 
+that the statutory intent of the R-SA is complied with whether performed directly by DOE 
+Federal employees or by its site management contractor. To rule otherwise would allow a 
+Federal property management agency to avoid its responsibility for compliance with the R-SA 
+merely by the act of subcontracting the responsibility. The weight of the evidence shows that 
+FRA believed its procurement of a cafeteria services subcontractor was subject to the R-SA. See 
+letter from John Myer - Statement of Fact number 16. in which Mr. Myer states “…. The FRA 
+procurements for vending and cafeteria operations, including the recent Foodservice 
+Management Services solicitation are conducted in accordance with the Act and regulations”. 
+The FRA procurement was structured to comply with the R-SA, the SLA was invited to 
+participate and the evaluation criteria generally conform to the R-SA regulations. More to the 
+point, the FRA General Counsel, John Myer, expressly acknowledged the applicability of the R-
+SA to the FRA procurement of the cafeteria services management subcontract. 
+However, finding that the intent of the R-SA and its implementing regulations apply to this 
+procurement by an Agency contractor for cafeteria management services on Federal property 
+does not end the required analysis. The issues which remains to be addressed to resolve the 
+DoED’s charge in this matter is whether DOE’s Prime contractor, FRA, actually complied with 
+the intent of the R-SA in establishing the competitive range and by doing so determining that 
+the SLA’s proposal had no reasonable chance for award. This analysis follows. 
+34 CFR 395.33 expressly addresses the requirements applicable to solicitation and award of 
+cafeterias management services on Federal property. The regulation states: 
+a) Priority in the operation of cafeterias by blind vendors on Federal property shall be 
+afforded when the Secretary determines, on an individual basis, and after consultation 
+with the appropriate property managing department, agency, or instrumentality, that 
+such operation can be provided at a reasonable cost, with food of a high quality 
+comparable to that currently provided employees, whether by contract or otherwise. 
+Such operation shall be expected to provide maximum employment opportunities to 
+blind vendors to the greatest extent possible. 
+27.  
+b) In order to establish the ability of blind vendors to operate a cafeteria in such a manner 
+as to provide food service at comparable cost and of comparable high quality as that 
+available from other providers of cafeteria services, the appropriate State licensing 
+agency shall be invited to respond to solicitations for offers when a cafeteria contract is 
+contemplated by the appropriate property management department, agency, or
+
+instrumentality. Such solicitations for offers shall establish criteria under which all 
+responses will be judged. Such criteria may include sanitation practices, personnel, 
+staffing, menu pricing and portion sizes, menu, variety, budget and accounting practices. 
+If the proposal received from the State licensing agency is judged to be within a 
+competitive range and has been ranked among those proposals, which have a 
+reasonable chance of being selected for final award, the property managing 
+department, agency or instrumentality shall consult with the Secretary as required 
+under paragraph (a) of this section. If the State licensing agency is dissatisfied with an 
+action taken relative to its proposal it may file a complaint with the Secretary under the 
+provisions of Section 395.37. 
+34 CFR 395.33(b) is clear and unambiguous. To determine in a competitive procurement 
+whether blind vendors can operate a cafeteria in a manner to provide food service at 
+comparable cost and high quality as that available from other providers of cafeteria services the 
+following steps must be followed: 
+1. The SLA must be invited to respond to the solicitation when a cafeteria contract is 
+contemplated.  In the case at hand, the SLA did receive the solicitation and submitted a 
+joint proposal with Southern. 
+28.  
+2. The solicitation for offers shall establish criteria under which all responses will be 
+judged. Such criteria may include sanitation practices, personnel, staffing, menu pricing 
+and portion sizes, menu, variety, budget and accounting practices. In the case at hand, 
+the FRA solicitation contained the following criteria—Corporate capability, management 
+controls and accountability; Resources and staffing; Food programs and concepts; 
+Nutrition program; Price and portion policies; Sustainability; and Corporate durability 
+and financial resources. These criteria fall within the scope of the criteria envisioned by 
+34 CFR 395.33(b). 
+29.  
+3. Finally, if and only if, the SLA proposal is judged to be in the competitive range and has 
+been ranked among those proposals having a reasonable chance of being selected for 
+final award, the property management agency shall consult with the Secretary under 34 
+CFR 395.33(a). Here the SLA proposal was not included in the competitive range and 
+was not ranked as having a reasonable chance of award. The term competitive range is 
+defined in the Federal Acquisition Regulation Part 15.306(c) as follows:  
+Agencies shall evaluate all proposals in accordance with 15.305(a), and, if 
+discussions are to be conducted, establish the competitive range. Based on the 
+ratings of each proposal against all evaluation criteria, the contracting officer 
+shall establish a competitive range comprised of all of the most highly rated
+
+proposals, unless the range is further reduced for purposes of efficiency 
+pursuant to paragraph (c)(2) of this section.   
+In the case at hand, the SLA/Southern proposal was excluded from the competitive range.  The 
+burden of proof is on the Complainant to prove its case by substantial evidence.  The 
+Complainant totally failed to meet its burden of proof to provide substantial evidence that it 
+was erroneously excluded from the competitive range and could provide high quality food 
+service at a reasonable cost. The only evidence it did provide addressed the food service 
+provided by Southern at Fermilab from 2004-2016.  Complainant provided the following 
+testimony by Mr. Berry, Southern’s President: “it had an excellent relationship with FRA and 
+had received positive feedback”. This could hardly be called substantial evidence of the quality 
+performance of Southern at Fermilab demonstrating that it should be included in the 
+competitive range.  It is pure conjecture to find that the SLA/Southern proposal provided for 
+food at a reasonable cost and a high quality. The FRA evaluation and evaluator ratings of the 
+SLA/Southern proposal are not in the record nor is the FRA cost analysis of the SLA/Southern 
+proposal.   Complainant’s other witness, Mr. Smith, provided no testimony as to how FRA’s 
+evaluation methodology was flawed or adversely impacted the Complainant.  Complainant has 
+produced no witness who participated in the preparation of the SLA/Southern proposal in 
+response to FRA solicitation No. 06884-SAE. Complainant has also produced no witnesses who 
+participated in the debriefing conducted by FRA. It is clear that FRA, in conducting this 
+solicitation, complied with each element of 34 CFR 395.33.   
+Complainant presented the following additional legal arguments at the Arbitration hearing and 
+in its briefs regarding provisions contained in the Fermilab RFP: 
+1. DOE violated the R-SA by imposing an improper limitation on the selection process 
+without justification or determination by the Secretary; and 
+2. DOE violated the R-SA by failing to seek a determination from the Secretary regarding 
+this limitation.  
+34 CFR 395.30 provides that: 
+a) Each Federal department, agency or instrumentality shall take all steps necessary to 
+assure that; whenever feasible, in light of appropriate space and potential patronage, 
+one or more vending facilities for operation by blind licensees shall be located on 
+Federal property. Provided that the location or operation of such facilities would not 
+adversely affect the interest of the United States. 
+b) Any limitation on the location or operation of a vending facility for blind vendors by a 
+department, agency or instrumentality of the United States based on a finding that such 
+location or operation would adversely affect the United States shall be fully justified in 
+writing to the Secretary who shall determine whether such limitation is warranted.
+
+FRA did not establish a limitation on the location or operation of a vending facility based on a 
+finding that such location or operation would adversely affect the United States. To the 
+contrary, DOE has located R-SA vending facilities on the Fermilab site in the form of vending 
+machines. It has also conducted a competitive procurement to select an operator of the 
+Fermilab cafeteria pursuant to R-SA regulation 34 CFR 395.33. 
+Complainant contends that using a “best value” standard of award is such a limitation, which 
+must be justified to the Secretary of Education and determined by the Secretary to be 
+warranted. Complainant’s argument is without merit as use of a “best value” standard of 
+source selection is not a “limitation based on a finding that the operation of a cafeteria would 
+adversely affect the interest of the Government”. The best value procurement standard is 
+however a well-established method of Federal procurement source selection. The Federal 
+Acquisition Regulation, (FAR) Part 15 governs the Federal government’s contracting by 
+negotiation process. There are two major types of negotiated procurement 1) best value and 2) 
+lowest price technically acceptable source selection. The best value process requires an Agency 
+to list evaluation criteria and make a tradeoff between price and technical factors in selecting a 
+Contractor. Fermilab is not strictly bound by the FAR but is bound by its DOE approved 
+procurement policies and procedures and the terms of its Prime contract. Adopting 
+Complainant’s argument would require each property managing Federal agency to justify its 
+use of a FAR approved source selection approach to the Secretary of Education for 
+competitively selected cafeteria contracts. This would make no sense when the procedure in 34 
+CFR 395.33 to select a cafeteria contractor is adhered to. 
+Regardless, the Complainant’s argument also fails pursuant to the legal doctrine of waiver. 
+The FRA solicitation clearly and unambiguously advised all offerors that the selection basis for 
+the cafeteria services management subcontract would be a “best value “procurement. See RFP 
+Section 13.2; Statement of Fact 11.  Evaluation criteria were listed and are similar in content to 
+the criteria represented in 34 CFR 395.33 (b). The evaluation criteria are recited on page 6 
+above. At the hearing, Mr. Berry of Southern, testified that Southern had reviewed the FRA 
+Solicitation and responded in the negative when asked if the SLA/Southern had objected to FRA 
+regarding the inclusion of a best value standard of award. The Complainant first objected to 
+inclusion of the best value standard for award as part of its Complaint and after the subcontract 
+in question had been awarded. The FRA held a pre-proposal conference to allow potential 
+offerors to raise concerns regarding the procurement before proposals were due.  No concerns 
+were raised by the SLA/Southern. This is precisely the type of situation the waiver doctrine is 
+meant to address 
+The waiver doctrine has been applied to various cases including R-SA arbitration cases. In the 
+Court’s decision in Blue & Gold Fleet L.P. v. United States, 492 F.3d 1308 (Fed.Cir. 2007) the 
+Court relied on the decision in North Carolina Division of Service for the Blind, which recognized 
+that where there is a “ deficiency or problem in a solicitation…. the proper procedure for the 
+offeror to follow is not to wait to see if it’s the successful offeror before deciding whether to
+
+challenge the procurement, but rather to raise the objection in a timely fashion”. Blue and Gold 
+Fleet at page70. 
+In Blue & Gold Fleet the Court further stated: 
+Similarly, we have recognized the doctrine of patent ambiguity where the party 
+challenging the government is a party to the government contract.  “The doctrine of 
+patent ambiguity is an exception to the general rule of contra proferentem, which 
+courts use to construe ambiguities against the drafter.” E.L.Hamm & Assoc., Inc. v. 
+England, 379 F.3d 1334, 1342 (Fed, Cir.2004). We have applied the doctrine of patent 
+ambiguity in cases where, as here, a disappointed bidder challenges the terms of a 
+solicitation after the selection of another contractor.  Stratos, Mobile Networks USA, LLC 
+v United States, 213 F. 3d 1375, 1381 (Fed.Cir. 2000); Statistic, Inc. v. Christopher, 102 F. 
+3d 1577, 1582 (Fed. Cir.2000); 1582 (Fed.Cir. 1996). 
+Under the doctrine, where a government solicitation contains a patent ambiguity, the 
+government contractor has “ a duty to seek clarification from the government, and its 
+failure to do so precludes acceptance of its interpretation” in a subsequent action 
+against the government.  Stratos, 213 F.3d at 1381 (quoting Statistica, 102 F.3d at 1582).  
+This doctrine was established to prevent contractors from taking advantage of the 
+government, protect other bidders by assuring that all bidders bid on the same 
+specifications, and materially aid the administration of government contracts by 
+requiring that ambiguities be raised before the contract is bid, thus avoiding costly 
+litigation after the fact. Cmty. Heating & Plumbing Co. v Kelso, 987 F.2d 1575, 1580 
+(Fed.Cir.1993).  
+In the case of Comint Systems Corporation and Eyeit.Com, Inc., Joint Venture and Netservices & 
+Associates, LLC, v. United States, and Netcentrics Corporation, and Digital Management, Inc., 
+and Powertek Corporation, the Court of Appeals for the Federal Circuit No. 2012-5039 
+extended the applicability of Blue and Gold to all pre-award situations. The Court stated: 
+In the absence of a waiver rule a contractor with knowledge of a solicitation defect 
+could choose to stay silent…. If its proposal los es to another bidder, the contractor could 
+then come forward with the defect to restart the bidding process with increased 
+knowledge of its competitors. A waiver rule thus prevents contractors from taking 
+advantage of the government and other bidders, and avoid costly after-the-fact 
+litigation Comint at 9. 
+Importantly, and as previously mentioned, the waiver principle has also been applied in the R-
+SA context. In North Carolina Div. of Svcs. for the Blind v, U.S. 53 Fed. CL 147 (Fed. Cl. 2002) the 
+Court of Federal Claims stated: 
+(The SLA) could not wait to see whether or not it won the contract before challenging 
+the perceived problems with the solicitation. Acceptance of such a practice would be 
+disruptive, unfair to the other offerors, and would serve to undermine the soundness of
+
+the federal procurement system (Citations omitted.) Accordingly, where an offeror 
+declines to raise an objection and obtain a determination on the matter, the court may 
+find that the offeror has waived its right to protest. (Id.at 165) 
+In the RSA Arbitration case of State of Texas v. United States, RS16-09  the Arbitration panel 
+cited Moore v. Cafeteria Services 77 Fed Ct at 185 in which the Court held: “Moore had the 
+opportunity to object to the terms of the solicitation during the bidding process, and in not 
+doing so waived its right to do so before this Court.” The fact that the FRA solicitation was going 
+to be a “best value” procurement and how the evaluation was going to be conducted was clear 
+on the face of the solicitation and cannot be objected to after award. 
+Finally, use of a “best value” procurement would be a harmless error as the SLA/Southern 
+proposal was appropriately excluded from the competitive range. Only proposals in the 
+competitive range would be evaluated for “best value.”

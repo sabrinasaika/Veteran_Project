@@ -1,0 +1,196 @@
+FILENAME: eta-9169-20annualreport-py2019-20nv-pdf-eb95b922ccf3.pdf
+PATH: _raw/rsa.ed.gov/eta-9169-20annualreport-py2019-20nv-pdf-eb95b922ccf3.pdf
+
+WIOA STATEWIDE AND LOCAL PREFORMANCE REPORT 
+June 2020
+PROGRAM
+STATE:                                                                                                                               Nevada                           
+ 
+From(mm/dd/yyyy): 7/1/2019 To(mm/dd/yyyy): 6/30/2020  X
+
+SUMMARY INFORMATION
+Service
+BY PARTICIPANT CHARACTERISTICS
+Num Rate Num Rate Num Rate Num Rate
+Negotiated 
+Target Baseline Baseline Baseline Baseline
+Actual 835 56.2% 830 54.4% 0 0.0% 185 15.2%
+350 54.1% 346 53.1% 0 0.0% 74 16.7%
+485 57.9% 483 55.6% 0 0.0% 107 14.6%
+0 0.0% 0 0.0% 0 0.0% - -
+104 59.
+4% 128 63.4% 0 0.0% 104 14.2%
+188 59.3% 203 59.2% 0 0.0% 27 7.6%
+253 57.4% 241 55.3% 0 0.0% 25 35.7%
+149 54.4% 151 52.4% 0 0.0% 13 46.4%
+65 50.8% 51 42.5% 0 0.0% 9 69.2%
+76 50.3% 56 40.9% 0 0.0% 4 36.4%
+24 46.2% 24 50.0% 0 0.0% 6 16.2%
+44 58.7% 45 54.2% 0 0.0% 7 11.5%
+147 51.9% 125 46.5% 0 0.0% 23 11.9%
+156 60.7% 157 58.4% 0 0.0% 67 16.8%
+13 52.0% 16 51.6% 0 0.0% 4 12.1%
+642 56.9% 664 56.1% 0 0.0% 157 16.2%
+32 44.4% 40 50.6% 0 0.0% 11 15.3%
+27 5,924
+White 3,312 1,060 4,107
+More Than One Race 231 71 3,662
+3,731
+60+ 344 113 6,157
+Ethnicity/Race
+American Indian / Alaska Native 180 54 5,016
+Asian 219 62 3,643
+Black / African American 834 244 3,619
+Hispanic / Latino 943 276 3,748
+Native Hawaiian / Pacific 
+Islander 89
+Age
+ < 16 10 0 0
+16 - 18 969 272 2,926
+19 - 24 868 287 3,274
+25 - 44 1,177 380 3,938
+45 - 54 689 206 5,753
+55 - 59 355 121
+Total Statewide 4,412 1,379
+Baseline
+Sex
+Female 1,894 613 4,351
+Male 2,322 737 3,812
+4,019
+N/A 10.0% N/A
+Total Participants 
+Served
+Total Participants 
+Exited
+Employment Rate 
+(Q2)2 
+(Cohort Period: 
+07/01/2018 - 
+06/30/2019)
+Employment Rate 
+(Q4)2 
+(Cohort Period: 
+01/01/2018 - 
+12/31/2018)
+Median 
+Earnings        
+(Cohort Period: 
+07/01/2018 - 
+06/30/2019)
+Credential Rate3             
+(Cohort Period: 
+01/01/2018 - 
+12/31/2018)
+Measurable Skill 
+Gains3
+(Cohort Period: 
+07/01/2019 - 
+06/30/2020)
+Earnings
+795 $1,876,811 $551
+Training Services 1,336 194 $1,747,628 $1,305
+Percent training-related employment1: Percent enrolled in more than one core program: Percent Admin Expended:
+OMB Control Number 1205-0526
+Expiration Date:  03-31-2021 ETA-9169
+Statewide Performance Report
+TITLE (select one):
+Title I Local Area: Title I Adult Title II Adult Education
+REPORTING PERIOD COVERED (Required for current and three preceding years.) Title I Dislocated Worker Title III Wagner-Peyser
+Title I Youth Title IV Vocational Rehabilitation
+Title I and Title III combined
+Participants Served
+(Cohort Period: 
+07/01/2019 - 06/30/2020) Participants Exited
+(Cohort Period: 07/01/2019 - 06/30/2020)
+Funds Expended
+(Cohort Period: 07/01/2019 - 
+06/30/2020)
+Cost Per Participant Served
+(Cohort Period: 07/01/2019 - 
+06/30/2020)
+Career Services 3,387 
+Revised 2.17.2016 1
+
+WIOA STATEWIDE AND LOCAL PREFORMANCE REPORT 
+June 2020
+BY EMPLOYMENT BARRIER4
+Num Rate Num Rate Num Rate Num Rate
+Negotiated 
+Target Baseline Baseline Baseline Baseline
+Actual 835 56.2% 830 54.4% 0 0.0% 185 15.2%
+- - - - 0 0.
+0% - -
+182 57.
+1% 184 57.9% 0 0.0% 21 4.2%
+- #VALUE! 0 0.0% 0 0.0% 0 0.0%
+0 0.0% 0 0.0% 0 0.0% 0 0.0%
+12 46.2% 8 33.3% 0 0.0% 4 44.4%
+143 46.1% 98 40.2% 0 0.0% 47 26.4%
+269 56.8% 219 53.9% 0 0.0% 45 12.9%
+0 0.0% 0 0.0% 0 0.0% 0 0.0%
+835 56.2% 830 54.4% 0 0.0% 185 15.2%
+28 59.6% 25 58.1% 0 0.0% 45 21.2%
+4 50.0% - - 0 0.
+0% 36 19.7%
+Public Burden Statement (1205-0526) 
+Persons are not required to respond to this collection of information unless it displays a currently valid OMB control number. Respondent’s reply to these reporting requirements is required to obtain 
+or retain benefits (Workforce Innovation and Opportunity Act, Section 185(a)(2)). Public reporting burden for this collection of information is estimated to range between 240 and 360 minutes which 
+averages 300 minutes per response, including the time for reviewing instructions, searching existing data sources, gathering and maintaining the data needed, and completing and reviewing the 
+collection of information. Send comments regarding this burden estimate to the Office of Policy Development and Research ● U.S. Department of Labor ● Room N-5641 ● 200 Constitution Ave., NW, ● 
+Washington, DC ● 20210. Do NOT send the completed 9169 application to this address.
+Youth in foster care or aged out of system 289 28 2,611
+1Applies to Title I only.
+2This indicator also includes those who entered into a training or education program for the Youth program.   
+3Credential Rate and Measurable Skill Gains do not apply to the Wagner-Peyser program.
+4Barriers to Employment are determined at the point of entry into the program. 
+Numbers entered into cells in this template are the same as the corresponding "report item number" on the report specification document.  Clicking on each hyperlink will take the user to the plain 
+text language and technical specifications of each report item.
+Migrant and Seasonal Farmworkers - - 0
+Individuals with Disabilities (incl. youth) 4,412 1,379 4,019
+Single Parents (Incl. single pregnant 
+women) 783 132 3,453
+Homeless Individuals / runaway youth 77 25 1,828
+Long-term Unemployed (27 
+or more consecutive weeks) 1,328 342 3,175
+Low-Income Individuals 1,789 516 3,991
+English Language Learners, Low Levels of 
+Literacy, Cultural Barriers
+1,088 331 3,297
+Exhausting TANF within 2 years (Part A Title 
+IV of the Social Security Act)
+24 8 3,991
+Ex-offenders 5 - 0
+Total Statewide 4,412 1,379
+Baseline
+4,019
+Displaced Homemakers 57 20 7,711
+Total Participants 
+Served
+Total Participants 
+Exited
+Employment Rate 
+(Q2)2 
+(Cohort Period: 
+07/01/2018 - 
+06/30/2019)
+Employment Rate 
+(Q4)2 
+(Cohort Period: 
+01/01/2018 - 
+12/31/2018)
+Median 
+Earnings        
+(Cohort Period: 
+07/01/2018 - 
+06/30/2019)
+Credential  Rate3             
+(Cohort Period: 
+01/01/2018 - 
+12/31/2018)
+Measurable Skill 
+Gains3
+(Cohort Period: 
+07/01/2019 - 
+06/30/2020)
+Earnings
+Revised 2.17.2016 2

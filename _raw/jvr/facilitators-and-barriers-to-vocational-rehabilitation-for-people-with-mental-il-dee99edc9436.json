@@ -1,0 +1,1817 @@
+{
+  "source_type": "jvr_pdf_candidate",
+  "doi": "10.1177/10522263261430693",
+  "doi_url": "https://doi.org/10.1177/10522263261430693",
+  "source_url": "https://journals.sagepub.com/doi/10.1177/10522263261430693",
+  "attempted_pdf_urls": [
+    "https://journals.sagepub.com/doi/pdf/10.1177/10522263261430693",
+    "https://journals.sagepub.com/doi/10.1177/10522263261430693",
+    "https://doi.org/10.1177/10522263261430693",
+    "https://content.iospress.com/download?id=10.1177/10522263261430693"
+  ],
+  "selected_pdf_url": "",
+  "selected_final_url": "",
+  "download_status": "unavailable",
+  "match": {
+    "veteran_hits": [
+      "va "
+    ],
+    "pathway_hits": [
+      "employment",
+      "employed",
+      "work",
+      "employment outcome",
+      "employment outcomes",
+      "vocational rehabilitation"
+    ],
+    "disability_hits": [
+      "disability"
+    ]
+  },
+  "openalex": {
+    "id": "https://openalex.org/W7134894557",
+    "doi": "https://doi.org/10.1177/10522263261430693",
+    "title": "Facilitators and Barriers to Vocational Rehabilitation for People with Mental Illness: A Qualitative Study of Perspectives from Mental Health Service Providers and Consumers",
+    "display_name": "Facilitators and Barriers to Vocational Rehabilitation for People with Mental Illness: A Qualitative Study of Perspectives from Mental Health Service Providers and Consumers",
+    "publication_year": 2026,
+    "publication_date": "2026-03-08",
+    "ids": {
+      "openalex": "https://openalex.org/W7134894557",
+      "doi": "https://doi.org/10.1177/10522263261430693"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/10522263261430693",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1177/10522263261430693",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S190353498",
+        "display_name": "Journal of Vocational Rehabilitation",
+        "issn_l": "1052-2263",
+        "issn": [
+          "1052-2263",
+          "1878-6316"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310318577",
+        "host_organization_name": "IOS Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310318577"
+        ],
+        "host_organization_lineage_names": [
+          "IOS Press"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Vocational Rehabilitation",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://doi.org/10.1177/10522263261430693",
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5112770307",
+          "display_name": "Sneha Murali",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I164861460",
+            "display_name": "Manipal Academy of Higher Education",
+            "ror": "https://ror.org/02xzytt36",
+            "country_code": "IN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I164861460"
+            ]
+          }
+        ],
+        "countries": [
+          "IN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Sneha Murali",
+        "raw_affiliation_strings": [
+          "Manipal Academy of Higher Education, Manipal"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Manipal Academy of Higher Education, Manipal",
+            "institution_ids": [
+              "https://openalex.org/I164861460"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5091182734",
+          "display_name": "Praveen Arahanthabailu",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I164861460",
+            "display_name": "Manipal Academy of Higher Education",
+            "ror": "https://ror.org/02xzytt36",
+            "country_code": "IN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I164861460"
+            ]
+          }
+        ],
+        "countries": [
+          "IN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Praveen Arahanthabailu",
+        "raw_affiliation_strings": [
+          "Manipal Academy of Higher Education, Manipal"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Manipal Academy of Higher Education, Manipal",
+            "institution_ids": [
+              "https://openalex.org/I164861460"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5045176841",
+          "display_name": "Rajeshkrishna Panambur Bhandary",
+          "orcid": "https://orcid.org/0000-0003-3540-8199"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I164861460",
+            "display_name": "Manipal Academy of Higher Education",
+            "ror": "https://ror.org/02xzytt36",
+            "country_code": "IN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I164861460"
+            ]
+          }
+        ],
+        "countries": [
+          "IN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Rajeshkrishna P Bhandary",
+        "raw_affiliation_strings": [
+          "Manipal Academy of Higher Education, Manipal"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Manipal Academy of Higher Education, Manipal",
+            "institution_ids": [
+              "https://openalex.org/I164861460"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5079217467",
+          "display_name": "Renjulal Yesodharan",
+          "orcid": "https://orcid.org/0000-0002-7207-1129"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I164861460",
+            "display_name": "Manipal Academy of Higher Education",
+            "ror": "https://ror.org/02xzytt36",
+            "country_code": "IN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I164861460"
+            ]
+          }
+        ],
+        "countries": [
+          "IN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Renjulal Yesodharan",
+        "raw_affiliation_strings": [
+          "Manipal Academy of Higher Education, Manipal"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Manipal Academy of Higher Education, Manipal",
+            "institution_ids": [
+              "https://openalex.org/I164861460"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5123969595",
+          "display_name": "Podila Satya Venkata Narasimha Sharma",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I164861460",
+            "display_name": "Manipal Academy of Higher Education",
+            "ror": "https://ror.org/02xzytt36",
+            "country_code": "IN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I164861460"
+            ]
+          }
+        ],
+        "countries": [
+          "IN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Podila Satya Venkata Narasimha Sharma",
+        "raw_affiliation_strings": [
+          "Manipal Academy of Higher Education, Manipal"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Manipal Academy of Higher Education, Manipal",
+            "institution_ids": [
+              "https://openalex.org/I164861460"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 5,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5091182734"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I164861460"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.90576083,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": null,
+      "issue": null,
+      "first_page": null,
+      "last_page": null
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T10023",
+      "display_name": "Schizophrenia research and treatment",
+      "score": 0.8452000021934509,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2738",
+        "display_name": "Psychiatry and Mental health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T10023",
+        "display_name": "Schizophrenia research and treatment",
+        "score": 0.8452000021934509,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2738",
+          "display_name": "Psychiatry and Mental health"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11759",
+        "display_name": "Occupational Therapy Practice and Research",
+        "score": 0.0763000026345253,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3609",
+          "display_name": "Occupational Therapy"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/36",
+          "display_name": "Health Professions"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10272",
+        "display_name": "Mental Health Treatment and Access",
+        "score": 0.016599999740719795,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3207",
+          "display_name": "Social Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/psychosocial",
+        "display_name": "Psychosocial",
+        "score": 0.7283999919891357
+      },
+      {
+        "id": "https://openalex.org/keywords/qualitative-research",
+        "display_name": "Qualitative research",
+        "score": 0.6891000270843506
+      },
+      {
+        "id": "https://openalex.org/keywords/thematic-analysis",
+        "display_name": "Thematic analysis",
+        "score": 0.6769999861717224
+      },
+      {
+        "id": "https://openalex.org/keywords/rehabilitation",
+        "display_name": "Rehabilitation",
+        "score": 0.6366999745368958
+      },
+      {
+        "id": "https://openalex.org/keywords/mental-health",
+        "display_name": "Mental health",
+        "score": 0.633400022983551
+      },
+      {
+        "id": "https://openalex.org/keywords/mental-illness",
+        "display_name": "Mental illness",
+        "score": 0.6104000210762024
+      },
+      {
+        "id": "https://openalex.org/keywords/vocational-education",
+        "display_name": "Vocational education",
+        "score": 0.6017000079154968
+      },
+      {
+        "id": "https://openalex.org/keywords/focus-group",
+        "display_name": "Focus group",
+        "score": 0.5370000004768372
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C150966472",
+        "wikidata": "https://www.wikidata.org/wiki/Q3410145",
+        "display_name": "Psychosocial",
+        "level": 2,
+        "score": 0.7283999919891357
+      },
+      {
+        "id": "https://openalex.org/C190248442",
+        "wikidata": "https://www.wikidata.org/wiki/Q839486",
+        "display_name": "Qualitative research",
+        "level": 2,
+        "score": 0.6891000270843506
+      },
+      {
+        "id": "https://openalex.org/C74196892",
+        "wikidata": "https://www.wikidata.org/wiki/Q7781188",
+        "display_name": "Thematic analysis",
+        "level": 3,
+        "score": 0.6769999861717224
+      },
+      {
+        "id": "https://openalex.org/C2778818304",
+        "wikidata": "https://www.wikidata.org/wiki/Q1819478",
+        "display_name": "Rehabilitation",
+        "level": 2,
+        "score": 0.6366999745368958
+      },
+      {
+        "id": "https://openalex.org/C134362201",
+        "wikidata": "https://www.wikidata.org/wiki/Q317309",
+        "display_name": "Mental health",
+        "level": 2,
+        "score": 0.633400022983551
+      },
+      {
+        "id": "https://openalex.org/C2776674806",
+        "wikidata": "https://www.wikidata.org/wiki/Q12135",
+        "display_name": "Mental illness",
+        "level": 3,
+        "score": 0.6104000210762024
+      },
+      {
+        "id": "https://openalex.org/C668760",
+        "wikidata": "https://www.wikidata.org/wiki/Q6869278",
+        "display_name": "Vocational education",
+        "level": 2,
+        "score": 0.6017000079154968
+      },
+      {
+        "id": "https://openalex.org/C56995899",
+        "wikidata": "https://www.wikidata.org/wiki/Q1126687",
+        "display_name": "Focus group",
+        "level": 2,
+        "score": 0.5370000004768372
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.5110999941825867
+      },
+      {
+        "id": "https://openalex.org/C159110408",
+        "wikidata": "https://www.wikidata.org/wiki/Q121176",
+        "display_name": "Nursing",
+        "level": 1,
+        "score": 0.4993000030517578
+      },
+      {
+        "id": "https://openalex.org/C116537",
+        "wikidata": "https://www.wikidata.org/wiki/Q2169973",
+        "display_name": "Service provider",
+        "level": 3,
+        "score": 0.4438000023365021
+      },
+      {
+        "id": "https://openalex.org/C2775882741",
+        "wikidata": "https://www.wikidata.org/wiki/Q6130303",
+        "display_name": "Vocational rehabilitation",
+        "level": 3,
+        "score": 0.40849998593330383
+      },
+      {
+        "id": "https://openalex.org/C2778137410",
+        "wikidata": "https://www.wikidata.org/wiki/Q2732820",
+        "display_name": "Government (linguistics)",
+        "level": 2,
+        "score": 0.38449999690055847
+      },
+      {
+        "id": "https://openalex.org/C2778965245",
+        "wikidata": "https://www.wikidata.org/wiki/Q2499074",
+        "display_name": "Supported employment",
+        "level": 3,
+        "score": 0.37459999322891235
+      },
+      {
+        "id": "https://openalex.org/C2780378061",
+        "wikidata": "https://www.wikidata.org/wiki/Q25351891",
+        "display_name": "Service (business)",
+        "level": 2,
+        "score": 0.34549999237060547
+      },
+      {
+        "id": "https://openalex.org/C18762648",
+        "wikidata": "https://www.wikidata.org/wiki/Q42213",
+        "display_name": "Work (physics)",
+        "level": 2,
+        "score": 0.3416999876499176
+      },
+      {
+        "id": "https://openalex.org/C27415008",
+        "wikidata": "https://www.wikidata.org/wiki/Q7256382",
+        "display_name": "Psychological intervention",
+        "level": 2,
+        "score": 0.3328000009059906
+      },
+      {
+        "id": "https://openalex.org/C75630572",
+        "wikidata": "https://www.wikidata.org/wiki/Q538904",
+        "display_name": "Applied psychology",
+        "level": 1,
+        "score": 0.3197000026702881
+      },
+      {
+        "id": "https://openalex.org/C509550671",
+        "wikidata": "https://www.wikidata.org/wiki/Q126945",
+        "display_name": "Medical education",
+        "level": 1,
+        "score": 0.2969000041484833
+      },
+      {
+        "id": "https://openalex.org/C2781460075",
+        "wikidata": "https://www.wikidata.org/wiki/Q1399332",
+        "display_name": "Compliance (psychology)",
+        "level": 2,
+        "score": 0.296099990606308
+      },
+      {
+        "id": "https://openalex.org/C71924100",
+        "wikidata": "https://www.wikidata.org/wiki/Q11190",
+        "display_name": "Medicine",
+        "level": 0,
+        "score": 0.27799999713897705
+      },
+      {
+        "id": "https://openalex.org/C87156501",
+        "wikidata": "https://www.wikidata.org/wiki/Q7268708",
+        "display_name": "Qualitative property",
+        "level": 2,
+        "score": 0.25679999589920044
+      },
+      {
+        "id": "https://openalex.org/C2910218225",
+        "wikidata": "https://www.wikidata.org/wiki/Q2918910",
+        "display_name": "Psychiatric rehabilitation",
+        "level": 4,
+        "score": 0.25619998574256897
+      },
+      {
+        "id": "https://openalex.org/C118552586",
+        "wikidata": "https://www.wikidata.org/wiki/Q7867",
+        "display_name": "Psychiatry",
+        "level": 1,
+        "score": 0.25029999017715454
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1177/10522263261430693",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1177/10522263261430693",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S190353498",
+          "display_name": "Journal of Vocational Rehabilitation",
+          "issn_l": "1052-2263",
+          "issn": [
+            "1052-2263",
+            "1878-6316"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310318577",
+          "host_organization_name": "IOS Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310318577"
+          ],
+          "host_organization_lineage_names": [
+            "IOS Press"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Vocational Rehabilitation",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.1177/10522263261430693",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1177/10522263261430693",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S190353498",
+        "display_name": "Journal of Vocational Rehabilitation",
+        "issn_l": "1052-2263",
+        "issn": [
+          "1052-2263",
+          "1878-6316"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310318577",
+        "host_organization_name": "IOS Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310318577"
+        ],
+        "host_organization_lineage_names": [
+          "IOS Press"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Vocational Rehabilitation",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [
+      {
+        "score": 0.5475192666053772,
+        "id": "https://metadata.un.org/sdg/8",
+        "display_name": "Decent work and economic growth"
+      }
+    ],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "content_urls": null,
+    "referenced_works_count": 58,
+    "referenced_works": [
+      "https://openalex.org/W79229537",
+      "https://openalex.org/W334933903",
+      "https://openalex.org/W895894219",
+      "https://openalex.org/W1453226364",
+      "https://openalex.org/W1480955117",
+      "https://openalex.org/W1762422602",
+      "https://openalex.org/W1978992583",
+      "https://openalex.org/W1979290264",
+      "https://openalex.org/W2020730049",
+      "https://openalex.org/W2033388673",
+      "https://openalex.org/W2051156942",
+      "https://openalex.org/W2079325813",
+      "https://openalex.org/W2089395465",
+      "https://openalex.org/W2125630725",
+      "https://openalex.org/W2153927896",
+      "https://openalex.org/W2166695801",
+      "https://openalex.org/W2232813484",
+      "https://openalex.org/W2338814622",
+      "https://openalex.org/W2339963065",
+      "https://openalex.org/W2434908686",
+      "https://openalex.org/W2574258551",
+      "https://openalex.org/W2582649181",
+      "https://openalex.org/W2807366652",
+      "https://openalex.org/W2883224865",
+      "https://openalex.org/W2905145148",
+      "https://openalex.org/W2915389400",
+      "https://openalex.org/W2928161771",
+      "https://openalex.org/W2967587706",
+      "https://openalex.org/W2971457280",
+      "https://openalex.org/W2984430788",
+      "https://openalex.org/W2991809092",
+      "https://openalex.org/W3012729386",
+      "https://openalex.org/W3029941680",
+      "https://openalex.org/W3038580083",
+      "https://openalex.org/W3048931709",
+      "https://openalex.org/W3080599145",
+      "https://openalex.org/W3089060801",
+      "https://openalex.org/W3116408538",
+      "https://openalex.org/W3120630954",
+      "https://openalex.org/W3131477171",
+      "https://openalex.org/W3135095608",
+      "https://openalex.org/W3150119845",
+      "https://openalex.org/W3159483600",
+      "https://openalex.org/W3171791458",
+      "https://openalex.org/W3213312694",
+      "https://openalex.org/W4200570105",
+      "https://openalex.org/W4214767940",
+      "https://openalex.org/W4246855025",
+      "https://openalex.org/W4286210837",
+      "https://openalex.org/W4292283973",
+      "https://openalex.org/W4382631625",
+      "https://openalex.org/W4385702789",
+      "https://openalex.org/W4391722844",
+      "https://openalex.org/W4401226744",
+      "https://openalex.org/W4405282195",
+      "https://openalex.org/W4405648941",
+      "https://openalex.org/W4407983638",
+      "https://openalex.org/W4408873664"
+    ],
+    "related_works": [],
+    "abstract_inverted_index": {
+      "Background": [
+        0
+      ],
+      "Severe": [
+        1
+      ],
+      "and": [
+        2,
+        17,
+        41,
+        47,
+        71,
+        85,
+        121,
+        142,
+        148,
+        158,
+        168,
+        177
+      ],
+      "persistent": [
+        3
+      ],
+      "mental": [
+        4,
+        37,
+        55,
+        81,
+        191
+      ],
+      "illnesses": [
+        5
+      ],
+      "often": [
+        6
+      ],
+      "lead": [
+        7
+      ],
+      "to": [
+        8,
+        28,
+        49,
+        184
+      ],
+      "long-term": [
+        9
+      ],
+      "psychosocial": [
+        10
+      ],
+      "disability,": [
+        11
+      ],
+      "affecting": [
+        12
+      ],
+      "work": [
+        13
+      ],
+      "participation,": [
+        14
+      ],
+      "recreation,": [
+        15
+      ],
+      "relationships,": [
+        16
+      ],
+      "community": [
+        18
+      ],
+      "integration.": [
+        19
+      ],
+      "Vocational": [
+        20
+      ],
+      "rehabilitation": [
+        21,
+        51,
+        92,
+        114,
+        172
+      ],
+      "is": [
+        22
+      ],
+      "recognized": [
+        23
+      ],
+      "as": [
+        24,
+        119,
+        134,
+        152
+      ],
+      "a": [
+        25
+      ],
+      "key": [
+        26
+      ],
+      "pathway": [
+        27
+      ],
+      "recovery.": [
+        29
+      ],
+      "Objective": [
+        30
+      ],
+      "This": [
+        31
+      ],
+      "study": [
+        32
+      ],
+      "explored": [
+        33
+      ],
+      "the": [
+        34,
+        126
+      ],
+      "perspectives": [
+        35
+      ],
+      "of": [
+        36,
+        46,
+        128
+      ],
+      "health": [
+        38
+      ],
+      "service": [
+        39,
+        42
+      ],
+      "providers": [
+        40
+      ],
+      "receivers": [
+        43
+      ],
+      "on": [
+        44
+      ],
+      "facilitators": [
+        45,
+        120
+      ],
+      "barriers": [
+        48
+      ],
+      "vocational": [
+        50,
+        113,
+        146,
+        171
+      ],
+      "for": [
+        52,
+        188
+      ],
+      "people": [
+        53,
+        79,
+        189
+      ],
+      "with": [
+        54,
+        78,
+        80,
+        91,
+        136,
+        190
+      ],
+      "illness": [
+        56,
+        192
+      ],
+      "in": [
+        57,
+        193
+      ],
+      "coastal": [
+        58
+      ],
+      "Karnataka,": [
+        59
+      ],
+      "India,": [
+        60
+      ],
+      "through": [
+        61,
+        75
+      ],
+      "thematic": [
+        62
+      ],
+      "analysis.": [
+        63
+      ],
+      "Methods": [
+        64
+      ],
+      "A": [
+        65,
+        87
+      ],
+      "descriptive": [
+        66
+      ],
+      "qualitative": [
+        67,
+        105
+      ],
+      "design": [
+        68
+      ],
+      "was": [
+        69,
+        94
+      ],
+      "employed,": [
+        70
+      ],
+      "data": [
+        72
+      ],
+      "were": [
+        73,
+        100
+      ],
+      "collected": [
+        74
+      ],
+      "in-depth": [
+        76
+      ],
+      "interviews": [
+        77
+      ],
+      "illness,": [
+        82
+      ],
+      "their": [
+        83
+      ],
+      "caregivers,": [
+        84
+      ],
+      "employers.": [
+        86
+      ],
+      "focus": [
+        88
+      ],
+      "group": [
+        89
+      ],
+      "discussion": [
+        90
+      ],
+      "professionals": [
+        93
+      ],
+      "also": [
+        95
+      ],
+      "conducted.": [
+        96
+      ],
+      "The": [
+        97,
+        123
+      ],
+      "transcribed": [
+        98
+      ],
+      "verbatims": [
+        99
+      ],
+      "thematically": [
+        101
+      ],
+      "analyzed": [
+        102
+      ],
+      "by": [
+        103
+      ],
+      "trained": [
+        104
+      ],
+      "researchers.": [
+        106
+      ],
+      "Results": [
+        107
+      ],
+      "Twenty-one": [
+        108
+      ],
+      "participants": [
+        109
+      ],
+      "provided": [
+        110
+      ],
+      "insights": [
+        111
+      ],
+      "into": [
+        112
+      ],
+      "experiences.": [
+        115
+      ],
+      "Various": [
+        116
+      ],
+      "themes": [
+        117
+      ],
+      "emerged": [
+        118
+      ],
+      "barriers.": [
+        122,
+        164
+      ],
+      "findings": [
+        124
+      ],
+      "highlight": [
+        125
+      ],
+      "role": [
+        127
+      ],
+      "supportive": [
+        129
+      ],
+      "networks;": [
+        130
+      ],
+      "clinical": [
+        131,
+        149
+      ],
+      "stability,": [
+        132
+      ],
+      "such": [
+        133,
+        151
+      ],
+      "compliance": [
+        135
+      ],
+      "medication,": [
+        137
+      ],
+      "workplace": [
+        138
+      ],
+      "accommodations,": [
+        139
+      ],
+      "individual": [
+        140
+      ],
+      "motivation,": [
+        141
+      ],
+      "acquired": [
+        143
+      ],
+      "skills": [
+        144
+      ],
+      "enabling": [
+        145
+      ],
+      "rehabilitation;": [
+        147
+      ],
+      "vulnerabilities,": [
+        150
+      ],
+      "cognitive": [
+        153
+      ],
+      "deficits,": [
+        154
+      ],
+      "stigma,": [
+        155
+      ],
+      "systemic": [
+        156
+      ],
+      "gaps,": [
+        157
+      ],
+      "high": [
+        159
+      ],
+      "expectations,": [
+        160
+      ],
+      "which": [
+        161
+      ],
+      "remain": [
+        162
+      ],
+      "significant": [
+        163
+      ],
+      "Conclusion": [
+        165
+      ],
+      "Strengthening": [
+        166
+      ],
+      "community-based": [
+        167
+      ],
+      "culturally": [
+        169
+      ],
+      "tailored": [
+        170
+      ],
+      "models,": [
+        173
+      ],
+      "enhancing": [
+        174
+      ],
+      "employer": [
+        175
+      ],
+      "sensitization,": [
+        176
+      ],
+      "expanding": [
+        178
+      ],
+      "government": [
+        179
+      ],
+      "support": [
+        180
+      ],
+      "systems": [
+        181
+      ],
+      "are": [
+        182
+      ],
+      "critical": [
+        183
+      ],
+      "improving": [
+        185
+      ],
+      "employment": [
+        186
+      ],
+      "outcomes": [
+        187
+      ],
+      "India.": [
+        194
+      ]
+    },
+    "counts_by_year": [],
+    "updated_date": "2026-03-13T14:20:09.374765",
+    "created_date": "2026-03-12T00:00:00"
+  },
+  "crossref": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          12
+        ]
+      ],
+      "date-time": "2026-03-12T01:16:10Z",
+      "timestamp": 1773278170857,
+      "version": "3.50.1"
+    },
+    "reference-count": 65,
+    "publisher": "SAGE Publications",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              8
+            ]
+          ],
+          "date-time": "2026-03-08T00:00:00Z",
+          "timestamp": 1772928000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              8
+            ]
+          ],
+          "date-time": "2026-03-08T00:00:00Z",
+          "timestamp": 1772928000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.sagepub.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Journal of Vocational Rehabilitation"
+    ],
+    "abstract": "<jats:sec>\n                    <jats:title>Background</jats:title>\n                    <jats:p>Severe and persistent mental illnesses often lead to long-term psychosocial disability, affecting work participation, recreation, relationships, and community integration. Vocational rehabilitation is recognized as a key pathway to recovery.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Objective</jats:title>\n                    <jats:p>This study explored the perspectives of mental health service providers and service receivers on facilitators of and barriers to vocational rehabilitation for people with mental illness in coastal Karnataka, India, through thematic analysis.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Methods</jats:title>\n                    <jats:p>A descriptive qualitative design was employed, and data were collected through in-depth interviews with people with mental illness, their caregivers, and employers. A focus group discussion with rehabilitation professionals was also conducted. The transcribed verbatims were thematically analyzed by trained qualitative researchers.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>Twenty-one participants provided insights into vocational rehabilitation experiences. Various themes emerged as facilitators and barriers. The findings highlight the role of supportive networks; clinical stability, such as compliance with medication, workplace accommodations, individual motivation, and acquired skills enabling vocational rehabilitation; and clinical vulnerabilities, such as cognitive deficits, stigma, systemic gaps, and high expectations, which remain significant barriers.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusion</jats:title>\n                    <jats:p>Strengthening community-based and culturally tailored vocational rehabilitation models, enhancing employer sensitization, and expanding government support systems are critical to improving employment outcomes for people with mental illness in India.</jats:p>\n                  </jats:sec>",
+    "DOI": "10.1177/10522263261430693",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          11
+        ]
+      ],
+      "date-time": "2026-03-11T10:49:44Z",
+      "timestamp": 1773226184000
+    },
+    "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Facilitators and Barriers to Vocational Rehabilitation for People with Mental Illness: A Qualitative Study of Perspectives from Mental Health Service Providers and Consumers"
+    ],
+    "prefix": "10.1177",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0005-1018-2711",
+        "authenticated-orcid": false,
+        "given": "Sneha",
+        "family": "Murali",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Manipal Academy of Higher Education, Manipal"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5639-9933",
+        "authenticated-orcid": false,
+        "given": "Praveen",
+        "family": "Arahanthabailu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Manipal Academy of Higher Education, Manipal"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3540-8199",
+        "authenticated-orcid": false,
+        "given": "Rajeshkrishna P",
+        "family": "Bhandary",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Manipal Academy of Higher Education, Manipal"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7207-1129",
+        "authenticated-orcid": false,
+        "given": "Renjulal",
+        "family": "Yesodharan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Manipal Academy of Higher Education, Manipal"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8409-4785",
+        "authenticated-orcid": false,
+        "given": "Podila Satya Venkata",
+        "family": "Narasimha Sharma",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Manipal Academy of Higher Education, Manipal"
+          }
+        ]
+      }
+    ],
+    "member": "179",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          8
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_3_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.57239/PJLSS-2024-22.1.00479"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_3_3_3_1",
+        "first-page": "43",
+        "article-title": "Exploring the perceptions of individuals with intellectual disabilities on the Sa3ee rehabilitation and employment initiative in Saudi Arabia",
+        "volume": "22",
+        "author": "Almalki F.",
+        "year": "2022",
+        "unstructured": "Almalki F., Bagadood N., Sulaimani M. (2022). Exploring the perceptions of individuals with intellectual disabilities on the Sa3ee rehabilitation and employment initiative in Saudi Arabia. Eurasian Journal of Educational Research, 22(1), 43–58. https://doi.org/10.14689/ejer.2022.97.03",
+        "journal-title": "Eurasian Journal of Educational Research"
+      },
+      {
+        "key": "e_1_3_3_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s40737-022-00291-7"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_3_3_5_1",
+        "first-page": "70",
+        "article-title": "Taking the first step towards entrenching mental health in the workplace: Insights from a pilot study among HR personnel in Nigeria",
+        "volume": "23",
+        "author": "Atilola O.",
+        "year": "2014",
+        "unstructured": "Atilola O., Akinyemi O., Atilola B. (2014). Taking the first step towards entrenching mental health in the workplace: Insights from a pilot study among HR personnel in Nigeria. Nigerian Journal of Medicine : Journal of the National Association of Resident Doctors of Nigeria, 23(1), 70–76.",
+        "journal-title": "Nigerian Journal of Medicine : Journal of the National Association of Resident Doctors of Nigeria"
+      },
+      {
+        "key": "e_1_3_3_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1108/MHRJ-12-2020-0088"
+      },
+      {
+        "key": "e_1_3_3_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-130632"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_3_3_8_1",
+        "first-page": "162",
+        "article-title": "Work experiences of people with mental illness in Malaysia: A preliminary qualitative study",
+        "volume": "16",
+        "author": "Boo S.-L.",
+        "year": "2014",
+        "unstructured": "Boo S.-L., Loong J., Ng W.-S. (2014). Work experiences of people with mental illness in Malaysia: A preliminary qualitative study. The Qualitative Report, 16(1), 162–179. https://doi.org/10.46743/2160-3715/2011.1044",
+        "journal-title": "The Qualitative Report"
+      },
+      {
+        "key": "e_1_3_3_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09687590701725757"
+      },
+      {
+        "key": "e_1_3_3_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1191/1478088706qp063oa"
+      },
+      {
+        "key": "e_1_3_3_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10926-019-09848-z"
+      },
+      {
+        "key": "e_1_3_3_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12888-021-03277-0"
+      },
+      {
+        "issue": "4",
+        "key": "e_1_3_3_13_1",
+        "first-page": "992",
+        "article-title": "Perspectives of mental health service users on vocational rehabilitation in Namibia",
+        "volume": "14",
+        "author": "Chimara M.",
+        "year": "2025",
+        "unstructured": "Chimara M., Van Biljon H. M., Adams F., Van Niekerk L. (2025). Perspectives of mental health service users on vocational rehabilitation in Namibia. African Journal of Disability, 14(4), 992–1000. https://doi.org/10.1080/09638288.2024.2362944",
+        "journal-title": "African Journal of Disability"
+      },
+      {
+        "key": "e_1_3_3_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/hex.70122"
+      },
+      {
+        "key": "e_1_3_3_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10926-011-9315-3"
+      },
+      {
+        "key": "e_1_3_3_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jflm.2020.102020"
+      },
+      {
+        "issue": "2",
+        "key": "e_1_3_3_17_1",
+        "article-title": "Vocational rehabilitation for people with severe mental illness",
+        "volume": "2001",
+        "author": "Crowther R.",
+        "year": "2001",
+        "unstructured": "Crowther R., Marshall M., Bond G., Huxley P. (2001). Vocational rehabilitation for people with severe mental illness. The Cochrane Database of Systematic Reviews, 2001(2), CD003080. https://doi.org/10.1002/14651858.CD003080",
+        "journal-title": "The Cochrane Database of Systematic Reviews"
+      },
+      {
+        "key": "e_1_3_3_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpsyt.2018.00707"
+      },
+      {
+        "key": "e_1_3_3_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/acprof:oso/9780199734016.001.0001"
+      },
+      {
+        "key": "e_1_3_3_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4103/IJPSYM.IJPSYM_71_19"
+      },
+      {
+        "key": "e_1_3_3_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.30773/pi.2019.0087"
+      },
+      {
+        "key": "e_1_3_3_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12888-016-1183-0"
+      },
+      {
+        "key": "e_1_3_3_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11126-021-09931-w"
+      },
+      {
+        "key": "e_1_3_3_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11606-015-3450-z"
+      },
+      {
+        "key": "e_1_3_3_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/ijerph21121698"
+      },
+      {
+        "key": "e_1_3_3_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0212208"
+      },
+      {
+        "key": "e_1_3_3_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-160839"
+      },
+      {
+        "key": "e_1_3_3_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpsyt.2025.1533227"
+      },
+      {
+        "key": "e_1_3_3_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10926-018-9787-5"
+      },
+      {
+        "key": "e_1_3_3_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1055/a-1112-5519"
+      },
+      {
+        "key": "e_1_3_3_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0020764020918278"
+      },
+      {
+        "key": "e_1_3_3_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.psychres.2020.113673"
+      },
+      {
+        "key": "e_1_3_3_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00127-009-0017-5"
+      },
+      {
+        "key": "e_1_3_3_34_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11136-011-0057-7"
+      },
+      {
+        "key": "e_1_3_3_35_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/0164212X.2014.939933"
+      },
+      {
+        "key": "e_1_3_3_36_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/00343552211060013"
+      },
+      {
+        "key": "e_1_3_3_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0147-1767(85)90062-8"
+      },
+      {
+        "key": "e_1_3_3_38_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/WOR-182752"
+      },
+      {
+        "key": "e_1_3_3_39_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/02537176221074730"
+      },
+      {
+        "key": "e_1_3_3_40_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0020764005057386"
+      },
+      {
+        "key": "e_1_3_3_41_1",
+        "article-title": "Employment Among Women with Severe Mental Illness Availing Rural Community-based Rehabilitation Program: A Qualitative Study from South India",
+        "volume": "025371762412639",
+        "author": "Meera J",
+        "year": "2024",
+        "unstructured": "Meera J, Sivakumar T., Chandra P. S., Kumar D., Shanivaram Reddy K. (2024). Employment Among Women with Severe Mental Illness Availing Rural Community-based Rehabilitation Program: A Qualitative Study from South India. Indian Journal of Psychological Medicine, 02537176241263907. https://doi.org/10.1177/02537176241263907",
+        "journal-title": "Indian Journal of Psychological Medicine"
+      },
+      {
+        "key": "e_1_3_3_42_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1192/bjp.bp.115.165092"
+      },
+      {
+        "key": "e_1_3_3_43_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12888-021-03577-5"
+      },
+      {
+        "issue": "0",
+        "key": "e_1_3_3_44_1",
+        "first-page": "1",
+        "article-title": "Barriers to and facilitators of employment of persons with disabilities in low- and middle-income countries: A scoping review",
+        "volume": "10",
+        "author": "Morwane R. E.",
+        "year": "2021",
+        "unstructured": "Morwane R. E., Dada S., Bornman J. (2021). Barriers to and facilitators of employment of persons with disabilities in low- and middle-income countries: A scoping review. African Journal of Disability, 10(0), 1–12. https://doi. org/10.4102/ajod.v10i0.833",
+        "journal-title": "African Journal of Disability"
+      },
+      {
+        "key": "e_1_3_3_45_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S204579602200035X"
+      },
+      {
+        "key": "e_1_3_3_46_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-150780"
+      },
+      {
+        "key": "e_1_3_3_47_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s13033-023-00620-8"
+      },
+      {
+        "key": "e_1_3_3_48_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/WOR-2012-1448"
+      },
+      {
+        "key": "e_1_3_3_49_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpubh.2025.1536753"
+      },
+      {
+        "key": "e_1_3_3_50_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ajp.2011.11.010"
+      },
+      {
+        "key": "e_1_3_3_51_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1176/ps.62.11.pss6211_1289"
+      },
+      {
+        "key": "e_1_3_3_52_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0253717620939771"
+      },
+      {
+        "key": "e_1_3_3_53_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4103/ijpvm.IJPVM_321_19"
+      },
+      {
+        "key": "e_1_3_3_54_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0253717620938244"
+      },
+      {
+        "key": "e_1_3_3_55_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s40737-023-00358-z"
+      },
+      {
+        "key": "e_1_3_3_56_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/WOR-193041"
+      },
+      {
+        "key": "e_1_3_3_57_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09638288.2020.1822932"
+      },
+      {
+        "key": "e_1_3_3_58_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0134695"
+      },
+      {
+        "key": "e_1_3_3_59_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/00207640231183920"
+      },
+      {
+        "key": "e_1_3_3_60_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ajp.2019.03.011"
+      },
+      {
+        "key": "e_1_3_3_61_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/prj0000195"
+      },
+      {
+        "key": "e_1_3_3_62_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3109/11038128.2015.1091895"
+      },
+      {
+        "key": "e_1_3_3_63_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/WOR-2012-1445"
+      },
+      {
+        "key": "e_1_3_3_64_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12888-021-03178-2"
+      },
+      {
+        "key": "e_1_3_3_65_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4103/0253-7176.175104"
+      },
+      {
+        "key": "e_1_3_3_66_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4081/jphr.2021.2263"
+      }
+    ],
+    "container-title": [
+      "Journal of Vocational Rehabilitation"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/10522263261430693",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/10522263261430693",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/10522263261430693",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          11
+        ]
+      ],
+      "date-time": "2026-03-11T10:49:46Z",
+      "timestamp": 1773226186000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/10.1177/10522263261430693"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          8
+        ]
+      ]
+    },
+    "references-count": 65,
+    "alternative-id": [
+      "10.1177/10522263261430693"
+    ],
+    "URL": "https://doi.org/10.1177/10522263261430693",
+    "relation": {},
+    "ISSN": [
+      "1052-2263",
+      "1878-6316"
+    ],
+    "issn-type": [
+      {
+        "value": "1052-2263",
+        "type": "print"
+      },
+      {
+        "value": "1878-6316",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          8
+        ]
+      ]
+    },
+    "article-number": "10522263261430693"
+  }
+}

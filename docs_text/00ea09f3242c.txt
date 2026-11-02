@@ -1,0 +1,203 @@
+FILENAME: eta-9169-20annualreport-py2019-20nh-pdf-ee136215fe15.pdf
+PATH: _raw/rsa.ed.gov/eta-9169-20annualreport-py2019-20nh-pdf-ee136215fe15.pdf
+
+WIOA STATEWIDE AND LOCAL PREFORMANCE REPORT 
+June 2020
+PROGRAM
+STATE:                                                                                                                               New Hampshire                    
+ 
+From(mm/dd/yyyy): 7/1/2019 To(mm/dd/yyyy): 6/30/2020  X
+
+SUMMARY INFORMATION
+Service
+BY PARTICIPANT CHARACTERISTICS
+Num Rate Num Rate Num Rate Num Rate
+Negotiated 
+Target Baseline Baseline Baseline Baseline
+Actual 635 61.7% 749 55.8% - - 309 34.
+9%
+306 63.5% 363 58.0% - - 105 32.
+2%
+328 60.1% 386 53.9% 0 0.0% 202 36.3%
+- - - - 0 0.
+0% 7 43.8%
+121 57.1% 115 53.7% 0 0.0% 214 37.1%
+156 71.6% 158 59.6% - - 52 25.
+6%
+165 64.0% 195 55.1% 0 0.0% 25 43.9%
+98 57.6% 124 57.1% - - 8 40.
+0%
+42 61.8% 69 57.0% 0 0.0% 0 0.0%
+52 52.5% 87 51.5% 0 0.0% - -
+8 50.
+0% 4 30.8% 0 0.0% - -
+6 66.
+7% 7 63.6% 0 0.0% 6 37.5%
+17 68.0% 13 48.1% 0 0.0% 12 35.3%
+12 46.2% 14 43.8% 0 0.0% 6 42.9%
+- - - - 0 0.
+0% 0 0.0%
+614 61.7% 731 55.8% - - 297 35.
+1%
+12 63.2% 8 36.4% 0 0.0% 8 42.1%
+OMB Control Number 1205-0526
+Expiration Date:  03-31-2021 ETA-9169
+Statewide Performance Report
+TITLE (select one):
+Title I Local Area: Title I Adult Title II Adult Education
+REPORTING PERIOD COVERED (Required for current and three preceding years.) Title I Dislocated Worker Title III Wagner-Peyser
+Title I Youth Title IV Vocational Rehabilitation
+Title I and Title III combined
+Participants Served
+(Cohort Period: 
+07/01/2019 - 06/30/2020) Participants Exited
+(Cohort Period: 07/01/2019 - 06/30/2020)
+Funds Expended
+(Cohort Period: 07/01/2019 - 
+06/30/2020)
+Cost Per Participant Served
+(Cohort Period: 07/01/2019 - 
+06/30/2020)
+Career Services 2,828 523 $3,529,967 $1,248
+Training Services 771 74 $1,241,971 $1,611
+Percent training-related employment1: Percent enrolled in more than one core program: Percent Admin Expended:
+N/A 4.0% N/A
+Total Participants 
+Served
+Total Participants 
+Exited
+Employment Rate 
+(Q2)2 
+(Cohort Period: 
+07/01/2018 - 
+06/30/2019)
+Employment Rate 
+(Q4)2 
+(Cohort Period: 
+01/01/2018 - 
+12/31/2018)
+Median 
+Earnings        
+(Cohort Period: 
+07/01/2018 - 
+06/30/2019)
+Credential Rate3             
+(Cohort Period: 
+01/01/2018 - 
+12/31/2018)
+Measurable Skill 
+Gains3
+(Cohort Period: 
+07/01/2019 - 
+06/30/2020)
+Earnings
+Total Statewide 3,041 652
+Baseline
+Sex
+Female 1,312 285 3,525
+Male 1,721 365 3,198
+3,304
+Age
+ < 16 17 - 8,140
+16 - 18 834 148 2,947
+19 - 24 640 140 2,750
+25 - 44 738 156 3,525
+45 - 54 408 113 5,177
+55 - 59 188 38 3,966
+60+ 216 55 3,532
+Ethnicity/Race
+American Indian / Alaska Native 30 6 3,313
+Asian 45 16 3,014
+Black / African American 95 12 2,346
+Hispanic / Latino 58 11 3,753
+Native Hawaiian / Pacific 
+Islander 9 - 6,870
+White 2,911 623 3,351
+More Than One Race 48 7 2,745
+Revised 2.17.2016 1
+
+WIOA STATEWIDE AND LOCAL PREFORMANCE REPORT 
+June 2020
+BY EMPLOYMENT BARRIER4
+Num Rate Num Rate Num Rate Num Rate
+Negotiated 
+Target Baseline Baseline Baseline Baseline
+Actual 635 61.7% 749 55.8% - - 309 34.
+9%
+- - - - 0 0.
+0% 0 0.0%
+96 62.3% 106 55.2% 0 0.0% 35 22.0%
+7 46.7% 6 33.3% 0 0.0% - -
+30 66.
+7% 25 50.0% 0 0.0% 8 44.4%
+5 50.0% 7 53.8% 0 0.0% - -
+200 53.
+3% 205 43.5% - - 94 31.
+3%
+289 55.9% 345 51.8% - - 82 32.
+7%
+0 0.0% 0 0.0% 0 0.0% 0 0.0%
+635 61.7% 749 55.8% - - 309 34.
+9%
+38 62.3% 57 62.6% 0 0.0% 6 31.6%
+20 50.0% 18 46.2% 0 0.0% 15 34.1%
+Total Participants 
+Served
+Total Participants 
+Exited
+Employment Rate 
+(Q2)2 
+(Cohort Period: 
+07/01/2018 - 
+06/30/2019)
+Employment Rate 
+(Q4)2 
+(Cohort Period: 
+01/01/2018 - 
+12/31/2018)
+Median 
+Earnings        
+(Cohort Period: 
+07/01/2018 - 
+06/30/2019)
+Credential  Rate3             
+(Cohort Period: 
+01/01/2018 - 
+12/31/2018)
+Measurable Skill 
+Gains3
+(Cohort Period: 
+07/01/2019 - 
+06/30/2020)
+Earnings
+Total Statewide 3,041 652
+Baseline
+3,304
+Displaced Homemakers 20 4 1,692
+English Language Learners, Low Levels of 
+Literacy, Cultural Barriers 467 109 1,976
+Exhausting TANF within 2 years (Part A Title 
+IV of the Social Security Act) 39 6 2,853
+Ex-offenders 155 36 4,210
+Homeless Individuals / runaway youth 45 9 2,035
+Long-term Unemployed (27 
+or more consecutive weeks) 1,174 255 2,516
+Low-Income Individuals 1,401 312 2,529
+Migrant and Seasonal Farmworkers 4 0 0
+Individuals with Disabilities (incl. youth) 3,041 652 3,304
+Single Parents (Incl. single pregnant 
+women) 176 34 4,041
+Public Burden Statement (1205-0526) 
+Persons are not required to respond to this collection of information unless it displays a currently valid OMB control number. Respondent’s reply to these reporting requirements is required to obtain 
+or retain benefits (Workforce Innovation and Opportunity Act, Section 185(a)(2)). Public reporting burden for this collection of information is estimated to range between 240 and 360 minutes which 
+averages 300 minutes per response, including the time for reviewing instructions, searching existing data sources, gathering and maintaining the data needed, and completing and reviewing the 
+collection of information. Send comments regarding this burden estimate to the Office of Policy Development and Research ● U.S. Department of Labor ● Room N-5641 ● 200 Constitution Ave., NW, ● 
+Washington, DC ● 20210. Do NOT send the completed 9169 application to this address.
+Youth in foster care or aged out of system 94 22 2,891
+1Applies to Title I only.
+2This indicator also includes those who entered into a training or education program for the Youth program.   
+3Credential Rate and Measurable Skill Gains do not apply to the Wagner-Peyser program.
+4Barriers to Employment are determined at the point of entry into the program. 
+Numbers entered into cells in this template are the same as the corresponding "report item number" on the report specification document.  Clicking on each hyperlink will take the user to the plain 
+text language and technical specifications of each report item.
+Revised 2.17.2016 2

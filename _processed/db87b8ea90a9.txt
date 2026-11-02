@@ -1,0 +1,17 @@
+TITLE: View Data | Rehabilitation Services Administration
+URL: https://rsa.ed.gov/data/view-data
+
+As required by The Foundations for Evidence-Based Policymaking Act of 2018 Open Data Plan, RSA is committed to making the data it collects from grantees "open by default" and available to the public. RSA acknowledges that Open Data supports the performance and fiscal accountability of the programs it administers. We also know that data-driven decisions lead to better outcomes for individuals with disabilities who are served by these programs.
+RSA collects data through several information collections in accordance with the Paperwork Reduction Act and as approved by the Office of Management and Budget (OMB). Several of these information collections are listed in the table below. Beginning with Federal Fiscal Year 2016, RSA has published reports submitted by grantees across a variety of programs. The publishing process is incremental and not all reports are available at once. To view published reports, select the hyperlink in the column labeled Form #.
+This table of reports is not exhaustive considering some reports are published elsewhere in different formats, such as WIOA Annual Reports; WIOA Unified and Combined State Plans; Vocational Rehabilitation (VR) Program Monitoring Reports; Randolph-Sheppard Arbitration Panel Decisions; and Annual Reports to Congress. To request data collected through the Case Service Report (RSA-911) related to the State VR Services and State Supported Employment Services programs, please email RSAData@ed.gov.
+| Form # | Form Name | OMB Control # | RSA Contact |
+|---|---|---|---|
+| RSA-2 | Annual Vocational Rehabilitation Program/Cost Report | 1820-0017 | RSAFiscal@ed.gov |
+| RSA-7-OB | Independent Living Services for Older Individuals who are Blind | 1820-0608 | Nicole.Jeffords@ed.gov |
+| RSA-15 | Randolph Sheppard | 1820-0009 | Jesse.Hartle@ed.gov |
+| RSA-17 | Vocational Rehabilitation Financial Report | 1820-0017 | RSAFiscal@ed.gov |
+| RSA-227 | Annual Client Assistance Program (CAP) Report | 1820-0528 | April.Trice@ed.gov |
+| RSA-509 | Protection & Advocacy of Individual Rights (PAIR) | 1820-0627 | Samuel.Pierre@ed.gov |
+| RSA-692 | Grant Reallotment | 1820-0692 | RSAFiscal@ed.gov |
+| RSA-722 | Resolution of Applicant/Client Appeals | 1820-0563 | Caneshia.McAllister@ed.gov |
+| SF-425 | Federal Financial Report | 0348-0061 | RSAFiscal@ed.gov |

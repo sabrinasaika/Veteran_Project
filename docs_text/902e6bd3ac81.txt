@@ -1,0 +1,3296 @@
+FILENAME: vr-needs-assessment-guide-appendices-pdf-e88f0f66c4fa.pdf
+PATH: _raw/rsa.ed.gov/vr-needs-assessment-guide-appendices-pdf-e88f0f66c4fa.pdf
+
+Developing a Model Comprehensive Statewide 
+Needs Assessment With Corresponding Training 
+Materials For State VR Agency Staff and SRC 
+Members:  
+The VR Needs Assessment Guide 
+Volume II - Appendices 
+Su
+bmitted to: 
+Rehabilitation Services Administration 
+Janette Shell, COR 
+Subm
+itted by: 
+InfoUse 
+2560 9th Street, Suite 320 
+Berkeley, CA 94710 
+No
+vember 30, 2009 
+This report was produced under U.S. Department of Education Contract No. ED04CO0106 with 
+InfoUse.  Janette Shell served as the contracting officer’s technical representative.  The views 
+expressed herein do not necessarily represent the positions or policies of the Department of 
+Education.  No official endorsement by the U.S. Department of Education of any product, 
+commodity, service or enterprise mentioned in this publication is intended or should be inferred.
+
+Appendices Contents 
+APPENDIX A: DISABILITY POPULATION STATISTICS .................................................... A-1 
+American Community Survey (ACS) ..................................................................... A-1 
+Examples of available ACS state and sub-state data .............................................. A-3 
+Current Population Survey (CPS) ......................................................................... A-14 
+Behavioral Risk Factor Surveillance Survey (BRFSS) Brief Description............ A-15 
+How to Use the BRFSS......................................................................................... A-16 
+Examples of BRFSS Disability Questions ............................................................ A-17 
+APPENDIX B: DISABILITY POPULATION ESTIMATES ...................................................... B-1 
+Estimating Subpopulations of Disabilities .............................................................. B-6 
+APPENDIX C: PROJECTIONS OF STATE POPULATION AND LABOR AND ECONOMIC 
+FORECASTS .................................................................................................................. C-1 
+Population Projections ............................................................................................ C-1 
+Examples of Population Projection Data Available for All States ......................... C-1 
+Examples of Recent Population Projections Available for Some States ................ C-3 
+Employment and labor force forecasts ................................................................... C-4 
+Examples of Available Data ................................................................................... C-5 
+Other Sources of Data on Labor and Economic Projections .................................. C-6 
+APPENDIX D: VR AGENCY DATA ................................................................................ D-1 
+VR program data examples and required state reports ........................................... D-1 
+VR Counselors and staff stakeholder surveys and interviews ................................ D-7 
+APPENDIX E: STATE-LEVEL DATA FROM NATIONAL PROGRAMS .................................. E-1 
+Individuals with Disabilities Education Act (IDEA) ............................................... E-1 
+IDEA Data Examples ............................................................................................... E-2 
+Section 504 Data ...................................................................................................... E-6 
+Section 504 Data Example ....................................................................................... E-7 
+Social Security Data ................................................................................................. E-7 
+Social Security Data Examples ................................................................................ E-9 
+Workforce Investment Act (WIA) Data ................................................................ E-12 
+APPENDIX F: STATE AND SUB-STATE REPORTS AND OTHER MATERIALS ..................... F-1 
+State and Sub-state Reports and Other Materials .................................................... F-1 
+APPENDIX G: INPUT FROM STAKEHOLDERS ................................................................. G-1 
+Surveys .................................................................................................................... G-1 
+Focus Groups .......................................................................................................... G-3 
+Key Informant Interviews ....................................................................................... G-5 
+Community hearings ............................................................................................... G-6 
+APPENDIX H: MINORITIES AND UNSERVED OR UNDERSERVED GROUPS ...................... H-1 
+Examples of Potentially Unserved or Underserved Groups ................................... H-2 
+APPENDIX I – LITERATURE REVIEW ............................................................................... I-1 
+Conclusions ............................................................................................................... I-4 
+APPENDIX J – REVIEWS OF STATE NEEDS ASSESSMENTS ............................................... J-1
+
+Appendix A  Guide to Assessing VR Needs  
+A- 1 
+Appendix A: Disability Population Statistics 
+In order to assess the rehabilitation needs of people with disabilities at the state level it is 
+essential to gain an overall picture of the distribution and characteristics of the population 
+of people with disabilities in the state.  The American Community Survey (ACS) 
+provides existing state and substate data on disability and other demographic 
+characteristics of the state population.  For the Comprehensive Statewide Needs 
+Assessment (CSNA) the ACS provides estimates of the disability population, 
+employment, and language spoken. Starting in 2009 the Current Population Survey 
+(CPS) will provide another source of data that will use the ACS questions of disability 
+together with labor force questions.  The Behavioral Risk Factor Surveillance System 
+(BRFSS) is an optional method that includes an existing sampling frame for gathering 
+more in-depth state-level data from a representative sample of people with disabilities in 
+the state.  
+American Community Survey  
+The ACS is an annual survey of social, economic, housing and demographic 
+characteristics, including disability.  The ACS is the largest household survey in the 
+United States, with an annual sample size of about 3 million addresses.  The ACS was 
+developed to replace the long form of the Decennial Census, which provided detailed 
+information on geographical areas every 10 years.  The ACS, however, can provide 
+single-year estimates each year for geographic population areas of 65,000 or more people 
+and will accumulate 3- and 5-year samples to produce estimates for smaller geographic 
+areas, including census tracts and block groups (U.S. Census Bureau, 2008c). The ACS 
+will provide 3-year-period estimates for areas with populations of 20,000 or more starting 
+in 2008 and 5-year estimates in 2010 (U.S. Census Bureau, 2008c).  In 2006 data 
+collection began in group quarters, which include institutions such as correctional 
+facilities and nursing homes as well as group living situations such as college dormitories 
+and group homes (U.S. Census Bureau, 2008c). The ACS supports state and community 
+planning by providing the information for local geographic units.  Full implementation of 
+the ACS began in 2005 in every county nationwide. Data products for the 2007 survey 
+were released in late 2008. 
+The ACS provides:  
+• an overall picture of disability; 
+• demographic characteristics of the state; 
+• substate regions, such as metropolitan areas, larger counties, and other 
+geographic areas; 
+• languages other than English that are spoken in the state; and 
+• most significant disability, depending on how a state defines most significant 
+(e.g., self-care disabilities, people with two or more ACS disabilities, and people 
+who receive SSI and/or SSDI).
+
+Appendix A  Guide to Assessing VR Needs  
+A- 2 
+There are three major sources to obtain information about the disability population from 
+the ACS. 
+American FactFinder. The American FactFinder Web site 
+<http://factfinder.census.gov
+> includes data from the ACS as well as other Census 
+surveys. The Web site includes technical information on the data, the survey 
+questionnaire, updates on technical questions, the public use data sets, and pre-designed 
+tables and maps that can be obtained for state and substate levels (substate population 
+units of 65,000 and above for 2007 ACS). 
+The American FactFinder Web site includes a number of ways to access information 
+from the ACS.  The following national, state and substate tables and maps are most 
+pertinent to the CSNA:  
+• Data Profile (quick snapshot of the state in terms of population, types of 
+households, marital status, fertility, school enrollment, educational attainment, 
+veteran status, disability status, place of birth, and language spoken) 
+• Subject Tables – Disability 
+• Disability Characteristics (Table S1801). This table includes population by 
+age group by sensory, physical, mental, self-care, go-outside-house and 
+employment disabilities.  A sample S1801 table is included below. 
+• Selected Economic Characteristics for the Civilian Non-institutionalized 
+Population By Disability Status (Table S1802).  This table includes 
+information on people with and without disabilities, 16 years and over, 
+including: employed, not in labor force, class of worker (private, government, 
+self-employed, etc.), occupation, industry, method of commuting to work, 
+educational attainment (25 years and older), earnings in past 12 months, and 
+poverty status in past 12 months.  A sample S1802 table is included below. 
+• Characteristics of People by Language Spoken at Home
+ (Table S1603).   A 
+sample S1603 table is included below. 
+• Language Spoken at Home (S1601).  A sample S1601 table is included below. 
+• Ranking Tables – Disability 
+• Percent of People 21 to 64 Years Old With a Disability (R1802). This table 
+lists in rank order, from highest to lowest, the percent of people in each state 
+age 21-64 with a disability as well as the percent for the entire U.S.  
+• Detailed Tables (all of the disability tables are listed below) 
+• The American FactFinder Web site also allows users to download Public Use 
+Microdata Sample (PUMS) files, which are a sample of the actual responses to 
+the American Community Survey and include most population and housing 
+characteristics. These files provide users with the flexibility to prepare 
+customized tabulations and can be used for detailed research and analysis. Files 
+have been edited to protect the confidentiality of all individuals and of all
+
+Appendix A  Guide to Assessing VR Needs  
+A- 3 
+individual households. For an overview of the file, please see: 
+<http://www.census.gov/acs/www/Products/PUMS/index.htm>  (U.S. Census 
+Bureau, 2008a). 
+All tables can be downloaded and saved in a various formats including comma separated 
+and Excel. 
+Examples of available ACS state and substate data  
+American FactFinder: 
+Table on disability characteristics S1801.   
+The American FactFinder subject table, S1801, includes summary information about the 
+characteristics of the disability population. Table S1801 is available for state and substate 
+areas.  This table includes: 
+• percentage of the total population that has no disability, one disability, and two or 
+more disabilities; 
+• percentage of the working-age (16-64 years) population that has any disability, 
+sensory, physical, mental, go-outside-home, self care and employment 
+disabilities; and 
+• the number and percentage that are employed among working-age people (16-64 
+years) with any disability and each of the six disabilities mentioned above. 
+ 
+Table S1801 also includes information on poverty status and other demographics. 
+Exhibit A-1 shows a screen shot of Table S1801 for Oregon as an example.  The exhibit 
+shows the total population 5 years and over (as well as male and female), and percents for 
+those with and without any disability, with one type of disability, and with two or more 
+types of disabilities.   The table also contains population totals and male and female totals 
+for the population 5-15 years, 16-64 years, and 65 and over, along with percentages for 
+with any disability, with a sensory disability, with a physical disability, with a mental 
+disability, with a self-care disability, with a go-outside the home disability (for the latter 
+two age groupings), and with an employment disability (for the 16-64 year age group).
+
+Appendix A  Guide to Assessing VR Needs  
+A- 4 
+Exhibit A-1 Table S1801, Disability Characteristics, for Oregon, 2007American 
+Community Survey 
+Oregon 
+S1801: Disability Characteristics 
+Data Set: 2007 American Community Survey 1-Year Estimates 
+Geographic Area: Oregon 
+NOTE.  For information on confidentiality protection, sampling error, nonsampling error, and definitions, see 
+Survey Methodology. 
+Subject Total 
+Margin of 
+Error Male 
+Margin of 
+Error Female 
+Margin of 
+Error 
+Population 5 years and over 3,468,683 +/-1,641 1,708,927 +/-3,471 1,759,756 +/-3,265 
+Without any disability 83.6% +/-0.3 84.0% +/-0.4 83.2% +/-0.4 
+With one type of disability 7.3% +/-0.2 7.6% +/-0.3 7.1% +/-0.3 
+With two or more types of disabilities 9.1% +/-0.3 8.4% +/-0.4 9.7% +/-0.3 
+        
+Population 5 to 15 years 524,043 +/-3,963 269,856 +/-2,673 254,187 +/-3,038 
+With any disability 7.0% +/-0.7 8.7% +/-0.9 5.2% +/-0.8 
+With a sensory disability 1.0% +/-0.2 1.0% +/-0.3 1.1% +/-0.3 
+With a physical disability 1.1% +/-0.2 1.1% +/-0.3 1.1% +/-0.4 
+With a mental disability 5.9% +/-0.6 7.5% +/-0.9 4.3% +/-0.8 
+With a self-care disability 1.0% +/-0.2 1.1% +/-0.3 0.8% +/-0.3 
+        
+Population 16 to 64 years 2,470,203 +/-4,099 1,229,431 +/-3,336 1,240,772 +/-3,514 
+With any disability 13.5% +/-0.4 13.5% +/-0.5 13.6% +/-0.5 
+With a sensory disability 3.3% +/-0.2 3.9% +/-0.3 2.7% +/-0.3 
+With a physical disability 7.9% +/-0.3 7.5% +/-0.4 8.2% +/-0.4 
+With a mental disability 5.5% +/-0.3 5.4% +/-0.3 5.5% +/-0.4 
+With a self-care disability 2.2% +/-0.2 2.0% +/-0.2 2.4% +/-0.2 
+With a go-outside-home disability 3.3% +/-0.2 2.7% +/-0.2 3.9% +/-0.3 
+With an employment disability 7.8% +/-0.3 7.4% +/-0.4 8.1% +/-0.4 
+        
+Population 65 years and over 474,437 +/-2,315 209,640 +/-2,025 264,797 +/-1,829 
+With any disability 42.2% +/-1.0 40.5% +/-1.5 43.4% +/-1.2 
+With a sensory disability 17.7% +/-0.7 20.1% +/-1.0 15.9% +/-1.0 
+With a physical disability 31.9% +/-0.9 28.6% +/-1.4 34.6% +/-1.2 
+With a mental disability 13.9% +/-0.7 12.2% +/-1.1 15.3% +/-1.0 
+With a self-care disability 10.6% +/-0.8 8.6% +/-1.0 12.2% +/-0.9 
+With a go-outside-home disability 17.0% +/-0.8 12.4% +/-1.2 20.6% +/-1.0 
+        
+EMPLOYMENT STATUS       
+Population 16 to 64 years 2,470,203 +/-4,099 1,229,431 +/-3,336 1,240,772 +/-3,514 
+With any disability 333,755 +/-9,162 165,469 +/-6,513 168,286 +/-6,412 
+Employed 40.3% +/-1.6 43.3% +/-2.1 37.4% +/-2.1 
+With a sensory disability 80,318 +/-5,178 47,356 +/-3,518 32,962 +/-3,605 
+Employed 50.8% +/-3.0 52.9% +/-3.8 47.8% +/-4.0 
+With a physical disability 193,961 +/-7,501 92,157 +/-5,075 101,804 +/-4,648 
+Employed 35.5% +/-1.9 38.2% +/-2.7 33.1% +/-2.4 
+With a mental disability 134,654 +/-6,313 66,625 +/-4,073 68,029 +/-4,366
+
+Appendix A  Guide to Assessing VR Needs  
+A- 5 
+Table on disability employment and other economic characteristics S1802. 
+The second relevant subject table in the American FactFinder is Table S1802, which 
+summarizes selected economic characteristics of the population by disability status.  This 
+table is available by state and for substate population areas of 65,000 or more. This table 
+includes: 
+• For the population 16 years and over, how many and what percentage are 
+employed and how many and what percentage are not in the labor force (neither 
+working, not looking for work) with a disability and no disability? 
+• What is the educational attainment of the population 25 years and over with a 
+disability and no disability? 
+• What are the earnings of people 16 years and over with a disability and no 
+disability? 
+Table S1802 also provides information on classes, occupations and industries of workers 
+with and without disabilities, the means of commuting to work for workers with and 
+without disabilities, and the poverty status for people 16 years and over, with and without 
+disabilities. 
+An example from Table S1802 for the state of Kansas is shown below in Exhibit A-2.  
+The exhibit shows portions of the table that contain information about the total civilian 
+noninstitutionalized population age 16 and over and columns for the population with and 
+without a disability along with percentages for those employed and those not in the labor 
+force and the resulting total number of those employed age 16 and over.  A second 
+portion of the exhibit shows the population age 25 and over, and columns for the 
+population with and without a disability, along with percentages of educational 
+attainment as less than high school graduate, high school graduate (includes 
+equivalency), some college or associate’s degree, and bachelor’s degree or higher.  Also 
+shown are the earnings in the past 12 months (in 2007 inflation adjusted dollars) for the 
+population age 16 and over with earnings with percentages for those earning $1-$9,999 or 
+less, $10,000-$14,999, $15,000-$24,999, $25,000-$34,999, $35,000-$49,999, $50,000-
+$74,999, and $75,000 or more.
+
+Appendix A  Guide to Assessing VR Needs  
+A- 6 
+Exhibit A-2 Table S1802, Selected Economic Characteristics, Kansas, 2007 
+American Community Survey 
+Kansas 
+S1802: Selected Economic Characteristics for the Civilian Noninstitutionalized Population By Disability Status 
+Data Set: 2007 American Community Survey 1-Year Estimates 
+Survey: American Community Survey 
+NOTE.  For information on confidentiality protection, sampling error, nonsampling error, and definitions, see Survey 
+Methodology. 
+Subject 
+Total Civilian 
+Noninstitutionalized 
+Population 
+Margin of 
+Error 
+With a 
+Disability 
+Margin 
+of Error 
+No 
+Disability 
+Margin of 
+Error 
+Population Age 16 and Over 2,104,682 +/-3,650 339,688 +/-6,456 1,764,994 +/-7,586 
+EMPLOYMENT STATUS       
+Employed 66.5% +/-0.5 29.7% +/-1.0 73.6% +/-0.5 
+Not in Labor Force 29.9% +/-0.4 66.1% +/-1.2 23.0% +/-0.4 
+        
+Employed Population Age 16 and Over 1,399,842 +/-10,434 100,952 +/-4,134 1,298,890 +/-10,051 
+        
+CLASS OF WORKER       
+Private for-profit wage and salary workers 68.5% +/-0.6 61.1% +/-2.3 69.0% +/-0.6 
+Employee of private company workers 65.2% +/-0.6 59.3% +/-2.3 65.6% +/-0.6 
+Self-employed in own incorporated business workers 3.3% +/-0.2 1.8% +/-0.5 3.4% +/-0.2 
+Private not-for-profit wage and salary workers 7.6% +/-0.3 10.5% +/-1.4 7.4% +/-0.3 
+Local government workers 8.1% +/-0.3 7.7% +/-1.3 8.1% +/-0.3 
+State government workers 5.8% +/-0.3 7.7% +/-1.1 5.6% +/-0.3 
+Federal government workers 2.6% +/-0.2 3.3% +/-0.7 2.6% +/-0.2 
+Self-employed in own not incorporated business workers 7.1% +/-0.3 9.2% +/-1.2 7.0% +/-0.3 
+Unpaid family workers 0.3% +/-0.1 0.5% +/-0.3 0.3% +/-0.1 
+        
+OCCUPATION       
+Management, professional, and related occupations 35.4% +/-0.7 26.9% +/-1.9 36.0% +/-0.7 
+Service occupations 15.9% +/-0.5 21.5% +/-2.0 15.5% +/-0.5 
+Sales and office occupations 24.7% +/-0.6 23.6% +/-2.1 24.7% +/-0.6 
+Farming, fishing, and forestry occupations 0.8% +/-0.1 1.0% +/-0.5 0.8% +/-0.1 
+Construction, extraction, maintenance, and repair occupations 9.1% +/-0.4 8.5% +/-1.2 9.2% +/-0.4 
+Production, transportation, and material moving occupations 14.1% +/-0.5 18.5% +/-1.4 13.8% +/-0.5 
+        
+INDUSTRY       
+Agriculture, forestry, fishing and hunting, and mining 3.5% +/-0.2 4.7% +/-0.8 3.4% +/-0.2 
+Construction 6.4% +/-0.3 5.9% +/-1.0 6.4% +/-0.4 
+Manufacturing 13.9% +/-0.4 13.6% +/-1.6 14.0% +/-0.5 
+Wholesale trade 3.1% +/-0.2 2.4% +/-0.7 3.2% +/-0.2 
+Retail trade 10.9% +/-0.5 12.0% +/-1.5 10.8% +/-0.5 
+Transportation and warehousing; utilities 5.3% +/-0.3 6.4% +/-1.1 5.2% +/-0.3 
+Information 2.9% +/-0.2 2.7% +/-0.8 3.0% +/-0.2 
+Finance and insurance; real estate, rental and leasing 6.1% +/-0.3 2.8% +/-0.7 6.4% +/-0.3 
+ACS PUMS data.  While the ACS tables provide a valuable resource for state and 
+substate disability measures, these estimates do not specifically identify the 
+subpopulation that would be eligible for VR services.  The ACS estimate that might best 
+provide a measure of the population in need of VR services would be the population with 
+a disability in the state that is not currently employed and is looking for work (in the 
+labor force, not employed.)  However, this subgroup is not identified specifically in the 
+available ACS tables.   The ACS Public Use Microdata Samples (PUMS) is available in 
+the FactFinder and may be used to conduct custom analyses from ACS data.   
+Tables on racial and ethnic minorities.   There are a number of possible sources for data 
+on racial and ethnic minorities by disability from the ACS, including American 
+FactFinder, the Cornell Disability Statistics Web site and the Center for Personal 
+Assistance Services (PAS) Web site. American FactFinder provides data from which a
+
+Appendix A  Guide to Assessing VR Needs  
+A- 7 
+table may be constructed that shows the number of people with disabilities, ages 16 to 64 
+years, who are not employed, by racial and ethnic group.  
+The following sample table (Exhibit A-3) was constructed using data from 10 different 
+American FactFinder tables - C18020, C18020A, C18020B, C18020C, C18020D, 
+C18020E, C18020F, C18020G, C18020H, C18020I. These tables provide data on 
+noninstitutionalized people with a disability and not employed in Oregon, ages 16 – 64 
+years, by race and ethnicity, estimates from the 2006 American Community Survey:  
+Exhibit A-3 Sample Table, Number and Percentage of People with a Disability who 
+are not Employed, Oregon 2006 ACS 
+ 
+ACS OREGON 2006 
+With a disability and 
+not employed 
+(Thousands) 
+Percentage of total with 
+a disability and not 
+employed 
+Total (16 - 64 years) 198 100.0% 
+Race (16 - 64 years)     
+White 172 87.1% 
+African American 5 2.5% 
+Asian/Pacific Islander 4 1.8% 
+American Indian/Alaska Native 4 2.0% 
+Some other race(s) 4 1.9% 
+Two or more races 9 4.6% 
+Ethnicity (16 - 64 years)     
+Hispanic 11 5.7% 
+ 
+This table provides a means to compare the ethnic and racial composition of people with 
+disabilities in the state overall and those who are not employed to identify need for 
+employment services.  
+Tables on languages spoken.  American FactFinder includes a number of tables that have 
+information on languages spoken.  For example, Table S1601 is a table on languages 
+spoken at home and Table S1603 presents information on characteristics of people by 
+languages spoken at home.  American FactFinder also includes other geographical 
+comparison tables (GCT) and ranking tables on languages spoken at home that provide 
+additional information and comparisons.  Table B16001, “Language spoken at home by 
+ability to speak English for the population 5 years and older” presents information about 
+the number of people in the state who speak languages other than English at home, which 
+languages they speak and how many speak English “less than very well.” Exhibit A-4 
+shows a portion of a sample table for New York:
+
+Appendix A  Guide to Assessing VR Needs  
+A- 8 
+Exhibit A-4 Table B16001, Languages Spoken at Home by Ability to Speak English, 
+New York, 2007 ACS 
+B16001. LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE 
+POPULATION 5 YEARS AND OVER - Universe:  POPULATION 5 YEARS AND OVER 
+Data Set: 2007 American Community Survey 1-Year Estimates 
+Survey: American Community Survey 
+NOTE. Although the American Community Survey (ACS) produces population, demographic and housing 
+unit estimates, it is the Census Bureau's Population Estimates Program that produces and disseminates the 
+official estimates of the population for the nation, states, counties, cities and towns and estimates of housing 
+units for states and counties. 
+For information on confidentiality protection, sampling error, nonsampling error, and definitions, see Survey 
+Methodology. 
+ New York 
+  Estimate Margin of Error 
+Total: 18,097,578 +/-2,470 
+Speak only English 12,868,476 +/-34,152 
+Spanish or Spanish Creole: 2,556,829 +/-15,994 
+Speak English "very well" 1,345,191 +/-17,937 
+Speak English less than "very well" 1,211,638 +/-19,001 
+French (incl. Patois, Cajun): 134,405 +/-8,654 
+Speak English "very well" 96,083 +/-6,833 
+Speak English less than "very well" 38,322 +/-4,384 
+French Creole: 140,275 +/-11,554 
+Speak English "very well" 90,930 +/-8,060 
+Speak English less than "very well" 49,345 +/-5,658 
+Italian: 234,697 +/-10,305 
+Speak English "very well" 158,378 +/-7,864 
+Speak English less than "very well" 76,319 +/-4,852 
+Portuguese or Portuguese Creole: 43,130 +/-5,838 
+Speak English "very well" 24,339 +/-4,304 
+Speak English less than "very well" 18,791 +/-3,593 
+German: 64,761 +/-4,422 
+Speak English "very well" 53,245 +/-4,041 
+Speak English less than "very well" 11,516 +/-1,808 
+Yiddish: 124,722 +/-11,122 
+Speak English "very well" 83,863 +/-9,346 
+Speak English less than "very well" 40,859 +/-5,327 
+Other West Germanic languages: 14,027 +/-2,576 
+Speak English "very well" 10,572 +/-1,967 
+Speak English less than "very well" 3,455 +/-1,335 
+Scandinavian languages: 8,875 +/-1,794 
+Speak English "very well" 7,407 +/-1,473 
+Speak English less than "very well" 1,468 +/-717 
+Greek: 72,818 +/-8,690 
+Speak English "very well" 48,754 +/-6,792 
+Speak English less than "very well" 24,064 +/-3,443 
+Russian: 226,535 +/-13,435 
+Speak English "very well" 97,354 +/-9,252 
+Speak English less than "very well" 129,181 +/-7,598 
+Once downloaded, this table may be sorted by the linguistic groups that speak English 
+less than very well to determine which groups may have the most need for materials and 
+services in their native language.  The language tables also are available by substate 
+regions, which can assist in planning for local needs. 
+List of Additional Disability Tables Available at American FactFinder. The 
+2007 Data 
+Products Details (U.S. Census Bureau, 2008b) lists 45 tables concerning disability that 
+are available in American FactFinder and shown in the list below. These tables are
+
+Appendix A  Guide to Assessing VR Needs  
+A- 9 
+available by state and substate regions. There are also other tables that are expanded or 
+condensed versions of these tables.  For example Table C18001 is a condensed version of 
+Table B18001 (the first table listed below).  C18001 contains the same basic information 
+as B18001 but with less disaggregation by age group.   
+Exhibit A-5 Tables on Disability in American FactFinder 
+B18001 Sex by Age by Number of Disabilities for the Civilian Noninstitutionalized 
+Population 5 Years and Over  
+B18002  Sex by Age by Disability Status for the Civilian Noninstitutionalized 
+Population 5 Years and Over  
+B18003  Sex by Age by Sensory Disability for the Civilian Noninstitutionalized 
+Population 5 Years and Over  
+B18004 Sex by Age by Physical Disability for the Civilian Noninstitutionalized 
+Population 5 Years and Over  
+B18005 Sex by Age by Mental Disability for the Civilian Noninstitutionalized 
+Population 5 Years and Over  
+B18006 Sex by Age by Self-Care Disability for the Civilian Noninstitutionalized 
+Population 5 Years and Over  
+B18007 Sex by Age by Go-Outside-Home Disability for the Civilian 
+Noninstitutionalized Population 16 Years and Over  
+B18008 Sex by Age by Employment Disability for the Civilian Noninstitutionalized 
+Population 16 to 64 Years  
+B18010 Disability Status by School Enrollment and Educational Attainment for the 
+Civilian Noninstitutionalized Population 18 to 34 Years  
+B18011 Sensory Disability by School Enrollment and Educational Attainment for the 
+Civilian Noninstitutionalized Population 18 to 34 Years  
+B18012 Physical Disability by School Enrollment and Educational Attainment for the 
+Civilian Noninstitutionalized Population 18 to 34 Years  
+B18013 Mental Disability by School Enrollment and Educational Attainment for 
+Civilian Noninstitutionalized Population 18 to 34 Years  
+B18014 The Self-Care Disability by School Enrollment and Educational Attainment 
+for the Civilian Noninstitutionalized Population 18 to 34 Years  
+B18015 Go-Outside-Home Disability by School Enrollment and Educational 
+Attainment for the Civilian Noninstitutionalized Population 18 to 34 Years  
+B18016 Employment Disability by School Enrollment and Educational Attainment 
+for the Civilian Noninstitutionalized Population 18 to 34 Years  
+B18020 Disability Status by Sex by Age by Employment Status for the Civilian 
+Noninstitutionalized Population 16 to 64 Years  
+B18020A  Disability Status by Sex by Age by Employment Status for the Civilian 
+Noninstitutionalized Population 16 to 64 Years (White Alone)
+
+Appendix A  Guide to Assessing VR Needs  
+A- 10 
+B18020B  Disability Status by Sex by Age by Employment Status for the Civilian 
+Noninstitutionalized Population 16 to 64 Years (Black or African American 
+Alone)  
+B18020C  Disability Status by Sex by Age by Employment Status for the Civilian 
+Noninstitutionalized Population 16 to 64 Years (American Indian and Alaska 
+Native) 
+B18020D  Disability Status by Sex by Age by Employment Status for the Civilian 
+Noninstitutionalized Population 16 to 64 Years (Asian Alone)  
+B18020E  Disability Status by Sex by Age by Employment Status for the Civilian 
+Noninstitutionalized Population 16 to 64 Years (Native Hawaiian and Other 
+Pacific Islander Alone)  
+B18020F  Disability Status by Sex by Age by Employment Status for the Civilian 
+Noninstitutionalized Population 16 to 64 Years (Some Other Race Alone)  
+B18020G  Disability Status by Sex by Age by Employment Status for the Civilian 
+Noninstitutionalized Population 16 to 64 Years (Two Or More Races)  
+B18020H  Disability Status by Sex by Age by Employment Status for the Civilian 
+Noninstitutionalized Population 16 to 64 Years (White Alone, Not Hispanic 
+or Latino)  
+B18020I  Disability Status by Sex by Age by Employment Status for the Civilian 
+Noninstitutionalized Population 16 to 64 Years (Hispanic or Latino)  
+B18021 Sensory Disability by Sex by Age by Employment Status for the Civilian 
+Noninstitutionalized Population 16 to 64 Years  
+B18022 Physical Disability by Sex by Age by Employment Status for the Civilian 
+Noninstitutionalized Population 16 to 64 Years  
+B18023 Mental Disability by Sex by Age by Employment Status for the Civilian 
+Noninstitutionalized Population 16 to 64 Years  
+B18024 Self-Care Disability by Sex by Age by Employment Status for the Civilian 
+Noninstitutionalized Population 16 to 64 Years  
+B18025 Go-Outside-Home Disability by Sex by Age by Employment Status for the 
+Civilian Noninstitutionalized Population 16 to 64 Years  
+B18026  Sex by Age by Employment Disability by Employment Status for the 
+Civilian Noninstitutionalized Population 16 to 64  
+B18030 Disability Status by Sex by Age by Poverty Status for the Civilian 
+Noninstitutionalized Population 5 Years and Over  
+B18031 Sensory Disability by Sex by Age by Poverty Status for the Civilian 
+Noninstitutionalized Population 5 Years and Over  
+B18032 Physical Disability by Sex by Age by Poverty Status for the Civilian 
+Noninstitutionalized Population 5 Years and Over  
+B18033 Mental Disability by Sex by Age by Poverty Status for the Civilian 
+Noninstitutionalized Population 5 Years and Over
+
+Appendix A  Guide to Assessing VR Needs  
+A- 11 
+B18034 Self-Care Disability by Sex by Age by Poverty Status for the Civilian 
+Noninstitutionalized Population 5 Years and Over  
+B18035 Go-Outside-Home Disability by Sex by Age by Poverty Status for the 
+Civilian Noninstitutionalized Population 16 Years and Over  
+B18036  Employment Disability by Sex by Age by Poverty Status for the Civilian 
+Noninstitutionalized Population 16 To 64 Years  
+B18040 Median Earnings in the Past 12 Months (in 2006 Inflation-Adjusted Dollars) 
+by Disability Status by Sex for the Civilian Noninstitutionalized Population 
+16 Years and Over With Earnings  
+B18041 Median Earnings in the Past 12 Months (in 2006 Inflation-Adjusted Dollars) 
+by Sensory Disability by Sex for the Civilian Noninstitutionalized Population 
+16 Years and Over With Earnings  
+B18042 Median Earnings in the Past 12 Months (in 2006 Inflation-Adjusted Dollars) 
+by Physical Disability by Sex for the Civilian Noninstitutionalized 
+Population 16 Years and Over With Earnings  
+B18043 Median Earnings in the Past 12 Months (in 2006 Inflation-Adjusted Dollars) 
+by Mental Disability by Sex for the Civilian Noninstitutionalized Population 
+16 Years and Over With Earnings  
+B18044 Median Earnings in the Past 12 Months (in 2006 Inflation-Adjusted Dollars) 
+by Self-Care Disability by Sex for the Civilian Noninstitutionalized 
+Population 16 Years and Over With Earnings  
+B18045 Median Earnings in the Past 12 Months (in 2006 Inflation-Adjusted Dollars) 
+by Go-Outside-Home Disability by Sex for the Civilian Noninstitutionalized 
+Population 16 Years and Over With Earnings  
+B18046 Median Earnings in the Past 12 Months (in 2006 Inflation-Adjusted Dollars) 
+by Employment Disability by Sex for the Civilian Noninstitutionalized 
+Population 16 to 64 Years With Earnings
+
+Appendix A  Guide to Assessing VR Needs  
+A- 12 
+Cornell’s Research and Rehabilitation Training Center (RRTC) on Disability 
+Demographics publishes disability Status Reports by state based on ACS data and 
+maintains a Disability Statistics Web site: 
+<http://www.ilr.cornell.edu/edi/DisabilityStatistics/> with interactive ACS tables as well 
+as online versions of the Status Reports (Erickson & Lee, 2008). 
+Interactive tables on employment and other demographic characteristics of people with 
+disabilities.  The Cornell Disability Statistics Web site provides interactive tables based 
+on ACS PUMS data, which complement the information that is available from the 
+American FactFinder.  In particular, the Cornell tables provide information on 
+employment rates of people with and without disability, by gender, type of disability, age 
+group, race, ethnicity, and education level.  The tables show either number of people or 
+percentage.  The Cornell tables are available by accessing the Web site and choosing the 
+variables of interest to create the interactive tables. 
+For example, the Cornell interactive tables provide information about employment rates 
+among people who have achieved different levels of educational attainment within the 
+working age population, aged 21-64 years. Exhibit A-8 shows an example interactive 
+table with information on the percentage of people with disabilities who have an 
+educational attainment of less than high school and are employed.  (Information is 
+displayed for a number of states.) 
+Exhibit A-8 Cornell Disability Statistics Center Interactive Table, Employment 
+Rate, People with a Disability Aged 21-64 Years, with Less than High School 
+Education 
+ 
+ 
+Disability Status Reports. The Cornell RRTC on Disability Demographics also publishes 
+annual status reports by state that are based on ACS data.  The reports are published in
+
+Appendix A  Guide to Assessing VR Needs  
+A- 13 
+hard copy and also may be downloaded from the Web site 
+<http://www.ilr.cornell.edu/edi/DisabilityStatistics/index.cfm>. The Disability Status 
+Reports provide another means of obtaining ACS data. 
+Disability Planning Data for Planners Web site. Another product of the Cornell RRTC is 
+this Web site, created by InfoUse, that is intended to provide local planning data for 
+municipal and regional planners.  It provides state and county level ACS number and 
+percentage estimates from the 2005-2007 pooled PUMS data set, including labor force 
+participation variables for those age 16-64 (employed, in the labor force – not employed, 
+and in the labor force).  <http://disabilityplanningdata.com/
+> 
+University of California at San Francisco’s Research and Rehabilitation Training 
+Center on Personal Assistance Services (Center for PAS) provides tables by state that 
+are based on the ACS and focus on the need for personal care. The tables are available at:  
+<http://www.pascenter.org/state_based_stats/disability_statistics.php
+> 
+These tables are especially helpful for obtaining more detailed information about the 
+population with “self-care” disability in the state such as characteristics of age, race, 
+ethnicity, family income, benefit recipiency, employment (for ages 18-64) and living 
+arrangement (alone, with others) for people without disability, with disability, and with a 
+“self-care” disability.  In the ACS, people with a self-care disability are those who
+ had 
+difficulty dressing, bathing or getting around inside the home because of a physical, 
+mental, or emotional condition lasting six months or more. Depending on a state’s 
+definition of most significant disability, information on those with self-care disabilities 
+may assist in answering questions about the needs of people with most significant 
+disability.  The state disability tables at the Center for PAS include: disability type, 
+gender, age, race, ethnicity, family income, benefit recipiency, employment (ages 18-64 
+years) and living arrangement.  All of these variables are shown for the population, 
+number with a disability, percent with a disability, number with a self-care difficulty, and 
+percent with a self-care disability. 
+Exhibit A-9 shows a portion of a table for Nebraska, based on ACS 2005 data.
+
+Appendix A  Guide to Assessing VR Needs  
+A- 14 
+Exhibit A-9 Center for PAS Nebraska Disability Data Table from 2005 ACS 
+Nebraska Disability Data Table From the 2005 American Community Survey 
+Estimates for 2005 
+An estimated 229,000 people in Nebraska have a disability, or 14.4 percent of the population age 
+5 and over. An estimated 34,000 people, or 2.1 percent of the population 5 and over, have 
+difficulty performing self-care activities, also known as Activities of Daily Living, such as dressing, 
+bathing, or getting around inside the home. 
+Subject Population 
+(Thousands) 
+With a 
+disability 
+(Thousands) 
+With a 
+disability 
+(Percent) 
+With a self-
+care difficulty 
+(Thousands) 
+With a self-
+care difficulty 
+(Percent) 
+Total in Nebraska 
+(ages 5 and over) 
+1,586 229 14.4% 34 2.1% 
+Disability Type      
+Sensory  69  11 15.5% 
+Mobility  128  29 22.8% 
+Cognitive    74  17 22.8% 
+Self-care  34  34  
+Leaving the home  52  24 46.6% 
+Work disability  118  27 22.8% 
+Gender      
+Male 775 109 14.1% 15 1.9% 
+Female 811 120 14.7% 19 2.3% 
+Age      
+Children (5-17) 313 20 6.5% 2 0.7% 
+5-15 260 17 6.5% 2 0.8% 
+16-17 53 3 6.5% 0 0.2% 
+Work Ages (18-64) 1,054 118 11.2% 16 1.5% 
+As of October of 2008, a new Rehabilitation Research and Training Center (RTC) on 
+disability statistics and demographics funded by the National Institute on Disability and 
+Rehabilitation Research was awarded to Hunter College.   
+Current Population Survey (CPS)  
+In 2008 the Current Population Survey (CPS) included disability questions from the 
+American Community Survey and provided state level estimates. The CPS is a monthly 
+labor force survey of about 50,000 U.S. households conducted by the Census Bureau for 
+the Bureau of Labor Statistics (BLS) for more than 50 years. The CPS collects 
+information about the civilian noninstitutionalized population 15 years and older. The 
+sample provides estimates for the nation as a whole and serves as part of model-based 
+estimates for individual states and other geographic areas (U.S. Census Bureau, 2008d). 
+These data will be available for needs assessments conducted in 2009 and later.
+
+Appendix A  Guide to Assessing VR Needs  
+A- 15 
+The Census Bureau Web site <http://www.census.gov/cps/> describes the general content 
+of the CPS: 
+“Estimates obtained from the CPS include employment, unemployment, earnings, hours 
+of work, and other indicators. They are available by a variety of demographic 
+characteristics including age, sex, race, marital status, and educational attainment. They 
+are also available by occupation, industry, and class of worker. Supplemental questions to 
+produce estimates on a variety of topics including school enrollment, income, previous 
+work experience, health, employee benefits, and work schedules are also often added to 
+the regular CPS questionnaire.” (U.S. Census Bureau, 2008d) 
+ 
+Behavioral Risk Factor Surveillance Survey (BRFSS) Brief Description 
+The Behavioral Risk Factor Surveillance System (BRFSS) is an optional method to 
+obtain state-level data on the needs of people with disabilities and the population that is 
+potentially eligible for VR.  
+The BRFSS is the world’s largest, ongoing telephone health survey system, currently 
+interviewing more than 350,000 adults each year. Since 1984 all of the 50 state health 
+departments, as well as those in the District of Columbia, Puerto Rico, Guam, and the 
+U.S. Virgin Islands, have been supported by the Centers for Disease Control (CDC) to 
+collect data on health conditions and risk behaviors. States use BRFSS data to “identify 
+emerging health problems, establish and track health objectives, and develop and 
+evaluate public health policies and programs” (Centers for Disease Control, 2006a). 
+For the CSNA, the BRFSS provides an existing annual telephone survey method and a 
+sampling frame for a representative sample of the state population. Existing core 
+questions on disability provide information about the prevalence of disability in the state 
+and could serve as screener questions to create a follow-back sample of people with 
+disabilities who could answer more specific questions related to vocational rehabilitation 
+needs. 
+As an optional method, the BFRSS can provide: 
+• a representative sample of people with disabilities in the state;  
+• questions about groups of individuals with disabilities who might be identified as 
+a focus in a particular state’s comprehensive needs assessment (e.g., the aging 
+workforce); 
+• questions about racial and ethnic minority groups and health disparities; 
+• additional questions about employment and disability; and 
+• questions about whether people with disabilities received services in other parts 
+of the statewide work force investment system.
+
+Appendix A  Guide to Assessing VR Needs  
+A- 16 
+How to Use the BRFSS 
+The BRFSS includes two core disability questions that provide estimates of the disability 
+populations in the state and could serve as a screener for follow-back questions if state-
+only questions are added. Prevalence rates for the core disability questions are available 
+by state at: <http://apps.nccd.cdc.gov/brfss/index.asp>  (Centers for Disease Control, 
+2006b). 
+Optional modules have been approved by the CDC and state BRFSS coordinators and 
+may be adopted by any state BRFSS as long as they are used verbatim.  Depending on 
+which optional modules have been used in a given state, existing data from optional 
+modules may be helpful in defining the needs of subpopulations such as people with 
+mental illness, visual impairment, diabetes, and arthritis or of other groups already 
+surveyed in an optional module.  If an “optional module” on employment needs or 
+vocational rehabilitation were approved by the CDC and the state BRFSS coordinators it 
+could be used in any state BRFSS.   
+Even without an optional module on employment and vocational rehabilitation, state-only 
+modules or questions could be added to help understand vocational rehabilitation needs in 
+the state.  State-only questions may be added for a cost to a state’s BRFSS by contacting 
+the BRFSS coordinator for the state.  The CDC does not control which questions a state 
+adds, as long as the core questions (and any optional module questions) are asked exactly 
+as worded.  Each state has a slightly different process for adding questions. The state 
+BRFSS coordinator has information on the process for adding questions in each state, and 
+the BRFSS coordinators ultimately decide which questions are added. (For a list of 
+BRFSS coordinators, see: <http://www2.cdc.gov/nccdphp/brfss2/coordinator.asp
+> 
+All states require a proposal before adding questions to the BRFSS. The length of the 
+proposal depends on whether the proposed questions have been used on the BRFSS 
+before. (For example, the optional modules may be easily added. Each year at the BRFSS 
+meeting, the coordinators vote on which modules should become sanctioned “optional 
+modules.” It may be possible for a module of questions related to disability and 
+employment to become sanctioned as an “optional module.” In addition, any nontested or 
+nonapproved modules can be added as “state-added” questions or modules at the 
+discretion of the state’s BRFSS coordinator.) 
+States vary in terms of cost per questions, amount of “lead time” for adding a question, 
+(which may be as early as a year before the data will be collected), how the questions are 
+tested, and how the data are analyzed and reported. Most states try to keep the BRFSS 
+interview to 20 minutes or less and, as a result only a limited number of questions may be 
+added each year. In addition to the Core questions (including the two disability questions) 
+there are mandated chronic disease questions every other year, so that states typically add 
+more questions related to chronic disease in those years rather than questions on other 
+topics. It is easier to add questions to the BRFSS if there are multiple stakeholders (such 
+as state agencies, nonprofits, and research institutions) in the state who support those 
+particular questions.
+
+Appendix A  Guide to Assessing VR Needs  
+A- 17 
+Examples of BRFSS Disability Questions 
+Core disability questions.  The two core disability questions in the BRFSS are as follows:  
+ (The following questions are about health problems or impairments you may have.)  
+1. Are you limited in any way in any activities because of physical, mental, or emotional 
+problems?  (Yes/No/Don’t know or not sure/Refused) (Variable Name: QLACTLM2) 
+2. Do you now have any health problem that requires you to use special equipment, such 
+as a cane, a wheelchair, a special bed, or a special telephone? (Yes/No/Don’t know or not 
+sure/Refused) (Variable Name: USEEQUIP) 
+State-only disability questions.  Questions that states have added to the BRFSS have 
+focused on access, activity limitations, assistive equipment, nature of disability, and 
+personal assistance. Some states have added questions about employment of people with 
+disabilities that may help set a precedent for employment-related questions in the BRFSS 
+and could help to shape questions about the VR population.  For example, in 1999 and 
+2001 Oregon added a 14-question module about the employment concerns of people with 
+disability, which contained the following questions (Centers for Disease Control, 2008; 
+American Association on Health and Disability, 2005): 
+1. Are you concerned that employers have negative attitudes toward people with 
+disabilities?  
+2. Are you concerned that there were no jobs available that you could perform?  
+3. Are you concerned that you don't have convenient or accessible transportation?  
+4. Are you concerned that you would lose Supplemental Security Income, known as 
+SSI, Supplemental Security Disability Income, known as SSDI, or other sources 
+of income if you went to work?  
+5. Are you concerned that you would lose your Medicare or Medicaid coverage if 
+you went to work? 
+6. Are you concerned that you would lose your subsidized housing if you went to 
+work?  
+7. Are you concerned that you would lose your subsidized personal attendant 
+services if you went to work?  
+8. Are you concerned that you would need additional attendant care services at 
+home if you went to work?  
+9. Are you concerned that you would need work accommodations, such as 
+accessible work space?  
+10. Are you concerned that you would not be able to find a job offering affordable 
+health insurance as a benefit?  
+11. Are you concerned that you would not be able to take time off for health-related 
+reasons?
+
+Appendix A  Guide to Assessing VR Needs  
+A- 18 
+12. Are you concerned that you wouldn't earn enough money to make up for the 
+disability-related benefits that you would lose by becoming employed?  
+13. Are you concerned that you wouldn't have control over the pace or scheduling of 
+work activities?   
+14. Are you concerned that your training or skills are not adequate to be employed?
+
+Appendix B  Guide to Assessing VR Needs  
+ B-1 
+Appendix B: Disability Population Estimates 
+National surveys that contain detailed disability information do not provide estimates at 
+the state or substate level of the number of people with specific disabilities. In general, 
+state and local disability subpopulations are estimated by other means.  
+The methods described below provide estimates of the number of people in specific 
+disability groups because more precise data are not available at the state or substate level.  
+In most cases, the estimates are obtained by using data from national surveys to create 
+state estimates.  These estimates are useful where no other data exist on a particular 
+subject in a particular geographic area.  
+There are two estimating approaches.  The simplest involves multiplying the state 
+population by a coefficient derived from a national survey.  For example, the Survey on 
+Income and Program Participation (SIPP) estimates that 0.8 percent of the national 
+population has a severe vision impairment. Multiplying that percentage by the state 
+population gives a rough estimate of severe vision impairment in any state.   
+The Comprehensive Statewide Needs Assessment (CSNA) also incorporates a second 
+approach – a multivariate estimation using the rates of one population and applying them 
+to the population structure of another population. This more complex estimate takes into 
+account differences in demographic characteristics in the state, such as age, poverty, 
+education and other characteristics.  In this approach the relationship between a specific 
+disability (such as severe visual disability) and a set of demographic characteristics is 
+estimated using the SIPP data, and then these estimates are used to predict the prevalence 
+of the specific disability using ACS local demographic data. This is the same 
+methodology used by the Census Bureau to generate local area disability statistics for 
+1990. The Census Bureau combined specific disability information from the disability 
+information from the Content Reinterview Survey (CRS), which used the SIPP 
+instrument, and local information on the 1990 Decennial Census Long-Form (U.S. 
+Census Bureau, 2004; 2006b).   
+The first step in the estimation procedure is to use logistic regressions and 2004 SIPP 
+data to estimate the probability of reporting a specific disability as a function of 
+demographic characteristics (age, race, gender, ethnic origin, educational attainment).  In 
+other words, estimate the following equation:  
+Prob[specific disability] = 1/(1 + e
+-f(z)), 
+where z = α + β1×(age) + β2×(age squared) + β3×(female) +    
+                  β4×(Hispanic) + β5×(less than high school diploma) +  
+                   β6× (some college experience) + β7× (Bachelor's degree or more).  
+The second step is to use this equation to calculate the probability reporting the specific 
+disability for each sample member in the 2006 ACS data. The final step is, for each 
+location, to calculate the average probability (and multiplied by 100) to obtain the 
+percentage of people with the disability, and then calculate the number of people with the
+
+Appendix B  Guide to Assessing VR Needs  
+ B-2 
+specific disability.  Preliminary tables for states are shown in Exhibit B-1. Public Use 
+Microdata Sample (PUMAs) and counties can also be calculated.
+
+Appendix B Guide to Assessing VR Needs  
+ B-3 
+Exhibit B-1 Multivariate Estimates for States 
+ 2004 SIPP 
+Actual 
+2006 ACS 
+Predicted 
+Total Population Ages 18-64 Total Population Ages 18-64 
+Location Disability Severe MR Mental 
+Illness 
+Blind Visual 
+Difficulty 
+Disability Severe MR Mental 
+Illness 
+Blind Visual 
+Difficulty 
+United States 21.6 9.9 0.61 9.2 0.11 2.4 21.1 9.5 0.56 8.6 0.11 2.3 
+Alabama 21.3 12.2 1.72 9.4 0.10 1.8 19.4 10.3 1.09 8.9 0.12 1.5 
+Alaska 23.9 8.7 2.17 7.6 0.00 1.1 22.2 7.8 0.52 5.7 0.09 1.9 
+Arizona 18.5 9.4 0.29 7.5 0.00 2.5 19.0 9.4 0.42 7.4 0.08 2.4 
+Arkansas 24.4 10.6 0.21 8.7 0.21 2.1 23.3 10.8 0.52 7.6 0.14 2.0 
+California 18.9 8.2 0.27 7.7 0.08 2.1 18.8 8.3 0.45 7.3 0.09 2.2 
+Colorado 27.7 10.9 0.52 12.2 0.00 3.5 27.5 10.5 0.37 11.5 0.07 3.7 
+Connecticut 18.0 7.9 0.94 6.9 0.09 1.6 18.2 8.1 0.67 6.9 0.12 2.0 
+Delaware 20.7 6.4 1.43 13.6 0.00 2.1 19.2 5.8 0.47 12.4 0.14 2.3 
+District of Columbia 20.7 8.7 0.00 13.0 0.00 3.3 16.9 6.5 0.48 11.5 0.17 2.8 
+Florida 17.7 9.2 0.43 7.7 0.17 2.2 17.4 9.1 0.47 6.9 0.15 2.2 
+Georgia 17.4 8.5 0.73 6.8 0.18 2.3 16.2 7.6 0.52 5.9 0.15 2.3 
+Hawaii 16.0 5.1 1.14 4.0 0.00 2.9 17.3 6.0 0.56 3.7 0.12 3.0 
+Idaho 32.0 9.4 0.00 10.9 0.00 5.5 31.7 9.3 0.41 10.1 0.07 5.4 
+Illinois 21.2 8.3 0.60 8.2 0.22 2.3 21.1 8.0 0.54 8.0 0.18 2.2 
+Indiana 21.6 10.2 0.73 8.2 0.15 2.6 20.7 9.7 0.55 7.6 0.16 2.5 
+Iowa 18.4 7.8 0.87 8.5 0.10 1.5 18.6 7.9 0.46 8.2 0.05 1.6 
+Kansas 19.5 7.8 0.60 8.1 0.12 2.0 19.3 7.7 0.47 8.0 0.05 2.1 
+Kentucky 25.2 13.2 1.11 10.5 0.00 3.7 23.7 12.2 0.97 9.4 0.10 3.4 
+Louisiana 26.7 13.2 1.34 10.9 0.49 2.4 26.3 12.7 0.55 10.6 0.15 1.8 
+Maine 32.6 14.0 0.00 15.5 0.00 2.3 30.3 12.9 0.72 13.0 0.12 2.0 
+Maryland 19.9 8.8 0.20 8.4 0.00 2.5 18.9 7.8 0.46 7.6 0.14 2.3 
+Massachusetts 21.8 9.7 0.65 9.1 0.00 2.7 21.8 9.3 0.65 8.4 0.11 2.5
+
+Appendix B Guide to Assessing VR Needs  
+ B-4 
+Exhibit B-1 Multivariate Estimates for States (cont.)  
+ 2004 SIPP 
+Actual 
+2006 ACS 
+Predicted 
+Total Population Ages 18-64 Total Population Ages 18-64 
+Location Disability Severe MR Mental 
+Illness 
+Blind Visual 
+Difficulty 
+Disability Severe MR Mental 
+Illness 
+Blind Visual 
+Difficulty 
+Michigan 26.4 10.3 0.68 12.3 0.12 2.4 24.9 9.5 0.55 11.7 0.17 2.0 
+Minnesota 18.2 7.4 0.46 8.9 0.00 1.3 19.4 7.7 0.45 8.9 0.04 1.3 
+Mississippi 27.4 15.1 1.05 13.5 0.30 3.6 26.3 14.6 1.22 13.0 0.13 3.6 
+Missouri 26.1 11.8 0.31 11.6 0.06 2.6 25.0 11.2 0.49 10.8 0.05 2.4 
+Montana 27.1 14.5 0.60 15.1 0.00 1.8 26.1 14.4 0.40 15.3 0.07 1.8 
+Nebraska 16.8 4.3 0.66 5.6 0.00 2.3 18.9 4.1 0.46 5.9 0.05 3.1 
+Nevada 27.2 11.5 0.59 11.8 0.00 4.1 27.3 11.5 0.46 12.8 0.08 4.1 
+New Hampshire 27.1 13.3 0.49 14.8 0.49 2.5 26.3 12.7 0.65 14.2 0.11 2.7 
+New Jersey 17.7 8.1 0.58 7.1 0.17 1.2 17.8 8.4 0.70 7.2 0.06 1.3 
+New Mexico 25.5 8.6 0.72 12.2 0.00 2.9 27.4 11.8 0.44 11.6 0.10 4.7 
+New York 19.3 8.8 0.89 8.4 0.04 2.2 19.5 8.8 0.76 8.2 0.07 2.2 
+North Carolina 20.6 10.1 0.80 8.0 0.07 2.0 21.8 10.1 0.50 7.5 0.15 1.9 
+North Dakota 23.1 7.7 0.00 8.7 0.00 2.9 24.4 9.1 0.46 8.0 0.05 3.4 
+Ohio 23.9 11.9 0.40 10.5 0.23 3.2 23.4 11.4 0.54 10.1 0.17 3.3 
+Oklahoma 27.8 13.8 0.56 13.3 0.16 4.9 26.8 12.9 0.52 11.7 0.14 4.6 
+Oregon 20.4 10.0 0.23 10.2 0.39 1.4 20.3 9.8 0.39 9.8 0.07 1.3 
+Pennsylvania 23.7 10.4 1.00 10.2 0.00 2.9 22.7 9.5 0.73 9.4 0.06 2.7 
+Rhode Island 24.6 11.3 0.70 10.6 0.70 2.8 25.1 11.5 0.73 10.5 0.12 3.2 
+South Carolina 22.8 14.5 0.73 9.8 0.41 2.6 22.8 14.8 0.52 9.5 0.16 2.1 
+South Dakota 18.5 7.4 0.74 8.1 0.00 0.7 18.4 6.9 0.49 7.1 0.05 0.9 
+Tennessee 30.8 15.8 1.03 14.2 0.14 5.3 28.9 15.0 1.01 13.3 0.10 4.9 
+Texas 21.9 9.1 0.39 9.4 0.07 2.1 22.1 9.1 0.50 9.3 0.15 2.0
+
+Appendix B Guide to Assessing VR Needs  
+ B-5 
+Utah 11.0 6.4 0.00 4.7 0.00 2.2 11.1 6.0 0.41 4.3 0.06 2.7 
+Exhibit B-1 Multivariate Estimates for States (cont.) 
+ 
+ 2004 SIPP 
+Actual 
+2006 ACS 
+Predicted 
+Total Population Ages 18-64 Total Population Ages 18-64 
+Location Disability Severe MR Mental 
+Illness 
+Blind Visual 
+Difficulty 
+Disability Severe MR Mental 
+Illness 
+Blind Visual 
+Difficulty 
+Vermont 16.5 8.9 0.00 6.3 0.00 2.5 16.8 9.5 0.67 6.5 0.11 2.5 
+Virginia 16.6 7.9 0.66 5.7 0.12 1.2 15.4 7.0 0.46 5.1 0.14 1.0 
+Washington 26.3 12.3 0.77 12.0 0.15 2.7 26.4 12.3 0.40 11.8 0.07 2.6 
+West Virginia 20.6 10.3 0.30 5.2 0.00 2.1 21.7 10.3 0.46 5.1 0.13 2.4 
+Wisconsin 17.9 8.3 0.38 8.4 0.05 0.8 18.7 8.6 0.53 8.5 0.16 1.0 
+Wyoming 24.2 15.4 1.10 8.8 0.00 5.5 22.8 12.8 0.41 8.4 0.07 5.8
+
+Appendix B Guide to Assessing VR Needs  
+ B-6 
+The Exhibit shows predicted rates of any disability: severe disability, mental retardation, 
+mental illness, blindness, and visual difficulty for each state.   
+Any of these estimates have less accuracy than those from a survey that is done with a 
+large sample from the state or substate area.  Often, however, conducting a survey on 
+these subpopulations can be infeasible or prohibitively expensive. Therefore, these 
+“synthetic” estimates are the most cost-effective method to supply a reasonably accurate 
+estimate.  In making decisions based on these relatively imprecise estimates, it is 
+important to obtain different estimates to see the possible range of the size of the 
+subpopulation. The estimates can help to draw a preliminary demographic sketch of the 
+subpopulations, and other qualitative and quantitative methods in the CSNA and can help 
+to provide detail for a fuller description of the needs of the groups. 
+Estimating Subpopulations of Disabilities 
+People with blindness and visual impairment. Applying national estimates to state 
+populations.  Different national surveys ask different questions to determine the 
+prevalence of specific disabilities, resulting in different estimates.   
+• A recent analysis of the National Health Interview Survey (NHIS), a survey that 
+is conducted by the National Center for Health Statistics, found that among 
+noninstitutionalized US adults 18 years and older
+ the estimated prevalence for 
+visual impairment was 9.3 percent, including 0.3 percent with blindness 
+(Ryskulova, Turczyn, Makuc, Cotch, Klein, & Janiszewski, 2008).   
+• According to the SIPP, 3.5 percent of the population age 15 and older has a 
+visual disability (difficulty seeing words or letters in ordinary print even when 
+wearing glasses or contact lenses), including 0.8 percent of the population with a 
+severe visual disability (unable to see words and letters) (Steinmetz, 2006).  
+• By using the multivariate estimating approach, rates that take state demographic 
+differences into consideration can be predicted by state.  The SIPP actual national 
+estimate for 2004 for those age 18-64 is 0.11 percent for blindness and 2.4 
+percent for visual impairment (Note that the SIPP estimate for this group should 
+be lower than for the more inclusive age group above). The multivariate analysis 
+using disability measures and demographic relationships in the SIPP for this age 
+group and applying them to ACS populations results in predicted state estimates 
+that vary from 0.04 percent (MN) to 0.18 percent (IL) for blindness and 0.9 
+percent (SD) to 5.8 percent (WY) visual impairment.  Exhibit B-1 shows state 
+disability rates predicted using this approach.  
+Applying these estimates to state population will provide a range of estimates of the 
+number of people with blindness or severe visual impairment and those with visual 
+impairment.   
+Deaf or severe hearing disability. Applying national estimates to state populations. 
+According to the SIPP estimates, 3.5 percent of the population 15 years and older have a 
+hearing disability, including 0.4 percent severe and 3.1 percent nonsevere (Steinmetz,
+
+Appendix B Guide to Assessing VR Needs  
+ B-7 
+2006).  Applying the SIPP national estimates will provide a rough estimate of the number 
+of people with hearing disabilities in the state.   
+American Community Survey (ACS) for visual and hearing disabilities.  Through 
+2007 the ACS provides estimates of the number of people with sensory disabilities, 
+which include both hearing and vision disabilities together as one estimate. Beginning 
+with the 2008 ACS, the survey will ask a separate question about vision disability: “Is 
+this person blind or does he/she have serious difficulty seeing even when wearing 
+glasses?”  and about hearing disability: ”Is this person deaf or does he/she have serious 
+difficulty hearing?”  When the 2008 ACS estimates are available in 2009, there will be 
+state and substate estimates of vision disability and hearing disability from the ACS.  
+Mental retardation and other developmental disabilities. Estimates from the American 
+Journal on Mental Retardation.   Experts in mental retardation (MR) and developmental 
+disabilities (DD) have calculated an overall estimate of the population 18 years and older 
+with MR as two per 1,000 in the noninstitutionalized population, as published in an 
+article in the American Journal on Mental Retardation (Larson, Lakin, Anderson, Kwak 
+& Anderson, 2001).  This estimate is based on analysis of data for the entire nation, using 
+the National Health Interview Survey – Disability (NHIS-D), conducted in 1994-95. The 
+same study estimated the population of people 18 years and older with MR and/or other 
+developmental disabilities (MR/DD) as seven per 1,000 in the noninstitutionalized 
+population. State VR agencies may apply these rates to their state ACS population 
+estimates to obtain estimates of the subpopulations 18 years and over with MR and with 
+MR/DD who are not living in institutions.  
+Estimate used by Developmental Disabilities Councils.  To estimate the rate of 
+developmental disabilities, which includes mental retardation, many Developmental 
+Disabilities Councils use the prevalence estimate of 1.8 percent of the 
+noninstitutionalized population developed by Gollay and Associates, based upon their 
+analysis of the National Survey of Income and Education (Gollay, 1981).  This estimate, 
+which includes children, is higher than the one reported above, in part because the 
+reported rates of developmental disabilities among children are higher than those of 
+adults.  
+Multivariate estimates from the ACS and SIPP.  Exhibit B-1 shows the 2004 SIPP 
+national estimate to be 0.61 percent of the population ages 18-64, and predicted state 
+estimates using the 2006 ACS ranging from 0.37 percent (CO) to 1.22 percent (MS).  
+Applying these estimates to state populations will provide a range of estimates of the 
+number of people with mental retardation and other developmental disabilities.  In the 
+adult population 0.2 percent of the population is estimated to have MR and 0.7 percent is 
+estimated to have MR/DD. However, including a younger population, such as transitional 
+youths, the estimate for MR/DD would be 1.8 percent. 
+Mental illness. SAMHSA block grant guidelines.  One source to estimate the population 
+with severe mental illness in the state is the Substance Abuse and Mental Health Services 
+Administration (SAMHSA) guideline to calculate the rate of severe mental illness for its
+
+Appendix B Guide to Assessing VR Needs  
+ B-8 
+block grants.  According to this estimate, 5.5 percent of the adult population (18 years 
+and older) has a severe mental illness (SMI), a percentage that may be applied to the ACS 
+state population estimate.  Among youth, 10 to 17 years of age, 9.5 percent is estimated 
+to have a serious emotional disturbance (SED) (Substance Abuse and Mental Health 
+Services Administration [SAMHSA]Office of Applied Studies, 2008). 
+SAMSHA state profiles.  Another resource for estimates of severe mental illness is a 
+SAMSHA publication that includes profiles on each state, with tables estimating the 
+number of adults with SMI and youths with SED, available at 
+http://www.hrsa.gov/reimbursement/TA-materials.htm
+  (SAMSHA, 2000). 
+Multivariate estimates from the ACS and SIPP.  Predicted state estimates from the 2006 
+ACS vary from 3.7 percent (HI) to 14.2 percent (NH) with mental illness for those age 
+18-64. Nationally, the 2004 SIPP actual estimate is 9.2 percent.  
+Applying these estimates to state populations will provide a range of estimates of the 
+number of people with severe mental illness.  In this case, the range would be between 
+5.5 percent and 8.6 percent for the individual state’s rate for adults, and 9.5 percent for 
+the individual state’s rate for youths with SED. 
+Additional state data on people with mental illness.  The Web site www.statedata.info
+ 
+also contains state data on people with mental illness from state mental health agencies. 
+Employment-related data include the number of mental health (MH) consumers who are 
+employed, the number of MH consumers in the labor force, and the percentage of all state 
+MH consumers who are served in the community who are employed. 
+Self-care disabilities. The ACS provides a method for estimating self-care disabilities.  
+Self-care disabilities may be considered “most significant,” depending on the state’s 
+definition.  These estimates are available for state and substate areas.  As of the 2005 
+ACS, 2.8 percent had a self-care difficulty.  The Center for PAS Web site has these data 
+by state.  The range is 1.0 percent (HI) to 3.8 percent (MS and WV) for those ages 18-64.  
+(Choose “Disability Statistics” at http://www.pascenter.org/state_based_stats/index.php
+).  
+Severe speech disability.  Applying SIPP estimates to ACS state population. According 
+to the SIPP estimates, 1.2 percent of the population 15 years and older has a speech 
+disability, including 0.3 percent severe and 0.9 percent nonsevere (Steinmetz, 2006). 
+Wheelchair users. Applying SIPP estimates to ACS state population. According to the 
+SIPP estimates, 1.2 percent of the population 15 years and older used a wheelchair or 
+similar device (Steinmetz, 2006). 
+Traumatic brain injury. People with a traumatic brain injury (TBI) represent another 
+group that may be considered most significant and may have needs for supported 
+employment.  There is no SIPP estimate of TBI. Some states have TBI registries or state 
+TBI offices that may have state-level estimates.
+
+Appendix C  Guide to Assessing VR Needs  
+ C-1 
+Appendix C: Projections of State Population and Labor and Economic 
+Forecasts 
+Projections are an important component of the needs assessment model: They allow VR 
+agencies to understand expected changes in the state in upcoming years and to plan for 
+those changes. Two different kinds of projections are recommended in the model for the 
+Comprehensive Statewide Needs Assessment (CSNA): population projections, and 
+employment and labor force forecasts.  
+Population Projections 
+Population projections provide information about expected population changes in the 
+state, including overall population trends and changes within age groups that are of 
+interest to VR. These projections are estimates of the population at future dates based on 
+assumptions about future births, deaths, and international and domestic migration.  
+Current Census Bureau projections by state include age and sex projections from census 
+2000 to 2030 in five-year increments (U.S. Census Bureau, 2007e).  
+Population projections also provide information about expected changes in the 
+populations of racial and ethnic minority groups. As of June 2008, the most recent 
+population projections from the US Census Bureau that include racial and ethnic 
+minorities by state were published in 1996 and are based on the 1990 census. However, 
+many states have more recent projections on racial and ethnic minorities that are based on 
+census 2000. There is variation in the dates to which states have projected their 
+populations and the age groups for which data are available. 
+Population projections provide  
+• a picture of upcoming changes in the overall population that will influence 
+rehabilitation needs; and 
+• information about projected changes in the populations of racial and ethnic 
+minority groups. 
+Examples of Population Projection Data Available for All States 
+Population by Age Group 
+Based on census 2000 data, Summary Table B1 from the Census Bureau at: 
+<http://www.census.gov/population/www/projections/projectionsagesex.html
+> provides 
+projected population changes from 2000 to 2030, by 5-year increments, by age groups of 
+interest to VR.  Exhibit C-1 is an example of data from Summary Table B1 on the 
+census.gov Web site for Nevada.
+
+Appendix C  Guide to Assessing VR Needs  
+ C-2 
+Exhibit C-1:  Table of Projected Population Data for Nevada, Showing Projected 
+Population Changes 2000 to 2030, by 5-Year Increments, Selected Age Groups 
+Geo-
+graphic 
+Area 
+Selected 
+Age 
+Groups 
+Census 
+April 1, 
+2000 
+Projected 
+July 1, 
+2005 
+Projected 
+July 1, 
+2010 
+Projected 
+July 1, 
+2015 
+Projected 
+July 1, 
+2020 
+Projected 
+July 1, 
+2025 
+Projected 
+July 1, 
+2030 
+NEVADA               
+Total 1,998,257 2,352,086 2,690,531 3,058,190 3,452,283 3,863,298 4,282,102 
+14 to 17 
+years 104,267 126,996 140,930 151,047 170,434 192,340 219,275 
+18 to 24 
+years 179,708 208,923 241,995 268,976 285,509 312,870 345,666 
+25 to 44 
+years 628,572 685,376 718,950 764,185 828,071 906,584 1,000,603 
+45 to 64 
+years 
+459,249 598,068 734,880 851,422 950,822 1,015,982 1,063,021 
+65 years 
+and over
+ 218,929 266,255 329,621 421,719 531,120 659,700 797,179 
+ 
+Data in this table indicate that the total population of Nevada is expected to more than 
+double between 2000 and 2030.  A number of age groups will also double in size, and the 
+population of people 65 years and over will nearly triple during that same period.  
+ 
+Population by Race and Ethnicity 
+For all states, state-level race and ethnicity data that were based on census 1990 and 
+released October 1996 are available at:  
+http://www.census.gov/population/projections/state/stpjrace.txt
+ (U.S. Census Bureau, 
+1996), which provides projected population, changes from 1995 to 2025, by 5-year 
+increments, by sex, race and ethnicity. 
+Exhibit C-2 provides an example of a table excerpted from data at that Web site, showing 
+the expected population growth of the population by race and ethnicity for Arizona.
+
+Appendix C  Guide to Assessing VR Needs  
+ C-3 
+Exhibit C-2: Projected State Population, Arizona, by Sex, Race, and Hispanic 
+Origin, 2000-2025 
+ARIZONA (in thousands) July 1, 2000 
+(projected 
+from 1990) 
+July 1, 2005 
+projected  
+July 1, 2015 
+projected  
+July 1, 2025 
+projected  
+White 4,252 4,623 5,103 5,599 
+Black 177 203 241 285 
+American Indian, Eskimo, Aleut 262 277 304 332 
+Asian/Pacific Islander 107 129 159 195 
+Hispanic 1,071 1,269 1,641 2,065 
+ 
+According to this information, the Hispanic population of Arizona is expected to nearly 
+double in the period between 2000 and 2025, and the population of Asian/Pacific 
+Islanders to increase by more than 80 percent.  The black population is also expected to 
+increase by more than 60 percent in that time period, while the white and American 
+Indian populations are projected to increase less dramatically.   
+Examples of Recent Population Projections Available for Some States 
+At least 14 states have created recent state population projections that include race and 
+ethnicity and are based on census 2000. Census 2000-based state data are available for 
+Arkansas, California, Connecticut, Delaware, Florida, Georgia, Illinois, Minnesota, 
+Mississippi, New Hampshire, New Jersey, North Carolina, Texas and Washington, and 
+may be available for other states (Cole, 2003; Connecticut State Data Center, 2007; 
+Delaware Population Consortium, 2007; Florida Legislature Office of Economic & 
+Demographic Research, 2007; Georgia Office of Planning and Budget, 2005; Hamilton, 
+2005; Illinois Department of Commerce and Economic Development, 2005; Minnesota 
+State Demographic Center, 2005; Mississippi Institutions of Higher Learning Office of 
+Policy Research and Planning, 2009; New Hampshire Office of Energy and Planning, 
+2006; New Jersey Department of Labor and Workforce Development, 2006; North 
+Carolina State Demographics, 2007; State of California Department of Finance, 2007; 
+State of Washington Office of Financial Management, 2006; Texas Populations 
+Projections Program, 2009).   
+When more recent projections are available, they will provide a more accurate picture of 
+the future population of the state than the current projections based on Census 1990.  
+However, state-generated projections vary in terms of how far into the future the data are 
+projected and the increments by which the data are projected. In addition, some state 
+projections may not include all racial and ethnic groups that are enumerated in the 
+census.   
+For example, California has used census 2000 data to project the population by race and 
+Hispanic origin from 2000 to 2050 in 5-year increments.  These data are available at: 
+<
+http://www.dof.ca.gov/html/DEMOGRAP/Data/RaceEthnic/Population-00-
+
+Appendix C  Guide to Assessing VR Needs  
+ C-4 
+50/RaceData_2000-2050.php> (State of California Department of Finance, 2007).  
+Exhibit C-3 shows data excerpted from that Web site.  
+Exhibit C-3 Race and Ethnic Population Projections, California  
+CALIFORNIA  
+All Ages  
+(in thousands) 
+2000 
+Census 
+2005 
+projected  
+2010 
+projected 
+2015 
+projected 
+2020 
+projected 
+2025 
+projected 
+2030 
+projected 
+Total 34,105 36,957 39,136 41,573 44,136 46,720 49,241 
+White not 
+Hispanic 
+ 
+16,134 16,408 16,439 16,474 16,509 16,483 16,378 
+ 
+Hispanic 
+ 
+11,057 12,906 14,513 16,314 18,261 20,279 22,336 
+Asian/Pacific 
+Islander 
+ 
+3,872 4,393 4,834 5,290 5,724 6,160 6,581 
+ 
+Black 
+ 
+2,218 2,255 2,287 2,341 2,390 2,438 2,475 
+American 
+Indian 
+ 
+186 215 241 271 300 326 351 
+Two or more 
+races 
+ 
+637 780 822 883 951 1,035 1,120 
+ 
+According to these data, the populations of Hispanic, Asian/Pacific Islander, American 
+Indian and “two or more races” are each expected to increase by well over 50 percent by 
+2030, while the populations of white not Hispanic and black will not dramatically 
+increase.  
+ 
+Employment and labor force forecasts 
+The Bureau of Labor Statistics (BLS) provides detailed 10-year projections at the 
+national level on occupational outlook, including projected employment growth by 
+industry, occupational category and occupations.  In late 2007 the BLS released 
+projections for the period 2006 to 2016; earlier national projections for 2004 to 2014 
+were released in 2006.  
+Employment and labor force projections provide:  
+• which jobs will have higher demand in upcoming years; and 
+• which jobs and industries are likely to employ people according to their 
+demographic characteristics (for states with more detailed reports on employment 
+and labor force projections).
+
+Appendix C  Guide to Assessing VR Needs  
+ C-5 
+Examples of Available Data 
+The BLS Web site links to <http://www.projectionscentral.com>, a Web site that uses 
+BLS and state data to provide occupational employment projections (Almis State 
+Projections, 2007). Projectionscentral.com currently has projections from 2006 to 2016 
+for each state. Exhibit C-4 provides an example of a table from the projections central 
+Web site that shows the occupations with the highest expected numeric change in 
+employment from 2006 to 2016 for Alabama (column labeled “Numeric employment 
+change):  
+ 
+Exhibit C-4: Occupational Projections 2006 to 2016, Alabama,  
+Sorted by Numeric Employment Change  
+Area  Title  2006 
+Employment 
+ 2016 
+Employment 
+ Numeric 
+Employment 
+Change 
+ Percent 
+Employment 
+Change 
+ Average 
+Annual 
+Openings 
+ Alabama Total- all occupations,  2,167,980 2,485,400 317,420  15  81,440 
+ Alabama Retail sales persons  62,340 76,190 13,850  22  3,300 
+ Alabama  Registered nurses  40,320  51,850  11,530  29  1,820 
+ Alabama Combined food 
+preparation and 
+serving workers, 
+including fast food  
+6,230  57,130  10,890  24  1,970 
+ Alabama Team assemblers  34,390  43,620 9,240  27  1,640 
+ Alabama Office clerks, general  41,770 48,650  6,880  17  1,460  
+Alabama Janitors and cleaners, 
+except maids and 
+housekeeping cleaners 
+ 33,260  39,960  6,700  20  1,310 
+ Alabama Waiters and waitresses  28,900  35,370  6,470  22  2,220  
+ Alabama Truck drivers, heavy 
+and tractor-trailer 
+ 41,030  47,240 6,210  15  1,350 
+ Alabama  Bookkeeping, 
+accounting, and 
+auditing clerks  
+31,730  37,770 6,040  19  1,100 
+ Alabama Customer service 
+representatives  
+22,790  8,770  5,980  26  1,230 
+ Alabama  Postsecondary 
+teachers 
+ 17,400  22,430  5,020  29  790 
+ 
+ 
+Exhibit C-5 shows the data for Alabama, sorted by “Average Annual Openings.”
+
+Appendix C  Guide to Assessing VR Needs  
+ C-6 
+Exhibit C-5: Occupational Projections 2006 to 2016, Alabama, Sorted by Average 
+Annual Openings 
+Area  Title  2006 
+Employment 
+ 2016 
+Employment 
+ Numeric 
+Employment 
+Change 
+ Percent 
+Employment 
+Change 
+ Average 
+Annual 
+Openings 
+Alabama Total, all occupations 2,167,980  2,485,400  317,420  15  81,440  
+Alabama Retail salespersons  62,340  76,190  13,850  22  3,300 
+Alabama Cashiers, except 
+gaming 
+57,690  61,310  3,620  6  3,110 
+ 
+Alabama 
+Waiters and 
+waitresses  
+28,900  35,370 6,470  22  2,220 
+ 
+Alabama 
+ Combined food 
+preparation and 
+serving workers, 
+including fast food 
+ 46,230  57,130  10,890  24  1,970 
+Alabama  Registered nurses  40,320  51,850  1,530  29 1,820  
+Alabama Laborers and freight, 
+stock, and material 
+movers, hand 
+ 40,990  45,840 4,850  12  1,800 
+Alabama  Team assemblers  34,390  43,620 9,240  27  1,640  
+Alabama Office clerks, general  41,770  48,650 6,880  17  1,460 
+Alabama Truck drivers, heavy 
+and tractor-trailer  
+41,030  47,240  6,210  15  1,350 
+Alabama Janitors and cleaners, 
+except maids and 
+housekeeping 
+cleaners 
+ 33,260 39,960 6,700 20 1,310 
+Alabama  Customer service 
+representatives 
+22,790 28,770 5,980 26 1,230 
+ 
+Together, these tables suggest that there are a number of occupations that are projected to 
+have both higher numbers of jobs and higher average annual openings in 2016. 
+ 
+Other Sources of Data on Labor and Economic Projections 
+In addition to these data that are available for all states, individual state departments of 
+labor and economic development have used BLS and other data to produce state-level 
+reports on employment outlook and labor force growth.  For example, the New Jersey 
+Department of Labor and Economic Development used census, BLS, and state 
+projections to produce a report that details many aspects of employment growth that are 
+relevant to VR planning, including information about the industries that will produce the 
+most jobs in the state, annual projected job openings by educational attainment, and labor 
+force growth by race, ethnicity and gender (New Jersey Department of Labor and 
+Workforce Development, 2006).
+
+Appendix D  Guide to Assessing VR Needs  
+ D-1 
+Appendix D: VR Agency Data 
+VR data and reports provide rich sources of information to answer the questions about 
+rehabilitation needs in the state.  Essential information is available from the state’s RSA-
+911 data system, from existing reports to RSA, and from other internal reports and 
+studies, which complement new data collection from VR counselors and administrators.  
+VR data also may be used to look at service patterns and needs in substate areas. 
+VR agency data and reports provide:  
+• characteristics of those who are currently receiving services (caseload statistics); 
+• characteristics of those who have exited the program; 
+• disability and other demographic characteristics of the consumer, pre- and post-
+descriptors of status, types of services received, and their costs, and the nature of 
+the closure, such as reason, type, and characteristics of employment status; and 
+• overall service patterns and expenditures. 
+Each state agency has its own data system from which it can retrieve all necessary data.  
+In order to discuss the information that can be used, examples will be presented in this 
+appendix from the national data sources, but each state agency can refer to its own data.  
+VR program data examples and required state reports  
+Information from the following program data and existing reports from state agencies 
+provide a snapshot of VR service patterns at the state level.  Many of the reports are 
+publicly available at: <http://rsamis.ed.gov
+>  (Rehabilitation Services Administration, 
+2008a). 
+VR agency internal MIS reports. Internal reporting on case services and outcomes will 
+be valuable sources of information.  VR data useful for the CSNA are just a part of the 
+overall state agency MIS and QA system.  These reports may be available not only at the 
+state level but for regions, districts or office, and show variation in services within the 
+state as well as for the state overall. 
+Data from the RSA-911 system. In addition to the picture of current services provided 
+by existing reports, administrative data from the RSA-911 data system also provide a 
+basis for comparison with other data. Data on characteristics of VR consumers who were 
+served may be compared with data from the ACS to obtain an overview of the population 
+served, within the context of the state’s disability population.  Data on a number of 
+demographic characteristics are available in both the ACS and the VR-911, allowing 
+comparison of the population that is currently served by VR with the ACS disability 
+population that is not working.  The comparisons may help to identify groups that are 
+unserved or underserved in the VR program, relative to their representation in the state, 
+with the caution that the ACS disability measures are much more general than VR’s 
+definitions, and the ACS disability population is much broader than the population 
+eligible for VR services.
+
+Appendix D  Guide to Assessing VR Needs  
+ D-2 
+Minority groups. The following sample table shell (Exhibit D-1) shows how data from 
+the ACS on the representation of ethnic and racial minorities within the population of 
+working age people with disabilities who are not employed may be compared with VR 
+data. 
+Exhibit D-1: Noninstitutionalized people with a disability and not employed in 
+California, ages 16 – 64 years, by race and ethnicity, estimates from the 2006 ACS 
+ 
+California ACS 2006 
+Percentage of people with 
+a disability and not 
+employed 
+All clients served by VR 
+agency 
+FY2006  
+Total (16 – 64 years) 100.0% 100.0% 
+Race (16 years – 64 years)   
+White 61.2%  
+African American 11.0%  
+Asian/Pacific Islander 8.6%  
+American Indian/Alaska 
+Native 
+1.7%  
+Some other race(s) 13.6%  
+Two or more races 3.9%  
+Ethnicity (16 – 64 years)   
+Hispanic 28.9%  
+ 
+In addition, the VR population may be compared to the ACS state population on other 
+variables that are in both data sets, including gender, age group, educational attainment, 
+receipt of supplementary security income (SSI), and others. This information can help to 
+identify other groups that may be unserved or underserved within the VR program. 
+Using R-911 data on employment outcomes for minorities. RSA-911 data can be used 
+also to look at the needs of minorities in the VR system by examining data on 
+employment status at closure by type of closure for the different racial and ethnic groups.  
+These data provide information about the extent to which the different minority groups 
+are achieving comparable employment outcomes.  Large differences in the rates for 
+different groups may indicate need for tailored services for the underserved group. 
+Exhibit D-2 presents a table shell that shows how employment outcome closures may be 
+compared by type of employment outcome and race/ethnicity.
+
+Appendix D  Guide to Assessing VR Needs  
+ D-3 
+Exhibit D-2: Table Shell for Comparing Employment Outcomes by Race/Ethnicity 
+ 
+ 
+All employment outcomes 
+Competitive employment 
+Extended employment 
+Self-employment 
+Business enterprise 
+Homemaker 
+Whites 
+  
+#             
+%             
+Blacks 
+  
+#             
+%             
+American Indian 
+  
+#             
+%             
+Asian Pacific Islander 
+  
+#             
+%             
+Two or more races 
+  
+#             
+%             
+Hispanic/Latino 
+  
+#             
+%             
+ 
+Service patterns of people with most significant disability and their needs for supported 
+employment.  The RSA-911 data also provide information about people who have most 
+significant disabilities and the extent to which they are using supported employment 
+services.  An examination of the service patterns and outcomes for people with most 
+significant disabilities and those who received supported employment services may help 
+understand their needs.   Data on supported employment from the SF-269 Financial 
+Status Report (not publicly available on the RSA Web site but available from state 
+agency office) also will assist in understanding current service patterns in supported 
+employment.     
+Using RSA-911 information on CRPs.  The RSA-911 data includes information on 
+whether an individual was referred by a CRP, whether services were provided by public 
+or private CRPs, and whether individuals were closed in “extended employment,” or 
+work in nonintegrated settings.  This can be examined at the substate level (offices, 
+districts) to identify differences in service utilization, costs, or coverage.  
+Annual Client Assistance Program Report (RSA-227). The RSA-227 is used to 
+analyze and evaluate the services administered by designated Client Assistance Program
+
+Appendix D  Guide to Assessing VR Needs  
+ D-4 
+(CAP) agencies. CAP grantees advocate for clients and client applicants in the VR 
+system as well as provide assistance and advocacy regarding other employment-related 
+services (Rehabilitation Services Administration, 2006a; 2006b; 2008b). RSA-227 
+summarizes services provided to consumers, consumer applicants, and CRPs.  Relevant 
+data elements include number of individuals served, reasons for closing cases, 
+demographics of those who were served, and description of “problem areas” identified in 
+CAP cases.  Examination of the CAP reports can help to determine whether any minority 
+groups, disability groups, or age groups have a disproportionate number of CAP cases 
+relative to their representation in the VR agency, which could be a possible indicator of 
+that group being unserved or underserved.  A qualitative examination of “problem areas” 
+could help to determine needs for outreach or services. See Exhibit D-4 at the end of the 
+appendix for the data included in the RSA-227. 
+Waiting List Data. Examining the characteristics of individuals on the waiting list may 
+identify some people who currently are unserved by the VR system. It also may be useful 
+to compare the characteristics of the people on the waiting list with the state’s population, 
+by demographic factors such as race and ethnicity, education level, age group, gender or 
+other factors to learn whether any groups are disproportionately represented on the list 
+relative to their representation in the state. 
+Annual Review Report. The Annual Review Report (ARR) uses information from a 
+variety of sources to summarize each state’s data and annual performance, including 
+compliance with standards and indicators (Rehabilitation Services Administration, 
+2007b). Many data items in this report are relevant to the CSNA.  Exhibit D-3 shows the 
+tables that are contained in the ARR, which assist in understanding service patterns for 
+different populations (underlined below) as well as overall employment outcomes, 
+expenditures and other pertinent information. (Information that is most relevant to the 
+CSNA is underlined in the Exhibit.)
+
+Appendix D  Guide to Assessing VR Needs  
+ D-5 
+Exhibit D-3:  List of tables in the ARR 
+Table 1 Program highlights for FY  
+Table 2 Caseload statistics  
+Table 3 Individuals whose cases were closed after receiving services by disability for ADRS 
+(includes visual impairments, physical disorders, communicative impairments, 
+cognitive impairments, and mental/emotional impairments.) 
+Table 4 Special populations served (includes transition youths) 
+Table 5 SSI recipients and SSDI beneficiaries 
+Table 6 Services provided  (includes eight broad services plus “other”) 
+Table 7 Average hours worked per week and average hourly earnings, competitive employment 
+Table 8 Employment outcomes by type of employment (types include: 
+• Employment without supports in an integrated setting 
+• Employment with supports in an integrated setting 
+• Self-employment 
+• BEP 
+• Homemaker and unpaid family worker) 
+Table 9 Average hours worked per week and average hourly earnings by type of employment 
+(same types as table 8) 
+Table 10 Employment outcomes by disability (same disabilities as table 3) 
+Table 11 Employment rates by disability (same disabilities as table 3) 
+Table 12 Average hours worked per week and average hourly earnings by disability (same 
+disabilities as table 3) 
+Table 13 Employment outcomes for special populations (Includes transition youths) 
+Table 14 Employment rates for special populations (Includes transition youths) 
+Table 15 Average hours worked per week and average hourly earnings for special populations 
+(includes transition youths) 
+Table 16 Employment outcomes for SSI recipients and SSDI beneficiaries 
+Table 17 Employment rates for SSI recipients and SSDI beneficiaries 
+Table 18 Average hours worked per week and average hourly earnings for SSI recipients and 
+SSDI beneficiaries 
+Table 19 Staffing patterns 
+Table 20 Funds available 
+Table 21 Funds used 
+Table 22 Services provided to individuals 
+Table 23 Standard 1: Did the state agency assist eligible individuals to obtain, maintain, or 
+regain employment? 
+Table 24 Standard 2: Did the state agency ensure that individuals from minority backgrounds 
+have access to VR services? (Important for minorities) 
+Table 25 Decisions made in formal reviews 
+Table 26 Types of complaints/issues involved in disputes
+
+Appendix D  Guide to Assessing VR Needs  
+ D-6 
+Performance Standards. One of the data items reported in the ARR is Evaluation 
+Standard 2, an example of existing data that provides information relevant to the needs of 
+minorities in the CSNA.  RSA requires state VR agencies to report Performance Indicator 
+2.1 as the measure of Evaluation Standard 2, equal access opportunity for individuals of 
+all groups and backgrounds.  Performance Indicator 2.1 compares the “minority service 
+rate” to the “nonminority service rate.”  The minority service rate is the percentage of 
+minority individuals who received services under an Individualized Plan for Employment 
+(IPE) of all the minority individuals who exited the VR system in a given year. It is 
+calculated by dividing the number of minorities who received services under an IPE by 
+the total number who exited the VR system.  (The nonminority service rate is the 
+corresponding percentage for individuals who are not minorities.)  The two rates are 
+compared in a ratio by dividing the minority service rate by the nonminority service rate.  
+Evaluation Standard 2 is met if Performance Indicator 2.1 is .80 or higher.   
+In conjunction with other information in the model, the performance indicator provides 
+information about current services to minorities, which is relevant to understanding the 
+rehabilitation needs of minorities in the state. 
+Quarterly Cumulative Caseload Report (RSA-113). The Quarterly Cumulative 
+Caseload Report (RSA-113) includes items from the current caseloads related to 
+eligibility for services, development of an employment plan, implementation of the plan, 
+and outcomes.  The RSA-113 includes a wide range of data generated from the state 
+agencies’ administrative data regarding people who are currently receiving services.  The 
+report also includes information on order of selection. This report contributes to 
+providing a snapshot of services during the previous fiscal year, which is useful for 
+estimating service needs for next year.  Exhibit D-5 at the end of the appendix shows the 
+data elements that are included in the RSA-113. 
+Annual VR Program Cost Report (RSA-2). The Annual VR Program Cost Report 
+(RSA-2) contains data on total expenditures, number of individuals served and 
+expenditures by service category, person years by different categories of staff, 
+expenditures by funding sources (Title VI B vs. other), and carry-over funds. Exhibit D-6 
+at the end of this appendix contains the data items reported in the RSA-2.  Many items in 
+the RSA-2 are relevant to the CSNA.  For example, the section on individuals served and 
+expenditures by service category provides information about how many people received 
+each of eight major services and the cost of providing those services, which is relevant to 
+understanding current overall service patterns.   
+As another example, the Total Expenditures section of the RSA-2 includes information 
+on Community Rehabilitation Programs, including the following variables: 
+• Services Provided by State VR Agency Personnel Employed at Agency Operated 
+Community Rehabilitation Programs 
+• Services purchased by State VR Agency From: Public Community Rehabilitation 
+Programs
+
+Appendix D  Guide to Assessing VR Needs  
+ D-7 
+• Services purchased by State VR Agency From: Private Community Rehabilitation 
+Programs 
+• Services for Groups of Individuals with Disabilities: Establishment, Development, 
+or Improvement of Community Rehabilitation Programs 
+• Services for Groups of Individuals with Disabilities: Construction of Facilities for 
+Community Rehabilitation Programs 
+These data are relevant to answering the CSNA question about the need to establish, 
+develop, or improve community rehabilitation programs within the state, along with other 
+VR data, such as existing internal reports and consumer satisfaction data on CRPs.   
+Review of VR Agency Reports and Internal Studies. Other existing VR agency reports 
+and internal studies may contain information about rehabilitation needs in the state: 
+reports or studies that help to answer questions in the CSNA about needs of people with 
+most significant disabilities, including supported employment; needs of minorities and 
+other unserved or underserved groups; needs of those served through other components 
+of the WIA system; and need to establish, develop, or improve CRPs within the state. 
+Monitoring Reports on VR Agencies. Although they are not yet available for all states, 
+the Monitoring Reports on VR agencies provide a summary of information related to 
+performance and compliance. (Rehabilitation Services Administration, 2007a).  Current 
+monitoring reports are available at <
+http://www.ed.gov/rschstat/eval/rehab/107-
+reports/2008/index.html> 
+VR Counselors and staff stakeholder surveys and interviews 
+VR counselors and other staff are another rich source of information about the service 
+needs of consumers who are served and rehabilitation needs in the state and substate 
+areas.   In particular, VR counselors and other staff can help to answer questions about 
+the service needs of consumers, including needs for supported employment services.  In 
+the model, VR counselors also provide information about the need for adding or 
+expanding Community Rehabilitation Programs (CRPs).  See Appendix G: Stakeholder 
+Data for more information on primary data collection with VR staff and other 
+stakeholders.
+
+Appendix D  Guide to Assessing VR Needs  
+ D-8 
+Exhibit D-4: Data items in the  
+Annual Client Assistance (CAP) Report, RSA-227
+
+Appendix D  Guide to Assessing VR Needs  
+ D-9
+
+Appendix D  Guide to Assessing VR Needs  
+ D-10
+
+Appendix D  Guide to Assessing VR Needs  
+ D-11
+
+Appendix D  Guide to Assessing VR Needs  
+ D-12 
+Exhibit D-5:  Data items in the RSA-113
+
+Appendix D  Guide to Assessing VR Needs  
+ D-13 
+Exhibit D-6: Data items in the RSA-2
+
+Appendix D  Guide to Assessing VR Needs  
+ D-14
+
+Appendix D  Guide to Assessing VR Needs  
+ D-15
+
+Appendix E  Guide to Assessing VR Needs  
+ E-1 
+Appendix E: State-level Data from National Programs 
+A number of federal programs collect and disseminate state-level administrative data 
+about program recipients with disabilities that are relevant to the Comprehensive 
+Statewide Needs Assessment (CSNA).  In particular, the Individuals with Disabilities 
+Education Act  (IDEA) and Section 504 data on students with disabilities, Social Security 
+data on recipients of disability benefits, and Workforce Investment Act (WIA) data on 
+people receiving services from the WIA system all provide information that helps inform 
+the CSNA.  
+Data from these programs are collected in all states, using uniform data collection 
+systems that result in cost-effective and reliable information. However, administrative 
+state-level data do not always provide the exact information that is most relevant to the 
+CSNA.  For example, data on students served under Section 504 is not available for 
+transition students alone, a particular group of interest to VR, but rather for the entire 
+Section 504 program that serves elementary through secondary students. 
+Individuals with Disabilities Education Act (IDEA)  
+The Data Analysis System of the U.S. Department of Education, Office of Special 
+Education, provides program data on special education in the United States. Data are 
+collected from all the states on children and youths, ages 0 to 21 years, who are served 
+under the Individuals with Disabilities Education Act (IDEA).  
+In order to qualify under IDEA, children and youths must need special education and 
+related services by reason of their disability. IDEA includes children and youths with the 
+following disabilities: 
+• Specific learning disabilities 
+• Speech or language impairments 
+• Mental retardation 
+• Emotional disturbance 
+• Multiple disabilities 
+• Hearing impairments  
+• Orthopedic impairments 
+• Other health impairments 
+• Visual impairments 
+• Autism 
+• Deaf-blindness 
+• Traumatic brain injury 
+• Developmental delay
+
+Appendix E  Guide to Assessing VR Needs  
+ E-2 
+IDEA data can provide:  
+• detailed state-level information on transition-age youths in special education; 
+• specific disabilities of transition-age students, including disabilities that are 
+significant in the VR system and may be most significant depending on the 
+individual state’s criteria (e.g., mental retardation, deaf-blind, multiple 
+disabilities, traumatic brain injury);  
+• graduation and dropout patterns by racial and ethnic minority groups; and 
+• graduation and dropout rates, by disability, for students 14 years and over.  
+Analyses of IDEA program data are published each year in an annual report to Congress; 
+the 28th Annual Report is the most recent such report (U.S. Department of Education 
+Office of Special Education and Rehabilitative Services (OSERS), 2008a, 2008b).  
+Volumes One and Two of the report are available at:  
+<http://www.ed.gov/about/reports/annual/osep/2006/parts-b-c/28th-vol-1.pdf
+> 
+< http://www.ed.gov/about/reports/annual/osep/2006/parts-b-c/28th-vol-2.pdf> 
+IDEA Data Examples 
+Size of the transition age population in special education.    The IDEA data can assist 
+in understanding the magnitude of the transition-age population that is potentially eligible 
+for VR services in the state.  Exhibit E-1 shows a portion of Table 1-1: Children and 
+students served under IDEA, Part B, by age group and state.  The table shows, by state, 
+the total number of students, ages 3 to 21 years, in the program, as well as the numbers in 
+the following age groups that are most relevant to the VR CSNA:  12-17 years, 14-21 
+years, and 18-21 years.
+
+Appendix E  Guide to Assessing VR Needs  
+ E-3 
+Exhibit E-1: Table 1-1: Children and Students Served Under IDEA, Part B, by Age 
+Group and State 
+Table 1-1. Children and students served under IDEA, Part B, by age group and state: Fall 
+2005 
+State 3-5 6-11 12-17 6-17 14-21 18-21 3-21 
+Alabama 8,218 36,675 42,497 79,172 33,309 5,245 92,635 
+Alaska 2,082 7,855 7,309 15,164 5,406 751 17,997 
+Arizona 14,062 53,375 51,825 105,200 37,706 5,242 124,504 
+Arkansas 10,286 25,125 29,060 54,185 22,428 2,843 67,314 
+California 66,653 280,902 302,391 583,293 224,610 26,372 676,318 
+Colorado 10,540 34,567 34,250 68,817 26,086 4,141 83,498 
+Connecticut 7,881 27,222 33,079 60,301 25,675 3,786 71,968 
+Delaware 2,073 7,793 8,203 15,996 6,136 788 18,857 
+District of 
+Columbia 507 4,537 5,905 10,442 4,513 789 11,738 
+Florida 34,350 164,811 180,464 345,275 136,380 19,291 398,916 
+Georgia 20,728 87,681 82,627 170,308 58,733 6,560 197,596 
+Hawaii 2,423 7,803 11,126 18,929 8,323 611 21,963 
+Idaho 4,043 12,287 11,649 23,936 8,543 1,042 29,021 
+Illinois 35,454 131,096 142,645 273,741 107,138 14,249 323,444 
+Indiana 19,228 76,487 73,460 149,947 56,458 8,651 177,826 
+Iowa 6,118 27,324 35,477 62,801 27,133 3,538 72,457 
+Kansas 9,267 26,584 26,937 53,521 20,537 2,807 65,595 
+Kentucky 21,317 47,000 36,927 83,927 27,212 3,554 108,798 
+Note that Table 1-8 in the same volume shows the number of students by each individual 
+year of age, so that tailored tables may be constructed showing other age groups of 
+interest.  For example, if a state VR program had a special program that targeted 
+transition-age youths 15-19 years of age, it is possible to construct a table showing the 
+numbers in that age group within the special education population. 
+Transition-age students by disability category. The IDEA tables also provide a picture 
+of the representation of different disabilities (as defined under IDEA) in the special 
+education transition-age population. For example, an indication of the number of 
+transition-age students with mental retardation, traumatic brain injury, multiple 
+disabilities, deaf-blind, and other categories may help the VR agency plan for supported
+
+Appendix E  Guide to Assessing VR Needs  
+ E-4 
+employment needs of these groups.  Exhibit E-2 shows a portion of Table 1-5, which 
+includes the number of students with disabilities, 12 to 17 years old, by disability 
+category and state.  The full table includes all 13 IDEA disability categories, some of 
+which may be “most significant,” depending on the state’s definition. Another table, 
+Table 1-6 (not shown) includes the same disability categories for the population 18-21 
+years. 
+Exhibit E-2: Table 1-5: Students Ages 12 through 17 Served Under IDEA, Part B, 
+by Disability Category and State 
+Table 1-5. Students ages 12 through 17 served under IDEA, Part B, by disability 
+category and state:  Fall 2005 
+State All  
+disabilities 
+Specific  
+learning  
+disabilities 
+Speech or  
+language  
+impairments 
+Mental  
+retardation 
+Emotional  
+disturbance 
+Alabama 42,497 26,466 2,459 6,029 1,472 
+Alaska 7,309 4,538 773 405 489 
+Arizona 51,825 34,806 1,679 3,984 5,016 
+Arkansas 29,060 14,670 1,269 6,042 532 
+California 302,391 199,273 20,904 18,050 19,444 
+Colorado 34,250 16,373 3,250 1,743 5,507 
+Connecticut 33,079 14,525 3,434 1,457 4,609 
+Delaware 8,203 4,997         x 1,063 563 
+District of 
+Columbia 
+5,905 3,114 302 693 1,119 
+Florida 180,464 107,829 13,019 19,480 22,275 
+Georgia 82,627 33,091 3,048 14,998 14,276 
+Hawaii 11,126 6,200         x 1,048 1,686 
+Idaho 11,649 6,757 996 997 833 
+Illinois 142,645 85,144 5,388 14,010 19,565 
+Dropout rates by race and ethnicity.  IDEA data also provide information on the 
+graduation rates and drop out rates of students with disabilities from different racial and 
+ethnic groups.  Exhibit E-3 shows a portion of Table 4-4d: Hispanic students age 14 
+through 21 with disabilities served under IDEA, Part B, who exited school, by exit reason 
+and state.  Among other data, the table includes the numbers of students with disabilities
+
+Appendix E  Guide to Assessing VR Needs  
+ E-5 
+who either dropped out or “moved, not known to continue.”  The dropout rate includes 
+students in both of these two categories. 
+Exhibit E-3: Table 4-4d Hispanic students age 14 through 21 served under IDEA, 
+Part B, who exited school, by exit reason and state 
+Table 4-4d. Hispanic students ages 14 through 21 with disabilities served under IDEA, Part 
+B, who exited school, by exit reason and state: 2004-05a 
+State Exiting 
+total 
+Graduated 
+with 
+diploma 
+Received a 
+certificate 
+Reached 
+maximum 
+age b 
+Died Dropped 
+outc 
+Alabama 66 45 13 x x x 
+Alaska 33 17 x x x 15 
+Arizona 2,423 1,218 x 53 x 1,139 
+Arkansas 107 67 x x x 36 
+California 14,705 8,352 678 172 48 5,455 
+Colorado 862 493 23 55 10 281 
+Connecticut 834 405 7 18 8 396 
+Delaware 40 30 x x x 6 
+District of Columbia 23 19 x x x x 
+Florida 3,786 1,437 997 x x 1,339 
+Georgia 323 79 116 x x 127 
+Hawaii 58 49 x 5 x x 
+Idaho 196 106 x x x 84 
+Illinois 2,151 1,458 16 34 6 637 
+Using data from this and the parallel tables on graduation and dropout rates for other 
+minority groups, one can compare dropout rates for specific minority groups with the 
+rates for other racial and ethnic groups in the state and/or with the rates for racial and 
+ethnic groups in the U.S. racial and ethnic groups with particularly high dropout rates in 
+the state will have heightened needs for VR education and training services.  
+Dropout rates by disability.  Another IDEA table provides data that can be used to 
+identify disability groups with especially high dropout rates in the state. Exhibit E-4 
+shows a portion of Table 4-1d which includes data on exit reasons for students with 
+emotional disturbance.  The same information is available for other disabilities in parallel 
+tables.
+
+Appendix E  Guide to Assessing VR Needs  
+ E-6 
+Exhibit E-4: Table 4-1d: Students age 14 and older with emotional disturbance 
+served under IDEA, Part B, who exited school, by exit reason and state 
+Table 4-1d. Students age 14 through 21 with emotional disturbance served under IDEA  
+Part B, who exited school, by exit reason and state:  2004-05ª 
+State Exiting 
+total 
+Graduated 
+with 
+diploma 
+Received a 
+certificate 
+Reached 
+maximum 
+age 
+Died Dropped 
+outb 
+New Jersey 2,145 1,105         x 21         x 1,010 
+New Mexico 192 53         x         x         x 109 
+New York 3,871 1,216 462 49 20 2,124 
+North Carolina 795 215 38 9 6 527 
+North Dakota 137 69         x         x         x 64 
+Ohio 1,819 496 448         x         x 660 
+Oklahoma 511 233         x         x         x 277 
+Oregon 432 138 45         x         x 238 
+Pennsylvania 2,017 1,560 8 30 7 412 
+Rhode Island 341 193         x         x         x 142 
+South Carolina 693 129 67         x         x 494 
+South Dakota 70 22         x         x         x 47 
+Tennessee 520 118 140         x         x 256 
+Texas 2,879 986 1,065 7 11 810 
+Utah 167 81         x         x         x 84 
+Vermont 248 111 6         x         x 130 
+Virginia 1,460 414 456 7 7 576 
+Disability groups with especially high dropout rates are at risk for being underserved. For 
+example, in some states the dropout rate for youths with emotional disturbance is greater 
+than 50 percent, indicating a high need for special training, education and other supports 
+for this group in the VR system. 
+Section 504 Data 
+The Office for Civil Rights (OCR) of the U.S. Department of Education reports limited 
+data by state on students who are covered under Section 504 but are not receiving 
+services under IDEA.  These students have a physical or mental impairment that
+
+Appendix E  Guide to Assessing VR Needs  
+ E-7 
+substantially limits one or more major activities but do not have learning issues that make 
+them eligible for IDEA; they are not included in the IDEA data described above (U.S. 
+Department of Education Office for Civil Rights, 2005; 2007). Unfortunately, data on the 
+total number of "Section 504 only" students are not disaggregated by age or transition 
+status or by specific disability. Nevertheless, these data can help to give a rough 
+indication of the size of the Section 504 population, a group that is potentially eligible for 
+VR services during transition.  In addition, state-level departments of education may be 
+able to assist in disaggregating the data by age to give a more accurate estimate of the 
+transition-age group with Section 504 disabilities 
+Section 504 Data can provide: 
+• an overall picture of the size of the population with disabilities that was not 
+eligible for IDEA services but did receive Section 504 services because of their 
+disabilities. 
+The Section 504 data may be accessed from the “The 2006 Civil Rights Data Collection” 
+area at the Office for Civil Rights (OCR) of the Department of Education at the following 
+Web site:  <http://www.ed.gov/about/offices/list/ocr/data.html?src=rt
+>.  
+Table 3B 
+<http://ocrdata.ed.gov/ocr2006rv30/VistaApp/browsetables.aspx?VistaLanguage=en
+> 
+provides the number of students receiving Section 504 services only, for the states and 
+the U.S. The table may be downloaded as a comma delimited or Excel file. 
+Section 504 Data Example 
+Exhibit E-5, based on an Excel file download (Table 3B) from the Web site listed above, 
+shows the number of students in the state of Indiana who received Section 504 services.   
+Exhibit E-5: 2006 Civil Rights Data Collection, Projected Values for the State of 
+Indiana 
+Data Items  
+ED101 Number of Children Receiving Services Under Section 504 6,430 
+Social Security Data 
+The Social Security Administration (SSA) collects program data on people who receive 
+disability benefits, including Social Security Disability Insurance (SSDI), which is a part 
+of the Old Age, Survivors and Disability Insurance (OASDI), and Supplemental Security 
+Income (SSI).  Individuals may receive benefits from either or both programs, depending 
+on their work history, age, and financial resources. SSA also provides information on 
+participation in the Ticket to Work Program.   
+Social Security Disability Insurance (SSDI). A federal program in the Social Security 
+Administration providing monthly benefits to disabled workers and their dependents. 
+Disabled workers are people under age 65 who receive benefits as part of the OASDI
+
+Appendix E  Guide to Assessing VR Needs  
+ E-8 
+program. Workers build protection through employment covered under Social Security 
+(compulsory tax on earnings). The disability definition is an inability to engage in 
+substantial gainful activity because of any medically determinable permanent physical or 
+mental impairment. Later amendments made the disability length of time necessary for 
+eligibility to be at least five months. 
+Supplemental Security Income (SSI). The federally administered Supplemental 
+Security Income program provides income support to people 65 and over, blind or 
+disabled adults, and blind or disabled children who have little or no income or other 
+financial resources. In order to be considered disabled for SSI an adult must be unable to 
+engage in any substantial gainful activity by reason of a medically determinable physical 
+or mental impairment that is expected to result in death or last for a continuous period of 
+at least 12 months. Blindness is defined as 20/200 or less vision in the better eye with the 
+use of correcting lenses or with tunnel vision of 20 degrees or less. Children who have a 
+physical or mental impairment that results in marked or severe functional limitations are 
+eligible for SSI. 
+Ticket to Work (TTW).  The Ticket to Work Program is a federal program designed to 
+help Social Security beneficiaries with disabilities go back to work. The program offers 
+employment support services to beneficiaries between the ages of 18 and 64 who receive 
+SSI or SSDI.   These employment support services include vocational rehabilitation, 
+training, referrals, job coaching, and counseling. The Ticket to Work program is designed 
+so that people who are making progress toward employment goals do not lose their 
+benefits because they are working and thus no longer meet the criteria of “unable to 
+engage in substantial gainful employment.”  People who are eligible for the program 
+receive a “Ticket to Work” in the mail. The ticket allows beneficiaries to access 
+employment support services provided by VR agencies or ticket service providers called 
+employment networks (EN’s) (World Institute on Disability, 2007). 
+People who are receiving Social Security disability benefits are considered to have 
+significant disabilities and to be eligible for VR services, provided they intend to achieve 
+an employment outcome (Hager, 2004). States that have adopted order of selection vary 
+in their rules about whether people who receive Social Security disability benefits are 
+considered to have a “most significant disability.”  In some states receipt of SSI/SSDI 
+automatically means that a person has a most significant disability. 
+Social Security data provide: 
+• the magnitude and age distribution of the SSI/SSDI population in the state, all of 
+whom are considered to have at least a significant disability; 
+• numbers of Social Security recipients who return to work; and 
+• the number of Ticket to Work tickets that have been issued to VR agencies and to 
+other entities. 
+Each year, SSA publishes an Annual Statistical Supplement to the Social Security 
+Bulletin (Annual Supplement)  (Social Security Administration, 2009a). The data are 
+available at:  <
+http://www.ssa.gov/policy/docs/statcomps/supplement/2008/>
+
+Appendix E  Guide to Assessing VR Needs  
+ E-9 
+Data on Ticket to Work are available at: 
+<http://www.socialsecurity.gov/work/tickettracker.html> 
+Social Security Data Examples 
+Size of the population that receives Social Security disability benefits.  The Social 
+Security data provides the magnitude and age distribution of the SSI/SSDI population in 
+the state.  It can also contribute to an understanding of the magnitude and age distribution 
+of the “most significant” population in states where receipt of Social Security disability 
+benefits qualifies as a “most significant” disability under order of selection.  Exhibit E-6, 
+shows a portion of Table 27: Disabled Workers in Current-Payment Status, available at: 
+<http://www.ssa.gov/policy/docs/statcomps/di_asr/2007/sect01c.html#table27
+> 
+Exhibit E-6: SSA Table 27: Disabled Workers in Current-Payment Status 
+Disabled Workers in Current-Payment Status        
+Table 27. 
+Number, by sex, state or other area, and age, December 2007 
+State or area Total Under 35 35–39 40–44 45–49 50–54 55–59 60–FRA 
+ All disabled workers 
+All areas 7,098,723 435,000 373,621 603,495 921,560 1,228,219 1,551,082 1,985,746 
+Alabama 186,067 9,690 9,864 15,865 24,230 33,452 41,983 50,983 
+Alaska 10,617 868 606 916 1,474 1,868 2,248 2,637 
+Arizona 130,052 8,142 6,984 10,743 16,744 22,476 28,138 36,825 
+Arkansas 115,806 6,655 5,949 9,475 14,874 19,959 25,575 33,319 
+California 593,506 34,926 29,576 48,968 76,124 103,942 132,453 167,517 
+Colorado 80,207 5,026 4,233 6,612 10,951 14,514 17,668 21,203 
+Connecticut 70,581 4,847 4,050 7,105 9,887 11,906 13,780 19,006 
+Delaware 22,855 1,316 1,165 2,080 3,145 4,126 4,909 6,114 
+District of 
+Columbia 10,732 789 618 1,078 1,536 2,161 2,291 2,259 
+Florida 418,502 21,444 19,281 33,849 53,880 71,908 91,688 126,452 
+Table 27 provides information by age group, including total, under 35, 35-39, 40-44, 45-
+49, 50-54, 55-59, and 60 years and above. 
+Disabled workers who returned to work.  Social Security data also provides 
+information on disabled workers who received SSDI and/or SSI but had benefits withheld 
+in that year because of substantial work and those whose benefits were terminated 
+because of successful return to work. Exhibit E-7 shows a portion of Table 56: Disabled 
+Workers Who Work, available at: 
+<http://www.ssa.gov/policy/docs/statcomps/di_asr/2007/sect03g.html#table56
+>
+
+Appendix E  Guide to Assessing VR Needs  
+ E-10 
+Exhibit E-7: SSA Table 56: Disabled Workers Who Work 
+Disabled Workers Who Work 
+Table 56. 
+Distribution, by state or other area, 2007 
+State or area 
+All workers, 
+December 
+Workers with benefits withheld 
+because of substantial work, 
+December 
+Workers with benefits terminated 
+because of successful return 
+to work, calendar year  
+    Number 
+Percentage 
+of all workers Number 
+Percentage 
+of all workers 
+All areas 7,098,723 37,701 0.5 33,381 0.5 
+Alabama 186,067 462 0.2 537 0.3 
+Alaska 10,617 97 0.9 81 0.8 
+Arizona 130,052 1,069 0.8 857 0.7 
+Arkansas 115,806 420 0.4 316 0.3 
+California 593,506 4,783 0.8 3,234 0.5 
+Colorado 80,207 423 0.5 419 0.5 
+Connecticut 70,581 540 0.8 464 0.7 
+Delaware 22,855 148 0.6 162 0.7 
+District of 
+Columbia 10,732 88 0.8 148 1.4 
+Florida 418,502 1,645 0.4 2,075 0.5 
+ 
+This table provides information about the relatively small percentage of the overall Social 
+Security disability population that returns to work.   
+Ticket to Work.  Social Security data provides information about the size of the 
+population that is participating in Ticket to Work in the state and the number of tickets 
+issued to VR agencies and other ENs. Exhibits E-8 and E-9 show portions of the tables 
+on tickets assigned to ENs and to VR agencies, respectively.  Both of these tables are 
+available at: <http://www.socialsecurity.gov/work/tickettracker.html> (Social Security 
+Administration, 2009b).
+
+Appendix E  Guide to Assessing VR Needs  
+ E-11 
+Exhibit E-8: Ticket Tracker for Employment Networks (ENs) 
+EN Ticket Tracker 
+Updated July 20, 2009 
+State 
+(State Abbreviation 
+Table) 
+Tickets 
+Issued 
+(Net)  
+EN Contract 
+Awards (current) 
+Tickets Assigned to 
+EN's 
+AK 18, 086 3 17 
+AL 284,944 13 369 
+AR 172,078 13 296 
+AS 1,301 0 1 
+AZ 190,682 18 496 
+CA 1,103,981 110 4,078 
+CO 119,806 13 322 
+CT 107,536 23 208 
+DC 25,037 14 195 
+DE 32,548 4 35 
+FL 630,326 113 2,137
+
+Appendix E  Guide to Assessing VR Needs  
+ E-12 
+Exhibit E-9: Ticket Tracker for State VR Agencies 
+State VRA Ticket Tracker 
+Updated July 20, 2009 
+State 
+(State Abbreviation 
+Table) 
+Tickets Issued 
+(Net) 
+Ticket Assigned to 
+State VRAs 
+Tickets In-Use SVR 
+AK 17,953 1 391 
+AL 283,420 15 2,967 
+AR 170,899 41 2,192 
+AS 1,300 0 1 
+AZ 189,731 37 2,327 
+CA 1,099,266 25 18,569 
+CO 119,148 13 2,135 
+CT 107,293 773 1,734 
+DC 24,804 12 565 
+DE 32,362 41 2,202 
+FL 626,152 75 9,407 
+FM 0 0 0 
+GA 335,148 304 4,614 
+GU 1,582 0 1 
+HI 34,207 0 1,381 
+IA 93,994 177 3,216 
+ID 48,982 31 1,973 
+IL 412,759 135 12,426 
+ 
+These tables include the number of tickets issued in each state, and the (relatively small) 
+number of tickets assigned to the Employment Network providers with ED awards 
+(Exhibit E-8) or to the state VR agency or agencies. (Exhibit E-9).   
+Workforce Investment Act (WIA) Data 
+Workforce investment system data represents an important part of the CSNA.  In addition 
+to the fact that the Rehabilitation Act’s description of the CSNA identifies the workforce 
+investment system by name (Section 15 A (ii)), the gathering of needs related to this 
+system is helpful in understanding the totality of need being met for individuals with 
+disabilities.   While VR concentrates on those with the most significant disabilities, the 
+other components of the workforce investment system also provide employment services 
+to individuals with disabilities who may not be aware of, qualify for, or desire the 
+services of VR.  Together, the data from VR and the workforce investment system will 
+provide a more complete picture of need across all programs of public employment for 
+individuals with disabilities and thereby provide a more fundamental answer to the 
+overall question about the rehabilitation needs of individuals with disabilities in the state.   
+The data also may reveal possible differences in the rates or types of services among 
+different groups, for example that minorities, unserved, or underserved individuals with
+
+Appendix E  Guide to Assessing VR Needs  
+ E-13 
+disabilities receive in VR and the workforce system, allowing for potential changes to 
+service structures or opportunities for cooperation across programs.     
+The Workforce Investment Act (WIA) created a new comprehensive workforce 
+investment system that was designed to alter the way employment and training services 
+are delivered.  WIA established three new programs – Adult, Dislocated Worker, and 
+Youth – to replace the Job Training Partnership Act (JTPA). These programs were to 
+allow for a broader range of services to the general population, removing income as a 
+determinant for eligibility for program services. WIA also required that services for these 
+programs and others be provided through a single service delivery system – the one-stop 
+system (the “others” included the Wagner-Peyser funded Employment Service that 
+according to a GAO report “focuses on providing a variety of employment-related labor 
+exchange services including job search assistance, job referral, and placement assistance 
+for job seekers, re-employment services to unemployment insurance claimants, and 
+recruitment services to employers with job openings”) (Government Accountability 
+Office, 2007).  
+The following list shows the parts of the workforce investment system as noted in the 
+Workforce Investment Act of 1998:  
+Title I:  
+• One stop delivery systems (Sec 121) 
+• Providers of training services (Sec 122) 
+• Providers of youth activities (Sec 123) 
+• Adult and Dislocated Worker Employment and Training (Chapter 5) 
+• Job Corps (Subtitle C) 
+• Native American Programs (Sec 166) 
+• Migrant and Seasonal Farmworker programs (Sec 167) 
+• Veteran’s workforce investment programs (Sec 168) 
+• Youth Opportunity grants (Sec 169) 
+• National Emergency grants (Sec 173) 
+Title II:  
+• Adult Education and Literacy 
+Title III:  
+• Wagner Peyser Act (Subtitle A) 
+• Trade Act of 1974 (Sec 321) 
+• Veteran’s Employment programs (Sec 322)
+
+Appendix E  Guide to Assessing VR Needs  
+ E-14 
+• Older Americans Act of 1985 (Sec 323) 
+Title IV: 
+• Rehabilitation Act Amendments of 1998 
+ 
+The WIA mandatory programs and federal agencies include the following: 
+Federal Agency Mandatory Program 
+Department of Labor WIA Adult 
+WIA Dislocated Worker 
+WIA Youth 
+Employment Service (Wagner-Peyser) 
+Trade adjustment assistance programs 
+Veterans’ employment and training programs 
+Unemployment Insurance 
+Job Corps 
+Senior Community Service Employment Program 
+Employment of training for migrant and seasonal farm workers 
+Employment and training for Native Americans 
+Department of 
+Education 
+Vocational Rehabilitation Program 
+Adult Education and Literacy 
+Vocational Education (Perkins Act) 
+Department of Health 
+and Human Services 
+Community Services Block Grant 
+Department of 
+Housing and Urban 
+Development 
+HUD-administered employment and training 
+ 
+The U.S. Department of Labor’s Employment and Training Administration (DOLETA) 
+maintains a grantee reporting system for WIA grantees called the Workforce Investment 
+Act Service Record Data (WIASRD).   It covers the following programs: the Workforce 
+Investment Act Information Management System (OMB No. 1205-0420), the Labor 
+Exchange Reporting System (OMB No. 1205-0240) for programs administered under the 
+Wagner-Peyser Act and the Veterans Employment and Training Service, the Trade 
+Adjustment Assistance Program (OMB No. 1205-0392), the National Farm worker Jobs 
+Program (OMB No.1205-0425) and the Indian and Native American Program (OMB No. 
+1205-0422) (U.S. Department of Labor 2007b). 
+The WIASRD is submitted by states to DOLETA on an annual basis. The WIASRD files 
+contain detailed information on program completers (i.e., exiters), including 
+demographics, types of services received, and outcomes attained as a result of
+
+Appendix E  Guide to Assessing VR Needs  
+ E-15 
+participating in the program. The WIA data system also requires customer satisfaction 
+surveys, collected through the state Employment Security Agency. 
+WIASRD data is collected in a consistent manner, is very accessible, is easily used to 
+look at trends across years and has many characteristics that mirror VR agency data, 
+allowing for easy grouping.  WIA data can be cross-tabbed across a variety of variables, 
+is available at the state and local levels, and through coordination with WIA contacts in 
+the state.  Agencies already collect a great deal of WIA data that are relevant to assessing 
+vocational rehabilitation needs, making these data highly cost-effective and timely.  In 
+many cases these data are standardized in their format, making the data very consistent.  
+However, agreements with various agencies will have to be arranged to secure the 
+specific data that is needed beyond the publicly available data.  WIA data do not 
+differentiate between those with any disability and those with a significant disability.  
+Cell sizes may be too small in any one year for a detailed cross-tabulation.   
+Data from the WIASRD provides:  
+• the characteristics of consumers served by the non-VR parts of the workforce 
+investment system; and 
+• county or regional level data.  
+ 
+The Federal Research and Evaluation Database (FRED) enables analysis of the 
+Workforce Investment Act Standardized Record Data (WIASRD) (U.S. Department of 
+Labor, 2007a).  This includes data that is annually submitted by states on WIA exiters' 
+demographic characteristics, the services they received, and the outcomes they achieved 
+after exit.  
+ 
+At the FRED Web page (http://www.fred-info.org/
+), it is possible to:  
+• examine performance, caseload and program information from the national, 
+regional, state and local levels; 
+• display trends in performance by quarter as well as the characteristics of the 
+exiter cohort; 
+• create comparison groups based on parameters set by the user; and, 
+• create cross tabulation tables and/or correlations from two user-identified 
+variables. 
+Data may be examined by program: WIA Adult, WIA Dislocated Workers, WIA Older 
+Youth, WIA Younger Youth, and WIA National Emergency Grants.   Each of these WIA 
+program areas has a section on the Web site. Exhibit E-10 shows the diagnosis and 
+planning tools screen for the WIA Adult program.
+
+Appendix E  Guide to Assessing VR Needs  
+ E-16 
+Exhibit E-10: FRED Screen for WIA Adults Program 
+ 
+On each program page the Ad Hoc Analysis tool allows one to create frequency or cross-
+tabulation tables from the WIASRD data.  Exhibit E-11 shows a selection of variables for 
+a cross-tabulation in the WIA Adult program.
+
+Appendix E  Guide to Assessing VR Needs  
+ E-17 
+Exhibit E-11: FRED WIA Variables  
+ 
+It is also possible to generate these tables "by" other factors in the database. For example, 
+the Web site allows generation of a gender and race cross tabulation by local workforce 
+area.  Exhibit E-12 shows selection of geography variables.
+
+Appendix E  Guide to Assessing VR Needs  
+ E-18 
+Exhibit E-12:  FRED WIA Selection of Geography Variables  
+ 
+ 
+One can also select both a geography and program year of exit –including an option to 
+select all years.  See Exhibit E-13 for an example of selecting multiple variables.
+
+Appendix E  Guide to Assessing VR Needs  
+ E-19 
+Exhibit E-13:  FRED WIA Selection of Multiple Variables to Create Cross-
+Tabulation Tables 
+ 
+The FRED data systems offer the opportunity to look at the data with “disabled” as a 
+variable for a state.  
+Using this tool, one can generate the following tables for all programs:  
+• disabled in state cross tabulation; 
+• disabled in local workforce investment area for state cross tabulation  
+• in state – disabled by:  
+• age 
+• gender 
+• Hispanic
+
+Appendix E  Guide to Assessing VR Needs  
+ E-20 
+• race 
+• education 
+• limited English speaking 
+• low income 
+• welfare 
+• high school dropout 
+• occupation at placement 
+• average annual earnings  
+• length of program stay 
+• For trend analysis (Optional) – program cross tabulations for other years 
+Information is also available by measure.  For example, for Adults, the following 
+measures are available: Adult Entered Employment Rate; Adult Retention Rate; Adult 
+Earnings Change; Adult Average Earnings, and Adult Credential Rate.  Similar measures 
+are available for the other programs (Dislocated Workers, Older Youth, and Younger 
+Youth).
+
+Appendix E  Guide to Assessing VR Needs  
+ E-21 
+Exhibit E-14:  FRED Measures in Adult WIA Data  
+ 
+DOLETA performance results Web page.  Posted on the U.S. Department of Labor’s 
+Employment and Training Administration’s Web site 
+(http://www.doleta.gov/performance/results/Reports.cfm? #wiastann) are the WIA state 
+annual reports summaries in excel format as well as WIASRD summary reports by state.  
+WIA data tables are standardized and show the same information for every state and for 
+the nation.  The tables cover:  
+1. Table A- Workforce Investment Customer Satisfaction Results 
+2. Table B- Adults Program Results 
+3. Table C – Outcomes for Adult Special Populations (including Individuals with 
+Disabilities)  
+4. Table D – Other Outcome Information for the Adult Program 
+5. Table E – Dislocated Worker Program Results 
+6. Table F - Outcomes for Dislocated Worker Special Populations (including 
+Individuals with Disabilities) 
+7. Table G - Other Outcome Information for the Dislocated Worker Program
+
+Appendix E  Guide to Assessing VR Needs  
+ E-22 
+8. Table H.1 – Youth (14-21) Program Results 
+9. Table H.2 – Older Youth (19-21) Program Results 
+10. Table I - Outcomes for Older Youth Special Populations (including Individuals 
+with Disabilities) 
+11. Table J – Younger Youth (14-18) Results 
+12. Table I - Outcomes for Younger Youth Special Populations (including 
+Individuals with Disabilities) 
+ 
+Performance is also reported by local area.  Exhibit E-15 shows an example of a 
+disability-relevant table and chart for one state.
+
+Appendix E  Guide to Assessing VR Needs  
+ E-23 
+Exhibit E-15: Sample State-Level Tables for Adult WIA Data 
+State Level Tables – Adult WIA Program 
+Table C - Outcomes for Adult Special Populations 
+ Public Assistance 
+Recipients 
+Receiving Intensive 
+or Training Services 
+Veterans Individuals With 
+Disabilities Older Individuals 
+Entered 
+Employment 
+Rate 
+63.7% 
+2,442 
+71.2% 
+2,890 
+67.2% 
+2,114 
+65.3% 
+1,485 
+3,841 4,060 3,145 2,274 
+Employment 
+Retention 
+Rate 
+76.3% 
+2,131 
+78.0% 
+2,457 
+78.6% 
+1,815 
+79.3% 
+1,341 
+2,793 3,149 2,308 1,691 
+Earnings 
+Change in 
+Six Months 
+$4,110 
+$10,965,303 
+$1,916 
+$5,685,481 
+$2,768 
+$6,129,323 
+$664 
+$1,055,926 
+2,668 2,968 2,214 1,590 
+Employment 
+and 
+Credential 
+Rate 
+48.4% 
+1055 
+47.9% 
+863 
+43.5% 
+499 
+49.4% 
+394 
+2,182 1,801 1,147 798 
+ 
+Coordination with state WIA administrator or State Offices of Workforce Security.  
+The data recommended above in the FRED data system is collected and entered by the 
+state’s WIA administrator or the state’s Employment Security Agency. Coordination with 
+this resource can provide data beyond that which is described above. State contacts can 
+be found at http://www.doleta.gov/regions/
+. 
+Wagner-Peyser and Veteran’s Employment programs use forms ETA 9002 and VETS 
+200 to report on activities to the U.S. Department of Labor. On those forms there is 
+reporting on the number of persons with disability, veterans status, demographic 
+information, and services received (career guidance, job search, referred to employment, 
+and referred to WIA services).
+
+Appendix E  Guide to Assessing VR Needs  
+ E-24 
+Exhibit E-16 is an example of a state’s data produced by this national reporting.  
+Exhibit E-16: Sample State Wagner-Peyser Data 
+STATE - WAGNER-PEYSER 
+Program Year 2007 
+New Jersey 
+ 
+Total Job Seekers Total Eligible 
+Claimants 
+Total Veterans and 
+Eligible Persons 
+ Number Percent Number Percent Number Percent 
+Total Active Job Seekers             
+     Total Participants 247,653 100.0%         
+     Eligible Claimants 150,287 60.7% 150,287 100.0% 11,626 63.1% 
+     Veterans and Eligible Persons 18,418 7.4% 11,626 7.7% 18,418 100.0% 
+     Dislocated Workers 7,279 2.9%   380 2.1% 
+     Persons with Disabilities 4,903 2.0%   993 5.4% 
+     Migrant and Seasonal Farmworkers 150 0.1% 103 0.1% 2 0.01% 
+          
+Staff-Assisted Service Distribution             
+     Received Staff-Assisted Services 231,753 93.6% 144,595 96.2% 17,956 97.5% 
+     Career Guidance 54,827 22.1% 37,868 25.2% 2,603 14.1% 
+     Job Search Activities 145,785 58.9% 98,027 65.2% 12,693 68.9% 
+     Referred to Employment 49,519 20.0% 21,306 14.2% 4,404 23.9% 
+     Referred to WIA Services 7,531 3.0% 5,521 3.7% 386 2.1% 
+     Received Workforce Info Services 163,265 65.9% 105,327 70.1% 9,819 53.3% 
+          
+Outcomes             
+     Entered Employment 118,611   77,328   10,129   
+     Entered Employment Rate Base 207,361   132,115   17,505   
+     Entered Employment Rate   57%   59%   58% 
+     Employment Retention at Six Months 99,725   64,744   9,755   
+     Employment Retention at Six Months Rate Base 127,937   79,768   12,034   
+     Employment Retention at Six Months Rate   78%   81%   81% 
+From EBSS 11/19/08
+
+Appendix F  Guide to Assessing VR Needs  
+ F-1 
+Appendix F: State and Substate Reports and Other Materials 
+State and Substate Reports and Other Materials  
+Public agencies and private organizations generate a wide variety of resources, including 
+reports, data sets, needs assessments, surveys, hearings and other materials that are often 
+relevant to understanding the rehabilitation needs of people with disabilities in a state. 
+These resources can help to answer the specific questions of the VR comprehensive 
+statewide needs assessment (CSNA), that is:  needs of people with most significant 
+disabilities, including their need for supported employment; needs of minorities and other 
+unserved or underserved groups; needs of people served in the statewide workforce 
+investment system; and needs for establishment, development and improvement of 
+community rehabilitation programs.  Existing reports and other materials may also 
+provide general information about the rehabilitation needs of people with disabilities in 
+the state. 
+As these reports and other materials already exist, this is a cost effective method of 
+obtaining information. They provide information that is unique to the state or other 
+substate geographic regions; and in some cases, these sources may be a cost-effective 
+way to obtain information on needs of people with disabilities in a particular city, county 
+or other geographical area.  The content and types of information will be unique to a state 
+or locality. The quality of the data, reports, and other materials also vary, making it 
+important to assess the reliability of the methods and the quality of the analysis and 
+reporting.  
+Examples of state and substate reports and what they can provide include:  
+• Developmental Disabilities Councils publish a five-year strategic State Plan with 
+estimates of the number of people with developmental disabilities in the state and 
+often reports on people with DD who received supported employment services.   
+• The National Association of State Directors of Developmental Disabilities 
+Services (NASDDDS) co-sponsors an Adult Consumer Survey in conjunction 
+with the National Core Indicators effort to measure performance of state 
+developmental disabilities systems.  Measures of employment are available from 
+this survey.  
+• Some State Departments of Mental Health have state-specific information about 
+the population with severe mental illness, including prevalence by state and/or 
+county and demographic characteristics that may affect the need for VR services.   
+• State Traumatic Brain Injury (TBI) offices or registries may have information 
+about the prevalence of TBI in the state.   
+• The Centers for Disease Control (2007) publishes data for some states on TBI 
+hospitalization and fatalities.   
+• Agencies and organizations that serve people with significant disabilities may 
+have reports that focus specifically on their needs related to supported
+
+Appendix F  Guide to Assessing VR Needs  
+ F-2 
+employment, such as results of surveys, focus groups or hearings with consumers 
+and their families, businesses, and/or rehabilitation providers.  Consumer 
+organizations such as United Cerebral Palsy Association (UCPA), TASH, and 
+the National Alliance on Mental Illness (NAMI), among many others, will be 
+important sources of these types of reports.  
+• State Plans of the DD Councils may have existing reports or other materials on 
+any population that the VR agency has identified as unserved or underserved in a 
+particular state, such as the needs of American Indians, veterans, people with 
+limited education, or inner city residents.    
+• Specific state-level reports may be available from the state’s Workforce 
+Investment Board. There are also Web sites with information about state and 
+local resources and reports on disability issues within the workforce investment 
+system, such as the One-Stop State Toolkit 
+<http://www.onestoptoolkit.org/statelocalbytopic.cfm
+>. 
+• Some states have membership organizations of community rehabilitation 
+programs (CRPs) that may be a source of information about these programs (e.g., 
+Oregon Rehabilitation Association).   
+• State Departments of Health and Human Services, Departments of Economic 
+Development or Departments of Labor may have reports or other materials on 
+CRPs.  
+• Existing reports may also identify trends and emerging unserved or underserved 
+groups.  For example, existing reports may identify an increase in the number of 
+students with autism in the schools.    
+• Population trends among people with specific disabilities may affect 
+rehabilitation services, such as an increase in HIV/AIDS, diabetes, or other 
+conditions that can lead to functional disabilities in the state or in a particular city 
+or region.  
+• The Centers for Disease Control (CDC) has data on diabetes prevalence and 
+trends for states and counties, which can help in planning for services to groups 
+with diabetes-related disabilities. 
+<http://apps.nccd.cdc.gov/DDTSTRS/default.aspx> 
+Potential Resources.  Each state has a somewhat different configuration of agencies and 
+private organizations, precluding an exhaustive list. In general, it is helpful to scan recent 
+reports and statistics from as many as possible of the major disability-related state 
+departments and state or local organizations to look for information that will specifically 
+help to answer the questions of the VR comprehensive needs assessment. The following 
+list provides a starting point for locating and reviewing sources in the state: 
+• State, county and local agencies that serve people with disabilities including 
+departments, divisions, boards, councils or authorities: 
+• Aging and disability services 
+• Developmental services or developmental disabilities
+
+Appendix F  Guide to Assessing VR Needs  
+ F-3 
+• Education and/or special education 
+• Housing 
+• Mental health 
+• Mental retardation 
+• Personal Assistance Services (PAS), Attendant Services, In-home Supportive 
+Services 
+• Public health 
+• Regional centers 
+• Social services 
+• Transportation 
+• Welfare 
+• State or local offices or units of federal programs, including: 
+• Independent Living Services, Department of Rehabilitation 
+• Medicaid, including Medicaid waivers and Medicaid Infrastructure Grants 
+(MIGs) (National Association of State Medicaid Directors provides links to 
+state offices: http://www.nasmd.org/links/state_medicaid_links.asp) 
+• Social Security 
+• Veterans Affairs 
+• State and local service providers, including:  
+• Consumer and advocacy organizations (e.g., UCPA, TASH, NAMI) 
+• Local independent living centers 
+• Rehabilitation facilities, hospitals or other providers, especially those attached 
+to teaching and research hospitals and universities 
+• Supported employment programs 
+• Research resources in the state or region, including 
+• Colleges and universities, especially those with departments, grants or 
+contracts related to rehabilitation, special education or other disability subjects   
+• Rehabilitation Engineering Research Centers (RERCs) (Search on “rerc” at 
+http://www.naric.com/research/pd/advanced.cfm) 
+• Rehabilitation Research and Training Centers (RRTCs) (Search on “rrtc” at 
+http://www.naric.com/research/pd/advanced.cfm
+) 
+• The Regional Continuing Education Programs (RRCEPs) and Community 
+Rehabilitation Programs (CRP-RRCEPs) are another existing source of
+
+Appendix F  Guide to Assessing VR Needs  
+ F-4 
+information on CRPs 
+(http://www.rrcepnationalconsortium.org/resourcesdir.htm).  
+• University Centers for Excellence in Developmental Disabilities (UCEDDs) 
+and other university affiliated programs (Directory available at 
+http://www.aucd.org/directory/directory.cfm?program=UCEDD 
+• www.statedata.info Another source of state data, this Web site includes data 
+sets from state mental retardation/developmental disabilities agencies, the 
+Rehabilitation Services Administration, the Social Security Administration, 
+and the U.S. Department of Labor.  
+• Kaiser State Health Facts at http://www.statehealthfacts.org/index.jsp 
+• Other State, Regional or Local Resources (which often combine service 
+provision and research) 
+• ADA Technical Assistance Centers (formerly Disability Business Technical 
+Assistance Centers or DBTACs) (Search on “dbtac” at 
+http://www.naric.com/research/pd/advanced.cfm
+) 
+• Spinal Cord Centers (Go to SCI-Info at http://www.sci-info-
+pages.com/rehabs.html or Spinal Cord Injury Information Network at: 
+http://www.spinalcord.uab.edu/ 
+• Traumatic Brain Injury Centers and Registries (Go to the Brain Injury 
+Association of America at http://www.biausa.org/stateoffices.htm; or the 
+Traumatic Brain Injury Collaboration Space at 
+http://nashia.org/issues/tbi.html)
+
+Appendix G  Guide to Assessing VR Needs  
+ G-1 
+Appendix G: Input from Stakeholders 
+Gathering input from stakeholders is an important part of the CSNA.  Surveys, key 
+informant interviews, focus groups and hearings are the tools for gathering the 
+perspectives of the stakeholders.   
+In this appendix we review the methods and their advantages and limitations for those 
+stakeholders, describe what information should be retrieved, and give examples, as 
+available.   
+These methods are frequently used in needs assessment as well as in other social science 
+research.  While these methods are common, experience and knowledge of how best to 
+use them is needed in order to achieve meaningful results. Experience with the methods 
+is assumed here.  Methods textbooks can provide additional depth if needed, as can 
+several needs assessment texts, including Reviere, Berkowitz, Carter & Ferguson 
+(1996a), Soriano (1995), and Altschuld and Witkin (2000).  
+Surveys 
+Surveys are often the method of choice in need assessments (Berkowitz, 1996b).  Surveys 
+generally use close-ended instruments with a predefined set of topics.  They may also 
+include open-ended questions, but one advantage is the speed with which a survey using 
+close-ended questions can be analyzed.  Surveys can be conducted with the entire 
+population of interest or with a sample of the population.  
+There are four main options for a survey data collection: mail, telephone, electronic, and 
+in-person.   The choices are best made on budget, type of information to be gathered, 
+detail of information, and target audience of collection.   
+Mail surveys are best for straightforward, factual information, counts or numbers (e.g., of 
+clients served), and budgetary information.  Mail surveys work best when they are short 
+and to the point.  They are relatively inexpensive to conduct, but to achieve an adequate 
+sample, follow-up mailings to nonrespondents can raise the cost.  Mail surveys also need 
+accessible alternatives, such as large print and Braille versions.   
+Electronic mailings or Web-based data collections are even more inexpensive than direct 
+mail while offering the same advantages.  However, the respondent group needs to be 
+electronically aware and capable, although it can be made available at local libraries, 
+Centers for Independent Living, and other consumer groups.  Accessibility is a key issue 
+here as well.   One advantage of the Web method is the opportunity to cut costs on data 
+entry by more easily loading data from respondents directly into a database.  This does 
+require some sophistication with Web-based database programming.   
+Telephone surveys are useful if the information to be gathered is more detailed or needs 
+professional judgments.  These are more expensive due to training of interviewers, 
+phone, and personnel costs.
+
+Appendix G  Guide to Assessing VR Needs  
+ G-2 
+Face-to-face interviews also are an option, although this method is more cost intensive 
+due to staff time and may be most relevant here in internal interviews with VR agency 
+administrators and staff.   
+The CSNA includes two surveys to solicit input from stakeholders: a VR counselor 
+survey and a VR consumer survey.   
+VR counselor survey. This method is recommended for this stakeholder group. Adding 
+questions to an established feedback or quality assurance survey of counselors will be a 
+cost-effective way to gather the data needed, if these surveys are already in place.  Topics 
+to ask about in a VR counselor survey include:  
+• Counselor impressions of needs of individuals with significant and most 
+significant disabilities; 
+• Counselor impressions of needs of minority individuals with disabilities; 
+• Counselor impressions of needs of underserved individuals with disabilities; 
+• Counselor feedback of needs for establishment of CRPs 
+• Service gaps, needs for new CRPs; 
+• Counselor feedback of needs for development of CRPs 
+• Service gaps, needs for expanded services or new locations; and 
+• Counselor feedback of needs for improvement of CRPs 
+• Needs for improved services or outcomes  
+VR consumer survey. Since consumer satisfaction surveys or feedback forms are a very 
+commonly used data-gathering tool, the addition of questions to this type of instrument to 
+gather needs assessment information is very cost-effective.  This method also gives a 
+method for consistent input from customers who have had recent experience with the VR 
+program and whose point of view will be very current.  Besides lending input to the topic 
+of needs of all individuals with disabilities, the customer’s own background and 
+experience with VR can inform several other requirement areas, including the needs of 
+those with significant disability, minorities, and those who are underserved.   
+Topics to ask about in a VR customer survey include:  
+• Consumer impressions of VR experiences, including 
+• Were service needs met? 
+ Other services needed  
+• Was desired employment outcome achieved? 
+• Services, processes that worked well 
+• Recommendations for improvement 
+An example of a customer survey can be seen at the end of this appendix (Exhibit G-1).
+
+Appendix G  Guide to Assessing VR Needs  
+ G-3 
+Focus Groups  
+Focus groups provide depth on a relatively small number of topics.  They rely on either 
+unstructured or open-ended instruments that concentrate on a clearly defined set of 
+topics.  This method aims to establish communication for the facilitator to gain a broad 
+understanding of the participant’s point of view.  Focus group facilitators need to be 
+trained in how to effectively manage the groups, especially how to encourage the 
+respondents in conversation.   
+Focus groups usually bring together eight to 12 individuals based on characteristics on 
+which the research seeks input.  While the number of participants may vary, it should be 
+large enough to gather a diversity of opinion but small enough so that everyone can 
+participate.  
+The model contains at least five focus groups to solicit input from stakeholders: focus 
+groups of people with disabilities, an Employer focus group, a joint Disability 
+Navigator/One-Stop staff/VR staff focus group, a VR Administrative staff focus 
+group, and a service provider/CRP focus group.   
+Focus groups of people with disabilities. Example focus groups include:  
+• individuals with significant disabilities (e.g., blind group, deaf group, mobility 
+impairment group); 
+• minority individuals with disabilities (e.g., African American, Asian American, 
+Hispanic, American Indian, etc.);  
+• most significant disabilities and underserved individuals with disabilities (e.g., 
+mental retardation group, mental illness group, traumatic brain injury group, 
+other groups identified as most significant and/or underserved in the state); and 
+• unserved individuals with disabilities: Use CILs, advocacy groups, One-Stops, 
+and other local community resources to recruit individuals who have not used 
+VR services but are eligible. 
+Topics to discuss in the focus groups include:  
+• VR services needed  
+• Barriers to service 
+Employer focus group.  One of the most important ways to understand market demand 
+is to hear from the people that the product is intended to reach.  In this case, employers 
+can express requirements or preferences such as entry level worker skills or behaviors 
+they need in their organizations, which may be interpreted as needs for individuals 
+coming through the VR or WIA system.  A focus group is the preferred method for 
+gathering input from these stakeholders for several reasons: 1) a detailed understanding 
+of the perspectives of employers is required to implement a responsive plan (close-ended 
+questions in a survey might provide some answers, but not at the level of depth and
+
+Appendix G  Guide to Assessing VR Needs  
+ G-4 
+understanding that can really help an agency take the steps necessary to be responsive); 
+2) employers have shown a recent disinclination for responding to surveys; and 3) a focus 
+group can also promote or reinforce a connection with the employer community that will 
+serve both the employers and the VR agency to mutually beneficial ends.   
+Topics to discuss in an employer focus group:  
+• Employer needs for entry-level worker skills 
+• Employer needs for entry-level worker behaviors 
+• Employer needs for accommodations for workers with disabilities  
+• Other employer needs for which VR or WIA programs can prepare applicants 
+and workers.  
+Disability Navigator/One Stop staff/VR staff focus group. Disability Program 
+Navigators (DPNs) are located in One-Stop Career Centers.  The DPN program is to 
+provide facilitation of integrated, seamless and comprehensive services to persons with 
+disabilities in One-Stop Career Centers; improve access to programs and services; 
+facilitate linkages to the employer community and develop demand responsive strategies 
+to meet recruitment and retention needs; increase employment and self-sufficiency for 
+Social Security disability beneficiaries and other people with disabilities; develop new 
+and ongoing partnerships to leverage resources; and create systemic change. 
+The approximately 500 Navigators throughout local workforce investment areas in 45 
+states plus the District of Columbia and Puerto Rico train One-Stop staff to help 
+individuals with disabilities access and navigate the programs and supports needed to 
+maintain and gain employment.  Navigators facilitate the transition of in- and out-of-
+school youth with disabilities to assist in obtaining employment and economic self-
+sufficiency. Navigators conduct outreach to organizations that serve people with 
+disabilities.  Navigators are not case managers, rather the position focuses on expanding 
+the capacity of the One-Stop Career Center to serve customers with disabilities.  Many 
+Navigators are developing cross agency “integrated resource teams” to blend and braid 
+resources around an individual job seeker’s employment needs. 
+A focus group that includes one or more Disability Navigators or equivalent along with 
+One-Stop staff members and VR staff from the corresponding statewide or local area will 
+provide a depth of understanding of the gaps and approaches as seen by the entire 
+workforce system for individuals with disabilities.  The joint focus group also offers the 
+opportunity for increased understanding and potential for coordination and cooperation 
+between the systems. Topics to ask about in this joint Disability Navigator/One Stop 
+staff/VR staff focus group:  
+• Service needs and gaps 
+• For individuals with a disability, including unserved and underserved 
+• For individuals with significant disability  
+• Need for supported employment
+
+Appendix G  Guide to Assessing VR Needs  
+ G-5 
+• For individuals served under the workforce investment system 
+• For establishment, development, and improvement of CRPs 
+• Opportunities for coordination and cooperation of VR and One-Stops 
+Service provider/CRP focus group. Focus groups of service providers and/or CRPs will 
+provide input from the field on needs of individuals as well as on CRPs.  Using a focus 
+group is the most appropriate method due to the need for in-depth understanding of the 
+issues.  
+Topics to discuss in this Service Provider/CRP focus group:  
+• Service needs and gaps 
+• For individuals with a disability, including unserved and underserved 
+• For individuals with significant disability  
+• Need for supported employment 
+• For individuals served under the workforce investment system 
+• For establishment, development, and improvement of CRPs 
+Key Informant Interviews  
+Key informant interviews are done with experts who are particularly knowledgeable 
+about VR needs of people with disabilities, including people who have in-depth 
+knowledge of the rehabilitation needs of individuals with disabilities and of the 
+rehabilitation service system.  As with focus groups, this method provides depth on a 
+relatively small number of topics.  These interviews use interview guides or open-ended 
+instruments on a clearly defined set of topics.  The aim is to establish a conversation and 
+for the interviewer to gain a broad understanding of the respondent’s point of view.  
+Interviewers should be trained in managing the key informant interview, especially how 
+to draw out the respondent in conversation.  Interviews can be done in-person or on the 
+phone.  
+The model includes key informant interviews with 15-20 people knowledgeable on one 
+or more of the following, including members of statewide and local boards and disability 
+organizations:  
+• VR system 
+• State Developmental Disabilities system 
+• State Mental Health system 
+• Employment of people with disabilities, including WIA 
+• Community rehabilitation programs (CRPs) 
+• Community services for people with disabilities
+
+Appendix G  Guide to Assessing VR Needs  
+ G-6 
+• Needs of minorities with disabilities 
+• Unserved or underserved groups 
+Topics to discuss:  
+• Service needs and gaps 
+• For individuals with a disability, including unserved and underserved 
+• For individuals with significant disability  
+• Need for supported employment 
+• For individuals served under the workforce investment system 
+• For establishment, development, and improvement of CRPs 
+Community hearings 
+Commonly conducted in a public location where the audience size can be up to 100 
+people or more, community hearings offer the opportunity for members of an area to 
+voice views and opinions for the agency to consider.  
+Community hearings will be particularly useful in gathering input on needs for 
+individuals with disabilities, those with significant disabilities, and minority, unserved, 
+and underserved populations.   
+Use of existing hearings that review the State Plan will be a cost-effective method for 
+input.  Transcripts of these hearings can be reviewed for comments of needs as related to 
+the populations identified in the Rehabilitation Act.   
+Other public hearings and testimony also will contain relevant information.  Examples 
+include hearings conducted by developmental disability, mental health, and Veteran’s 
+Administration agencies. Public comment from state government legislative actions (such 
+as testimony given at public meetings as bills pass through committees) also may contain 
+input. 
+In addition to existing hearings, hearings on other specific CSNA questions such as CRP 
+establishment, development, and improvement are appropriate.
+
+Appendix G  Guide to Assessing VR Needs  
+ G-7 
+Exhibit G-1 Example Customer Survey 
+The Oregon Department of Vocational Rehabilitation (DVR) uses the following survey 
+instrument for collecting data from consumers for a customer satisfaction survey.  The 
+instrument below is the long form.  There is also a short form and corresponding forms in 
+Spanish.
+
+Appendix G  Guide to Assessing VR Needs  
+ G-8
+
+Appendix G  Guide to Assessing VR Needs  
+ G-9
+
+Appendix G  Guide to Assessing VR Needs  
+ G-10
+
+Appendix G  Guide to Assessing VR Needs  
+ G-11
+
+Appendix G  Guide to Assessing VR Needs  
+ G-12
+
+Appendix H  Guide to Assessing VR Needs  
+ H-1 
+Appendix H: Minorities and Unserved or Underserved Groups 
+The term “individuals with disabilities who are minorities and individuals with 
+disabilities who have been unserved or underserved by the vocational rehabilitation 
+program” may refer to a wide range of different groups.   
+In documents on the RSA Web site, “traditionally underserved” is often used to mean 
+racial and ethnic minority populations.  For example, a priority on “capacity building for 
+traditionally underserved populations” cited services to individuals from minority 
+backgrounds as the target population (Rehabilitation Services Administration, 2001) and 
+a number of rehabilitation research and training centers on underserved populations have 
+focused on racial and ethnic minority groups. Racial and ethnic minorities that have been 
+traditionally unserved or underserved by the vocational rehabilitation program include 
+African Americans, Hispanic or Latinos, Americans Indians, and Asian-Americans, but 
+may also include people from two or more racial or ethnic groups, people with limited 
+English proficiency and people from other racial, ethnic or cultural groups that may be 
+minority groups in a state or substate area. A number of different methods for assessing 
+the needs of minority groups within the state are offered, including data from the ACS, 
+IDEA and WIASRD; census projections; economic projections; VR agency data, 
+including the R-911; state and substate reports and other materials; customer satisfaction 
+surveys; interviews with key informants; community hearings; and business focus 
+groups. 
+However, unserved and underserved groups are not limited to racial and ethnic 
+minorities.  For example, a section of the RSA Web site on  “traditionally underserved 
+populations” also refers the reader to keywords for other populations, including “high 
+risk students,” “at risk persons,” “developmental delays,” and other disabilities, which 
+suggests that a number of other groups may be underserved, depending on the 
+circumstances.  A Web review of definitions of “unserved or underserved” revealed a 
+long and varied list of populations that have been considered unserved or unserved within 
+the vocational rehabilitation program.  A list of populations that are potentially unserved 
+or underserved is summarized below.  
+Examining an individual state context will determine whether any of the following listed 
+groups or other groups that may be identified are unserved or underserved.   
+Unserved people are those who would be eligible for VR services but have not received 
+any VR services.   
+Underserved groups are those that have not traditionally received equal access to and 
+benefits of rehabilitation services (e.g., racial and ethnic minorities).  
+The CSNA includes an examination of the size and needs of disability subpopulations 
+and their representation within VR, which can help determine whether certain disability 
+groups are unserved or underserved.  Review of state and substate reports and other 
+materials, as well as data collection from stakeholders, can help identify the other kinds 
+of groups that are unserved or underserved in the community.  In particular, interviews
+
+Appendix H  Guide to Assessing VR Needs  
+ H-2 
+with key informants and hearings can help to reveal needs of individuals who are 
+unserved in the VR program.  VR agency data, including the R-911, VR counselor 
+surveys, customer satisfaction surveys, interviews with key informants, and community 
+hearings can provide an understanding of the needs of people who are underserved by the 
+VR program.   
+Examples of Potentially Unserved or Underserved Groups 
+Racial, ethnic and cultural minorities.  The Rehabilitation Act identifies people from 
+racial and ethnic minorities as traditionally underserved, and other cultural groups may 
+also be unserved or underserved: 
+• racial/ethnic minorities in general 
+• African American  
+• Asian/Pacific Islander 
+• American Indian/Alaska Native 
+• Hispanic/Latino 
+• two or more racial/ethnic groups 
+• limited English proficiency 
+• other linguistic or cultural minorities in the state 
+Disability groups that may be unserved or underserved.  Depending on the particular 
+state, there may be groups identified as unserved or underserved in that state.  People 
+with the following conditions have been mentioned in the literature as potentially 
+unserved or underserved: 
+• mental illness, chronic or serious 
+• traumatic or acquired brain injury 
+• developmental disabilities, including mental retardation 
+• autism spectrum disorders 
+• deaf-blind 
+• deaf/hard of hearing 
+• spinal cord injury 
+• blind/visually impaired 
+• degenerative conditions 
+• HIV/AIDS 
+• dual diagnosis 
+• other “low incidence” disabilities
+
+Appendix H  Guide to Assessing VR Needs  
+ H-3 
+Other potentially unserved or underserved groups.  In addition, other groups have 
+been identified in the literature as possibly unserved or underserved, and each state may 
+have groups that are of particular interest because their needs are known to be unmet or 
+only partially met.  Depending on the particular state context, a review of existing reports 
+or other materials, conducting interviews with key informants, and other primary data 
+collection methods can assist in understanding the rehabilitation needs of one or more of 
+these groups.  Groups identified in the literature include, but are not limited to: 
+• students in transition 
+• veterans 
+• people living in rural areas 
+• older people, including the aging workforce 
+• people with limited education 
+• poor/low income people 
+• inner city residents 
+• victims of crime or domestic violence 
+• former prisoners 
+• other disadvantaged social groups
+
+Appendix I  Guide to Assessing VR Needs  
+ I-1 
+Appendix I – Literature Review 
+In the literature, needs assessments have been defined in many ways. Given the purpose 
+of the VR CSNA and its focus on informing the State Plan, the most relevant definitions 
+include not only the conduct of the needs assessment but also a focus on how it is used.  
+Reviere and her colleagues describe needs assessments as “a systematic and ongoing 
+process of providing usable and useful information about the needs of the target 
+population – to those who can and will utilize it to make judgments about policy and 
+programs” (Reviere, Berkowitz, Carter & Ferguson, 1996b).   They state that the process 
+is “population –specific, but systemically focused, empirically based, and outcome-
+oriented.  Needs assessment then is a form of applied research that extends beyond data 
+collection and analysis to cover the utilization of the findings.” Witkin and Altschuld 
+(1995) concur, describing a needs assessment as “a systematic set of procedures 
+undertaken for the purpose of setting priorities and making decisions about program or 
+organizational improvement and allocation of resources. The priorities are based on 
+identified needs.”  Furthermore, they state that “data gathering methods by themselves 
+are not a needs assessment.  Data collection is but one component in the process, which 
+also includes analysis, presentation, and integration of the information” (Witkin & 
+Altschuld, 1995). 
+What are the “needs” that the assessment is measuring? Witkin and Altschuld (1995) 
+describe need as the discrepancy or gap between a present state, “what is,” and a desired 
+end state, “what should be.”  Kaufman (1992) describes need as the difference between 
+the actual and the ideal. Grayson (2002) further notes that need is neither the present nor 
+the future state but rather the gap between them. A need is not a thing in itself but, rather, 
+an inference drawn from examining a present state and comparing it with a vision of a 
+future (better) state or condition.  In a sense, a need is the problem or issue of concern 
+(Grayson, 2002).  Reviere et al. (1996b) suggest a definition that synthesizes these ideas 
+and define need as a gap between the real and ideal conditions that is both acknowledged 
+by community values and potentially amenable to change.  
+Stakeholder involvement 
+Needs assessment is a participatory process (Witkin & Altschuld, 1995), with 
+stakeholders ranging from clients who receive services to service providers, management, 
+community members, funders, businesses or associations, and researchers invested in the 
+outcome (Reviere et al., 1996b).  Reviere et al. further emphasize the importance of 
+inclusion of stakeholders, especially service and program users in “defining, targeting, 
+and carrying out the research…” They note three rationales for the use of stakeholders in 
+needs assessments. First, active participation will generate a sense of ownership, and that 
+will increase the likelihood that the results will be used.  Second, gathering input from 
+diverse stakeholders will more strongly guide decision-making during conduct of the 
+needs assessment and implementation of the findings.  Finally, participation in this 
+research can empower groups that have been previously marginalized.
+
+Appendix I  Guide to Assessing VR Needs  
+ I-2 
+Connection to plans and actions 
+Many authors note that successful needs assessments depend on quality planning 
+(Altschuld & Witkin, 2000; Soriano, 1995; Reviere et al., 1996b; Reviere & Carter, 
+1996).  They point to the connection between the needs assessment’s goals and its direct 
+relationship to an organization’s planning, while also noting the political nature of 
+conducting needs assessments.  In the case of a vocational rehabilitation needs 
+assessment, the Rehabilitation Act connects the goals to the generation of a state plan that 
+uses the needs assessment’s findings (Region V Study Group, 1991a).   
+Methodology 
+Needs assessments are a “type of applied social research” and therefore must have a 
+methodological design to collect and analyze data according to social science research 
+guidelines (Reviere et al., 1996b).  Several types of methods recur in the conduct of needs 
+assessments: surveys of service users; use of existing data including area demographics 
+as well as program data; use of key informants with knowledge of problems, needs and 
+desires of the population; use of group processes such as focus groups; use of public 
+hearings for testimony or assembling interested persons for consensus on service and 
+needs priorities; and service user statistics (Lareau, 1983; Warheit, Bell & Schwab, 
+1979; and Harlow & Turner, 1993 in Reviere et al., 1996b).  
+Berkowitz (1996a) stresses that needs assessment methods should be driven by research 
+questions, the needs the study is attempting to address, and recommends a matrix to link 
+research questions to information goals and sources.   
+Information sources 
+One major approach is the use of existing information sources such as national or state 
+survey data, program data, or administrative data.  Use of this ”secondary data” may 
+include use of existing tables, or may require new analysis.  These data have a number of 
+strengths: They provide estimates of prevalence and incidence (Region V Study Group, 
+1991a); they can include a wealth of demographic information; and they can provide easy 
+access to program data on who is using services (Soriano, 1995).  Other advantages 
+include: the data are often free or low cost; they often include large respondent pools and 
+good sampling methods – leading to valid data; and the data are usually fairly current or 
+are available in a timely manner.  Drawbacks include: the sources seldom contain the 
+exact data one is seeking; program data do not describe anything about those not using 
+services; data can require technical expertise to analyze (Soriano, 1995). Existing data 
+will not necessarily reveal needs in a low-incidence population (e.g., Hmong) nor reveal 
+how critical a unique need is among populations (e.g., need for native language 
+interpreters). Another issue is that definitions of disability, severity, age ranges, nature 
+(e.g., noninstitutionalized vs. all), and scope (i.e., national, regional, or state) of the 
+populations usually do not correspond to definitions and classifications used in VR 
+(Region V Study Group, 1991a).
+
+Appendix I  Guide to Assessing VR Needs  
+ I-3 
+Because of these shortcomings in relying on secondary data alone, needs assessments 
+typically involve the collection of new information as well. “Primary data collection” 
+can be both open- or close-ended, and quantitative or qualitative in nature.  Needs 
+assessments often use surveys, key informants, focus groups, and public hearings, to 
+provide new information that is not available in existing data. Each of these methods also 
+has advantages and disadvantages.   
+Surveys done with service participants, providers, or others involved in the service 
+provision process can be cost-effective for gathering data from a large number of people 
+with little assistance needed. Surveys also can address attitudes, perceptions, and needs 
+for services (Soriano, 1995), and can allow for flexibility in assessing the expectations 
+and needs of subgroups and other audiences concerned with the needs assessment 
+(Region V Study Group, 1991a).  Surveys, however, may need technical expertise in 
+sampling, questionnaire design, and/or analysis to be technically valid (Berkowitz, 
+1996b; Region V Study Group, 1991a).  
+Key informants are those who are particularly knowledgeable about the community or 
+the service process. Advantages of this method include the fact that participants can 
+competently address topics, that only a limited number of participants are needed 
+(Soriano, 1995), and that it is relatively inexpensive to conduct (Region V Study Group, 
+1991a).  However, reliance on a small number of respondents may emphasize biased or 
+skewed points of view, or the effort may miss some key informants view (Soriano, 1995; 
+Region V Study Group, 1991a).  Also, input may uncover potentially sensitive issues that 
+an agency would prefer not to confront (Region V Study Group, 1991a).   
+Focus groups can give an understanding of the target market through meetings of small 
+numbers of individuals. Focus groups allow for more participation by group members, 
+concentration on quality (not quantity) of information and can be used to design more 
+quantitative instruments, although they rely on facilitator expertise, and may lack broad 
+representation (Soriano, 1995), and cannot be generalized statistically (Berkowitz, 
+1996a). This method can use open-ended questions that allow responses in the words of 
+the respondent – and thus a greater range of complete responses – but time is needed to 
+code responses – and responses are not easy to quantify (Soriano, 1995). 
+Public hearings are conducted with members of the community at large.   Hearings offer 
+the community an opportunity to be heard, but they are likely not statistically 
+representative and may be prone to the “squeaky wheel” effect: the most persistent 
+advocates making the most comments.  Advantages and disadvantages are similar to 
+focus groups because of the use of an open response format.  
+One logical question is whether one method provides sufficient information.  Generally, 
+needs assessments include a mixture of quantitative and qualitative methods to increase 
+the quality and validity of the findings. For instance, Altschuld and Witkin (2000) note 
+that it is not possible to understand the current situation or the desired outcome from just 
+one method.
+
+Appendix I  Guide to Assessing VR Needs  
+ I-4 
+Conclusions 
+Needs assessments should be useable and useful to program management and identify the 
+gaps in existing services that can be reduced through policies and programs.  Needs 
+assessments combine the use of existing information and the collection of new 
+information to address defined study questions or information goals.  Any one method 
+will have strengths and weaknesses, and there is no one “best” combination of methods. 
+Stakeholder involvement is important to inform the needs assessment and planning 
+process, to provide opportunity for input and buy-in, to assure the relevance of the data 
+collection and the results, and to satisfy programmatic requirements.
+
+Appendix J  Guide to Assessing VR Needs  
+ J-1 
+Appendix J – Reviews of State Needs Assessments 
+To date, state VR agencies have addressed the needs assessment requirements in the 
+Rehabilitation Act through different methods and designs.  A review of current practice is 
+useful in understanding the need for a model and for technical assistance.  State agencies 
+were invited to submit needs assessment materials as part of this project.  Several 
+agencies have shared documents; in addition, a few states include the needs assessment 
+reports on their Web sites.   
+The following is based on a review of nine studies available for the project and shows a 
+wide range of approaches to the satisfaction of the needs assessment requirements. Table 
+1 shows the extent to which these nine studies used different types of methodologies in 
+identifying needs and summarizes the extent to which the specific information 
+requirements defined in the Rehabilitation Act are addressed directly in the reports.  The 
+table also shows whether SRC involvement was described and whether the report 
+included recommendations for the State Plan. 
+Of the nine studies, five used U.S. Census or American Community Survey information 
+to estimate the prevalence of disability in the state.  Other national survey sources were 
+used in two of the studies to estimate specific conditions: in one case, blindness, and in 
+another, mental illness.  
+Population and economic projections and forecasts can be valuable in identifying future 
+directions, especially when considering service capacity.  Two of the studies used 
+population projections to look ahead to expected changes in state population.
+
+Appendix J  Guide to Assessing VR Needs  
+ J-2 
+Table 1: Need Study Methods and Coverage of Rehab Act Requirements 
+ 1 2 3 4 5 6 7 8 9 Total 
+State Population: Census, ACS • • •    • •  5 
+Projections of population, economy •       •  2 
+VR caseload data, 911, other data • • •   •  •  5 
+VR Agency reports, internal studies  • •    • •  4 
+Reports, surveys from other agencies • •    • • •  5 
+Special written or internet surveys • • • •  • • • • 8 
+Focus groups •  • • •     4 
+Public hearings or discussions  •    •  •  3 
+Identifies need for services for most 
+significant disabilities • •  • •  •   5 
+Identifies need for supported employment  •   •  •   3 
+Identifies needs for services for unserved 
+or underserved: minorities  • •   • • •  5 
+Identifies need for services for specific 
+other unserved or underserved groups • •    • • •  5 
+Identifies need to establish, develop, 
+improve CRPs • •      •  3 
+Identifies need for services for 
+individuals served through state 
+workforce investment system  
+ • •   •    3 
+Involvement of SRC • •  •  • • • • 7 
+Shows relationship to State Plan • • •   •  •  5 
+Types of methods used (8) 6 6 5 2 1 4 4 7 1  
+Addresses required topics (8) 5 8 3 2 2 5 4 5 1  
+ 
+Information from the VR agency itself is a valuable resource for describing the current 
+services and caseload and identifying VRs own trends and changes over time.  Five of the 
+studies used VR data from the case management system or existing data reports to 
+describe characteristics of individuals served, services and expenditure.   
+Other agencies and organizations may have very relevant information, and five of these 
+studies used such materials such as brain injury statistics from the Department of Health,
+
+Appendix J  Guide to Assessing VR Needs  
+ J-3 
+a Department of Education study of Students in Transition, and an annual survey of state 
+community rehabilitation programs. 
+Surveys are a popular needs assessment tool, valuable for collecting new information.  
+Surveys were conducted in eight of the nine studies.  Survey subjects varied by state and 
+included community rehabilitation providers, VR counselors, supervisors, support staff, 
+VR consumers, VR exiters, representatives of state businesses, students in transition, and 
+education coordinators. 
+Focus groups were conducted in four of the nine studies, in most cases involving current 
+VR consumers.  Comments from public hearings and meetings were used as resources in 
+three of the studies. 
+No specified topic from the Rehabilitation Act was addressed explicitly or systematically 
+by all of these nine studies.  Five of the studies identified the need for service for most 
+significant disabilities. Usually this was with a focus on one or more conditions: 
+blindness, developmental disability, mental illness, deaf/hard of hearing, brain injury, or 
+transition.  Three of these studies addressed the need for supported employment.  Five 
+reports discussed unserved or underserved populations, including racial or ethnic 
+minorities.  Need for establishment, development or improvement of community 
+rehabilitation programs, or needs of people with disabilities served by other parts of 
+WIA, were each addressed by three of the studies.  Most studies (7 of 9) mentioned 
+involvement of the state rehabilitation council in the design of the studies or in the review 
+of findings and recommendations.  Five mentioned recommendations for the State Plan 
+and other actions of the agencies. 
+The studies show a wide range of choices in the methods and combinations of methods 
+used.  Some concentrated much of the information collection within VR and among VR 
+consumers, limiting the input regarding individuals who do not currently receive VR 
+services.  Four of the nine studies used a number of methods in carrying out the study, 
+while the others focused mostly on a few methods such as focus groups and surveys.  
+One of the nine studies explicitly addressed all Rehabilitation Act required topics and 
+conditions, and several others were somewhat consistent with the content requirements, 
+addressing at least four of the identified topics. In four cases, though, the studies focused 
+more on the findings of a particular survey or other information collection, and, while 
+providing useful information, these studies do not organize the findings to describe the 
+needs as specified. Some addressed disability subpopulations but not specifically whether 
+they were either most significant or unserved or underserved.   
+The nine studies reviewed spanned a period from 2004 to 2008 and represent a range of 
+approaches to conducting needs assessments. From the differences in approach, it is clear 
+that the agencies for the most part selected the topics to pursue and the methods to use.  
+Furthermore, by focusing primarily on people already being served some state agencies 
+are missing the sources that would help to identify needs that are not being met or 
+individuals who are unserved or underserved by the system.
+
+Appendix J  Guide to Assessing VR Needs  
+ J-4

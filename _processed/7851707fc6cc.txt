@@ -1,0 +1,149 @@
+400 MARYLAND AVE. S.W., WASHINGTON, DC 20202-2800 
+www.ed.gov 
+The Department of Education’s mission is to promote student achievement and preparation for global competitiveness 
+ by fostering educational excellence and ensuring equal access. 
+ 
+ 
+UNITED STATES DEPARTMENT OF EDUCATION 
+OFFICE OF SPECIAL EDUCATION AND REHABILITATIVE SERVICES 
+REHABILITATION SERVICES ADMINISTRATION 
+  Date: October 18, 2024 
+DCL-25-01   
+  
+Dear Colleagues: 
+As individuals with disabilities seek to achieve and excel in competitive integrated employment 
+(CIE), assistive technology (AT), from low-tech communication aids to sophisticated software, 
+has helped level the playing field. In addition to advances in AT, the field of vocational 
+rehabilitation (VR) is now navigating the impact that artificial intelligence (AI)1 can have in 
+supporting individuals with disabilities to achieve CIE. As President Biden said in his landmark 
+Executive Order 14110: Safe, Secure, and Trustworthy Development and Use of Artificial 
+Intelligence (EO 14110), responsible AI use has the potential to help solve urgent challenges, 
+while making our world more prosperous, productive, innovative, and secure. Responsible AI 
+use and innovation, as explained in EO 14110, involves mitigating the risks of AI in order to 
+realize its benefits. Irresponsible or uninformed use could exacerbate societal harms such as 
+discrimination, bias, and disempowered workers. Recognizing this risk, EO 14110 tasked the 
+U.S. Access Board and other Federal agencies with identifying and developing possible solutions 
+to potential or existing civil rights concerns, accessibility barriers, and risks of AI, as well as 
+promoting and creating safe, equitable, and accessible AI.2  
+As the landscape of AI continues to evolve, I urge us all to commit to ensuring with outspoken 
+intention that individuals with disabilities are early and active participants in AI developments. 
+History has proven that in the technology industry’s rush to be first to market, accessibility for 
+individuals with disabilities is often an afterthought, a luxury to be added on later. In honor of 
+October’s National Disability Employment Awareness Month, I am pleased to celebrate the 
+value and talent individuals with disabilities add to America’s workplaces and economy, 
+including instances in which AI propels such opportunity. 
+The purpose of this Dear Colleague Letter is to encourage states to drive responsible AI 
+innovation focused on better serving individuals with disabilities. The Rehabilitation Services 
+Administration has identified three ways that AI has the potential to support individuals with 
+disabilities in achieving CIE and to solve urgent challenges in the field: 
+1. The VR program should intentionally support the AI literacy of individuals with 
+disabilities and prepare interested individuals with disabilities for careers in AI. 
+ 
+1 The term “artificial intelligence” or “AI” has the meaning set forth in 15 U.S.C. 9401(3): a machine-based system 
+that can, for a given set of human-defined objectives, make predictions, recommendations, or decisions influencing 
+real or virtual environments. Artificial intelligence systems use machine- and human-based inputs to perceive real 
+and virtual environments; abstract such perceptions into models through analysis in an automated manner; and use 
+model inference to formulate options for information or action. 
+2 U.S. Access Board Memorandum of Understanding on Artificial Intelligence, https://www.access-board.gov/ai-
+mou/; retrieved October 11, 2024.
+
+Page 2 – DCL on Responsible AI Use 
+ 
+2. The VR program should be intentional in the ways it uses responsible AI to support CIE 
+in any career field that an individual with disabilities chooses. 
+3. States may use responsible AI to create efficiencies in the operation of the VR program.  
+Intentionally Supporting AI Literacy and Preparing for Careers in AI 
+VR agencies should provide the services and supports necessary for individuals with disabilities 
+to gain the technical skills to achieve CIE in AI careers, such as machine learning or systems 
+engineering, if that is the individual’s choice. VR agencies play a key role in the skills training 
+and career development opportunities, including internships and apprenticeships, needed to 
+prepare individuals with disabilities to be competitive in this evolving job market.  
+Using Responsible AI to Support CIE in Any Career Field 
+AI has the potential to remove longstanding barriers to CIE in self-selected careers for 
+individuals with disabilities by providing needed accommodations and individualized support. 
+As examples, AI-enabled software applications using speech synthesis and braille, universal 
+design of AI tools that all employees use, and reasonable accommodations that leverage AI are 
+now available. AI may also serve as a tool to address known challenges, offer additional support 
+that may unlock an employee’s potential by reducing unknown barriers, and create expanded 
+opportunities for success.  
+Responsible AI use is already benefiting individuals with disabilities. As examples: 
+• The Employer Assistance and Resource Network on Disability Inclusion (EARN) article, 
+Use of Artificial Intelligence to Facilitate Employment Opportunities for People with 
+Disabilities, notes a variety of ways that AI can facilitate employment opportunities for 
+individuals with disabilities. 
+• Representative Jennifer Wexton uses an AI voice on the floor of the U.S. House of 
+Representatives. 
+• Johns Hopkins University researchers have developed a navigation system that enables 
+blind or visually impaired users to navigate their surroundings.  
+Using Responsible AI to Create Efficient Program Operations 
+AI presents an opportunity to maximize the quality and efficiency of VR services. This can 
+include improvements to VR counseling and case management with the support of AI. An article 
+in The Rehabilitation Professional provides several examples, including that “AI algorithms have 
+been shown to enhance assessment and planning, resulting in more targeted and effective service 
+plans.”
+3 Washington State’s Department of Social and Health Services AI chatbot tool illustrates 
+opportunities for resources to improve customer service (DSHS’ Division of Vocational 
+Rehabilitation introduces Innovative Artificial Intelligence Tool). Other examples include remote 
+VR service delivery (Enhancing Remote VR Services with Smart Tech and AI). 
+ 
+3 Davenport, T. & Kalakota, R. (2019), as cited in Skerritt, C., & Wolstein, D. (2023). Use of Artificial Intelligence 
+to enhance case management and job development practices in rehabilitation counseling. The Rehabilitation 
+Professional, 31(2), 19-25.
+
+Page 3 – DCL on Responsible AI Use 
+ 
+ 
+ 
+It is critical that VR agencies, advocacy groups, and individuals with disabilities are co-creators 
+of policies, plans, and products that impact them. Similarly, these same individuals should be 
+involved in the ongoing refinement and implementation of these policies, plans, and products. 
+We have urgent challenges, and the individuals who we serve can benefit from responsible AI 
+innovation that aims to provide the support they need to be prosperous and productive. However, 
+this will only happen if we all work together to ensure that these emerging technologies are 
+developed and used in a safe and inclusive manner.  
+We expect to discuss this Dear Colleague letter and anticipate working together on responsible 
+AI use to support individuals with disabilities in the VR program at future gatherings with 
+stakeholders. I look forward to championing the inclusion of individuals with disabilities at the 
+forefront of the AI revolution. May we all draw on the words of inventor Lewis Howard Latimer: 
+“[w]e create our future, by well improving present opportunities.”   
+ 
+Sincerely,  
+    /s/   
+Danté Q. Allen 
+Commissioner 
+ 
+Enclosure
+
+Page 4 – DCL on Responsible AI Use 
+ 
+Additional Resources 
+• AI and Employment: Emerging Experiences and Resources in V ocational Rehabilitation 
+(U.S. Department of Education, V ocational Rehabilitation Technical Assistance Center 
+for Quality Employment) 
+• Accelerating Research on Generative Artificial Intelligence (U.S. Department of 
+Education, Institute of Education Science) 
+• Accessible & Inclusive Technology (U.S. Department of Labor, Office of Disability 
+Employment Policy) 
+• Algorithms, Artificial Intelligence, and Disability Discrimination in Hiring (U.S. 
+Department of Justice)  
+• Blueprint for an AI Bill of Rights (The White House) 
+• Let’s Explore the Emergence of Artificial Intelligence Work Tools (U.S. Department of 
+Health and Human Services, The Disability Employment Technical Assistance Center)  
+• Tips for Workers: The Americans with Disabilities Act and the Use of Software, 
+Algorithms, and Artificial Intelligence (The U.S. Equal Employment Opportunity 
+Commission) 
+ 
+Legal Disclaimer 
+This document contains resources that are provided for the user’s convenience. The inclusion 
+of any of these materials is not intended to reflect its importance, nor is it intended to endorse 
+any views expressed, or products or services offered. These materials may contain the views 
+and recommendations of various subject matter experts as well as hypertext links, contact 
+addresses, and websites to information created and maintained by other public and private 
+organizations. The opinions expressed in any of these materials do not necessarily reflect the 
+positions or policies of the U.S. Department of Education (Department). The Department 
+does not control or guarantee the accuracy, relevance, timeliness, or completeness of any 
+outside information included in these materials. Inclusion of such information does not 
+constitute an endorsement by the Department or the Federal government, or a 
+preference/support for these examples as compared with others that might be available and 
+be presented. Additionally, this discussion should not imply an endorsement of any 
+organization, curriculum, or learning model.

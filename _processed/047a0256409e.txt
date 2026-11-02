@@ -1,0 +1,1090 @@
+THE STATE VOCATIONAL REHABILITATION 
+SERVICES PROGRAM BEFORE AND AFTER 
+ENACTMENT OF  
+THE WORKFORCE INNOV ATION AND 
+OPPORTUNITY ACT IN 2014 
+ 
+U.S. Department of Education 
+Office of Special Education and 
+Rehabilitative Services 
+Rehabilitation Services Administration 
+April 2020
+
+2 
+U.S. Department of Education 
+Betsy DeV os 
+Secretary 
+Office of Special Education and Rehabilitative Services 
+Mark Schultz 
+Delegated the authority to perform the functions and duties of the Assistant Secretary  
+April 2020 
+This report is in the public domain. Authorization to reproduce it in whole or in part is granted. 
+While permission to reprint this publication is not necessary, the citation should be 
+U.S. Department of Education, Office of Special Education and Rehabilitative Services, 
+Rehabilitation Services Administration, The State Vocational Rehabilitation Services Program 
+Before and After the Workforce Innovation and Opportunity Act Report for April 2020, 
+Washington, D.C. 
+On request, this document can be made available in accessible formats, such as braille, large 
+print, and compact disc. For more information, please contact the U.S. Department of 
+Education’s Alternate Format Center at 202-260-0852 or 202-260-0818. 
+This publication is available on the U.S. Department of Education’s website at https://rsa.ed.gov/. 
+Notice to Limited English Proficient Persons 
+If you have difficulty understanding English, you may request language assistance services for 
+U.S. Department of Education information that is available to the public. These language 
+assistance services are available free of charge. If you need more information about 
+interpretation or translation services, please call 1-800-USA-LEARN (1-800-872-5327) 
+(TTY: 1-800-437-0833), or email us at Ed.Language.Assistance@ed.gov
+. Or write to 
+U.S. Department of Education, Information Resource Center, LBJ Education Building, 
+400 Maryland Ave. SW, Washington, DC 20202.
+
+3 
+Table of Contents 
+Page 
+Introduction ..................................................................................................................................... 4 
+The State V ocational Rehabilitation Services Program .................................................................. 5 
+V ocational Rehabilitation Program Performance ............................................................................ 7 
+V ocational Rehabilitation Program Data (FY 2010-2019) .............................................................. 8 
+V ocational Rehabilitation Program Fiscal Data ............................................................................ 21 
+Training and Technical Assistance ................................................................................................ 25 
+Conclusion .................................................................................................................................... 27
+
+4 
+THE STATE VOCATIONAL REHABILITATION SERVICES PROGRAM  
+BEFORE AND AFTER ENACTMENT OF  
+THE WORKFORCE INNOV ATION AND OPPORTUNITY ACT IN 2014 
+Introduction  
+This year marks the 100th anniversary of the first federally funded program to assist people with 
+disabilities who acquired their disabilities apart from military service. Federal interest and 
+involvement in rehabilitation issues and policy initially date from the enactment of the Civilian 
+V ocational Rehabilitation Act, commonly called the Smith-Fess Act, on June 2, 1920. The Smith-
+Fess Act marked the beginning of a Federal and State partnership in the rehabilitation of 
+individuals with disabilities. Although the law was passed shortly after the end of World War I, 
+its provisions were specifically directed at the rehabilitation needs of civilians who were 
+industrially injured rather than the needs of veterans with disabilities. 
+Over the past 100 years, society’s understanding of and expectations for individuals with 
+disabilities have evolved. As society’s views have changed, so has the V ocational Rehabilitation 
+(VR) program, moving from a program focused on limited employment for individuals with 
+physical disabilities to a program that provides a wide range of services and supports leading to 
+high-quality employment for individuals with all types of disabilities, including significant 
+disabilities. A major event in the history of the VR program was passage of the Rehabilitation 
+Act of 1973 (Rehabilitation Act), which provides the statutory authority for programs and 
+activities that assist individuals with disabilities in the pursuit of gainful employment, 
+independence, self-sufficiency, and full integration into community life. Some of the most far-
+reaching changes to the VR program occurred with the amendments to the Rehabilitation Act 
+made by Title IV of the Workforce Innovation and Opportunity Act (WIOA), signed into law on 
+July 22, 2014. These changes empower individuals with disabilities to maximize employment, 
+economic self-sufficiency, independence, and inclusion and integration into society and the 21
+st 
+century global economy. 
+The U.S. Department of Education (the Department) is submitting this report pursuant to the 
+congressional explanatory statement to the FY2020 Further Consolidated Appropriations Act 
+(Pub. L. No. 116-94), signed into law on December 20, 2019, that “directs the Secretary to 
+submit a report within 90 days of enactment of this Act to the Committees evaluating any 
+changes in trends in employment outcomes for individuals with disabilities served by State 
+vocational rehabilitation programs before and after the implementation of the WIOA.” In 
+addition, “[t]he agreement directs the Secretary to ensure appropriate State level implementation 
+of the Rehabilitation Act, which may include the Department providing technical assistance as 
+necessary.” On February 25, 2020, the Department requested an extension for submitting the 
+report until April 30, 2020, and the Department was granted this extension on March 4, 2020. 
+This report summarizes trends in the performance of the VR program with respect to the 
+characteristics of individuals served, the services they received, and the employment outcomes 
+they achieved, using data collected and reported by VR agencies to the Rehabilitation Services 
+Administration (RSA) within the Department prior to and following the enactment of WIOA. 
+The report also describes the technical assistance RSA has provided to the State VR agencies as 
+they have implemented the changes to the VR program made by WIOA.
+
+5 
+The State V ocational Rehabilitation Services Program 
+The VR program is authorized by Title I of the Rehabilitation Act, as amended by Title IV of 
+WIOA (29 U.S.C. § 720 et seq.), to provide support to each State to assist in operating a statewide 
+comprehensive, coordinated, effective, efficient, and accountable State program as an integral part 
+of a statewide workforce development system; and to assess, plan, and provide VR services to 
+individuals with disabilities so that those individuals may prepare for and engage in competitive 
+integrated employment consistent with their unique strengths, priorities, concerns, abilities, 
+capabilities, interests, and informed choice. VR agencies may provide a wide variety of services to 
+individuals with disabilities, including career counseling, work-based learning experiences (e.g., 
+internships, apprenticeships, and short-term employment), financial support for vocational training 
+and postsecondary education, rehabilitation technology and training in its use, transition and pre-
+employment transition services, supported employment services, transportation, and other services 
+and supports necessary for individuals with disabilities to achieve employment. 
+The VR program is administered by 78 VR agencies at the State level, which includes the 50 
+States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, 
+the Commonwealth of the Northern Mariana Islands, and the U.S. Virgin Islands.
+1 See Section 
+7(34) of the Rehabilitation Act for the definition of “State.” RSA distributes funds to these 
+agencies on a formula basis that takes into account each State’s population and per capita 
+income. In Federal fiscal year (FY) 2019, RSA distributed $3.26 billion to the States, 
+representing 78.7 percent of the total cost of the VR program with the States contributing the 
+remaining 21.3 percent of the total cost of the program using non-Federal funds. 
+The WIOA amendments made significant changes to Title I of the Rehabilitation Act that affect 
+the VR program. First, the WIOA amendments strengthened the alignment of the VR program 
+with other core components of the workforce development system by imposing requirements 
+governing strategic planning, performance accountability, and the one-stop delivery system. This 
+alignment brings together entities responsible for administering separate workforce and 
+employment, educational, and other human services programs to collaborate in the creation of a 
+seamless customer-focused network that integrates service delivery across programs, enhances 
+access to the programs’ services, and improves long-term employment outcomes for individuals 
+receiving assistance. In so doing, WIOA places heightened emphasis on coordination and 
+collaboration at the Federal, State, and local levels to ensure a streamlined and coordinated 
+service delivery system for job-seekers, including those with disabilities, and employers.  
+Second, the WIOA amendments to the Rehabilitation Act emphasized the achievement of 
+competitive integrated employment. The foundation of the VR program is the principle that 
+individuals with disabilities, including those with the most significant disabilities, are capable of 
+achieving high-quality, competitive integrated employment when provided the necessary services 
+and supports. To increase the employment of individuals with disabilities in the competitive 
+ 
+1 Section 101(a)(2) of the Rehabilitation Act provides States with flexibility in the organizational structures they 
+choose to administer and operate the VR program, which includes the ability to establish separate agencies that 
+serve only individuals who are blind or visually impaired. Currently, there are 22 VR agencies serving only 
+individuals who are blind or visually impaired, 22 VR agencies serving individuals with all other disabilities, and 34 
+VR agencies serving individuals with all types of disabilities.
+
+6 
+integrated labor market, the workforce system must provide individuals with disabilities 
+opportunities to participate in job-driven training and to pursue high-quality employment 
+outcomes. The WIOA amendments to the Rehabilitation Act—from the stated purpose, to the 
+expansion of services designed to maximize the potential of individuals with disabilities, 
+including those with the most significant disabilities, to achieve competitive integrated 
+employment, and, finally, to the inclusion of limitations on the payment of subminimum wages 
+to individuals with disabilities— reinforce this principle.  
+Third, the WIOA amendments to the Rehabilitation Act emphasized the provision of services to 
+students and youth with disabilities to ensure they have meaningful opportunities to receive the 
+services, including training and other supports, they need to achieve employment outcomes in 
+competitive integrated employment or supported employment. The Rehabilitation Act, as 
+amended by WIOA, expands not only the population of students with disabilities who may 
+receive VR services but also the breadth of services that the VR agencies may provide to youth 
+and students with disabilities who are transitioning from secondary school to postsecondary 
+education and employment. Importantly, Sections 110(d)(1) and 113(a) of the Rehabilitation Act, 
+read together, require States to reserve at least 15 percent of their Federal VR program allotment 
+to provide, or arrange for the provision of, in coordination with local educational agencies, pre-
+employment transition services
+2 to students with disabilities3 who are eligible or potentially 
+eligible for VR services, which the Department has interpreted to mean all students with 
+disabilities regardless of whether they have applied or been determined eligible for VR services 
+(34 C.F.R. § 361.48(a)(1)). Pre-employment transition services assist students with disabilities in 
+the early stages of career exploration and include job exploration counseling, work-based 
+learning experiences, counseling on opportunities for postsecondary education and 
+comprehensive transition programs for individuals with intellectual disabilities, work-readiness 
+training, and instruction in self-advocacy and peer mentoring. WIOA also made several 
+significant changes to Title VI of the Rehabilitation Act, which governs the Supported 
+Employment program, to maximize the potential of individuals with the most significant 
+disabilities, including youth, to achieve competitive integrated employment. Under Title VI of 
+the Rehabilitation Act, as amended by WIOA, States are required to reserve at least 50 percent of 
+their Supported Employment program allotment for the provision of supported employment 
+services, including extended services, to youth with the most significant disabilities. In addition, 
+States must provide a non-Federal share of 10 percent of the portion of the allotment reserved for 
+the provision of supported employment services to youth with the most significant disabilities. 
+By requiring that States reserve and use half of their Supported Employment program funds and 
+provide a match for these reserved funds, Congress made clear that youth with the most 
+significant disabilities must be given every opportunity and support to receive the services 
+ 
+2 “[P]re-employment transition services” (Section 7(30) of the Rehabilitation Act and 34 C.F.R. § 361.5(c)(42)) 
+include “required” activities (Section 113(b) of the Rehabilitation Act and 34 C.F.R. § 361.48(a)(2)),“authorized” 
+activities (Section 113(c) of the Rehabilitation Act and 34 C.F.R. § 361.48(a)(3)), and “pre-employment transition 
+coordination” activities (Section 113(d) of the Rehabilitation Act and 34 C.F.R. § 361.48(a)(4)). 
+3 A “student with a disability” is an individual who is in an educational program, meets certain age requirements, 
+and is eligible for and receiving special education or related services under the Individuals with Disabilities 
+Education Act or is an individual with a disability for purposes of Section 504 of the Rehabilitation Act (Section 
+7(37) of the Rehabilitation Act and 34 C.F.R. § 361.5(51)).).
+
+7 
+necessary to achieve an employment outcome in competitive integrated employment or 
+supported employment. 
+Finally, Section 511, as added to Title V of the Rehabilitation Act by WIOA, requires individuals 
+with disabilities, including youth with disabilities, to satisfy certain service-related requirements 
+in order to start or maintain, as applicable, subminimum wage employment. Among the 
+requirements pertinent to this report, individuals with disabilities, including youth with 
+disabilities, must receive counseling and information and referral services twice a year during the 
+first year of employment at subminimum wage and annually thereafter for the duration of the 
+individual’s employment at subminimum wage with entities holding a Section 14(c) certificate 
+under the Fair Labor Standards Act of 1938 (29 U.S.C. § 214(c)). Also, youth with disabilities 
+under age 25 and who are students with disabilities also must receive pre-employment transition 
+services under Section 113 of the Rehabilitation Act or transition services under the Individuals 
+with Disabilities Education Act (20 U.S.C. § 1400 et seq.). 
+Vocational Rehabilitation Program Performance 
+Although WIOA was signed into law on July 22, 2014, the performance accountability system 
+requirements of Section 116 of WIOA did not take effect until July 1, 2016 (Section 506(b) of 
+WIOA). Sections 101(a)(10) and 106 of the Rehabilitation Act make clear that the performance 
+accountability system and its requirements, as set forth in Section 116 of WIOA, are applicable 
+to the VR program. The data required by WIOA, as compared to those required by the 
+Rehabilitation Act as amended by the Workforce Investment Act of 1998 (WIA), are 
+fundamentally different. For example, prior to WIOA, VR agencies collected and reported data 
+only on those individuals who had exited the VR program; with the implementation of WIOA’s 
+requirements, State VR agencies now must collect and report data on all program participants 
+while they are still actively engaged with the program plus data on those who have exited the 
+program. As another example, prior to WIOA, State VR agencies collected and reported data 
+annually on an FY basis (October 1 through September 30); with the implementation of WIOA’s 
+requirements, State VR agencies now must report quarterly on a Program Year (PY) basis (July 1 
+through June 30). Given the scope and breadth of the data collection and reporting requirement 
+changes from the Rehabilitation Act, as amended by WIA, to the Rehabilitation Act, as amended 
+by WIOA, the Secretary of Education determined it necessary to use the transition authority set 
+forth in Section 503(a) and (e) of WIOA in order to give State VR agencies sufficient time to 
+reconfigure their data collection systems. To that end, the Department did not implement the data 
+collection requirements of WIOA until PY 2017, which began July 1, 2017. As a result, for 
+purposes of this report, the Department only has two full program years of data post 
+implementation of WIOA’s data collection and reporting requirements (i.e., PYs 2017 and 2018 
+(July 1 through June 30, 2019)). States are currently in the process of collecting and reporting PY 
+2019 data.  
+Given the differences in the data collected prior to the implementation of WIOA, and the data 
+that RSA has been collecting since implementing the data collection requirements imposed by 
+Section 101(a)(10) of the Rehabilitation Act and Section 116 of WIOA in PY 2017, and the fact 
+that the Department has only collected two full program years of this new data, it is not possible 
+to draw direct correlations between the changes to the VR program as a result of WIOA and 
+employment outcomes achieved by individuals with disabilities. Nonetheless, this section of the
+
+8 
+report illustrates trends in VR program performance over a ten-year period including years 
+before and after WIOA from FY 2010 through FY 2019 (October 1, 2009 through September 30, 
+2019), except when describing data only available since PY 2017. Whenever possible, the report 
+explains these trends based on information obtained by RSA from VR agencies through 
+monitoring and other technical assistance activities. 
+RSA assesses the achievement of quality employment outcomes by individuals with disabilities 
+who have received training and services in the VR program by conducting an in-depth and 
+integrated analysis of core VR and Supported Employment program data. The data used in the 
+analysis are largely those collected and reported by VR agencies through the Case Service 
+Report (RSA-911) (OMB control no: 1820-0508) and the Quarterly Cumulative Caseload Report 
+(RSA-113) (OMB control no: 1820-0013).
+4 The data collected through the RSA-911 include 
+those elements captured under common WIOA reporting requirements  that are necessary for the 
+calculation of primary indicators of performance established in Title I of WIOA for all core 
+programs5 in the workforce development system, including the VR program. 
+The data analysis serves as a broad overview of the performance of the VR and Supported 
+Employment programs. It should not be construed as a definitive or exhaustive review of all 
+available VR program data. The data tables generally measure performance of VR agencies based 
+on data for eligible individuals with open and closed service records. RSA shares performance data 
+with the 78 VR agencies prior to and during on-site monitoring and technical assistance visits; 
+quarterly technical assistance calls with each VR agency;  through dissemination of quarterly data 
+dashboards and annual reports to Congress; and in response to individual requests from VR 
+agencies, researchers, other Federal agencies, and stakeholders. During on-site monitoring visits, 
+RSA also uses the information obtained through the review of service records to assess a VR 
+agency’s internal controls for the accuracy and validity of data reported to RSA. The review of the 
+data assists VR agencies to improve performance and identify information concerning barriers to 
+program improvement. As a result of its analysis and discussions with key VR agency officials and 
+staff, RSA may develop recommendations intended to assist the VR agency in its efforts to 
+improve identified areas of programmatic performance.  
+Vocational Rehabilitation Program Data (FYs 2010 - 2019)  
+Below are data tables that include required data related to the performance of the VR program. 
+These tables reflect data trends from FY 2010 through FY 2019 on the number of applicants, 
+eligible individuals, and eligible individuals receiving services under an individualized plan for 
+employment (IPE) (Table 1); individuals exiting with employment outcomes, individuals exiting 
+ 
+4 RSA discontinued the RSA-113 data collection after the completion of reporting for FY 2018 to reduce duplicative 
+data reporting. Similar data are reported by VR agencies on the RSA-911. 
+5 The six core programs are the Adult, Dislocated Worker, and Youth programs, authorized under WIOA Title I and 
+administered by the U.S. Department of Labor (DOL); the Adult Education and Family Literacy Act program, 
+authorized under WIOA Title II and administered by the Department; the Employment Service program authorized 
+under the Wagner-Peyser Act, as amended by WIOA Title III and administered by DOL; and the VR program 
+authorized under Title I of the Rehabilitation Act as amended by WIOA Title IV and administered by the 
+Department.
+
+9 
+without employment outcomes, and the employment rate (Table 2); and median hourly wages and 
+median hours worked per week of individuals exiting with an employment outcome (Table 3).  
+Table 1: Number of Applicants, Eligible Individuals, and Eligible Individuals Receiving VR 
+Services under IPEs 
+FY 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 
+Applicants 701,779 673,578 652,756 619,265 590,820 583,246 602,400 569,530 528,386 446,919 
+Eligible 
+Individuals 693,628 653,314 638,959 601,327 578,490 578,997 582,788 536,483 484,674 399,587 
+Eligible 
+Individuals 
+Receiving 
+Services 
+under an 
+IPE 
+1,011,395 1,011,602 1,011,671 1,001,814 944,593 954,024 972,155 975,359 932,119 1,236,663 
+Source: U.S. Department of Education, Office of Special Education and Rehabilitative Services, Rehabilitation 
+Services Administration, Quarterly Cumulative Caseload Report (RSA-113) (FY 2010 through FY 2018)  
+Source: U.S. Department of Education, Office of Special Education and Rehabilitative Services, Rehabilitation 
+Services Administration, Case Service Report (RSA-911), FY 2019 
+Table 1 demonstrates a decline in the number of applicants for the VR program from 701,779 
+individuals in FY 2010 to 446,919 indiv iduals in FY 2019. Similarly, the number of individuals 
+with disabilities determined eligible  annually declined from 693,628 individuals in FY  2010 to 
+399,587 individuals in FY  2019. Data for eligible individuals receiving services under an IPE  
+reflect all individuals receiving services under an IPE in a ny given year, even if the individual 
+began receiving services under an IPE in a prior year. This number varied across the ten -year 
+period from 1,011,395 individuals in FY 2010 to 1,236,663 individuals in FY 2019. 
+It is not possible to determine the role national economic conditions , State conditions, and 
+other external factors played in shaping these performance trends . Changes in the manner in 
+which VR agencies report da ta through available sources, as well  as programmatic changes, 
+during the period following the enactment of WIOA likely had an effect. For instance, unlike 
+the data for FY 2010 through FY 2018, which are derived from the RSA -113 and include 
+applicants and eligible individuals in the current F Y as well as those carried over from a 
+previous FY , the data for FY 2019, which are drawn from the RSA-911, are not cumulative and 
+reflect only applicants and eligible individuals reported during FY 2019.  This difference in 
+reporting, in part, likely accounts  for decreases shown in Table 1 regarding the number of 
+applicants in FY 2018 ( 528,386) to FY 2019 (446,919) and the number of eligible individuals 
+in FY 2018 (484,674) to FY 2019 ( 399,587).
+
+10 
+Changes in the implementation of orders of selection by VR agencies during the period 
+covered by this report also may have contributed to these performance trends. In accordance 
+with Section 101(a)(5) of the Rehabilitation Act and 34 C.F.R. § 361.36, VR agencies must 
+implement an order of selection when they have insufficient resources to serve all eligible 
+individuals in the State. Individuals with the most significant disabilities are given priority for 
+services and eligible individuals are assigned to a wait ing list based upon the priority category 
+to which they a re assigned. Prior to the enactment of WIOA, from FY 20 10 through FY 2014, 
+the number of VR agencies implementing orders of sel ection varied slightly, ranging from 34 
+to 37 of 80 VR agencies. During this period, VR agencies reported in their State Plans an d 
+through monitoring and other technical assistance activities that the implementation of orders  
+of selection, including changes in the closure of priority categories, largely resulted from the 
+lack of State matching funds , which limited the Federal funds available to them, and limited 
+staff resources needed to provide VR services. F ollowing the enactment of WIOA, the number 
+of agencies implementing orders of selection  rose to 41 of the 78 VR agencies
+6 in FY 2019, 31 
+of which had closed one or more categori es. Of the 31 VR agencies with closed categories, 8 
+VR agencies had all categories closed, which means that all new applicants determined eligible 
+for VR services were placed on a wait ing list in their respective priority categories. While the 
+lack of State matching funds still played a role in the implementation of orders following the 
+enactment of WIOA, some VR agencies also attributed their need to implement orders and 
+close additional priority ca tegories to the requirement to reserve at least 15 percent of their 
+Federal allotments for the provision of pre -employment transition services, thereby causing a 
+lack of funds sufficient to provide all other VR services to eligible individuals with disabilities.  
+Whatever the reasons for implementing orders of sel ection, because individuals with 
+disabilities may be reluctant to apply for VR services if they would be assigned to a closed 
+priority category and not receive services, some VR agencies have attrib uted the decline in 
+applicants and those determined eligib le as a result of implementing an order of selection.  
+Significantly, the data shown in Table 1 do not account for the number of individuals with 
+disabilities VR agencies are serving who have not a pplied and been determined eligible for VR 
+services since t he enactment of WIOA , namely students with disabilities who we re “potentially 
+eligible” for VR services and who were receiving pre-employment transition services from VR 
+agencies. Based on data from the RSA-911, VR agencies provided pre -employment transiti on 
+services to 85,245 and 137,780 potentially eligible students in PYs 2017 and 2018, 
+respectively, the two years for which these data are available. Additionally, in July 2016, VR 
+agencies began providing the services required by Section 511 of the Rehabi litation Act, 
+including counseling and information and referral services,  to individuals with disabil ities 
+seeking or engaging in subminimum wage employment . Except for youth  with disabilities , 
+these individuals  are not required to apply for the VR program  and, therefore, are not captured 
+in the data in Table 1. Although VR agencies are not required by the Rehabilitation Act to 
+report to RSA the number of individuals they are serving pursuant to Section 511, data 
+obtained from the U.S. Department of Labor, Wage and Hour Division may be illustrative. As 
+of January 1, 2020, 100,302 workers
+7 were paid subminimum wages by Section 14(c) 
+ 
+6 From FY 2010 through FY 2014, the VR program nationally consisted of 80 VR agencies. Due to consolidations in 
+two States that occurred after FY 2014, there were 78 VR agencies in FY 2019.  
+7 Hyperlink: https://www.dol.gov/agencies/whd/workers-with-disabilities/Section-14c/certificate-holders
+
+11 
+certificate holders. Because VR agencies have reported through monitoring and other technical 
+assistance activities that, since FY 2016, these 14(c) certificate holders routinely refer all 
+individuals covered by special wage certificates to VR agencies for counseling and infor mation 
+and referral services, it is likely that a large percentage of these individuals are not captured in 
+the Table 1 data for FYs 2017 through 2019. Therefore, since the implementation  of WIOA, 
+potentially eligible students with disabilities who receive d pre-employment transition services 
+and individuals with disabiliti es who received services pursuant to Section 511 represent a 
+considerable number of individuals for whom VR agencies devoted financial and staff 
+resources prior to these individuals applyi ng, being determined eligible for, and receiving VR 
+services under a n IPE. As such and if these data were available, there would be less of a  
+decline in the performance trends shown in Table 1 . 
+Table 2: Employment Outcomes at Exit and Employment Rate 
+FY 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 
+Individuals Exiting 
+with Employment 
+Outcome 
+164,674 171,490 173,975 176,788 176,065 178,110 179,476 175,458 153,293 142,523 
+Individuals Exiting 
+without 
+Employment 
+Outcome 
+152,587 146,277 138,116 152,956 134,345 135,798 136,207 179,003 171,205 170,521 
+Employment Rate 51.9% 54.0% 55.7% 53.6% 56.7% 56.7% 56.9% 49.5% 47.23% 45.5% 
+Source: U.S. Department of Education, Office of Special Education and Rehabilitative Services, Rehabilitation 
+Services Administration, Case Service Report (RSA-911), FYs 2010 through 2019 
+The employment rate is calculated by dividing the number of individuals with disabilities exiting 
+with employment outcomes after receiving services by the total number of individuals who 
+exited after receiving services and multiplying this fraction by 100. Table 2 shows a decline in 
+the employment rate for individuals who have received VR services under an IPE and have 
+exited with employment. Several factors are likely to explain this trend. As VR agencies 
+prepared to implement new RSA-911 reporting requirements, which require VR agencies to 
+report on both open and closed cases beginning in PY 2017, many VR agencies took this 
+opportunity to close cases of individuals who were no longer actively engaged in the VR process 
+due to relocation or the inability to contact them. As a result, VR agencies reported these 
+individuals as exiting from the VR program without employment, contributing, in part, to a 
+decline in the employment rate.  
+As discussed later in this report, VR agencies began serving an increased number of students and 
+youth who required services over a longer period of time, including services such as 
+postsecondary and vocational training. Consequently, VR agencies were assisting fewer adults 
+who were ready to seek or achieve employment, resulting in the reporting of fewer employment 
+outcomes in any given year.
+
+12 
+In addition, as VR agencies have closed priority categories in their orders of selection, they 
+served a greater number of individuals with the most significant disabilities, including youth, as 
+would be required under Section 101(a)(5) of the Rehabilitation Act and 34 C.F.R. § 361.36. The 
+implementation of orders of selection together with the requirement for States to reserve 50 
+percent of their supported employment allotments for services to youth with the most significant 
+disabilities contributed to an increased number of youth with disabilities receiving supported 
+employment services in the period following implementation of WIOA. Based on data from the 
+RSA-911 for FYs 2014 through 2016, VR agencies provided supported employment services to 
+an average of 13,245 individuals age 14 through 24 annually whose cases were closed during this 
+period. In PYs 2017 and 2018, these numbers increased to 23,517 and 23,500 respectively. Some 
+VR agencies have informed RSA that by serving individuals, including youth, with the most 
+significant disabilities they are assisting fewer individuals with less significant disabilities, who 
+they report achieve employment outcomes at a higher rate than those individuals with the most 
+significant disabilities. 
+Furthermore, VR agencies reported in their State Plans that they are experiencing a high degree 
+of staff turnover and vacancies, particularly among VR counselors and other service delivery 
+staff. As a result, some VR agencies reported that VR counselors are serving increased numbers 
+of individuals on their caseloads, including potentially eligible students with disabilities 
+receiving pre-employment transition services. Consequently, VR counselors have less time to 
+serve each individual with the complex array of individualized services needed to keep these 
+individuals engaged in the VR process and ultimately to achieve employment.
+
+13 
+Table 3: Median Hourly Wages and Median Hours Worked per Week of Individuals 
+Exiting with Employment Outcome at Exit 
+FY 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 
+Median Hourly 
+Wages $8.25 $8.28 $8.45 $8.50 $8.50 $9.00 $9.00 $10.00 $11.00 $11.25 
+Median Hours 
+Worked per Week  34 34 32 32 30 30 30 30 30 30 
+Source: U.S. Department of Education, Office of Special Education and Rehabilitative Services, Rehabilitation 
+Services Administration, Case Service Report (RSA-911), FYs 2010 through 2019 
+The median hourly wage increased steadily from FY 2010 to FY 2019, remaining above the 
+Federal minimum wage. Increases in FY 2016 through FY 2019 may reflect those States and 
+localities that recently increased their State minimum wage. The median hours worked per week 
+trended down from 34 hours per week in FY 2010 to 30 hours per week in FY 2014 through FY 
+2019. This trend may be due, in part, to the expansion of part-time employment in the national 
+economy during the same period. Additionally, the trend may reflect that individuals with the 
+most significant disabilities may be unable to, or chose not to, pursue full-time employment.  
+WIOA Performance Accountability Data and Primary Indicators of Performance  
+(PYs 2017 and 2018) 
+WIOA establishes primary indicators of performance and reporting requirements to assess the 
+effectiveness of States and local areas in achieving positive outcomes for individuals served by 
+the workforce development system’s six core programs. RSA included data elements needed to 
+assess the performance accountability measures and those related to barriers in employment 
+listed in Section 116(b) of WIOA in the RSA-911 issued through Policy Directive 16-04 (dated 
+June 14, 2017). VR agencies began collecting and reporting these data on a quarterly basis in PY 
+2017 (July 1, 2017 through June 30, 2018). VR agencies were not required to report many of 
+these data elements, including post-exit data, prior to the enactment of WIOA and its 
+implementation through a significantly revised RSA-911 starting in PY 2017. 
+WIOA requires the Department make available to the Committee on Education and Labor of the 
+U.S. House of Representatives and to the Committee on Health, Education, Labor, and Pensions 
+of the U.S. Senate the performance reports for the VR program authorized under Title I of the 
+Rehabilitation Act, as amended by Title IV of WIOA, and a summary of those reports.. In April, 
+2019, and April, 2020, respectively, the Department notified these Committees that the PY 2017 
+and PY 2018 reports and summaries were available on RSA’s website at 
+https://www.ed.gov/about/offices/list/osers/rsa/wioa/vr-annual-reports. The data presented in the 
+following Tables 4, 5, 6, and 7 include this information for the VR program nationally as 
+reported by VR agencies on the WIOA Statewide Annual Performance Report (ETA-9169) 
+(OMB control number 1205-0526).
+
+14 
+Table 4: VR Program Participant Information  
+Participant Information PY 17 PY 18 
+Total Participants Served 932,835 896,528 
+Number of Participants Receiving Career 
+Services 732,077 744,777 
+Funds Expended on Career Services $1,137,680,343 $1,088,353,317 
+Cost per Participant on Career Services  $1,554 $1,461 
+Number of Participants Receiving Training 
+Services 287,453 295,175 
+Funds Expended on Training Services $696,517,362 $684,929,093 
+Cost per Participant on Training Services $2,423 $2,320 
+Total Participants Exited 311,748 295,165 
+Percent of Participants Enrolled in More than One 
+Core Program  15.5% 11.1% 
+Source: U.S. Department of Labor, Employment and Training Administration, WIOA Statewide Annual 
+Performance Report (ETA-9169) PYs 2017 through 2018  
+Table 4 includes data reported in the first two program years that VR agencies reported WIOA 
+data to RSA. Across all data points, slight declines are evident from PY 2017 to PY 2018, except 
+for the number of VR program participants who received Career Services and Training Services;8 
+these groups increased slightly.  
+ 
+8 Section 134(c)(2) of WIOA describes career services and Section 134(c)(3) of WIOA describes training services.
+
+15 
+Table 5: VR Program Participant Characteristics 
+Participant Characteristic: Sex 
+PY 17 
+Number of 
+Participants 
+PY 18 
+Number of 
+Participants 
+Female 416,002 396,930 
+Male 516,060 498,129 
+Participant Characteristic: Age 
+PY 17 
+Number of 
+Participants 
+PY 18 
+Number of 
+Participants 
+<16 12,563 14,115 
+16 – 18  248,187 262,809 
+19 – 24  196,220 175,938 
+25 – 44  241,666 226,227 
+45 – 54  126,878 114,160 
+55 – 59  56,193 52,436 
+60+ 51,700 50,953 
+Participant Characteristic: Ethnicity/Race 
+PY 17 
+Number of 
+Participants 
+PY 18 
+Number of 
+Participants 
+American Indian/Alaska Native 18,541 18,951 
+Asian 22,420 22,491 
+Black/African American  219,303 214,838 
+Hispanic/Latino  161,303 157,445 
+Native Hawaiian/Pacific Island 6,284 5,843 
+White 681,296 646,484 
+More Than One Race 175,620 170,981 
+Source: U.S. Department of Labor, Employment and Training Administration, WIOA Statewide Annual 
+Performance Report (ETA-9169) PYs 2017 and 2018. 
+The age data in Table 5 demonstrate the increased emphasis, under WIOA, for the VR program to 
+serve youth and students with disabilities, though these data do not include the numbers of students 
+and youth receiving services who have not applied to, been determined eligible for, and received VR 
+services pursuant to an IPE under, the VR program. The Rehabilitation Act and WIOA require VR 
+agencies to collect and report data on program “participants” as that term is defined for purposes of 
+the VR program, which does not include “potentially eligible” students with disabilities (34 C.F.R. § 
+361.150(a)(1)). Based on RSA-911 data for individuals whose cases were closed from FYs 2010 
+through 2014, of all individuals served annually by VR agencies, an average of 34.6 percent were 
+individuals ages 14 through 24 at the time of application. Data available following the 
+implementation of WIOA demonstrate that in PY 2017, the percentage of youth with disabilities 
+(participants under age 25) was 48.9 percent, and in PY 2018, the percentage of youth with 
+disabilities was 50.5 percent. The data for the periods before and after the implementation of WIOA
+
+16 
+are dissimilar in two ways. The data for the period prior to WIOA were reported on a fiscal year basis 
+for individuals whose cases were closed after exiting from the VR program. The data for the period 
+following implementation of WIOA’s requirements were reported on a program year basis for 
+individuals whose cases were both active and closed. Nonetheless, when potentially eligible students 
+with disabilities receiving pre-employment transition services are factored into those receiving 
+services in PY 2017 and PY 2018 (85,245 and 137,780 respectively), the data indicate that youth and 
+students with disabilities are being served in substantially greater numbers by the VR program than 
+prior to the implementation of WIOA. Commensurate with the increase in the percentages of youth 
+with disabilities served from the periods prior to and after the implementation of WIOA, the 
+percentages of adults served during this same period decreased substantially.  
+The reporting of ethnicity/race in the VR program is based on self-identification primarily and is 
+only required for students with disabilities in secondary education. Individuals may choose 
+multiple categories. 
+Table 6: VR Program Participant Barriers to Employment  
+Barriers to Employment 
+PY 17 
+Number of 
+Participants 
+PY 18 
+Number of 
+Participants 
+Displaced Homemakers 36,852 13,033 
+English Language Learners, Low Levels of 
+Literacy, Cultural Barriers 299,520 280,525 
+Exhausting TANF within 2 Years (Part A Title IV 
+of the Social Security Act)  13,412 11,596 
+Ex-offenders 74,541 76,969 
+Homeless individuals/runaway youth 44,491 24,204 
+Long-term unemployed (27 or more consecutive 
+weeks)  348,558 354,067 
+Low-Income Individuals 454,702 449,786 
+Migrant and Seasonal Farmworkers 2,602 10,582 
+Individuals with Disabilities (including youth) 928,198 896,489 
+Single Parents 50,027 50,707 
+Youth in Foster Care or Aged out of System  21,190 19,109 
+Source: U.S. Department of Labor, Employment and Training Administration, WIOA Statewide Annual 
+Performance Report (ETA-9169) PYs 2017 and 2018 
+WIOA requires the core workforce development programs, including the VR program, to report 
+prescribed data related to eleven barriers to employment. Table 6 illustrates that individuals with 
+disabilities receiving VR services experience multiple barriers to employment in addition to 
+disability. Table 6 illustrates high percentages of VR program participants who are low-income 
+and experience long-term unemployment. Although it is likely that individuals with disabilities 
+served in the VR program before the enactment of WIOA were similarly situated, VR agencies 
+were not required to collect and report these types of data at that time.
+
+17 
+Table 7: WIOA Primary Indicators of Performance 
+WIOA Primary Indicators of Performance PY 17 PY 18 
+Measurable Skill Gains Rate  21.1% 23.4% 
+Number of Participants Earning a Measurable Skill Gains  43,496 53,970 
+Number of Measurable Skill Gains Earned  46,065 56,831 
+Employment Rate – Second Quarter after Exit  N/A 50.4% 
+Number of Participants Employed in Second Quarter after Exit  N/A 147,768 
+Median Earnings – Second Quarter after Exit N/A $3,875 
+Source: U.S. Department of Labor, Employment and Training Administration, WIOA Statewide Annual 
+Performance Report (ETA-9169) PYs 2017 and 2018 
+WIOA establishes six primary indicators of performance. However, all indicators were not 
+reported on in PYs 2017 and 2018 as described in further detail below. The six primary 
+indicators of performance are—  
+1. Employment Rate – Second Quarter After Exit: The percentage of participants who are in 
+unsubsidized employment during the second quarter after exit from the program;  
+2. Employment Rate – Fourth Quarter After Exit: The percentage of participants who are in 
+unsubsidized employment during the fourth quarter after exit from the program; 
+3. Median Earnings – Second Quarter After Exit: The median earnings of participants who 
+are in unsubsidized employment during the second quarter after exit from the program; 
+4. Credential Attainment: The percentage of those participants enrolled in an education or 
+training program (excluding those in on-the-job training and customized training) who 
+attain a recognized postsecondary credential or a secondary school diploma, or its 
+recognized equivalent, during participation in or within one year after exit from the 
+program. A participant who has attained a secondary school diploma or its recognized 
+equivalent is included in the percentage of participants who have attained a secondary 
+school diploma or its recognized equivalent only if the participant also is employed or is 
+enrolled in an education or training program leading to a recognized postsecondary 
+credential within one year after exit from the program; 
+5. Measurable Skill Gains: The percentage of program participants who, during a program 
+year, are in an education or training program that leads to a recognized postsecondary 
+credential or employment and who are achieving measurable skill gains, defined as 
+documented academic, technical, occupational, or other forms of progress, toward such a 
+credential or employment; and 
+6. Effectiveness in Serving Employers: WIOA requires the Departments of Education and 
+Labor to establish a primary indicator of performance for effectiveness in serving 
+employers. The Departments are currently piloting three approaches designed to gauge 
+three critical workforce needs of the business community.  
+In PY 2017, the first year of WIOA performance reporting for purposes of the VR program, VR 
+agencies reported data for one primary indicator: Measurable Skill Gains based on supporting 
+documentation such as high school and postsecondary transcripts. For all other performance
+
+18 
+indicators, VR agencies reported data to establish a baseline since it was the first year the 
+agencies had ever collected such data. In the second year of WIOA performance reporting, PY 
+2018, VR agencies reported data for Measurable Skill Gains along with two additional primary 
+indicators of performance: Employment Rate – Second Quarter after Exit and Median Earnings – 
+Second Quarter after Exit for which data were available. In PY 2019, VR agencies will report 
+data for these indicators as well as Employment Rate – Fourth Quarter after Exit and Credential 
+Attainment Rate. Table 7 reflects a slight increase in the Measurable Skill Gains rate from PY 
+2017 to PY 2018 and that approximately 24 percent more VR program participants earned 
+Measurable Skill Gains while the number of Measurable Skill Gains earned increased 
+approximately 23 percent. Table 7 also describes the outcomes for the two additional primary 
+indicators in PY 2018, the first program year in which VR agencies were able to report these data 
+due to the lag in the receipt of unemployment insurance information needed to support this 
+reporting as required by Section 116(b) of WIOA. 
+Provision of Pre-Employment Transition Services to Students with Disabilities  
+(PYs 2017 and 2018)  
+Table 8: Students with Disabilities 
+Students with Disabilities 
+PY 17 
+Number/Percent  
+of Students 
+PY 18 
+Number/Percent  
+of Students 
+Number of Students with Disabilities Reported 525,958 638,601 
+Number of Students with Disabilities Who Received a Pre-
+Employment Transition Service  179,716 248,336 
+Percent of Students with Disabilities Reported Who Received a Pre-
+Employment Transition Service 34.2% 38.9% 
+Number of Potentially Eligible Students with Disabilities Who 
+Received a Pre-Employment Transition Service 85,245 137,780 
+Number of Students with Disabilities, who Applied for VR Services, 
+and Received a Pre-Employment Transition Service 94,471 110,556 
+Percent of Students with Disabilities, who Applied for VR Services, 
+and Received a Pre-Employment Transition Service 52.6% 44.5% 
+Source: U.S. Department of Education, Office of Special Education and Rehabilitative Services, Rehabilitation 
+Services Administration, Case Service Report (RSA-911), PYs 2017 through 2018 
+Students with disabilities may receive pre-employment transition services if they are eligible for 
+VR services or if they are potentially eligible, i.e., those students with disabilities who have not 
+applied for or been determined eligible for VR services. In PYs 2017 and 2018, the percentages 
+of students with disabilities, including both those who were eligible and potentially eligible for 
+VR services, reported by VR agencies who received one or more pre-employment transition 
+service were 34.2 percent and 38.9 percent, respectively. Of those students with disabilities who 
+received pre-employment transition services in PYs 2017 and 2018, the percentages of those who 
+applied for VR services and received pre-employment transition services were 52.6 percent and 
+44.5 percent, respectively. Students with disabilities who are potentially eligible or eligible for 
+the VR program may receive pre-employment transition services over multiple years, so long as 
+they meet the definition of “student with a disability.” An increasing number of students with 
+disabilities are receiving pre-employment transition services and applying for VR services. Prior
+
+19 
+to PY 2017, VR agencies did not report comparable data for pre-employment transition services 
+because the provision of these services to students with disabilities was a new requirement with 
+the enactment of WIOA. 
+Table 9: Provision of Pre-Employment Transition Services 
+Pre-Employment Transition Services 
+PY 17 
+Number 
+Provided 
+PY 17 
+Percent of 
+Total Pre-
+Employmen
+t Transition 
+Services 
+Provided 
+PY 18 
+Number 
+Provided 
+PY 18 
+Percent of 
+Total Pre-
+Employmen
+t Transition 
+Services 
+Provided 
+Total Pre-Employment Transition Services Provided 747,837 - 1,227,841 - 
+Job Exploration Counseling 199,562 26.7% 314,245 25.6% 
+Work-Based Learning Experiences 127,067 17.0% 218,415 17.8% 
+Counseling on Enrollment Opportunities 114,045 15.2% 198,040 16.1% 
+Workplace Readiness Training 193,874 25.9% 292,807 23.8% 
+Instruction in Self-Advocacy 113,289 15.1% 204,334 16.6% 
+Source: U.S. Department of Education, Office of Special Education and Rehabilitative Services, Rehabilitation 
+Services Administration, Case Service Report (RSA-911), PYs 2017 through 2018 
+Table 9 shows the total number of pre-employment transition services provided in each of the 
+required activities for PYs 2017 and 2018, which increased approximately 60 percent, from PY 
+2017 to PY 2018. Students with disabilities may receive one or more of the five required pre-
+employment transition services over one or multiple years and may receive the same service 
+more than once. In PYs 2017 and 2018, job exploration counseling and workplace readiness 
+training were the services most frequently provided.  
+Job exploration counseling may be provided in a classroom, community setting, or individually 
+and may include information regarding in-demand industry sectors and occupations, as well as 
+non-traditional employment, labor market composition, administration of vocational interest 
+inventories, and identification of career pathways of interest to the students. 
+Work-based learning experiences may be provided in a group setting or on an individual basis 
+and may include coordinating a school-based program of job training and informational 
+interviews to research employers, work-site tours to learn about necessary job skills, job 
+shadowing, mentoring opportunities in the community, short-term paid or unpaid work 
+experiences to explore the student’s area of interest through paid and unpaid internships, 
+apprenticeships fellowships, or on-the-job training located in the community.  
+Counseling on opportunities for enrollment in comprehensive transition or postsecondary 
+educational programs at institutions of higher education may include information on course 
+offerings, career options, the types of academic and occupational training needed to succeed in 
+the workplace, postsecondary opportunities associated with career fields or pathways, advising
+
+20 
+students and parents or representatives on academic curricula, college application and admissions 
+processes, and completing the Free Application for Federal Student Aid. Counseling may also 
+include resources that may be used to support individual student success in education and 
+training, which could include disability support services. 
+Workplace readiness training may include programming to develop social skills and independent 
+living, such as communication and interpersonal skills, financial literacy, orientation and 
+mobility skills, job-seeking skills, understanding employer expectations for punctuality and 
+performance, as well as other “soft” skills necessary for employment. These services may 
+include instruction, as well as opportunities to acquire and apply knowledge. These services may 
+be provided in a generalized manner in a classroom setting or be tailored to an individual’s needs 
+in a training program provided in an educational or community setting. 
+Instruction in self-advocacy may include generalized classroom lessons in which students learn 
+about their rights, responsibilities, and how to request accommodations or services and supports 
+needed during the transition from secondary to postsecondary education and employment. 
+Further individual opportunities may be arranged for students to conduct informational 
+interviews or to be mentored by educational staff such as principals, nurses, teachers, or office 
+staff. Students may also be mentored by individuals employed by or volunteering for employers, 
+boards, associations, or organizations in integrated community settings. Students may also 
+participate in youth leadership activities offered in educational or community settings. 
+VR agencies have reported several challenges resulting from the requirement to provide or make 
+available pre-employment transition services to all students with disabilities in their States. 
+Funds previously available to meet the VR service needs of all eligible individuals have been 
+reduced due to the required reserve of a minimum of 15 percent for the provision of pre-
+employment transition services. Therefore, although VR agencies may be providing more 
+services to students with disabilities, those individuals with disabilities who are not students are 
+affected by the reduction in resources available to them for their needed services. While some 
+States have requested flexibilities in the use of pre-employment transition services as they 
+struggled to expend the required reserve (addressed by the Department in a Notice of 
+Interpretation published in the Federal Register on February 28, 2020, 85 FR 11848), others have 
+expended far more than the 15 percent in order to provide the required activities for the vast 
+numbers of students with disabilities in their States. During monitoring and other technical 
+assistance activities, some VR agencies have reported that they are experiencing difficulty 
+meeting the VR needs of individuals with disabilities over the work lifespan as a result of the 
+focus on serving students with disabilities. 
+Additionally, over one-half of State VR agencies have reported that they have implemented 
+orders of selection to manage the fiscal and staff resource demands of serving all students with 
+disabilities in the State, including those students who have not applied and been determined 
+eligible for the VR program, resulting in their inability to address the needs of all eligible 
+individuals with disabilities. In particular, some VR counselors have voiced concerns related to 
+their inability to spend the appropriate time and resources with eligible individuals to help them 
+succeed in employment due to the requirement to serve potentially eligible students with 
+disabilities and the additional tracking and reporting of pre-employment transition services to the 
+reserved funds. While there is generally agreement that there is tremendous benefit in reaching
+
+21 
+students with disabilities early to help them initiate their pathway toward competitive 
+employment, VR agencies have had to make significant operational, programmatic, and fiscal 
+adjustments to accommodate this WIOA initiative. 
+Vocational Rehabilitation Program Fiscal Data  
+The below tables describe the fiscal resources available to VR agencies from Federal 
+appropriations and State matching funds for use in the administration and operation of the VR 
+program prior to and following the enactment of WIOA. As a result of the WIOA amendments to 
+the Rehabilitation Act, VR agencies now must use the funds allotted to them to cover a variety of 
+costs that were not required under the Rehabilitation Act prior to the enactment of WIOA, such 
+as infrastructure and other costs associated with their participation as core partners in the 
+workforce development system, costs for providing pre-employment transition services to 
+potentially eligible students with disabilities, and costs associated with implementing 
+requirements under Section 511 of the Rehabilitation Act. 
+Table 10: State Vocational Rehabilitation Services (VR) Program Federal Appropriations 
+VR Appropriations to States by  
+Federal Fiscal Year 
+FY Amount in Billions 
+2010 $3.05 
+2011 3.05 
+2012 3.08 
+2013 3.03 
+2014 3.03 
+2015 3.05 
+2016 3.12 
+2017 3.12 
+2018 3.16 
+2019 3.26 
+Table 10 includes the total Federal VR appropriations from FY 2010 through 2019. The total 
+amounts include any reductions due to sequestration. The data demonstrate that the Federal 
+participation in the VR program increased from approximately $3.05 billion in FY 2010 to $3.26 
+billion in FY 2019.
+
+22 
+Table 11: Match 
+VR Non-Federal Share  
+(Match)9 
+FY Amount in Millions 
+2010 $848 
+2011 833 
+2012 830 
+2013 838 
+2014 839 
+2015 861 
+2016 868 
+2017 910 
+2018 1,028 
+Source: U.S. Department of Education, Office of Special Education and Rehabilitative Services, Rehabilitation 
+Services Administration, Federal Financial Report (SF-269/SF-425), FYs 2010 through 2018 
+States must provide 21.3 percent of the total VR program cost (Federal plus non-Federal shares). 
+The Federal portion is 78.7 percent of the total cost of operating the VR program, which includes 
+both the costs of providing services and administrative costs. Table 11 shows the total amount of 
+non-Federal share (match) that was provided by all States. The total includes States that over-
+matched and under-matched the required non-Federal share amount. The data demonstrate that 
+the amount of non-Federal share contributed by States has been increasing from $848 million in 
+FY 2010 to $1.03 billion in FY 2018. Despite this overall trend, some States continue to 
+experience difficulty providing the required match to draw down their full Federal allotments. 
+Table 12: Maintenance of Effort (MOE) 
+Reductions for MOE Deficits 
+FY Amount in Millions 
+2010 $7.2 
+2011 26.4 
+2012 42.6 
+2013 31.3 
+2014 14.7 
+2015 22.6 
+2016 26.0 
+2017 9.2 
+2018 6.5 
+2019 6.9 
+Source: U.S. Department of Education, Office of Special Education and Rehabilitative Services, Rehabilitation 
+Services Administration, Federal Financial Report (SF-269/SF-425), FYs 2010 through 2019 
+ 
+9 The final FY 2019 SF-425 reports are due on December 31, 2020. Therefore, FY 2019 data were not included in 
+this table.
+
+23 
+Section 111(a)(2)(B) of the Rehabilitation Act requires the amount payable to a State for a fiscal 
+year to be reduced by the amount by which expenditures from non-Federal sources under the VR 
+program for any previous fiscal year are less than the total of such expenditures for the fiscal 
+year two years prior to that previous fiscal year. This requirement is commonly referred to as 
+maintenance of effort (MOE). Table 12 includes the total amount of reductions for MOE deficits 
+RSA assessed for FYs 2010 through 2019, as it was required to do. The data illustrate that from 
+FYs 2011 through 2017, the amount of MOE reductions fluctuated--increasing significantly from 
+FY 2010 ($7.2 million) to FY 2011 ($26.4 million), reaching a high in FY 2012 ($42.6 million), 
+and eventually decreasing until FY 2017 ($9.2 million). The level of MOE reductions during this 
+period were much higher than those assessed at the beginning of the period and at the end, when 
+reductions fell to $6.5 million in FY 2018, and $6.9 million in FY 2019. The higher levels of 
+MOE reductions during this period of time may be attributed, in part, to the impact of Federal 
+funds received for the VR program under the American Recovery and Reinvestment  Act of 2009 
+(ARRA), which did not require a match of non-Federal funds. These ARRA funds were available 
+for obligation and use by State VR agencies through FY 2011 (i.e., through September 30, 2011).  
+Consequently, some States reduced their non-Federal share for the VR program as they used the 
+ARRA funds. Once the ARRA funds were used, the States increased their non-Federal share, 
+resulting, in part, in lower levels of MOE reductions since MOE is calculated by comparing one 
+FY with the FY two years prior. 
+Graph 1: Reallotment 
+Reallotment Funds Available and Requested FYs 2010 – 2019 
+ 
+Source: U.S. Department of Education, Office of Special Education and Rehabilitative Services, Rehabilitation 
+Services Administration, Grant Reallotment Form (RSA-692), FYs 2010 through 2019 
+0
+50
+100
+150
+200
+250
+300
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+Amount in Millions ($)
+Federal Fiscal YearTotal Available Requested
+
+24 
+The Rehabilitation Act authorizes the Commissioner of RSA to reallot to other grant recipients 
+that portion of a recipient’s annual grant that cannot be used. The reallotment process maximizes 
+the use of appropriated funds under the VR program. The graph shows that the amount of funds 
+available for reallotment exceeded the amount requested by VR agencies until FY 2015. Since 
+that time, the amount of VR program funds requested during reallotment has greatly exceeded 
+the amount of funds available. In FY 2019, 12 VR agencies relinquished a total of $164,303,299 
+in FY 2019 VR program funds. Additionally, five VR agencies had VR grant reductions in FY 
+2019 due to MOE deficits that totaled $6,890,772. Therefore, the total amount of VR funds 
+available for FY 2019 reallotment was $171,194,071 (the sum of funds relinquished 
+($164,303,299) and reductions made as a result of MOE deficits assessed ($6,890,772)). Of the 
+78 VR agencies, 40 requested a total of $219,558,482 in reallotment funds. The amount of 
+requested funds exceeded the funds available for reallotment by $48,364,411.   
+Through monitoring and technical assistance activities, State VR agencies informed RSA that 
+during the early years covered by this report, States were still dealing with the aftermath of the 
+2008 recession and multi-year economic downturn. Since State appropriations were reduced in 
+many instances during this period, fewer non-Federal funds were available for match  purposes 
+under the VR program. Following the recovery of State economies, State legislatures were able 
+to increase their appropriations, thereby giving State VR agencies the ability to match additional 
+Federal funds available in reallotment. 
+Table 13: VR Unused Funds at Award Closeout 
+Unused VR Funds at Closeout
+10 
+FY Amount in Millions 
+2013 $91 
+2014 90 
+2015 78 
+2016 103 
+2017 100 
+Source: U.S. Department of Education, Office of Special Education and Rehabilitative Services, Rehabilitation 
+Services Administration, Grants Management System (G5), FYs 2013 through 2017 
+Table 13 lists the amount of Federal VR program funds unused in the VR program at the time the 
+grant awards were closed by RSA. As shown in Table 13, the amount of unused VR program 
+funds declined from approximately $91 million in FY 2013 to $78 million in FY 2015. However, 
+the table demonstrates that the amount of unused VR funds increased from this low of $78 
+million to $100 million in FY 2017, the last FY for which data were available. Although VR 
+agencies are not required to inform RSA of the reasons leading to unused funds, based on 
+information shared during monitoring and the delivery of technical assistance, this trend may be 
+attributed, in part, to the inability of some States to expend the entire 15 percent of their Federal 
+allotments reserved for pre-employment transition services by the end of the performance period.  
+ 
+10 FY 2013 was the first year for which RSA’s grant closeout process began tracking this data. Additionally, the FY 
+2018 and FY 2019 grant awards are not yet closed, and therefore, data regarding unused VR funds for these periods 
+are not yet available.
+
+25 
+Although the statutory requirement to reserve and expend funds for the provision of pre-
+employment transition services took effect on the date of WIOA’s enactment (July 22, 2014), 
+RSA received many inquiries regarding implementation of this requirement until the final 
+regulations were published in August 2016. The scope and frequency of these inquiries indicate 
+that VR agencies were unclear about the fundamentals of the requirements.  
+Table 14: Supported Employment Unused Funds at Award Closeout 
+Unused Supported Employment  
+Funds at Closeout11 
+FY Amount in Millions 
+2014 $0.31 
+2015 0.65  
+2016 1.43  
+2017 2.25  
+Source: U.S. Department of Education, Office of Special Education and Rehabilitative Services, Rehabilitation 
+Services Administration, Grants Management System (G5), FYs 2014 through 2017 
+Table 14 lists the amount of Supported Employment program funds unused in the Supported 
+Employment program at the time the grant awards were closed by RSA. As shown in Table 14, 
+the amount of unused Supported Employment program funds increased significantly from 
+approximately $311,000 in FY 2014 to $2,250,000 in FY 2017. Although VR agencies are not 
+required to inform RSA of the reasons leading to unused funds, based on information shared 
+during monitoring and the delivery of technical assistance, this trend may be attributed, in part, 
+to the difficulty some States had in expending and matching the funds reserved for youth with 
+the most significant disabilities, as well as the burden associated with tracking and reporting 
+requirements for these funds. Specifically, prior to the enactment of WIOA, States could expend 
+their entire Supported Employment allotment for the provision of supported employment 
+services to eligible individuals with the most significant disabilities without regard to age. In 
+addition, at that time, States were not required to provide non-Federal funds for match purposes.  
+After the enactment of WIOA, States were required to reserve and expend half of their allotment 
+solely for the provision of supported employment services, including extended services, to youth 
+with the most significant disabilities. States are also required to provide a 10 percent match for 
+the half of the allotment reserved to serve these youth. These statutory changes significantly 
+increased the administrative burden associated with this small Federal program. .In fact, for FYs 
+2019 and 2020, three VR agencies declined Supported Employment program funds. 
+Training and Technical Assistance 
+To assist with the implementation of the many new requirements of the Rehabilitation Act, as 
+amended by Title IV of WIOA, RSA has engaged in multiple strategies to provide technical 
+assistance to VR agencies and stakeholders. Some examples include: 
+ 
+11 FY 2014 was the first year for which RSA’s grant closeout process began tracking this data. Additionally, the FY 
+2018 and FY 2019 grant awards are not yet closed, and therefore, data regarding unused VR funds for these periods 
+are not yet available.
+
+26 
+• Providing in-depth training on the new requirements of the statute and implementing 
+regulations at semi-annual conferences of the Council of State Administrators of 
+Vo cational Rehabilitation and the National Council of State Agencies for the Blind; 
+• Establishing priorities for funding of centers to provide intensive, targeted, and universal 
+technical assistance focused on the new requirements for VR agencies under WIOA (e.g., 
+Workforce Innovation Technical Assistance Center (WINTAC) at San Diego State 
+University, National Technical Assistance Center on Transition at the University of North 
+Carolina at Charlotte, Job-Driven V ocational Rehabilitation Technical Assistance Center 
+at the University of Massachusetts-Boston, and Program Evaluation and Quality 
+Assurance Technical Assistance Center at the University of Wisconsin-Stout); 
+• Funding of a total of nine five-year model demonstration projects, including four on 
+career pathways in FY 2015 and five on work-based learning for students in FY 2016; 
+• Conducting on-site monitoring and providing technical assistance focused on the new 
+requirements imposed by WIOA (e.g., pre-employment transition services, VR agency 
+performance and WIOA common measures, new requirements under WIOA for the 
+mandatory agreements between State educational agencies and VR agencies, and joint 
+implementation of WIOA requirements among the State workforce development partners 
+(including the VR program));  
+• Establishing processes to respond to inquiries from VR agencies and other stakeholders 
+in a timely manner regarding WIOA implementation issues and challenges; 
+• Developing and disseminating multiple webinars (by RSA and jointly with partners) on 
+topics about critical aspects of programmatic and fiscal areas related to the 
+implementation of WIOA, such as a series of eight webinars describing data collection 
+and reporting requirements in the revised RSA-911 issued through Policy Directive 19-03 
+on May 6, 2019; 
+• Training of Federal partners, VR State agencies, and RSA staff on the new requirements 
+under WIOA for the submission of the four-year Unified or Combined State Plans, 
+amendments, and two-year modifications to those plans, particularly the VR services 
+portion of the State Plan; and 
+• Issuing joint written technical assistance and webinar training with the Federal partners in 
+the U.S. Departments of Labor and Education explaining performance accountability 
+requirements under Title I of WIOA. Among these efforts, the U.S. Departments of 
+Education and Labor developed a State Wage Interchange System Data Sharing 
+Agreement (SWIS Agreement), and accompanying informational webinars, to assist 
+States in more easily exchanging interstate wage data for performance accountability 
+purposes. With the SWIS Agreement in effect in all available jurisdictions as of January 
+1, 2020, State VR agencies will be able to obtain wage data for performance 
+accountability reporting purposes much more easily when VR program participants are 
+employed in a different State. Access to this data will improve the quality and validity of 
+the data submitted with respect to the employment performance indicators.
+
+27 
+Importantly, on February 28, 2020, the Department issued in the Federal Register12 a notice of 
+interpretation (NOI) to—   
+• Clarify current policy regarding the use of Federal VR funds reserved for the provision of 
+pre-employment transition services to pay for auxiliary aids and services needed by all 
+students with disabilities in order to access or participate in required pre-employment 
+transition services under Section 113(b) of the Rehabilitation Act, as amended by WIOA; 
+and 
+• Announce a change in policy with respect to additional VR services needed by eligible 
+students with disabilities that may be paid for with Federal VR grant funds reserved for 
+the provision of pre-employment transition services and the circumstances under which 
+those funds may be used to pay for those additional VR services. 
+This NOI helps VR agencies increase the availability of pre-employment transition services to 
+students with disabilities by providing designated State units with significantly greater flexibility 
+in delivering pre-employment transition services to eligible students with disabilities than had 
+previously been allowed under prior guidance from the Department. The flexibilities provided in 
+the NOI will enable States to more fully expend the 15 percent of their Federal allotments 
+reserved for pre-employment transition services and may reduce the need for some VR agencies 
+to implement orders of selection and close priority categories by shifting costs for these services 
+from non-reserved VR program funds to those reserved for this purpose. 
+In addition, RSA is working collaboratively with its Federal and State partners to generate 
+strategies that will lead to continued improvement in the performance of the VR program under 
+WIOA. For example, RSA has established a workgroup, which consists of VR program and data 
+experts from VR agencies, the WINTAC, and RSA, to use data to assess the performance of the 
+VR program and identify areas for continued evaluation. This workgroup is charged with 
+analyzing VR program data in the context of its relationship to WIOA primary indicators of 
+performance and other VR program measures; developing tools that all VR agencies may use to 
+gauge performance; and assisting RSA in identifying what data RSA can provide, on a regular 
+basis, to VR agencies to help inform decisions related to service delivery and performance of the 
+VR program. 
+These technical assistance activities are designed to assist VR agencies to effectively implement 
+the comprehensive and complex changes to the VR program resulting from the WIOA 
+amendments to the Rehabilitation Act and to enable the agencies to maximize the achievement of 
+high-quality employment outcomes for individuals with disabilities. 
+Conclusion  
+This report highlights VR program performance trends over the past decade using data reported 
+by the VR agencies before and after the enactment of WIOA. These trends make clear that, 
+following the implementation of WIOA, VR agencies served significantly more students and 
+ 
+12 Hyperlink: https://www.federalregister.gov/documents/2020/02/28/2020-03208/state-vocational-rehabilitation-
+services-program
+
+28 
+youth with disabilities, as compared to the period before WIOA, using funds reserved to provide 
+pre-employment transition services and supported employment services for these populations. 
+This shift, along with the provision of services under Section 511 and the increase in the number 
+of agencies implementing orders of selection (some with all categories closed), in part resulted in 
+fewer adults with disabilities and a greater number of individuals with the most significant 
+disabilities receiving services during the period after WIOA. These trends, in turn, contributed to 
+fewer individuals achieving employment outcomes. Because VR agencies are in the early stages 
+of the collection and reporting of data required by the amendments to the Rehabilitation Act and 
+Title I of WIOA, the effect of these changes will be more accurately evaluated in the future when 
+more data are available.  
+The extent to which the changes in the Rehabilitation Act made by WIOA have transformed the 
+VR program, the services delivered, the characteristics of the individuals served, and the quality 
+of the employment outcomes achieved by individuals with disabilities has yet to be fully 
+determined. Through the efforts described in this report, RSA and the VR agencies will continue 
+to produce the information and data necessary to capture the success of the VR program as it 
+moves into the next 100 years.

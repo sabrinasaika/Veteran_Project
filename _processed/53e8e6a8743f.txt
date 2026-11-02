@@ -1,0 +1,654 @@
+RSA Fiscal Year 2009 Monitoring 
+Protocol for Reviews of  
+State Vocational Rehabilitation and 
+Independent Living Programs  
+ 
+ 
+ 
+ 
+U.S. Department of Education 
+Office of Special Education and  
+Rehabilitative Services 
+Rehabilitation Services Administration 
+October 2008
+
+CONTENTS 
+                                              
+Page 
+ 
+Introduction..........................................................................................................................1 
+ 
+Scope and Nature of Review................................................................................................1 
+ 
+Overview of the Review Process .........................................................................................2 
+ 
+Monitoring Process Steps ....................................................................................................5 
+ 
+Step 1:  RSA state team planning..............................................................................6 
+ 
+Step 2:  Collection of performance and compliance-related information .................7 
+ 
+Step 3: Screening of potential to pic areas to identify areas of low 
+performance, improved performance, promising practices, and 
+non-compliance............................................................................................9 
+ 
+Step 4:   Identification and sharin g of compliance and performance focus 
+areas for review..........................................................................................11 
+ 
+Step 5:   Preparation for and impl ementation of monitoring activities 
+including the on-site review.......................................................................11  
+ 
+Step 6:   Development of draft obs ervations, recommendations, compliance 
+findings, and corrective actions .................................................................12 
+ 
+Step 7:   Development and i ssuance of the draft report ...........................................13  
+ 
+Step 8:   Preparation and issuance of the final report...............................................13 
+ 
+Step 9:  Development and prov ision of technical assistance ..................................13 
+ 
+Step 10:   Development, im plementation, and evaluation of 
+Corrective Action Plans .............................................................................14
+
+Introduction 
+ 
+Section 107 of the Rehabilitation Act of 1973, as amended (Rehabilitation Act), requires 
+the Commissioner of the Rehabilitation Services Administration (RSA) to conduct annual 
+reviews and periodic on-site monitoring of programs authorized under Title I of the 
+Rehabilitation Act to determine whether a state vocational rehabilitation (VR) agency is 
+complying substantially with the provisions of its State Plan under Section 101 of the 
+Rehabilitation Act and with the Evaluation Standards and Performance Indicators 
+established under Section 106.  RSA has developed this monitoring protocol to fulfill the 
+requirements of Section 107 of the Rehabilitation Act.  In addition, this protocol will 
+assist the Commissioner in assessing the degree to which programs offered under Title 
+VI, Part B, of the Rehabilitation Act are substantially complying with their respective 
+State Plan assurances and program requirements.  In order to achieve this purpose, RSA 
+will collect and analyze information related to performance and compliance.   
+ 
+The monitoring process will also encompass the State Independent Living Services 
+(SILS) and the Independent Living Services for Older Individuals who are Blind (OIB) 
+programs authorized under chapters 1 and 2 of Title VII of the Rehabilitation Act.  RSA 
+will also monitor the performance of the designated state units and the Statewide 
+Independent Living Councils (SILCs) to determine compliance with and performance on 
+the assurances contained within the State Plan for Independent Living (SPIL). 
+ 
+Scope and Nature of Review 
+ 
+RSA will conduct periodic reviews of all Titles I, VI-B, VII-B and VII, Chapter 2, 
+programs.  Approximately one-quarter of all states and territories will be monitored in 
+each fiscal year.   
+ 
+The monitoring process begins in October and ends the following September with the 
+issuance of the final monitoring report.  Between October and September, RSA, the 
+designated state agency (DSU), and stakeholders engage in a variety of information 
+collecting, sharing and analyzing activities including at least one week when the RSA 
+review team conducts an on-site review.  While the on-site review is one of a number of 
+key review activities in the monitoring process, the monitoring process includes a number 
+of activities in addition to the on-site review. 
+ 
+States are selected for periodic monitoring with attention to monitoring an equal number 
+of states each year.  At the same time, circumstances may require RSA and a DSU to 
+conduct a review more than once every four years for a variety of reasons including, but 
+not limited to: the DSU requesting more immediate assistance; the DSU experiencing 
+issues that require immediate attention, such as issues involving fiscal management; 
+inability to meet the standards and indicators over several years; or the adverse impact on 
+a DSU’s operations resulting from catastrophic natural disasters.  A non-scheduled full 
+review is less likely than is the provision of substantial technical assistance (TA) to meet 
+specific and pressing agency needs.   
+ 
+2
+
+If there are two agencies in a state providing VR services, one to individuals who are 
+blind and visually impaired and the other to individuals with all other disabilities, both 
+agencies will be reviewed in the same year and addressed in the same report.  In 
+accordance with Section 107, in addition to the periodic onsite reviews, RSA will issue 
+annual reports covering the previous fiscal year to all DSUs, including those that are 
+monitored.   
+ 
+Focus areas for the periodic monitoring review will be individually tailored to the state 
+under review.  The review process takes into account the unique demographic, economic 
+and geographic circumstances of each state.  Although focus areas may vary, RSA’s 
+review protocol is governed by those program and fiscal areas highlighted in Section 107, 
+which include compliance with and performance on the State Plans for VR and IL.   
+ 
+During the review process, RSA will ask the DSU to identify promising practices that can 
+be shared with all states.  Practices will be considered promising if they have been 
+evaluated by the DSU and have a record of success.   
+ 
+While only RSA staff will carry out monitoring activities, the review process is supported 
+and strengthened by collaboration with key state agency staff, as well as other 
+stakeholders.  Input will be solicited from the State Rehabilitation Councils (SRC), 
+SILCs, Client Assistance Programs, consumer groups, service providers and other 
+stakeholders whenever appropriate.   
+ 
+RSA will also work with the DSU to identify any TA needs that RSA can provide during the 
+review as well as after the review process is completed.  g the review process.  Following the 
+review RSA will compile all TA requests and work with the Technical Assistance and 
+Continuing Education (TACE) centers, funded under Title III of the Rehabilitation Act, to 
+ensure that TA needs are incorporated into the TACE annual work plans. 
+ 
+Overview of the Review Process 
+ 
+This protocol provides DSUs and stakeholders with the steps in the process that RSA will 
+take to:  
+ 
+• review the state agency’s performance in assisting eligible individuals with 
+disabilities to achieve high-quality employment and independent living outcomes; 
+• determine if the state agency is complying substantially with the provisions of  its 
+State Plan assurances; 
+• identify promising practices; 
+• identify areas of performance that have improved or need to be improved; 
+• recommend strategies to improve performance;  
+• require corrective actions in response to compliance findings; and  
+• provide TA during the review process and offer to provide TA after the review 
+process in order to improve the DSU’s performance and assist the DSU to take 
+effective corrective actions.  
+ 
+3
+
+RSA will focus its review on those aspects of the programs identified in Section 107 of 
+the Rehabilitation Act, which states: 
+ 
+In conducting reviews under this section the commissioner shall consider, at a minimum: 
+ 
+•   state policies and procedures;  
+•   guidance materials;  
+•   decisions resulting from hearings conducted in accordance with due process; 
+•   state goals established under section 101(a)(15) and the extent to which the state 
+has achieved such goals;  
+•   plans and reports prepared under section 106(b);  
+•   consumer satisfaction reviews and analyses described in section 105(c)(4);  
+•   information provided by the State Rehabilitation Council (SRC) established under  
+•   section 105, if the state has such a council, or by the commission described in 
+section 101(a)(21)(A)(i), if the state has such a commission; 
+•   reports; and  
+•   budget and financial management data. 
+ 
+RSA will draw on a variety of sources when seeking to identify issues warranting further 
+investigation.  In accordance with Section 107 of the Rehabilitation Act and RSA 
+monitoring practices, these sources can include, but are not limited to: 
+ 
+• the SRC; 
+• the Statewide Independent Living Council (SILC);  
+• VR and IL service providers; 
+• RSA data;  
+• the State Plans for VR and IL; 
+• the DSU’s policies and procedures;  
+• public hearings or other discussions with consumers and advocates;  
+• individual case files, including individualized plans for employment and 
+ineligibility determinations, as well as independent living plans; and 
+• discussions and meetings with qualified VR counselors, supervisors, and other 
+agency personnel.   
+ 
+Because the purpose of the monitoring process is to assess the performance of a state’s VR 
+and IL programs and whether a state is complying with the VR and IL State Plans, the 
+performance and compliance issues identified for review will be particular to each state.  
+ 
+RSA will evaluate the performance of the VR and IL programs in each state on:  
+ 
+• federally established standards and indicators;  
+• the goals, objectives, and priorities included in the VR and IL State Plans;  
+• RSA’s VR program strategic performance plan goals and objectives; and 
+• performance data collected by either RSA or the agency. 
+ 
+4
+
+Performance is broadly defined as the effective management of available resources to 
+achieve quality employment and independent living outcomes. 
+ 
+RSA will evaluate compliance with the VR State Plan by determining, in part:  
+ 
+(1) whether the assurances that the DSU provides in its State Plan are valid, with 
+particular attention to eligibility, development and implementation of the 
+Individualized Plan for Employment (IPE), and the provision of services; and  
+(2) if the state is under an order of selection, verification that it is following 
+requirements regarding the order of selection set forth in Section 101(a)(5)(A). 
+ 
+• RSA will also monitor compliance with the assurances contained in the SPIL.  In the 
+case of the SILS program, Title VII of the Rehabilitation Act gives the SILC joint 
+responsibility with the DSU in developing, signing and submitting the SPIL.  Several 
+SPIL assurances relate directly to the SILC membership and operation, including its 
+resource plan and staff.  Therefore, RSA’s on-site review of the state’s compliance 
+with the SPIL assurances will necessarily involve a review of the SILC, as well as the 
+DSU.  RSA will review the relationship between the SILC, Centers for Independent 
+Living (CILs), and the DSU.   
+ 
+• RSA will gather information in order to understand how the agency’s different 
+systems function and work together to maximize performance and ensure compliance 
+with the VR and IL State Plans and the program requirements, particularly as they 
+relate to the VR and IL processes. 
+ 
+• After soliciting input and responses to the draft monitoring report, a final monitoring 
+report will be issued no later than September 30th of the fiscal year in which the 
+agency is reviewed.  The report will include, but not be limited to:   
+ 
+• observations regarding the areas of performance that have improved or need to 
+improve; 
+• promising practices;  
+• recommendations on steps the DSU can take to improve VR and IL program 
+performance; 
+• the agency’s response to RSA’s observations and recommendations;  
+• whether the DSU would like TA to carry out RSA’s recommendations or carry 
+out its corrective actions; 
+• areas of compliance that require the agency to take corrective action in order to be 
+in compliance with the agency’s VR and IL State Plans, as well as the 
+Rehabilitation Act and its governing regulations;  and  
+• corrective actions that must be taken to address findings of noncompliance. 
+ 
+Following the issuance of the report, if requested by the DSU, RSA will continue to 
+provide TA and will work jointly with the DSU to improve its performance and take 
+corrective action to address findings of noncompliance. 
+ 
+5
+
+In addition to assessing the progress toward achieving State Plan goals and priorities, the 
+TA given in the course of the review may also provide DSUs with valuable input toward 
+refining these goals and priorities or the strategies to achieve the goals.   
+ 
+The next section of the monitoring protocol describes each step in the review process, 
+with attention to the participants in each step, and the resources that will be utilized.   
+ 
+Monitoring Process Steps 
+ 
+The following is a description of the steps that the RSA state teams will follow through 
+the course of the monitoring cycle.   
+ 
+Typically, state team representatives from either the VR or TA Units within RSA’s State 
+Monitoring and Program Improvement Division (SMPID) will take the lead in the 
+monitoring efforts, and will work in collaboration with the RSA state team 
+representatives from the remaining functional units, including IL, Fiscal and Data 
+Collection and Analysis Units.   
+ 
+The state team representatives from the VR, IL, TA, Fiscal, and Data Collection and 
+Analysis units will be responsible for identifying issues and resources pertaining to the 
+work of their respective units.  Each of the units will assist their team members in 
+identifying resources, highlighting issues to pursue, seeking sources of information, 
+analyzing the information gathered, and suggesting solutions and strategies for 
+addressing any areas of compliance or performance that require further investigation and 
+possible corrective action.  The state team will utilize the input from the different units to 
+assist in identifying focus areas for the state review.   
+ 
+The process is intended to allow for the maximum input from stakeholders throughout the 
+course of the monitoring cycle.  Stakeholders will serve as a resource for information as 
+the state teams carry out their reviews and will, whenever appropriate, contribute 
+suggestions to the manner in which state agencies can improve performance. 
+ 
+Step 1:  RSA state team planning   
+ 
+At this initial planning phase, the RSA state team will: 
+ 
+• a plan for the periodic review, which may include timelines, work assignments, and 
+other managerial details; 
+• develop a list of available data and information resources at the beginning of the 
+process; and 
+• discuss possible VR, TA, fiscal or IL issues based on in-hand information. 
+ 
+The team will review the steps in the process and make certain that each member 
+understands his or her role.  The leader of the review will inform the DSUs and other 
+stakeholders that the process is underway and that he or she will routinely contact them 
+as the review progresses. 
+6
+
+Stakeholders other than state VR agencies include: 
+ 
+• SRCs;  
+• SILCs; 
+• CILs; 
+• designated state agencies (DSA);  
+• community rehabilitation programs (CRP) and other VR and IL service providers; 
+• independent commissions; 
+• consumer advocacy groups, including state coalitions of citizens with disabilities; 
+• individuals receiving services through the VR and IL programs; 
+• state Workforce partners; 
+• governor-appointed disability councils;  
+• Client Assistance Programs (CAP);   
+• the Protection and Advocacy for Individual Rights (PAIR) program and other 
+protection and advocacy grantees; and 
+• other pertinent state agencies and organizations involved in the rehabilitation and 
+independent living of individuals with disabilities, including state agencies for 
+individuals who are deaf and hard of hearing, state special education agencies, and 
+developmental disability councils.  
+ 
+Step 2:  Collection of performance and compliance-related information  
+ 
+The state team will gather and collate performance and compliance-related information 
+about the VR, Supported Employment (SE),  IL, and OIB programs.  Using the 
+Monitoring Information Guide, state team members will assist in gathering this 
+information about the state systems, and together the team will identify potential 
+performance and compliance issues to be reviewed with the agency. 
+ 
+Most of the materials used for analyzing performance and compliance are maintained on 
+RSA’s Management Information System (MIS) from which each unit will obtain 
+information needed for its contribution to the team’s monitoring plans.  Much of the data 
+are generated from the databases produced from the completed forms and reports 
+submitted to RSA, such as the Financial Status Reports (SF-269), Annual VR 
+Program/Cost Report (RSA-2), Quarterly Cumulative Caseload Report (RSA-113), Case 
+Service Report (RSA-911), and other program and fiscal reports.  Most data are 
+contained in a continually updated database maintained for each state.  RSA makes public 
+all data through the sharing of information with relevant stakeholders and by publishing 
+annual reports, monitoring reports, and corrective action plans on the RSA website.   
+ 
+During this stage of the review, the state team will analyze the general focus areas listed 
+below, using the identified resources.  Other sources may be utilized to screen for issues, 
+but those identified below will provide a comprehensive picture of the general state of VR 
+and IL activities.  The units and teams will then further analyze all available resources as 
+focus areas are identified. The following list is not meant to be exhaustive, but illustrative.   
+ 
+7
+
+Possible Focus areas: 
+ 
+• eligibility, service provision and order of selection;  
+• progress toward achieving goals and priorities in the VR and IL State Plans;  
+• relationships among VR and IL state partners, including the DSA, designated state 
+unit, SRC, and SILC; 
+• personnel and staffing issues, including progress in meeting Comprehensive System 
+of Personnel Development (CSPD) requirements; and 
+• practices that facilitate the agency’s ability to comply with program requirements, 
+meet performance standards, and achieve quality employment and independent living 
+outcomes for individuals with disabilities. 
+ 
+Resources for preliminary analysis: 
+ 
+• RSA performance data, e.g., federally established standards and indicator measures; 
+• state VR written service policies, procedures, and forms; 
+• state IL written policies and procedures involving the state agency and the SILC; 
+• policies and practices pertaining to the provision of services to transition-age youths; 
+findings resulting from state program and fiscal audits required by OMB Circular A-
+133; 
+• VR and IL outcome data captured by RSA and state agency data reports;  
+• interagency and third-party cooperative agreements;  
+• the comprehensive statewide assessment report; 
+• state economic indicators; 
+• statewide disability demographics;  
+• the SRC Annual Report; 
+• the Annual CAP report (RSA-227);  
+• DSU annual reports;   
+• results of consumer satisfaction surveys; 
+• the RSA Management Information System (MIS); 
+• records of TA provided to the state; 
+• prior years section 107 monitoring reports and corrective action plans; 
+• quarterly cumulative caseload reports (RSA-113); 
+• RSA monitoring tables (911 data);  
+• VR and IL State Plan goals and priorities;  
+• annual Section 704 Part I and II Performance Reports; 
+• input from stakeholders; 
+• order of selection information; and 
+• grant award, match, and maintenance of effort information.   
+ 
+The RSA review lead will inform DSUs and other stakeholders of the information 
+gathered about the DSU and its organizational systems and the potential issues identified 
+at this stage of the process, and request any updates as appropriate.   
+ 
+8
+
+Step 3:  Screening of potential topic areas to identify areas of low performance, improved 
+performance, promising practices, and non-compliance  
+ 
+The functional units will develop screening tools and analyze information to identify 
+issues of concern related to the agency’s performance and compliance with the VR and 
+IL State Plans.  In addition, the functional units will use the screening tools to determine 
+areas of high performance, defined as any area in which the state is improving its 
+performance compared to previous years and with other states similarly situated. 
+ 
+Similarly situated means: 
+ 
+• DSUs that are comparable with respect to the amount of their grant awards, the 
+number  
+ of individuals served, and the number of staff; 
+• states that share similar geographic characteristics, such as the division among urban  
+ and rural areas; 
+• challenges related to delivering services across great distances; 
+• states with similar disability and ethnic demographics; or  
+• states with similar economic indicators, such as unemployment rates, wages, and job  
+ growth sectors. 
+ 
+The intent of looking at similarly situated states is to provide broader context for the data 
+analysis, while still considering the unique characteristics of the state.  An DSU may wish 
+to customize the analysis by comparing its own performance to that of those states it 
+believes best mirror that given state’s characteristics.  Comparative analysis may also 
+lead to the identification of promising practices that can be shared with other DSUs.   
+ 
+Using the Monitoring State Agency Information Guide (MSAIG), the review team will 
+gather information in order to understand how the DSU’s different systems function and 
+work together to maximize performance and ensure compliance with the State Plans and 
+program requirements, particularly as they relate to the VR and IL processes.  These 
+systems include, but are not limited to: 
+ 
+• the comprehensive system of personnel development; 
+• the case management system; 
+• the service delivery system; 
+• the fiscal management system; 
+• the data collection and analysis system; and  
+• the quality assurance system. 
+ 
+In addition, the state team will also gather information on the agency’s policy and 
+planning processes, and its various procedures for internal and external communication. 
+ 
+Through further use of the MSAIG and other resources, review team representatives from 
+each of the SMPID functional units will gather data and information pertinent to their 
+program areas, which they will use as part of the team’s assessment of the VR and IL 
+9
+
+programs and to highlight areas where more information is needed.  The review lead will 
+be responsible for compiling the information collected by the team members into one 
+document.   
+ 
+The VR Unit, in addition to analyzing information related to the systems referred to 
+above will use other information resources to screen for issues related to performance on 
+standards and indicators and other measures from the RSA monitoring tables.  This will 
+enable the state team to uncover explanations for a DSU’s performance on a given 
+indicator, and will also allow for analysis of other issues that will have an impact on an 
+agency's performance, such as allocation of fiscal and human resources.   
+ 
+The Fiscal Unit will identify potential performance issues and promising practices by 
+reviewing the results of performance measures significantly at variance with computed 
+national averages.  Fiscal unit staff will analyze data gathered over several fiscal years to 
+determine performance trends on such issues as: 
+ 
+• grant information including carryover; 
+• an analysis of the sources of matching funds; 
+• an analysis of indirect costs to total grant amount; 
+• an analysis of program income to total grant amount; 
+• the percentage of reported matching funds from un-liquidated obligations; 
+• funds relinquished through the re-allotment process; 
+• maintenance of effort (MOE) penalties; and 
+• prior fiscal and program audit findings. 
+ 
+The Data Unit will also assist the state team to identify performance issues and promising 
+practices by reviewing the results of performance measures significantly at variance with 
+computed national averages.  The data unit staff will analyze data gathered over several 
+fiscal years to determine performance trends on such issues as:  
+ 
+• types of services provided and expenditures on these services; 
+• staff composition; 
+• year-end statuses for the individuals participating in the VR program; 
+• measures of efficiency; 
+• number and types of employment outcomes; 
+• disability populations served; and 
+• specific categories of individuals served, including transitioning youth and  
+ individuals receiving social security be nefits related to their disabilities. 
+ 
+The IL Unit will conduct an analysis of the systems referred to above and identify issues 
+of compliance and performance related to the agency’s delivery of IL services, such as: 
+ 
+• SILC autonomy, independence, and performance of statutory duties; 
+• Working relationships between the state agency, the SILC, the CILs, and other 
+entities; 
+10
+
+• compliance with assurances related to service provision, eligibility, consumer 
+service records, SILC membership, and financial accountability; 
+• implementation of the SPIL financial plan; 
+• appropriate uses of Part B funds (as authorized under Title VII, Chapter 1 of the 
+Rehabilitation Act); and 
+• amendments to the SPIL. 
+ 
+The review lead will share with the state agency and appropriate stakeholders, such as the 
+SRC and SILC, the results of the initial screening and will solicit feedback and 
+clarification. 
+ 
+The review team will ask the DSU to identify any promising practices and describe the 
+evaluation methods that have been used to determine that the practices have been 
+successful. 
+ 
+Step 4:  Identification and sharing of compliance and performance focus areas for review 
+ 
+After incorporating feedback from stakeholders, the RSA team will identify the focus 
+areas that will constitute the major components of the review.   
+ 
+The review lead will share with the DSU and stakeholders the list of focus areas of the 
+review to be further analyzed through the following steps of the monitoring process.  
+ 
+Step 5:  Preparation for and implementation of monitoring activities including the on-site 
+review  
+ 
+The review teams will identify the materials and methods best suited to gather the 
+information needed to review the programmatic and fiscal issues identified through the 
+use of the Monitoring information guide and other resources.   
+ 
+Monitoring activities may include: 
+ 
+• use of monitoring modules from RSA's monitoring and technical assistance guides 
+(MTAG) developed in prior years; 
+• review of information developed by the DSU, for example, the results of quality 
+assurance activities conducted through the course of the review year; 
+• on-site activities further described below;  
+• review of VR and IL written policies and procedures; 
+• the development of new TA and monitoring modules; and 
+• any other activities germane to the review. 
+ 
+The RSA review lead will work with the DSU to mutually agree on the dates for the on-
+site review.  The purpose of the on-site review will be to increase the knowledge base of 
+the team regarding how the DSU operates its programs, why the agency is achieving at its 
+various performance levels, and potential compliance issues. 
+ 
+11
+
+The on-site review will include an entrance and an exit conference.  During the entrance 
+conference RSA team will present an overview of what the team has learned about the 
+agency’s performance and identify what it hopes to learn while on-site.  During the exit 
+conference, the RSA team will present what it has learned during the on-site and describe 
+the next steps in the review process.  In addition to representatives of the DSU, 
+representatives of the SRC, SILC,  and Designated State Agency (DSA) will be invited to 
+the entrance and exit conference.  In addition, a representative of the regional TACE 
+project will be invited to observe the exit conference.  
+ 
+On-site activities may include: 
+ 
+• targeted service record reviews;  
+• public hearings;  
+• meetings with SRCs, SILCs, and VR and IL staff, including counselors and 
+supervisors; 
+• visits to community rehabilitation programs or other contracted service providers;  
+• meetings with special education officials, teachers or parents of children with 
+disabilities;  
+• meetings with DSA representatives and representatives of other public and private 
+agencies that play a role in the delivery of VR and IL services;  
+• the RSA review lead regularly communicating with the DSU director regarding the 
+information that the team is learning; and 
+• examination of supporting documentation for submitted SF-269s and RSA-2s, as well 
+as discussions regarding cost-allocation plans, OMB payroll requirements and other 
+fiscal issues. 
+ 
+Step 6:  Development of draft observations, recommendations, compliance findings, and 
+corrective actions 
+ 
+Based on the information that RSA has collected up to this point in the review, the RSA 
+team will develop draft observations, recommendations, compliance findings, and 
+corrective actions. 
+ 
+An observation describes a performance area that needs to be improved.   
+ 
+Recommendations are activities or strategies that RSA suggests that the agency undertake 
+in order to improve its performance.   
+ 
+A compliance finding identifies the violation of a legal requirement. 
+ 
+A corrective action describes what the agency must do in order to meet the legal 
+requirement.  
+ 
+12
+
+Step 7:  Development and issuance of a draft report  
+ 
+The review team composes a report that, in addition to the observations, 
+recommendations, compliance findings, and corrective actions provides data on the 
+agency’s performance, briefly describes its organizational and operational structure, and 
+major components of it.  A file with the FY 2009 draft report template is attached in order 
+to provide information about the specific content that is included in the report.  
+ 
+Each member of the review team will prepare an analysis of the review pertaining to his 
+or her area of expertise, and contribute to the preparation of a draft report that includes 
+draft observations, recommendations, compliance findings and corrective actions for each 
+program area.   
+ 
+RSA will incorporate into one report all monitoring results for both agencies serving 
+individuals who are blind and visually impaired and serving individuals with all other 
+disabilities, for those states that have established more than one agency to carry out the 
+VR and IL programs.   
+ 
+By July 31, 2009, the review lead will send a draft report to the DSU for review.  This 
+draft will also be shared with SRCs and SILCs.  DSUs will have until August 21, 2009 
+to: 
+ 
+• review the draft report and inform the RSA review leader of any factual 
+inaccuracies contained in the draft report;  
+• provide a written response (that will be included in the final report) to each 
+observation and recommendations; and 
+• indicate whether or the not the DSU requests TA to implement each 
+recommendation or corrective action. 
+ 
+ 
+Step 8:  Preparation and Issuance of the final report 
+ 
+The state team will prepare a final monitoring report and work with the DSU to ensure 
+that all factual errors in the draft report have been corrected.  The review team and the 
+DSU will discuss the agency’s response and requests for TA in order to ensure that the 
+report accurately captures this information.  
+ 
+By September 15, 2009 RSA will issue the final report on its MIS and email the DSU, the 
+DSA, the SRC, the SILC, and other stakeholders with a link to the report.  This email will 
+also provide a link to an evaluation survey of RSA’s monitoring process and encourage 
+respondents to complete the survey. 
+ 
+13
+
+Step 9:  Development and provision of technical assistance  
+ 
+Once the monitoring report is finalized, the RSA TA Unit representative on each review 
+team will compile all identified TA requests from the report.   
+ 
+The TA unit, together with the review team, will work with the TACE centers to ensure 
+that the TA and continuing education needs identified during the monitoring process are 
+provided to the TACE centers and included in their annual work plan that is finalized in 
+the first quarter of the following federal fiscal year.  
+ 
+Action steps resulting from observations or findings may include: 
+ 
+• the updating of goals and priorities as reflected in the VR or IL state plans, and the 
+strategies for achieving state goals and priorities;  
+• amending policies and written procedures;  
+• adoption of quality assurance procedures;  
+• structural changes, such as agency organization, staffing, nature and scope of 
+relations with other entities; and 
+• amendments to the SPIL or VR state plan. 
+ 
+The TA unit, together with the review team, will track the progress in addressing the TA 
+and continuing education needs through periodic reports provided by the TACE centers.  
+ 
+Step 10:  Development, implementation, and evaluation of corrective action plans (CAPs) 
+ 
+In the report, RSA may identify one or more compliance findings that require that the 
+DSU take corrective action.  If the report has one or more compliance findings, the DSU 
+must develop a CAP for RSA’s review and approval that includes specific steps the 
+agency will take to complete the corrective action, the timetable for completing those 
+steps, and the methods the agency will use to evaluate whether the compliance finding 
+has been resolved.  RSA anticipates that the CAP can be developed within 45 days of the 
+date the final report is issued.  RSA is available to provide TA to assist during the 
+development process.  
+ 
+The DSU will provide RSA with periodic updates on the progress that the agency is 
+making in completing the CAP.  When the CAP has successfully met its evaluation 
+criteria, RSA will issue a letter indicating that the CAP has been successfully completed. 
+14

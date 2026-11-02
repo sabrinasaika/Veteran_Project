@@ -1,0 +1,1936 @@
+{
+  "source_type": "jvr_pdf_candidate",
+  "doi": "10.1177/10522263261430878",
+  "doi_url": "https://doi.org/10.1177/10522263261430878",
+  "source_url": "https://journals.sagepub.com/doi/10.1177/10522263261430878",
+  "attempted_pdf_urls": [
+    "https://journals.sagepub.com/doi/pdf/10.1177/10522263261430878",
+    "https://journals.sagepub.com/doi/10.1177/10522263261430878",
+    "https://doi.org/10.1177/10522263261430878",
+    "https://content.iospress.com/download?id=10.1177/10522263261430878"
+  ],
+  "selected_pdf_url": "",
+  "selected_final_url": "",
+  "download_status": "unavailable",
+  "match": {
+    "veteran_hits": [
+      "va "
+    ],
+    "pathway_hits": [
+      "work",
+      "return to work",
+      "vocational rehabilitation"
+    ],
+    "disability_hits": []
+  },
+  "openalex": {
+    "id": "https://openalex.org/W7136927010",
+    "doi": "https://doi.org/10.1177/10522263261430878",
+    "title": "Evaluating Training for Occupational Therapists and Clinical Psychologists to Deliver Vocational Rehabilitation Within a Clinical Trial: Mixed-Methods Study",
+    "display_name": "Evaluating Training for Occupational Therapists and Clinical Psychologists to Deliver Vocational Rehabilitation Within a Clinical Trial: Mixed-Methods Study",
+    "publication_year": 2026,
+    "publication_date": "2026-03-16",
+    "ids": {
+      "openalex": "https://openalex.org/W7136927010",
+      "doi": "https://doi.org/10.1177/10522263261430878"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/10522263261430878",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1177/10522263261430878",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S190353498",
+        "display_name": "Journal of Vocational Rehabilitation",
+        "issn_l": "1052-2263",
+        "issn": [
+          "1052-2263",
+          "1878-6316"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310318577",
+        "host_organization_name": "IOS Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310318577"
+        ],
+        "host_organization_lineage_names": [
+          "IOS Press"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc",
+      "license_id": "https://openalex.org/licenses/cc-by-nc",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Vocational Rehabilitation",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://doi.org/10.1177/10522263261430878",
+      "any_repository_has_fulltext": true
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5129404131",
+          "display_name": "Blerina Kellezi",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I142263535",
+            "display_name": "University of Nottingham",
+            "ror": "https://ror.org/01ee9ar58",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I142263535"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I52590639",
+            "display_name": "Nottingham Trent University",
+            "ror": "https://ror.org/04xyxjd90",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I52590639"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Blerina Kellezi",
+        "raw_affiliation_strings": [
+          "Department of Psychology, Nottingham Trent University, Nottingham, UK",
+          "University of Nottingham School of Medicine"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Psychology, Nottingham Trent University, Nottingham, UK",
+            "institution_ids": [
+              "https://openalex.org/I52590639"
+            ]
+          },
+          {
+            "raw_affiliation_string": "University of Nottingham School of Medicine",
+            "institution_ids": [
+              "https://openalex.org/I142263535"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5008705624",
+          "display_name": "James Holmes",
+          "orcid": "https://orcid.org/0000-0003-4083-5179"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I142263535",
+            "display_name": "University of Nottingham",
+            "ror": "https://ror.org/01ee9ar58",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I142263535"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210146512",
+            "display_name": "Nottingham Biomedical Research Centre",
+            "ror": "https://ror.org/046cr9566",
+            "country_code": "GB",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I1334287468",
+              "https://openalex.org/I4210146512"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Jain Holmes",
+        "raw_affiliation_strings": [
+          "Centre for Rehabilitation &amp; Ageing Research, University of Nottingham School of Medicine, Nottingham, UK",
+          "Nottingham Biomedical Research Centre"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Centre for Rehabilitation &amp; Ageing Research, University of Nottingham School of Medicine, Nottingham, UK",
+            "institution_ids": [
+              "https://openalex.org/I142263535"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Nottingham Biomedical Research Centre",
+            "institution_ids": [
+              "https://openalex.org/I4210146512"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5129528891",
+          "display_name": "Kate Radford",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I142263535",
+            "display_name": "University of Nottingham",
+            "ror": "https://ror.org/01ee9ar58",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I142263535"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210146512",
+            "display_name": "Nottingham Biomedical Research Centre",
+            "ror": "https://ror.org/046cr9566",
+            "country_code": "GB",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I1334287468",
+              "https://openalex.org/I4210146512"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Kate Radford",
+        "raw_affiliation_strings": [
+          "Centre for Rehabilitation &amp; Ageing Research, University of Nottingham School of Medicine, Nottingham, UK",
+          "Nottingham Biomedical Research Centre"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Centre for Rehabilitation &amp; Ageing Research, University of Nottingham School of Medicine, Nottingham, UK",
+            "institution_ids": [
+              "https://openalex.org/I142263535"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Nottingham Biomedical Research Centre",
+            "institution_ids": [
+              "https://openalex.org/I4210146512"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5010608490",
+          "display_name": "Roshan das Nair",
+          "orcid": "https://orcid.org/0000-0001-8143-7893"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I173888879",
+            "display_name": "SINTEF",
+            "ror": "https://ror.org/01f677e56",
+            "country_code": "NO",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I173888879"
+            ]
+          }
+        ],
+        "countries": [
+          "NO"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Roshan das Nair",
+        "raw_affiliation_strings": [
+          "Health Division, SINTEF, Trondheim, Norway"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Health Division, SINTEF, Trondheim, Norway",
+            "institution_ids": [
+              "https://openalex.org/I173888879"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5129538906",
+          "display_name": "Rebecca Lindley",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I142263535",
+            "display_name": "University of Nottingham",
+            "ror": "https://ror.org/01ee9ar58",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I142263535"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Rebecca Lindley",
+        "raw_affiliation_strings": [
+          "Centre for Rehabilitation &amp; Ageing Research, University of Nottingham School of Medicine, Nottingham, UK",
+          "University of Nottingham School of Medicine"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Centre for Rehabilitation &amp; Ageing Research, University of Nottingham School of Medicine, Nottingham, UK",
+            "institution_ids": [
+              "https://openalex.org/I142263535"
+            ]
+          },
+          {
+            "raw_affiliation_string": "University of Nottingham School of Medicine",
+            "institution_ids": [
+              "https://openalex.org/I142263535"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5121603091",
+          "display_name": "C. Mann",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I142263535",
+            "display_name": "University of Nottingham",
+            "ror": "https://ror.org/01ee9ar58",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I142263535"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Claire Mann",
+        "raw_affiliation_strings": [
+          "University of Nottingham School of Medicine"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of Nottingham School of Medicine",
+            "institution_ids": [
+              "https://openalex.org/I142263535"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5111622140",
+          "display_name": "I. Robert Andrews",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I142263535",
+            "display_name": "University of Nottingham",
+            "ror": "https://ror.org/01ee9ar58",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I142263535"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Isabel Andrews",
+        "raw_affiliation_strings": [
+          "University of Nottingham School of Medicine"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of Nottingham School of Medicine",
+            "institution_ids": [
+              "https://openalex.org/I142263535"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000348325",
+          "display_name": "Stephen Fallon",
+          "orcid": "https://orcid.org/0000-0003-4907-701X"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I142263535",
+            "display_name": "University of Nottingham",
+            "ror": "https://ror.org/01ee9ar58",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I142263535"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Stephen Fallon",
+        "raw_affiliation_strings": [
+          "University of Nottingham School of Medicine"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of Nottingham School of Medicine",
+            "institution_ids": [
+              "https://openalex.org/I142263535"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5043061207",
+          "display_name": "Denise Kendrick",
+          "orcid": "https://orcid.org/0000-0003-3603-6542"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I142263535",
+            "display_name": "University of Nottingham",
+            "ror": "https://ror.org/01ee9ar58",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I142263535"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Denise Kendrick",
+        "raw_affiliation_strings": [
+          "University of Nottingham School of Medicine"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of Nottingham School of Medicine",
+            "institution_ids": [
+              "https://openalex.org/I142263535"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 2,
+    "institutions_distinct_count": 9,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5129404131"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I142263535",
+      "https://openalex.org/I52590639"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": true,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.9261944,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": null,
+      "issue": null,
+      "first_page": null,
+      "last_page": null
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11759",
+      "display_name": "Occupational Therapy Practice and Research",
+      "score": 0.6901000142097473,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3609",
+        "display_name": "Occupational Therapy"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/36",
+        "display_name": "Health Professions"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11759",
+        "display_name": "Occupational Therapy Practice and Research",
+        "score": 0.6901000142097473,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3609",
+          "display_name": "Occupational Therapy"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/36",
+          "display_name": "Health Professions"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10416",
+        "display_name": "Traumatic Brain Injury Research",
+        "score": 0.06319999694824219,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2713",
+          "display_name": "Epidemiology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10084",
+        "display_name": "Musculoskeletal pain and rehabilitation",
+        "score": 0.03840000182390213,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2736",
+          "display_name": "Pharmacology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/competence",
+        "display_name": "Competence (human resources)",
+        "score": 0.6660000085830688
+      },
+      {
+        "id": "https://openalex.org/keywords/vocational-rehabilitation",
+        "display_name": "Vocational rehabilitation",
+        "score": 0.5889000296592712
+      },
+      {
+        "id": "https://openalex.org/keywords/intraclass-correlation",
+        "display_name": "Intraclass correlation",
+        "score": 0.5734999775886536
+      },
+      {
+        "id": "https://openalex.org/keywords/rehabilitation",
+        "display_name": "Rehabilitation",
+        "score": 0.5625
+      },
+      {
+        "id": "https://openalex.org/keywords/confidence-interval",
+        "display_name": "Confidence interval",
+        "score": 0.5521000027656555
+      },
+      {
+        "id": "https://openalex.org/keywords/vocational-education",
+        "display_name": "Vocational education",
+        "score": 0.4948999881744385
+      },
+      {
+        "id": "https://openalex.org/keywords/reliability",
+        "display_name": "Reliability (semiconductor)",
+        "score": 0.4271000027656555
+      },
+      {
+        "id": "https://openalex.org/keywords/intervention",
+        "display_name": "Intervention (counseling)",
+        "score": 0.41260001063346863
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C100521375",
+        "wikidata": "https://www.wikidata.org/wiki/Q2015382",
+        "display_name": "Competence (human resources)",
+        "level": 2,
+        "score": 0.6660000085830688
+      },
+      {
+        "id": "https://openalex.org/C2775882741",
+        "wikidata": "https://www.wikidata.org/wiki/Q6130303",
+        "display_name": "Vocational rehabilitation",
+        "level": 3,
+        "score": 0.5889000296592712
+      },
+      {
+        "id": "https://openalex.org/C104709138",
+        "wikidata": "https://www.wikidata.org/wiki/Q1671540",
+        "display_name": "Intraclass correlation",
+        "level": 3,
+        "score": 0.5734999775886536
+      },
+      {
+        "id": "https://openalex.org/C2778818304",
+        "wikidata": "https://www.wikidata.org/wiki/Q1819478",
+        "display_name": "Rehabilitation",
+        "level": 2,
+        "score": 0.5625
+      },
+      {
+        "id": "https://openalex.org/C44249647",
+        "wikidata": "https://www.wikidata.org/wiki/Q208498",
+        "display_name": "Confidence interval",
+        "level": 2,
+        "score": 0.5521000027656555
+      },
+      {
+        "id": "https://openalex.org/C668760",
+        "wikidata": "https://www.wikidata.org/wiki/Q6869278",
+        "display_name": "Vocational education",
+        "level": 2,
+        "score": 0.4948999881744385
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.4740000069141388
+      },
+      {
+        "id": "https://openalex.org/C71924100",
+        "wikidata": "https://www.wikidata.org/wiki/Q11190",
+        "display_name": "Medicine",
+        "level": 0,
+        "score": 0.42730000615119934
+      },
+      {
+        "id": "https://openalex.org/C43214815",
+        "wikidata": "https://www.wikidata.org/wiki/Q7310987",
+        "display_name": "Reliability (semiconductor)",
+        "level": 3,
+        "score": 0.4271000027656555
+      },
+      {
+        "id": "https://openalex.org/C1862650",
+        "wikidata": "https://www.wikidata.org/wiki/Q186005",
+        "display_name": "Physical therapy",
+        "level": 1,
+        "score": 0.42329999804496765
+      },
+      {
+        "id": "https://openalex.org/C2780665704",
+        "wikidata": "https://www.wikidata.org/wiki/Q959298",
+        "display_name": "Intervention (counseling)",
+        "level": 2,
+        "score": 0.41260001063346863
+      },
+      {
+        "id": "https://openalex.org/C2909755999",
+        "wikidata": "https://www.wikidata.org/wiki/Q4751126",
+        "display_name": "Low Confidence",
+        "level": 2,
+        "score": 0.39570000767707825
+      },
+      {
+        "id": "https://openalex.org/C70410870",
+        "wikidata": "https://www.wikidata.org/wiki/Q199906",
+        "display_name": "Clinical psychology",
+        "level": 1,
+        "score": 0.39489999413490295
+      },
+      {
+        "id": "https://openalex.org/C159110408",
+        "wikidata": "https://www.wikidata.org/wiki/Q121176",
+        "display_name": "Nursing",
+        "level": 1,
+        "score": 0.34139999747276306
+      },
+      {
+        "id": "https://openalex.org/C110131835",
+        "wikidata": "https://www.wikidata.org/wiki/Q1153659",
+        "display_name": "Self-efficacy",
+        "level": 2,
+        "score": 0.3325999975204468
+      },
+      {
+        "id": "https://openalex.org/C27415008",
+        "wikidata": "https://www.wikidata.org/wiki/Q7256382",
+        "display_name": "Psychological intervention",
+        "level": 2,
+        "score": 0.3140000104904175
+      },
+      {
+        "id": "https://openalex.org/C48444904",
+        "wikidata": "https://www.wikidata.org/wiki/Q4116378",
+        "display_name": "Self-confidence",
+        "level": 2,
+        "score": 0.3118000030517578
+      },
+      {
+        "id": "https://openalex.org/C2779473830",
+        "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+        "display_name": "MEDLINE",
+        "level": 2,
+        "score": 0.2883000075817108
+      },
+      {
+        "id": "https://openalex.org/C141330323",
+        "wikidata": "https://www.wikidata.org/wiki/Q2354820",
+        "display_name": "Evidence-based practice",
+        "level": 3,
+        "score": 0.27549999952316284
+      },
+      {
+        "id": "https://openalex.org/C2779974597",
+        "wikidata": "https://www.wikidata.org/wiki/Q28448986",
+        "display_name": "Clinical Practice",
+        "level": 2,
+        "score": 0.2743000090122223
+      },
+      {
+        "id": "https://openalex.org/C2776436463",
+        "wikidata": "https://www.wikidata.org/wiki/Q4967030",
+        "display_name": "Brief intervention",
+        "level": 3,
+        "score": 0.2676999866962433
+      },
+      {
+        "id": "https://openalex.org/C102190203",
+        "wikidata": "https://www.wikidata.org/wiki/Q380141",
+        "display_name": "Occupational therapy",
+        "level": 2,
+        "score": 0.25850000977516174
+      },
+      {
+        "id": "https://openalex.org/C168563851",
+        "wikidata": "https://www.wikidata.org/wiki/Q1436668",
+        "display_name": "Randomized controlled trial",
+        "level": 2,
+        "score": 0.25850000977516174
+      },
+      {
+        "id": "https://openalex.org/C18762648",
+        "wikidata": "https://www.wikidata.org/wiki/Q42213",
+        "display_name": "Work (physics)",
+        "level": 2,
+        "score": 0.2533000111579895
+      }
+    ],
+    "mesh": [],
+    "locations_count": 2,
+    "locations": [
+      {
+        "id": "doi:10.1177/10522263261430878",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1177/10522263261430878",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S190353498",
+          "display_name": "Journal of Vocational Rehabilitation",
+          "issn_l": "1052-2263",
+          "issn": [
+            "1052-2263",
+            "1878-6316"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310318577",
+          "host_organization_name": "IOS Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310318577"
+          ],
+          "host_organization_lineage_names": [
+            "IOS Press"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Vocational Rehabilitation",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:nottingham-repository.worktribe.com:59327617",
+        "is_oa": true,
+        "landing_page_url": "https://nottingham-repository.worktribe.com/output/59327617",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306402483",
+          "display_name": "Repository@Nottingham (University of Nottingham)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I142263535",
+          "host_organization_name": "University of Nottingham",
+          "host_organization_lineage": [
+            "https://openalex.org/I142263535"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "publishedVersion"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.1177/10522263261430878",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1177/10522263261430878",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S190353498",
+        "display_name": "Journal of Vocational Rehabilitation",
+        "issn_l": "1052-2263",
+        "issn": [
+          "1052-2263",
+          "1878-6316"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310318577",
+        "host_organization_name": "IOS Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310318577"
+        ],
+        "host_organization_lineage_names": [
+          "IOS Press"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc",
+      "license_id": "https://openalex.org/licenses/cc-by-nc",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Vocational Rehabilitation",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [
+      {
+        "score": 0.4342329800128937,
+        "id": "https://metadata.un.org/sdg/8",
+        "display_name": "Decent work and economic growth"
+      }
+    ],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "content_urls": null,
+    "referenced_works_count": 31,
+    "referenced_works": [
+      "https://openalex.org/W1555335348",
+      "https://openalex.org/W1676516218",
+      "https://openalex.org/W1965751769",
+      "https://openalex.org/W1973032024",
+      "https://openalex.org/W1986448872",
+      "https://openalex.org/W1992133986",
+      "https://openalex.org/W2000291204",
+      "https://openalex.org/W2020155291",
+      "https://openalex.org/W2036514240",
+      "https://openalex.org/W2054581478",
+      "https://openalex.org/W2078143040",
+      "https://openalex.org/W2130812265",
+      "https://openalex.org/W2132091551",
+      "https://openalex.org/W2170466219",
+      "https://openalex.org/W2190534540",
+      "https://openalex.org/W2205070915",
+      "https://openalex.org/W2245800481",
+      "https://openalex.org/W2277632619",
+      "https://openalex.org/W2540745702",
+      "https://openalex.org/W2604717953",
+      "https://openalex.org/W2610929309",
+      "https://openalex.org/W2943856483",
+      "https://openalex.org/W2996434546",
+      "https://openalex.org/W3127054855",
+      "https://openalex.org/W3187970693",
+      "https://openalex.org/W4205208574",
+      "https://openalex.org/W4283319048",
+      "https://openalex.org/W4300981485",
+      "https://openalex.org/W4323362191",
+      "https://openalex.org/W4386708340",
+      "https://openalex.org/W4400260881"
+    ],
+    "related_works": [],
+    "abstract_inverted_index": {
+      "Background": [
+        0
+      ],
+      "Delayed": [
+        1
+      ],
+      "return-to-work": [
+        2
+      ],
+      "is": [
+        3
+      ],
+      "common": [
+        4
+      ],
+      "after": [
+        5
+      ],
+      "serious": [
+        6
+      ],
+      "injury.": [
+        7
+      ],
+      "Vocational": [
+        8
+      ],
+      "rehabilitation": [
+        9
+      ],
+      "(VR)": [
+        10
+      ],
+      "supports": [
+        11
+      ],
+      "people": [
+        12
+      ],
+      "to": [
+        13,
+        29,
+        35,
+        39,
+        57
+      ],
+      "return": [
+        14
+      ],
+      "to/remain": [
+        15
+      ],
+      "in": [
+        16,
+        61,
+        102,
+        156,
+        183,
+        190,
+        195,
+        201
+      ],
+      "work.": [
+        17
+      ],
+      "We": [
+        18
+      ],
+      "developed": [
+        19
+      ],
+      "training": [
+        20,
+        109,
+        188
+      ],
+      "for": [
+        21
+      ],
+      "occupational": [
+        22
+      ],
+      "therapists": [
+        23
+      ],
+      "(OTs)": [
+        24
+      ],
+      "and": [
+        25,
+        55,
+        75,
+        94,
+        98,
+        100,
+        111,
+        116,
+        147,
+        162,
+        175,
+        198
+      ],
+      "clinical": [
+        26
+      ],
+      "psychologists": [
+        27
+      ],
+      "(CPs)": [
+        28
+      ],
+      "deliver": [
+        30,
+        58
+      ],
+      "a": [
+        31,
+        44
+      ],
+      "VR": [
+        32,
+        187
+      ],
+      "intervention": [
+        33
+      ],
+      "(Return": [
+        34
+      ],
+      "Work": [
+        36
+      ],
+      "After": [
+        37
+      ],
+      "Trauma-ROWTATE)": [
+        38
+      ],
+      "UK": [
+        40
+      ],
+      "trauma": [
+        41
+      ],
+      "patients": [
+        42
+      ],
+      "within": [
+        43
+      ],
+      "large-scale": [
+        45
+      ],
+      "randomised": [
+        46
+      ],
+      "controlled": [
+        47
+      ],
+      "trial.": [
+        48
+      ],
+      "Objectives": [
+        49
+      ],
+      "Evaluate": [
+        50
+      ],
+      "the": [
+        51
+      ],
+      "training,": [
+        52
+      ],
+      "OT/CP": [
+        53
+      ],
+      "competence": [
+        54
+      ],
+      "confidence": [
+        56,
+        95,
+        101,
+        155,
+        179,
+        197,
+        200
+      ],
+      "ROWTATE,": [
+        59
+      ],
+      "attitudes/confidence": [
+        60
+      ],
+      "evidence-based": [
+        62
+      ],
+      "practice": [
+        63
+      ],
+      "(EBP).": [
+        64
+      ],
+      "Methods": [
+        65
+      ],
+      "Competency": [
+        66,
+        121
+      ],
+      "was": [
+        67,
+        132
+      ],
+      "assessed": [
+        68
+      ],
+      "through": [
+        69
+      ],
+      "Team": [
+        70
+      ],
+      "Objective": [
+        71
+      ],
+      "Structured": [
+        72
+      ],
+      "Clinical": [
+        73
+      ],
+      "Examination": [
+        74
+      ],
+      "two": [
+        76
+      ],
+      "tasks": [
+        77
+      ],
+      "(management": [
+        78
+      ],
+      "plan,": [
+        79
+      ],
+      "employer": [
+        80
+      ],
+      "letter).": [
+        81
+      ],
+      "Intraclass": [
+        82
+      ],
+      "correlation": [
+        83
+      ],
+      "coefficients": [
+        84
+      ],
+      "(ICCs)": [
+        85
+      ],
+      "estimated": [
+        86
+      ],
+      "inter-rater": [
+        87
+      ],
+      "reliability.": [
+        88
+      ],
+      "Questionnaires": [
+        89
+      ],
+      "measured": [
+        90
+      ],
+      "EBP": [
+        91,
+        196
+      ],
+      "attitudes": [
+        92
+      ],
+      "(EBPAS-36)": [
+        93
+      ],
+      "(EPIC)": [
+        96
+      ],
+      "pre": [
+        97,
+        146
+      ],
+      "post-training": [
+        99,
+        148
+      ],
+      "ROWTATE": [
+        103
+      ],
+      "delivery": [
+        104
+      ],
+      "post-training.": [
+        105,
+        153,
+        173
+      ],
+      "Semi-structured": [
+        106
+      ],
+      "interviews": [
+        107
+      ],
+      "captured": [
+        108
+      ],
+      "experiences": [
+        110
+      ],
+      "confidence.": [
+        112
+      ],
+      "Results": [
+        113
+      ],
+      "47": [
+        114
+      ],
+      "OTs": [
+        115,
+        174
+      ],
+      "16": [
+        117
+      ],
+      "CPs": [
+        118,
+        176
+      ],
+      "completed": [
+        119
+      ],
+      "training.": [
+        120
+      ],
+      "scores": [
+        122,
+        143
+      ],
+      "were": [
+        123,
+        144
+      ],
+      "high": [
+        124,
+        145,
+        178,
+        191,
+        199
+      ],
+      "(OT": [
+        125,
+        134
+      ],
+      "range=27.5–37.5;": [
+        126
+      ],
+      "CP": [
+        127,
+        138
+      ],
+      "range=28.5–37;": [
+        128
+      ],
+      "maximum=38).": [
+        129
+      ],
+      "Inter-rater": [
+        130
+      ],
+      "reliability": [
+        131
+      ],
+      "moderate": [
+        133
+      ],
+      "ICC=0.56,": [
+        135
+      ],
+      "95%CI": [
+        136,
+        140
+      ],
+      "0.18,0.77;": [
+        137
+      ],
+      "ICC=0.73,": [
+        139
+      ],
+      "−0.22,0.93).": [
+        141
+      ],
+      "EBPAS-36": [
+        142
+      ],
+      "with": [
+        149
+      ],
+      "no": [
+        150
+      ],
+      "significant": [
+        151
+      ],
+      "increase": [
+        152
+      ],
+      "OT": [
+        154
+      ],
+      "applying": [
+        157
+      ],
+      "evidence": [
+        158
+      ],
+      "(P": [
+        159,
+        168
+      ],
+      "=": [
+        160,
+        169
+      ],
+      "0.01)": [
+        161
+      ],
+      "evaluating": [
+        163
+      ],
+      "effect": [
+        164
+      ],
+      "of": [
+        165
+      ],
+      "their": [
+        166
+      ],
+      "actions": [
+        167
+      ],
+      "0.04)": [
+        170
+      ],
+      "increased": [
+        171
+      ],
+      "significantly": [
+        172
+      ],
+      "had": [
+        177
+      ],
+      "(80–100%": [
+        180
+      ],
+      "across": [
+        181
+      ],
+      "questions)": [
+        182
+      ],
+      "delivering": [
+        184,
+        202
+      ],
+      "ROWTATE.": [
+        185,
+        203
+      ],
+      "Conclusions": [
+        186
+      ],
+      "resulted": [
+        189
+      ],
+      "competency": [
+        192
+      ],
+      "scores,": [
+        193
+      ],
+      "improvements": [
+        194
+      ]
+    },
+    "counts_by_year": [],
+    "updated_date": "2026-03-21T08:13:44.787528",
+    "created_date": "2026-03-17T00:00:00"
+  },
+  "crossref": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          19
+        ]
+      ],
+      "date-time": "2026-03-19T12:05:13Z",
+      "timestamp": 1773921913693,
+      "version": "3.50.1"
+    },
+    "reference-count": 35,
+    "publisher": "SAGE Publications",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              16
+            ]
+          ],
+          "date-time": "2026-03-16T00:00:00Z",
+          "timestamp": 1773619200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              16
+            ]
+          ],
+          "date-time": "2026-03-16T00:00:00Z",
+          "timestamp": 1773619200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100007602",
+        "name": "Programme Grants for Applied Research",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "RP-PG-0617-20001"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "RP-PG-0617-20001"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100007602",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.sagepub.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Journal of Vocational Rehabilitation"
+    ],
+    "abstract": "<jats:sec>\n                    <jats:title>Background</jats:title>\n                    <jats:p>Delayed return-to-work is common after serious injury. Vocational rehabilitation (VR) supports people to return to/remain in work. We developed training for occupational therapists (OTs) and clinical psychologists (CPs) to deliver a VR intervention (Return to Work After Trauma-ROWTATE) to UK trauma patients within a large-scale randomised controlled trial.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Objectives</jats:title>\n                    <jats:p>Evaluate the training, OT/CP competence and confidence to deliver ROWTATE, attitudes/confidence in evidence-based practice (EBP).</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Methods</jats:title>\n                    <jats:p>Competency was assessed through Team Objective Structured Clinical Examination and two tasks (management plan, employer letter). Intraclass correlation coefficients (ICCs) estimated inter-rater reliability. Questionnaires measured EBP attitudes (EBPAS-36) and confidence (EPIC) pre and post-training and confidence in ROWTATE delivery post-training. Semi-structured interviews captured training experiences and confidence.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>47 OTs and 16 CPs completed training. Competency scores were high (OT range=27.5–37.5; CP range=28.5–37; maximum=38). Inter-rater reliability was moderate (OT ICC=0.56, 95%CI 0.18,0.77; CP ICC=0.73, 95%CI −0.22,0.93). EBPAS-36 scores were high pre and post-training with no significant increase post-training. OT confidence in applying evidence (P = 0.01) and evaluating effect of their actions (P = 0.04) increased significantly post-training. OTs and CPs had high confidence (80–100% across questions) in delivering ROWTATE.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusions</jats:title>\n                    <jats:p>VR training resulted in high competency scores, improvements in EBP confidence and high confidence in delivering ROWTATE.</jats:p>\n                  </jats:sec>",
+    "DOI": "10.1177/10522263261430878",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          16
+        ]
+      ],
+      "date-time": "2026-03-16T08:57:52Z",
+      "timestamp": 1773651472000
+    },
+    "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Evaluating Training for Occupational Therapists and Clinical Psychologists to Deliver Vocational Rehabilitation Within a Clinical Trial: Mixed-Methods Study"
+    ],
+    "prefix": "10.1177",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-4825-3624",
+        "authenticated-orcid": false,
+        "given": "Blerina",
+        "family": "Kellezi",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "University of Nottingham School of Medicine"
+          },
+          {
+            "name": "Department of Psychology, Nottingham Trent University, Nottingham, UK"
+          }
+        ]
+      },
+      {
+        "given": "Jain",
+        "family": "Holmes",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Nottingham Biomedical Research Centre"
+          },
+          {
+            "name": "Centre for Rehabilitation &amp; Ageing Research, University of Nottingham School of Medicine, Nottingham, UK"
+          }
+        ]
+      },
+      {
+        "given": "Kate",
+        "family": "Radford",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Nottingham Biomedical Research Centre"
+          },
+          {
+            "name": "Centre for Rehabilitation &amp; Ageing Research, University of Nottingham School of Medicine, Nottingham, UK"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8143-7893",
+        "authenticated-orcid": false,
+        "given": "Roshan das",
+        "family": "Nair",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Health Division, SINTEF, Trondheim, Norway"
+          }
+        ]
+      },
+      {
+        "given": "Rebecca",
+        "family": "Lindley",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Nottingham School of Medicine"
+          },
+          {
+            "name": "Centre for Rehabilitation &amp; Ageing Research, University of Nottingham School of Medicine, Nottingham, UK"
+          }
+        ]
+      },
+      {
+        "given": "Claire",
+        "family": "Mann",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Nottingham School of Medicine"
+          }
+        ]
+      },
+      {
+        "given": "Isabel",
+        "family": "Andrews",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Nottingham School of Medicine"
+          }
+        ]
+      },
+      {
+        "given": "Stephen",
+        "family": "Fallon",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Nottingham School of Medicine"
+          }
+        ]
+      },
+      {
+        "given": "Denise",
+        "family": "Kendrick",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Nottingham School of Medicine"
+          }
+        ]
+      }
+    ],
+    "member": "179",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          16
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_3_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1023/B:MHSR.0000024351.12294.65"
+      },
+      {
+        "key": "e_1_3_3_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0735-7028.38.5.493"
+      },
+      {
+        "key": "e_1_3_3_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/TA.0b013e3182238833"
+      },
+      {
+        "key": "e_1_3_3_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ssmph.2022.101249"
+      },
+      {
+        "key": "e_1_3_3_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1365-2923.2011.04075.x"
+      },
+      {
+        "key": "e_1_3_3_7_1",
+        "volume-title": "Thematic Analysis: A Practical Guide",
+        "author": "Braun V.",
+        "year": "2021",
+        "unstructured": "Braun V., Clarke V. (2021). Thematic Analysis: A Practical Guide. Sage."
+      },
+      {
+        "key": "e_1_3_3_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09638237.2019.1608930"
+      },
+      {
+        "key": "e_1_3_3_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5014/ajot.2016.017061"
+      },
+      {
+        "key": "e_1_3_3_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1748-5908-4-50"
+      },
+      {
+        "key": "e_1_3_3_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12874-024-02269-4"
+      },
+      {
+        "key": "e_1_3_3_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3109/02699052.2015.1090014"
+      },
+      {
+        "key": "e_1_3_3_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/00001888-199412000-00018"
+      },
+      {
+        "key": "e_1_3_3_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.brat.2011.03.005"
+      },
+      {
+        "key": "e_1_3_3_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S2215-0366(21)00395-3"
+      },
+      {
+        "key": "e_1_3_3_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/pubmed/fdv173"
+      },
+      {
+        "key": "e_1_3_3_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/injuryprev-2021-044311"
+      },
+      {
+        "key": "e_1_3_3_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3399/bjgp17X691673"
+      },
+      {
+        "key": "e_1_3_3_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11136-016-1439-7"
+      },
+      {
+        "key": "e_1_3_3_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2458-12-584"
+      },
+      {
+        "key": "e_1_3_3_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s13012-023-01301-3"
+      },
+      {
+        "key": "e_1_3_3_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.brat.2019.103531"
+      },
+      {
+        "key": "e_1_3_3_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/ijerph20064694"
+      },
+      {
+        "key": "e_1_3_3_24_1",
+        "article-title": "Development of a vocational rehabilitation intervention to support return to work and wellbeing following major trauma: A person-based approach",
+        "volume": "14",
+        "author": "Radford K.",
+        "unstructured": "Radford K., Kettlewell J., das Nair R., Morriss R., Holmes J., Kellezi B., Timmons S., Jones T., Hereward T., Andrews I., Bridger K., Priya P., Lindley R., De Dios Perez B., Statham A., Jones T., Hoffman K., James M., Kendrick D., ROWTATE Study Team (2025a). Development of a vocational rehabilitation intervention to support return to work and wellbeing following major trauma: A person-based approach. BMJ Open, 14(10), e085724. https://doi.org/10.1136/bmjopen-2024-085724",
+        "journal-title": "BMJ Open"
+      },
+      {
+        "key": "e_1_3_3_25_1",
+        "article-title": "Development and description of Early Stroke Specialist Vocational Rehabilitation (ESSVR) delivered in the Return to work after stroke (RETAKE) Trial",
+        "author": "Radford K. A.",
+        "year": "2025",
+        "unstructured": "Radford K. A., Grant M. I., Holmes J. A., Phillips J., Powers K., Chambers R. L., Wright-Hughes A. (2025b). Development and description of Early Stroke Specialist Vocational Rehabilitation (ESSVR) delivered in the Return to work after stroke (RETAKE) Trial. Health Technology Assessment.",
+        "journal-title": "Health Technology Assessment"
+      },
+      {
+        "key": "e_1_3_3_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/sc.2015.133"
+      },
+      {
+        "key": "e_1_3_3_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s13012-017-0573-0"
+      },
+      {
+        "key": "e_1_3_3_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.283.23.3075"
+      },
+      {
+        "key": "e_1_3_3_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3109/02699052.2013.831131"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_3_3_30_1",
+        "first-page": "3394478",
+        "article-title": "Preparing advanced clinicians and practitioners: A model for mentorship in occupational therapy practice",
+        "volume": "2021",
+        "author": "Schoen S. A.",
+        "year": "2021",
+        "unstructured": "Schoen S. A., Gee B. M., Ochsenbein M. (2021). Preparing advanced clinicians and practitioners: A model for mentorship in occupational therapy practice. Occupational Therapy International, 2021(1), 3394478. https://doi.org/10.1155/2021/3394478",
+        "journal-title": "Occupational Therapy International"
+      },
+      {
+        "key": "e_1_3_3_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/SLA.0000000000005540"
+      },
+      {
+        "key": "e_1_3_3_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/2633489520988258"
+      },
+      {
+        "key": "e_1_3_3_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1046/j.1365-2923.1999.00264.x"
+      },
+      {
+        "key": "e_1_3_3_34_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3109/0142159X.2013.828153"
+      },
+      {
+        "key": "e_1_3_3_35_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Torre D. Durning S. J. (2015). Social cognitive theory: thinking and learning in social settings in. Chichester UK: Chichester UK: John Wiley & Sons Ltd pp. 105– 116. https://doi.org/10.1002/9781118838983.ch10",
+        "DOI": "10.1002/9781118838983.ch10"
+      },
+      {
+        "key": "e_1_3_3_36_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/SLA.0b013e318185a6b8"
+      }
+    ],
+    "container-title": [
+      "Journal of Vocational Rehabilitation"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/10522263261430878",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/10522263261430878",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/10522263261430878",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          19
+        ]
+      ],
+      "date-time": "2026-03-19T07:46:57Z",
+      "timestamp": 1773906417000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/10.1177/10522263261430878"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          16
+        ]
+      ]
+    },
+    "references-count": 35,
+    "alternative-id": [
+      "10.1177/10522263261430878"
+    ],
+    "URL": "https://doi.org/10.1177/10522263261430878",
+    "relation": {},
+    "ISSN": [
+      "1052-2263",
+      "1878-6316"
+    ],
+    "issn-type": [
+      {
+        "value": "1052-2263",
+        "type": "print"
+      },
+      {
+        "value": "1878-6316",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          16
+        ]
+      ]
+    },
+    "article-number": "10522263261430878"
+  }
+}

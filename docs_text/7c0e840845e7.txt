@@ -1,0 +1,1408 @@
+FILENAME: tac-19-01-pdf-86a1d5f30bb2.pdf
+PATH: _raw/rsa.ed.gov/tac-19-01-pdf-86a1d5f30bb2.pdf
+
+UNITED STA
+TES DEPARTMENT OF EDUCATION  
+OFFICE OF SPECIAL EDUCATION AND REHABILITATIVE SERVICES 
+REHABILITATION SERVICES ADMINISTRATION  
+WASHINGTON, DC 20202-2800
+TECHNICAL ASSISTANCE CIRCULAR 
+RSA-TAC-19-01 
+DATE: July 10, 2025 
+ADDRESSE
+ES:  STATE VOCATIONAL REHABILITATION AGENCIES 
+STATE REHABILITATION COUNCILS  
+TECHNICAL ASSISTANCE CENTERS  
+SUBJEC
+T:  Guidance for Validating Jointly Required Performance Data Submitted 
+under the Workforce Innovation and Opportunity Act (WIOA) 
+PURPOSE: 
+This T
+echnical Assistance Circular (TAC) provides information to States and grantees of the 
+U.S. Departments of Labor (DOL) and Education (ED) (collectively “the Departments”) on the 
+performance accountability system requirements set forth in section 116 of WIOA. This 
+guidance provides information about the guidelines States must use in developing procedures for 
+ensuring the data submitted are valid and reliable, as required by section 116(d)(5) of WIOA.  
+With th
+is issuance, the Departments update the guidance to align it with changes made by the 
+Workforce Innovation and Opportunity Act Effectiveness in Serving Employers Performance 
+Indicator final rule (89 FR 13814 (Feb. 23, 2024)) (Final Rule), which took effect March 25, 
+2024. This Final Rule defined the Effectiveness in Serving Employers primary indicator of 
+performance, as required by WIOA section 116(b)(2), as Retention with the Same Employer, and 
+it requires States to report the indicator as a shared indicator across the six core programs.  
+TECHNIC
+AL ASSISTANCE: 
+Background 
+This T
+AC rescinds and replaces TAC-19-01, issued December 18, 2018. The revisions ensure 
+that the portions of the guidance related to the Effectiveness in Serving Employers performance 
+indicator align with the Workforce Innovation and Opportunity Act Effectiveness in Serving 
+Employers joint performance indicator required by section 116(b)(2)(A)(i)(VI) of WIOA. The 
+performance indicator is defined as Retention with the Same Employer (89 FR 13814, Feb. 23, 
+2024). 
+Section 116 of WIOA establishes performance accountability indicators and performance 
+reporting requirements to assess the effectiveness of States and local areas in achieving positive 
+1
+
+outcome
+s for participants served by the workforce development system’s six core programs.1 
+WIOA provides an opportunity to align performance-related definitions, streamline performance 
+indicators, integrate reporting, and ensure comparable data collection and reporting across all six 
+core programs, while also requiring the collection and reporting of program-specific data.  
+Through t
+his guidance, the Departments clarify the performance accountability guidelines 
+required to be developed under WIOA section 116. This guidance provides States with a general 
+framework for data validation. Specifically, the Departments have developed this guidance 
+pursuant to WIOA section 116(d)(5), which requires the Departments to establish data validation 
+guidelines to ensure the information contained in program reports is valid and reliable. States 
+must develop data validation procedures consistent with WIOA section 116(d)(5).  
+Joint
+ Data Validation Framework   
+Dat
+a validation is a series of internal controls or quality assurance techniques established to 
+verify the accuracy, validity, and reliability of data. Establishing a joint data validation 
+framework based on a consistent approach shared by the Departments will ensure that all 
+program data are consistent and accurately reflect the performance of each core program in each 
+State. To that end, the purposes of validation procedures for jointly required performance data 
+are to:  
+• Ver
+ify that the performance data reported by States to the Departments are valid,
+accurate, reliable, and comparable across programs;
+• Identify anomalies in the data and resolve issues that may cause inaccurate reporting;
+• Outline source documentation required for common data elements; and
+• Improve program performance accountability through the results of data validation
+efforts.
+While
+ States must utilize a data validation strategy, the specific design, implementation, and 
+periodic evaluation of that strategy is left to the discretion of the State so long as those strategies 
+or procedures are consistent with these guidelines.  
+Dat
+a validation helps ensure the accuracy of the annual statewide performance reports, 
+safeguards data integrity, and promotes the timely resolution of data anomalies and inaccuracies. 
+As such, the Departments recommend that States incorporate their data validation procedures 
+into their internal control procedures, which are required by 2 CFR §200.303. State VR agencies 
+should also consider related guidance issued in RSA-DCL-23-04, dated September 28, 2023. 
+1 The six core programs are the Adult program, Dislocated Worker program, and Youth program, authorized under WIOA title I 
+and administered by DOL; the Adult Education and Family Literacy Act (AEFLA) program, authorized under WIOA title II and 
+administered by ED; the Employment Service program authorized under the Wagner-Peyser Act, as amended by WIOA title III 
+and administered by DOL; and the Vocational Rehabilitation (VR) program authorized under title I of the Rehabilitation Act of 
+1973, as amended by WIOA title IV and administered by ED. 
+2
+
+In ac
+cordance with section 116(d)(5) of WIOA, each State must develop data validation 
+procedures that include: 
+• Wri
+tten procedures for data validation that contain a description of the process for
+identifying and correcting errors or missing data, which may include electronic data
+checks;
+• Regular data validation training for appropriate program staff (e.g., at least annually);
+• Monitoring protocols, consistent with 2 CFR §200.328, to ensure that program staff
+are following the written data validation procedures and take appropriate corrective
+action if those procedures are not being followed;
+• A regular review of program data (e.g., quarterly) for errors, missing data, out-of-
+range values, and anomalies;
+• Documentation that missing and erroneous data identified during the review process
+have been corrected; and
+• Regular assessment of the effectiveness of the data validation process (e.g., at least
+annually) and revisions to that process as needed.
+The D
+epartments also will conduct data validation to verify data accuracy once States submit 
+their performance reports.  
+Sour
+ce Documentation for Common Data Elements   
+Proc
+edures developed by the States must include regular data element validation through core 
+program monitoring on 25 common data elements, consistent with the requirements of both 
+section 116(d)(5) of WIOA and the internal controls requirements of 2 C.F.R. § 200.303. The 
+Departments selected these elements based on their importance for reporting accurate 
+performance outcomes and to ensure data consistency across core programs. The Departments 
+encourage States to implement a sampling methodology of their participant files and conduct file 
+reviews of data elements against source documentation. In Attachment I of this guidance, the 
+Departments identify acceptable source documentation for validating these selected data 
+elements. States may: (1) maintain supporting documentation for program-specific data elements 
+not included in this joint guidance; (2) conduct additional source document validation on more 
+data elements; and (3) require additional source documentation in their procedures.   
+Sta
+tes may only use self-attestation or self-reported supplemental wage data information from 
+participants through follow-up if all efforts to collect other allowable source documentation have 
+been exhausted.  
+Each D
+epartment will, as necessary, issue further program-specific guidelines regarding data 
+validation and provide program-specific statutory compliance assistance to States and grantees. 
+In addition, DOL will issue guidance on source documentation requirements for the DOL-only 
+Participant Individual Record Layout (PIRL) data elements. 
+3
+
+INQUIR
+IES: 
+Michael
+ Quinn 
+Chief, Data Collection and Analysis Unit 
+Michael.Quinn@ed.gov 
+Chris
+topher Pope 
+Director, State Monitoring and Program Improvement Division, 
+delegated the authority to perform the functions  
+and duties of the Commissioner 
+cc:  Cou
+ncil of State Administrators of Vocational Rehabilitation 
+National Council of State Agencies for the Blind 
+Attach
+ment 
+4
+
+Sour
+ce Document Validation Instructions 
+Th
+e attached data element source documentation table lists the 25 common data elements that States must validate in accordance with the guidelines 
+established by the Departments pursuant to section 116(d)(5) of WIOA. The table displays the PIRL and RSA-911 data element numbers, data 
+element names, formats, definitions, instructions, and source documentation needed to perform data element validation on each data element. 
+Additionally, the Departments have provided a list of acceptable source documents to validate these selected 25 data elements. States and grantees 
+may conduct additional source document validation on more data elements, as each State and local program deems appropriate. Each program may 
+also implement additional source document requirements on program-specific data elements. However, all State and local programs reporting 
+performance data pursuant to 116(d)(5) of WIOA must use the same data element definitions in the PIRL and must use data validation procedures 
+developed by the State that are consistent with the guidelines identified in this joint guidance. 
+TYP
+ES OF SOURCE DOCUMENTATION  
+The va
+lidation guidelines provide multiple forms of acceptable source documentation. Source documentation must match the reported data. If 
+multiple sources conflict, the most authoritative source should be used to determine if the data element is valid and accurate.  
+The
+se source documentation types include:  
+1. Cross-Match:  A cross-match requires grantees to identify detailed evidence that confirms the data element in a secondary database. Grantees
+must also confirm supporting information, such as dates of participation and services rendered. Grantees must have data sharing agreements
+in place as appropriate. Upon request, results must be available to federal auditors.
+2. Self-Attestation:  Self-attestation means a written, or electronic/digital declaration of information for a particular data element, signed and
+dated by the participant. The Departments broadly interpret what is considered an electronic/digital signature. Electronic signatures or a
+submission from the participant such as an email, text, or unique online participant/exiter response is considered an electronic signature or
+verification; it must be participant generated and traceable to the participant. Grantees must retain documentation of self-attestations provided
+by participants.
+3. C
+ase Notes:  Case notes refer to either paper or electronic statements by the case manager or program staff that identify, at a minimum, the
+following: (a) a participant's situation status related to a specific data element, (b) the date on which the information was obtained, and (c) the
+name of the case manager or program staff who obtained the information.
+4. E
+lectronic Records which may include:
+• Participant Source Documents: Participant source documents maintained in the grantee’s management information system (MIS) or
+other official record keeping system.
+1
+
+• Grantee participant service record: Grantee participant information generated and maintained by the grantee regarding the specific
+services received by a participant. The information may be generated and maintained through the grantee’s MIS or other offici al
+recordkeeping system.
+NOTE: For the latest versions of PIRL (ETA-9170)  and RSA-911 data elements please visit:  
+• DOL: ETA Performance Reporting
+• RSA: Case Service Report (RSA-911)
+2
+
+PIRL DATA 
+ELEMENT NO. 
+RSA-911 
+DATA 
+ELEMENT NO. 
+DATA 
+ELEMENT 
+NAME 
+DATA 
+TYPE/ 
+FIELD 
+LENGTH 
+DATA ELEMENT DEFINITIONS/INSTRUCTIONS CODE VALUE SOURCE DOCUMENTATION 
+REQUIREMENTS 
+900 127 Date of 
+Program Entry 
+DT 8 Record the date on which an individual became a participant as referenced in 
+20 CFR 677.150 satisfying applicable programmatic requirements for the 
+provision of services. 
+Leave blank if this data element does not apply. 
+YYYYMMDD One of the following:  
+• Individual Plan for Employment 
+• Electronic Records 
+• Program intake documents, 
+such as eligibility 
+determination documentation 
+or program enrollment forms 
+901 353 Date of 
+Program Exit 
+DT 8 Record the last date the participant received services that are not self-service, 
+information-only, or follow up services. Record this last date of receipt of 
+services only if there are no future services that are not self-service, 
+information-only, or follow up services, planned from the program. For Titles I, 
+II and III, record the last date of funded service(s). For Vocational 
+Rehabilitation programs, record the date when the participant's record of 
+service is closed pursuant to 34 CFR 361.43 or 361.56. 
+Le
+ave blank if this data element does not apply to the participant. 
+YYYYMMDD One of the following: 
+• A copy of the letter sent to the 
+individual indicating that the 
+case was closed 
+• WIOA status/exit forms 
+• Electronic Records 
+• Attendance records 
+• Review of service records 
+identifying the last qualifying 
+service (and lack of a planned 
+gap) 
+923 355 Other Reasons 
+for Exit 
+IN 2 Record 01 if the participant exits the program because he or she has become 
+incarcerated in a correctional institution or has become a resident of an 
+institution or facility providing 24-hour support such as a hospital or treatment 
+center during the course of receiving services as a participant. 
+Record 02 if the participant exits the program because of medical treatment 
+and that treatment is expected to last longer than 90 days and precludes entry 
+into unsubsidized employment or continued participation in the program.  
+Record 03 if the participant is deceased. 
+Record 04 if the participant exits the program because the participant is a 
+member of the National Guard or other reserve military unit of the armed 
+forces and is called to active duty for at least 90 days. 
+01 =Institutionalized 
+02 = Health/Medical 
+03 = Deceased 
+04 = Reserve Forces 
+called to Active Duty 
+05 = Foster Care 
+06 = Ineligible  
+07 = Criminal Offender 
+00 =  No   
+One of the following: 
+• Information from partner 
+services 
+• WIOA or program status/exit 
+forms 
+• Electronic Records 
+• Withdrawal form with 
+explanation 
+• Information from institution or 
+facility 
+• Case notes 
+3
+
+PIRL DATA 
+ELEMENT NO. 
+RSA-911 
+DATA 
+ELEMENT NO. 
+DATA 
+ELEMENT 
+NAME 
+DATA 
+TYPE/ 
+FIELD 
+LENGTH 
+DATA ELEMENT DEFINITIONS/INSTRUCTIONS CODE VALUE SOURCE DOCUMENTATION 
+REQUIREMENTS 
+Record 05 if the participant is in the foster care system as defined in 45 CFR 
+1355.20(a) and exits the program because the participant has moved from the 
+area as part of such a program or system (Youth participants only). 
+Record 06 if the participant, who was determined to be eligible, is later 
+determined ineligible. For the VR program, this occurs when a participant 
+indicates they no longer wish to pursue competitive integrated employment. 
+For titles I, II, and III program eligibility is determined at the time an individual 
+becomes a participant.  
+Record 07 if the participant is a criminal offender in a correctional institution 
+under section 225 of WIOA. 
+Record 00 if the participant meets none of the above conditions. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+1303 
+ 
+Type of Training 
+Service #1 
+IN 2 Use the appropriate code to indicate the type of approved training being 
+provided to the participant.  
+NOTE: If OJT or Skill Upgrading is being provided as part of a Registered 
+Apprenticeship program, choose Code 09. 
+NOTE: Code 06 should only be utilized when other codes are clearly not 
+appropriate. 
+ 
+Record 00 if the participant did not receive a training service. 
+ 
+Leave blank if this data element does not apply to the participant.  
+01 = On the Job 
+Training (non-WIOA 
+Youth) 
+02 = Skill Upgrading 
+03 = Entrepreneurial 
+Training (non-WIOA 
+Youth) 
+04 = ABE or ESL 
+(contextualized or 
+other) in conjunction 
+with Training 
+05 = Customized 
+Training 
+One of the following:  
+• Copy of enrollment record  
+• Case notes  
+• Cross-Match between dates of 
+service and vendor training 
+information  
+• Vendor training documentation  
+• Electronic Records 
+• Individual Training Account  
+• Attendance records  
+ 
+4
+
+PIRL DATA 
+ELEMENT NO. 
+RSA-911 
+DATA 
+ELEMENT NO. 
+DATA 
+ELEMENT 
+NAME 
+DATA 
+TYPE/ 
+FIELD 
+LENGTH 
+DATA ELEMENT DEFINITIONS/INSTRUCTIONS CODE VALUE SOURCE DOCUMENTATION 
+REQUIREMENTS 
+06 = Occupational 
+Skills Training (non-
+WIOA Youth) 
+07 = ABE or ESL 
+(contextualized or 
+other) NOT in 
+conjunction with 
+training (funded by 
+Trade Adjustment 
+Assistance only) 
+08 = Prerequisite 
+Training 
+09 = Registered 
+Apprenticeship  
+10 = Youth 
+Occupational Skills 
+Training 
+11 = Other Non-
+Occupational-Skills 
+Training 
+12 = Job Readiness 
+Training in conjunction 
+with other training 
+00 = No Training 
+Service 
+1310 
+ 
+Type of Training 
+Service #2 
+IN 2 If the participant received a second type of approved training, record the 
+appropriate code to indicate the type of approved training being provided to 
+the participant. 
+NOTE: If OJT or Skill Upgrading is being provided as part of a Registered 
+Apprenticeship program, choose Code 09. 
+NOTE: Code 06 should only be utilized when other codes are clearly not 
+appropriate. 
+ 
+Record 00 if the participant did not receive a second training service. 
+ 
+Leave blank if this data element does not apply to the participant.  
+01 = On the Job 
+Training (non-WIOA 
+Youth) 
+02 = Skill Upgrading 
+03 = Entrepreneurial 
+Training (non-WIOA 
+Youth) 
+04 = ABE or ESL 
+(contextualized or 
+other) in conjunction 
+with Training 
+05 = Customized 
+Training 
+One of the following:  
+• Copy of enrollment record 
+• Case notes 
+• Cross-Match between dates of 
+service and vendor training   
+information 
+• Vendor training documentation 
+• Electronic Records 
+• Individual Training Account 
+• Attendance records 
+ 
+5
+
+PIRL DATA 
+ELEMENT NO. 
+RSA-911 
+DATA 
+ELEMENT NO. 
+DATA 
+ELEMENT 
+NAME 
+DATA 
+TYPE/ 
+FIELD 
+LENGTH 
+DATA ELEMENT DEFINITIONS/INSTRUCTIONS CODE VALUE SOURCE DOCUMENTATION 
+REQUIREMENTS 
+06 = Occupational 
+Skills Training (non-
+WIOA Youth) 
+07 = ABE or ESL 
+(contextualized or 
+other) NOT in 
+conjunction with 
+training (funded by 
+Trade Adjustment 
+Assistance only) 
+08 = Prerequisite 
+Training 
+09 = Registered 
+Apprenticeship  
+10 = Youth 
+Occupational Skills 
+Training 
+11 = Other Non-
+Occupational-Skills 
+Training 
+12 = Job Readiness 
+Training in conjunction 
+with other training 
+00 = No Training 
+Service 
+1315 
+ 
+Type of Training 
+Service #3 
+IN 2 If the participant received a third type of approved training, record the 
+appropriate code to indicate the type of approved training being provided to 
+the participant. 
+NOTE: If OJT or Skill Upgrading is being provided as part of a Registered 
+Apprenticeship program, choose Code 09. 
+NOTE: Code 06 should only be utilized when other codes are clearly not 
+appropriate. 
+ 
+Record 00 if the participant did not receive a third service. 
+Leave blank if this data element does not apply to the participant. 
+Additional Note: If the participant receives more than three training services, 
+record the last (or most recent) training services received by the participant in 
+this field.  
+01 = On the Job 
+Training (non-WIOA 
+Youth) 
+02 = Skill Upgrading 
+03 = Entrepreneurial 
+Training (non-WIOA 
+Youth) 
+04 = ABE or ESL 
+(contextualized or 
+other) in conjunction 
+with Training 
+05 = Customized 
+Training 
+One of the following:  
+• Copy of enrollment record  
+• Case notes 
+• Cross-Match between dates of 
+service and vendor training 
+information 
+• Vendor training documentation  
+• Electronic Records 
+• Individual Training Account 
+• Attendance records 
+ 
+6
+
+PIRL DATA 
+ELEMENT NO. 
+RSA-911 
+DATA 
+ELEMENT NO. 
+DATA 
+ELEMENT 
+NAME 
+DATA 
+TYPE/ 
+FIELD 
+LENGTH 
+DATA ELEMENT DEFINITIONS/INSTRUCTIONS CODE VALUE SOURCE DOCUMENTATION 
+REQUIREMENTS 
+06 = Occupational 
+Skills Training (non-
+WIOA Youth) 
+07 = ABE or ESL 
+(contextualized or 
+other) NOT in 
+conjunction with 
+training (funded by 
+Trade Adjustment 
+Assistance only) 
+08 = Prerequisite 
+Training 
+09 = Registered 
+Apprenticeship  
+10 = Youth 
+Occupational Skills 
+Training 
+11 = Other Non-
+Occupational-Skills 
+Training 
+12 = Job Readiness 
+Training in conjunction 
+with other training 
+00 = No Training 
+Service 
+7
+
+PIRL DATA 
+ELEMENT NO. 
+RSA-911 
+DATA 
+ELEMENT NO. 
+DATA 
+ELEMENT 
+NAME 
+DATA 
+TYPE/ 
+FIELD 
+LENGTH 
+DATA ELEMENT DEFINITIONS/INSTRUCTIONS CODE VALUE SOURCE DOCUMENTATION 
+REQUIREMENTS 
+1332 84 Participated in 
+Postsecondary 
+Education 
+During 
+Program 
+Participation 
+IN 1 Record 1 if the participant was in a postsecondary education program that 
+leads to a credential or degree from an accredited postsecondary education 
+institution at any point during program participation 
+Record 0 if the participant was not a postsecondary education program that 
+leads to a credential or degree from an accredited postsecondary education 
+institution during program participation
+ 
+Leave blank if this does not apply to the participant 
+ 
+Note: This data element relates to the credential indicator denominator and 
+those who are recorded as 1 are included in the credential rate denominator. 
+This element is a subset of PIRL 1811. Do not record 1 if the participant was 
+first enrolled in postsecondary education after exiting the program. 
+ 
+ 
+ 
+  
+1 = Yes, Participated in 
+Postsecondary 
+Education  
+ 
+0 = No, Did Not 
+Participate in 
+Postsecondary 
+Education 
+One of the following: 
+• Data match with 
+postsecondary data system 
+• Copy of enrollment record  
+• Case notes  
+• School records or verification 
+of enrollment  
+• Transcript or report card 
+ 
+ 
+1401 78 Enrolled in 
+Secondary 
+Education 
+Program  
+IN 1  Record 1 if the participant was enrolled in a Secondary Education Program at 
+or above the 9th Grade level. A Secondary Education program includes both 
+secondary school and enrollment in a program of study with instruction 
+designed to lead to a high school equivalent credential. Examples may include 
+adult high school credit programs and programs designed to prepare 
+participants to pass recognized high school equivalency exams such as the 
+GED, HiSET, or TASC. Programs of study designed to teach English proficiency 
+skills or literacy skills below the 9th grade equivalent are not considered 
+Secondary Education Programs. States may use this coding value if the 
+participant was either already enrolled in education or training at the time of 
+application to the program OR became enrolled in an education or training 
+program at or above the 9th Grade level at any point while participating in the 
+program. 
+Record 0 if the participant was not enrolled in a secondary education program 
+at or above the 9th grade level. 
+ 
+ 
+ 
+ 
+ 
+ 
+1 = Yes  
+0 = No   
+One of the following: 
+• Copy of enrollment record  
+• Case notes  
+• School records or verification 
+of enrollment  
+• Transcript or report card 
+• Data match to State K-12 data 
+system 
+ 
+8
+
+PIRL DATA 
+ELEMENT NO. 
+RSA-911 
+DATA 
+ELEMENT NO. 
+DATA 
+ELEMENT 
+NAME 
+DATA 
+TYPE/ 
+FIELD 
+LENGTH 
+DATA ELEMENT DEFINITIONS/INSTRUCTIONS CODE VALUE SOURCE DOCUMENTATION 
+REQUIREMENTS 
+1406 376 Date Enrolled 
+in Post Exit 
+Education or 
+Training 
+Program 
+Leading to a 
+Recognized 
+Postsecondary 
+Credential 
+DT 8 Record the date the participant is enrolled in an education or training program 
+that leads to a recognized postsecondary credential after program exit. 
+Leave blank if this data element does not apply to the participant. 
+ 
+NOTE: This element only applies to participants who exited secondary 
+education and obtained a secondary school diploma or its equivalency per 
+sec 116(b)(2)(A)(iii). This data element applies to the Credential Rate 
+numerator. This element is not to be confused with PIRL 1811, Date Enrolled 
+During Program Participation in an Education or Training Program Leading to a 
+Recognized Postsecondary Credential or Employment, which encompasses 
+all education and training program enrollment and captures those enrolled 
+during program participation, not post-exit.  
+YYYYMMDD One of the following: 
+• Case notes 
+• School records or verification 
+of enrollment 
+• Transcript or report card 
+• Cross-Match  
+• Post-Exit survey from program 
+participants 
+ 
+1600 379 Employed in 
+1st Quarter 
+After Exit 
+Quarter  
+IN 1 Record 1 if the participant is in unsubsidized employment (not including 
+Registered Apprenticeship, or the military).  
+Record 2 if the participant is in a Registered Apprenticeship. 
+Record 3 if the participant is in the military. 
+Record 0 if the participant was not employed in the first quarter after the 
+quarter of exit. 
+Record 9 if the participant has exited but employment information is not yet 
+available. 
+1 = Yes 
+2 = Yes, Registered 
+Apprenticeship
+ 
+3 = Yes, Military 
+0 = No 
+9 = Information not yet 
+available 
+One of the following:  
+• UI wage data 
+match/administrative wage 
+match, such as the National 
+Directory of New Hires  
+• Post-Exit follow-up for the 
+purposes of collecting 
+employment and wage data  
+(self-reported) from program 
+participants 
+• Paycheck stubs, and tax 
+records(i.e. W2 form, Quarterly 
+tax payment forms, such as an 
+IRS form 941 etc.) 
+• Signed letter or other 
+information from employer on 
+company letterhead attesting 
+to an individual’s employment 
+status and earnings 
+• Self-employment worksheets 
+signed and attested to by 
+program participants  
+• Detailed case notes verified by 
+employer and program staff.  
+9
+
+PIRL DATA 
+ELEMENT NO. 
+RSA-911 
+DATA 
+ELEMENT NO. 
+DATA 
+ELEMENT 
+NAME 
+DATA 
+TYPE/ 
+FIELD 
+LENGTH 
+DATA ELEMENT DEFINITIONS/INSTRUCTIONS CODE VALUE SOURCE DOCUMENTATION 
+REQUIREMENTS 
+1602 383 Employed in 
+2nd Quarter 
+After Exit 
+Quarter  
+IN 1 Record 1 if the participant is in unsubsidized employment (not including 
+Registered Apprenticeship, or the military). 
+Record 2 if the participant is in a Registered Apprenticeship. 
+Record 3 if the participant is in the military. 
+Record 0 if the participant was not employed in the second quarter after the 
+quarter of exit. 
+Record 9 if the participant has exited but employment information is not yet 
+available. 
+1 = Yes 
+2 = Yes, Registered 
+Apprenticeship 
+3 = Yes, Military 
+0 = No 
+9 = Information not yet 
+available 
+One of the following:  
+• UI wage data 
+match/administrative wage 
+match, such as the National 
+Directory of New Hires  
+• Post-Exit follow-up for the 
+purposes of collecting 
+employment and wage data  
+(self-reported) from program 
+participants 
+• Paycheck stubs, and tax 
+records (i.e. W2 form, 
+Quarterly tax payment forms, 
+such as an IRS form 941 etc.) 
+• Signed letter or other 
+information from employer on 
+company letterhead attesting 
+to an individual’s employment 
+status and earnings 
+• Self-employment worksheets 
+signed and attested to by 
+program participants  
+• Detailed case notes verified by 
+employer and program staff.  
+ 
+ 
+ 
+10
+
+PIRL DATA 
+ELEMENT NO. 
+RSA-911 
+DATA 
+ELEMENT NO. 
+DATA 
+ELEMENT 
+NAME 
+DATA 
+TYPE/ 
+FIELD 
+LENGTH 
+DATA ELEMENT DEFINITIONS/INSTRUCTIONS CODE VALUE SOURCE DOCUMENTATION 
+REQUIREMENTS 
+1604 386 Employed in 
+3rd Quarter 
+After Exit 
+Quarter 
+IN 1 Record 1 if the participant is in unsubsidized employment (not including 
+Registered Apprenticeship, or the military). 
+Record 2 if the participant is in a Registered Apprenticeship. 
+Record 3 if the participant is in the military. 
+Record 0 if the participant was not employed in the third quarter after the 
+quarter of exit. 
+Record 9 if the participant has exited but employment information is not yet 
+available. 
+1 = Yes 
+2 = Yes, Registered 
+Apprenticeship 
+3 = Yes, Military 
+0 = No 
+9 = Information not yet 
+available 
+One of the following:  
+• UI wage data 
+match/administrative wage 
+match, such as the National 
+Directory of New Hires  
+• Post-Exit follow-up for the 
+purposes of collecting 
+employment and wage data  
+(self-reported) from program 
+participants 
+• Paycheck stubs, and tax 
+records (i.e. W2 form, 
+Quarterly tax payment forms, 
+such as an IRS form 941 etc.) 
+• Signed letter or other 
+information from employer on 
+company letterhead attesting 
+to an individual’s employment 
+status and earnings 
+• Self-employment worksheets 
+signed and attested to by 
+program participants  
+• Detailed case notes verified by 
+employer and program staff.  
+ 
+11
+
+PIRL DATA 
+ELEMENT NO. 
+RSA-911 
+DATA 
+ELEMENT NO. 
+DATA 
+ELEMENT 
+NAME 
+DATA 
+TYPE/ 
+FIELD 
+LENGTH 
+DATA ELEMENT DEFINITIONS/INSTRUCTIONS CODE VALUE SOURCE DOCUMENTATION 
+REQUIREMENTS 
+1606 389 Employed in 
+4th Quarter 
+After Exit 
+Quarter 
+IN 1 Record 1 if the participant is in unsubsidized employment (not including 
+Registered Apprenticeship, or the military). 
+Record 2 if the participant is in a Registered Apprenticeship. 
+Record 3 if the participant is in the military. 
+Record 0 if the participant was not employed in the fourth quarter after the 
+quarter of exit. 
+Record 9 if the participant has exited but employment information is not yet 
+available. 
+1 = Yes 
+2 = Yes, Registered 
+Apprenticeship 
+3 = Yes, Military 
+0 = No 
+9 = Information not yet 
+available 
+One of the following:  
+• UI wage data 
+match/administrative wage 
+match, such as the National 
+Directory of New Hires  
+• Post-Exit follow-up for the 
+purposes of collecting 
+employment and wage data  
+(self-reported) from program 
+participants 
+• Paycheck stubs, and tax 
+records (i.e. W2 form, 
+Quarterly tax payment forms, 
+such as an IRS form 941 etc.) 
+• Signed letter or other 
+information from employer on 
+company letterhead attesting 
+to an individual’s employment 
+status and earnings 
+• Self-employment worksheets 
+signed and attested to by 
+program participants  
+• Detailed case notes verified by 
+employer and program staff.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+12
+
+PIRL DATA 
+ELEMENT NO. 
+RSA-911 
+DATA 
+ELEMENT NO. 
+DATA 
+ELEMENT 
+NAME 
+DATA 
+TYPE/ 
+FIELD 
+LENGTH 
+DATA ELEMENT DEFINITIONS/INSTRUCTIONS CODE VALUE SOURCE DOCUMENTATION 
+REQUIREMENTS 
+1618  392  Retention with 
+the same 
+employer in the 
+2nd Quarter 
+and the 4th 
+Quarter 
+(WIOA) 
+ IN 1 Record 1 if the participant’s employer in the second quarter also matches the 
+employer in the fourth quarter. 
+Record 0 if the participant is not employed in the second or fourth quarters 
+after exit, or the employer in the second quarter does not match the employer 
+in the fourth quarter.      
+ 
+  
+1 = Yes 
+0 = No 
+One of the following:  
+• UI wage data 
+match/administrative wage 
+match, such as the National 
+Directory of New Hires  
+• Post-Exit follow-up for the 
+purposes of collecting 
+employment and wage data  
+(self-reported) from program 
+participants 
+• Paycheck stubs, and tax 
+records (i.e. W2 form, 
+Quarterly tax payment forms, 
+such as an IRS form 941 etc.) 
+• Signed letter or other 
+information from employer on 
+company letterhead attesting 
+to an individual’s employment 
+status and earnings 
+• Self-employment worksheets 
+signed and attested to by 
+program participants  
+• Detailed case notes verified by 
+employer and program staff.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+13
+
+PIRL DATA 
+ELEMENT NO. 
+RSA-911 
+DATA 
+ELEMENT NO. 
+DATA 
+ELEMENT 
+NAME 
+DATA 
+TYPE/ 
+FIELD 
+LENGTH 
+DATA ELEMENT DEFINITIONS/INSTRUCTIONS CODE VALUE SOURCE DOCUMENTATION 
+REQUIREMENTS 
+1704 385 Wages 2nd 
+Quarter After 
+Exit Quarter    
+DE 8.2 Record total earnings for the second quarter after the quarter of exit. 
+Record 999999.99 if data is not yet available for this item. 
+Leave blank if data element does not apply to the participant. 
+000000.00 One of the following:  
+• UI wage data 
+match/administrative wage 
+match, such as the National 
+Directory of New Hires  
+• Post-Exit follow-up for the 
+purposes of collecting 
+employment and wage data  
+(self-reported) from program 
+participants 
+• Paycheck stubs, and tax 
+records (i.e. W2 form, 
+Quarterly tax payment forms, 
+such as an IRS form 941 etc.) 
+• Signed letter or other 
+information from employer on 
+company letterhead attesting 
+to an individual’s employment 
+status and earnings 
+• Self-employment worksheets 
+signed and attested to by 
+program participants  
+• Detailed case notes verified by 
+employer and program staff.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+14
+
+PIRL DATA 
+ELEMENT NO. 
+RSA-911 
+DATA 
+ELEMENT NO. 
+DATA 
+ELEMENT 
+NAME 
+DATA 
+TYPE/ 
+FIELD 
+LENGTH 
+DATA ELEMENT DEFINITIONS/INSTRUCTIONS CODE VALUE SOURCE DOCUMENTATION 
+REQUIREMENTS 
+1800 N/A Type of 
+Recognized 
+Credential  
+IN 1 Use the appropriate code to record the type of recognized diploma, degree, or 
+a credential consisting of an industry-recognized certificate or certification, a 
+certificate of completion of a Registered Apprenticeship, a license recognized 
+by the State involved or Federal Government, or an associate or baccalaureate 
+degree attained by the participant who received education or training services. 
+Record 0 if the participant received education or training services, but did not 
+attain a recognized diploma, degree, license or certificate. 
+Leave blank if data element does not apply to the participant. 
+ 
+NOTE: Diplomas, degrees, licenses or certificates must be attained either 
+during participation or within one year of exit, consistent with performance 
+accountability requirements at section 116(b)(2)(A)(i)(IV) and (V) of WIOA. 
+This data element applies to both the Credential Rate and Measurable Skills 
+Gain indicators for all core programs. 
+1 = Secondary School 
+Diploma/or 
+equivalency  
+2 = AA or AS 
+Diploma/Degree 
+3 = BA or BS 
+Diploma/Degree 
+4 = Occupational 
+Licensure 
+5 = Occupational 
+Certificate 
+6 = Occupational 
+Certification 
+7 = Other Recognized 
+Diploma, Degree, or 
+Certificate 
+0 = No recognized 
+credential 
+One of the following: 
+• Cross-Match  
+• Copy of credential  
+• Copy of school record  
+• Post-Exit follow-up for the 
+purposes of collecting data  
+(self-reported) from program 
+participants 
+• Case notes documenting 
+information obtained from 
+education or training provider 
+ 
+1801 **87, 88, 89, 
+90, 93, 94, 95 
+Date Attained 
+Recognized 
+Credential  
+DT 8 Record the date on which the participant attained a recognized credential. 
+ 
+Leave blank if the participant did not attain a degree or certificate.  
+YYYYMMDD One of the following: 
+• Cross-Match  
+• Copy of credential  
+• Copy of school record  
+• Post-Exit survey from program 
+participants  
+• Case notes documenting 
+information obtained from 
+education or training provider 
+**For RSA-911 purposes, 
+documentation is required for 
+credentials earned after program 
+participation begins 
+15
+
+PIRL DATA 
+ELEMENT NO. 
+RSA-911 
+DATA 
+ELEMENT NO. 
+DATA 
+ELEMENT 
+NAME 
+DATA 
+TYPE/ 
+FIELD 
+LENGTH 
+DATA ELEMENT DEFINITIONS/INSTRUCTIONS CODE VALUE SOURCE DOCUMENTATION 
+REQUIREMENTS 
+1806 343 Date of Most 
+Recent 
+Measurable 
+Skill Gains: 
+Educational 
+Functioning 
+Level (EFL) 
+DT 8  Record the most recent date the participant who received instruction below 
+the postsecondary education level achieved at least one EFL. EFL  gain may be 
+documented in one of four ways: 1) by comparing a participant’s initial EFL as 
+measured by a pre-test with the participant’s EFL as measured by a 
+participant’s post-test; 2) for States that offer secondary school programs that 
+lead to a secondary school diploma or its recognized equivalent, an EFL gain 
+may be measured through the awarding of credits or Carnegie units; 3) States 
+may report an EFL gain for participants who are enrolled in a program below 
+the postsecondary level who enroll in State recognized postsecondary 
+education or training during the program year; or 4) States may report an 
+educational functioning level gain for participants who pass a subtest on a 
+State-recognized high school equivalency examination. 
+ 
+ 
+Leave blank if this data element does not apply to the participant. 
+YYYYMMDD One of the following: 
+• Pre- and post-test results 
+measuring EFL gain  
+• Adult High School transcript 
+showing EFL gain through the 
+awarding of credits or Carnegie 
+units  
+• Postsecondary education or 
+training enrollment determined 
+through data match, survey 
+documentation, or program 
+notes 
+• Test results of a passing 
+subtest on a State-recognized 
+high school equivalency 
+examination.  
+ 
+1807 345 Date of Most 
+Recent 
+Measurable 
+Skill Gains: 
+Postsecondary 
+Transcript/  
+Report Card 
+DT 8 Record the most recent date of the participant’s transcript or report card for 
+postsecondary education who complete a minimum of 12 hours per semester, 
+or for part time students a total of at least 12 credit hours over the course of 
+two completed consecutive semesters during the program year, that shows a 
+participant is meeting the State unit's academic standards. 
+ 
+Leave blank if this data element does not apply to the participant. 
+YYYYMMDD One of the following: 
+• Transcript   
+• Report card 
+1808 344 Date of Most 
+Recent 
+Measurable 
+Skill Gains: 
+Secondary 
+Transcript/ 
+Report Card  
+DT 8 Record the most recent date of the participant’s transcript or report card for 
+secondary education for one semester showing that the participant is meeting 
+the State unit’s academic standards. 
+ 
+Leave blank if this data element does not apply to the participant. 
+YYYYMMDD One of the following: 
+• Transcript   
+• Report card 
+16
+
+PIRL DATA 
+ELEMENT NO. 
+RSA-911 
+DATA 
+ELEMENT NO. 
+DATA 
+ELEMENT 
+NAME 
+DATA 
+TYPE/ 
+FIELD 
+LENGTH 
+DATA ELEMENT DEFINITIONS/INSTRUCTIONS CODE VALUE SOURCE DOCUMENTATION 
+REQUIREMENTS 
+1809 346 Date of Most 
+Recent 
+Measurable 
+Skill Gains: 
+Training 
+Milestone  
+DT 8 Record the most recent date that the participant had a satisfactory or better 
+progress report towards established milestones from an employer/training 
+provider who is providing training (e.g., completion of on-the-job training 
+(OJT), completion of one year of a registered apprenticeship program, etc.). 
+ 
+Leave blank if this data element does not apply to the participant. 
+YYYYMMDD One of the following: 
+• Documentation of a skill 
+gained through OJT or 
+Registered Apprenticeship  
+• Contract and/or evaluation 
+from employer or training 
+provider documenting a skill 
+gain  
+• Progress report from employer 
+documenting a skill gain 
+ 
+ 
+ 
+  
+1810 347 Date of Most 
+Recent 
+Measurable 
+Skill Gains: 
+Skills 
+Progression  
+DT 8 Record the most recent date the participant successfully passed an exam that 
+is required for a particular occupation, or progress in attaining technical or 
+occupational skills as evidenced by trade-related benchmarks such as 
+knowledge-based exams. 
+ 
+Leave blank if this data element does not apply to the participant. 
+YYYYMMDD One of the following: 
+• Results of knowledge-based 
+exam or certification of 
+completion.  
+• Documentation demonstrating 
+progress in attaining technical 
+or occupational skills through 
+an exam or benchmark 
+attainment 
+• Documentation from training 
+provider or employer 
+• Copy of a credential that is 
+required for a particular 
+occupation and only is earned 
+after the passage of an exam 
+ 
+ 
+ 
+ 
+  
+17
+
+PIRL DATA 
+ELEMENT NO. 
+RSA-911 
+DATA 
+ELEMENT NO. 
+DATA 
+ELEMENT 
+NAME 
+DATA 
+TYPE/ 
+FIELD 
+LENGTH 
+DATA ELEMENT DEFINITIONS/INSTRUCTIONS CODE VALUE SOURCE DOCUMENTATION 
+REQUIREMENTS 
+1811 85 Date Enrolled 
+During 
+Program 
+Participation in 
+an Education 
+or Training 
+Program 
+Leading to a 
+Recognized 
+Postsecondary 
+Credential or 
+Employment  
+DT 8 Record the date the participant was enrolled during program participation in 
+an education or training program that leads to a recognized postsecondary 
+credential, including a secondary education program, or training program that 
+leads to employment as defined by the core program in which the participant 
+participates. States may use this coding value if the participant was either 
+already enrolled in education or training at the time of program entry or 
+became enrolled in education or training at any point while participating in the 
+program. If the participant was enrolled in postsecondary education at 
+program entry, the date in this field should be the date of Program Entry. This 
+includes, but is not limited to, participation in Job Corps or YouthBuild or Adult 
+Education or secondary education programs. 
+Le
+ave blank if the data element does not apply to the participant. 
+NOTE: This data element applies to the Measurable Skill Gains Indicator, and 
+specifically will be utilized to calculate the denominator. It encompasses all 
+education and training program enrollment.  
+YYYYMMDD One of the following: 
+• Case notes 
+• School records or verification 
+of enrollment 
+• Transcript or report card 
+• Cross-Match
+1900 Youth 2nd 
+Quarter 
+Placement 
+(Title I)   
+IN 1 Record 1 if the participant is enrolled in occupational skills training (including 
+advanced training). 
+Record 2 if the participant is enrolled in postsecondary education. 
+Record 3 if the participant is enrolled in secondary education. 
+Record 0 if the participant was not placed in any of the above conditions. 
+1 = Occupational Skills 
+Training 
+2 = Postsecondary 
+Education 
+3 = Secondary 
+Education 
+0 = No placement 
+One of the following:  
+• Cross-Match 
+• Copy of registration record 
+• Case notes 
+• School records or verification 
+of enrollment 
+• Transcript or report card 
+• Vendor/training provider 
+training documentation 
+1901 Youth 4th 
+Quarter 
+Placement 
+(Title I)  
+IN 1 Record 1 if the participant is enrolled in occupational skills training (including 
+advanced training). 
+Record 2 if the participant is enrolled in postsecondary education. 
+Record 3 if the participant is enrolled in secondary education. 
+Record 0 if the participant was not placed in any of the above conditions. 
+1 = Occupational Skills 
+Training 
+2 = Postsecondary 
+Education 
+3 = Secondary 
+Education 
+0 = No placement 
+One of the following:  
+• Cross-Match 
+• Copy of registration record 
+• Case notes 
+• School records or verification 
+of enrollment 
+• Transcript or report card 
+• Vendor/training provider 
+training documentation 
+18

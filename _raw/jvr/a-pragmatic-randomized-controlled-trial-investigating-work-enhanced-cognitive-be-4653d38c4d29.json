@@ -1,0 +1,2504 @@
+{
+  "source_type": "jvr_pdf_candidate",
+  "doi": "10.1177/10522263251376530",
+  "doi_url": "https://doi.org/10.1177/10522263251376530",
+  "source_url": "https://journals.sagepub.com/doi/10.1177/10522263251376530",
+  "attempted_pdf_urls": [
+    "https://journals.sagepub.com/doi/pdf/10.1177/10522263251376530",
+    "https://journals.sagepub.com/doi/10.1177/10522263251376530",
+    "https://doi.org/10.1177/10522263251376530",
+    "https://content.iospress.com/download?id=10.1177/10522263251376530"
+  ],
+  "selected_pdf_url": "",
+  "selected_final_url": "",
+  "download_status": "unavailable",
+  "match": {
+    "veteran_hits": [
+      "veteran",
+      "veterans",
+      "va "
+    ],
+    "pathway_hits": [
+      "employment",
+      "work",
+      "employment outcome",
+      "employment outcomes",
+      "vocational rehabilitation"
+    ],
+    "disability_hits": []
+  },
+  "openalex": {
+    "id": "https://openalex.org/W4414227359",
+    "doi": "https://doi.org/10.1177/10522263251376530",
+    "title": "A Pragmatic Randomized Controlled Trial Investigating Work Enhanced Cognitive Behavioral Therapy for People with Serious Mental Illness (WORKWELL): Background, Design, and Baseline Outcomes",
+    "display_name": "A Pragmatic Randomized Controlled Trial Investigating Work Enhanced Cognitive Behavioral Therapy for People with Serious Mental Illness (WORKWELL): Background, Design, and Baseline Outcomes",
+    "publication_year": 2025,
+    "publication_date": "2025-09-16",
+    "ids": {
+      "openalex": "https://openalex.org/W4414227359",
+      "doi": "https://doi.org/10.1177/10522263251376530"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/10522263251376530",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/10522263251376530",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S190353498",
+        "display_name": "Journal of Vocational Rehabilitation",
+        "issn_l": "1052-2263",
+        "issn": [
+          "1052-2263",
+          "1878-6316"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310318577",
+        "host_organization_name": "IOS Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310318577"
+        ],
+        "host_organization_lineage_names": [
+          "IOS Press"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Vocational Rehabilitation",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5021876547",
+          "display_name": "Marina Kukla",
+          "orcid": "https://orcid.org/0000-0001-8928-2822"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210110049",
+            "display_name": "Richard L. Roudebush VA Medical Center",
+            "ror": "https://ror.org/01zpmbk67",
+            "country_code": "US",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I1322918889",
+              "https://openalex.org/I2799886695",
+              "https://openalex.org/I4210110049",
+              "https://openalex.org/I4210127612",
+              "https://openalex.org/I4388446366",
+              "https://openalex.org/I592451"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4388446366",
+            "display_name": "Indiana University Indianapolis",
+            "ror": "https://ror.org/03eftgw80",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4388446366",
+              "https://openalex.org/I592451"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I55769427",
+            "display_name": "Indiana University – Purdue University Indianapolis",
+            "ror": "https://ror.org/05gxnyn08",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I55769427",
+              "https://openalex.org/I592451"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Marina Kukla",
+        "raw_affiliation_strings": [
+          "Indiana University Indianapolis",
+          "Richard L. Roudebush VA Medical Center",
+          "HSR Center for Health Information and Communication, Richard L. Roudebush VA Medical Center, Indianapolis, IN, USA",
+          "Department of Psychology, Indiana University Indianapolis, Indianapolis, IN, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Indiana University Indianapolis",
+            "institution_ids": [
+              "https://openalex.org/I55769427",
+              "https://openalex.org/I4388446366"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Richard L. Roudebush VA Medical Center",
+            "institution_ids": [
+              "https://openalex.org/I4210110049"
+            ]
+          },
+          {
+            "raw_affiliation_string": "HSR Center for Health Information and Communication, Richard L. Roudebush VA Medical Center, Indianapolis, IN, USA",
+            "institution_ids": [
+              "https://openalex.org/I4210110049",
+              "https://openalex.org/I55769427"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Psychology, Indiana University Indianapolis, Indianapolis, IN, USA",
+            "institution_ids": [
+              "https://openalex.org/I55769427",
+              "https://openalex.org/I4388446366"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5048173643",
+          "display_name": "Angela L. Rollins",
+          "orcid": "https://orcid.org/0000-0002-6043-2855"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I1324682000",
+            "display_name": "Regenstrief Institute",
+            "ror": "https://ror.org/05f2ywb48",
+            "country_code": "US",
+            "type": "nonprofit",
+            "lineage": [
+              "https://openalex.org/I1324682000"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210110049",
+            "display_name": "Richard L. Roudebush VA Medical Center",
+            "ror": "https://ror.org/01zpmbk67",
+            "country_code": "US",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I1322918889",
+              "https://openalex.org/I2799886695",
+              "https://openalex.org/I4210110049",
+              "https://openalex.org/I4210127612",
+              "https://openalex.org/I4388446366",
+              "https://openalex.org/I592451"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4388446366",
+            "display_name": "Indiana University Indianapolis",
+            "ror": "https://ror.org/03eftgw80",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4388446366",
+              "https://openalex.org/I592451"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I55769427",
+            "display_name": "Indiana University – Purdue University Indianapolis",
+            "ror": "https://ror.org/05gxnyn08",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I55769427",
+              "https://openalex.org/I592451"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Angela L Rollins",
+        "raw_affiliation_strings": [
+          "Indiana University Indianapolis",
+          "Regenstrief Inc",
+          "Richard L. Roudebush VA Medical Center",
+          "Center for Health Services Research, Regenstrief Inc., Indianapolis, IN, USA",
+          "HSR Center for Health Information and Communication, Richard L. Roudebush VA Medical Center, Indianapolis, IN, USA",
+          "Department of Psychology, Indiana University Indianapolis, Indianapolis, IN, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Indiana University Indianapolis",
+            "institution_ids": [
+              "https://openalex.org/I55769427",
+              "https://openalex.org/I4388446366"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Regenstrief Inc",
+            "institution_ids": [
+              "https://openalex.org/I1324682000"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Richard L. Roudebush VA Medical Center",
+            "institution_ids": [
+              "https://openalex.org/I4210110049"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Center for Health Services Research, Regenstrief Inc., Indianapolis, IN, USA",
+            "institution_ids": [
+              "https://openalex.org/I1324682000"
+            ]
+          },
+          {
+            "raw_affiliation_string": "HSR Center for Health Information and Communication, Richard L. Roudebush VA Medical Center, Indianapolis, IN, USA",
+            "institution_ids": [
+              "https://openalex.org/I4210110049",
+              "https://openalex.org/I55769427"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Psychology, Indiana University Indianapolis, Indianapolis, IN, USA",
+            "institution_ids": [
+              "https://openalex.org/I55769427",
+              "https://openalex.org/I4388446366"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5113601571",
+          "display_name": "Kenneth C. Weber",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I2802230104",
+            "display_name": "Edward Hines, Jr. VA Hospital",
+            "ror": "https://ror.org/02223wv31",
+            "country_code": "US",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I1322918889",
+              "https://openalex.org/I2799886695",
+              "https://openalex.org/I2802230104",
+              "https://openalex.org/I4210115976"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Kenneth C Weber",
+        "raw_affiliation_strings": [
+          "Edward Hines Jr. VA Hospital",
+          "Edward Hines Jr. VA Hospital, Hines, IL, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Edward Hines Jr. VA Hospital",
+            "institution_ids": [
+              "https://openalex.org/I2802230104"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Edward Hines Jr. VA Hospital, Hines, IL, USA",
+            "institution_ids": [
+              "https://openalex.org/I2802230104"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5113146877",
+          "display_name": "Jessi Hatfield",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210150881",
+            "display_name": "VA St. Louis Health Care System",
+            "ror": "https://ror.org/04qmkfe11",
+            "country_code": "US",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I1322918889",
+              "https://openalex.org/I2799886695",
+              "https://openalex.org/I4210150881",
+              "https://openalex.org/I4210165236"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Jessi Hatfield",
+        "raw_affiliation_strings": [
+          "St. Louis VA Health Care System",
+          "St. Louis VA Health Care System, St. Louis, MO, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "St. Louis VA Health Care System",
+            "institution_ids": [
+              "https://openalex.org/I4210150881"
+            ]
+          },
+          {
+            "raw_affiliation_string": "St. Louis VA Health Care System, St. Louis, MO, USA",
+            "institution_ids": [
+              "https://openalex.org/I4210150881"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5088968105",
+          "display_name": "Wei Wu",
+          "orcid": "https://orcid.org/0000-0001-7955-461X"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4388446366",
+            "display_name": "Indiana University Indianapolis",
+            "ror": "https://ror.org/03eftgw80",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4388446366",
+              "https://openalex.org/I592451"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I55769427",
+            "display_name": "Indiana University – Purdue University Indianapolis",
+            "ror": "https://ror.org/05gxnyn08",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I55769427",
+              "https://openalex.org/I592451"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Wei Wu",
+        "raw_affiliation_strings": [
+          "Indiana University Indianapolis",
+          "Department of Psychology, Indiana University Indianapolis, Indianapolis, IN, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Indiana University Indianapolis",
+            "institution_ids": [
+              "https://openalex.org/I55769427",
+              "https://openalex.org/I4388446366"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Psychology, Indiana University Indianapolis, Indianapolis, IN, USA",
+            "institution_ids": [
+              "https://openalex.org/I55769427",
+              "https://openalex.org/I4388446366"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5070486330",
+          "display_name": "Laura A. Faith",
+          "orcid": "https://orcid.org/0000-0002-2470-629X"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210110049",
+            "display_name": "Richard L. Roudebush VA Medical Center",
+            "ror": "https://ror.org/01zpmbk67",
+            "country_code": "US",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I1322918889",
+              "https://openalex.org/I2799886695",
+              "https://openalex.org/I4210110049",
+              "https://openalex.org/I4210127612",
+              "https://openalex.org/I4388446366",
+              "https://openalex.org/I592451"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I55769427",
+            "display_name": "Indiana University – Purdue University Indianapolis",
+            "ror": "https://ror.org/05gxnyn08",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I55769427",
+              "https://openalex.org/I592451"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Laura A Faith",
+        "raw_affiliation_strings": [
+          "Richard L. Roudebush VA Medical Center",
+          "Richard L. Roudebush VA Medical Center, Indianapolis, IN, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Richard L. Roudebush VA Medical Center",
+            "institution_ids": [
+              "https://openalex.org/I4210110049"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Richard L. Roudebush VA Medical Center, Indianapolis, IN, USA",
+            "institution_ids": [
+              "https://openalex.org/I4210110049",
+              "https://openalex.org/I55769427"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5066402294",
+          "display_name": "Jessica Carter",
+          "orcid": "https://orcid.org/0000-0001-9590-3146"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210110049",
+            "display_name": "Richard L. Roudebush VA Medical Center",
+            "ror": "https://ror.org/01zpmbk67",
+            "country_code": "US",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I1322918889",
+              "https://openalex.org/I2799886695",
+              "https://openalex.org/I4210110049",
+              "https://openalex.org/I4210127612",
+              "https://openalex.org/I4388446366",
+              "https://openalex.org/I592451"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I55769427",
+            "display_name": "Indiana University – Purdue University Indianapolis",
+            "ror": "https://ror.org/05gxnyn08",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I55769427",
+              "https://openalex.org/I592451"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Jessica Carter",
+        "raw_affiliation_strings": [
+          "Richard L. Roudebush VA Medical Center",
+          "HSR Center for Health Information and Communication, Richard L. Roudebush VA Medical Center, Indianapolis, IN, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Richard L. Roudebush VA Medical Center",
+            "institution_ids": [
+              "https://openalex.org/I4210110049"
+            ]
+          },
+          {
+            "raw_affiliation_string": "HSR Center for Health Information and Communication, Richard L. Roudebush VA Medical Center, Indianapolis, IN, USA",
+            "institution_ids": [
+              "https://openalex.org/I4210110049",
+              "https://openalex.org/I55769427"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5027316469",
+          "display_name": "Courtney N. Wiesepape",
+          "orcid": "https://orcid.org/0009-0003-8698-074X"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210110049",
+            "display_name": "Richard L. Roudebush VA Medical Center",
+            "ror": "https://ror.org/01zpmbk67",
+            "country_code": "US",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I1322918889",
+              "https://openalex.org/I2799886695",
+              "https://openalex.org/I4210110049",
+              "https://openalex.org/I4210127612",
+              "https://openalex.org/I4388446366",
+              "https://openalex.org/I592451"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210153792",
+            "display_name": "University School",
+            "ror": "https://ror.org/05ap66461",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4210153792"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4394709130",
+            "display_name": "Indiana University School of Medicine",
+            "ror": "https://ror.org/02ets8c94",
+            "country_code": null,
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4394709130",
+              "https://openalex.org/I592451"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I55769427",
+            "display_name": "Indiana University – Purdue University Indianapolis",
+            "ror": "https://ror.org/05gxnyn08",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I55769427",
+              "https://openalex.org/I592451"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I592451",
+            "display_name": "Indiana University",
+            "ror": "https://ror.org/01kg8sb98",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I592451"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Courtney N Wiesepape",
+        "raw_affiliation_strings": [
+          "Indiana University School of Medicine",
+          "Richard L. Roudebush VA Medical Center",
+          "HSR Center for Health Information and Communication, Richard L. Roudebush VA Medical Center, Indianapolis, IN, USA",
+          "Department of Psychiatry, Indiana University School of Medicine, Indianapolis, IN, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Indiana University School of Medicine",
+            "institution_ids": [
+              "https://openalex.org/I592451",
+              "https://openalex.org/I4210153792",
+              "https://openalex.org/I4394709130"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Richard L. Roudebush VA Medical Center",
+            "institution_ids": [
+              "https://openalex.org/I4210110049"
+            ]
+          },
+          {
+            "raw_affiliation_string": "HSR Center for Health Information and Communication, Richard L. Roudebush VA Medical Center, Indianapolis, IN, USA",
+            "institution_ids": [
+              "https://openalex.org/I4210110049",
+              "https://openalex.org/I55769427"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Psychiatry, Indiana University School of Medicine, Indianapolis, IN, USA",
+            "institution_ids": [
+              "https://openalex.org/I55769427",
+              "https://openalex.org/I4394709130"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5033425330",
+          "display_name": "Michael H. Connors",
+          "orcid": "https://orcid.org/0000-0002-7224-1896"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210110049",
+            "display_name": "Richard L. Roudebush VA Medical Center",
+            "ror": "https://ror.org/01zpmbk67",
+            "country_code": "US",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I1322918889",
+              "https://openalex.org/I2799886695",
+              "https://openalex.org/I4210110049",
+              "https://openalex.org/I4210127612",
+              "https://openalex.org/I4388446366",
+              "https://openalex.org/I592451"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I55769427",
+            "display_name": "Indiana University – Purdue University Indianapolis",
+            "ror": "https://ror.org/05gxnyn08",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I55769427",
+              "https://openalex.org/I592451"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Miranda J Connors",
+        "raw_affiliation_strings": [
+          "Richard L. Roudebush VA Medical Center",
+          "HSR Center for Health Information and Communication, Richard L. Roudebush VA Medical Center, Indianapolis, IN, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Richard L. Roudebush VA Medical Center",
+            "institution_ids": [
+              "https://openalex.org/I4210110049"
+            ]
+          },
+          {
+            "raw_affiliation_string": "HSR Center for Health Information and Communication, Richard L. Roudebush VA Medical Center, Indianapolis, IN, USA",
+            "institution_ids": [
+              "https://openalex.org/I4210110049",
+              "https://openalex.org/I55769427"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5119630101",
+          "display_name": "Steven S Wahle",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210150881",
+            "display_name": "VA St. Louis Health Care System",
+            "ror": "https://ror.org/04qmkfe11",
+            "country_code": "US",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I1322918889",
+              "https://openalex.org/I2799886695",
+              "https://openalex.org/I4210150881",
+              "https://openalex.org/I4210165236"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Steven S Wahle",
+        "raw_affiliation_strings": [
+          "St. Louis VA Health Care System",
+          "St. Louis VA Health Care System, St. Louis, MO, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "St. Louis VA Health Care System",
+            "institution_ids": [
+              "https://openalex.org/I4210150881"
+            ]
+          },
+          {
+            "raw_affiliation_string": "St. Louis VA Health Care System, St. Louis, MO, USA",
+            "institution_ids": [
+              "https://openalex.org/I4210150881"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5031506646",
+          "display_name": "Nicole Pashka",
+          "orcid": "https://orcid.org/0000-0001-9751-8022"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I2802230104",
+            "display_name": "Edward Hines, Jr. VA Hospital",
+            "ror": "https://ror.org/02223wv31",
+            "country_code": "US",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I1322918889",
+              "https://openalex.org/I2799886695",
+              "https://openalex.org/I2802230104",
+              "https://openalex.org/I4210115976"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Nicole J Pashka",
+        "raw_affiliation_strings": [
+          "Edward Hines Jr. VA Hospital",
+          "Edward Hines Jr. VA Hospital, Hines, IL, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Edward Hines Jr. VA Hospital",
+            "institution_ids": [
+              "https://openalex.org/I2802230104"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Edward Hines Jr. VA Hospital, Hines, IL, USA",
+            "institution_ids": [
+              "https://openalex.org/I2802230104"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5007721445",
+          "display_name": "Alan B. McGuire",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210110049",
+            "display_name": "Richard L. Roudebush VA Medical Center",
+            "ror": "https://ror.org/01zpmbk67",
+            "country_code": "US",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I1322918889",
+              "https://openalex.org/I2799886695",
+              "https://openalex.org/I4210110049",
+              "https://openalex.org/I4210127612",
+              "https://openalex.org/I4388446366",
+              "https://openalex.org/I592451"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4388446366",
+            "display_name": "Indiana University Indianapolis",
+            "ror": "https://ror.org/03eftgw80",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4388446366",
+              "https://openalex.org/I592451"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I55769427",
+            "display_name": "Indiana University – Purdue University Indianapolis",
+            "ror": "https://ror.org/05gxnyn08",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I55769427",
+              "https://openalex.org/I592451"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Alan B McGuire",
+        "raw_affiliation_strings": [
+          "Indiana University Indianapolis",
+          "Richard L. Roudebush VA Medical Center",
+          "Department of Psychology, Indiana University Indianapolis, Indianapolis, IN, USA",
+          "HSR Center for Health Information and Communication, Richard L. Roudebush VA Medical Center, Indianapolis, IN, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Indiana University Indianapolis",
+            "institution_ids": [
+              "https://openalex.org/I55769427",
+              "https://openalex.org/I4388446366"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Richard L. Roudebush VA Medical Center",
+            "institution_ids": [
+              "https://openalex.org/I4210110049"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Psychology, Indiana University Indianapolis, Indianapolis, IN, USA",
+            "institution_ids": [
+              "https://openalex.org/I55769427",
+              "https://openalex.org/I4388446366"
+            ]
+          },
+          {
+            "raw_affiliation_string": "HSR Center for Health Information and Communication, Richard L. Roudebush VA Medical Center, Indianapolis, IN, USA",
+            "institution_ids": [
+              "https://openalex.org/I4210110049",
+              "https://openalex.org/I55769427"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 12,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5021876547"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I4210110049",
+      "https://openalex.org/I4388446366",
+      "https://openalex.org/I55769427"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.39302109,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": "63",
+      "issue": "3",
+      "first_page": "299",
+      "last_page": "311"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11959",
+      "display_name": "Employment and Welfare Studies",
+      "score": 0.9995999932289124,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3600",
+        "display_name": "General Health Professions"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/36",
+        "display_name": "Health Professions"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11959",
+        "display_name": "Employment and Welfare Studies",
+        "score": 0.9995999932289124,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3600",
+          "display_name": "General Health Professions"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/36",
+          "display_name": "Health Professions"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11084",
+        "display_name": "Workplace Health and Well-being",
+        "score": 0.9993000030517578,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3600",
+          "display_name": "General Health Professions"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/36",
+          "display_name": "Health Professions"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10272",
+        "display_name": "Mental Health Treatment and Access",
+        "score": 0.9983000159263611,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3207",
+          "display_name": "Social Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/supported-employment",
+        "display_name": "Supported employment",
+        "score": 0.7778000235557556
+      },
+      {
+        "id": "https://openalex.org/keywords/psychosocial",
+        "display_name": "Psychosocial",
+        "score": 0.76419997215271
+      },
+      {
+        "id": "https://openalex.org/keywords/psychoeducation",
+        "display_name": "Psychoeducation",
+        "score": 0.7581999897956848
+      },
+      {
+        "id": "https://openalex.org/keywords/mental-illness",
+        "display_name": "Mental illness",
+        "score": 0.676800012588501
+      },
+      {
+        "id": "https://openalex.org/keywords/cognitive-behavioral-therapy",
+        "display_name": "Cognitive behavioral therapy",
+        "score": 0.6496000289916992
+      },
+      {
+        "id": "https://openalex.org/keywords/randomized-controlled-trial",
+        "display_name": "Randomized controlled trial",
+        "score": 0.6071000099182129
+      },
+      {
+        "id": "https://openalex.org/keywords/psychological-intervention",
+        "display_name": "Psychological intervention",
+        "score": 0.5687999725341797
+      },
+      {
+        "id": "https://openalex.org/keywords/intervention",
+        "display_name": "Intervention (counseling)",
+        "score": 0.5227000117301941
+      },
+      {
+        "id": "https://openalex.org/keywords/mental-health",
+        "display_name": "Mental health",
+        "score": 0.5029000043869019
+      },
+      {
+        "id": "https://openalex.org/keywords/assertive-community-treatment",
+        "display_name": "Assertive community treatment",
+        "score": 0.41929998993873596
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2778965245",
+        "wikidata": "https://www.wikidata.org/wiki/Q2499074",
+        "display_name": "Supported employment",
+        "level": 3,
+        "score": 0.7778000235557556
+      },
+      {
+        "id": "https://openalex.org/C150966472",
+        "wikidata": "https://www.wikidata.org/wiki/Q3410145",
+        "display_name": "Psychosocial",
+        "level": 2,
+        "score": 0.76419997215271
+      },
+      {
+        "id": "https://openalex.org/C2780477327",
+        "wikidata": "https://www.wikidata.org/wiki/Q2115980",
+        "display_name": "Psychoeducation",
+        "level": 3,
+        "score": 0.7581999897956848
+      },
+      {
+        "id": "https://openalex.org/C2776674806",
+        "wikidata": "https://www.wikidata.org/wiki/Q12135",
+        "display_name": "Mental illness",
+        "level": 3,
+        "score": 0.676800012588501
+      },
+      {
+        "id": "https://openalex.org/C2781265626",
+        "wikidata": "https://www.wikidata.org/wiki/Q1147152",
+        "display_name": "Cognitive behavioral therapy",
+        "level": 3,
+        "score": 0.6496000289916992
+      },
+      {
+        "id": "https://openalex.org/C168563851",
+        "wikidata": "https://www.wikidata.org/wiki/Q1436668",
+        "display_name": "Randomized controlled trial",
+        "level": 2,
+        "score": 0.6071000099182129
+      },
+      {
+        "id": "https://openalex.org/C27415008",
+        "wikidata": "https://www.wikidata.org/wiki/Q7256382",
+        "display_name": "Psychological intervention",
+        "level": 2,
+        "score": 0.5687999725341797
+      },
+      {
+        "id": "https://openalex.org/C2780665704",
+        "wikidata": "https://www.wikidata.org/wiki/Q959298",
+        "display_name": "Intervention (counseling)",
+        "level": 2,
+        "score": 0.5227000117301941
+      },
+      {
+        "id": "https://openalex.org/C134362201",
+        "wikidata": "https://www.wikidata.org/wiki/Q317309",
+        "display_name": "Mental health",
+        "level": 2,
+        "score": 0.5029000043869019
+      },
+      {
+        "id": "https://openalex.org/C118552586",
+        "wikidata": "https://www.wikidata.org/wiki/Q7867",
+        "display_name": "Psychiatry",
+        "level": 1,
+        "score": 0.44929999113082886
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.44200000166893005
+      },
+      {
+        "id": "https://openalex.org/C70410870",
+        "wikidata": "https://www.wikidata.org/wiki/Q199906",
+        "display_name": "Clinical psychology",
+        "level": 1,
+        "score": 0.4198000133037567
+      },
+      {
+        "id": "https://openalex.org/C2777113529",
+        "wikidata": "https://www.wikidata.org/wiki/Q2919171",
+        "display_name": "Assertive community treatment",
+        "level": 4,
+        "score": 0.41929998993873596
+      },
+      {
+        "id": "https://openalex.org/C2779477915",
+        "wikidata": "https://www.wikidata.org/wiki/Q13693745",
+        "display_name": "Cognitive therapy",
+        "level": 3,
+        "score": 0.4083999991416931
+      },
+      {
+        "id": "https://openalex.org/C169900460",
+        "wikidata": "https://www.wikidata.org/wiki/Q2200417",
+        "display_name": "Cognition",
+        "level": 2,
+        "score": 0.3903999924659729
+      },
+      {
+        "id": "https://openalex.org/C2778818304",
+        "wikidata": "https://www.wikidata.org/wiki/Q1819478",
+        "display_name": "Rehabilitation",
+        "level": 2,
+        "score": 0.3903999924659729
+      },
+      {
+        "id": "https://openalex.org/C71924100",
+        "wikidata": "https://www.wikidata.org/wiki/Q11190",
+        "display_name": "Medicine",
+        "level": 0,
+        "score": 0.3862999975681305
+      },
+      {
+        "id": "https://openalex.org/C2910218225",
+        "wikidata": "https://www.wikidata.org/wiki/Q2918910",
+        "display_name": "Psychiatric rehabilitation",
+        "level": 4,
+        "score": 0.36579999327659607
+      },
+      {
+        "id": "https://openalex.org/C2775882741",
+        "wikidata": "https://www.wikidata.org/wiki/Q6130303",
+        "display_name": "Vocational rehabilitation",
+        "level": 3,
+        "score": 0.36070001125335693
+      },
+      {
+        "id": "https://openalex.org/C85973986",
+        "wikidata": "https://www.wikidata.org/wiki/Q1091731",
+        "display_name": "Exploratory research",
+        "level": 2,
+        "score": 0.3562999963760376
+      },
+      {
+        "id": "https://openalex.org/C12725497",
+        "wikidata": "https://www.wikidata.org/wiki/Q810247",
+        "display_name": "Baseline (sea)",
+        "level": 2,
+        "score": 0.3472999930381775
+      },
+      {
+        "id": "https://openalex.org/C2777267654",
+        "wikidata": "https://www.wikidata.org/wiki/Q3519023",
+        "display_name": "Test (biology)",
+        "level": 2,
+        "score": 0.33550000190734863
+      },
+      {
+        "id": "https://openalex.org/C1862650",
+        "wikidata": "https://www.wikidata.org/wiki/Q186005",
+        "display_name": "Physical therapy",
+        "level": 1,
+        "score": 0.32670000195503235
+      },
+      {
+        "id": "https://openalex.org/C668760",
+        "wikidata": "https://www.wikidata.org/wiki/Q6869278",
+        "display_name": "Vocational education",
+        "level": 2,
+        "score": 0.30320000648498535
+      },
+      {
+        "id": "https://openalex.org/C2781089641",
+        "wikidata": "https://www.wikidata.org/wiki/Q7310684",
+        "display_name": "Relapse prevention",
+        "level": 2,
+        "score": 0.30149999260902405
+      },
+      {
+        "id": "https://openalex.org/C68015696",
+        "wikidata": "https://www.wikidata.org/wiki/Q5141235",
+        "display_name": "Cognitive rehabilitation therapy",
+        "level": 3,
+        "score": 0.29490000009536743
+      },
+      {
+        "id": "https://openalex.org/C14564219",
+        "wikidata": "https://www.wikidata.org/wiki/Q383646",
+        "display_name": "Social cognitive theory",
+        "level": 2,
+        "score": 0.29030001163482666
+      },
+      {
+        "id": "https://openalex.org/C2776867660",
+        "wikidata": "https://www.wikidata.org/wiki/Q1814941",
+        "display_name": "Depression (economics)",
+        "level": 2,
+        "score": 0.2637999951839447
+      },
+      {
+        "id": "https://openalex.org/C2775969662",
+        "wikidata": "https://www.wikidata.org/wiki/Q7923600",
+        "display_name": "Veterans Affairs",
+        "level": 2,
+        "score": 0.2563000023365021
+      },
+      {
+        "id": "https://openalex.org/C16920402",
+        "wikidata": "https://www.wikidata.org/wiki/Q205398",
+        "display_name": "Social work",
+        "level": 2,
+        "score": 0.25429999828338623
+      },
+      {
+        "id": "https://openalex.org/C2778087770",
+        "wikidata": "https://www.wikidata.org/wiki/Q2297111",
+        "display_name": "Social support",
+        "level": 2,
+        "score": 0.2540999948978424
+      },
+      {
+        "id": "https://openalex.org/C18762648",
+        "wikidata": "https://www.wikidata.org/wiki/Q42213",
+        "display_name": "Work (physics)",
+        "level": 2,
+        "score": 0.2515999972820282
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1177/10522263251376530",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1177/10522263251376530",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S190353498",
+          "display_name": "Journal of Vocational Rehabilitation",
+          "issn_l": "1052-2263",
+          "issn": [
+            "1052-2263",
+            "1878-6316"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310318577",
+          "host_organization_name": "IOS Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310318577"
+          ],
+          "host_organization_lineage_names": [
+            "IOS Press"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Vocational Rehabilitation",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "content_urls": null,
+    "referenced_works_count": 53,
+    "referenced_works": [
+      "https://openalex.org/W635262101",
+      "https://openalex.org/W1135911500",
+      "https://openalex.org/W1613012881",
+      "https://openalex.org/W1965638516",
+      "https://openalex.org/W1983400491",
+      "https://openalex.org/W1986034454",
+      "https://openalex.org/W1997015320",
+      "https://openalex.org/W2006860706",
+      "https://openalex.org/W2007640404",
+      "https://openalex.org/W2011826014",
+      "https://openalex.org/W2012796013",
+      "https://openalex.org/W2013770249",
+      "https://openalex.org/W2017687902",
+      "https://openalex.org/W2033083342",
+      "https://openalex.org/W2036456512",
+      "https://openalex.org/W2049905539",
+      "https://openalex.org/W2093274439",
+      "https://openalex.org/W2094282407",
+      "https://openalex.org/W2110313855",
+      "https://openalex.org/W2118941514",
+      "https://openalex.org/W2124330434",
+      "https://openalex.org/W2128121671",
+      "https://openalex.org/W2134788644",
+      "https://openalex.org/W2141536144",
+      "https://openalex.org/W2143795317",
+      "https://openalex.org/W2145629933",
+      "https://openalex.org/W2154311416",
+      "https://openalex.org/W2162761792",
+      "https://openalex.org/W2170742368",
+      "https://openalex.org/W2170754611",
+      "https://openalex.org/W2172151487",
+      "https://openalex.org/W2217628183",
+      "https://openalex.org/W2230236165",
+      "https://openalex.org/W2240578497",
+      "https://openalex.org/W2299396629",
+      "https://openalex.org/W2327299954",
+      "https://openalex.org/W2330479484",
+      "https://openalex.org/W2410032463",
+      "https://openalex.org/W2531885077",
+      "https://openalex.org/W2608014122",
+      "https://openalex.org/W2615687689",
+      "https://openalex.org/W2789930715",
+      "https://openalex.org/W2918502814",
+      "https://openalex.org/W2944271118",
+      "https://openalex.org/W2972686787",
+      "https://openalex.org/W2991046162",
+      "https://openalex.org/W3012551692",
+      "https://openalex.org/W3026144626",
+      "https://openalex.org/W3082656880",
+      "https://openalex.org/W3151739996",
+      "https://openalex.org/W4318612152",
+      "https://openalex.org/W4385223589",
+      "https://openalex.org/W4388281244"
+    ],
+    "related_works": [],
+    "abstract_inverted_index": {
+      "Background": [
+        0
+      ],
+      "Employment": [
+        1
+      ],
+      "is": [
+        2,
+        14,
+        71,
+        146
+      ],
+      "a": [
+        3,
+        72,
+        119
+      ],
+      "powerful": [
+        4
+      ],
+      "social": [
+        5
+      ],
+      "determinant": [
+        6
+      ],
+      "of": [
+        7,
+        25,
+        33,
+        89,
+        114
+      ],
+      "health,": [
+        8,
+        152
+      ],
+      "and": [
+        9,
+        38,
+        63,
+        87,
+        139,
+        154,
+        163
+      ],
+      "dysfunction": [
+        10
+      ],
+      "in": [
+        11,
+        60
+      ],
+      "this": [
+        12
+      ],
+      "area": [
+        13
+      ],
+      "pervasive": [
+        15
+      ],
+      "among": [
+        16,
+        66
+      ],
+      "veterans": [
+        17,
+        102
+      ],
+      "with": [
+        18,
+        68,
+        103
+      ],
+      "serious": [
+        19
+      ],
+      "mental": [
+        20
+      ],
+      "illness": [
+        21
+      ],
+      "(SMI),": [
+        22
+      ],
+      "despite": [
+        23
+      ],
+      "implementation": [
+        24,
+        88
+      ],
+      "evidence-based": [
+        26
+      ],
+      "employment": [
+        27,
+        93,
+        107,
+        165
+      ],
+      "services": [
+        28
+      ],
+      "by": [
+        29,
+        127,
+        184
+      ],
+      "the": [
+        30,
+        85,
+        142,
+        185,
+        195
+      ],
+      "US": [
+        31
+      ],
+      "Department": [
+        32
+      ],
+      "Veterans": [
+        34,
+        67
+      ],
+      "Affairs.": [
+        35
+      ],
+      "Recently,": [
+        36
+      ],
+      "cognitive": [
+        37
+      ],
+      "behavioral": [
+        39
+      ],
+      "work": [
+        40,
+        62
+      ],
+      "barriers": [
+        41
+      ],
+      "have": [
+        42
+      ],
+      "been": [
+        43
+      ],
+      "identified.": [
+        44
+      ],
+      "Objective": [
+        45
+      ],
+      "The": [
+        46
+      ],
+      "Cognitive": [
+        47
+      ],
+      "Behavioral": [
+        48
+      ],
+      "Therapy": [
+        49
+      ],
+      "for": [
+        50
+      ],
+      "Work": [
+        51
+      ],
+      "Success": [
+        52
+      ],
+      "intervention": [
+        53
+      ],
+      "(CBTw)": [
+        54
+      ],
+      "was": [
+        55
+      ],
+      "developed,": [
+        56
+      ],
+      "demonstrating": [
+        57
+      ],
+      "early": [
+        58
+      ],
+      "promise": [
+        59
+      ],
+      "improving": [
+        61
+      ],
+      "psychosocial": [
+        64
+      ],
+      "outcomes": [
+        65,
+        150,
+        166,
+        175
+      ],
+      "SMI.": [
+        69
+      ],
+      "WORKWELL": [
+        70,
+        96
+      ],
+      "hybrid": [
+        73
+      ],
+      "Type": [
+        74
+      ],
+      "I,": [
+        75
+      ],
+      "three": [
+        76
+      ],
+      "site": [
+        77
+      ],
+      "randomized": [
+        78
+      ],
+      "controlled": [
+        79
+      ],
+      "trial": [
+        80
+      ],
+      "seeking": [
+        81
+      ],
+      "to": [
+        82,
+        98,
+        111,
+        173,
+        180,
+        190
+      ],
+      "rigorously": [
+        83
+      ],
+      "test": [
+        84
+      ],
+      "effectiveness": [
+        86
+      ],
+      "CBTw": [
+        90,
+        117,
+        193
+      ],
+      "into": [
+        91
+      ],
+      "VA": [
+        92,
+        106,
+        128,
+        196
+      ],
+      "services.": [
+        94
+      ],
+      "Methods": [
+        95
+      ],
+      "seeks": [
+        97
+      ],
+      "enroll": [
+        99
+      ],
+      "276": [
+        100
+      ],
+      "unemployed": [
+        101
+      ],
+      "SMI": [
+        104
+      ],
+      "receiving": [
+        105
+      ],
+      "services,": [
+        108
+      ],
+      "randomizing": [
+        109
+      ],
+      "them": [
+        110
+      ],
+      "12": [
+        112,
+        140,
+        171
+      ],
+      "weeks": [
+        113
+      ],
+      "group": [
+        115
+      ],
+      "based": [
+        116
+      ],
+      "or": [
+        118
+      ],
+      "psychoeducation": [
+        120
+      ],
+      "control.": [
+        121
+      ],
+      "Study": [
+        122
+      ],
+      "interventions": [
+        123
+      ],
+      "will": [
+        124,
+        160,
+        167,
+        197
+      ],
+      "be": [
+        125,
+        161,
+        168,
+        198
+      ],
+      "implemented": [
+        126
+      ],
+      "vocational": [
+        129
+      ],
+      "rehabilitation": [
+        130
+      ],
+      "counselors.": [
+        131
+      ],
+      "Outcomes": [
+        132
+      ],
+      "Measured": [
+        133
+      ],
+      "at": [
+        134,
+        170
+      ],
+      "baseline,": [
+        135
+      ],
+      "post-treatment,": [
+        136
+      ],
+      "6,": [
+        137
+      ],
+      "9,": [
+        138
+      ],
+      "months,": [
+        141
+      ],
+      "primary": [
+        143
+      ],
+      "Veteran": [
+        144
+      ],
+      "outcome": [
+        145
+      ],
+      "competitive": [
+        147
+      ],
+      "work.": [
+        148
+      ],
+      "Secondary": [
+        149
+      ],
+      "include": [
+        151
+      ],
+      "psychosocial,": [
+        153
+      ],
+      "suicidality": [
+        155
+      ],
+      "factors.": [
+        156
+      ],
+      "Inpatient": [
+        157
+      ],
+      "service": [
+        158
+      ],
+      "utilization": [
+        159
+      ],
+      "assessed,": [
+        162
+      ],
+      "exploratory": [
+        164
+      ],
+      "measured": [
+        169
+      ],
+      "months": [
+        172
+      ],
+      "capture": [
+        174
+      ],
+      "that": [
+        176
+      ],
+      "may": [
+        177
+      ],
+      "take": [
+        178
+      ],
+      "longer": [
+        179
+      ],
+      "emerge.": [
+        181
+      ],
+      "Conclusions": [
+        182
+      ],
+      "Guided": [
+        183
+      ],
+      "RE-AIM": [
+        186
+      ],
+      "framework,": [
+        187
+      ],
+      "factors": [
+        188
+      ],
+      "needed": [
+        189
+      ],
+      "rapidly": [
+        191
+      ],
+      "implement": [
+        192
+      ],
+      "across": [
+        194
+      ],
+      "captured.": [
+        199
+      ]
+    },
+    "counts_by_year": [],
+    "updated_date": "2026-03-27T05:58:40.876381",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  "crossref": {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          22
+        ]
+      ],
+      "date-time": "2025-10-22T00:38:54Z",
+      "timestamp": 1761093534326,
+      "version": "build-2065373602"
+    },
+    "reference-count": 55,
+    "publisher": "SAGE Publications",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              16
+            ]
+          ],
+          "date-time": "2025-09-16T00:00:00Z",
+          "timestamp": 1757980800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+      }
+    ],
+    "funder": [
+      {
+        "name": "U.S. Department of Veterans' Affairs, Health Services Research",
+        "award": [
+          "IIR 19-176"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "IIR 19-176"
+            ]
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.sagepub.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Journal of Vocational Rehabilitation"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          11
+        ]
+      ]
+    },
+    "abstract": "<jats:sec>\n            <jats:title>Background</jats:title>\n            <jats:p>Employment is a powerful social determinant of health, and dysfunction in this area is pervasive among veterans with serious mental illness (SMI), despite implementation of evidence-based employment services by the US Department of Veterans Affairs. Recently, cognitive and behavioral work barriers have been identified.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Objective</jats:title>\n            <jats:p>The Cognitive Behavioral Therapy for Work Success intervention (CBTw) was developed, demonstrating early promise in improving work and psychosocial outcomes among Veterans with SMI. WORKWELL is a hybrid Type I, three site randomized controlled trial seeking to rigorously test the effectiveness and implementation of CBTw into VA employment services.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Methods</jats:title>\n            <jats:p>WORKWELL seeks to enroll 276 unemployed veterans with SMI receiving VA employment services, randomizing them to 12 weeks of group based CBTw or a psychoeducation control. Study interventions will be implemented by VA vocational rehabilitation counselors.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Outcomes</jats:title>\n            <jats:p>Measured at baseline, post-treatment, 6, 9, and 12 months, the primary Veteran outcome is competitive work. Secondary outcomes include health, psychosocial, and suicidality factors. Inpatient service utilization will be assessed, and exploratory employment outcomes will be measured at 12 months to capture outcomes that may take longer to emerge.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Conclusions</jats:title>\n            <jats:p>Guided by the RE-AIM framework, factors needed to rapidly implement CBTw across the VA will be captured.</jats:p>\n          </jats:sec>",
+    "DOI": "10.1177/10522263251376530",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          16
+        ]
+      ],
+      "date-time": "2025-09-16T18:35:21Z",
+      "timestamp": 1758047721000
+    },
+    "page": "299-311",
+    "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "A Pragmatic Randomized Controlled Trial Investigating Work Enhanced Cognitive Behavioral Therapy for People with Serious Mental Illness (WORKWELL): Background, Design, and Baseline Outcomes"
+    ],
+    "prefix": "10.1177",
+    "volume": "63",
+    "author": [
+      {
+        "given": "Marina",
+        "family": "Kukla",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Richard L. Roudebush VA Medical Center"
+          },
+          {
+            "name": "Indiana University Indianapolis"
+          }
+        ]
+      },
+      {
+        "given": "Angela L",
+        "family": "Rollins",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Richard L. Roudebush VA Medical Center"
+          },
+          {
+            "name": "Indiana University Indianapolis"
+          },
+          {
+            "name": "Regenstrief Inc."
+          }
+        ]
+      },
+      {
+        "given": "Kenneth C",
+        "family": "Weber",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Edward Hines Jr. VA Hospital"
+          }
+        ]
+      },
+      {
+        "given": "Jessi",
+        "family": "Hatfield",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "St. Louis VA Health Care System"
+          }
+        ]
+      },
+      {
+        "given": "Wei",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Indiana University Indianapolis"
+          }
+        ]
+      },
+      {
+        "given": "Laura A",
+        "family": "Faith",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Richard L. Roudebush VA Medical Center"
+          }
+        ]
+      },
+      {
+        "given": "Jessica",
+        "family": "Carter",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Richard L. Roudebush VA Medical Center"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0003-8698-074X",
+        "authenticated-orcid": false,
+        "given": "Courtney N",
+        "family": "Wiesepape",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Richard L. Roudebush VA Medical Center"
+          },
+          {
+            "name": "Indiana University School of Medicine"
+          }
+        ]
+      },
+      {
+        "given": "Miranda J",
+        "family": "Connors",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Richard L. Roudebush VA Medical Center"
+          }
+        ]
+      },
+      {
+        "given": "Steven S",
+        "family": "Wahle",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "St. Louis VA Health Care System"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9751-8022",
+        "authenticated-orcid": false,
+        "given": "Nicole J",
+        "family": "Pashka",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Edward Hines Jr. VA Hospital"
+          }
+        ]
+      },
+      {
+        "given": "Alan B",
+        "family": "McGuire",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Richard L. Roudebush VA Medical Center"
+          },
+          {
+            "name": "Indiana University Indianapolis"
+          }
+        ]
+      }
+    ],
+    "member": "179",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          16
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_4_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/milmed/usab113"
+      },
+      {
+        "key": "e_1_3_4_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1176/appi.ps.201600412"
+      },
+      {
+        "key": "e_1_3_4_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0033291711001504"
+      },
+      {
+        "key": "e_1_3_4_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/104973230201200611"
+      },
+      {
+        "key": "e_1_3_4_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0005-7967(97)00073-9"
+      },
+      {
+        "key": "e_1_3_4_7_1",
+        "volume-title": "Rapid assessment process: An introduction",
+        "author": "Beebe J.",
+        "year": "2001",
+        "unstructured": "Beebe J. (2001). Rapid assessment process: An introduction. AltaMira Press."
+      },
+      {
+        "key": "e_1_3_4_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev-publhealth-032013-182500"
+      },
+      {
+        "key": "e_1_3_4_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1049731509333373"
+      },
+      {
+        "key": "e_1_3_4_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11606-019-05447-z"
+      },
+      {
+        "key": "e_1_3_4_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1176/appi.ps.201100270"
+      },
+      {
+        "key": "e_1_3_4_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1176/ps.62.8.pss6208_0950"
+      },
+      {
+        "key": "e_1_3_4_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/NMD.0b013e3181ea1e53"
+      },
+      {
+        "key": "e_1_3_4_14_1",
+        "volume-title": "Constructing grounded theory: A practical guide through qualitative analysis",
+        "author": "Charmaz K.",
+        "year": "2006",
+        "unstructured": "Charmaz K. (2006). Constructing grounded theory: A practical guide through qualitative analysis. Sage Publications."
+      },
+      {
+        "key": "e_1_3_4_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-2009-0455"
+      },
+      {
+        "key": "e_1_3_4_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/prj0000589"
+      },
+      {
+        "key": "e_1_3_4_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1023/A:1018741302682"
+      },
+      {
+        "key": "e_1_3_4_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1176/appi.ajp.2008.08020297"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_3_4_19_1",
+        "first-page": "55–66",
+        "article-title": "Veterans individual placement and support towards advancing recovery: Methods and baseline clinical characteristics of a multisite study",
+        "volume": "41",
+        "year": "2018",
+        "unstructured": "Davis, L. L., Kyriakides, T. C., Suris, A., Ottomanelli, L., Drake, R. E., Parker, P. E., Mueller, L., Resnick, S. G., Toscano, R., Blansett, C. M., McCall, K. P., & Huang, G. D. (2018). Veterans individual placement and support towards advancing recovery: Methods and baseline clinical characteristics of a multisite study. Psychiatric Rehabilitation Journal, 41(1), 55–66. https://doi.org/10.1037/prj0000250",
+        "journal-title": "Psychiatric Rehabilitation Journal"
+      },
+      {
+        "key": "e_1_3_4_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/pcn5.122"
+      },
+      {
+        "key": "e_1_3_4_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1176/appi.ps.20220484"
+      },
+      {
+        "key": "e_1_3_4_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2975/32.1.2008.59.62"
+      },
+      {
+        "key": "e_1_3_4_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7205/MILMED-D-11-00388"
+      },
+      {
+        "key": "e_1_3_4_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jad.2019.09.062"
+      },
+      {
+        "key": "e_1_3_4_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10488-019-00926-1"
+      },
+      {
+        "key": "e_1_3_4_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0037098"
+      },
+      {
+        "key": "e_1_3_4_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1475-6773.12115"
+      },
+      {
+        "key": "e_1_3_4_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jbi.2008.08.010"
+      },
+      {
+        "key": "e_1_3_4_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0035491"
+      },
+      {
+        "key": "e_1_3_4_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10597-020-00630-7"
+      },
+      {
+        "key": "e_1_3_4_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/01488376.2014.901277"
+      },
+      {
+        "key": "e_1_3_4_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0895-4356(98)00138-3"
+      },
+      {
+        "key": "e_1_3_4_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/NMD.0b013e318247cb29"
+      },
+      {
+        "key": "e_1_3_4_34_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-150754"
+      },
+      {
+        "key": "e_1_3_4_35_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1176/appi.ps.201500108"
+      },
+      {
+        "key": "e_1_3_4_36_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/prj0000365"
+      },
+      {
+        "key": "e_1_3_4_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1176/appi.ps.670504"
+      },
+      {
+        "key": "e_1_3_4_38_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/NMD.0000000000000601"
+      },
+      {
+        "key": "e_1_3_4_39_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/NMD.0000000000000796"
+      },
+      {
+        "key": "e_1_3_4_40_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jclp.23048"
+      },
+      {
+        "key": "e_1_3_4_41_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.schres.2014.09.010"
+      },
+      {
+        "key": "e_1_3_4_42_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.schres.2008.10.018"
+      },
+      {
+        "key": "e_1_3_4_43_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1176/appi.ps.201900522"
+      },
+      {
+        "key": "e_1_3_4_44_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S1352465801001047"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_3_4_45_1",
+        "article-title": "The illness management and recovery program: Rationale, development, and preliminary findings",
+        "volume": "32",
+        "author": "Mueser K. T.",
+        "year": "2006",
+        "unstructured": "Mueser K. T., Meyer P. S., Penn D. L., Clancy R., Clancy D. M., Salyers M. P. (2006). The illness management and recovery program: Rationale, development, and preliminary findings. Schizophrenia Bulletin, 32(suppl_1), S32–S43. https://doi.org/10.1093/schbul/sbl022",
+        "journal-title": "Schizophrenia Bulletin"
+      },
+      {
+        "key": "e_1_3_4_46_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1207/S15328007SEM0904_8"
+      },
+      {
+        "key": "e_1_3_4_47_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1176/appi.ajp.2012.12071000"
+      },
+      {
+        "key": "e_1_3_4_48_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.apmr.2012.01.002"
+      },
+      {
+        "key": "e_1_3_4_49_1",
+        "unstructured": "R Core Team. (2019). R: A language and environment for statistical computing. R Foundation for Statistical Computing."
+      },
+      {
+        "key": "e_1_3_4_50_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1192/apt.6.6.432"
+      },
+      {
+        "key": "e_1_3_4_51_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/15487760701853326"
+      },
+      {
+        "key": "e_1_3_4_52_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/oemed-2015-103121"
+      },
+      {
+        "key": "e_1_3_4_53_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/00005650-199603000-00003"
+      },
+      {
+        "key": "e_1_3_4_54_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1078390310394844"
+      },
+      {
+        "key": "e_1_3_4_55_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1440-1630.12237"
+      },
+      {
+        "key": "e_1_3_4_56_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1176/ps.62.1.pss6201_0035"
+      }
+    ],
+    "container-title": [
+      "Journal of Vocational Rehabilitation"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/10522263251376530",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/10522263251376530",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/10522263251376530",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          21
+        ]
+      ],
+      "date-time": "2025-10-21T11:41:10Z",
+      "timestamp": 1761046870000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/10.1177/10522263251376530"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          16
+        ]
+      ]
+    },
+    "references-count": 55,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            11
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1177/10522263251376530"
+    ],
+    "URL": "https://doi.org/10.1177/10522263251376530",
+    "relation": {},
+    "ISSN": [
+      "1052-2263",
+      "1878-6316"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "1052-2263"
+      },
+      {
+        "type": "electronic",
+        "value": "1878-6316"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          16
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,44 @@
+FILENAME: pre-ets-reserve-calculator-2025-02-xlsx-720b1fa1254c.xlsx
+PATH: _raw/rsa.ed.gov/pre-ets-reserve-calculator-2025-02-xlsx-720b1fa1254c.xlsx
+
+=== SHEET: Intro ===
+VR Pre-Employment Transition Service Reserve Calculator Tool 										
+Purpose:  This calculator serves as a tool for State VR agencies to calculate the estimated amount of funds required to be reserved by a State for pre-employment transition services, based on non-Federal and Federal fund variables, to plan for and assess the progress of a single State VR agency or a State with two VR agencies toward meeting the reserve requirement.										
+General Instructions: There are two additional spreadsheets in this workbook. The first is for States having one VR agency (Combined). The second is for States with two VR agencies (General and Blind). To utilize the calculators, the following fiscal data is needed: 1) total Federal VR award allotment for one or both VR agencies, depending on State structure; and 2) total non-Federal share provided by one or both VR agencies, depending on State structure. If you have questions about the calculator or how the reservation requirement is calculated, contact the Rehabilitation Services Administration (RSA) Financial Management Specialist assigned to your agency.										
+Acknowledgements: This calculator was developed by RSA in collaboration with staff funded by Cooperative Agreement #H326E20003 (NTACT: C) from the Department of Education. 										
+
+=== SHEET: One VR Agency ===
+Pre-Employment Transition Service Reserve Calculator For Combined State VR Agencies									
+Data Element (A)	Amount (B)	Instructions/Comments (C)							
+Formula Award Amount	0	Enter the Formula Award Amount agency received.							
+Reallotment Funds Relinquished**		Enter amount of Federal funds relinquished during Reallotment - Leave blank if no funds were relinquished.							
+Reallotment Funds Received		Enter amount of Federal funds received during Reallotment - Leave blank if no funds were received.							
+Other Negative Award Adjustments (e.g., MOE reductions and deobligations)**		Enter amount of Federal award reductions or deobligations - Leave blank if no funds were deobligated.							
+Net Award Amount*	Enter Formula Award Amount in B3 for Calculation to Appear	Automatic calculation based on the amounts entered in cells B3-B6.							
+Amount of Match Required Based on Net Award Amount*	Enter Formula Award Amount in B3 for Calculation to Appear	Automatic calculation provides the amount of match required  based on the Net Award Amount.							
+Non-Federal Funds Provided	0	Enter the estimated amount of non-Federal funds spent/obligated at the end of the 4th quarter. Update this amount with actual expenditures periodically and at end of the period of performance.							
+Federal Award Funds Matched*	0	Automatic calculation based on the amount of non-Federal funds provided.							
+Reservation Requirement*	Enter Non-Federal Funds Provided for Reservation Requirement to Appear	Automatic calculation is 15 percent of the Net Award Amount or the Federal Award Funds Matched, whichever is less.							
+*Automatic calculation. Data entry not required.									
+**Do Not Enter a Negative Number.									
+
+=== SHEET: Two VR Agencies ===
+Pre-Employment Transition Service Calculator For Blind/General State VR Agencies								
+Data Element (A)	Blind Agency (B)	General Agency (C) 	State Level Requirement* (D)	Directions/Comments (E) 				
+Formula Award Amount			0	Enter the Formula Award Amount agency received.				
+Reallotment Funds Relinquished**			0	Enter amount of Federal funds relinquished during Reallotment - Leave blank if no funds were relinquished.				
+Reallotment Funds Received			0	Enter amount of Federal funds received during Reallotment - Leave blank if no funds were received.				
+Other Negative Award Adjustments (e.g., MOE reductions and interagency transfers)**			0	Enter amount of Federal award reductions or deobligations - Leave blank if no funds were deobligated.				
+Other Positive Award Adjustments (e.g., inter-agency transfers)			0	Enter amount of positive award adjustments, if any - Leave blank if no funds were received. Note: DO NOT ENTER REALLOTMENT FUNDS RECEIVED THAT WERE ENTERED IN B5 or C5.				
+Net Award Amount***	Enter Formula Award Amount in B3 for Calculation to Appear	Enter Formula Award Amount in C3 for Calculation to Appear	0	Automatic calculation based on the amounts entered in cells B3-B7 and cells C3-C7.				
+Amount of Match Required Based on Net Award Amount***	Enter Formula Award Amount in B3 for Calculation to Appear	Enter Formula Award Amount in C3 for Calculation to Appear	0	Automatic calculation based on the Net Award Amount. The State must meet the requirement, but the individual agency contributions may be more or less than the amount identified as required by each agency.				
+Non-Federal Funds Provided			0	Enter the estimated amount of non-Federal funds spent/obligated at the end of the 4th quarter for the Blind and General agency. Update this amount with actual expenditures periodically and at end of the period of performance.				
+	#VALUE!	#VALUE!	0					
+	0	0	0					
+			0	0				
+Federal Award Funds Matched***	0	0	0	Automatic calculation based on the amount of Non-Federal Funds Provided.				
+Reservation Requirement***	Enter Non-Federal Funds Provided for Reservation Requirement to Appear	Enter Non-Federal Funds Provided for Reservation Requirement to Appear	0	Automatic calculation is 15 percent of the State Total Net Award Amount or the State Total Federal Award Funds Matched, whichever is less. The State must meet the total requirement, but the actual amount contributed by each agency may vary.				
+			0	Additional pre-ets funds required to spend by agency that under-matched				
+*Data entry at the State level is locked, you must enter data for both the Blind and General agencies.								
+**Do not enter a negative number.								
+***Automatic calculation. Data entry not required.

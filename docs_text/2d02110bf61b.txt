@@ -1,0 +1,17 @@
+FILENAME: diabetes-in-the-workplace-a-win-win-approach-to-on-the-job-accommodations-and-jo.txt
+PATH: https://doi.org/10.1177/10522263261430647
+
+TITLE: Diabetes in the Workplace: A Win-Win Approach to on-the-Job Accommodations and Job Retention
+URL: https://doi.org/10.1177/10522263261430647
+DOI: 10.1177/10522263261430647
+JOURNAL: Journal of Vocational Rehabilitation
+PUBLISHED: 2026-03-18
+VOLUME: Unknown
+ISSUE: Unknown
+PAGES: Unknown
+ACCESS: blocked
+SOURCE_NOTE: openalex+crossref
+AUTHORS: Stuart Rumrill; Kaiqi Zhou; Sara Park; Phillip Rumrill
+
+ABSTRACT:
+Background Diabetes affects over 38 million U.S. adults and is linked to higher absenteeism, presenteeism, early retirement, and workplace discrimination. Despite ADA protections and evidence that reasonable accommodations dramatically improve outcomes, workers with diabetes underutilize them, primarily due to stigma, fear of retaliation, and a daunting accommodation request process. Objectives and Methods This article first presents a detailed occupational and demographic profile of diabetes, showing disproportionate impact on racial/ethnic minorities; individuals who are overweight or obese; those in shift-based or physically demanding jobs; and those with mobility limitations, neuropathy, and vision impairment. Results A composite worker, Brendan (a 48-year-old Hispanic warehouse associate), illustrates how these factors intersect to deter disclosure and accommodation requests. The manuscript then introduces the Win-Win Approach—a non-adversarial, seven-step framework—and provides a step-by-step case example contrasting effective versus ineffective communication when Brendan requests private space and refrigeration for insulin administration. Implications and Conclusions By offering replicable strategies, the article equips workers, employers, and rehabilitation professionals to increase accommodation utilization, reduce stigma, and achieve better health and employment outcomes.

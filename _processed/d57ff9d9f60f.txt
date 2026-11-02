@@ -1,0 +1,42 @@
+URL: https://tacqe.com/accessible-website/
+
+Employer Supports for People with Disabilities
+Twitter
+Facebook
+LinkedIn
+Email
+Print
+These days, most job recruiting is done online. It is an easy and fast way for companies to gather the information they need to make hiring decisions. Sometimes, employers overlook a massive talent pool: people with disabilities. That’s why it is important to make sure that recruiting and hiring materials are accessible and usable for all candidates.
+Design Tips
+Usability and accessibility often go hand in hand. Any candidate benefits when hiring documents are structured consistently and are in a logical order.
+If you are including multimedia in the advertisement or recruitment materials, closed captioning or a text version of the audio can help any candidate and is crucial for people with impaired hearing. Also, photos, charts, graphs, and images should be tagged with alt-text so everyone can “see” your message.
+Website Usability
+Whether or not you are advertising for a position, or just using a website to promote your company, you can reach a broader audience by ensuring accessibility.
+There are many free tools online to check your website, so it is available to all.
+WAVE by WebAim
+provides both a URL checker on their website and a browser plug-in to help ensure usability. In addition,
+websites and forms should be tested using a screen reader
+for visually impaired job seekers.
+Forms that Function
+Oftentimes, employers require that candidates fill out an application form. It is important that the form has accurate instructions, that checkboxes, radio selectors, and buttons work correctly.
+Applicants should be able to fill out the form using a keyboard only, and forms should be in logical order if a candidate tabs through it. This form validation option in is a great way to make sure everything works the way it should.
+The Best Test
+Usability testing is an important part of any website or online offering. As mentioned before, there are plenty of tools to check the accessibility mechanics of a site or page; however, having an inclusive design team or test user pool ensures that your application materials are real-world ready.
+Accessible Recuiting (word)
+Website Accessibility Toolbox
+Website Accessibility Evaluation
+Web Form Checker
+Test with a Screen Reader
+User Testing
+Did you find this post useful?
+Click to like!
+Happy Day!
+Yikes!
+Have a suggestion?
+Leave us a comment.
+Leave a Comment
+Cancel reply
+You must be
+logged in
+to post a comment.
+Type and Press “enter” to Search

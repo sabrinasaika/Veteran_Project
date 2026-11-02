@@ -1,0 +1,1826 @@
+{
+  "source_type": "jvr_pdf_candidate",
+  "doi": "10.1177/10522263251356271",
+  "doi_url": "https://doi.org/10.1177/10522263251356271",
+  "source_url": "https://journals.sagepub.com/doi/10.1177/10522263251356271",
+  "attempted_pdf_urls": [
+    "https://journals.sagepub.com/doi/pdf/10.1177/10522263251356271",
+    "https://journals.sagepub.com/doi/10.1177/10522263251356271",
+    "https://doi.org/10.1177/10522263251356271",
+    "https://content.iospress.com/download?id=10.1177/10522263251356271"
+  ],
+  "selected_pdf_url": "",
+  "selected_final_url": "",
+  "download_status": "unavailable",
+  "match": {
+    "veteran_hits": [
+      "va "
+    ],
+    "pathway_hits": [
+      "work",
+      "vocational rehabilitation"
+    ],
+    "disability_hits": []
+  },
+  "openalex": {
+    "id": "https://openalex.org/W4412134271",
+    "doi": "https://doi.org/10.1177/10522263251356271",
+    "title": "Data-Informed Collaboration in Transition Services: A Model for Improving Outcomes",
+    "display_name": "Data-Informed Collaboration in Transition Services: A Model for Improving Outcomes",
+    "publication_year": 2025,
+    "publication_date": "2025-07-09",
+    "ids": {
+      "openalex": "https://openalex.org/W4412134271",
+      "doi": "https://doi.org/10.1177/10522263251356271"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/10522263251356271",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/10522263251356271",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S190353498",
+        "display_name": "Journal of Vocational Rehabilitation",
+        "issn_l": "1052-2263",
+        "issn": [
+          "1052-2263",
+          "1878-6316"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310318577",
+        "host_organization_name": "IOS Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310318577"
+        ],
+        "host_organization_lineage_names": [
+          "IOS Press"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Vocational Rehabilitation",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5001783614",
+          "display_name": "Brian N. Phillips",
+          "orcid": "https://orcid.org/0000-0002-0317-8635"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I121980950",
+            "display_name": "Utah State University",
+            "ror": "https://ror.org/00h6set76",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I121980950"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Brian N Phillips",
+        "raw_affiliation_strings": [
+          "Department of Special Education and Rehabilitation Counseling, Utah State University, Logan, UT, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Special Education and Rehabilitation Counseling, Utah State University, Logan, UT, USA",
+            "institution_ids": [
+              "https://openalex.org/I121980950"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5112317902",
+          "display_name": "Allison R. Fleming",
+          "orcid": "https://orcid.org/0000-0002-8732-8871"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I130769515",
+            "display_name": "Pennsylvania State University",
+            "ror": "https://ror.org/04p491231",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I130769515"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Allison R Fleming",
+        "raw_affiliation_strings": [
+          "Educational Psychology, Counseling, and Special Education, The Pennsylvania State University, University Park, PA, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Educational Psychology, Counseling, and Special Education, The Pennsylvania State University, University Park, PA, USA",
+            "institution_ids": [
+              "https://openalex.org/I130769515"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5082552038",
+          "display_name": "Stephen M. Kwiatek",
+          "orcid": "https://orcid.org/0000-0001-5310-790X"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I121980950",
+            "display_name": "Utah State University",
+            "ror": "https://ror.org/00h6set76",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I121980950"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Stephen M Kwiatek",
+        "raw_affiliation_strings": [
+          "Department of Special Education and Rehabilitation Counseling, Utah State University, Logan, UT, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Special Education and Rehabilitation Counseling, Utah State University, Logan, UT, USA",
+            "institution_ids": [
+              "https://openalex.org/I121980950"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5067929494",
+          "display_name": "Tim Riesen",
+          "orcid": "https://orcid.org/0000-0003-0903-8593"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I121980950",
+            "display_name": "Utah State University",
+            "ror": "https://ror.org/00h6set76",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I121980950"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Tim Riesen",
+        "raw_affiliation_strings": [
+          "Institute for Disability Research, Policy, and Practice, Utah State University, Logan, UT, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Institute for Disability Research, Policy, and Practice, Utah State University, Logan, UT, USA",
+            "institution_ids": [
+              "https://openalex.org/I121980950"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5113156706",
+          "display_name": "Crystal K Emery",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210157304",
+            "display_name": "State Board of Education",
+            "ror": "https://ror.org/04h6dc762",
+            "country_code": "US",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I4210157304"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Crystal K Emery",
+        "raw_affiliation_strings": [
+          "Utah State Board of Education, Salt Lake City, UT, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Utah State Board of Education, Salt Lake City, UT, USA",
+            "institution_ids": [
+              "https://openalex.org/I4210157304"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5093986424",
+          "display_name": "Aimee Langone",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I2801012938",
+            "display_name": "Utah Department of Human Services",
+            "ror": "https://ror.org/03t9z1b27",
+            "country_code": "US",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I2801012938"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Aimee Langone",
+        "raw_affiliation_strings": [
+          "Utah Department of Workforce Services, Salt Lake City, UT, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Utah Department of Workforce Services, Salt Lake City, UT, USA",
+            "institution_ids": [
+              "https://openalex.org/I2801012938"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5001447124",
+          "display_name": "Lavinia Gripentrog",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210157304",
+            "display_name": "State Board of Education",
+            "ror": "https://ror.org/04h6dc762",
+            "country_code": "US",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I4210157304"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Lavinia Gripentrog",
+        "raw_affiliation_strings": [
+          "Utah State Board of Education, Salt Lake City, UT, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Utah State Board of Education, Salt Lake City, UT, USA",
+            "institution_ids": [
+              "https://openalex.org/I4210157304"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5070176806",
+          "display_name": "Marie Garside",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I2800489302",
+            "display_name": "Logan Regional Hospital",
+            "ror": "https://ror.org/01f3dz928",
+            "country_code": "US",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I108785884",
+              "https://openalex.org/I2800489302"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Melissa Garside",
+        "raw_affiliation_strings": [
+          "Cache County School District, North Logan, UT, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Cache County School District, North Logan, UT, USA",
+            "institution_ids": [
+              "https://openalex.org/I2800489302"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5118871054",
+          "display_name": "John Cardis",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I2800489302",
+            "display_name": "Logan Regional Hospital",
+            "ror": "https://ror.org/01f3dz928",
+            "country_code": "US",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I108785884",
+              "https://openalex.org/I2800489302"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "John Cardis",
+        "raw_affiliation_strings": [
+          "Cache County School District, North Logan, UT, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Cache County School District, North Logan, UT, USA",
+            "institution_ids": [
+              "https://openalex.org/I2800489302"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5018435322",
+          "display_name": "Aubrey Snyder",
+          "orcid": "https://orcid.org/0000-0001-7237-3269"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I121980950",
+            "display_name": "Utah State University",
+            "ror": "https://ror.org/00h6set76",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I121980950"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Aubrey Snyder",
+        "raw_affiliation_strings": [
+          "Institute for Disability Research, Policy, and Practice, Utah State University, Logan, UT, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Institute for Disability Research, Policy, and Practice, Utah State University, Logan, UT, USA",
+            "institution_ids": [
+              "https://openalex.org/I121980950"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5109932404",
+          "display_name": "Deanna L. Taylor",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210157304",
+            "display_name": "State Board of Education",
+            "ror": "https://ror.org/04h6dc762",
+            "country_code": "US",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I4210157304"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Deanna L Taylor",
+        "raw_affiliation_strings": [
+          "Utah State Board of Education, Salt Lake City, UT, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Utah State Board of Education, Salt Lake City, UT, USA",
+            "institution_ids": [
+              "https://openalex.org/I4210157304"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5005545415",
+          "display_name": "Melanie Allen",
+          "orcid": "https://orcid.org/0000-0002-5430-8188"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210166477",
+            "display_name": "Farmington Community Library",
+            "ror": "https://ror.org/03dxajm77",
+            "country_code": "US",
+            "type": "archive",
+            "lineage": [
+              "https://openalex.org/I4210166477"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Melanie Allen",
+        "raw_affiliation_strings": [
+          "Davis School District, Farmington, UT, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Davis School District, Farmington, UT, USA",
+            "institution_ids": [
+              "https://openalex.org/I4210166477"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5118871053",
+          "display_name": "Elise Harward",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I2801012938",
+            "display_name": "Utah Department of Human Services",
+            "ror": "https://ror.org/03t9z1b27",
+            "country_code": "US",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I2801012938"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Elise Harward",
+        "raw_affiliation_strings": [
+          "Utah Department of Workforce Services, Salt Lake City, UT, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Utah Department of Workforce Services, Salt Lake City, UT, USA",
+            "institution_ids": [
+              "https://openalex.org/I2801012938"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 13,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5001783614"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I121980950"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 2.3123,
+    "has_fulltext": false,
+    "cited_by_count": 1,
+    "citation_normalized_percentile": {
+      "value": 0.87518907,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": {
+      "min": 96,
+      "max": 99
+    },
+    "biblio": {
+      "volume": "63",
+      "issue": "2",
+      "first_page": "160",
+      "last_page": "170"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11632",
+      "display_name": "Family and Disability Support Research",
+      "score": 0.9904000163078308,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3203",
+        "display_name": "Clinical Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11632",
+        "display_name": "Family and Disability Support Research",
+        "score": 0.9904000163078308,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3203",
+          "display_name": "Clinical Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11514",
+        "display_name": "Disability Education and Employment",
+        "score": 0.9721999764442444,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3311",
+          "display_name": "Safety Research"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11015",
+        "display_name": "Down syndrome and intellectual disability research",
+        "score": 0.9684000015258789,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2739",
+          "display_name": "Public Health, Environmental and Occupational Health"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/transition",
+        "display_name": "Transition (genetics)",
+        "score": 0.4653625786304474
+      },
+      {
+        "id": "https://openalex.org/keywords/psychology",
+        "display_name": "Psychology",
+        "score": 0.39241552352905273
+      },
+      {
+        "id": "https://openalex.org/keywords/knowledge-management",
+        "display_name": "Knowledge management",
+        "score": 0.3511815667152405
+      },
+      {
+        "id": "https://openalex.org/keywords/process-management",
+        "display_name": "Process management",
+        "score": 0.3417435884475708
+      },
+      {
+        "id": "https://openalex.org/keywords/computer-science",
+        "display_name": "Computer science",
+        "score": 0.33123719692230225
+      },
+      {
+        "id": "https://openalex.org/keywords/business",
+        "display_name": "Business",
+        "score": 0.2943672835826874
+      },
+      {
+        "id": "https://openalex.org/keywords/chemistry",
+        "display_name": "Chemistry",
+        "score": 0.09461206197738647
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C194232998",
+        "wikidata": "https://www.wikidata.org/wiki/Q1606712",
+        "display_name": "Transition (genetics)",
+        "level": 3,
+        "score": 0.4653625786304474
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.39241552352905273
+      },
+      {
+        "id": "https://openalex.org/C56739046",
+        "wikidata": "https://www.wikidata.org/wiki/Q192060",
+        "display_name": "Knowledge management",
+        "level": 1,
+        "score": 0.3511815667152405
+      },
+      {
+        "id": "https://openalex.org/C195094911",
+        "wikidata": "https://www.wikidata.org/wiki/Q14167904",
+        "display_name": "Process management",
+        "level": 1,
+        "score": 0.3417435884475708
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.33123719692230225
+      },
+      {
+        "id": "https://openalex.org/C144133560",
+        "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+        "display_name": "Business",
+        "level": 0,
+        "score": 0.2943672835826874
+      },
+      {
+        "id": "https://openalex.org/C185592680",
+        "wikidata": "https://www.wikidata.org/wiki/Q2329",
+        "display_name": "Chemistry",
+        "level": 0,
+        "score": 0.09461206197738647
+      },
+      {
+        "id": "https://openalex.org/C55493867",
+        "wikidata": "https://www.wikidata.org/wiki/Q7094",
+        "display_name": "Biochemistry",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C104317684",
+        "wikidata": "https://www.wikidata.org/wiki/Q7187",
+        "display_name": "Gene",
+        "level": 2,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1177/10522263251356271",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1177/10522263251356271",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S190353498",
+          "display_name": "Journal of Vocational Rehabilitation",
+          "issn_l": "1052-2263",
+          "issn": [
+            "1052-2263",
+            "1878-6316"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310318577",
+          "host_organization_name": "IOS Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310318577"
+          ],
+          "host_organization_lineage_names": [
+            "IOS Press"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Vocational Rehabilitation",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [],
+    "awards": [
+      {
+        "id": "https://openalex.org/G6556782790",
+        "display_name": null,
+        "funder_award_id": "H421E230017",
+        "funder_id": "https://openalex.org/F4320332219",
+        "funder_display_name": "Office of Special Education and Rehabilitative Services"
+      }
+    ],
+    "funders": [
+      {
+        "id": "https://openalex.org/F4320332219",
+        "display_name": "Office of Special Education and Rehabilitative Services",
+        "ror": "https://ror.org/031s4pb13"
+      }
+    ],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "content_urls": null,
+    "referenced_works_count": 29,
+    "referenced_works": [
+      "https://openalex.org/W1163098267",
+      "https://openalex.org/W1964918584",
+      "https://openalex.org/W2340814413",
+      "https://openalex.org/W2768177155",
+      "https://openalex.org/W2939613111",
+      "https://openalex.org/W2951893557",
+      "https://openalex.org/W2963317741",
+      "https://openalex.org/W2996564835",
+      "https://openalex.org/W3031950636",
+      "https://openalex.org/W3038634424",
+      "https://openalex.org/W3041391437",
+      "https://openalex.org/W3042565492",
+      "https://openalex.org/W3044666538",
+      "https://openalex.org/W3045708478",
+      "https://openalex.org/W3091926189",
+      "https://openalex.org/W3118905087",
+      "https://openalex.org/W3184909368",
+      "https://openalex.org/W3185904454",
+      "https://openalex.org/W3216542877",
+      "https://openalex.org/W4213350940",
+      "https://openalex.org/W4296857924",
+      "https://openalex.org/W4308730848",
+      "https://openalex.org/W4321499464",
+      "https://openalex.org/W4379114486",
+      "https://openalex.org/W4391540280",
+      "https://openalex.org/W4392096723",
+      "https://openalex.org/W4392123042",
+      "https://openalex.org/W4392473966",
+      "https://openalex.org/W6987402921"
+    ],
+    "related_works": [
+      "https://openalex.org/W4391375266",
+      "https://openalex.org/W2899084033",
+      "https://openalex.org/W2748952813",
+      "https://openalex.org/W2390279801",
+      "https://openalex.org/W4391913857",
+      "https://openalex.org/W2358668433",
+      "https://openalex.org/W4396701345",
+      "https://openalex.org/W2376932109",
+      "https://openalex.org/W2001405890",
+      "https://openalex.org/W4396696052"
+    ],
+    "abstract_inverted_index": {
+      "Background": [
+        0
+      ],
+      "The": [
+        1
+      ],
+      "importance": [
+        2
+      ],
+      "and": [
+        3,
+        49,
+        76,
+        103,
+        106,
+        122,
+        133,
+        141,
+        157
+      ],
+      "necessity": [
+        4
+      ],
+      "of": [
+        5,
+        29,
+        35,
+        70,
+        86,
+        110,
+        120
+      ],
+      "effective": [
+        6,
+        17
+      ],
+      "collaboration": [
+        7,
+        18,
+        59,
+        72,
+        153
+      ],
+      "in": [
+        8,
+        23,
+        147
+      ],
+      "transition": [
+        9,
+        74,
+        87,
+        101,
+        111,
+        127,
+        148,
+        164
+      ],
+      "services": [
+        10,
+        128
+      ],
+      "is": [
+        11,
+        60,
+        81
+      ],
+      "undisputed.": [
+        12
+      ],
+      "However,": [
+        13
+      ],
+      "systemic": [
+        14
+      ],
+      "barriers": [
+        15
+      ],
+      "to": [
+        16,
+        26,
+        57,
+        99,
+        104,
+        160,
+        163
+      ],
+      "persist": [
+        19
+      ],
+      "among": [
+        20
+      ],
+      "intended": [
+        21
+      ],
+      "partners": [
+        22
+      ],
+      "school-to-work": [
+        24
+      ],
+      "transition,": [
+        25
+      ],
+      "the": [
+        27,
+        33,
+        108,
+        139
+      ],
+      "detriment": [
+        28
+      ],
+      "student": [
+        30
+      ],
+      "outcomes.": [
+        31
+      ],
+      "Within": [
+        32
+      ],
+      "context": [
+        34
+      ],
+      "continual": [
+        36
+      ],
+      "strains": [
+        37
+      ],
+      "on": [
+        38,
+        83
+      ],
+      "Local": [
+        39
+      ],
+      "Educational": [
+        40
+      ],
+      "Agencies,": [
+        41,
+        45
+      ],
+      "State": [
+        42
+      ],
+      "Vocational": [
+        43
+      ],
+      "Rehabilitation": [
+        44,
+        47
+      ],
+      "Community": [
+        46
+      ],
+      "Providers,": [
+        48
+      ],
+      "Centers": [
+        50
+      ],
+      "for": [
+        51,
+        73,
+        91,
+        144
+      ],
+      "Independent": [
+        52
+      ],
+      "Living,": [
+        53
+      ],
+      "a": [
+        54,
+        68,
+        84,
+        117,
+        155
+      ],
+      "novel": [
+        55
+      ],
+      "approach": [
+        56
+      ],
+      "meaningful": [
+        58
+      ],
+      "necessary.": [
+        61
+      ],
+      "Objective": [
+        62
+      ],
+      "In": [
+        63
+      ],
+      "this": [
+        64
+      ],
+      "paper,": [
+        65
+      ],
+      "we": [
+        66
+      ],
+      "introduce": [
+        67
+      ],
+      "model": [
+        69,
+        80,
+        140
+      ],
+      "data-informed": [
+        71
+      ],
+      "planning": [
+        75,
+        102,
+        132
+      ],
+      "services.": [
+        77,
+        112
+      ],
+      "Methods": [
+        78
+      ],
+      "This": [
+        79
+      ],
+      "centered": [
+        82
+      ],
+      "set": [
+        85
+      ],
+      "assessments": [
+        88
+      ],
+      "(i.e.,": [
+        89
+      ],
+      "tools": [
+        90
+      ],
+      "measuring": [
+        92
+      ],
+      "change": [
+        93
+      ],
+      "over": [
+        94
+      ],
+      "time)": [
+        95
+      ],
+      "that": [
+        96,
+        129
+      ],
+      "were": [
+        97
+      ],
+      "created": [
+        98
+      ],
+      "support": [
+        100,
+        130
+      ],
+      "evaluate": [
+        105
+      ],
+      "increase": [
+        107
+      ],
+      "effectiveness": [
+        109
+      ],
+      "These": [
+        113
+      ],
+      "measures": [
+        114
+      ],
+      "serve": [
+        115
+      ],
+      "as": [
+        116
+      ],
+      "shared": [
+        118,
+        131
+      ],
+      "benchmark": [
+        119
+      ],
+      "knowledge": [
+        121
+      ],
+      "skills": [
+        123
+      ],
+      "associated": [
+        124
+      ],
+      "with": [
+        125
+      ],
+      "essential": [
+        126
+      ],
+      "service": [
+        134,
+        149
+      ],
+      "delivery.": [
+        135,
+        150
+      ],
+      "Results": [
+        136
+      ],
+      "We": [
+        137
+      ],
+      "outline": [
+        138
+      ],
+      "discuss": [
+        142
+      ],
+      "implications": [
+        143
+      ],
+      "current": [
+        145
+      ],
+      "practice": [
+        146
+      ],
+      "Conclusion": [
+        151
+      ],
+      "Data-informed": [
+        152
+      ],
+      "provides": [
+        154
+      ],
+      "new": [
+        156
+      ],
+      "hopeful": [
+        158
+      ],
+      "solution": [
+        159
+      ],
+      "persistent": [
+        161
+      ],
+      "challenges": [
+        162
+      ],
+      "collaboration.": [
+        165
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2026-03-27T05:58:40.876381",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  "crossref": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          11
+        ]
+      ],
+      "date-time": "2026-02-11T13:10:13Z",
+      "timestamp": 1770815413688,
+      "version": "3.50.1"
+    },
+    "reference-count": 41,
+    "publisher": "SAGE Publications",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              9
+            ]
+          ],
+          "date-time": "2025-07-09T00:00:00Z",
+          "timestamp": 1752019200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100005253",
+        "name": "Office of Special Education and Rehabilitative Services",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "H421E230017"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "H421E230017"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100005253",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.sagepub.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Journal of Vocational Rehabilitation"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          9
+        ]
+      ]
+    },
+    "abstract": "<jats:sec>\n            <jats:title>Background</jats:title>\n            <jats:p>The importance and necessity of effective collaboration in transition services is undisputed. However, systemic barriers to effective collaboration persist among intended partners in school-to-work transition, to the detriment of student outcomes. Within the context of continual strains on Local Educational Agencies, State Vocational Rehabilitation Agencies, Community Rehabilitation Providers, and Centers for Independent Living, a novel approach to meaningful collaboration is necessary.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Objective</jats:title>\n            <jats:p>In this paper, we introduce a model of data-informed collaboration for transition planning and services.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Methods</jats:title>\n            <jats:p>This model is centered on a set of transition assessments (i.e., tools for measuring change over time) that were created to support transition planning and to evaluate and increase the effectiveness of transition services. These measures serve as a shared benchmark of knowledge and skills associated with essential transition services that support shared planning and service delivery.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Results</jats:title>\n            <jats:p>We outline the model and discuss implications for current practice in transition service delivery.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Conclusion</jats:title>\n            <jats:p>Data-informed collaboration provides a new and hopeful solution to persistent challenges to transition collaboration.</jats:p>\n          </jats:sec>",
+    "DOI": "10.1177/10522263251356271",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          9
+        ]
+      ],
+      "date-time": "2025-07-09T12:21:53Z",
+      "timestamp": 1752063713000
+    },
+    "page": "160-170",
+    "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Data-Informed Collaboration in Transition Services: A Model for Improving Outcomes"
+    ],
+    "prefix": "10.1177",
+    "volume": "63",
+    "author": [
+      {
+        "given": "Brian N",
+        "family": "Phillips",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Special Education and Rehabilitation Counseling, Utah State University, Logan, UT, USA"
+          }
+        ]
+      },
+      {
+        "given": "Allison R",
+        "family": "Fleming",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Educational Psychology, Counseling, and Special Education, The Pennsylvania State University, University Park, PA, USA"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5310-790X",
+        "authenticated-orcid": false,
+        "given": "Stephen M",
+        "family": "Kwiatek",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Special Education and Rehabilitation Counseling, Utah State University, Logan, UT, USA"
+          }
+        ]
+      },
+      {
+        "given": "Tim",
+        "family": "Riesen",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Institute for Disability Research, Policy, and Practice, Utah State University, Logan, UT, USA"
+          }
+        ]
+      },
+      {
+        "given": "Crystal K",
+        "family": "Emery",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Utah State Board of Education, Salt Lake City, UT, USA"
+          }
+        ]
+      },
+      {
+        "given": "Aimee",
+        "family": "Langone",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Utah Department of Workforce Services, Salt Lake City, UT, USA"
+          }
+        ]
+      },
+      {
+        "given": "Lavinia",
+        "family": "Gripentrog",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Utah State Board of Education, Salt Lake City, UT, USA"
+          }
+        ]
+      },
+      {
+        "given": "Melissa",
+        "family": "Garside",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Cache County School District, North Logan, UT, USA"
+          }
+        ]
+      },
+      {
+        "given": "John",
+        "family": "Cardis",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Cache County School District, North Logan, UT, USA"
+          }
+        ]
+      },
+      {
+        "given": "Aubrey",
+        "family": "Snyder",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Institute for Disability Research, Policy, and Practice, Utah State University, Logan, UT, USA"
+          }
+        ]
+      },
+      {
+        "given": "Deanna L",
+        "family": "Taylor",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Utah State Board of Education, Salt Lake City, UT, USA"
+          }
+        ]
+      },
+      {
+        "given": "Melanie",
+        "family": "Allen",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Davis School District, Farmington, UT, USA"
+          }
+        ]
+      },
+      {
+        "given": "Elise",
+        "family": "Harward",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Utah Department of Workforce Services, Salt Lake City, UT, USA"
+          }
+        ]
+      }
+    ],
+    "member": "179",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          9
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_3_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-201097"
+      },
+      {
+        "key": "e_1_3_3_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3102/0034654319862495"
+      },
+      {
+        "key": "e_1_3_3_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-211154"
+      },
+      {
+        "key": "e_1_3_3_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/10534512211032631"
+      },
+      {
+        "key": "e_1_3_3_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/2165143420938663"
+      },
+      {
+        "key": "e_1_3_3_7_1",
+        "article-title": "Teacher turnover: Why it matters and what we can do about it",
+        "author": "Carver-Thomas D.",
+        "year": "2017",
+        "unstructured": "Carver-Thomas D., Darling-Hammond L. (2017). Teacher turnover: Why it matters and what we can do about it. Learning Policy Institute, (36), 1–48. https://doi.org/10.54300/454.278",
+        "journal-title": "Learning Policy Institute"
+      },
+      {
+        "key": "e_1_3_3_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.14507/epaa.27.3699"
+      },
+      {
+        "key": "e_1_3_3_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09362835.2019.1625777"
+      },
+      {
+        "key": "e_1_3_3_10_1",
+        "volume-title": "The 2023 youth transition report: Outcomes for youth and young adults with disabilities",
+        "author": "Cheng L.",
+        "year": "2023",
+        "unstructured": "Cheng L., Richardson K. (2023). The 2023 youth transition report: Outcomes for youth and young adults with disabilities. Institute for Educational Leadership."
+      },
+      {
+        "key": "e_1_3_3_11_1",
+        "unstructured": "Every Student Succeeds Act of 2015 20 U.S.C. § 6301 et seq. (2015)."
+      },
+      {
+        "key": "e_1_3_3_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-240006"
+      },
+      {
+        "issue": "4",
+        "key": "e_1_3_3_13_1",
+        "first-page": "269",
+        "article-title": "National CIL administrative review: Status and disposition",
+        "volume": "29",
+        "author": "Flowers C. R.",
+        "year": "2005",
+        "unstructured": "Flowers C. R., Forbes W. S., Riggar T. F., Crimando W. (2005). National CIL administrative review: Status and disposition. Journal of Rehabilitation Administration, 29(4), 269–279.",
+        "journal-title": "Journal of Rehabilitation Administration"
+      },
+      {
+        "key": "e_1_3_3_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-201123"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_3_3_15_1",
+        "first-page": "32",
+        "article-title": "Predictors of intent to leave current employment among rehabilitation counselors",
+        "volume": "86",
+        "author": "Herbert J. T.",
+        "year": "2020",
+        "unstructured": "Herbert J. T., Zhai Y., Coduti W. A. (2020). Predictors of intent to leave current employment among rehabilitation counselors. Journal of Rehabilitation, 86(1), 32–40.",
+        "journal-title": "Journal of Rehabilitation"
+      },
+      {
+        "key": "e_1_3_3_16_1",
+        "unstructured": "Individuals with Disabilities Education Improvement Act of 2004 20 U.S.C. § 1400 et seq. (2004)."
+      },
+      {
+        "key": "e_1_3_3_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4324/9780429198342-3"
+      },
+      {
+        "key": "e_1_3_3_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/088572889301600201"
+      },
+      {
+        "key": "e_1_3_3_19_1",
+        "article-title": "Pivotal legislation supporting college and career readiness for students with disabilities",
+        "volume": "36",
+        "author": "Kwiatek S. M.",
+        "year": "2024",
+        "unstructured": "Kwiatek S. M., Mazzotti V. L., Wood C. L. (2024). Pivotal legislation supporting college and career readiness for students with disabilities. Journal of Disability Policy Studies, 36(1), 3–15. https://doi.org/10.1177/10442073241227820",
+        "journal-title": "Journal of Disability Policy Studies"
+      },
+      {
+        "key": "e_1_3_3_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/00343552231155215"
+      },
+      {
+        "key": "e_1_3_3_21_1",
+        "unstructured": "Luecking R. Yi R. P. (2024). A framework to increase competitive integrated employment through state policy. Report Provided by the National Expansion of Employment Opportunities Network.https://www.dol.gov/agencies/odep/initiatives/neon"
+      },
+      {
+        "key": "e_1_3_3_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-211170"
+      },
+      {
+        "key": "e_1_3_3_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/2165143420959793"
+      },
+      {
+        "key": "e_1_3_3_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.52017/001c.38444"
+      },
+      {
+        "key": "e_1_3_3_25_1",
+        "volume-title": "State vocational rehabilitation agencies’ early implementation experiences with pre-employment transition services",
+        "author": "Miller R.",
+        "year": "2018",
+        "unstructured": "Miller R., Sevak P., Honeycutt T. (2018). State vocational rehabilitation agencies’ early implementation experiences with pre-employment transition services. Rehabilitation Research and Training Center on VR Practices and Youth."
+      },
+      {
+        "key": "e_1_3_3_26_1",
+        "volume-title": "Promoting successful transition to adulthood for students with disabilities",
+        "author": "Morgan R. L.",
+        "year": "2016",
+        "unstructured": "Morgan R. L., Riesen T. (2016). Promoting successful transition to adulthood for students with disabilities. Guilford Press."
+      },
+      {
+        "key": "e_1_3_3_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/2165143415589926"
+      },
+      {
+        "key": "e_1_3_3_28_1",
+        "unstructured": "National Council on Disability. (2017). Pre-Employment Transition Services Implementation By VR Agencies And The Rehabilitation Services Administration: The First 2.5 Years. Retrieved from: https://ncd.gov/sites/default/files/FINAL_WIOA%20PETS%20Implementation%20Memorandum%20Report.pdf"
+      },
+      {
+        "key": "e_1_3_3_29_1",
+        "unstructured": "National Science and Technology Council. (2025). Federal evidence agenda on disability. https://www.whitehouse.gov/wp-content/uploads/2025/01/Federal-Evidence-Agenda-on-Disability.pdf"
+      },
+      {
+        "key": "e_1_3_3_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1044207320943544"
+      },
+      {
+        "issue": "2",
+        "key": "e_1_3_3_31_1",
+        "first-page": "3",
+        "article-title": "Research and practical considerations for rehabilitation transition collaboration",
+        "volume": "81",
+        "author": "Oertle K. M.",
+        "year": "2015",
+        "unstructured": "Oertle K. M., Seader K. J. (2015). Research and practical considerations for rehabilitation transition collaboration. Journal of Rehabilitation, 81(2), 3–18.",
+        "journal-title": "Journal of Rehabilitation"
+      },
+      {
+        "key": "e_1_3_3_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1044207317739407"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_3_3_33_1",
+        "article-title": "Transition readiness toolkit: A collaborative effort to improve the efficacy of Pre-Employment Transition services",
+        "volume": "43",
+        "author": "Phillips B. N.",
+        "year": "2022",
+        "unstructured": "Phillips B. N., Fleming A. R., Langone A., Baldwin M., Thompson A., Riesen T. (2022). Transition readiness toolkit: A collaborative effort to improve the efficacy of Pre-Employment Transition services. Journal of Rehabilitation Counseling Research and Practice, 43(1), 73–86.",
+        "journal-title": "Journal of Rehabilitation Counseling Research and Practice"
+      },
+      {
+        "key": "e_1_3_3_34_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/10442073221131284"
+      },
+      {
+        "key": "e_1_3_3_35_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/1034912X.2020.1779915"
+      },
+      {
+        "key": "e_1_3_3_36_1",
+        "volume-title": "State Vocational Rehabilitation Services and State Supported Employment Services Programs Monitoring and Technical Assistance Guide",
+        "author": "Rehabilitation Services Administration",
+        "year": "2024",
+        "unstructured": "Rehabilitation Services Administration. (2024). State Vocational Rehabilitation Services and State Supported Employment Services Programs Monitoring and Technical Assistance Guide. Author. Retrieved from https://rsa.ed.gov/about/programs/vocational-rehabilitation-state-grants/monitoring-of-vocational-rehabilitation-program"
+      },
+      {
+        "key": "e_1_3_3_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-221182"
+      },
+      {
+        "key": "e_1_3_3_38_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-240002"
+      },
+      {
+        "key": "e_1_3_3_39_1",
+        "unstructured": "U.S. Department of Education. (2025). Coordinating transition services and postsecondary access: Guidance on requirements under the IDEA and the Rehabilitation Act. https://sites.ed.gov/idea/files/Guidance-Coordinating-Transition-Services-and-Postsecondary-Access-01-16-2025.pdf"
+      },
+      {
+        "key": "e_1_3_3_40_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-240011"
+      },
+      {
+        "key": "e_1_3_3_41_1",
+        "unstructured": "Workforce Innovation and Opportunity Act of 2014 29 U.S.C. § 3101 et seq. (2014)."
+      },
+      {
+        "key": "e_1_3_3_42_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1352/2326-6988-11.2.135"
+      }
+    ],
+    "container-title": [
+      "Journal of Vocational Rehabilitation"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/10522263251356271",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/10522263251356271",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/10522263251356271",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          30
+        ]
+      ],
+      "date-time": "2025-09-30T09:09:53Z",
+      "timestamp": 1759223393000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/10.1177/10522263251356271"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          9
+        ]
+      ]
+    },
+    "references-count": 41,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            9
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1177/10522263251356271"
+    ],
+    "URL": "https://doi.org/10.1177/10522263251356271",
+    "relation": {},
+    "ISSN": [
+      "1052-2263",
+      "1878-6316"
+    ],
+    "issn-type": [
+      {
+        "value": "1052-2263",
+        "type": "print"
+      },
+      {
+        "value": "1878-6316",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          9
+        ]
+      ]
+    }
+  }
+}

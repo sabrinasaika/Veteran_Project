@@ -1,0 +1,20 @@
+FILENAME: how-20to-20report-20rsa-911-0-docx-5bf9055e0250.docx
+PATH: _raw/rsa.ed.gov/how-20to-20report-20rsa-911-0-docx-5bf9055e0250.docx
+
+How to Report RSA-911 Data in RSAMIS
+Unlike other data collections, the RSAMIS collects RSA-911 quarterly reports via CSV file upload in accordance with PD-19-03 and the Edit Checks.
+Once you have established permissions to report RSA-911 data, log-in to your RSAMIS account at rsa.ed.gov and follow these steps:
+Scroll down to the menu at the bottom of the page. Under the column labeled “DATA,” select “Report Data.”
+This will take you to the “Warning” page. After reading the warning, select “Report Data.”
+This will take you to a page listing your Grantee name that includes the RSA-911 if you have permission to report these data. If you have permissions to use other data collection forms (e.g., RSA-692), you will also see those listed on this page.
+Select the hyperlink labeled “RSA-911.”
+This will bring you to the RSA-911 data collection page, which includes details about the OMB-approved information collection.
+To submit the PY 2019 Q4 report, for example, select “RSA-911 through June 30, 2020.” PY 2019 Q4 begins April 1, 2020 and ends June 30, 2020.
+This will bring you to the page where you will upload the RSA-911 file in CSV format. The name of your organization will be prepopulated under “Submitting Organization.”
+Under “File to Upload,” select the CSV file from your computer to upload.
+Once you have selected the CSV file, you have the option to select the button labeled, “Ignore the first row of this file - it's a header row.” Use this only if it applies to your CSV file. At this point, the status will read, “Not uploaded.”
+Select “Upload.”
+The upload will take several minutes. For larger files, this process will take longer. Please do not navigate away from this page. A small stopwatch will spin next to the “Upload” button to show that the file is uploading. During this time, the RSA-911 file is being checked for errors in the Edit Checks.
+If the RSA-911 file passes the Edit Checks, you will have successfully submitted the report and the status will read as, “Completed.” You will also receive an email confirming submission.
+If the RSA-911 file generates errors from the Edit Checks, you will be able to view the errors on the RSA website. You will receive an email listing the errors.
+Once you have corrected the errors and you have a new CSV file, repeat the file upload steps until you are able to successfully submit the CSV file without errors.

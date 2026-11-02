@@ -1,0 +1,1678 @@
+{
+  "source_type": "jvr_pdf_candidate",
+  "doi": "10.1177/10522263251394328",
+  "doi_url": "https://doi.org/10.1177/10522263251394328",
+  "source_url": "https://journals.sagepub.com/doi/10.1177/10522263251394328",
+  "attempted_pdf_urls": [
+    "https://journals.sagepub.com/doi/pdf/10.1177/10522263251394328",
+    "https://journals.sagepub.com/doi/10.1177/10522263251394328",
+    "https://doi.org/10.1177/10522263251394328",
+    "https://content.iospress.com/download?id=10.1177/10522263251394328"
+  ],
+  "selected_pdf_url": "",
+  "selected_final_url": "",
+  "download_status": "unavailable",
+  "match": {
+    "veteran_hits": [
+      "veterans",
+      "service-connected",
+      "va "
+    ],
+    "pathway_hits": [
+      "employment",
+      "employed",
+      "workforce",
+      "employment outcome",
+      "employment outcomes",
+      "vocational rehabilitation"
+    ],
+    "disability_hits": [
+      "disability",
+      "disabilities"
+    ]
+  },
+  "openalex": {
+    "id": "https://openalex.org/W4415878613",
+    "doi": "https://doi.org/10.1177/10522263251394328",
+    "title": "Disability Status, Employment, and Access to Vocational Rehabilitation Services Among Rural Veterans with Physical and Mental Health Conditions",
+    "display_name": "Disability Status, Employment, and Access to Vocational Rehabilitation Services Among Rural Veterans with Physical and Mental Health Conditions",
+    "publication_year": 2025,
+    "publication_date": "2025-11-04",
+    "ids": {
+      "openalex": "https://openalex.org/W4415878613",
+      "doi": "https://doi.org/10.1177/10522263251394328"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/10522263251394328",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1177/10522263251394328",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S190353498",
+        "display_name": "Journal of Vocational Rehabilitation",
+        "issn_l": "1052-2263",
+        "issn": [
+          "1052-2263",
+          "1878-6316"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310318577",
+        "host_organization_name": "IOS Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310318577"
+        ],
+        "host_organization_lineage_names": [
+          "IOS Press"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Vocational Rehabilitation",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://doi.org/10.1177/10522263251394328",
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5050247428",
+          "display_name": "Emre Umucu",
+          "orcid": "https://orcid.org/0000-0002-3945-6975"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I164936912",
+            "display_name": "The University of Texas at El Paso",
+            "ror": "https://ror.org/04d5vba33",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I164936912"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Emre Umucu",
+        "raw_affiliation_strings": [
+          "South Texas VA Medical Center, San Antonio, TX, USA",
+          "The University of Texas at El Paso",
+          "Public Health Sciences, College of Health Sciences, The University of Texas at El Paso, El Paso, TX, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "South Texas VA Medical Center, San Antonio, TX, USA",
+            "institution_ids": []
+          },
+          {
+            "raw_affiliation_string": "The University of Texas at El Paso",
+            "institution_ids": [
+              "https://openalex.org/I164936912"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Public Health Sciences, College of Health Sciences, The University of Texas at El Paso, El Paso, TX, USA",
+            "institution_ids": []
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5019773572",
+          "display_name": "Teresa Granger",
+          "orcid": "https://orcid.org/0000-0002-3461-0339"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210136006",
+            "display_name": "Tuscaloosa VA Medical Center",
+            "ror": "https://ror.org/040e0d212",
+            "country_code": "US",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I1322918889",
+              "https://openalex.org/I2799886695",
+              "https://openalex.org/I4210131075",
+              "https://openalex.org/I4210136006"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I17301866",
+            "display_name": "University of Alabama",
+            "ror": "https://ror.org/03xrrjk67",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I17301866"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Teresa Ann Granger",
+        "raw_affiliation_strings": [
+          "Tuscaloosa VA Medical Center, Research &amp; Development, Tuscaloosa, AL, USA",
+          "University of Alabama",
+          "Department of Educational Studies in Psychology, Research Methodology, and Counseling, University of Alabama, Tuscaloosa, AL, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Tuscaloosa VA Medical Center, Research &amp; Development, Tuscaloosa, AL, USA",
+            "institution_ids": [
+              "https://openalex.org/I4210136006"
+            ]
+          },
+          {
+            "raw_affiliation_string": "University of Alabama",
+            "institution_ids": [
+              "https://openalex.org/I17301866"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Educational Studies in Psychology, Research Methodology, and Counseling, University of Alabama, Tuscaloosa, AL, USA",
+            "institution_ids": [
+              "https://openalex.org/I17301866"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5068140387",
+          "display_name": "Andrew Vernon",
+          "orcid": "https://orcid.org/0000-0003-1105-8534"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I164936912",
+            "display_name": "The University of Texas at El Paso",
+            "ror": "https://ror.org/04d5vba33",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I164936912"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Andrew Vernon",
+        "raw_affiliation_strings": [
+          "The University of Texas at El Paso",
+          "Interdisciplinary Health Science, College of Health Sciences, The University of Texas at El Paso, El Paso, TX, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "The University of Texas at El Paso",
+            "institution_ids": [
+              "https://openalex.org/I164936912"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Interdisciplinary Health Science, College of Health Sciences, The University of Texas at El Paso, El Paso, TX, USA",
+            "institution_ids": []
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5054041863",
+          "display_name": "Jim Yates",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210119894",
+            "display_name": "Research Center for Rural Economy",
+            "ror": "https://ror.org/02bakwe76",
+            "country_code": "CN",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I4210119894",
+              "https://openalex.org/I4210127390",
+              "https://openalex.org/I4210151987"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Jim Yates",
+        "raw_affiliation_strings": [
+          "Michigan Center for Rural Health",
+          "Michigan Center for Rural Health, East Lansing, MI, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Michigan Center for Rural Health",
+            "institution_ids": [
+              "https://openalex.org/I4210119894"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Michigan Center for Rural Health, East Lansing, MI, USA",
+            "institution_ids": []
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5114492604",
+          "display_name": "John Barnas",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210119894",
+            "display_name": "Research Center for Rural Economy",
+            "ror": "https://ror.org/02bakwe76",
+            "country_code": "CN",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I4210119894",
+              "https://openalex.org/I4210127390",
+              "https://openalex.org/I4210151987"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "John Barnas",
+        "raw_affiliation_strings": [
+          "Michigan Center for Rural Health",
+          "Michigan Center for Rural Health, East Lansing, MI, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Michigan Center for Rural Health",
+            "institution_ids": [
+              "https://openalex.org/I4210119894"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Michigan Center for Rural Health, East Lansing, MI, USA",
+            "institution_ids": []
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5066191705",
+          "display_name": "Beatrice Lee",
+          "orcid": "https://orcid.org/0000-0002-6438-7377"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I164936912",
+            "display_name": "The University of Texas at El Paso",
+            "ror": "https://ror.org/04d5vba33",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I164936912"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Beatrice Lee",
+        "raw_affiliation_strings": [
+          "The University of Texas at El Paso",
+          "Rehabilitation Sciences, College of Health Sciences, The University of Texas at El Paso, El Paso, TX, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "The University of Texas at El Paso",
+            "institution_ids": [
+              "https://openalex.org/I164936912"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Rehabilitation Sciences, College of Health Sciences, The University of Texas at El Paso, El Paso, TX, USA",
+            "institution_ids": []
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 2,
+    "institutions_distinct_count": 6,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5050247428"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I164936912"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 2.6967,
+    "has_fulltext": false,
+    "cited_by_count": 1,
+    "citation_normalized_percentile": {
+      "value": 0.92840027,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 91,
+      "max": 95
+    },
+    "biblio": {
+      "volume": "64",
+      "issue": "1",
+      "first_page": "56",
+      "last_page": "60"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11514",
+      "display_name": "Disability Education and Employment",
+      "score": 0.7390000224113464,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3311",
+        "display_name": "Safety Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11514",
+        "display_name": "Disability Education and Employment",
+        "score": 0.7390000224113464,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3311",
+          "display_name": "Safety Research"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11759",
+        "display_name": "Occupational Therapy Practice and Research",
+        "score": 0.05590000003576279,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3609",
+          "display_name": "Occupational Therapy"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/36",
+          "display_name": "Health Professions"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11084",
+        "display_name": "Workplace Health and Well-being",
+        "score": 0.024800000712275505,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3600",
+          "display_name": "General Health Professions"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/36",
+          "display_name": "Health Professions"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/receipt",
+        "display_name": "Receipt",
+        "score": 0.6399999856948853
+      },
+      {
+        "id": "https://openalex.org/keywords/logistic-regression",
+        "display_name": "Logistic regression",
+        "score": 0.5978999733924866
+      },
+      {
+        "id": "https://openalex.org/keywords/rural-area",
+        "display_name": "Rural area",
+        "score": 0.557699978351593
+      },
+      {
+        "id": "https://openalex.org/keywords/psychological-intervention",
+        "display_name": "Psychological intervention",
+        "score": 0.5443000197410583
+      },
+      {
+        "id": "https://openalex.org/keywords/vocational-education",
+        "display_name": "Vocational education",
+        "score": 0.5388000011444092
+      },
+      {
+        "id": "https://openalex.org/keywords/rehabilitation",
+        "display_name": "Rehabilitation",
+        "score": 0.5336999893188477
+      },
+      {
+        "id": "https://openalex.org/keywords/mental-health",
+        "display_name": "Mental health",
+        "score": 0.4867999851703644
+      },
+      {
+        "id": "https://openalex.org/keywords/odds",
+        "display_name": "Odds",
+        "score": 0.43950000405311584
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2778979077",
+        "wikidata": "https://www.wikidata.org/wiki/Q330190",
+        "display_name": "Receipt",
+        "level": 2,
+        "score": 0.6399999856948853
+      },
+      {
+        "id": "https://openalex.org/C151956035",
+        "wikidata": "https://www.wikidata.org/wiki/Q1132755",
+        "display_name": "Logistic regression",
+        "level": 2,
+        "score": 0.5978999733924866
+      },
+      {
+        "id": "https://openalex.org/C129047720",
+        "wikidata": "https://www.wikidata.org/wiki/Q175185",
+        "display_name": "Rural area",
+        "level": 2,
+        "score": 0.557699978351593
+      },
+      {
+        "id": "https://openalex.org/C27415008",
+        "wikidata": "https://www.wikidata.org/wiki/Q7256382",
+        "display_name": "Psychological intervention",
+        "level": 2,
+        "score": 0.5443000197410583
+      },
+      {
+        "id": "https://openalex.org/C668760",
+        "wikidata": "https://www.wikidata.org/wiki/Q6869278",
+        "display_name": "Vocational education",
+        "level": 2,
+        "score": 0.5388000011444092
+      },
+      {
+        "id": "https://openalex.org/C2778818304",
+        "wikidata": "https://www.wikidata.org/wiki/Q1819478",
+        "display_name": "Rehabilitation",
+        "level": 2,
+        "score": 0.5336999893188477
+      },
+      {
+        "id": "https://openalex.org/C134362201",
+        "wikidata": "https://www.wikidata.org/wiki/Q317309",
+        "display_name": "Mental health",
+        "level": 2,
+        "score": 0.4867999851703644
+      },
+      {
+        "id": "https://openalex.org/C74909509",
+        "wikidata": "https://www.wikidata.org/wiki/Q10387",
+        "display_name": "Gerontology",
+        "level": 1,
+        "score": 0.4672999978065491
+      },
+      {
+        "id": "https://openalex.org/C143095724",
+        "wikidata": "https://www.wikidata.org/wiki/Q515895",
+        "display_name": "Odds",
+        "level": 3,
+        "score": 0.43950000405311584
+      },
+      {
+        "id": "https://openalex.org/C2775882741",
+        "wikidata": "https://www.wikidata.org/wiki/Q6130303",
+        "display_name": "Vocational rehabilitation",
+        "level": 3,
+        "score": 0.42719998955726624
+      },
+      {
+        "id": "https://openalex.org/C2780378061",
+        "wikidata": "https://www.wikidata.org/wiki/Q25351891",
+        "display_name": "Service (business)",
+        "level": 2,
+        "score": 0.42320001125335693
+      },
+      {
+        "id": "https://openalex.org/C2780700307",
+        "wikidata": "https://www.wikidata.org/wiki/Q1373709",
+        "display_name": "Independent living",
+        "level": 2,
+        "score": 0.38769999146461487
+      },
+      {
+        "id": "https://openalex.org/C71924100",
+        "wikidata": "https://www.wikidata.org/wiki/Q11190",
+        "display_name": "Medicine",
+        "level": 0,
+        "score": 0.3853999972343445
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.32839998602867126
+      },
+      {
+        "id": "https://openalex.org/C2778965245",
+        "wikidata": "https://www.wikidata.org/wiki/Q2499074",
+        "display_name": "Supported employment",
+        "level": 3,
+        "score": 0.2939999997615814
+      },
+      {
+        "id": "https://openalex.org/C160735492",
+        "wikidata": "https://www.wikidata.org/wiki/Q31207",
+        "display_name": "Health care",
+        "level": 2,
+        "score": 0.2741999924182892
+      },
+      {
+        "id": "https://openalex.org/C2779958979",
+        "wikidata": "https://www.wikidata.org/wiki/Q3473027",
+        "display_name": "Rural health",
+        "level": 3,
+        "score": 0.27140000462532043
+      },
+      {
+        "id": "https://openalex.org/C2986740045",
+        "wikidata": "https://www.wikidata.org/wiki/Q31207",
+        "display_name": "Health services",
+        "level": 3,
+        "score": 0.257099986076355
+      },
+      {
+        "id": "https://openalex.org/C159110408",
+        "wikidata": "https://www.wikidata.org/wiki/Q121176",
+        "display_name": "Nursing",
+        "level": 1,
+        "score": 0.2547999918460846
+      },
+      {
+        "id": "https://openalex.org/C2908647359",
+        "wikidata": "https://www.wikidata.org/wiki/Q2625603",
+        "display_name": "Population",
+        "level": 2,
+        "score": 0.250900000333786
+      },
+      {
+        "id": "https://openalex.org/C156957248",
+        "wikidata": "https://www.wikidata.org/wiki/Q1862216",
+        "display_name": "Odds ratio",
+        "level": 2,
+        "score": 0.25029999017715454
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1177/10522263251394328",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1177/10522263251394328",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S190353498",
+          "display_name": "Journal of Vocational Rehabilitation",
+          "issn_l": "1052-2263",
+          "issn": [
+            "1052-2263",
+            "1878-6316"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310318577",
+          "host_organization_name": "IOS Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310318577"
+          ],
+          "host_organization_lineage_names": [
+            "IOS Press"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Vocational Rehabilitation",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.1177/10522263251394328",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1177/10522263251394328",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S190353498",
+        "display_name": "Journal of Vocational Rehabilitation",
+        "issn_l": "1052-2263",
+        "issn": [
+          "1052-2263",
+          "1878-6316"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310318577",
+        "host_organization_name": "IOS Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310318577"
+        ],
+        "host_organization_lineage_names": [
+          "IOS Press"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Vocational Rehabilitation",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "content_urls": null,
+    "referenced_works_count": 18,
+    "referenced_works": [
+      "https://openalex.org/W2036165213",
+      "https://openalex.org/W2094480734",
+      "https://openalex.org/W2319100869",
+      "https://openalex.org/W2752585480",
+      "https://openalex.org/W2921259525",
+      "https://openalex.org/W2950733856",
+      "https://openalex.org/W3023092684",
+      "https://openalex.org/W3028051697",
+      "https://openalex.org/W3112722511",
+      "https://openalex.org/W3200600095",
+      "https://openalex.org/W4323351490",
+      "https://openalex.org/W4387931875",
+      "https://openalex.org/W4396926721",
+      "https://openalex.org/W4403990446",
+      "https://openalex.org/W4406985253",
+      "https://openalex.org/W4407028063",
+      "https://openalex.org/W4411397138",
+      "https://openalex.org/W4414137956"
+    ],
+    "related_works": [],
+    "abstract_inverted_index": {
+      "Background": [
+        0
+      ],
+      "Veterans": [
+        1,
+        171,
+        215
+      ],
+      "living": [
+        2
+      ],
+      "in": [
+        3,
+        14,
+        59,
+        62,
+        119,
+        168,
+        174,
+        216
+      ],
+      "rural": [
+        4,
+        36,
+        60,
+        120,
+        136,
+        170,
+        217
+      ],
+      "settings,": [
+        5
+      ],
+      "especially": [
+        6
+      ],
+      "those": [
+        7,
+        150
+      ],
+      "with": [
+        8,
+        31,
+        38,
+        99,
+        116,
+        172
+      ],
+      "chronic": [
+        9,
+        39
+      ],
+      "conditions,": [
+        10,
+        40
+      ],
+      "face": [
+        11
+      ],
+      "unique": [
+        12
+      ],
+      "challenges": [
+        13
+      ],
+      "accessing": [
+        15
+      ],
+      "employment": [
+        16,
+        33,
+        100,
+        148,
+        176,
+        212
+      ],
+      "opportunities.": [
+        17
+      ],
+      "Objective": [
+        18
+      ],
+      "This": [
+        19
+      ],
+      "study": [
+        20
+      ],
+      "investigates": [
+        21
+      ],
+      "whether": [
+        22
+      ],
+      "receipt": [
+        23
+      ],
+      "of": [
+        24,
+        147,
+        214
+      ],
+      "vocational": [
+        25,
+        190
+      ],
+      "rehabilitation": [
+        26,
+        191
+      ],
+      "(VR)": [
+        27
+      ],
+      "services": [
+        28,
+        141,
+        163,
+        185
+      ],
+      "is": [
+        29
+      ],
+      "associated": [
+        30,
+        98
+      ],
+      "improved": [
+        32
+      ],
+      "outcomes": [
+        34,
+        101
+      ],
+      "among": [
+        35,
+        195
+      ],
+      "veterans": [
+        37,
+        57,
+        115,
+        137
+      ],
+      "even": [
+        41,
+        105
+      ],
+      "after": [
+        42,
+        106
+      ],
+      "controlling": [
+        43,
+        81,
+        107
+      ],
+      "for": [
+        44,
+        108,
+        209
+      ],
+      "demographic": [
+        45,
+        82,
+        109
+      ],
+      "variables": [
+        46,
+        83,
+        110
+      ],
+      "and": [
+        47,
+        79,
+        84,
+        111,
+        192,
+        204,
+        219
+      ],
+      "service-connected": [
+        48
+      ],
+      "disability": [
+        49,
+        85,
+        112
+      ],
+      "status.": [
+        50,
+        86,
+        113
+      ],
+      "Methods": [
+        51
+      ],
+      "Data": [
+        52
+      ],
+      "were": [
+        53,
+        122
+      ],
+      "collected": [
+        54
+      ],
+      "from": [
+        55
+      ],
+      "400": [
+        56
+      ],
+      "residing": [
+        58,
+        118
+      ],
+      "areas": [
+        61,
+        121,
+        218
+      ],
+      "the": [
+        63,
+        73,
+        211,
+        225
+      ],
+      "U.S.": [
+        64
+      ],
+      "Hierarchical": [
+        65
+      ],
+      "logistic": [
+        66
+      ],
+      "regression": [
+        67,
+        89
+      ],
+      "analysis": [
+        68,
+        90
+      ],
+      "was": [
+        69,
+        96
+      ],
+      "conducted": [
+        70
+      ],
+      "to": [
+        71,
+        126,
+        130,
+        183,
+        188
+      ],
+      "examine": [
+        72
+      ],
+      "association": [
+        74
+      ],
+      "between": [
+        75,
+        200
+      ],
+      "VR": [
+        76,
+        93,
+        140,
+        155,
+        162,
+        184
+      ],
+      "service": [
+        77,
+        94
+      ],
+      "status": [
+        78,
+        95
+      ],
+      "employment,": [
+        80
+      ],
+      "Results": [
+        87
+      ],
+      "Logistic": [
+        88
+      ],
+      "indicated": [
+        91
+      ],
+      "that": [
+        92,
+        161
+      ],
+      "significantly": [
+        97
+      ],
+      "(p": [
+        102
+      ],
+      "&lt;": [
+        103
+      ],
+      "0.01),": [
+        104
+      ],
+      "Specifically,": [
+        114
+      ],
+      "disabilities": [
+        117,
+        173
+      ],
+      "74%": [
+        123
+      ],
+      "less": [
+        124
+      ],
+      "likely": [
+        125
+      ],
+      "be": [
+        127
+      ],
+      "employed": [
+        128
+      ],
+      "compared": [
+        129
+      ],
+      "their": [
+        131,
+        221
+      ],
+      "counterparts": [
+        132
+      ],
+      "without": [
+        133
+      ],
+      "disabilities.": [
+        134
+      ],
+      "Additionally,": [
+        135
+      ],
+      "who": [
+        138,
+        151
+      ],
+      "received": [
+        139
+      ],
+      "had": [
+        142
+      ],
+      "a": [
+        143,
+        165
+      ],
+      "71%": [
+        144
+      ],
+      "higher": [
+        145
+      ],
+      "likelihood": [
+        146
+      ],
+      "than": [
+        149
+      ],
+      "did": [
+        152
+      ],
+      "not": [
+        153
+      ],
+      "receive": [
+        154
+      ],
+      "services.": [
+        156
+      ],
+      "Conclusions": [
+        157
+      ],
+      "The": [
+        158
+      ],
+      "findings": [
+        159
+      ],
+      "suggest": [
+        160
+      ],
+      "play": [
+        164
+      ],
+      "crucial": [
+        166
+      ],
+      "role": [
+        167
+      ],
+      "supporting": [
+        169
+      ],
+      "achieving": [
+        175
+      ],
+      "outcomes.": [
+        177
+      ],
+      "Interventions": [
+        178
+      ],
+      "aimed": [
+        179
+      ],
+      "at": [
+        180
+      ],
+      "enhancing": [
+        181
+      ],
+      "access": [
+        182
+      ],
+      "may": [
+        186
+      ],
+      "contribute": [
+        187
+      ],
+      "improving": [
+        189
+      ],
+      "overall": [
+        193
+      ],
+      "well-being": [
+        194
+      ],
+      "this": [
+        196
+      ],
+      "population.": [
+        197
+      ],
+      "Collaborative": [
+        198
+      ],
+      "efforts": [
+        199
+      ],
+      "policymakers,": [
+        201
+      ],
+      "healthcare": [
+        202
+      ],
+      "providers,": [
+        203
+      ],
+      "community": [
+        205
+      ],
+      "organizations": [
+        206
+      ],
+      "are": [
+        207
+      ],
+      "essential": [
+        208
+      ],
+      "addressing": [
+        210
+      ],
+      "needs": [
+        213
+      ],
+      "promoting": [
+        220
+      ],
+      "successful": [
+        222
+      ],
+      "integration": [
+        223
+      ],
+      "into": [
+        224
+      ],
+      "workforce.": [
+        226
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2025,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2026-03-07T16:01:11.037858",
+    "created_date": "2025-11-04T00:00:00"
+  },
+  "crossref": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          20
+        ]
+      ],
+      "date-time": "2026-01-20T22:46:46Z",
+      "timestamp": 1768949206146,
+      "version": "3.49.0"
+    },
+    "reference-count": 22,
+    "publisher": "SAGE Publications",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              11,
+              4
+            ]
+          ],
+          "date-time": "2025-11-04T00:00:00Z",
+          "timestamp": 1762214400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              11,
+              4
+            ]
+          ],
+          "date-time": "2025-11-04T00:00:00Z",
+          "timestamp": 1762214400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100000102",
+        "name": "Health Resources and Services Administration",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "1 H3GRH45781-01-00"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "1 H3GRH45781-01-00"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000102",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.sagepub.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Journal of Vocational Rehabilitation"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          1
+        ]
+      ]
+    },
+    "abstract": "<jats:sec>\n                    <jats:title>Background</jats:title>\n                    <jats:p>Veterans living in rural settings, especially those with chronic conditions, face unique challenges in accessing employment opportunities.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Objective</jats:title>\n                    <jats:p>This study investigates whether receipt of vocational rehabilitation (VR) services is associated with improved employment outcomes among rural veterans with chronic conditions, even after controlling for demographic variables and service-connected disability status.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Methods</jats:title>\n                    <jats:p>Data were collected from 400 veterans residing in rural areas in the U.S. Hierarchical logistic regression analysis was conducted to examine the association between VR service status and employment, controlling demographic variables and disability status.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>Logistic regression analysis indicated that VR service status was significantly associated with employment outcomes (p &lt; 0.01), even after controlling for demographic variables and disability status. Specifically, veterans with disabilities residing in rural areas were 74% less likely to be employed compared to their counterparts without disabilities. Additionally, rural veterans who received VR services had a 71% higher likelihood of employment than those who did not receive VR services.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusions</jats:title>\n                    <jats:p>The findings suggest that VR services play a crucial role in supporting rural Veterans with disabilities in achieving employment outcomes. Interventions aimed at enhancing access to VR services may contribute to improving vocational rehabilitation and overall well-being among this population. Collaborative efforts between policymakers, healthcare providers, and community organizations are essential for addressing the employment needs of Veterans in rural areas and promoting their successful integration into the workforce.</jats:p>\n                  </jats:sec>",
+    "DOI": "10.1177/10522263251394328",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          4
+        ]
+      ],
+      "date-time": "2025-11-04T15:42:37Z",
+      "timestamp": 1762270957000
+    },
+    "page": "56-60",
+    "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Disability Status, Employment, and Access to Vocational Rehabilitation Services Among Rural Veterans with Physical and Mental Health Conditions"
+    ],
+    "prefix": "10.1177",
+    "volume": "64",
+    "author": [
+      {
+        "given": "Emre",
+        "family": "Umucu",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "The University of Texas at El Paso"
+          },
+          {
+            "name": "South Texas VA Medical Center, San Antonio, TX, USA"
+          }
+        ]
+      },
+      {
+        "given": "Teresa Ann",
+        "family": "Granger",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Alabama"
+          },
+          {
+            "name": "Tuscaloosa VA Medical Center, Research &amp; Development, Tuscaloosa, AL, USA"
+          }
+        ]
+      },
+      {
+        "given": "Andrew",
+        "family": "Vernon",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "The University of Texas at El Paso"
+          }
+        ]
+      },
+      {
+        "given": "Jim",
+        "family": "Yates",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Michigan Center for Rural Health"
+          }
+        ]
+      },
+      {
+        "given": "John",
+        "family": "Barnas",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Michigan Center for Rural Health"
+          }
+        ]
+      },
+      {
+        "given": "Beatrice",
+        "family": "Lee",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "The University of Texas at El Paso"
+          }
+        ]
+      }
+    ],
+    "member": "179",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          4
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_3_2_1",
+        "volume-title": "Rural America in a Globalizing World",
+        "author": "Bailey C.",
+        "year": "2014",
+        "unstructured": "Bailey C., Jensen L., Ransom E. (2014). Rural America in a Globalizing World. West Virginia University Press."
+      },
+      {
+        "key": "e_1_3_3_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1891/0047-2220.42.2.24"
+      },
+      {
+        "key": "e_1_3_3_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11606-011-1762-1"
+      },
+      {
+        "key": "e_1_3_3_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1891/0047-2220.48.3.20"
+      },
+      {
+        "key": "e_1_3_3_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.21037/mhealth.2020.03.02"
+      },
+      {
+        "key": "e_1_3_3_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7312/tick17222-026"
+      },
+      {
+        "key": "e_1_3_3_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/prj0000184"
+      },
+      {
+        "key": "e_1_3_3_9_1",
+        "unstructured": "National Center for Veterans Analysis and Statistics. (2023). Rural Veterans: 2021-2023. Department of Veterans Affairs. https://www.data.va.gov/stories/s/Rural-Veterans-FY2021-2023/kkh2-eymp/."
+      },
+      {
+        "key": "e_1_3_3_10_1",
+        "unstructured": "National Organization of State Offices of Rural Health. (2014). Health care needs of rural veterans: A guide for state offices of rural health. https://www.nosorh.org/wp-content/uploads/2013/07/NOSORH-Rural-Veterans-Health-Guidenhmedits-21.pdf."
+      },
+      {
+        "key": "e_1_3_3_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-201114"
+      },
+      {
+        "key": "e_1_3_3_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.52017/001c.55516"
+      },
+      {
+        "key": "e_1_3_3_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/smi.70004"
+      },
+      {
+        "key": "e_1_3_3_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/10522263251376617"
+      },
+      {
+        "key": "e_1_3_3_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpubh.2024.1500659"
+      },
+      {
+        "key": "e_1_3_3_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/healthcare13030275"
+      },
+      {
+        "key": "e_1_3_3_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/smi.3339"
+      },
+      {
+        "key": "e_1_3_3_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/ajcp.12751"
+      },
+      {
+        "key": "e_1_3_3_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpubh.2025.1613224"
+      },
+      {
+        "key": "e_1_3_3_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/smi.3099"
+      },
+      {
+        "key": "e_1_3_3_21_1",
+        "unstructured": "U.S. Department of Veterans Affairs Office of Rural Health. (2023). 2023 THRIVE Veterans Health Administration Office of Rural Health Annual Report. https://www.ruralhealth.va.gov/docs/ORH-THRIVE_Annual-Report-Fiscal-Year-2023_508c.pdf."
+      },
+      {
+        "key": "e_1_3_3_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1748-0361.2008.00179.x"
+      },
+      {
+        "key": "e_1_3_3_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-319-64786-9"
+      }
+    ],
+    "container-title": [
+      "Journal of Vocational Rehabilitation"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/10522263251394328",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/10522263251394328",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/10522263251394328",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          20
+        ]
+      ],
+      "date-time": "2026-01-20T09:26:36Z",
+      "timestamp": 1768901196000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/10.1177/10522263251394328"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          4
+        ]
+      ]
+    },
+    "references-count": 22,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            1
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1177/10522263251394328"
+    ],
+    "URL": "https://doi.org/10.1177/10522263251394328",
+    "relation": {},
+    "ISSN": [
+      "1052-2263",
+      "1878-6316"
+    ],
+    "issn-type": [
+      {
+        "value": "1052-2263",
+        "type": "print"
+      },
+      {
+        "value": "1878-6316",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          4
+        ]
+      ]
+    }
+  }
+}

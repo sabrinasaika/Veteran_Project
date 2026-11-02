@@ -1,0 +1,198 @@
+FILENAME: eta-9169-20annualreport-py2020-20ia-pdf-d282ec1c315d.pdf
+PATH: _raw/rsa.ed.gov/eta-9169-20annualreport-py2020-20ia-pdf-d282ec1c315d.pdf
+
+WIOA STATEWIDE AND LOCAL PREFORMANCE REPORT 
+PY2020
+PROGRAM
+STATE:     Iowa                             
+
+From(mm/dd/yyyy): 7/1/2020 To(mm/dd/yyyy): 6/30/2021  X
+
+SUMMARY INFORMATION
+Service
+BY PARTICIPANT CHARACTERISTICS
+Num Rate Num Rate Num Rate Num Rate
+Negotiated 
+Target Baseline Baseline Baseline 38.7%
+Actual 2,198 56.1% 2,266 53.6% 1,182 59.8% 2,869 39.4%
+1,000 58.2% 991 53.9% 492 57.3% 1,225 39.5%
+1,193 54.5% 1,270 53.4% 689 61.8% 1,633 39.3%
+41 53.9% 42 51.9% 48 62.3% 458 62.9%
+852 61.9% 908 62.4% 934 68.6% 1,981 40.9%
+338 59.2% 386 59.8% 139 47.9% 249 26.5%
+541 55.2% 518 50.0% 44 24.4% 141 24.4%
+208 47.9% 216 43.8% 11 21.2% 33 21.3%
+123 48.6% 107 38.4% ‐‐‐‐
+95 42.0% 89 36.9% 4 50.0% 4 25.0%
+36 46.2% 38 47.5% 22 55.0% 6 27.3%
+26 49.1% 31 50.0% 15 44.1% 63 39.6%
+187 50.7% 202 49.8% 76 49.4% 241 37.2%
+116 58.0% 114 55.3% 74 56.9% 179 35.6%
+10 55.6% 9 47.4% 6 54.5% 24 54.5%
+1,999 57.1% 2,038 54.1% 1,098 60.9% 2,608 39.8%
+61 57.0% 51 49.0% 32 55.2% 92 41.8%
+OMB Control Number 1205‐0526
+Expiration Date:  05‐31‐2024 ETA‐9169
+Statewide Performance Report
+TITLE (select one):                                                                                                                                      
+Title I Local Area: Title  I Adult  Title II Adult Education
+REPORTING PERIOD COVERED (Required for current and three preceding years.) Title  I Dislocated Worker Title  III Wagner‐Peyser
+Title I Youth Title  IV Vocational Rehabilitation
+Title I and Title III combined
+Participants Served
+(Cohort Period: 
+07/01/2020 ‐ 06/30/2021)
+Participants Exited
+(Cohort Period: 07/01/2020 ‐ 06/30/2021)
+Funds Expended
+(Cohort Period: 07/01/2020 ‐ 
+06/30/2021)
+Cost Per Participant Served
+(Cohort Period: 07/01/2020 ‐ 
+06/30/2021)
+Career Services 13,930                                   3,383                                                                          $16,837,571 $1,209
+Training Services 4,556                                      634                                                                             $6,125,333 $1,344
+Percent training‐related employment1: Percent  enrolled in more than one core program: Percent  Admin Expended:
+N/A 8.2% N/A
+Total Participants 
+Served
+(Cohort Period: 
+07/01/2020 ‐ 
+06/30/2021)
+Total Participants 
+Exited
+(Cohort Period: 
+07/01/2020 ‐ 
+06/30/2021)
+Employment Rate 
+(Q2)2 
+(Cohort Period: 
+07/01/2019 ‐ 
+06/30/2020)
+Employment Rate 
+(Q4)2 
+(Cohort Period: 
+01/01/2019 ‐ 
+12/31/2019)
+Median 
+Earnings        
+(Cohort Period: 
+07/01/2019 ‐ 
+06/30/2020)
+Credential Rate3       
+(Cohort Period: 
+01/01/2019 ‐ 
+12/31/2019)
+Measurable Skill 
+Gains3                    
+(Cohort Period: 
+07/01/2020 ‐ 
+06/30/2021)
+Earnings
+Total Statewide 14,047 3,433
+Baseline
+Sex
+Female  6,098 1,518 4,141
+Male 7,893 1,902 3,866
+4,022
+Age
+ < 16 816 101 4,089
+16 ‐ 18 5,876 1,172 4,371
+19 ‐ 24 2,103 552 3,829
+25 ‐ 44 2,835 783 3,554
+45 ‐ 54 1,290 399 4,126
+55 ‐ 59 584 200 3,179
+60+ 543 226 4,264
+Ethnicity/Race
+American Indian / Alaska Native 220 52 3,197
+Asian  248 56 4,511
+Black / African American 1,292 306 3,236
+Hispanic / Latino 784 196 3,638
+Native Hawaiian / Pacific 
+Islander 71 16 1,977
+White 12,557 3,064 4,099
+More Than One Race 385 77 3,698
+1
+
+WIOA STATEWIDE AND LOCAL PREFORMANCE REPORT 
+PY2020
+BY EMPLOYMENT BARRIER4
+Num Rate Num Rate Num Rate Num Rate
+Negotiated 
+Target Baseline Baseline Baseline 38.7%
+Actual 2,198 56.1% 2,266 53.6% 1,182 59.8% 2,869 39.4%
+14 31.8% 18 38.3% 4 40.0% 12 27.3%
+1,095 58.3% 1,249 56.3% 962 65.9% 1,384 35.2%
+49 45.0% 53 43.8% 9 45.0% 36 33.3%
+155 41.8% 153 37.7% 21 35.0% 33 23.1%
+53 54.6% 43 46.7% 7 35.0% 13 29.5%
+403 38.2% 368 35.4% 96 38.2% 707 43.5%
+1,860 55.1% 1,966 52.6% 1,144 60.5% 2,427 38.6%
+23 65.7% 22 57.9% ‐‐ 7 25.0%
+2,198 56.1% 2,266 53.6% 1,182 59.8% 2,869 39.4%
+105 52.8% 96 54.5% 6 18.2% 51 35.2%
+25 53.2% 24 53.3% 13 38.2% 47 37.3%
+Total Participants 
+Served
+(Cohort Period: 
+07/01/2020 ‐ 
+06/30/2021)
+Total Participants 
+Exited
+(Cohort Period: 
+07/01/2020 ‐ 
+06/30/2021)
+Employment Rate 
+(Q2)2 
+(Cohort Period: 
+07/01/2019 ‐ 
+06/30/2020)
+Employment Rate 
+(Q4)2 
+(Cohort Period: 
+01/01/2019 ‐ 
+12/31/2019)
+Median 
+Earnings        
+(Cohort Period: 
+07/01/2019 ‐ 
+06/30/2020)
+Credential Rate3       
+(Cohort Period: 
+01/01/2019 ‐ 
+12/31/2019)
+Measurable Skill 
+Gains3                    
+(Cohort Period: 
+07/01/2020 ‐ 
+06/30/2021)
+Earnings
+Total Statewide 14,047 3,433
+Baseline
+4,022
+Displaced Homemakers 126 38 1,877
+English Language Learners, Low Levels of 
+Literacy, Cultural Barriers 6,082 1,399 4,534
+Exhausting TANF within 2 years (Part A Title 
+IV of the Social Security Act) 333 96 2,414
+Ex‐offenders 940 321 2,461
+Homeless Individuals / runaway youth 162 65 3,160
+Long‐term Unemployed                                     
+(27 or more consecutive weeks) 4,268 1,054 2,556
+Low‐Income Individuals 11,729 2,854 3,714
+Migrant and Seasonal Farmworkers 162 59 1,627
+Individuals with Disabilities (incl. youth) 14,047 3,433 4,022
+Single Parents (incl. single pregnant 
+women) 503 150 4,337
+Public Burden Statement (1205‐0526) 
+Persons are not required to respond to this collection of information unless it displays a currently valid OMB control number. Respondent’s reply to these reporting requirements is required to obtain 
+or retain benefits (Workforce Innovation and Opportunity Act, Section 185(a)(2)). Public reporting burden for this collection of information is estimated to range between 240 and 360 minutes which 
+averages 300 minutes per response, including the time for reviewing instructions, searching existing data sources, gathering and maintaining the data needed, and completing and reviewing the 
+collection of information. Send comments regarding this burden estimate to the Office of Policy Development and Research ●  U.S. Department of Labor ● Room N‐5641 ● 200 ConsƟtuƟon Ave., NW, 
+● Washington, DC ● 20210. Do NOT send the completed 9169 applicaƟon to this address.
+Youth in foster care or aged out of system 165 38 3,373
+1Applies to Title I only.
+2This indicator also includes those who entered into a training or education program for the Youth program.   
+3Credential Rate and Measurable Skill Gains do not apply to the Wagner‐Peyser program.
+4Barriers to Employment are determined at the point of entry into the program. 
+2

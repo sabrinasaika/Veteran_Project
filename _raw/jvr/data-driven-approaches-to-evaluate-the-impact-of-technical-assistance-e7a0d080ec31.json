@@ -1,0 +1,1549 @@
+{
+  "source_type": "jvr_pdf_candidate",
+  "doi": "10.1177/10522263251413171",
+  "doi_url": "https://doi.org/10.1177/10522263251413171",
+  "source_url": "https://journals.sagepub.com/doi/10.1177/10522263251413171",
+  "attempted_pdf_urls": [
+    "https://journals.sagepub.com/doi/pdf/10.1177/10522263251413171",
+    "https://journals.sagepub.com/doi/10.1177/10522263251413171",
+    "https://doi.org/10.1177/10522263251413171",
+    "https://content.iospress.com/download?id=10.1177/10522263251413171"
+  ],
+  "selected_pdf_url": "",
+  "selected_final_url": "",
+  "download_status": "unavailable",
+  "match": {
+    "veteran_hits": [
+      "va "
+    ],
+    "pathway_hits": [
+      "employment",
+      "vocational rehabilitation"
+    ],
+    "disability_hits": []
+  },
+  "openalex": {
+    "id": "https://openalex.org/W7125527012",
+    "doi": "https://doi.org/10.1177/10522263251413171",
+    "title": "Data-driven Approaches to Evaluate the Impact of Technical Assistance",
+    "display_name": "Data-driven Approaches to Evaluate the Impact of Technical Assistance",
+    "publication_year": 2026,
+    "publication_date": "2026-01-23",
+    "ids": {
+      "openalex": "https://openalex.org/W7125527012",
+      "doi": "https://doi.org/10.1177/10522263251413171"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/10522263251413171",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/10522263251413171",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S190353498",
+        "display_name": "Journal of Vocational Rehabilitation",
+        "issn_l": "1052-2263",
+        "issn": [
+          "1052-2263",
+          "1878-6316"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310318577",
+        "host_organization_name": "IOS Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310318577"
+        ],
+        "host_organization_lineage_names": [
+          "IOS Press"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Vocational Rehabilitation",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5084144431",
+          "display_name": "Emily A. Brinck",
+          "orcid": "https://orcid.org/0000-0002-6007-5624"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I135310074",
+            "display_name": "University of Wisconsin–Madison",
+            "ror": "https://ror.org/01y2jtd41",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I135310074"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Emily A Brinck",
+        "raw_affiliation_strings": [
+          "University of Wisconsin-Madison"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of Wisconsin-Madison",
+            "institution_ids": [
+              "https://openalex.org/I135310074"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5020580132",
+          "display_name": "Chelsea E. Brehmer",
+          "orcid": "https://orcid.org/0000-0002-3413-5750"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I135310074",
+            "display_name": "University of Wisconsin–Madison",
+            "ror": "https://ror.org/01y2jtd41",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I135310074"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Chelsea E Brehmer",
+        "raw_affiliation_strings": [
+          "University of Wisconsin-Madison"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of Wisconsin-Madison",
+            "institution_ids": [
+              "https://openalex.org/I135310074"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5108856844",
+          "display_name": "Malachy Bishop",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I1304256225",
+            "display_name": "University of Wisconsin System",
+            "ror": "https://ror.org/03ydkyb10",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I1304256225"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I135310074",
+            "display_name": "University of Wisconsin–Madison",
+            "ror": "https://ror.org/01y2jtd41",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I135310074"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Malachy Bishop",
+        "raw_affiliation_strings": [
+          "Department of Rehabilitation Psychology and Special Education, School of Education, University of Wisconsin-Madison, Madison, Wisconsin, USA",
+          "University of Wisconsin-Madison"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Rehabilitation Psychology and Special Education, School of Education, University of Wisconsin-Madison, Madison, Wisconsin, USA",
+            "institution_ids": [
+              "https://openalex.org/I135310074",
+              "https://openalex.org/I1304256225"
+            ]
+          },
+          {
+            "raw_affiliation_string": "University of Wisconsin-Madison",
+            "institution_ids": [
+              "https://openalex.org/I135310074"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5045827038",
+          "display_name": "Jeffrey H. Meyer",
+          "orcid": "https://orcid.org/0000-0003-4684-5052"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I135310074",
+            "display_name": "University of Wisconsin–Madison",
+            "ror": "https://ror.org/01y2jtd41",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I135310074"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Jeffrey S Meyer",
+        "raw_affiliation_strings": [
+          "University of Wisconsin-Madison"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of Wisconsin-Madison",
+            "institution_ids": [
+              "https://openalex.org/I135310074"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5017497855",
+          "display_name": "Timothy N. Tansey",
+          "orcid": "https://orcid.org/0000-0001-6418-2163"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I1304256225",
+            "display_name": "University of Wisconsin System",
+            "ror": "https://ror.org/03ydkyb10",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I1304256225"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I135310074",
+            "display_name": "University of Wisconsin–Madison",
+            "ror": "https://ror.org/01y2jtd41",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I135310074"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Timothy N Tansey",
+        "raw_affiliation_strings": [
+          "Department of Rehabilitation Psychology and Special Education, School of Education, University of Wisconsin-Madison, Madison, Wisconsin, USA",
+          "University of Wisconsin-Madison"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Rehabilitation Psychology and Special Education, School of Education, University of Wisconsin-Madison, Madison, Wisconsin, USA",
+            "institution_ids": [
+              "https://openalex.org/I135310074",
+              "https://openalex.org/I1304256225"
+            ]
+          },
+          {
+            "raw_affiliation_string": "University of Wisconsin-Madison",
+            "institution_ids": [
+              "https://openalex.org/I135310074"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5020097417",
+          "display_name": "Anderson Ck",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I135310074",
+            "display_name": "University of Wisconsin–Madison",
+            "ror": "https://ror.org/01y2jtd41",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I135310074"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Catherine A Anderson",
+        "raw_affiliation_strings": [
+          "University of Wisconsin-Madison"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of Wisconsin-Madison",
+            "institution_ids": [
+              "https://openalex.org/I135310074"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 6,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5045827038"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I135310074"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.24486216,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": "64",
+      "issue": "2",
+      "first_page": "126",
+      "last_page": "134"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11514",
+      "display_name": "Disability Education and Employment",
+      "score": 0.23980000615119934,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3311",
+        "display_name": "Safety Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11514",
+        "display_name": "Disability Education and Employment",
+        "score": 0.23980000615119934,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3311",
+          "display_name": "Safety Research"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11631",
+        "display_name": "Retirement, Disability, and Employment",
+        "score": 0.17339999973773956,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3317",
+          "display_name": "Demography"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10845",
+        "display_name": "Advanced Causal Inference Techniques",
+        "score": 0.08030000329017639,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2613",
+          "display_name": "Statistics and Probability"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/26",
+          "display_name": "Mathematics"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/government",
+        "display_name": "Government (linguistics)",
+        "score": 0.5659000277519226
+      },
+      {
+        "id": "https://openalex.org/keywords/vocational-rehabilitation",
+        "display_name": "Vocational rehabilitation",
+        "score": 0.557699978351593
+      },
+      {
+        "id": "https://openalex.org/keywords/vocational-education",
+        "display_name": "Vocational education",
+        "score": 0.4733000099658966
+      },
+      {
+        "id": "https://openalex.org/keywords/quality",
+        "display_name": "Quality (philosophy)",
+        "score": 0.4729999899864197
+      },
+      {
+        "id": "https://openalex.org/keywords/rehabilitation",
+        "display_name": "Rehabilitation",
+        "score": 0.4657000005245209
+      },
+      {
+        "id": "https://openalex.org/keywords/service",
+        "display_name": "Service (business)",
+        "score": 0.45840001106262207
+      },
+      {
+        "id": "https://openalex.org/keywords/measure",
+        "display_name": "Measure (data warehouse)",
+        "score": 0.3959999978542328
+      },
+      {
+        "id": "https://openalex.org/keywords/data-collection",
+        "display_name": "Data collection",
+        "score": 0.3734000027179718
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2778137410",
+        "wikidata": "https://www.wikidata.org/wiki/Q2732820",
+        "display_name": "Government (linguistics)",
+        "level": 2,
+        "score": 0.5659000277519226
+      },
+      {
+        "id": "https://openalex.org/C2775882741",
+        "wikidata": "https://www.wikidata.org/wiki/Q6130303",
+        "display_name": "Vocational rehabilitation",
+        "level": 3,
+        "score": 0.557699978351593
+      },
+      {
+        "id": "https://openalex.org/C668760",
+        "wikidata": "https://www.wikidata.org/wiki/Q6869278",
+        "display_name": "Vocational education",
+        "level": 2,
+        "score": 0.4733000099658966
+      },
+      {
+        "id": "https://openalex.org/C2779530757",
+        "wikidata": "https://www.wikidata.org/wiki/Q1207505",
+        "display_name": "Quality (philosophy)",
+        "level": 2,
+        "score": 0.4729999899864197
+      },
+      {
+        "id": "https://openalex.org/C2778818304",
+        "wikidata": "https://www.wikidata.org/wiki/Q1819478",
+        "display_name": "Rehabilitation",
+        "level": 2,
+        "score": 0.4657000005245209
+      },
+      {
+        "id": "https://openalex.org/C2780378061",
+        "wikidata": "https://www.wikidata.org/wiki/Q25351891",
+        "display_name": "Service (business)",
+        "level": 2,
+        "score": 0.45840001106262207
+      },
+      {
+        "id": "https://openalex.org/C2780009758",
+        "wikidata": "https://www.wikidata.org/wiki/Q6804172",
+        "display_name": "Measure (data warehouse)",
+        "level": 2,
+        "score": 0.3959999978542328
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.3790999948978424
+      },
+      {
+        "id": "https://openalex.org/C195094911",
+        "wikidata": "https://www.wikidata.org/wiki/Q14167904",
+        "display_name": "Process management",
+        "level": 1,
+        "score": 0.3752000033855438
+      },
+      {
+        "id": "https://openalex.org/C133462117",
+        "wikidata": "https://www.wikidata.org/wiki/Q4929239",
+        "display_name": "Data collection",
+        "level": 2,
+        "score": 0.3734000027179718
+      },
+      {
+        "id": "https://openalex.org/C144133560",
+        "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+        "display_name": "Business",
+        "level": 0,
+        "score": 0.3553999960422516
+      },
+      {
+        "id": "https://openalex.org/C56739046",
+        "wikidata": "https://www.wikidata.org/wiki/Q192060",
+        "display_name": "Knowledge management",
+        "level": 1,
+        "score": 0.3228999972343445
+      },
+      {
+        "id": "https://openalex.org/C5395021",
+        "wikidata": "https://www.wikidata.org/wiki/Q1061410",
+        "display_name": "Program evaluation",
+        "level": 2,
+        "score": 0.3215000033378601
+      },
+      {
+        "id": "https://openalex.org/C48103436",
+        "wikidata": "https://www.wikidata.org/wiki/Q599031",
+        "display_name": "State (computer science)",
+        "level": 2,
+        "score": 0.3059999942779541
+      },
+      {
+        "id": "https://openalex.org/C110354214",
+        "wikidata": "https://www.wikidata.org/wiki/Q6314146",
+        "display_name": "Engineering management",
+        "level": 1,
+        "score": 0.3027999997138977
+      },
+      {
+        "id": "https://openalex.org/C3020672099",
+        "wikidata": "https://www.wikidata.org/wiki/Q857354",
+        "display_name": "Longitudinal data",
+        "level": 2,
+        "score": 0.2888999879360199
+      },
+      {
+        "id": "https://openalex.org/C140781008",
+        "wikidata": "https://www.wikidata.org/wiki/Q1221081",
+        "display_name": "Service quality",
+        "level": 3,
+        "score": 0.2752000093460083
+      },
+      {
+        "id": "https://openalex.org/C95986675",
+        "wikidata": "https://www.wikidata.org/wiki/Q185168",
+        "display_name": "Quantitative analysis (chemistry)",
+        "level": 2,
+        "score": 0.27160000801086426
+      },
+      {
+        "id": "https://openalex.org/C2777895361",
+        "wikidata": "https://www.wikidata.org/wiki/Q1758614",
+        "display_name": "Longitudinal study",
+        "level": 2,
+        "score": 0.263700008392334
+      },
+      {
+        "id": "https://openalex.org/C93360035",
+        "wikidata": "https://www.wikidata.org/wiki/Q17055852",
+        "display_name": "Impact evaluation",
+        "level": 2,
+        "score": 0.25609999895095825
+      },
+      {
+        "id": "https://openalex.org/C24756922",
+        "wikidata": "https://www.wikidata.org/wiki/Q1757694",
+        "display_name": "Data quality",
+        "level": 3,
+        "score": 0.2538999915122986
+      },
+      {
+        "id": "https://openalex.org/C123657996",
+        "wikidata": "https://www.wikidata.org/wiki/Q12271",
+        "display_name": "Architecture",
+        "level": 2,
+        "score": 0.25119999051094055
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1177/10522263251413171",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1177/10522263251413171",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S190353498",
+          "display_name": "Journal of Vocational Rehabilitation",
+          "issn_l": "1052-2263",
+          "issn": [
+            "1052-2263",
+            "1878-6316"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310318577",
+          "host_organization_name": "IOS Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310318577"
+          ],
+          "host_organization_lineage_names": [
+            "IOS Press"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Vocational Rehabilitation",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "content_urls": null,
+    "referenced_works_count": 14,
+    "referenced_works": [
+      "https://openalex.org/W1973183406",
+      "https://openalex.org/W1998097374",
+      "https://openalex.org/W2071118171",
+      "https://openalex.org/W2084445032",
+      "https://openalex.org/W2469567335",
+      "https://openalex.org/W2768739658",
+      "https://openalex.org/W2965304488",
+      "https://openalex.org/W3092059298",
+      "https://openalex.org/W4307090988",
+      "https://openalex.org/W4379516144",
+      "https://openalex.org/W4388967314",
+      "https://openalex.org/W4401219896",
+      "https://openalex.org/W4405075030",
+      "https://openalex.org/W4414137956"
+    ],
+    "related_works": [],
+    "abstract_inverted_index": {
+      "Background": [
+        0
+      ],
+      "The": [
+        1,
+        25
+      ],
+      "Vocational": [
+        2
+      ],
+      "Rehabilitation": [
+        3
+      ],
+      "Technical": [
+        4
+      ],
+      "Assistance": [
+        5
+      ],
+      "Center": [
+        6
+      ],
+      "for": [
+        7
+      ],
+      "Quality": [
+        8
+      ],
+      "Employment": [
+        9
+      ],
+      "(VRTAC-QE)": [
+        10
+      ],
+      "uses": [
+        11,
+        48
+      ],
+      "a": [
+        12,
+        29
+      ],
+      "data-driven": [
+        13
+      ],
+      "approach": [
+        14
+      ],
+      "to": [
+        15,
+        37,
+        51,
+        65,
+        109,
+        176
+      ],
+      "analyze": [
+        16
+      ],
+      "the": [
+        17,
+        43,
+        53,
+        61,
+        84,
+        111,
+        125,
+        155,
+        168
+      ],
+      "efficacy": [
+        18,
+        56,
+        112
+      ],
+      "of": [
+        19,
+        57,
+        113,
+        170
+      ],
+      "its": [
+        20,
+        58
+      ],
+      "website": [
+        21,
+        93
+      ],
+      "(": [
+        22
+      ],
+      "https://tacqe.com": [
+        23
+      ],
+      ").": [
+        24
+      ],
+      "center": [
+        26
+      ],
+      "also": [
+        27
+      ],
+      "employs": [
+        28
+      ],
+      "management": [
+        30
+      ],
+      "information": [
+        31
+      ],
+      "system": [
+        32
+      ],
+      "(MIS)": [
+        33
+      ],
+      "with": [
+        34,
+        83
+      ],
+      "RSA-911": [
+        35
+      ],
+      "data": [
+        36,
+        40,
+        67,
+        143,
+        178
+      ],
+      "enable": [
+        38
+      ],
+      "interagency": [
+        39
+      ],
+      "sharing": [
+        41
+      ],
+      "through": [
+        42
+      ],
+      "Salesforce": [
+        44
+      ],
+      "platform.": [
+        45
+      ],
+      "Objective": [
+        46
+      ],
+      "VRTAC-QE": [
+        47,
+        126
+      ],
+      "quantitative": [
+        49,
+        78
+      ],
+      "methods": [
+        50
+      ],
+      "identify": [
+        52,
+        161
+      ],
+      "usage": [
+        54,
+        94
+      ],
+      "and": [
+        55,
+        60,
+        87,
+        105,
+        134,
+        167,
+        183
+      ],
+      "website,": [
+        59
+      ],
+      "MIS": [
+        62,
+        171
+      ],
+      "provides": [
+        63
+      ],
+      "access": [
+        64,
+        175
+      ],
+      "large": [
+        66,
+        177
+      ],
+      "sets": [
+        68,
+        179
+      ],
+      "that": [
+        69,
+        124,
+        135
+      ],
+      "can": [
+        70
+      ],
+      "measure": [
+        71
+      ],
+      "impact": [
+        72
+      ],
+      "in": [
+        73,
+        81,
+        147
+      ],
+      "vocational": [
+        74
+      ],
+      "rehabilitation": [
+        75,
+        100
+      ],
+      "(VR).": [
+        76
+      ],
+      "These": [
+        77
+      ],
+      "measures": [
+        79
+      ],
+      "are": [
+        80,
+        129,
+        165
+      ],
+      "line": [
+        82
+      ],
+      "Government": [
+        85
+      ],
+      "Performance": [
+        86
+      ],
+      "Results": [
+        88,
+        120
+      ],
+      "Act": [
+        89
+      ],
+      "(GPRA).": [
+        90
+      ],
+      "Methods": [
+        91
+      ],
+      "Quantify": [
+        92
+      ],
+      "by": [
+        95
+      ],
+      "tabulating": [
+        96
+      ],
+      "user": [
+        97
+      ],
+      "statistics,": [
+        98
+      ],
+      "state": [
+        99
+      ],
+      "service": [
+        101
+      ],
+      "agencies": [
+        102
+      ],
+      "(SVRA)": [
+        103
+      ],
+      "participation,": [
+        104
+      ],
+      "employing": [
+        106
+      ],
+      "longitudinal": [
+        107,
+        142
+      ],
+      "analysis": [
+        108
+      ],
+      "determine": [
+        110
+      ],
+      "technical": [
+        114
+      ],
+      "assistance": [
+        115
+      ],
+      "(TA)": [
+        116
+      ],
+      "among": [
+        117,
+        180
+      ],
+      "participating": [
+        118,
+        136
+      ],
+      "parties.": [
+        119
+      ],
+      "Quantitative": [
+        121
+      ],
+      "results": [
+        122
+      ],
+      "show": [
+        123
+      ],
+      "digital": [
+        127
+      ],
+      "resources": [
+        128
+      ],
+      "utilized": [
+        130
+      ],
+      "above": [
+        131
+      ],
+      "target": [
+        132
+      ],
+      "goals,": [
+        133
+      ],
+      "SVRAs": [
+        137
+      ],
+      "benefit": [
+        138
+      ],
+      "from": [
+        139
+      ],
+      "TA,": [
+        140
+      ],
+      "as": [
+        141
+      ],
+      "shows": [
+        144
+      ],
+      "an": [
+        145
+      ],
+      "increase": [
+        146
+      ],
+      "positive": [
+        148
+      ],
+      "employment": [
+        149
+      ],
+      "status": [
+        150
+      ],
+      "at": [
+        151
+      ],
+      "VR": [
+        152,
+        163
+      ],
+      "exit": [
+        153
+      ],
+      "during": [
+        154
+      ],
+      "project": [
+        156
+      ],
+      "period.": [
+        157
+      ],
+      "Conclusions": [
+        158
+      ],
+      "Data-driven": [
+        159
+      ],
+      "approaches": [
+        160
+      ],
+      "where": [
+        162
+      ],
+      "efforts": [
+        164
+      ],
+      "successful,": [
+        166
+      ],
+      "adoption": [
+        169
+      ],
+      "architecture": [
+        172
+      ],
+      "promotes": [
+        173
+      ],
+      "wider": [
+        174
+      ],
+      "professionals,": [
+        181
+      ],
+      "enhancing": [
+        182
+      ],
+      "standardizing": [
+        184
+      ],
+      "data.": [
+        185
+      ]
+    },
+    "counts_by_year": [],
+    "updated_date": "2026-03-13T14:20:09.374765",
+    "created_date": "2026-01-24T00:00:00"
+  },
+  "crossref": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          12
+        ]
+      ],
+      "date-time": "2026-03-12T00:58:03Z",
+      "timestamp": 1773277083242,
+      "version": "3.50.1"
+    },
+    "reference-count": 21,
+    "publisher": "SAGE Publications",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              1,
+              23
+            ]
+          ],
+          "date-time": "2026-01-23T00:00:00Z",
+          "timestamp": 1769126400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100000138",
+        "name": "U.S. Department of Education",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "H264K200003"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "H264K200003"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000138",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.sagepub.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Journal of Vocational Rehabilitation"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          3
+        ]
+      ]
+    },
+    "abstract": "<jats:sec>\n                    <jats:title>Background</jats:title>\n                    <jats:p>\n                      The Vocational Rehabilitation Technical Assistance Center for Quality Employment (VRTAC-QE) uses a data-driven approach to analyze the efficacy of its website (\n                      <jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"https://tacqe.com\">https://tacqe.com</jats:ext-link>\n                      ). The center also employs a management information system (MIS) with RSA-911 data to enable interagency data sharing through the Salesforce platform.\n                    </jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Objective</jats:title>\n                    <jats:p>VRTAC-QE uses quantitative methods to identify the usage and efficacy of its website, and the MIS provides access to large data sets that can measure impact in vocational rehabilitation (VR). These quantitative measures are in line with the Government Performance and Results Act (GPRA).</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Methods</jats:title>\n                    <jats:p>Quantify website usage by tabulating user statistics, state rehabilitation service agencies (SVRA) participation, and employing longitudinal analysis to determine the efficacy of technical assistance (TA) among participating parties.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>Quantitative results show that the VRTAC-QE digital resources are utilized above target goals, and that participating SVRAs benefit from TA, as longitudinal data shows an increase in positive employment status at VR exit during the project period.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusions</jats:title>\n                    <jats:p>Data-driven approaches identify where VR efforts are successful, and the adoption of MIS architecture promotes wider access to large data sets among professionals, enhancing and standardizing data.</jats:p>\n                  </jats:sec>",
+    "DOI": "10.1177/10522263251413171",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          23
+        ]
+      ],
+      "date-time": "2026-01-23T18:22:56Z",
+      "timestamp": 1769192576000
+    },
+    "page": "126-134",
+    "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Data-driven Approaches to Evaluate the Impact of Technical Assistance"
+    ],
+    "prefix": "10.1177",
+    "volume": "64",
+    "author": [
+      {
+        "given": "Emily A",
+        "family": "Brinck",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "University of Wisconsin-Madison"
+          }
+        ]
+      },
+      {
+        "given": "Chelsea E",
+        "family": "Brehmer",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Wisconsin-Madison"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2473-2030",
+        "authenticated-orcid": false,
+        "given": "Malachy",
+        "family": "Bishop",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Wisconsin-Madison"
+          },
+          {
+            "name": "Department of Rehabilitation Psychology and Special Education, School of Education, University of Wisconsin-Madison, Madison, Wisconsin, USA"
+          }
+        ]
+      },
+      {
+        "given": "Jeffrey S",
+        "family": "Meyer",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Wisconsin-Madison"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-6418-2163",
+        "authenticated-orcid": false,
+        "given": "Timothy N",
+        "family": "Tansey",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Wisconsin-Madison"
+          },
+          {
+            "name": "Department of Rehabilitation Psychology and Special Education, School of Education, University of Wisconsin-Madison, Madison, Wisconsin, USA"
+          }
+        ]
+      },
+      {
+        "given": "Catherine A",
+        "family": "Anderson",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Wisconsin-Madison"
+          }
+        ]
+      }
+    ],
+    "member": "179",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          23
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_3_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/puar.12883"
+      },
+      {
+        "key": "e_1_3_3_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/10522263241300831"
+      },
+      {
+        "key": "e_1_3_3_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09602011.2024.2381874"
+      },
+      {
+        "key": "e_1_3_3_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/322209"
+      },
+      {
+        "key": "e_1_3_3_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/15433710903175833"
+      },
+      {
+        "key": "e_1_3_3_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/088572880102400103"
+      },
+      {
+        "key": "e_1_3_3_8_1",
+        "unstructured": "Government Performance and Results Act Pub. L. No. 103-62 107 Stat. 285. (1993)."
+      },
+      {
+        "key": "e_1_3_3_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0034355220962182"
+      },
+      {
+        "key": "e_1_3_3_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-230025"
+      },
+      {
+        "key": "e_1_3_3_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-191036"
+      },
+      {
+        "key": "e_1_3_3_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1540-6210.00253"
+      },
+      {
+        "key": "e_1_3_3_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10916-022-01875-3"
+      },
+      {
+        "key": "e_1_3_3_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-160811"
+      },
+      {
+        "issue": "3",
+        "key": "e_1_3_3_15_1",
+        "first-page": "44",
+        "article-title": "Vocational rehabilitation services and outcomes for working age people with depression and other mood disorders",
+        "volume": "83",
+        "author": "Kaya C.",
+        "year": "2017",
+        "unstructured": "Kaya C., Chan F. (2017). Vocational rehabilitation services and outcomes for working age people with depression and other mood disorders. Journal of Rehabilitation, 83(3), 44–52.",
+        "journal-title": "Journal of Rehabilitation"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_3_3_16_1",
+        "first-page": "6",
+        "article-title": "Overcoming data silos: A range of options",
+        "volume": "33",
+        "author": "Lamont J.",
+        "year": "2024",
+        "unstructured": "Lamont J. (2024). Overcoming data silos: A range of options. Knowledge Management World, 33(1), 6–8.",
+        "journal-title": "Knowledge Management World"
+      },
+      {
+        "key": "e_1_3_3_17_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "53",
+        "DOI": "10.3233/JVR-230056",
+        "article-title": "Providing technical assistance to inclusive postsecondary education programs on paid employment experiences of college students with intellectual and developmental disabilities: A case study",
+        "volume": "60",
+        "author": "McKelvey S. P.",
+        "year": "2023",
+        "unstructured": "McKelvey S. P., Lambert A., Camden J., Getzel E. E., Norris S. (2023). Providing technical assistance to inclusive postsecondary education programs on paid employment experiences of college students with intellectual and developmental disabilities: A case study. Journal of Vocational Rehabilitation, 60(1), 53–62. https://doi.org/10.3233/JVR-230056",
+        "journal-title": "Journal of Vocational Rehabilitation"
+      },
+      {
+        "key": "e_1_3_3_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/10522263251376617"
+      },
+      {
+        "key": "e_1_3_3_19_1",
+        "unstructured": "U.S. Department of Education. (2024). Rehabilitation Services Administration Report for Fiscal Years 2021-2022.https://rsa.ed.gov/"
+      },
+      {
+        "key": "e_1_3_3_20_1",
+        "unstructured": "VRTAC-QE. (2022). Vocational Rehabilitation Technical Assistance Center for Quality Employment: Comprehensive Review. https://tacqe.com"
+      },
+      {
+        "key": "e_1_3_3_21_1",
+        "unstructured": "VRTAC-QE. (2025). Vocational Rehabilitation Technical Assistance Center for Quality Employment (VRTAC-QE). https://tacqe.com/"
+      },
+      {
+        "key": "e_1_3_3_22_1",
+        "unstructured": "Workforce Innovation and Opportunity Act 29 U.S.C. § 3101. (2014)."
+      }
+    ],
+    "container-title": [
+      "Journal of Vocational Rehabilitation"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/10522263251413171",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/10522263251413171",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/10522263251413171",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          11
+        ]
+      ],
+      "date-time": "2026-03-11T10:42:09Z",
+      "timestamp": 1773225729000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/10.1177/10522263251413171"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          23
+        ]
+      ]
+    },
+    "references-count": 21,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            3
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1177/10522263251413171"
+    ],
+    "URL": "https://doi.org/10.1177/10522263251413171",
+    "relation": {},
+    "ISSN": [
+      "1052-2263",
+      "1878-6316"
+    ],
+    "issn-type": [
+      {
+        "value": "1052-2263",
+        "type": "print"
+      },
+      {
+        "value": "1878-6316",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          23
+        ]
+      ]
+    }
+  }
+}

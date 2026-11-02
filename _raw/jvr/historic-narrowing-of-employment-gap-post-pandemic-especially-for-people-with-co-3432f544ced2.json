@@ -1,0 +1,1667 @@
+{
+  "source_type": "jvr_pdf_candidate",
+  "doi": "10.1177/10522263251394338",
+  "doi_url": "https://doi.org/10.1177/10522263251394338",
+  "source_url": "https://journals.sagepub.com/doi/10.1177/10522263251394338",
+  "attempted_pdf_urls": [
+    "https://journals.sagepub.com/doi/pdf/10.1177/10522263251394338",
+    "https://journals.sagepub.com/doi/10.1177/10522263251394338",
+    "https://doi.org/10.1177/10522263251394338",
+    "https://content.iospress.com/download?id=10.1177/10522263251394338"
+  ],
+  "selected_pdf_url": "",
+  "selected_final_url": "",
+  "download_status": "unavailable",
+  "match": {
+    "veteran_hits": [
+      "va "
+    ],
+    "pathway_hits": [
+      "employment"
+    ],
+    "disability_hits": [
+      "disability",
+      "disabilities"
+    ]
+  },
+  "openalex": {
+    "id": "https://openalex.org/W4417050501",
+    "doi": "https://doi.org/10.1177/10522263251394338",
+    "title": "Historic Narrowing of Employment Gap Post-Pandemic, Especially for People with Cognitive Disabilities",
+    "display_name": "Historic Narrowing of Employment Gap Post-Pandemic, Especially for People with Cognitive Disabilities",
+    "publication_year": 2025,
+    "publication_date": "2025-12-05",
+    "ids": {
+      "openalex": "https://openalex.org/W4417050501",
+      "doi": "https://doi.org/10.1177/10522263251394338"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/10522263251394338",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/10522263251394338",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S190353498",
+        "display_name": "Journal of Vocational Rehabilitation",
+        "issn_l": "1052-2263",
+        "issn": [
+          "1052-2263",
+          "1878-6316"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310318577",
+        "host_organization_name": "IOS Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310318577"
+        ],
+        "host_organization_lineage_names": [
+          "IOS Press"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Vocational Rehabilitation",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5017807972",
+          "display_name": "Alan B. Cobo-Lewis",
+          "orcid": "https://orcid.org/0000-0002-8790-7347"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I2799962816",
+            "display_name": "University of Maine School of Law",
+            "ror": "https://ror.org/04625j688",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I2799962816",
+              "https://openalex.org/I2802397601"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I7947594",
+            "display_name": "University of Maine",
+            "ror": "https://ror.org/01adr0w49",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I2802397601",
+              "https://openalex.org/I7947594"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Alan B. Cobo-Lewis",
+        "raw_affiliation_strings": [
+          "University Maine",
+          "Department of Psychology and Center for Community Inclusion and Disability Studies, University Maine, Orono, ME, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University Maine",
+            "institution_ids": [
+              "https://openalex.org/I7947594",
+              "https://openalex.org/I2799962816"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Psychology and Center for Community Inclusion and Disability Studies, University Maine, Orono, ME, USA",
+            "institution_ids": []
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5017807972"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I2799962816",
+      "https://openalex.org/I7947594"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.40503765,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": "64",
+      "issue": "1",
+      "first_page": "85",
+      "last_page": "102"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11514",
+      "display_name": "Disability Education and Employment",
+      "score": 0.64410001039505,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3311",
+        "display_name": "Safety Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11514",
+        "display_name": "Disability Education and Employment",
+        "score": 0.64410001039505,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3311",
+          "display_name": "Safety Research"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11015",
+        "display_name": "Down syndrome and intellectual disability research",
+        "score": 0.23499999940395355,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2739",
+          "display_name": "Public Health, Environmental and Occupational Health"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11631",
+        "display_name": "Retirement, Disability, and Employment",
+        "score": 0.046799998730421066,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3317",
+          "display_name": "Demography"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/wage",
+        "display_name": "Wage",
+        "score": 0.6869999766349792
+      },
+      {
+        "id": "https://openalex.org/keywords/american-community-survey",
+        "display_name": "American Community Survey",
+        "score": 0.6574000120162964
+      },
+      {
+        "id": "https://openalex.org/keywords/census",
+        "display_name": "Census",
+        "score": 0.628600001335144
+      },
+      {
+        "id": "https://openalex.org/keywords/cognitive-disabilities",
+        "display_name": "Cognitive disabilities",
+        "score": 0.46939998865127563
+      },
+      {
+        "id": "https://openalex.org/keywords/cognition",
+        "display_name": "Cognition",
+        "score": 0.46630001068115234
+      },
+      {
+        "id": "https://openalex.org/keywords/survey-data-collection",
+        "display_name": "Survey data collection",
+        "score": 0.44749999046325684
+      },
+      {
+        "id": "https://openalex.org/keywords/minimum-wage",
+        "display_name": "Minimum wage",
+        "score": 0.3675000071525574
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2777388388",
+        "wikidata": "https://www.wikidata.org/wiki/Q6821213",
+        "display_name": "Wage",
+        "level": 2,
+        "score": 0.6869999766349792
+      },
+      {
+        "id": "https://openalex.org/C15672241",
+        "wikidata": "https://www.wikidata.org/wiki/Q463769",
+        "display_name": "American Community Survey",
+        "level": 4,
+        "score": 0.6574000120162964
+      },
+      {
+        "id": "https://openalex.org/C52130261",
+        "wikidata": "https://www.wikidata.org/wiki/Q39825",
+        "display_name": "Census",
+        "level": 3,
+        "score": 0.628600001335144
+      },
+      {
+        "id": "https://openalex.org/C4249254",
+        "wikidata": "https://www.wikidata.org/wiki/Q3044431",
+        "display_name": "Demographic economics",
+        "level": 1,
+        "score": 0.48840001225471497
+      },
+      {
+        "id": "https://openalex.org/C2983586703",
+        "wikidata": "https://www.wikidata.org/wiki/Q3317827",
+        "display_name": "Cognitive disabilities",
+        "level": 3,
+        "score": 0.46939998865127563
+      },
+      {
+        "id": "https://openalex.org/C169900460",
+        "wikidata": "https://www.wikidata.org/wiki/Q2200417",
+        "display_name": "Cognition",
+        "level": 2,
+        "score": 0.46630001068115234
+      },
+      {
+        "id": "https://openalex.org/C198477413",
+        "wikidata": "https://www.wikidata.org/wiki/Q7647069",
+        "display_name": "Survey data collection",
+        "level": 2,
+        "score": 0.44749999046325684
+      },
+      {
+        "id": "https://openalex.org/C145236788",
+        "wikidata": "https://www.wikidata.org/wiki/Q28161",
+        "display_name": "Labour economics",
+        "level": 1,
+        "score": 0.42309999465942383
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.4034999907016754
+      },
+      {
+        "id": "https://openalex.org/C2778716609",
+        "wikidata": "https://www.wikidata.org/wiki/Q186228",
+        "display_name": "Minimum wage",
+        "level": 2,
+        "score": 0.3675000071525574
+      },
+      {
+        "id": "https://openalex.org/C74909509",
+        "wikidata": "https://www.wikidata.org/wiki/Q10387",
+        "display_name": "Gerontology",
+        "level": 1,
+        "score": 0.35440000891685486
+      },
+      {
+        "id": "https://openalex.org/C2776390805",
+        "wikidata": "https://www.wikidata.org/wiki/Q7258035",
+        "display_name": "Public use",
+        "level": 2,
+        "score": 0.34470000863075256
+      },
+      {
+        "id": "https://openalex.org/C2776099370",
+        "wikidata": "https://www.wikidata.org/wiki/Q7647087",
+        "display_name": "Survey of Income and Program Participation",
+        "level": 2,
+        "score": 0.3346000015735626
+      },
+      {
+        "id": "https://openalex.org/C109986646",
+        "wikidata": "https://www.wikidata.org/wiki/Q546113",
+        "display_name": "Public policy",
+        "level": 2,
+        "score": 0.3343000113964081
+      },
+      {
+        "id": "https://openalex.org/C2778818304",
+        "wikidata": "https://www.wikidata.org/wiki/Q1819478",
+        "display_name": "Rehabilitation",
+        "level": 2,
+        "score": 0.32429999113082886
+      },
+      {
+        "id": "https://openalex.org/C144133560",
+        "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+        "display_name": "Business",
+        "level": 0,
+        "score": 0.320499986410141
+      },
+      {
+        "id": "https://openalex.org/C2911183331",
+        "wikidata": "https://www.wikidata.org/wiki/Q6821213",
+        "display_name": "Hourly wage",
+        "level": 3,
+        "score": 0.31310001015663147
+      },
+      {
+        "id": "https://openalex.org/C134290984",
+        "wikidata": "https://www.wikidata.org/wiki/Q5141241",
+        "display_name": "Cognitive skill",
+        "level": 3,
+        "score": 0.3109000027179718
+      },
+      {
+        "id": "https://openalex.org/C162324750",
+        "wikidata": "https://www.wikidata.org/wiki/Q8134",
+        "display_name": "Economics",
+        "level": 0,
+        "score": 0.30320000648498535
+      },
+      {
+        "id": "https://openalex.org/C137403100",
+        "wikidata": "https://www.wikidata.org/wiki/Q41710",
+        "display_name": "Ethnic group",
+        "level": 2,
+        "score": 0.27250000834465027
+      },
+      {
+        "id": "https://openalex.org/C71924100",
+        "wikidata": "https://www.wikidata.org/wiki/Q11190",
+        "display_name": "Medicine",
+        "level": 0,
+        "score": 0.27230000495910645
+      },
+      {
+        "id": "https://openalex.org/C2780870317",
+        "wikidata": "https://www.wikidata.org/wiki/Q5384153",
+        "display_name": "Equal employment opportunity",
+        "level": 3,
+        "score": 0.258899986743927
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1177/10522263251394338",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1177/10522263251394338",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S190353498",
+          "display_name": "Journal of Vocational Rehabilitation",
+          "issn_l": "1052-2263",
+          "issn": [
+            "1052-2263",
+            "1878-6316"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310318577",
+          "host_organization_name": "IOS Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310318577"
+          ],
+          "host_organization_lineage_names": [
+            "IOS Press"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Vocational Rehabilitation",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "content_urls": null,
+    "referenced_works_count": 21,
+    "referenced_works": [
+      "https://openalex.org/W1518320557",
+      "https://openalex.org/W1523531092",
+      "https://openalex.org/W1977925417",
+      "https://openalex.org/W2019658060",
+      "https://openalex.org/W2070676283",
+      "https://openalex.org/W2119160928",
+      "https://openalex.org/W2123216591",
+      "https://openalex.org/W3112717819",
+      "https://openalex.org/W3116703703",
+      "https://openalex.org/W3117173428",
+      "https://openalex.org/W3153597268",
+      "https://openalex.org/W4254687493",
+      "https://openalex.org/W4295805873",
+      "https://openalex.org/W4309990802",
+      "https://openalex.org/W4311343065",
+      "https://openalex.org/W4311360682",
+      "https://openalex.org/W4312010542",
+      "https://openalex.org/W4323358031",
+      "https://openalex.org/W4391109446",
+      "https://openalex.org/W4410884809",
+      "https://openalex.org/W4411577320"
+    ],
+    "related_works": [],
+    "abstract_inverted_index": {
+      "Background": [
+        0
+      ],
+      "People": [
+        1
+      ],
+      "with": [
+        2,
+        13,
+        19,
+        66,
+        159,
+        176,
+        186,
+        195
+      ],
+      "disabilities": [
+        3,
+        20,
+        161,
+        188
+      ],
+      "are": [
+        4
+      ],
+      "underemployed.": [
+        5
+      ],
+      "This": [
+        6
+      ],
+      "improved": [
+        7
+      ],
+      "recently.": [
+        8
+      ],
+      "Under": [
+        9
+      ],
+      "federal": [
+        10
+      ],
+      "law,": [
+        11
+      ],
+      "employers": [
+        12
+      ],
+      "14(c)": [
+        14,
+        34,
+        191
+      ],
+      "certificates": [
+        15,
+        120
+      ],
+      "can": [
+        16
+      ],
+      "pay": [
+        17
+      ],
+      "people": [
+        18,
+        65,
+        158,
+        175,
+        185
+      ],
+      "far": [
+        21
+      ],
+      "below": [
+        22
+      ],
+      "minimum": [
+        23
+      ],
+      "wage,": [
+        24
+      ],
+      "typically": [
+        25
+      ],
+      "in": [
+        26,
+        33,
+        57,
+        121,
+        141,
+        155,
+        204
+      ],
+      "segregated": [
+        27
+      ],
+      "settings": [
+        28
+      ],
+      "(sheltered": [
+        29
+      ],
+      "workshops).": [
+        30
+      ],
+      "Almost": [
+        31
+      ],
+      "everyone": [
+        32
+      ],
+      "employment": [
+        35,
+        58,
+        84,
+        100,
+        142,
+        156,
+        168,
+        182,
+        211
+      ],
+      "has": [
+        36
+      ],
+      "an": [
+        37
+      ],
+      "intellectual/developmental": [
+        38
+      ],
+      "disability.": [
+        39
+      ],
+      "Some": [
+        40
+      ],
+      "states": [
+        41
+      ],
+      "have": [
+        42
+      ],
+      "eliminated": [
+        43
+      ],
+      "sheltered": [
+        44
+      ],
+      "workshops,": [
+        45
+      ],
+      "but": [
+        46,
+        207
+      ],
+      "phase-out": [
+        47
+      ],
+      "is": [
+        48
+      ],
+      "controversial.": [
+        49
+      ],
+      "Objective": [
+        50
+      ],
+      "To": [
+        51
+      ],
+      "examine": [
+        52
+      ],
+      "pre-": [
+        53
+      ],
+      "and": [
+        54,
+        60,
+        74,
+        77,
+        86,
+        106,
+        126,
+        143,
+        162,
+        213,
+        229,
+        231,
+        242
+      ],
+      "post-pandemic": [
+        55,
+        240
+      ],
+      "trends": [
+        56,
+        140
+      ],
+      "rates": [
+        59
+      ],
+      "subminimum": [
+        61,
+        87,
+        118,
+        136,
+        144,
+        163,
+        197,
+        214
+      ],
+      "wage": [
+        62,
+        119,
+        145,
+        164,
+        198,
+        215
+      ],
+      "prevalence": [
+        63,
+        146,
+        199,
+        216
+      ],
+      "among": [
+        64,
+        72
+      ],
+      "disabilities,": [
+        67,
+        70
+      ],
+      "especially": [
+        68,
+        172
+      ],
+      "cognitive": [
+        69,
+        109,
+        160,
+        177,
+        187
+      ],
+      "differences": [
+        71
+      ],
+      "states,": [
+        73
+      ],
+      "what": [
+        75
+      ],
+      "national": [
+        76
+      ],
+      "state-by-state": [
+        78,
+        153
+      ],
+      "data": [
+        79,
+        98,
+        116,
+        129
+      ],
+      "reveal": [
+        80
+      ],
+      "about": [
+        81
+      ],
+      "associations": [
+        82
+      ],
+      "between": [
+        83,
+        210
+      ],
+      "rate": [
+        85,
+        101,
+        212
+      ],
+      "wage.": [
+        88,
+        137
+      ],
+      "Method": [
+        89
+      ],
+      "I": [
+        90,
+        138,
+        151
+      ],
+      "analyzed": [
+        91
+      ],
+      "2010–2023": [
+        92
+      ],
+      "U.S.": [
+        93
+      ],
+      "Census": [
+        94
+      ],
+      "American": [
+        95
+      ],
+      "Community": [
+        96,
+        122
+      ],
+      "Survey": [
+        97
+      ],
+      "on": [
+        99,
+        117,
+        130
+      ],
+      "by": [
+        102
+      ],
+      "presence": [
+        103,
+        107
+      ],
+      "of": [
+        104,
+        108,
+        113,
+        132,
+        157,
+        237
+      ],
+      "disability": [
+        105
+      ],
+      "disability,": [
+        110
+      ],
+      "2010–2024": [
+        111
+      ],
+      "Department": [
+        112
+      ],
+      "Labor": [
+        114
+      ],
+      "(DOL)": [
+        115
+      ],
+      "Rehabilitation": [
+        123
+      ],
+      "Programs": [
+        124
+      ],
+      "(CRPs),": [
+        125
+      ],
+      "2015–2024": [
+        127
+      ],
+      "DOL": [
+        128
+      ],
+      "number": [
+        131
+      ],
+      "CRP": [
+        133
+      ],
+      "workers": [
+        134
+      ],
+      "paid": [
+        135
+      ],
+      "assessed": [
+        139,
+        152
+      ],
+      "graphically.": [
+        147
+      ],
+      "With": [
+        148
+      ],
+      "linear": [
+        149
+      ],
+      "regressions,": [
+        150
+      ],
+      "patterns": [
+        154
+      ],
+      "prevalence.": [
+        165
+      ],
+      "Results": [
+        166
+      ],
+      "Disability": [
+        167
+      ],
+      "gap": [
+        169,
+        183
+      ],
+      "narrowed": [
+        170,
+        189
+      ],
+      "long-term,": [
+        171
+      ],
+      "post-pandemic—moreso": [
+        173
+      ],
+      "for": [
+        174,
+        184
+      ],
+      "disabilities.": [
+        178
+      ],
+      "Long-term,": [
+        179
+      ],
+      "every": [
+        180
+      ],
+      "state's": [
+        181
+      ],
+      "while": [
+        190
+      ],
+      "enrollment": [
+        192
+      ],
+      "decreased.": [
+        193
+      ],
+      "States": [
+        194
+      ],
+      "higher": [
+        196
+      ],
+      "showed": [
+        200
+      ],
+      "much": [
+        201
+      ],
+      "larger": [
+        202
+      ],
+      "drops": [
+        203
+      ],
+      "such": [
+        205
+      ],
+      "prevalence,": [
+        206
+      ],
+      "the": [
+        208,
+        238
+      ],
+      "association": [
+        209
+      ],
+      "was": [
+        217
+      ],
+      "modest.": [
+        218
+      ],
+      "Conclusion": [
+        219
+      ],
+      "Employment": [
+        220
+      ],
+      "improvements": [
+        221
+      ],
+      "parallel": [
+        222
+      ],
+      "nationwide": [
+        223
+      ],
+      "initiatives.": [
+        224
+      ],
+      "Research": [
+        225
+      ],
+      "informing": [
+        226
+      ],
+      "public": [
+        227
+      ],
+      "policy": [
+        228
+      ],
+      "hiring": [
+        230
+      ],
+      "retention": [
+        232
+      ],
+      "practices": [
+        233
+      ],
+      "should": [
+        234,
+        245
+      ],
+      "take": [
+        235
+      ],
+      "advantage": [
+        236
+      ],
+      "further": [
+        239
+      ],
+      "improvement,": [
+        241
+      ],
+      "marketing": [
+        243
+      ],
+      "investments": [
+        244
+      ],
+      "promote": [
+        246
+      ],
+      "these": [
+        247
+      ],
+      "practices.": [
+        248
+      ]
+    },
+    "counts_by_year": [],
+    "updated_date": "2026-03-07T16:01:11.037858",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  "crossref": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          20
+        ]
+      ],
+      "date-time": "2026-01-20T22:14:48Z",
+      "timestamp": 1768947288174,
+      "version": "3.49.0"
+    },
+    "reference-count": 83,
+    "publisher": "SAGE Publications",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              12,
+              5
+            ]
+          ],
+          "date-time": "2025-12-05T00:00:00Z",
+          "timestamp": 1764892800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100006307",
+        "name": "Administration for Community Living",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "90DDUC0136"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "90DDUC0136"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100006307",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.sagepub.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Journal of Vocational Rehabilitation"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          1
+        ]
+      ]
+    },
+    "abstract": "<jats:sec>\n                    <jats:title>Background</jats:title>\n                    <jats:p>People with disabilities are underemployed. This improved recently. Under federal law, employers with 14(c) certificates can pay people with disabilities far below minimum wage, typically in segregated settings (sheltered workshops). Almost everyone in 14(c) employment has an intellectual/developmental disability. Some states have eliminated sheltered workshops, but phase-out is controversial.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Objective</jats:title>\n                    <jats:p>To examine pre- and post-pandemic trends in employment rates and subminimum wage prevalence among people with disabilities, especially cognitive disabilities, differences among states, and what national and state-by-state data reveal about associations between employment rate and subminimum wage.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Method</jats:title>\n                    <jats:p>I analyzed 2010–2023 U.S. Census American Community Survey data on employment rate by presence of disability and presence of cognitive disability, 2010–2024 Department of Labor (DOL) data on subminimum wage certificates in Community Rehabilitation Programs (CRPs), and 2015–2024 DOL data on number of CRP workers paid subminimum wage. I assessed trends in employment and subminimum wage prevalence graphically. With linear regressions, I assessed state-by-state patterns in employment of people with cognitive disabilities and subminimum wage prevalence.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>Disability employment gap narrowed long-term, especially post-pandemic—moreso for people with cognitive disabilities. Long-term, every state's employment gap for people with cognitive disabilities narrowed while 14(c) enrollment decreased. States with higher subminimum wage prevalence showed much larger drops in such prevalence, but the association between employment rate and subminimum wage prevalence was modest.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusion</jats:title>\n                    <jats:p>Employment improvements parallel nationwide initiatives. Research informing public policy and hiring and retention practices should take advantage of the further post-pandemic improvement, and marketing investments should promote these practices.</jats:p>\n                  </jats:sec>",
+    "DOI": "10.1177/10522263251394338",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          5
+        ]
+      ],
+      "date-time": "2025-12-05T17:35:12Z",
+      "timestamp": 1764956112000
+    },
+    "page": "85-102",
+    "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Historic Narrowing of Employment Gap Post-Pandemic, Especially for People with Cognitive Disabilities"
+    ],
+    "prefix": "10.1177",
+    "volume": "64",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-8790-7347",
+        "authenticated-orcid": false,
+        "given": "Alan B.",
+        "family": "Cobo-Lewis",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "University Maine"
+          }
+        ]
+      }
+    ],
+    "member": "179",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          5
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_3_2_1",
+        "unstructured": "ABLE National Resource Center. (2025). Debunking ABLE Myths. ABLE National Resource Center. https://www.ablenrc.org/what-is-able/debunking-able-myths/"
+      },
+      {
+        "key": "e_1_3_3_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.dhjo.2022.101406"
+      },
+      {
+        "key": "e_1_3_3_4_1",
+        "unstructured": "Association of People Supporting Employment First. (2023). Employment First Map. Association of People Supporting Employment First. https://apse.org/home-v2-2/employment-first/"
+      },
+      {
+        "key": "e_1_3_3_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1108/S1479-354720250000016005"
+      },
+      {
+        "key": "e_1_3_3_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.alter.2014.11.003"
+      },
+      {
+        "key": "e_1_3_3_7_1",
+        "unstructured": "Burkhauser R. V. Daly M. C. Houtenville A. J. Nargis N. (2001). Economic outcomes of working-age people with disabilities over the business cycle: An examination of the 1980s and 1990s (Nos. 2001–07; Working Paper Series). Federal Reserve Bank of San Francisco. https://www.frbsf.org/wp-content/uploads/wp01-07bk.pdf"
+      },
+      {
+        "key": "e_1_3_3_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1044207312446226"
+      },
+      {
+        "key": "e_1_3_3_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.17848/9780585473666.ch11"
+      },
+      {
+        "key": "e_1_3_3_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1176/ps.2009.60.8.1024"
+      },
+      {
+        "key": "e_1_3_3_11_1",
+        "unstructured": "Christensen J. (2024). Trends and Current Status of 14(c). Association of People Supporting Employment. https://apse.org/wp-content/uploads/2024/08/APSE-14c-Update-REV-Jul24.pdf"
+      },
+      {
+        "key": "e_1_3_3_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1192/j.eurpsy.2020.111"
+      },
+      {
+        "key": "e_1_3_3_13_1",
+        "unstructured": "Coalition for the Preservation of Employment Choice. (2022 January). Protecting Employment for Individuals with Intellectual and Developmental Disabilities. https://employmentchoice.org/protecting-employment-for-individuals-with-i-dd-coalition-white-paper-2022/"
+      },
+      {
+        "key": "e_1_3_3_14_1",
+        "unstructured": "Data Collection Analysis and Quality 42 U.S. Code § 300kk. (2023) https://www.govinfo.gov/app/details/USCODE-2023-title42/USCODE-2023-title42-chap6A-subchapXXIX-sec300kk"
+      },
+      {
+        "key": "e_1_3_3_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0000194-018"
+      },
+      {
+        "key": "e_1_3_3_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1023/A:1022086131916"
+      },
+      {
+        "key": "e_1_3_3_17_1",
+        "unstructured": "Employment of Workers With Disabilities Under Section 14(c) of the Fair Labor Standards Act (Notice of Proposed Rulemaking) 89 Federal Register 96467. (2024). https://www.federalregister.gov/documents/2024/12/04/2024-27880/employment-of-workers-with-disabilities-under-section-14c-of-the-fair-labor-standards-act"
+      },
+      {
+        "key": "e_1_3_3_18_1",
+        "unstructured": "Executive Order 13658 79 Federal Register 9851. (2014). https://www.federalregister.gov/documents/2014/02/20/2014-03805/establishing-a-minimum-wage-for-contractors"
+      },
+      {
+        "key": "e_1_3_3_19_1",
+        "unstructured": "Executive Order 14026 86 Federal Register 22835. (2021). https://www.federalregister.gov/documents/2021/04/30/2021-09263/increasing-the-minimum-wage-for-federal-contractors"
+      },
+      {
+        "key": "e_1_3_3_20_1",
+        "unstructured": "Executive Order 14236 90 Federal Register 13037. (2025). https://www.federalregister.gov/documents/2025/03/20/2025-04866/additional-rescissions-of-harmful-executive-orders-and-actions"
+      },
+      {
+        "key": "e_1_3_3_21_1",
+        "unstructured": "Fair Labor Standards Act of 1938 29 U.S. Code § 214. (2023) https://www.govinfo.gov/app/details/USCODE-2023-title29/USCODE-2023-title29-chap8-sec214"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_3_3_22_1",
+        "first-page": "3",
+        "article-title": "The underemployment of persons with disabilities during the great recession",
+        "volume": "19",
+        "author": "Fogg N. P.",
+        "year": "2011",
+        "unstructured": "Fogg N. P., Harrington P., McMahon B. T. (2011). The underemployment of persons with disabilities during the great recession. The Rehabilitation Professional, 19(1), 3–10. https://doi.org/10.70385/001c.146804",
+        "journal-title": "The Rehabilitation Professional"
+      },
+      {
+        "key": "e_1_3_3_23_1",
+        "unstructured": "Gamble C. Butler N. Koerber W. (2022 July 20). Introduction to American Community Survey (ACS) Group Quarters Data. U.S. Census Bureau. https://www2.census.gov/training-workshops/2022/2022-07-20-acs-presentation.pdf"
+      },
+      {
+        "key": "e_1_3_3_24_1",
+        "unstructured": "Gamboa A. H. (2002 April 4). Legal Authority for American Community Survey. https://www.gao.gov/assets/b-289852.pdf"
+      },
+      {
+        "key": "e_1_3_3_25_1",
+        "unstructured": "Government Accountability Office. (2023a). Subminimum Wage Program: DOL Could Do More to Ensure Timely Oversight (No. GAO-23-105116). U.S Government Accountability Office. https://www.gao.gov/products/gao-23-105116"
+      },
+      {
+        "key": "e_1_3_3_26_1",
+        "unstructured": "Government Accountability Office. (2023b). Telework Growth Supported Economic Activity during the Pandemic but Future Impacts are Uncertain (No. GAO-23-105999). U.S Government Accountability Office. https://www.gao.gov/products/gao-23-105999"
+      },
+      {
+        "key": "e_1_3_3_27_1",
+        "unstructured": "Guidance Under Section 529A: Qualified ABLE Programs 85 Federal Register 74010. (2020). https://www.federalregister.gov/documents/2020/11/19/2020-22144/guidance-under-section-529a-qualified-able-programs"
+      },
+      {
+        "key": "e_1_3_3_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1257/pandp.20251078"
+      },
+      {
+        "key": "e_1_3_3_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.apmr.2021.03.019"
+      },
+      {
+        "key": "e_1_3_3_30_1",
+        "unstructured": "Home and Community-Based Setting 42 Code of Federal Regulations § 441.530(a)(1)(i). Retrieved June 20 2025 from https://www.ecfr.gov/current/title-42/part-441/section-441.530#p-441.530(a)(1)(i)"
+      },
+      {
+        "issue": "10",
+        "key": "e_1_3_3_31_1",
+        "first-page": "19",
+        "article-title": "The impact of the 2007-09 recession on workers with disabilities",
+        "volume": "133",
+        "author": "Kaye H. S.",
+        "year": "2010",
+        "unstructured": "Kaye H. S. (2010). The impact of the 2007-09 recession on workers with disabilities. Monthly Labor Review, 133(10), 19–30. Retrieved May 26, 2025, from https://www.bls.gov/opub/mlr/2010/10/art2full.pdf",
+        "journal-title": "Monthly Labor Review"
+      },
+      {
+        "key": "e_1_3_3_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/14651858.CD008297.pub2"
+      },
+      {
+        "key": "e_1_3_3_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10926-023-10164-w"
+      },
+      {
+        "key": "e_1_3_3_34_1",
+        "unstructured": "Lane v. Kitzhaber 841 F. Supp. 2d 1199 (D. Or. 2012)."
+      },
+      {
+        "key": "e_1_3_3_35_1",
+        "unstructured": "Lynch C. A. (2020 July 14). Re: Home and Community-Based Settings Regulation – Implementation Timeline Extension and Revised Frequently Asked Questions. Center for Medicare & Medicaid Services. https://www.medicaid.gov/Federal-Policy-Guidance/Downloads/smd20003.pdf"
+      },
+      {
+        "key": "e_1_3_3_36_1",
+        "unstructured": "Marks R. Rios-Vargas M. (2021). Improvements to the 2020 Census Race and Hispanic Origin Question Designs Data Processing and Coding Procedures. https://www.census.gov/newsroom/blogs/random-samplings/2021/08/improvements-to-2020-census-race-hispanic-origin-question-designs.html"
+      },
+      {
+        "key": "e_1_3_3_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2975/31.4.2008.350.359"
+      },
+      {
+        "key": "e_1_3_3_38_1",
+        "unstructured": "National Institute on Disability Independent Living and Rehabilitation Research. (2024). 2024-2028 Long-Range Plan. https://acl.gov/sites/default/files/about-acl/2024-01/ACL_Final%20Transmitted_NIDILRR%20LRP%202024-2028.pdf"
+      },
+      {
+        "key": "e_1_3_3_39_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.dhjo.2022.101429"
+      },
+      {
+        "key": "e_1_3_3_40_1",
+        "unstructured": "Olmstead v. L.C. 527 U.S. 581 (U.S. Supreme Court. (1999."
+      },
+      {
+        "key": "e_1_3_3_41_1",
+        "first-page": "3",
+        "volume-title": "Research in social science and disability",
+        "author": "Pettinicchio D.",
+        "year": "2017",
+        "unstructured": "Pettinicchio D., Maroto M. (2017). Employment outcomes among men and women with disabilities: How the intersection of gender and disability Status shapes labor market inequality. In Altman B. M. (Ed.), Research in social science and disability (Vol. 10, pp. 3–33). Emerald Publishing Limited. https://doi.org/10.1108/S1479-354720170000010003"
+      },
+      {
+        "key": "e_1_3_3_42_1",
+        "unstructured": "Phoenix J. A. Bysshe T. (2015). Transitions: A Case Study of the Conversion from Sheltered Workshops to Integrated Employment in Maine. https://www.moworkshops.org/newsFolder/shutdown/REPORT_Transitions_ConversionFromShelteredWorkshops_Maine_July2015.pdf"
+      },
+      {
+        "key": "e_1_3_3_43_1",
+        "unstructured": "Prohibition on the Payment of Subminimum Wages Under 14(c) Certificates as a Qualification for Participation as a Nonprofit Agency Under the Javits Wagner O’Day Act 87 Federal Register 43427. (2022). https://www.federalregister.gov/documents/2022/07/21/2022-15561/prohibition-on-the-payment-of-subminimum-wages-under-14c-certificates-as-a-qualification-for"
+      },
+      {
+        "key": "e_1_3_3_44_1",
+        "unstructured": "Public Law 113–295 - An Act to Amend the Internal Revenue Code of 1986 to Extend Certain Expiring Provisions and Make Technical Corrections to Amend the Internal Revenue Code of 1986 to Provide for the Tax Treatment of ABLE Accounts Established under State Programs for the Care of Family Members with Disabilities and for Other Purposes Pub. L. No. 113–295. (2014). https://www.govinfo.gov/app/details/PLAW-113publ295"
+      },
+      {
+        "key": "e_1_3_3_45_1",
+        "unstructured": "R Core Team. (2024). R: A Language and Environment for Statistical Computing [Computer software]. R Foundation for Statistical Computing. www.R-project.org"
+      },
+      {
+        "key": "e_1_3_3_46_1",
+        "unstructured": "Rehabilitation Act Amendments of 1986 Pub. L. No. 99–506. (1986). https://www.govinfo.gov/content/pkg/STATUTE-100/pdf/STATUTE-100-Pg1807.pdf"
+      },
+      {
+        "key": "e_1_3_3_47_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-221222"
+      },
+      {
+        "key": "e_1_3_3_48_1",
+        "volume-title": "IPUMS USA: Version 16.0 (Version 16.0) [Dataset]",
+        "author": "Ruggles S.",
+        "year": "2025",
+        "unstructured": "Ruggles S., Flood S., Sobek M., Backman D., Cooper G., Drew J. A. R., Richards S., Rodgers R., Schroeder J., Williams K. (2025). IPUMS USA: Version 16.0 (Version 16.0) [Dataset]. IPUMS. https://doi.org/10.18128/D010.V16.0"
+      },
+      {
+        "key": "e_1_3_3_49_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1515/9783110743647-006"
+      },
+      {
+        "key": "e_1_3_3_50_1",
+        "unstructured": "Shepard J. Winson J. Butterworth J. Migliore A. Domin D. Zalewska A. (2023). American Community Survey 2021 (No. Data Note 83; Data Note Series). Institute for Community Inclusion University of Massachusetts Boston. https://scholarworks.umb.edu/cgi/viewcontent.cgi?article=1249&context=ici_pubs"
+      },
+      {
+        "key": "e_1_3_3_51_1",
+        "unstructured": "Society for Human Resource Management. (n.d.). Certificate | SHRM Foundation Employing Disabilities. Retrieved August 25 2025 from https://employingabilities.org/certificate/"
+      },
+      {
+        "key": "e_1_3_3_52_1",
+        "unstructured": "Society for Human Resource Management. (2019). Employing Abilities @Work: 2019 research report. Society for Human Resource Management. https://web.archive.org/web/20230130180454https://employingabilities.org/2019_EAW_research_report.pdf"
+      },
+      {
+        "key": "e_1_3_3_53_1",
+        "unstructured": "Society for Human Resource Management. (2025). SHRM Foundation Employing Disabilities | Delivering a Talent Development Solution for HR. https://employingabilities.org/"
+      },
+      {
+        "key": "e_1_3_3_54_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-221225"
+      },
+      {
+        "key": "e_1_3_3_55_1",
+        "article-title": "Department of Labor Office of Disability Employment Policy",
+        "author": "U.S",
+        "unstructured": "U.S. Department of Labor Office of Disability Employment Policy. (n.d.-c). Employment First. Retrieved June 21, 2025, from https://www.dol.gov/agencies/odep/initiatives/employment-first",
+        "journal-title": "("
+      },
+      {
+        "key": "e_1_3_3_56_1",
+        "unstructured": "U.S. AbilityOne Commission. (2025a). FAQs. https://www.abilityone.gov/abilityone_program/faqs.html#1"
+      },
+      {
+        "key": "e_1_3_3_57_1",
+        "unstructured": "U.S. AbilityOne Commission. (2025b). History. https://www.abilityone.gov/abilityone_program/history.html"
+      },
+      {
+        "key": "e_1_3_3_58_1",
+        "unstructured": "U.S. Census Bureau. (n.d.-a). B18120: Employment Status by…- Census Bureau Table. Retrieved June 22 2025 from https://data.census.gov/table/ACSDT1Y2022.B18120?q=B18120"
+      },
+      {
+        "key": "e_1_3_3_59_1",
+        "unstructured": "U.S. Census Bureau. (n.d.-b). Sample Size and Data Quality. Retrieved May 27 2025 from https://www.census.gov/acs/www/methodology/sample_size_and_data_quality/"
+      },
+      {
+        "key": "e_1_3_3_60_1",
+        "unstructured": "US Census Bureau. (2025). About the Puerto Rico Community Survey. Census.Gov. https://www.census.gov/programs-surveys/acs/about/puerto-rico-community-survey.html"
+      },
+      {
+        "key": "e_1_3_3_61_1",
+        "unstructured": "U.S. Census Bureau. (2021a). Understanding and Using the American Community Survey Public Use Microdata Sample Files: What Data Users Need to Know. U.S. Government Printing Office. https://www.census.gov/content/dam/Census/library/publications/2021/acs/acs_pums_handbook_2021.pdf"
+      },
+      {
+        "key": "e_1_3_3_62_1",
+        "unstructured": "U.S. Census Bureau. (2021b November 21). How Disability Data are Collected from The American Community Survey. Census.Gov. https://www.census.gov/topics/health/disability/guidance/data-collection-acs.html"
+      },
+      {
+        "key": "e_1_3_3_63_1",
+        "unstructured": "U.S. Census Bureau. (2023 August 22). Sample Size Definitions. Census.Gov. https://www.census.gov/programs-surveys/acs/methodology/sample-size-and-data-quality/sample-size-definitions.html"
+      },
+      {
+        "key": "e_1_3_3_64_1",
+        "unstructured": "U.S. Census Bureau. (2024). American Community Survey and Puerto Rico Community Survey Design and Methodology Version 4.0. https://www2.census.gov/programs-surveys/acs/methodology/design_and_methodology/2024/acs_design_methodology_report_2024.pdf"
+      },
+      {
+        "key": "e_1_3_3_65_1",
+        "unstructured": "U.S. Census Bureau. (2025a). For People Living in Group Quarters. https://www.census.gov/programs-surveys/acs/respond/people-in-group-housing.html"
+      },
+      {
+        "key": "e_1_3_3_66_1",
+        "unstructured": "U.S. Census Bureau. (2025b January 7). American Community Survey Data via API. Census.Gov. https://www.census.gov/programs-surveys/acs/data/data-via-api.html"
+      },
+      {
+        "key": "e_1_3_3_67_1",
+        "unstructured": "U.S. Census Bureau. (2025c June 12). About Disability. Census.Gov. https://www.census.gov/topics/health/disability/about.html"
+      },
+      {
+        "key": "e_1_3_3_68_1",
+        "unstructured": "U.S. Commission on Civil Rights. (2000). Subminimum Wages: Impacts on the Civil Rights of People with Disabilities [Annual Statutory Enforcement Briefing Reports]. https://www.usccr.gov/reports/2020/subminimum-wages-impacts-civil-rights-people-disabilities"
+      },
+      {
+        "key": "e_1_3_3_69_1",
+        "unstructured": "U.S. Department of Education. (2022 September 21). Education Department Awards $177 Million in New Grants to Increase Competitive Integrated Employment for People with Disabilities. https://web.archive.org/web/20241214055923/https://www.ed.gov/about/news/press-release/education-department-awards-177-million-new-grants-increase-competitive"
+      },
+      {
+        "key": "e_1_3_3_70_1",
+        "unstructured": "U.S. Department of Education Office of Special Education and Rehabilitative Services. (2013). National Institute on Disability and Rehabilitation Research; Long-Range Plan for Fiscal Years 2013-2017 (78 Federal Register 20299). https://www.govinfo.gov/app/details/FR-2013-04-04/2013-07879"
+      },
+      {
+        "key": "e_1_3_3_71_1",
+        "unstructured": "U.S. Department of Labor Office of Disability Employment Policy. (n.d.-a). Campaign for Disability Employment (CDE). Retrieved June 21 2025 from https://www.dol.gov/agencies/odep/initiatives/campaign-for-disability-employment"
+      },
+      {
+        "key": "e_1_3_3_72_1",
+        "unstructured": "U.S. Department of Labor Office of Disability Employment Policy. (n.d.-b). CIE Transformation Hub. Retrieved June 21 2025 from https://www.dol.gov/agencies/odep/program-areas/cie/hub"
+      },
+      {
+        "key": "e_1_3_3_73_1",
+        "unstructured": "U.S. Department of Labor Office of Disability Employment Policy. (n.d.-d). National Expansion of Employment Opportunities Network (NEON). Retrieved June 21 2025 from https://www.dol.gov/agencies/odep/initiatives/neon"
+      },
+      {
+        "key": "e_1_3_3_74_1",
+        "unstructured": "U.S. Department of Labor Office of Disability Employment Policy. (2016 September 14). Six States Receive Nearly $15M in Grants to Expand Employment Opportunities for People with Disabilities. https://www.dol.gov/newsroom/releases/odep/odep20160914"
+      },
+      {
+        "key": "e_1_3_3_75_1",
+        "unstructured": "U.S. Department of Labor Wage and Hour Division. (n.d.). Field Operations Handbook—Chapter 64. Retrieved June 20 2025 from https://www.dol.gov/agencies/whd/field-operations-handbook/Chapter-64#b64b00"
+      },
+      {
+        "key": "e_1_3_3_76_1",
+        "unstructured": "U.S. Department of Labor Wage and Hour Division. (2025). Annual Report to Authorizing and Appropriations Committees on the U.S. Department of Labor’s Wage and Hour Division Section 14(c) Program. https://www.dol.gov/sites/dolgov/files/WHD/14c/WHD_FY24_Annual_14(c)_Report_to_Congress.pdf"
+      },
+      {
+        "key": "e_1_3_3_77_1",
+        "unstructured": "Voice of Reason. (2021). VOR in Support of Protecting Vocational Centers and 14(c)Wage Certificates 2-4-21. https://vor.net/images/stories/2020-2021/VOR_-_In_Support_of_Protecting_Vocational_Centers_and_14c_Wage_Certificates_2-4-21.pdf"
+      },
+      {
+        "key": "e_1_3_3_78_1",
+        "unstructured": "Walker K. Herman M. (2024). tidycensus: Load US Census Boundary and Attribute Data as “tidyverse”and ‘sf’-Ready Data Frames (Version 1.6.5) [Computer software]. https://CRAN.R-project.org/package=tidycensus"
+      },
+      {
+        "key": "e_1_3_3_79_1",
+        "unstructured": "Wayback Machine. (2025). In Wikipedia. https://en.wikipedia.org/w/index.php?title=Wayback_Machine&oldid=1294949710"
+      },
+      {
+        "key": "e_1_3_3_80_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-319-24277-4"
+      },
+      {
+        "key": "e_1_3_3_81_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-9868.2010.00749.x"
+      },
+      {
+        "key": "e_1_3_3_82_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1201/9781315370279"
+      },
+      {
+        "key": "e_1_3_3_83_1",
+        "unstructured": "Workforce Innovation and Opportunity Act Pub. L. No. 113–128. (2014). https://www.govinfo.gov/app/details/PLAW-113publ128"
+      },
+      {
+        "key": "e_1_3_3_84_1",
+        "unstructured": "World Health Organization. (2020). Disability considerations during the COVID-19outbreak (No. WHO/2019-nCoV/Disability/2020.1). World Health Organization. https://www.who.int/publications/i/item/WHO-2019-nCoV-Disability-2020-1"
+      }
+    ],
+    "container-title": [
+      "Journal of Vocational Rehabilitation"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/10522263251394338",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/10522263251394338",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/10522263251394338",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          20
+        ]
+      ],
+      "date-time": "2026-01-20T09:26:49Z",
+      "timestamp": 1768901209000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/10.1177/10522263251394338"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          5
+        ]
+      ]
+    },
+    "references-count": 83,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            1
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1177/10522263251394338"
+    ],
+    "URL": "https://doi.org/10.1177/10522263251394338",
+    "relation": {},
+    "ISSN": [
+      "1052-2263",
+      "1878-6316"
+    ],
+    "issn-type": [
+      {
+        "value": "1052-2263",
+        "type": "print"
+      },
+      {
+        "value": "1878-6316",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          5
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,306 @@
+FILENAME: generic-20application-20package-201894-0006-20for-20rsa-20discretionary-20grant--f29d09a3b38e.docx
+PATH: _raw/rsa.ed.gov/generic-20application-20package-201894-0006-20for-20rsa-20discretionary-20grant--f29d09a3b38e.docx
+
+U.S. Department of Education
+Office of Special Education and Rehabilitative Services
+Rehabilitation Services Administration
+Washington, D.C. 20202-2800
+FY 2022 Application Kit for New Grants
+Under
+The Rehabilitation Services Administration
+_____________________________________________________________ Program
+Assistance Listing Number ______
+FORM APPROVED
+OMB No. 1894-0006, EXP. DATE: 02/29/2024
+ED FORM 424, OMB APPROVED
+DATED MATERIAL—OPEN IMMEDIATELY
+CLOSING DATE:  __________
+Contents
+SUBJECT                                                                                              	SECTION
+Dear Applicant Letter	A
+Notice of Final Priority (as appropriate) 	B
+Notice Inviting Applications for New Awards	C
+Selection Criteria for Applications	D
+Application Transmittal Instructions	E
+Application Abstract Instructions	F
+Application Forms	G
+Part I:	Application for Federal Assistance (SF-424)
+Part II: 	Budget Information (ED 524)
+Part III:	Application Narrative
+Part IV:  	ED 524-B - Grant Performance Report (Parts 1, 2, and 3)
+Part V:	Grant Application Form for Project Objectives and Performance Measures
+Information
+Part VI:	Evidence Form (if applicable)
+Part VII:	Certifications and Disclosures:
+Certification Regarding Lobbying: Certification for Contracts, Grants, Loans and Cooperative Agreements;
+Disclosure of Lobbying Activities (SF-LLL) (optional)
+Important Notices/Information	H
+Notice to All Applicants, Section 427 of the General Education Provisions Act (GEPA)
+Electronic Notification Option for Grant Awards
+Additional Information	I
+Common Questions and Answers
+Program Application Indirect Cost Instructions
+Unique Entity Identifier (UEI) Fact Sheet
+Public Burden Statement
+According to the Paperwork Reduction Act of 1995, no persons are required to respond to a collection of information unless such collection displays a valid OMB control number.  The valid OMB control number for this information collection is 1894-0006.  Public reporting burden for this collection of information is estimated to average 40 hours per response, including time for reviewing instructions, searching existing data sources, gathering and maintaining the data needed, and completing and reviewing the collection of information.  The obligation to respond to this collection is required to obtain or retain benefit (Public Law 93-112 or 116-260). If you have any comments concerning the accuracy of the time estimate, suggestions for improving this individual collection, or if you have comments or concerns regarding the status of your individual form, application or survey, please contact Rehabilitation Services Administration (RSA) Discretionary Grant Programs, Office of Special Education and Rehabilitative Services, U.S. Department of Education, 400 Maryland Avenue, SW, Potomac Center Plaza, room 5071C, Washington D.C. 20202-2800 directly.
+Section A
+Dear Applicant Letter
+UNITED STATES DEPARTMENT OF EDUCATION
+OFFICE OF SPECIAL EDUCATION AND REHABILITATIVE SERVICES
+REHABILITATION SERVICES ADMINISTRATION
+Section B
+Notice of Final Priority
+Section C
+Notice Inviting Applications 
+For New Awards
+Section D
+Selection Criteria for Applications
+Section E
+Application Transmittal Instructions
+Revised 04/2022
+IMPORTANT – PLEASE READ FIRST
+U.S. Department of Education
+Grants.gov Submission Procedures and Tips for Applicants
+To facilitate your use of Grants.gov, this document includes important submission procedures you need to be aware of to ensure your application is received in a timely manner and accepted by the Department of Education.
+Browser Support
+The latest versions of Microsoft Internet Explorer (IE), Mozilla Firefox, Google Chrome, and Apple Safari are supported for use with Grants.gov. However, these web browsers undergo frequent changes and updates, so we recommend you have the latest version when using Grants.gov. Legacy versions of these web browsers may be functional, but you may experience issues. Grants.gov no longer provides support for Microsoft Internet Explorer 9 or below.
+For additional information or updates, please see the Grants.gov Browser information in the Applicant FAQs: http://www.grants.gov/web/grants/applicants/applicant-faqs.html#browser
+ATTENTION – Workspace, Adobe Forms and PDF Files
+Grants.gov applicants can apply online using Workspace. Workspace is a shared, online environment where members of a grant team may simultaneously access and edit different web forms within an application. For each funding opportunity announcement (FOA), you can create individual instances of a workspace.
+Below is an overview of applying on Grants.gov. For access to complete instructions on how to apply for opportunities, refer to:  https://www.grants.gov/web/grants/applicants/workspace-overview.html
+Create a Workspace: Creating a workspace allows you to complete it online and route it through your organization for review before submitting.
+2) 	Complete a Workspace: Add participants to the workspace to work on the application together, complete all the required forms online or by downloading PDF versions, and check for errors before submission. The Workspace progress bar will display the state of your application process as you apply. As you apply using Workspace, you may click the blue question mark icon near the upper-right corner of each page to access context-sensitive help.
+a. Adobe Reader: If you decide not to apply by filling out web forms you can download individual PDF forms in Workspace. The individual PDF forms can be downloaded and saved to your local device storage, network drive(s), or external drives, then accessed through Adobe Reader.
+NOTE: Visit the Adobe Software Compatibility page on Grants.gov to download the appropriate version of the software at: https://www.grants.gov/web/grants/applicants/adobe-software-compatibility.html
+b. Mandatory Fields in Forms: In the forms, you will note fields marked with an asterisk and a different background color. These fields are mandatory fields that must be completed to successfully submit your application.
+c. Complete SF-424 Fields First: The forms are designed to fill in common required fields across other forms, such as the applicant name, address, and Unique Entity Identifier (UEI) Number. Once it is completed, the information will transfer to the other forms.
+Submit a Workspace: An application may be submitted through workspace by clicking the Sign and Submit button on the Manage Workspace page, under the Forms tab. Grants.gov recommends submitting your application package at least 24-48 hours prior to the close date to provide you with time to correct any potential technical issues that may disrupt the application submission.
+Track a Workspace Submission: After successfully submitting a workspace application, a Grants.gov Tracking Number (GRANTXXXXXXXX) is automatically assigned to the application. The number will be listed on the Confirmation page that is generated after submission. Using the tracking number, access the Track My Application page under the Applicants tab or the Details tab in the submitted workspace.
+For additional training resources, including video tutorials, refer to https://www.grants.gov/web/grants/applicants/applicant-training.html.
+Helpful Reminders
+REGISTER EARLY – Grants.gov registration involves many steps including registration on SAM (www.sam.gov), which usually takes approximately 7 to 10 business days, but can take longer depending on the completeness and accuracy of the data entered into the SAM database by an applicant.  You may begin working on your application while completing the registration process, but you cannot submit an application until all of the Registration steps are complete.  Please note that once your SAM registration is active, it will take 24-48 hours for the information to be available in Grants.gov, and before you can submit an application through Grants.gov.  For detailed information on the Registration Steps, please go to:  http://www.grants.gov/web/grants/register.html. Please note that your organization will need to update its SAM registration annually.
+To register in SAM.gov, click on the “Get Started” link under the “Register Your Entity…” heading in SAM.gov. Grantees, and other entities wanting to do business with the U.S. Department of Education (e.g., entities applying for a grant), that are not already registered in SAM.gov must complete the “Register Entity” registration option and NOT the “Get a Unique Entity ID” option. The “Get a Unique Entity ID” option, which is not a full registration, is only available to entities for reporting purposes.  Failing to complete the “Register Entity” option may result in loss of funding, loss of applicant eligibility, and/or delays in receiving a grant award.  Information about SAM is available at www.SAM.gov.  To further assist you with registering in SAM or updating your existing SAM registration, see the Quick Start Guide for Grant Registrations and the Entity Registration Video at https://sam.gov/content/entity-registration.
+SUBMIT EARLY – We strongly recommend that you do not wait until the last day to submit your application.  Grants.gov will put a date/time stamp on your application and then process it after it is fully uploaded.  The time it takes to upload an application will vary depending on a number of factors including the size of the application and the speed of your Internet connection, and the time it takes Grants.gov to process the application will vary as well.  If Grants.gov rejects your application (see step three below), you will need to resubmit successfully to Grants.gov before 11:59:59 p.m. Eastern Time on the deadline date.
+You must provide the UEI on your application that was used when you registered as an Authorized Organization Representative (AOR) on Grants.gov.  This UEI is assigned to your organization in SAM at the time your organization registers in SAM.  If you do not enter the UEI assigned by SAM on your application, Grants.gov will reject your application.
+VERIFY SUBMISSION IS OK – You will want to verify that Grants.gov received your application submission on time and that it was validated successfully.  To see the date/time your application was received, login to Grants.gov and click on the Track My Application link.  For a successful submission, the date/time received should be earlier than 11:59:59 p.m. Eastern Time, on the deadline date, AND the application status should be: Validated, Received by Agency, or Agency Tracking Number Assigned.  Once the Department of Education receives your application from Grants.gov, an Agency Tracking Number (PR/award number) will be assigned to your application and will be available for viewing on Grants.gov’s Track My Application link.
+If the date/time received is later than 11:59:59 p.m. Eastern Time, on the deadline date, your application is late.  If your application has a status of “Received” it is still awaiting validation by Grants.gov.  Once validation is complete, the status will either change to “Validated” or “Rejected with Errors.”  If the status is “Rejected with Errors,” your application has not been received successfully.  Some of the reasons Grants.gov may reject an application can be found on the Grants.gov site:  http://www.grants.gov/web/grants/applicants/encountering-error-messages.html.  For more detailed information on troubleshooting Adobe errors, you can review the Adobe Reader Software Tip Sheet at:   http://www.grants.gov/web/grants/applicants/adobe-software-compatibility.html.  If you discover your application is late or has been rejected, please see the instructions below.  Note: You will receive a series of confirmations both online and via e-mail about the status of your application.  Please do not rely solely on e-mail to confirm whether your application has been received timely and validated successfully.
+Submission Problems – What should you do?
+If you have problems submitting to Grants.gov before the closing date, please contact Grants.gov Customer Support at 1-800-518-4726 or email at:  mailto:support@grants.gov or access the Grants.gov Self-Service Knowledge Base web portal at:  https://grants-portal.psc.gov/Welcome.aspx?pt=Grants
+We discourage paper applications, but if electronic submission is not possible ( e.g., you do not have access to the internet), (1) you must provide a prior written notification that you intend to submit a paper application and (2) your paper application must be postmarked by the application deadline date. If you submit your prior written notification by email, it must be received by the Department no later than 14 calendar days before the application deadline date. If you mail your notification to the Department, it must be postmarked no later than 14 calendar days before the application deadline date (See the 2021 Common Instructions for detailed instructions regarding this procedure).
+Helpful Hints When Working with Grants.gov
+Please go to http://www.grants.gov/web/grants/support.html for help with Grants.gov.  For additional tips related to submitting grant applications, please refer to the Grants.gov Applicant FAQs found at this Grants.gov link: http://www.grants.gov/web/grants/applicants/applicant-faqs.html as well as additional information on Workspace at https://www.grants.gov/web/grants/applicants/applicant-faqs.html#workspace.
+Slow Internet Connections
+When using a slow internet connection, such as a dial-up connection, to upload and submit your application, it can take significantly longer than when you are connected to the Internet with a high-speed connection, e.g., cable modem/DSL/T1.  While times will vary depending upon the size of your application, it can take a few minutes to a few hours to complete your grant submission using a dial up connection. Failure to fully upload an application by the deadline date and time will result in your application being marked late in the G5 system.  If you do not have access to a high-speed internet connection, you may want to consider following the instructions in the Federal Register notice to obtain an exception to the electronic submission requirement no later than 14 calendar days before the application deadline date.  (See the Federal Register notice for detailed instructions and the 2021 Common Instructions.)
+Attaching Files – Additional Tips
+Please note the following tips related to attaching files to your application:
+When you submit your application electronically, you must upload any narrative sections and all other attachments to your application as files in either Portable Document Format (PDF) or Microsoft Word.  Although applicants have the option of uploading any narrative sections and all other attachments to their application in either PDF or Microsoft Word, we recommend applicants submit all documents as read-only flattened PDFs, meaning any fillable PDF files must be saved and submitted as non-fillable PDF files and not as interactive or fillable PDF files, to better ensure applications are processed in a more timely, accurate, and efficient manner.
+Grants.gov cannot process an application that includes two or more files that have the same name within a grant submission.  Therefore, each file uploaded to your application package should have a unique file name.
+When attaching files, applicants should follow the guidelines established by Grants.gov on the size and content of file names.  Uploaded file names must be fewer than 50 characters, and, in general, applicants should not use any special characters.  However, Grants.gov does allow for the following UTF-8 characters when naming your attachments:  A-Z, a-z, 0-9, underscore, hyphen, space, period, parenthesis, curly braces, square brackets, ampersand, tilde, exclamation point, comma, semi colon, apostrophe, at sign, number sign, dollar sign, percent sign, plus sign, and equal sign.  Applications submitted that do not comply with the Grants.gov guidelines will be rejected at Grants.gov and not forwarded to the Department.
+Applicants should limit the size of their file attachments.  Documents submitted that contain graphics and/or scanned material often greatly increase the size of the file attachments and can result in difficulties opening the files.  For reference, the average discretionary grant application package with all attachments is less than 5 MB.  Therefore, you may want to check the total size of your package before submission.
+Section F
+Application Abstract Instructions
+Project Abstract
+Applicants are required to submit a one-page project abstract with their application. The abstract must include the following information:
+Name of Applicant (agency or institution applying for award, not the individual submitting the application)
+City and state where the agency or institution is located
+The congressional district where the agency or institution is located (number)
+The name of the Project Director and contact information and the percentage of time the Project Director will manage the project or level of effort (LOE).  Please note: The Department’s G5 grants management system will only accept one Project Director. If co-Directors are named in the application, please specify which Director should receive primary access to G5.
+Questions regarding the project abstract or any other components of the application should be directed to the competition manager before the closing date.
+Section G
+Application Forms
+U.S. Department of Education
+Office of Special Education and Rehabilitative Services
+Rehabilitation Services Administration
+Instructions for an 
+Application for Federal Assistance
+(Nonconstruction Programs)
+The enclosed forms shall be used by all applicants for Federal Assistance under all Rehabilitation Services Administration programs.  A separate application must be submitted for each grant sought.  No grant may be awarded unless the completed application forms have been received.  If an item does not appear to be relevant to the assistance requested, write "NA" for not applicable.
+This application consists of six parts.  These parts are organized in the same manner that the submitted application should be organized.  These parts are as follows:
+Part I	Application for Federal Assistance (SF-424) [1894-0007, expires 12-31-2023] https://www2.ed.gov/fund/grant/apply/appforms/sf-424-core-form.pdf
+https://www2.ed.gov/fund/grant/apply/appforms/sf-424-instructions.pdf
+Part II	Budget Information (ED 524) [1894-0008, expires 9-30-2023]
+https://www2.ed.gov/fund/grant/apply/appforms/ed524.pdf
+Part III	Application Narrative
+Part IV	ED 524-B - Grant Performance Report (Parts 1, 2, and 3) [1894-0003, expires 7-31-2024]
+https://www2.ed.gov/fund/grant/apply/appforms/ed524b_cover.pdf
+https://www2.ed.gov/fund/grant/apply/appforms/ed524b_status.pdf
+https://www2.ed.gov/fund/grant/apply/appforms/ed524b_instructions.pdf
+Part V	Grant Application Form for Project Objectives and Performance Measures Information [1894-0017, expires 7-31-2023]
+https://www2.ed.gov/fund/grant/apply/appforms/1897-0017.pdf
+Part VI	Evidence Form (optional) [1894-0001, expires 5-31-2022] https://www2.ed.gov/fund/grant/apply/appforms/evidence-form.pdf
+Part VII	Certifications and Disclosures
+Grants.Gov - Certification Regarding Lobbying
+SF-LLL - Disclosure of Lobbying Activities [4040-0013, expires 02-28-2025]
+https://www2.ed.gov/fund/grant/apply/appforms/sflll.doc
+Electronic submission requires that narratives and other files be attached to the following attachment forms as per the instruction in this document such as:
+One-page abstract must be attached to the “Department of Education Abstract Form”
+Program narratives must be attached to the “Program Narrative Attachment Form”
+Budget narratives must be attached to the “Budget Narrative Attachment Form”
+All vitas, table of contents, letters, certifications, supplementary statements, and other requested appendices must be attached to the “Other Attachment Form”
+NOTE:  Please do not attach any narratives, supporting files or application components to the Standard Form (SF-424).  Although this form accepts attachments, the Department of Education will only review materials/files attached to the attachment forms listed above.
+Each submitted application must include an index or table of contents and a one-page project abstract.  Pages should be consecutively numbered.
+According to the Paperwork Reduction Act of 1995, no persons are required to respond to a collection of information unless it displays a valid OMB control number.  The valid OMB control number for this information collection is 1820-0018.  The time required to complete this information collection is estimated to average 40 hours per response, including the time to review instructions, search existing data resources, gathering and maintaining the data needed, and completing and reviewing the collection of information.
+Under terms of the Paperwork Reduction Act of 1995, as amended, and the regulations implementing that Act, the Department of Education invites comment on the public reporting burden in this collection of information.  You may send comments regarding this burden estimate or any other aspect of this collection of information, including suggestions for reducing this burden, to the:
+U.S. Department of Education
+Information Management and Compliance Division
+Washington, DC 20202-4651
+Part III: Application Narrative
+This narrative section of the application requires applicants to address the absolute priority, particularly, the Application Requirements and the Project Requirements in the NFP (if applicable) and the NIA.
+The application narrative must also address the Selection Criteria, which the competition peer   reviewers use to evaluate and score each application. These may be found in Section __ of this application kit or Section ___ of the NIA.
+Part VII:  Certifications and Disclosures
+CERTIFICATION REGARDING LOBBYING
+Statement for Loan Guarantees and Loan Insurance
+The undersigned states, to the best of his or her knowledge and belief, that:
+If any funds have been paid or will be paid to any person for influencing or attempting to influence an officer or employee of any agency, a Member of Congress, an officer or employee of Congress, or an employee of a Member of Congress in connection with this commitment providing for the United States to insure or guarantee a loan, the undersigned shall complete and submit Standard Form-LLL, ''Disclosure of Lobbying Activities,'' in accordance with its instructions. Submission of this statement is a prerequisite for making or entering into this transaction imposed by section 1352, title 31, U.S. Code. Any person who fails to file the required statement shall be subject to a civil penalty of not less than $10,000 and not more than $100,000 for each such failure.
+Certification for Contracts, Grants, Loans, and Cooperative Agreements
+The undersigned certifies, to the best of his or her knowledge and belief, that:
+(1) No Federal appropriated funds have been paid or will be paid, by or on behalf of the undersigned, to any person for influencing or attempting to influence an officer or employee of an agency, a Member of Congress, an officer or employee of Congress, or an employee of a Member of Congress in connection with the awarding of any Federal contract, the making of any Federal grant, the making of any Federal loan, the entering into of any cooperative agreement, and the extension, continuation, renewal, amendment, or modification of any Federal contract, grant, loan, or cooperative agreement.
+(2) If any funds other than Federal appropriated funds have been paid or will be paid to any person for influencing or attempting to influence an officer or employee of any agency, a Member of Congress, an officer or employee of Congress, or an employee of a Member of Congress in connection with this Federal contract, grant, loan, or cooperative agreement, the undersigned shall complete and submit Standard Form-LLL, ''Disclosure of Lobbying Activities,'' in accordance with its instructions.
+(3) The undersigned shall require that the language of this certification be included in the award documents for all subawards at all tiers (including subcontracts, subgrants, and contracts under grants, loans, and cooperative agreements) and that all subrecipients shall certify and disclose accordingly. This certification is a material representation of fact upon which reliance was placed when this transaction was made or entered into. Submission of this certification is a prerequisite for making or entering into this transaction imposed by section 1352, title 31, U.S. Code. Any person who fails to file the required certification shall be subject to a civil penalty of not less than $10,000 and not more than $100,000 for each such failure.
+Statement for Loan Guarantees and Loan Insurance
+The undersigned states, to the best of his or her knowledge and belief, that:
+If any funds have been paid or will be paid to any person for influencing or attempting to influence an officer or employee of any agency, a Member of Congress, an officer or employee of Congress, or an employee of a Member of Congress in connection with this commitment providing for the United States to insure or guarantee a loan, the undersigned shall complete and submit Standard Form-LLL, ''Disclosure of Lobbying Activities,'' in accordance with its instructions. Submission of this statement is a prerequisite for making or entering into this transaction imposed by section 1352, title 31, U.S. Code. Any person who fails to file the required statement shall be subject to a civil penalty of not less than $10,000 and not more than $100,000 for each such failure.
+Section H
+Important Notices
+OMB Control No. 1894-0005 (Exp 06/30/2023)
+NOTICE TO ALL APPLICANTS
+The purpose of this enclosure is to inform you about the following provision in the Department of Education's General Education Provisions Act (GEPA) that applies to applicants for new grant awards under Department programs.  This provision is Section 427 of GEPA, enacted as part of the Improving America's Schools Act of 1994 (Public Law (P.L.) 103-382).
+To Whom Does This Provision Apply?
+Section 427 of GEPA affects applicants for new grant awards under this program.  ALL APPLICANTS FOR NEW AWARDS MUST INCLUDE INFORMATION IN THEIR APPLICATIONS TO ADDRESS THIS NEW PROVISION IN ORDER TO RECEIVE FUNDING UNDER THIS PROGRAM.
+(If this program is a State-formula grant program, a State needs to provide this description only for projects or activities that it carries out with funds reserved for State-level uses.  In addition, local school districts or other eligible applicants that apply to the State for funding need to provide this description in their applications to the State for funding.  The State would be responsible for ensuring that the school district or other local entity has submitted a sufficient section 427 statement as described below.)
+What Does This Provision Require?
+Section 427 requires each applicant for funds (other than an individual person) to include in its application a description of the steps the applicant proposes to take to ensure equitable access to, and participation in, its Federally-assisted program for students, teachers, and other program beneficiaries with special needs.  This provision allows applicants discretion in developing the required description.  The statute highlights six types of barriers that can impede equitable access or participation: gender, race, national origin, color, disability, or age.  Based on local circumstances, you should determine whether these or other barriers may prevent your students, teachers, etc. from such access or participation in, the Federally-funded project or activity.  The description in your application of steps to be taken to overcome these barriers need not be lengthy; you may provide a clear and succinct description of how you plan to address those barriers that are applicable to your circumstances.  In addition, the information may be provided in a single narrative, or, if appropriate, may be discussed in connection with related topics in the application.
+Section 427 is not intended to duplicate the requirements of civil rights statutes, but rather to ensure that, in designing their projects, applicants for Federal funds address equity concerns that may affect the ability of certain potential beneficiaries to fully participate in the project and to achieve to high standards.  Consistent with program requirements and its approved application, an applicant may use the Federal funds awarded to it to eliminate barriers it identifies.
+What are Examples of How an Applicant Might Satisfy the Requirement of This Provision?
+The following examples may help illustrate how an applicant may comply with Section 427.
+(1) An applicant that proposes to carry out an adult literacy project serving, among others, adults with limited English proficiency, might describe in its application how it intends to distribute a brochure about the proposed project to such potential participants in their native language.
+(2) An applicant that proposes to develop instructional materials for classroom use might describe how it will make the materials available on audio tape or in braille for students who are blind.
+(3) An applicant that proposes to carry out a model science program for secondary students and is concerned that girls may be less likely than boys to enroll in the course, might indicate how it intends to conduct "outreach" efforts to girls, to encourage their enrollment.
+(4) An applicant that proposes a project to increase school safety might describe the special efforts it will take to address concern of lesbian, gay, bisexual, and transgender students, and efforts to reach out to and involve the families of LGBT students
+We recognize that many applicants may already be implementing effective steps to ensure equity of access and participation in their grant programs, and we appreciate your cooperation in responding to the requirements of this provision.
+Estimated Burden Statement for GEPA Requirements
+According to the Paperwork Reduction Act of 1995, no persons are required to respond to a collection of information unless such collection displays a valid OMB control number.  Public reporting burden for this collection of information is estimated to average 1.5 hours per response, including time for reviewing instructions, searching existing data sources, gathering and maintaining the data needed, and completing and reviewing the collection of information.  The obligation to respond to this collection is required to obtain or retain benefit (Public Law 103-382. Send comments regarding the burden estimate or any other aspect of this collection of information, including suggestions for reducing this burden, to the U.S. Department of Education, 400 Maryland Ave., SW, Washington, DC 20210-4537 or email ICDocketMgr@ed.gov  and reference the OMB Control Number 1894-0005.
+Section I
+Common Questions and Answers
+Program Application Indirect Cost Instructions
+Transition from DUNS Number to Unique Entity Identifier (UEI) Fact Sheet
+Common Questions and Answers
+Q.	What happens to my application after it is received in the Department?
+A.	The Department's Application Control Center receives each application, assigns each an identifying number (PR/Award number), confirms receipt of applications, and sends the applications to the appropriate program office, which screens them for eligibility.  The program conducts a peer review of all eligible applications sent to a program competition, ranks them and recommends the highest ranked applications for funding with exceptions as provided by law.  The responsible official for the applicable program reviews the program office's recommendations, checks the adequacy of the documentation supporting the recommendations, and approves a final list, or slate, of recommended projects and funding amounts.  RSA program staff discusses the recommendations with the successful applicants and award the grants.
+Q.	What happens to my application if the Department finds it to be ineligible?
+A.	The Department immediately returns an application that does not meet the eligibility criteria for the particular program.  A letter from the Department explaining why it is not being reviewed in the competition accompanies the application.
+Q.	How does the Department review an application?
+A.	Each application is assessed by knowledgeable persons from outside and sometimes inside the Department who are asked for their judgments about the quality and significance of the proposed project.  These persons represent a diversity of disciplines and institutional, regional, and cultural backgrounds.  The advice of these experts is compiled by Departmental staff who comment on matters of fact or on significant issues that would otherwise be missing from the review.  The results are then presented to the responsible official responsible for the program who approves the recommendations for funding.
+Q.	What Criteria do the reviewers use when scoring an application?
+A.	Reviewers score each application using the selection criteria published in the Federal Register as part of the program regulations, which are given in Section E of this application package.  Reviewers are instructed to use only the published criteria.
+Q.	Is a recommended application guaranteed funding?
+A.	No.  Funding is not final until discussions have been successfully concluded and a grant award notification has been signed by the grants office and mailed to the applicant.
+Q.	How do the invitational, competitive and absolute priorities differ?
+A.	Invitational Priority
+The Secretary may simply invite applicants to meet a priority.   However, an application that addresses invitational priorities receives no competitive or absolute preference over applications that do not meet this priority.
+Competitive Priority
+If a program uses weighted selection criteria, the Secretary may award selection points to an application that meets the priority.  These points are in addition to any points the application earns under the selection criteria.  The notice states the maximum number of additional points that the Secretary may award to applications that meet the priority in a particularly effective way.  Or the Secretary may simply select applications that meet the competitive priority over applications of comparable merit that do not meet the priority.
+Absolute Priority
+Under an absolute priority, the Secretary may select for funding only those applications that meet the priority.
+Q.	Can changes in the size of subsequent year awards be made after the multi-year budget has been negotiated?
+A.	Yes, a grantee can renegotiate his or her multi-year budget and may be awarded additional funds if sufficient justification is presented to the Secretary and funds are available.  Also, funds can be decreased if it is determined that the multi-year budget was overestimated.
+Q.	How will funding continuation decisions be made?
+A.	Grantees will be required to complete annual performance reports that describe the projects' accomplishments, evaluations and finances.  These performance reports, along with other information, will be used by the Department to decide whether to continue funding projects.
+Program Application Indirect Cost Instructions
+Each Program is required to select, and include in its application package, one of the following indirect cost instructions, as appropriate to the program.
+First Option - For programs reimbursing the full share of indirect costs (Full reimbursement), use the following:
+The Department of Education (ED) reimburses grantees for its portion of indirect costs that a grantee incurs in projects funded by the (NAME OF PROGRAM, 84.xxx).  Any grantee charging indirect costs to a grant from this program must use the indirect cost rate negotiated with its cognizant agency for indirect costs.
+Note:  Applicants should pay special attention to specific questions on the application budget form (U.S. Department of Education Budget Information Non-Construction Programs Form 524 Sections A, B and C) about their cognizant agency and the indirect cost rate they are using in their budget.
+If an applicant selected for funding under this program has not already established a current indirect cost rate with its cognizant agency, ED generally will authorize the grantee to use a temporary rate of 10 percent of budgeted direct salaries and wages authorized under EDGAR §75.560, or a de minimis rate of 10 percent of MTDC, as authorized under 2 CFR 200.414(f).
+In accordance with EDGAR §75.560, use of the temporary rate of 10 percent of budgeted direct salaries and wages is subject to the following limitations:
+The grantee must submit an indirect cost rate proposal to its cognizant agency within 90 days after ED issues the GAN.
+If after the 90-day period, the grantee has not submitted an indirect cost rate proposal to its cognizant agency, the grantee may not charge its grant for indirect costs (except when ED finds exceptional circumstances, see 34 CFR § 75.560(d)(2)) until it has negotiated an indirect cost rate agreement with its cognizant agency.
+A grantee that opts to use the temporary rate, and that obtains a federally recognized indirect cost rate, may then use the federally recognized rate to retroactively claim indirect costs reimbursement.  The recovery is subject to the following limitations:
+The grantee may only recover indirect costs incurred on or after the date it submitted its indirect cost rate proposal to its cognizant agency, or at the start of the project period, whichever of the two occurs later.
+The total amount of funds recovered by the grantee under the federally recognized indirect cost rate is reduced by the amount of indirect costs previously recovered under the temporary indirect cost rate.
+The grantee must obtain prior approval from the Secretary to shift direct costs to indirect costs in order to recover indirect costs at a higher negotiated indirect cost rate.
+The grantee may not request additional funds to recover indirect costs that it cannot recover by shifting direct costs to indirect costs.
+In accordance with 2 CFR 200.414(f), use of the de minimis rate of 10 percent of MTDC is subject to the following limitations:
+State and local governments may not use the de minimis rate; thus, this rate may only be used by institutions of higher education (IHE) and non-profit organizations that have never had a negotiated indirect cost rate if:
+The grant for which the applicant seeks support is not:
+Supported under a program that requires use of a restricted indirect cost rate;
+Supported under a program that requires the use of the ED training grant rate; or
+Supported under another program that prohibits or limits indirect cost recovery.
+A grantee that decides to use the de minimis rate of 10 percent of MTDC must use the rate for at least one fiscal year for all its Federal awards and may continue to use the rate indefinitely thereafter until it decides to negotiate an agreement with its cognizant agency.  MTDC consists of all direct salaries and wages, applicable fringe benefits, materials and supplies, services, travel, and subawards and subcontracts up to the first $25,000 of each subaward (i.e., subgrant or subcontract). The MTDC base excludes equipment, capital expenditures, charges for patient care, rental costs (distorting), tuition remission, scholarships and fellowships, participant support costs and the portion of each subaward in excess of $25,000. Other items may only be excluded when necessary to avoid a serious inequity in the distribution of indirect costs, and with the approval of the cognizant agency for indirect costs.
+Once a grantee obtains a federally recognized indirect cost rate that is applicable to its grant, the grantee may use that indirect cost rate to claim indirect cost reimbursement; however, the reimbursement is subject to the following limitations:
+The grantee may only recover indirect costs incurred on or after the date it submitted its indirect cost rate proposal to its cognizant agency, or at the start of the project period, whichever of the two occurs later.
+The total amount of funds recovered by the grantee under the federally recognized indirect cost rate is reduced by the amount of indirect costs previously recovered under the de minimis rate.
+The grantee must obtain prior approval from the Secretary to shift direct costs to indirect costs in order to recover indirect costs at a higher negotiated indirect cost rate.
+The grantee may not request additional funds to recover indirect costs that it cannot recover by shifting direct costs to indirect costs.
+Applicants should be aware that ED is not always the cognizant agency for its own grantees.  Rather, ED accepts, for the purpose of funding its awards, the current indirect cost rate established by the appropriate cognizant agency.
+Applicants are encouraged to have an accountant calculate a proposed indirect cost rate using current information from its audited financial statements, actual cost data, or IRS Form 990.  Applicants should use this proposed rate in their application materials and describe which of these methods they used to calculate the rate.  Guidance related to calculating an indirect cost rate can be found on ED’s website at:
+http://www.ed.gov/about/offices/list/ocfo/fipao/icgindex.html.
+Applicants with questions about using indirect cost rates under this program should contact the program contact person shown elsewhere in this application package or in the Federal Register application notice of MM/DD/YYYY, (FILL IN FED REG CITE HERE).
+Second Option - For programs with restricted indirect cost rates (Partial Reimbursement).
+The Department of Education (ED) generally reimburses a grantee for its indirect costs.  These kinds of costs generally are recovered through an indirect cost rate that the grantee negotiates with its cognizant agency for indirect costs.
+The statute authorizing (NAME OF PROGRAM, CFDA #) contains a supplement- not-supplant provision that requires a reduction in the indirect cost rate so that costs that are unallowable under the supplement-not-supplant program are not recovered through the indirect cost rate.  To ensure that these types of costs are not recovered, grantees must use a restricted indirect cost rate when claiming indirect cost reimbursement (see EDGAR § 75.563). The detailed requirements of restricted rates are in the Education Department General Administrative Regulations (EDGAR) at §§75.563 and 76.563-569.
+All grantees under supplement-not-supplant programs may only recover indirect costs at the restricted rate included on their negotiated indirect cost rate agreement.  For guidance on how to calculate the restricted rate, an applicant that already has a negotiated indirect cost rate and that plans to apply under this program should review ED’s website at:
+http://www.ed.gov/about/offices/list/ocfo/fipao/icgindex.html
+The applicant should then use this separate, restricted rate in estimating indirect costs in the budget submitted with its application.
+Restricted rates for SEAs are included on the SEA’s negotiated indirect cost rate agreement.  Restricted rates for LEAs are negotiated with the SEA, using a methodology described in the State’s indirect cost plan submitted under EDGAR § 75.561(b) and approved by the ED Indirect Cost Group (ICG).
+Applicants for discretionary grants that are not a State or a local government and that do not have a negotiated restricted rate may use a temporary rate of 10 percent of budgeted direct salaries and wages until they negotiate a restricted rate.
+In accordance with EDGAR §75.560, use of the temporary rate of 10 percent of budgeted direct salaries and wages is subject to the following limitations:
+The grantee must submit an indirect cost rate proposal to its cognizant agency within 90 days after ED issues the GAN.
+If after the 90-day period, the grantee has not submitted an indirect cost rate proposal to its cognizant agency, the grantee may not charge its grant for indirect costs (except when ED finds exceptional circumstances, see 34 CFR § 75.560(d)(2)) until it has negotiated an indirect cost rate agreement with its cognizant agency.
+Once a grantee obtains a federally recognized indirect cost rate that is applicable to its grant, the grantee may use that indirect cost rate to claim indirect cost reimbursement; however, the reimbursement is subject to the following limitations:
+The grantee may only recover indirect costs incurred on or after the date it submitted its indirect cost rate proposal to its cognizant agency, or at the start of the project period, whichever of the two occurs later.
+The total amount of funds recovered by the grantee under the federally recognized indirect cost rate is reduced by the amount of indirect costs previously recovered under the de minimis rate.
+The grantee must obtain prior approval from the Secretary to shift direct costs to indirect costs in order to recover indirect costs at a higher negotiated indirect cost rate.
+The grantee may not request additional funds to recover indirect costs that it cannot recover by shifting direct costs to indirect costs.
+An applicant that is not a State or local government that already has a regular indirect cost rate must provide a copy of its rate agreement to ICG as the starting point for negotiating a restricted rate with the ICG.
+If an applicant, other than a State or local government, does not want to negotiate a restricted rate agreement, the applicant has the option of charging indirect costs at 8 percent of the MTDC of its grant for the life of the grant in accordance with EDGAR § 76.564(c)(2), unless the ICG determines that the actual restricted indirect cost rate is lower than 8 percent of MTDC.  If the ICG determines that the actual restricted indirect cost rate is lower, the ICG requires that the lower rate be used in the applicant’s budget. If a non-governmental applicant chooses to charge indirect costs at 8 percent of its MTDC, it must maintain records available for audit, demonstrating that the applicant incurred indirect costs of at least 8 percent of MTDC.
+For grants under restricted rate programs, EDGAR § 76.569 requires that grantees multiply their restricted indirect cost rate by the “total direct costs of the grant minus capital outlays, sub-grants, and other distorting or unallowable items as specified in the grantee’s indirect cost rate agreement.” This calculation is known as multiplying by a modified total direct cost base.
+Applicants may have an accountant calculate a proposed restricted indirect cost rate using current information from their audited financial statements and actual cost data. Applicants should use this proposed restricted rate in their application materials and describe which of these methods they used to calculate the rate.  Guidance related to calculating a restricted indirect cost rate can be found on ED’s website at the above referenced link.
+Applicants must bear in mind that items of cost excluded from restricted indirect cost rates may not be charged to grants as direct cost items, nor may they be used to satisfy matching or cost-sharing requirements under a grant or charged to other Federal awards.
+Applicants should be aware that ED is not always the cognizant agency for its own grantees.  For restricted indirect cost rates, ED will negotiate the rate with grantees and provide the approved restricted rate to the cognizant agency for inclusion on the rate agreement.
+Applicants with questions about using restricted indirect cost rates under this program should contact the program contact person shown elsewhere in this application package or in the Federal Register application notice of MM/DD/YYYY, (FILL IN FED REG CITE HERE).
+Third Option - For programs that are designated training grants (Limited reimbursement at 8 percent).
+Some or all the grants awarded under (NAME OF PROGRAM, 84.xxx) have been designated training grants.  The Education Department General Administrative Regulations (EDGAR) limit reimbursement of indirect costs under training grants to non-governmental grantees.  These grantees may recover indirect costs under training grants up to the grantee’s actual indirect costs as determined by the grantee’s negotiated indirect cost agreement or 8 percent of MTDC, whichever rate is lower.
+Note: This limitation does not apply to State agencies, local governments or federally-recognized Indian tribal governments. [EDGAR §75.562(c)(2)]
+Applicants should be aware that indirect cost amounts exceeding the limitation, described in the first paragraph of this section, may not be charged to direct cost categories, used to satisfy matching or cost-sharing requirements, or charged to another Federal award. [EDGAR §75.562(c)(5)]
+Although applicants are not required to submit with their application a copy of their indirect cost agreement to claim the 8 percent training rate for funding received in this program, if they are awarded a grant, they must have documentation available for audit that shows that the indirect costs incurred under the grant are at least 8 percent of MTDC.
+If an applicant selected for funding under this program has not already established a current indirect cost rate with its cognizant agency, the Department of Education (ED) generally will authorize the grantee to use a temporary rate of 10 percent of budgeted direct salaries and wages authorized under EDGAR §75.560, or a de minimis rate of 10 percent of MTDC, as authorized under 2 CFR 200.414(f).
+In accordance with EDGAR §75.560, use of the temporary rate of 10 percent of budgeted direct salaries and wages is subject to the following limitations:
+The grantee must submit an indirect cost rate proposal to its cognizant agency within 90 days after ED issues the GAN.
+If after the 90-day period, the grantee has not submitted an indirect cost rate proposal to its cognizant agency, the grantee may not charge its grant for indirect costs (except when ED finds exceptional circumstances, see 34 CFR § 75.560(d)(2)) until it has negotiated an indirect cost rate agreement with its cognizant agency.
+A grantee that opts to use the temporary rate, and that obtains a federally recognized indirect cost rate, may then use the federally recognized rate to retroactively claim indirect costs reimbursement.  The recovery is subject to the following limitations:
+The grantee may only recover indirect costs incurred on or after the date it submitted its indirect cost rate proposal to its cognizant agency, or at the start of the project period, whichever of the two occurs later.
+The total amount of funds recovered by the grantee under the federally recognized indirect cost rate is reduced by the amount of indirect costs previously recovered under the temporary indirect cost rate.
+The grantee must obtain prior approval from the Secretary to shift direct costs to indirect costs in order to recover indirect costs at a higher negotiated indirect cost rate.
+The grantee may not request additional funds to recover indirect costs that it cannot recover by shifting direct costs to indirect costs.
+Fourth Option - For programs that do not provide indirect cost reimbursement under awards (No reimbursement).
+The (NAME OF PROGRAM, CFDA 84.xxx) program does not reimburse grantees for indirect costs they incur in carrying out a project funded under the program. Therefore, applicants should not show any dollar amounts for indirect costs on either line 10 of the U.S. Department of Education Budget Information Non-Construction Programs Form 524 Sections A, B and C, or in their budget narrative.
+Applicants should also be aware that unreimbursed indirect costs under grants of this program may not be charged as direct cost items in the same award, used to satisfy matching or cost-sharing requirements, or charged to another Federal award.
+Updated April 25, 2022
+U.S. Department of Education
+Office of Acquisition and Grants Administration Grants Policy and Training Division
+Unique Entity Identifier (UEI) Fact Sheet
+The Federal Government has transitioned from the use of the DUNS Number to the Unique Entity Identifier (UEI) as the primary means of entity identification for Federal awards government-wide. UEIs are required in accordance with 2 CFR Part 25, and the transition from DUNS to UEI has resulted in the UEI being issued by the Federal Government in SAM.gov. This means entities no longer rely on a third- party to obtain an identifier (i.e., a DUNS issued by Dun and Bradstreet). This change streamlines the entity identification and validation process, making it easier and less burdensome for entities to do business with the Federal Government. Information addressing the reasons for this transition is available at The New Unique Entity Identifier is Here and at Why has SAM.gov changed from the DUNS Number to the Unique Entity ID?.
+Here is what you need to know about this recent transition:
+1.  Direct Grant Recipients and Grant Applicants
+a.  If your organization is currently registered in SAM.gov with either an active or inactive registration, you have already been assigned a UEI. Your UEI is viewable on your entity’s registration record in SAM.gov. To learn how to view your UEI, see this guide: How can I view my Unique Entity ID?.
+On April 4, 2022, the Integrated Award Environment (IAE) systems (i.e., SAM.gov, FPDS, eSRS,FSRS, FAPIIS, and CPARS) complied with the Federal Government’s requirement to end use of the DUNS Number for Federal award management.1 The U.S. Department of Education’s Grants Management System (G5) implemented this transition on April 4, 2022.
+If you have an inactive registration or need to update your registration, you must ensure that your renewal or updates occur on time and as required, but this does not affect whether you have been assigned a UEI. If you have a registration, you already have a UEI. If your registration has expired, you have been assigned a UEI, but you will need to renew your registration. You
+1 SAM.gov – Or the System for Awards Management is the official site for registering to do business with the Federal Government.
+FPDS.gov – Or the Federal Procurement Data System is the official site for reporting contracts whose estimated value is $10K or
+more.
+eSRS.gov – Or the Electronic Subcontracting Reporting System is the official site for reporting subcontracts. FSRS.gov – Or the Federal Funding Accountability and Transparency Act Subaward Reporting System (FSRS) is the official reporting site that Federal prime awardees (i.e., prime contractors and prime grants recipients) use to capture and report subaward and executive compensation data regarding their first-tier subawards.
+FAPIIS.gov – Or the Federal Awardee Performance and Integrity Information System is the official site in which records are entered and searchable related to Administrative Agreements, Defective Pricing, DoD Determination of Contractor Fault, Non- Responsibility Determination, Recipient Not-Qualified Determination, Termination for Cause, Termination for Default, Termination for Material Failure to Comply, Suspension/Debarment information if the entity has any of these records, and Administrative Proceedings information.
+CPARS.gov – Or the Contractor Performance Assessment Reporting System is the official site in which Federal agencies can create and measure the quality and timely reporting of contractor performance information, and where contractors can review this information and provide comment.
+can access instructions addressing how to renew your entity registration at: How to Renew or Update an Entity.
+If you are not registered in SAM.gov, create a new registration by clicking on the “Get Started” link under the “Register Your Entity…” heading in SAM.gov. Grantees, and other entities wanting to do business with the U.S. Department of Education (e.g., entities applying for a grant), that are not already registered in SAM.gov must complete the full “Register Entity” registration option and NOT the abbreviated “Get a Unique Entity ID” option. The “Get a Unique Entity ID” option, which is not a full registration, is only available to entities that are not grantees (i.e., direct recipients of a U.S. Department of Education grant) and to entities that do not wish to apply for a Federal grant. Failing to complete the “Register Entity” option may result in loss of funding, loss of applicant eligibility, and/or delays in receiving a grant award.
+Once assigned, the UEI number will never expire; however, entity registrations do expire annually and require annual renewal. Please ensure that your organization renews its registration prior to the expiration date. The expiration date is listed in your entity record in SAM.gov.
+Subrecipients
+Subrecipients must have a UEI; however, the U.S. Department of Education does not require subrecipients under its grants to register their UEIs in SAM.gov. Unless item 2(b) applies, subrecipients that do not have a UEI may complete the abbreviated “Get a Unique Entity ID” option and NOT the full “Register Entity” registration option to obtain a UEI. Since the UEI validates the subrecipient’s legal business name and address, subrecipients must update this information when changes occur. For information about how to obtain a UEI without registering an entity, and the difference between only getting a UEI and registering an entity, view the How to get a Unique Entity ID video.
+b.  The following exception to item 2(a) applies to subrecipients. When subrecipients under U.S. Department of Education grants are also direct recipients of U.S. Department of Education grants and/or direct recipients of other Federal agency grants, and/or they wish to apply for a Federal grant as a direct recipient, these subrecipients must have an active UEI registration in SAM.gov. Subrecipients that are currently registered in SAM.gov with either an active or inactive registration have been assigned their UEI. If a subrecipient’s registration has expired, it has been assigned a UEI, but it will need to renew its registration. Registrations expire annually and require annual renewal. To renew expired registrations, these entities may follow the instructions at: How to Renew or Update an Entity. Subrecipients without a registration that are also direct grant recipients under other Federal awards, and/or that wish to apply for a Federal grant as a direct recipient, must register by clicking on the “Get Started” link under the “Register Your Entity…” heading in SAM.gov and complete the full “Register Entity” registration option.
+Where to get help
+The Federal Service Desk, available at FSD.gov, is the help desk that has been established for all IAE systems. FSD.gov includes resources that address the recent UEI transition and these resources are available at: Help for the Transition from DUNS to Unique Entity Identifier (UEI).
+There are resources available for grantees, subrecipients, contractors, subcontractors, and Federal employees who use SAM.gov, and for individuals who search for entities on SAM.gov. For example, there are FAQs available that are organized by how an individual uses SAM.gov based on their roles and responsibilities (FAQs and Resources Based on What You Do in SAM.gov) that are particularly helpful.
+If you have questions about UEIs or the recent UEI transition that are not answered in the FAQs or in other resources available at FSD.gov, you may contact the FSD.gov by calling, or by choosing “Create an Incident” or engaging in a “Live Chat.”
+For other questions related to your grant, please contact your Education Program Contact listed in box 3 of your Grant Award Notification, or as identified in any other applicable documentation
+provided by the U.S. Department of Education.

@@ -1,0 +1,1360 @@
+1 
+UNITED STATES DEPARTMENT OF EDUCATION 
+REHABILITATION SERVICES ADMINISTRATION 
+ 
+CALIFORNIA DEPARTMENT OF 
+REHABILITATION, Petitioner 
+v. 
+UNITED STATES DEPARTMENT OF THE NAVY, 
+Respondent 
+Case No. R/S 15-20
+ARBITRATION PANEL DECISION AND AWARD 
+This case comes before a three-member Arbitration Panel convened by the United States 
+Department of Education (DOE) pursuant to 20 U.S.C. §107d-2 or what is commonly referred to as 
+the Randolph-Sheppard Act (RSA). A hearing in this matter was held in Sacramento, California on 
+May 3, 2018. Lisa Niegel and Anita Asher represented the California Department of Rehabilitation 
+(CDOR). David Turner and Kevin Lyster represented the United States Department of the Navy 
+(Navy). The parties submitted post-hearing briefs that were timely received on June 18. 
+SUMMARY 
+This arbitration panel is tasked with adjudicating a dispute regarding the application of the RSA to six 
+U.S. Navy dining halls located in San Diego, California. As in other recent arbitration cases between 
+branches of the military and state licensing agencies, the dispute here focuses on whether the RSA 
+applies if the services contracted for do not include all tasks related to operation of a dining facility. 
+It is well established that RSA coverage of vending facilities includes cafeterias and military dining 
+facilities (MDFs). The question here is whether the services contracted for “pertain to the operation” 
+of the MDFs or, alternatively, amount to “operation” of the MDFs. Based on our review of the RSA, 
+its legislative history, implementing regulations issued by DOE, DOE’s general policy 
+pronouncements, and the multitude of decisions by courts and arbitration panels to address this 
+question, we conclude that the services contracted for by the Navy in this case both involve and 
+“pertain to” the “operation” of a cafeteria. Accordingly, we find that the Navy violated the RSA by its 
+failure to afford the CDOR (as the responsible state licensing agency) an opportunity to submit a bid 
+for the contract to provide services in support of the six U.S. Navy MDFs in San Diego.
+
+2 
+I. FACTS 
+The facts in this case are not in dispute. On January 15, 2015,1 the Navy posted a “Sources Sought 
+Notice” for certain food services at Navy galleys in San Diego. [Ex. 2] The Notice described the 
+services as “Food Service Attendant Services” for six San Diego Galleys.2 By letter dated February 5, 
+CDOR responded to the Notice by informing the Navy that CDOR was interested in pursuing the 
+Navy’s food service requirements under the RSA. [Ex. 3] 
+The Navy Contracting Officer (CO) responded by letter dated April 13, concluding that “the RSA . . . 
+does not apply to the [Solicitation]; Navy requires mess-attendant services, to include cashier 
+services, only. Navy will not require its contractor(s) to operate or manage its galleys.” This letter 
+explained the limited role the contractor would play, noting Navy’s greater San Diego area galleys 
+are “under the operational control of the Commanding Officer . . . who provides staffing and funding 
+for that operation,” and that “[t]his function is delegated to the Food Service Officers assigned to 
+each galley.” [Ex. 4] 
+Solicitation N00244-15-R-0014 (the Solicitation) was thereafter issued by the Navy on June 3, as a 
+set-aside for Historically Underutilized Business Zone (HUBZone) small businesses. [Ex. 5] Three 
+amendments followed, but the parties agree that it is the Performance Work Statement (PWS) 
+described in Amendment 2 that describes the work to be performed under the contract at issue 
+here. [Ex. 7] 
+The PWS indicates that the Navy will not exercise any supervision or control over the contract 
+service providers, but that operational control over the six galleys is delegated by the Commanding 
+Officer to the Food Service Officers (FSOs) at each of the six bases. 
+The PWS provides that the FSOs are responsible for proper and efficient galley operation. 
+Specifically, “FSOs sign and submit all financial returns, maintain all accountable documents, conduct 
+inventory, maintain equipment, set Navy’s food and supply requirements, and authorize and procure 
+food supplies. Day to day, FSOs establish the menus, ensure overall food preparation by Navy 
+Culinary Specialists, and ensure proper storage of food.” [Ex. 7, at 13] In conclusory fashion, the PWS 
+declares that, “In form and fact, FSOs operate the galleys.” 
+The PWS requires the contractor to maintain an effective quality control program to assure services 
+are performed consistent with the PWS; to provide a Contract Manager who is responsible for 
+performance of the contract services and who has full authority for all matters relating to the 
+operation of the contract; and to provide supervisors to serve as on-site managers of contractor 
+employees at each of the six galleys. Aside from sanitation training, the contractor is responsible for 
+training its employees in accordance with a training plan to be submitted with the contractor’s 
+proposal. 
+ 
+1 All dates are 2015 unless otherwise indicated. 
+2 The six galleys are at Naval Base San Diego, Naval Amphibious Base Coronado, Naval Air Station North  Island, Naval 
+Submarine Base Point Loma, Naval Mine and Anti-Submarine Warfare Command, and Oceanside BUDS Satellite Galley.
+
+3 
+The specific contractor services called for by the PWS include cashier services, “mess attendant 
+services,” scullery services, and galley cleaning services. Cashier services require accounting for 
+receipts of cash patrons (estimated to be less than 20% of all galley patrons) on various Navy forms, 
+and overnight storage of cash in a safe provided by the Navy.  “Mess attendant services” encompass 
+duties on the serving line, preparation of all fruits and vegetables, and maintenance of a clean dining 
+area.3 Scullery Services involve washing dishes, pots and pans; ensuring that dishes and “mess gear” 
+are clean and ready for use during meal hours; and replenishing dishes and mess gear in dispensers 
+prior to and during meals. Cleaning services under the PWS call for the provision of cleaning services 
+to galley spaces, equipment, and furniture to Navy specifications. This covers the entire facility, 
+including the dining area, the scullery area, the bathrooms, the galley surroundings (within 10 feet of 
+the outside perimeter), and trash removal. 
+The PWS further calls for contractor services unique to each dining facility, such as special meals and 
+special events, meals served on patio areas, and meals served in VIP dining areas. [Ex. 7, at 27-28] 
+For the Ocean-side BUDS Satellite galley, the contractor is required to provide all meals each week 
+from Monday through Friday, excluding holidays. Because the BUDS galley does not have its own full 
+service kitchen, the PWS requires the contractor to provide its own delivery vehicle and to pack and 
+transport all meals, beverages, food serving equipment, trays, utensils, and mess gear to and from 
+the NAB Coronado galley approximately one mile away. 
+ 
+3 Under Section 5.1.2 of the PWS, “Mess Attendant Services” require the contractor to provide: 
+5.1.2.1 Serving line and dining area that promotes sanitary, safe, inviting environment, and efficient  display 
+and distribution of food items, condiments, dishware, and silverware fifteen (15) minutes prior to each meal (note: 
+serving line may include beverage, salad, dessert, and fruit bars; dining area includes furniture, equipment, and 
+mess gear); 
+5.1.2.2 Preparation of all fruits and vegetables for salads and other dish offerings for the intended meal 
+period (note: preparation may include washing, slicing, dicing, and chopping);  
+5.1.2.5 Distribution of food on the serving line to galley patrons in accordance with Navy ration (portion) 
+allowance ensuring that a minimum of six (6) customers per minute are served during peak hours; 
+5.1.2.6 Continuous monitoring of the serving line and dining area ensuring  that: 
+5.1.2.6.1 Food, condiments, and beverages are replenished as they are emptied throughout the meal  hour; 
+5.1.2.6.2 Vacated tables are cleaned and sanitized for the next patron’s use (note: patrons bus their own tables); 
+5.1.2.6.3 Food, beverage, and other spills are promptly cleaned up; 
+5.1.2.6.4 Filled racks with used trays and dishes are moved to scullery room for cleaning.  
+[Ex. 7, at 25-27]
+
+4 
+On July 3, CDOR filed an Agency Level Protest with the Navy, arguing that the Navy violated the RSA 
+by improperly restricting offers under the Solicitation to HUBZone offers only, thereby excluding 
+CDOR from submitting a bid as the state licensing agency (SLA). [Ex. 16] 
+On July 6, and in response to the Solicitation, CDOR submitted a proposal from Jerry Gann (a blind 
+vendor) and Food Services Incorporated (collectively, the Vendor) to provide the services described 
+in the PWS. 
+On July 14, the Navy denied CDOR’s Protest and stated that it would not consider the Vendor’s 
+proposal as the Solicitation was “not for the operation of a cafeteria, vending facility, [or] cart 
+service.” [Ex. 17, internal quotation marks omitted] 
+On August 24, pursuant to 20 U.S.C. §107d-1d(b) and 5 C.F.R. §395.37(a), CDOR filed the Complaint 
+at issue in this case with the DOE. [Ex. 1] CDOR’s complaint contains four allegations that turn on the 
+same threshold issue, i.e., whether the services described in the PWS are covered by the RSA. These 
+allegations are summarized as claims that the Navy violated the RSA by: 1) not creating one of more 
+opportunities for the Vendor to operate vending facilities on the San Diego bases; 2) not inviting 
+CDOR to respond to the Solicitation; 3) not adhering to the process for evaluation of an SLA’s 
+proposal; and 4) limiting the Solicitation to HUBZone businesses, and thereby declining to consider 
+CDOR’s proposal for award of the contract.
+4 
+Finally, the Complaint alleges, in the alternative, that the Navy violated the RSA when it advertised 
+the opportunity without first consulting with CDOR for the provision of services at a vending facility 
+other than a cafeteria. Based on our finding that the services described in the PWS involve the 
+operation of a cafeteria, there is no factual basis for CDOR’s “failure to consult” allegation. 
+On September 18, the Navy awarded a contract to NMS Management, Inc., a HUBZone small 
+business, to perform the services described in the Solicitation and its amendments. NMS 
+Management continues to perform these services. 
+II. LEGAL BACKGROUND 
+This case covers a stretch of road that has been well traveled, a road littered with the efforts of 
+arbitration panels and courts alike struggling to fill the void left by the absence of Department of 
+ 
+4 The complaint further contends that the Navy failed to obtain “concurrence from the [DOE] Secretary for a finding that 
+establishing one or more facilities for a blind vendor on the San Diego bases would be adverse to the interests of the 
+United States.” 20 U.S.C. §107(b) requires that, “Any limitation on the placement or operation of a vending facility based 
+on a finding that such placement or operation would adversely affect the interests of the United States shall be fully 
+justified in writing to the Secretary, who shall determine whether such limitation is justified.” We dismiss this allegation 
+because the Navy never sought to limit the operation of a vending facility based on a finding that such operation would 
+“adversely affect the interests of the United States.”
+
+5 
+Education clarifying regulations or official guidance regarding the extent to which the RSA covers 
+military dining facilities. As with other tribunals that have addressed this topic, we join the chorus 
+calling for DOE to issue regulations that will finally put an end to the litigation over this question. 
+At the outset, the panel notes that there is no contention in this case that the Navy is constrained in 
+any way regarding the particular MDF services it seeks to obtain through the contracting process. 
+Moreover, the panel recognizes that the Navy enjoys considerable discretion in the arena of military 
+procurement. In its exercise of this discretion, however, the Navy may not ignore the requirements 
+of the RSA.
+5 And it is the DOE, not the DoD or the Navy, that is charged with interpreting and 
+applying the RSA. The DOE convened this arbitration panel to determine “whether the Department 
+of the Navy violated the [RSA] by denying Randolph-Sheppard priority when they issued a solicitation 
+for food service attendant [services] as a 100 percent HUBZone set aside.”
+6 Our decision involves 
+statutory interpretation – a matter of law, and we review this question de novo.7 
+A. Relevant Statutory and Regulatory Provisions 
+Our analysis begins with the governing language of the Randolph-Sheppard Act and its implementing 
+regulations. The RSA, enacted in 1936 and amended in 1954 and 1974, conveys a broad 
+Congressional mandate for federal agencies to provide employment and entrepreneurial 
+opportunities for the blind by creating a priority for blind vendors to operate vending facilities on 
+federal property. In 1974, Congress lauded the success of its Randolph-Sheppard program as “one of 
+the most effective employment opportunity programs ever enacted by Congress,” but also found 
+that some agencies, notably including the Department of Defense, were evading their 
+responsibilities under the program to provide opportunities for blind vendors. S. Rep. No. 93-37, at 
+10-12 (1974). 
+Section 107(a) of the RSA provides that “blind persons licensed under the provisions of this chapter 
+shall be authorized to operate vending facilities on any Federal property.” Section 107(e)(7) of the 
+RSA defines the term “vending facility” to include “cafeterias.” While the Navy argues otherwise at 
+great length, our dissenting colleague acknowledges that it is well established that military dining 
+facilities are considered “cafeterias” for purposes of the RSA. NISH v. Rumsfeld, 348 F.3d 1263, 1269-
+ 
+5 Both the Navy and our dissenting colleague go to great lengths to describe the breadth of the CO’s procurement 
+authority under federal and DoD procurement laws and regulations. This panel does not question the CO’s authority, nor 
+do we suggest that the CO should ignore governing procurement regulations. The manner in which the Navy and its CO 
+decide to exercise their discretion, however, may not disregard the obligation to provide priority to blind vendors under 
+the RSA. 
+6 DOE’s “convening” letter dated February 25, 2016. 
+7 Our dissenting colleague complains of the panel’s willingness to step into the shoes of the CO to substitute its judgment 
+for that of the CO. However, it is precisely our review of CO decisions by the Navy and other federal agencies tha t 
+Congress called for in 20 U.S.C. §107d-2 when it required the Secretary of Education to refer complaints over coverage of 
+the RSA to arbitration panels. While it may be true, as the dissent suggests, that the absence of DOE action to define the 
+scope of the RSA has led to often-conflicting arbitration and court decisions, this panel must fulfill its obligation to issue a 
+decision that represents DOE’s final determination in this matter.
+
+6 
+72 (10th Cir. 2003); NISH v. Cohen, 247 F. 3d 197, 205-06 (4th Cir 2001). And section 107(b) provides 
+that “[i]n authorizing the operation of vending facilities on Federal property, priority shall be given 
+to blind persons licensed by a State agency,” such as CDOR, California’s sanctioned state licensing 
+agency in this case. The RSA does not define the terms “to operate” or “operation.” 
+Congress conferred primary responsibility to carry out the RSA on the Secretary of Education (the 
+Secretary), 20 U.S.C. §§107(a), 107(b), and authorized the Secretary to promulgate regulations 
+relating to the RSA’s priority for blind vendors to operate vending facilities on Federal properties.
+8 
+DOE Regulations appear at 34 C.F.R. §§395.1– 395.38. The pertinent regulatory language tracks the 
+language of the RSA: 
+Priority in the operation of cafeterias by blind vendors on Federal property shall be afforded when 
+the Secretary determines . . . that such operation can be provided at a reasonable cost, with food of 
+a high quality comparable to that currently provided employees. . . . 
+34 C.F.R. §395.33(a)(emphasis added). Section 395.33(b) clarifies how this priority is to be 
+established: 
+In order to establish the ability of blind vendors to operate a cafeteria in such manner as to 
+provide food service at comparable cost and of comparable high quality as that available 
+from other providers of cafeterias, the appropriate [SLA] shall be invited to respond to 
+solicitations for offers when a cafeteria contract is contemplated by the appropriate property 
+managing department, agency, or instrumentality. 
+(Emphasis added). As with the RSA itself, these sections continue to use the words “operation of” 
+and “to operate” cafeterias. However, section 395.33(c) employs verbiage suggesting that the blind 
+vendor priority in the RSA is much broader. 
+All contracts or other existing arrangements pertaining to the operation of cafeterias on 
+Federal property not covered by contract with, or by permits issued 
+to, state licensing agencies 
+shall be renegotiated subsequent to the effective date of this part on or before the expiration of such 
+contracts or other arrangements pursuant to the provisions of this section. 
+(Emphasis added) 
+B. Evolution of Legal Developments in Application of RSA to Military Dining Facilities 
+ 
+8 The RSA provides that the “Secretary, through the Commissioner [of Rehabilitation Services], shall. . . prescribe 
+regulations” to assure that priority is given to licensed blind vendors, and to assure that, “wherever feasible, one or more 
+vending facilities are established on all Federal property to the extent that any such facility or facilities would not adversely 
+affect the interests of the United States.” 20 U.S.C. §107(b)(1) and (2). The Commissioner is further authorized to “take suc h 
+other steps, including the issuance of such rules and regulations,  as may be necessary or desirable in carrying out the 
+[RSA].” 20 U.S.C. §107a(a)(6).
+
+7 
+As noted above, Congress in 1974 found the Randolph-Sheppard program to be one of its “most 
+effective employment opportunity programs.” Congress was nevertheless dismayed that some 
+agencies, including DoD, were evading their responsibilities under the program and were reluctant 
+to provide opportunities to blind vendors. S. Rep. No. 93- 37, at 10–12 (1974). Responding to the 
+perceived “stagnation” of the Randolph- Sheppard program and the recalcitrance of DoD and other 
+federal agencies, Congress assigned primary responsibility to carry out the Randolph-Sheppard Act 
+to the Secretary of Education (“the Secretary”), 20 U.S.C. §§107(b), 107a(a). 20 U.S.C. §107(b); see 
+Randolph-Sheppard Amendments Act of 1974, P-L 93-651 (1974). Congress delegated these 
+responsibilities to the Secretary “to improve and strengthen the administration of the program at 
+the Federal level” by centralizing administration of the Act in one location. Id. 
+Since the creation of the Randolph-Sheppard program, in spite of the Act’s mandate to maximize 
+opportunities for blind vendors to operate vending facilities, including cafeterias, on federal 
+properties, DoD has continued to disagree with DOE about the parameters of the RSA. In the Senate 
+Report accompanying the Randolph-Sheppard Amendments Act of 1974, Congress noted the 
+substantially higher number of blind vendors on state property than on federal property and 
+attributed this “ironic disparity” to “obstacles at virtually every turn.” S. Rep. No. 93-37, at 10–12 
+(1974). In particular, it noted, 
+The vast Defense establishment can report only 9 vendors at Air Force facilities, 17 on Army 
+posts, and 16 at Navy bases. The parent Defense Department association at a major Federal 
+space installation demanded that blind vendors give a portion of their income to the 
+Association – precisely the reverse of what should be taking place on Federal property. . . . 
+[The Comptroller] also found that, although nonblind vending operations within the Defense 
+Department are extensive, there is very little consideration given to the development of the 
+Randolph-Sheppard program. . . . 
+Witnesses before the Committee have stated that each military post or base commander is in 
+charge of his particular installation, and that, for the most part, commanders are either 
+hostile or indifferent to the Randolph-Sheppard program. 
+Id. Since that time, numerous arbitration panels have addressed these issues, and multiple 
+reports have been issued at the federal level. Yet, we still confront the same issues regarding 
+the location of Randolph-Sheppard vendors on DoD property. 
+In 2006, a “Joint Report to Congress” authored by DoD, DOE, and the Chairman of the Committee for 
+Purchase from People Who Are Blind or Severely Disabled made certain policy recommendations 
+regarding the intersection of the RSA and the Javits-Wagner- O’Day Act (JWOD)(herein Joint Report). 
+The Joint Report sought to clarify the types of contracts to which those statutes’ competing priorities 
+should apply by recommending that the DOE and DoD issue complementary regulations.
+9 The Navy 
+ 
+9 The Joint Report recommends that such DOE and DoD regulations reflect that contracts would be “competed under the
+
+8 
+argues that, “it would be irresponsible for any arbitration panel not to give [the Joint Report] at least 
+significant persuasive weight.” Navy Br., at 52. There are several reasons that we believe the Navy’s 
+reliance on the Joint Statement is misplaced. 
+First, of all the recommendations in the Joint Report, only the “no poaching” provision has been 
+enacted as part of the National Defense Authorization Act of 2007 – a provision that has no 
+relevance or applicability here. Second, even the DoD distanced itself from the Joint Report, issuing a 
+Memorandum in 2007 directing that the Joint Report “should not be cited in individual solicitations 
+until it is implemented in complementary regulations by the [DOE] and DoD.”
+10  And third, no such 
+implementing regulations have ever been issued. Based on this history, the Court of Federal Claims 
+held in Moore’s Cafeteria Servs., Inc. v. U.S., 77 Fed. Cl. 180, 186 (2007), aff’d 314 F. App’x (Fed. Cir. 
+2008) that the Joint Report was not legally binding. 
+Eight years after the Joint Report, a “Joint Explanatory Statement” (JES) accompanied the National 
+Defense Authorization for Fiscal Year 2015.11 That statement was not adopted by Congress or any 
+Congressional Committee and was, in fact, drafted at a time when the DOE was without a 
+Commissioner of Rehabilitation Services. For these reasons, the JES lacks the force of law and carries 
+no weight in the panel’s assessment regarding applicability of the RSA priority in this case. It also fails 
+to qualify as legislative history that any adjudicator could rely on to interpret and apply the RSA 
+priority. The JES accompanies a small amendment to 10 U.S.C. §2942. This statute, which previously 
+authorized the DoD to procure goods and services from another part of the federal government, was 
+amended to explicitly include food services. The JES begins by stating, “This change to §2942 of title 
+10 and the implementation of the food transformation program should not result in the loss of 
+employment pursuant to the [JWOD].” 160 Cong. Rec. H8691 (daily ed., Dec. 4, 2014).  The JES goes 
+on to reference the absence of regulatory guidance on the application of the JWOD and the RSA to 
+MDFs. Making reference to the 2006 Joint Report, the JES “directs” the DoD within 180 days to issue 
+regulations implementing the Joint Report. 
+On June 7, 2016, DoD published a notice of proposed rulemaking soliciting comments on a rule 
+purporting to modify the application of the RSA to DoD food service contracts. 
+ 
+[RSA] when the DOD solicits a contractor to exercised management responsibility and day -to-day decision-making for the 
+overall functioning of [an MDF] . . . where the DOD role . . . is generally limited to contract administration functions. . .  .” 
+However, “[i]n all other cases, the contracts will be set aside for JWOD performance (or small businesses . . .) when the 
+DOD needs dining support services, (e.g., food preparation services, food serving, ordering and inventory of food, meal 
+planning, cashiers, mess attendants, or other services that suppor t the operation of a dining facility) where DOD food 
+service specialists exercise management responsibility over and above . . . contract administration functions.” The Joint 
+Report also recommended enactment of a “no poaching” provision to essentially freeze those MDF contracts that existed 
+under the RSA and under the JWOD. [Ex. 20]
+ 
+10 Memorandum from Shay D. Assad, Director, Defense Procurement and Acquisition Policy, to Directors, 
+Defense Agencies (March 17, 2007). 
+11 The Navy’s attempt to introduce the “Joint Explanatory Statement” into evidence at hearing as Exhibit 53 was rejected. 
+The Panel has reconsidered this ruling and receives Exhibit 53 into the  record.
+
+9 
+See Food Services for Dining Facilities on Military Installations, DFARS 2015-D012 (June 7, 2016). 
+During the notice and comment period, over 4,700 SLAs, committees of blind vendors, blind 
+vendors, and others submitted comments opposing the proposed regulation. To date, no final rule 
+has been issued or implemented. 
+The Navy repeatedly references the Joint Report, the JES, and the proposed DoD regulations in 
+support of its position that the RSA does not apply in this case. What the Navy refuses to 
+acknowledge, however, is that none of these carries the weight of law. The first two “suggest” that 
+regulations be issued to clarify the applicability of the RSA to MDFs. No such regulations have yet 
+been issued. In short, the Joint Report, the JES, and the proposed DoD regulations are without legal 
+consequence. 
+As much as the Navy and our dissenting colleague desire otherwise, neither the Joint Report nor the 
+JES supplants either the RSA or its regulations.  Congress could, of course, enact legislation that 
+modifies the Randolph-Sheppard priority, but it has not done so. 
+Finally, the Secretary of Education has recently weighed in on the issue of whether DoD contract 
+solicitations for its MDFs fall under the RSA. In her March 5, 2018 letter in response to an inquiry 
+from Congressman Pete Sessions, Secretary Betsy DeVos acknowledges that the DoD distinguishes 
+between contracts that call for full food services (FFS) and those that call for dining facility attendant 
+(DFA) services. While the Secretary notes that there has been some dispute over the “types of 
+contracts to which the priority applies” – FFS or DFA – she then unequivocally states that “[t]he 
+Education Department believes that the Randolph-Sheppard Act priority applies to both types of 
+cafeteria contracts.” [Ex. D]. The Navy protests that her opinion letter should not be minded, but 
+ultimately cites a Supreme Court case finding that such guidance such should be treated as 
+“persuasive evidence.” United States v. Mead Corp., 533 U.S. 218, 236 (2001). [Navy brief, at 44, 
+emphasis added]. In rejecting the DoD’s bifurcation of MDF contracts as FFS or DFA, the Secretary’s 
+letter cites an arbitration panel’s 2016 decision in Fort Riley with approval in support of the simplest 
+and fullest interpretation: that the RSA priority applies to contracts that “pertain to the operation of 
+a cafeteria.” 
+III. ANALYSIS 
+A. The Navy’s Classification of Food Services Contracts as FFS or DFA 
+We turn now to CDOR’s frustrated attempt to assert the RSA priority on behalf of its Vendor (Jerry Gann and 
+Food Services, Inc.). The Navy flatly refused, asserting that it would merely require “mess-attendant services,” 
+but would “not require its contractor(s) to operate or manage its galleys.” 
+The Navy’s dismissal of the RSA priority in this case follows an effort undertaken by the DoD for the 
+last several years to draw a distinction between “full food service” (FFS) contracts and “dining facility 
+attendant” (DFA) contracts, maintaining (as does the Navy in this case) that the RSA preference 
+applies only to FFS contracts, but not to DFA contracts. There is, however, no basis in the RSA or in 
+DOE regulations for the classification of MDF contracts as either FFS or DFA contracts. While it is
+
+10 
+easy for the Navy (and DoD) simply to label the constellation of services described in any particular 
+PWS as DFA (or “mess-attendant”) services and to declare that they are discrete functions to support 
+the Navy’s operation, we are unwilling to endorse an approach we believe to be overly simplistic. 
+The contracts label is immaterial. The relevant information is found in the PWS and the array of 
+functions required to be performed. If the work to be performed lands the contract within the orbit 
+of the RSA, then the priority must apply, regardless of a federal department’s label for the type of 
+contract. As stated by the Court of Claims in Mississippi Dep’t of Rehab, Servs. v. United States, 61 
+Fed. Cl. 20, 28 (U.S. Ct. Fed. Claims 2004), “we are not concerned with ‘spin,’ but with reality.” 
+B. Test for Application of the RSA Priority 
+The work to be performed as detailed in the PWS in this case is so extensive and so integral to the 
+functioning of a cafeteria, that it is clearly well within the bounds of the RSA and what Congress 
+intended to be contracted to a blind vendor. 
+Two potential tests apply. Based on section 395.33(c) of the regulations, CDOR argues that the 
+appropriate test for assessing the RSA priority to be afforded its Vendor is whether the services 
+described in the PWS “pertain to the operation” of the San Diego MDFs. The Navy vigorously 
+opposes any such application of section 395.33(c), arguing that recent arbitration panels that 
+adopted a “pertaining to” test were wrongly decided. Rather, the Navy believes that the test is 
+whether the vendor is the operator. 
+The meaning of section 395.33(c) has been the subject of much dispute in recent decisions. Several 
+recent DOE arbitration panel majorities have applied the “pertaining to” test (or variations thereof) 
+advocated by CDOR. See, e.g., Kansas Dep’t of Children and Family Servs. v. U.S. Dep’t of the Army, 
+R/S 13-08 (2017)(Fort Riley); Oklahoma Dep’t of Rehab. Servs. v. U.S. Dep’t of the Army, R/S 15-10 
+(2016)(Fort Sill); Georgia Vocational Rehab. Agency v. U.S. Dep’t of Defense, R/S 13-09 (2016)(Fort 
+Stewart); but see, Washington State Dep’t of Servs. for the Blind v. United States, 58 Fed. Cl. 781 
+(2003)(Washington)(rejecting SLA’s argument for application of “pertaining to ” test, finding section 
+395.33(c) to be “transitional provision”). At least one other panel declined to adopt the “pertaining 
+to” test but found that the contract services amounted to “operation” of the relevant MDF. See, e.g., 
+Kentucky v. U.S. Dep’t of the Army (Feb. 14, 2014)(Case No. unavailable)(Fort Campbell). 
+In a well-reasoned decision, the Fort Stewart arbitration panel considered the governing language of 
+the RSA and closely examined the language of section 395.33, breaking down the structure of the 
+single sentence that comprises section 395.33(c). The “subject” of the sentence is certainly complex: 
+“[a]ll contracts or other existing arrangements” “pertaining to the operation of cafeterias on Federal 
+property” “not covered by contract with, or by permits issued to, state licensing agencies.” The 
+command for all such “contracts or other existing arrangements” is that they be “renegotiated,” and 
+that such renegotiations must happen “pursuant to the provisions of this section.” Lastly, these 
+renegotiations are to take place “subsequent to the effective date” of the regulation (implemented 
+in 1977), but “on or before the expiration of such contracts or other arrangements.”
+
+11 
+The Fort Stewart panel next describes how, 
+notwithstanding the limiting language [regarding the time frame within which such 
+renegotiations are to occur], subsection (c) opens up the universe of contracts and 
+arrangements covered by the [RSA] to those “pertaining to the operation of cafeterias on 
+Federal property.” Subsection (c) does not limit contracts and other arrangements to those 
+calling for the overall “operation” of a cafeteria[;] it includes those that “pertain[] to the 
+operation of cafeterias.” The latter grouping is obviously broader than the former. 
+Fort Stewart, at 14 (emphasis added). 
+As described by the Fort Stewart panel, however, the critical question remains. Once section 
+395.33(c) is seen to broaden the set of contracts and other arrangements that are to be 
+renegotiated, did the same section then foreclose those opportunities once the expanded set of 
+contracts and arrangements were renegotiated? At least one court has indicated that section 
+395.33(c) is “a transitional provision intended to assist in implementation of RSA rather than to 
+mandate the application of RSA to all contracts relating in any way to the operation of cafeterias on 
+federal property.” Washington, at 790. Respectfully, we disagree. Such reasoning would result in the 
+priority for blind vendors applying to contracts “pertaining to the operation of cafeterias” in 1977, 
+but only in 1977. If this were the proper interpretation of § 395.33(c), vendors who successfully 
+renegotiated contracts “pertaining to the operation of cafeterias” in 1977 would lose those contracts 
+when they expired for the very reason that they merely “pertained to the operation of cafeterias,” 
+but did not constitute “operation” of a cafeteria. Such a result defies logic. 
+As legislative history demonstrates, the RSA’s authors and advocates wanted it to be applied 
+broadly. It would be nonsensical for DOE to open up the scope of contracts in 1977, but then shut 
+them down when those “pertaining to” contracts expired. We find ourselves unable to accept such a 
+constrained reading of § 395.33(c) that would apply a “pertaining to” test in 1977, but then apply an 
+“operation of” test after the renegotiated contracts expired. As stated by the Fort Stewart panel, 
+“[t]he scope of the [RSA] should be the same both before and after the renegotiations, should it 
+not?” Buttressed by the aforementioned letter by Secretary DeVos, we adopt the Fort Stewart 
+rationale to interpret DOE regulations to require application of the RSA priority to contracts 
+“pertaining to the operation of cafeterias on Federal property.”
+12 
+C. Services Described in Navy’s Solicitation “Pertain to the Operation of a Cafeteria” 
+ 
+12 We completely disagree with the Navy’s cavalier dismissal of the Fort Stewart panel’s reasoning as “arbitrary.” The 
+Navy references the language of section 395.33(c), but rejects the Fort Stewart panel’s reasoning by suggesting that it is 
+“in direct contradiction to . . . DOE’s own stated interpretation as set forth in the [2006 Joint Report],” which the Navy 
+erroneously describes as the “DOE’s current position” on the matter. [Navy brief, at 60] We have already described why 
+the Joint Report has no legal import, but for some unknown reason, the Navy completely overlooks the DOE Secretary’s 
+explicit support for the Fort Riley panel’s application of a “pertaining to” test in her March 2018 letter.
+
+12 
+Turning our focus to the Solicitation in this case, we find that the services called for by the PWS 
+“pertain to operation of a cafeteria.” Cleaning and scrubbing all cookware and dishware, 
+maintenance of a clean facility inside and out, preparation of fruits and vegetables, dispensing food 
+to patrons at the food line, and performing cashier functions all relate in one way or another to the 
+operation of the galleys. Taken together, there can be little question that these services described in 
+the PWS “pertain to the operation” of the San Diego galleys. For this reason, we find that the Navy’s 
+failure to grant priority to CDOR and its Vendor violated the RSA. 
+D. Services Described in Navy’s Solicitation Also Involve the “Operation of a Cafeteria” 
+Even were this panel to apply an “operation of a cafeteria” test instead of the “pertaining to” test, 
+we would reach the same result. Thus, we find in the alternative that the amalgam of functions and 
+tasks described in the PWS involves the “operation of a cafeteria.” 
+The Navy claims that it maintains “operational control” over the six galleys through its FSO. 
+However, we find nothing unique about the oversight functions described in the PWS. While it is 
+fundamental that the Navy retains fiscal responsibility over its procurement of food services and that 
+any contract would require administrative oversight, this would be the case whether the contract 
+were identified as FFS or DFA services. The Navy’s stronger argument that it maintains control over 
+the functioning of its galleys under the PWS is that it procures food supplies, establishes menus, 
+ensures food preparation by Navy cooks (Culinary Specialists), and stores food. But even here, the 
+PWS calls for the contractor to play a significant role preparing fruits and vegetables, 90% of which 
+go to the salad bar. 
+More importantly, however, the PWS describes a multitude of tasks in several broad categories to be 
+performed by the contractor. The contractor is to furnish cashier services, “mess attendant 
+services,” scullery services, and galley cleaning services. The contractor must provide a Contract 
+Manager and supervisors as on-site managers at each of the six galleys. The contractor is required to 
+maintain a qualify control program and to both establish and implement a training program for all its 
+employees. 
+Cashier services require handling cash transactions, accounting for cash receipts, and safekeeping of 
+cash overnight. Scullery Services involve washing all dishware and scrubbing pots and pans, and 
+making sure dishes and “mess gear” are clean and always available for patrons’ use during meals. 
+Cleaning services cover the entire facility, inside and out, including the galley spaces, equipment, 
+furniture, the dining area, the scullery area, the bathrooms, the galley surroundings (within 10 feet 
+of the outside perimeter), and trash removal. Most comprehensive of all, the “mess attendant 
+services” encompass oversight and manning of the serving line (to serve six customers per minute 
+during peak times); washing, slicing, dicing, and chopping fruits and vegetables, 90% of which go to 
+the salad bar; and maintenance of a clean dining area. 
+Aside from the Navy’s retention of menu selection and cooking, its role could best be described as 
+oversight. But the job of keeping the galleys running in an orderly and efficient fashion falls on the 
+contractor. Beyond the preparation of fruits and vegetables (only a small portion of which goes to
+
+13 
+the cooks), the contractor dishes out meals to patrons, often at an assembly-line rate of six 
+customers every minute. And if anything is amiss during mealtime, it falls on the contractor to rectify 
+the situation. Thus, contrary to the Navy’s self-serving declaration in its PWS that, “[i]n form and 
+fact, the FSOs operate the galleys,” we find that it is the contractor who ensures the smooth 
+operation of the galleys where the rubber hits the road. We therefore conclude that the bundle of 
+services described in the Solicitation involves the “operation of a cafeteria” and that the RSA should 
+have been applied.13 
+E. Case Law Supports Our Determination that the RSA Applies 
+A review of previous court and arbitration panel decisions reveals that the functions and specific 
+tasks associated with what DoD identifies as “DFA” contracts vary widely from base to base and from 
+contract to contract. Outcomes before arbitration panels and the courts have also varied, though the 
+trend is decidedly in favor of finding that the RSA applies, depending, of course, on the particular 
+services called for in each contract. Our result here is consistent with the range of outcomes reached 
+by other tribunals applying the RSA to DFA services at DoD installations. 
+In the Washington case, the Court of Claims was called on to address the SLA’s challenge to a 
+Department of the Army (Army) contracting decision not to apply the RSA priority. Among the 
+services to be provided under the PWS were: 
+(1) “[p]repare, maintain and clean dining areas,” (2) “[c]lean tableware,: (3) “[c]lean spills 
+and remove soiled dinnerware occasionally left be diners,” (4) “[c]lean dining room tables, 
+chairs booths, walls, baseboards, window . . . ledges, doors/doorframes, ceiling fans, . . . light 
+fixtures, . . . drapes/curtains and Venetian blinds,” (5) “[r]emove and replace[ ] tablecloths 
+when stained or heavily soiled,” (6) “[c]lean all non-food contact surfaces,” (7) “[c]lean and 
+sanitize all food contact surfaces, including dinnerware, utensils, and trays, (8) “[c]lean floors 
+and floor coverings in all areas, “ (9) “[w]ax and buff floors,” (10) “[d]iscard garbage,” and (11) 
+“[c]lean restrooms. 
+Id., at 783. The court in Washington upheld the Army’s determination not to apply the RSA priority 
+to the limited DFA services at Fort Lewis. 
+While our colleague relies heavily on the Washington decision in support of his dissent, we believe 
+that the Washington court’s holding is of limited value. Perhaps most troubling is that the DOE, the 
+agency charged with interpreting the RSA, had no role in the case – DOE was not a party and its 
+views were not considered. Further, a close examination of the decision reveals that the court did 
+not conduct a de novo review of the legal question under the RSA, i.e., whether the tasks delegated 
+to the contractor amounted to “operation of a cafeteria.” Rather, the court deferred to the Army 
+ 
+13 Our conclusion is reinforced upon consideration of the PWS requirement that the contractor must provide additional 
+services unique to each of the six dining facilities, particularly with respect to the Oceanside BUDS Satellite facility, for  
+which the contractor does it all, transporting and serving food, and cleaning up after all  meals.
+
+14 
+CO’s assessment that the RSA did not apply, finding that “the basis for the defendant’s 
+interpretation of the term ‘operation of a cafeteria’ is not ‘arbitrary, capricious, an abuse of 
+discretion, or otherwise not in accordance with law.’” Washington, at 796. Citing the court’s limited 
+scope of review, the court declined to substitute its judgment for that of the Army, finding that there 
+was a “reasonable basis for the agency’s action.” 
+With all due respect to the Washington court and to our dissenting colleague’s view, this panel need 
+not accord any particular deference to the CO’s assessment here that the RSA does not apply. As 
+described by the court in Mississippi, “the interpretation of statutes is a legal matter for the courts to 
+decide, and contracting officers can claim no special expertise in statutory construction.” Mississippi, 
+61 Fed. Cl. at 25. As stated earlier, it is the DOE, as the agency charged with administration of the 
+RSA, that is entitled to deference concerning interpretation and application of the RSA, not the DoD 
+or its departments. Accord, Fort Riley, at 21-22 (neither DoD nor CO entitled to deference in 
+application of RSA to contracts).
+14 
+Finally, the facts in Washington are clearly distinguishable as the array of services required here is 
+considerably more extensive than those called for in the Washington case.  The contractor in 
+Washington was not required to engage in food preparation to any extent. Nor was the contractor 
+called on to serve meals to patrons, to handle cashier duties, or to deliver and purvey food to 
+patrons at a remote location. In combination with the scullery and cleaning duties described in the 
+PWS, we find that the requirements to prepare all fruits and vegetables, to ensure the smooth 
+operation of the serving line, to handle cash transactions, and to feed patrons at the NAB Coronado 
+galley approximately one mile away compels the conclusion that the PWS calls for the “operation of 
+a cafeteria.” 
+To like effect, the 2-1 panel majority in Texas Dep’t of Assistive & Rehab. Servs. v. U.S. Dep’t of the 
+Army, R-S/13-13 (2016)(Fort Bliss), determined that the DFA services there were not subject to the 
+RSA priority. As here, the PWS in Fort Bliss required the contractor to hire management and 
+supervisory personnel, including a contract project manager and dining facility attendant 
+supervisors.  However, the specific tasks required of the contractor in Fort Bliss were again not 
+nearly as wide-ranging as those described in the Navy’s Solicitation here. The Fort Bliss panel 
+described the contractor’s “variety of tasks” under the PWS in the following terms: 
+pot and pan cleaning and other sanitation related functions in the dining facilities, . . .  
+various managerial tasks related to the operation of a cafeteria, [and] categories of tasks 
+relating to the operation of the cafeterias at Fort Bliss, including washing dishes, scrubbing 
+pots and pans, and cleaning and sanitizing tables, floors, and equipment. The PWS does not 
+include any aspect of food preparation. 
+ 
+14 Our dissenting colleague suggests that this panel’s failure to defer to the Navy CO’s “procurement” decision is a 
+“significant flaw” in our ruling. We disagree. While the CO may have expertise in the realm of procurement, Congress 
+assigned the responsibility to interpret and apply the RSA to the DOE,  and the DOE has in turn delegated this responsibility 
+to this arbitration panel pursuant to 20 U.S.C. §107d-2.
+
+15 
+Id., at 9. The Fort Bliss panel’s decision against RSA coverage particularly noted “the fact that military 
+personnel retain responsibility for performing management operations, headcount and cashier 
+services, cooking, and menu planning and serving food at those facilities.” Id., at 21-22. These same 
+facts serve to distinguish Fort Bliss from the Navy’s Solicitation in this case. Here, the Navy added 
+cashier services, some food preparation, as well as significant responsibility to ensure that food is 
+served without delay at the serving line.15 
+While the panel finds the Washington and Fort Bliss decisions to be distinguishable, other courts that 
+considered this issue found violations based on the failure to afford RSA priority to DFA services. The 
+Mississippi case decided by the Court of Claims is not particularly helpful as a comparator. The 
+services sought by the Navy in the Mississippi case were considerably more extensive than here, 
+including not just the cleaning and scullery services described in other cases, but also food 
+preparation, food distribution, and quality control. Moreover, the Commanding Officer’s 
+involvement in the operation tapered off to such an extent that the contractor was left to assume 
+unsupervised control on a day-to-day basis. With the Navy retaining only functions involving menu 
+selection and the purchase of food supplies, the court had no difficulty concluding that the 
+contractor effectively “operated” the cafeteria. 
+The case with facts that most closely resemble the case here under consideration is Fort Campbell. 
+The contractor there was required to hire qualified personnel (including a contract manager), to 
+establish and maintain a comprehensive qualify control plan, to train employees, to operate and 
+clean a mechanical vegetable peeling machine, and to “wash, peel and cut potatoes and fruit.” The 
+Army in Fort Campbell prepared the food (and presumably established the menus) and collected 
+money from paying customers.
+16 On these facts, the Fort Campbell panel found that DFA services 
+involved the “operation of a cafeteria,” and that the Army therefore violated the RSA by issuing the 
+solicitation for DFA services without applying the RSA priority to its source selection process. 
+Three other arbitration panels have concluded that DFA services were subject to the RSA priority 
+even where the DFA services were less extensive than described in the Navy’s Solicitation. In Fort 
+Riley, a 2-1 panel majority found the services covered by the RSA, with our dissenting colleague in 
+the minority. The services called for under the Fort Riley contract were summarized as 
+Maintenance of a quality control plan in support of dining facility operations; cleaning and 
+sanitizing food service equipment and surfaces in support dining facility operations; 
+ 
+15 Two arbitration panel decisions finding against application of the RSA priority to DFA services are similarly 
+distinguishable. See Hawaii Dep’t of Human Servs., Div. of Vocational Rehab. V. U.S. Dep’t of the Army, Schofield Barracks, 
+R-S/16-07 (2017)(2-1)(contract for custodial and janitorial functions, but no cashier services, food preparation, or serving 
+line duties, not covered by RSA); and Alaska Dep’t of Educ. v. U.S. Dep’t of the Army, R/S 97-02 (2000)(RSA priority does 
+not apply to DFA solicitation limited to “scrubbing of pots and pans, with the only contact with food being the placement 
+of potatoes into the mechanical machine that abraded their skins.”) 
+16 It is unclear whether the PWS called on the Army or the contractor to dispense f ood to patrons in the serving line.
+
+16 
+preparing, maintaining and cleaning dining areas in support of dining facility operations; 
+keeping appropriate condiments available without delay; cleaning spills, removing soiled 
+dinnerware and bussing soiled trays within five minutes of occurrence; and bussing and 
+replacing tray carts during meal service period and making space available for soiled trays, 
+without diner delay 100% of the time. 
+Fort Riley, at 30. The Fort Riley panel described the janitorial and custodial services under the PWS to 
+include “cleaning, sweeping, mopping, scrubbing, trash removal, dishwashing, waxing, stripping, 
+buffing, window washing, pot and pan cleaning and other sanitization related functions in the dining 
+facilities.” Id., at 5. 
+The panel in Fort Riley noted the similarities of the contract requirements there at issue and those 
+described in Oklahoma Dep’t of Rehab. Servs. v. U.S. Dep’t of the Army, R/S 15-10 (2016)(Fort Sill), 
+and essentially adopted the reasoning of the Fort Sill panel to find that Fort Riley violated the RSA by 
+failing to give priority to the blind vendor in that case. In doing so, the Fort Riley panel concluded 
+that “[w]here the tasks to be performed by a contract for DFA services include[ ] tasks that 
+constitute an integral element of providing food services at a military cafeteria, or pertain to the 
+operation of a cafeteria, or [constitute] tasks without which the cafeterias would not be able to 
+function,” the contract falls within coverage of the RSA. Fort Riley, at 31. 
+In Fort Sill, another 2-1 decision, the panel also determined that the RSA applied to a DFA contract. 
+The services called for under the DFA contract in Fort Sill were nearly identical to those described in 
+the Fort Riley PWS. The tasks in Fort Sill involved providing dinnerware, utensils, and trays to diners; 
+cleaning spills on all serving lines and self-service areas during meal periods within five minutes; 
+maintaining a clean area for meal consumption; making condiments available without delay; bussing 
+tables and replacing tray carts during meal periods. The panel considered all such functions as 
+integral elements of providing food service and closely related to the operation of a cafeteria, 
+because “without such tasks being performed on a regular basis, multiple times per day, the 
+cafeteria could not function or operate.” 
+The facts in Fort Stewart indicate that the contractor was required to provide “custodial and 
+janitorial services . . . , including but not limited to sweeping, mopping, scrubbing, trash removal, 
+dishwashing, waxing, stripping, buffing, window washing, pot and pan cleaning, and related quality 
+control.” Fort Stewart, at 7. Even with such minimal connection to the preparation or serving of 
+food, the panel determined that the contract was subject to the RSA priority. 
+Consideration of these three decisions (Fort Riley, Fort Sill, and Fort Stewart) supports our 
+determination to apply the RSA priority in this case. In all three cases, the contracts called for far 
+fewer services than does the Navy’s Solicitation here, yet the RSA priority was found to apply. The 
+janitorial and custodial requirements were much the same, but the contracts in those cases did not 
+include food preparation, cashier services, or the ability to serve food rapidly on the food line as 
+required by the Navy’s PWS here.
+
+17 
+Our dissenting colleague expresses concern that the panel’s decision will effectively eliminate 
+competition from JWOD contractors and other socio-economically protected contractors. We do not 
+share this concern for two reasons.  First, priority for blind vendors does not automatically result in 
+their selection. SLA proposals on behalf of blind vendors may be rejected if they are not “within a 
+competitive range.” See 34 C.F.R. §395.33(b). Second, we believe this is precisely what Congress 
+intended when it enacted the RSA – to grant priority to blind vendors, even at the expense of other 
+contractors capable of delivering food services. 
+It may be true, as the dissent suggests, that the absence of DOE action (e.g., by issuance of policy 
+letters or regulations) to define the scope of the RSA has resulted in a patchwork of conflicting 
+arbitration and court decisions. This does not mean, however, that this panel should abdicate its 
+obligation to conduct the very case-by-case de novo review that the dissent seeks to avoid by 
+advocating deference to the CO. Were deference to be afforded to COs, there would be no 
+guarantee that it would not also result in a similar mélange of conflicting outcomes. 
+Finally, we emphasize that our result here is consistent with the broad purposes of the RSA to 
+provide entrepreneurial opportunities to the blind. Our result is also consistent with the policy 
+direction recently endorsed DOE Secretary DeVos. Her March 2018 letter to Congressman Sessions 
+unequivocally enunciates DOE’s view that the RSA priority applies to both FFS and DFA contracts. 
+While this panel does not find these labels particularly helpful, all contracts for food services at 
+MDFs are one or the other. Therefore, Ms. DeVos has effectively articulated DOE’s position that 
+services related to all MDFs fall within the scope of the RSA. 
+CONCLUSION 
+This arbitration panel is tasked with determining whether the Randolph-Sheppard Act priority for 
+blind vendors applies to services described in the Navy’s PWS for six U.S. Navy dining halls located in 
+San Diego, California. Despite the Navy’s protestations to the contrary, case law firmly establishes 
+that RSA coverage of vending facilities includes MDFs. Based on our review of the RSA, DOE’s 
+implementing regulations, the multitude of applicable decisions by courts and arbitration panels to 
+address this question, the various efforts by Congress to address the issue, and the DOE and DoD 
+policy pronouncements, the arbitration panel concludes that the services contracted for by the Navy 
+in this case are covered by the RSA. 
+The panel finds that because the Solicitation calls for services “pertaining to the operation of a 
+cafeteria,” the RSA priority applies. In the alternative, even if the panel were not to apply a 
+“pertaining to” test, the panel would nevertheless find that the array of services required under the 
+PWS involves the “operation of a cafeteria” requiring the same result. This result is consistent with 
+the broad purposes of the RSA to afford blind vendors entrepreneurial opportunities with respect to 
+vending operations on federal property. 
+Accordingly, we find that the Navy violated the RSA by its failure to afford CDOR (the responsible 
+SLA) an opportunity to submit a bid on behalf of its Vendor for the contract to provide services at the 
+six U.S. Navy MDFs in San Diego.
+
+18 
+REMEDY 
+The RSA specifically limits the remedial authority of arbitration panels. In pertinent part, 20 U.S.C. 
+§107d-2(b)2 reads: 
+If the [arbitration] panel . . . finds that the acts or practices of any [federal] department, 
+agency, or instrumentality are in violation of [the RSA], or any regulation issued thereunder, 
+the head of any such department, agency, or instrumentality shall cause such acts or 
+practices to be terminated promptly and shall take such other action as may be necessary to 
+carry out the decision of the panel.
+17 
+In short, this panel lacks authority to compel the Navy to take any specific action to remedy the 
+Navy’s RSA violations. Rather, the RSA dictates that we may only direct the Navy to terminate the 
+violative conduct and to initiate such other action as may be necessary to carry out our decision. 
+Accordingly, we direct the Navy to cease and desist from: 
+1. Failing to create one of more opportunities for the Vendor to operate vending facilities on 
+the San Diego bases; 
+2. Failing to invite CDOR to respond to the Solicitation; 
+3. Limiting the Solicitation to HUBZone businesses, and thereby declining to consider CDOR’s 
+proposal for award of the contract; and 
+4. Failing to evaluate CDOR’s proposal in accordance with 34 C.F.R. §395.33(b). 
+The Navy is further directed to take such other action as may be necessary to carry out the decision 
+of this arbitration panel. 
+Matthew Jarvinen Arbitration Panel Chairman 
+Brooke Lierman Arbitration Panel Member 
+DATED: October 8, 2018 
+ 
+ 
+17 Section 395.37(d) of DOE regulations tracks the RSA nearly word for word.
+
+19 
+DISSENTING OPINION 
+At issue in this arbitration is a dispute between the Department of the Navy and the State of 
+California over the applicability of a 1936 statute, The Randolph-Sheppard Act, to the feeding of U.S. 
+Navy sailors at bases located in the San Diego area. This matter generates a sense of déjà vu, albeit 
+not in any good sense of that expression. 
+Numerous courts, administrative bodies, and arbitration panels have dealt with similar if not 
+essentially these same disputes; and the resulting decisions that have been scattered all over the 
+legal landscape are testament to unnecessarily expensive and time-consuming arguments that could 
+be avoided by federal congressional or appropriate Agency intervention. Without congressional 
+guidance or even definitive agency regulations, I have no confidence that these very issues will not 
+result in future expensive and time-consuming litigation. 
+At the outset, I commend the professionalism of my colleagues on this arbitration panel, who both 
+share my frustration over the lack of definitive guidance which would preclude further 
+disagreements over whether and how the Randolph -Sheppard Act applies to military dining 
+facilities. I also commend the efforts of counsel on both sides of this dispute. Neither Navy nor 
+California lawyers representing their parties’ respective interests took any actions or communicated 
+any factual or legal assertions that weren’t supported by a reasonable interpretation of existing law 
+or regulation. 
+Hence, we are left to deal with two opposing views about a jumbled thicket of sometimes 
+complementary but often conflicting laws. Seemingly, these disputes are resolved by how a flipped 
+coin lands on any random day. By that I mean that neither side in the dispute over the applicability 
+of the Randolph-Sheppard Act to federal procurement of services that support military dining 
+facilities acts in bad faith. For that reason, it is a shame that any party should be penalized for 
+following its interests that are legitimately supported by a fair reading of applicable legal authorities. 
+But yet that is what we are forced to do in this arbitration. 
+At one time, Randolph Sheppard Act (“RSA”) was not used to support a position that a blind vendor 
+could operate a military dining facility. Thus, this position has evolved over the life of the Act into 
+justification for this practice. As it has evolved, justifications have been advanced that have 
+interpreted or misinterpreted the RSA, which in turn have spawned innumerable federal agency 
+pronouncements which themselves are frequently at odds. Despite literally decades of back and 
+forth between federal agencies, most notably the Department of Defense (“DoD”) and the Dept of 
+Education (“DoE”), and numerous legislative calls for a final fix, no one has stepped forward to 
+remedy this mess (pun intended). I fear our decision in this instant arbitration will likewise do little 
+to bring closure to this unsettled area of the law. 
+Here is my attempt at sorting through the morass to answer this evasive question: Is the RSA 
+applicable to a Navy solicitation for dining facility attendant services to support an appropriated 
+fund-operated military dining facility? I conclude that it is not, and therefore I respectfully dissent.
+
+20 
+FACTUAL AND PROCEDURAL BACKGROUND 
+A. FACTS 
+I do not dispute the majority’s recitation of the facts, which themselves are not disputed by either 
+party: In June of 2015, the Navy issued a solicitation (N00244-15-R-0014) as a 100-percent set-aside 
+for Historically Underutilized Business Zone (“HUBZone”) small businesses for various non-
+managerial tasks to support six Navy- operated military dining facilities in the San Diego region. On 
+behalf of a blind vendor, the California Department of Rehabilitation (“CDOR”) submitted a proposal, 
+which was not considered for the stated reason that it was not a HUBZone small business. The 
+contract was awarded to an otherwise qualified small business in September, 2015. 
+CDOR perfected an appeal to the DoE, which authorized this arbitration on March 11, 2016. 
+B. CALIFORNIA’S POSITION 
+The California Department of Rehabilitation (“CDOR”) asserts that Navy has violated the Randolph-
+Sheppard Act by: 
+(1) failing to create one or more opportunities wherever feasible for a Randolph- 
+Sheppard vendor to operate a vending facility on the San Diego bases as required by Title 20 
+United States Code § 107(b) and Title 34 of the Code of Federal Regulations § 395.30(a); 
+(2) disregarding the legal obligation to establish one or more opportunities wherever 
+feasible without first obtaining the Secretary’s concurrence that such a facility or facilities 
+would be adverse to the interests of the United States as required by Title 20 United States 
+Code section 107(b) and Title 34 of the Code of Federal Regulations part 395.30(b); 
+(3) failing to invite CDOR, as the State Licensing Agency in California, to bid on the 
+contract provided for in the Solicitation as required by Title 20 United States Code § 107(b) and 
+Title 34 of the Code of Federal Regulations § 395.33(b); 
+(4) issuing the Solicitation which does not adhere to the process for evaluating a State 
+Licensing Agency’s proposal as required by Title 34 Code of Federal Regulations § 395.33(a) and 
+(b), in conjunction with Title 20 United States Code § 107d-3(e); 
+(5) excluding CDOR’s proposal, submitted on behalf of a Randolph-Sheppard vendor, by 
+limiting the opportunity to certified HUBZone businesses and declining to consider CDOR’s 
+proposal for award of the contract as required by Title 20 United States Code § 107(b) and title 
+34 of the Code of Federal Regulations §§ 395.30(a) and 395.33; and 
+(6) alternatively, should the opportunity not be deemed a cafeteria under the Act that 
+can be competitively bid pursuant to Title 34 Code of Federal Regulations § 395.33, advertising 
+the opportunity without first consulting with CDOR, as the State Licensing Agency, for the 
+provision of food, beverages, and other services at a vending facility other than a cafeteria, as 
+required by Title 20 United States Code § 107a(c). 
+LEGAL BACKGROUND 
+A. The Randolph-Sheppard Act.
+
+21 
+The purpose of the Randolph-Sheppard program is to create and expand economic opportunities for 
+people who are blind to own and operate their own businesses. To grant priority to blind vendors 
+under the RSA, the Secretary of Education designates a State Licensing Agency ("SLA") in each state 
+"to issue licenses to blind persons . . . for the operating of vending facilities" on federal property. 20 
+U.S.C. 107(a)(5). When a federal agency procures dining facility services, it either may negotiate a 
+contract directly with the SLA or invite the SLA to bid on the contract. In this matter, California is 
+such an SLA. 
+Under the RSA, California issues licenses to qualified blind entrepreneurs to operate vending 
+facilities. 20 U.S.C. 107a(a)(5). The RSA grants priority to these blind entrepreneurs to operate 
+vending facilities, including cafeterias, on federal properties. 20 U.S.C. 107 et seq. It is the 
+Department of Education ("DoE") which promulgates regulations as to the operation of cafeterias on 
+federal property by blind licensees. Critically, those regulations provide that all contracts "pertaining 
+to the operation of cafeterias on federal property" are subject to the provisions of the RSA. 34 C.F.R. 
+395.33(c) (Emphasis added.). 
+Per the RSA, blind entrepreneurs do not contract directly with the federal government. Instead, the 
+SLA responds to a solicitation issued by a federal agency for work covered by the RSA. 34 C.F.R. 
+395.33(b). If the SLA is awarded the contract, a licensed blind entrepreneur is assigned to operate 
+the vending facility. Id. The blind vendor then operates the dining facility and manages the day-to-
+day operations, often with a commercial contractor called a “teaming partner.” The teaming partner 
+(herein Food Services, Inc., of Gainsville, or “FSIG”), works with the blind vendor, which not only 
+helps him operate the dining facility, but also trains him in all aspects of the contractor’s duties at 
+the facility. 
+If a dispute arises between the SLA and the federal agency that has solicited vending-facility services, 
+the RSA provides for arbitration of the dispute. The SLA may file a complaint with the Secretary of 
+Education (the "Secretary") whenever it "determines that any department, agency, or 
+instrumentality of the United States that has control of the maintenance, operation, and protection 
+of Federal property is failing to comply" with the RSA or regulations issued under it. 20 U.S.C. 107d-
+1. After the State Licensing Agency has filed a complaint with the Secretary, the "Secretary . . . shall 
+convene a panel to arbitrate the dispute . . . and the decision of such panel shall be final and binding 
+on the parties except as otherwise provided in this chapter." Id. The decision of the arbitration panel 
+is subject to appeal and review as a final agency action. Id. at 107d-2(a). 
+B. Dining Facility Attendant Services for Naval Bases, San Diego, California. 
+Although the RSA does not distinguish between the types of contracts pertaining to the operation of 
+a cafeteria, Navy Regulations refer to two types of military dining facility contracts, Full Food Service 
+("FFS") and Dining Facility Attendant ("DFA"). In an FFS contract, the contractor can be asked to 
+provide all labor and management required to serve food in a military dining facility, including 
+preparation of meals. Even in a dining facility where military food specialists and cooks prepare 
+meals, a contract might include limited food preparation or a contingency capability to fill food-
+handling and cooking positions on a temporary basis when the military members deploy. If there is
+
+22 
+limited food preparation, or even one cook available to fill contingencies, the contract is 
+characterized as FFS. The Navy concedes that FFS contracts are subject to the RSA. 
+In contrast, under a DFA contract, the contractor provides the labor required to perform discrete 
+support functions related to military dining facility operations, up to but not including meal 
+preparation. The Navy essentially contends that DFA contracts are not subject to the RSA. 
+WHY THE RSA DOES NOT APPLY TO THIS NAVY CONTRACT 
+A. “Operate” or “Operation” 
+The majority views as the critical question whether a blind vendor, despite the contract for discrete 
+tasks, is somehow responsible for the operation of a military dining facility. 
+The RSA mandates that blind vendors shall be given a priority in the operation of cafeterias. It is now 
+established that military dining halls are considered cafeterias for purposes of coverage under the 
+RSA. Nish v. Cohen, 247 F.3d 197 (4th Cir. 2001). 
+Because CDOR does not contest that Navy military personnel are charged with the overall 
+responsibility and accountability for the operation of the dining hall facilities, there is no 
+disagreement that the Navy is operating the dining hall facilities. Petitioner CDOR Closing Brief, at 
+28. Neither the Act nor the regulations define the terms “operate” and “operation.” See 20 U.S.C. 
+§107(e) (defining terms used in RSA); see also 34 C.F.R. §395.1 (defining terms used in the 
+regulations). Because neither the statute nor its implementing regulations define the term “operate” 
+or “operation”, I attempt to divine their definitions to understand the scope of coverage under the 
+RSA through the following analysis. 
+The contract at issue is for DFA services, in which the DFA services contractor will provide dining 
+facility attendants, janitorial, and custodial services at the dining facilities located in the designated 
+facilities in San Diego. Military personnel perform multiple tasks in the dining facilities, including 
+selecting the menus, preparing and cooking the food, ordering supplies, maintaining quality control 
+of all food prepared and served, maintaining equipment, conducting headcount of sailors served, 
+and accountability of cash received. Military Personnel serve the food to the troops. 
+The United States Court of Claims in Washington State Department of Services for the Blind and 
+Robert Ott v. U. S., No. 03-2017C, December 17, 2003, specifically addressed whether serving food is a 
+requirement for applying the RSA preference stating: 
+The court construes the language “operation . . . provided . . . with food” to leave open the question 
+of whether, to bring the operation of a cafeteria under RSA, an operator of a cafeteria must 
+personally provide the food or whether it is sufficient that high quality food is provided on the 
+premises, even if not by the operator directly. The court is not persuaded that the language compels 
+either the restrictive interpretation urged by defendant--that blind vendors are afforded a priority
+
+23 
+for the operation of a cafeteria only if they can provide food at a reasonable cost and high quality, . . 
+. or the restrictive interpretation urged by plaintiffs--that no food need be provided by the RSA 
+operator provided the contract pertains in some way to cafeteria operations. Washington v. U.S., at 
+15. 
+The Court then noted that expansive language in 34 C.F.R. § 395.33(b) instructing the state licensing 
+agency to establish the ability of blind vendors to provide high quality services similar to other 
+providers of cafeteria services as “administrative guidance regarding the role of the state licensing 
+agencies, rather than an aid to interpretation of the language “operation of cafeterias,” 34 C.F.R. § 
+395.33(a), or “to operate vending facilities,” 20 U.S.C. § 107(a).” Id. at 15. This distinction is 
+important because the court then proceeded to evaluate the history of the RSA as it applies to the 
+scope of services covered by the RSA. 
+DoE pronouncements on the meaning of “operation” have been inconsistent. In March 1992, DOE 
+issued a policy letter stating that if the food service contract requires the contractor provide a wide 
+variety of food services and the government’s role is limited, there is a strong possibility the 
+contractor is providing operational services and the RSA applies. If, however, the contractor is 
+providing a limited number of discrete services and the government is providing an important role in 
+the overall functioning of the operation, the contract is not covered by the RSA. Id. at 20.  DOE 
+withdrew this letter in 1999 as too restrictive. Id. at 21. The result is a lack of clarity as to the 
+meaning of the term, requiring a case-by-case analysis of the facts. 
+The court in Washington supported the government’s position that a service contract for DFA 
+services was not subject to the RSA, stating: 
+Having considered the language of the statute and the regulations, the legislative history, the 
+policy pronouncements by DOE and several decisions by arbitration panels convened in 
+accordance with RSA, and in the absence of any other guidance by DOE, the court finds that 
+the basis for defendant’s interpretation of the term “operation of a cafeteria” is not 
+“arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law.” 5 
+U.S.C. § 706(2)(A). 
+Within the limited scope of this court’s review, the court does not substitute its judgment for 
+that of the agency, see Bannum v. United States, 56 Fed. Cl. at 457 (“A reviewing court cannot 
+substitute its judgment for that of the agency . . ..”), and upholds the decision of an agency if 
+there is a reasonable basis for the agency’s action. See MCS Mgmt., Inc. v. United States, 48 
+Fed. Cl. 506, 510-11 (2000) (“[I]f the Court finds a reasonable basis for the agency’s action, 
+the Court should stay its hand ....”). 
+Id. at 23. 
+In Mississippi Department of Rehabilitation Services v. U. S., No. 032038C, June 4, 2004, the United 
+States Court of Federal Claims evaluated the facts and determined that the Navy violated the RSA 
+because “the contractor is in charge of day-to-day management of the facility, a function to which 
+we afford great weight.” It is thus apparent that the contractor was responsible for the daily
+
+24 
+functions of the facility and in that regard must be considered the facility’s “operator.” “Indeed, we 
+conclude that the amalgam of functions allocated to the contractor so outweighs those retained by 
+the Navy, ….”  
+Id. at 13. 
+These two cases provide some clarity as to the scope of the RSA. The Mississippi case re-affirms the 
+standard that the RSA applies to contracts where the contractor is in charge of day-to-day 
+management of the facility. The Washington case clarifies that a government determination not to 
+apply the RSA to a contract for discrete DFA services, that does not include Full Food Service, is not 
+arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law. 
+B. Deference to the DOE’s Interpretation of the RSA 
+The majority implicitly recognizes that DoE’s failure to issue policy letters and regulations defining the scope 
+of the RSA is problematic. The panel was not able to defer to DoE expertise on this issue, because there is no 
+such legal guidance. The court in the Washington v. U.S. summarized the importance of DOE working through 
+the Administrative Procedures Act to issue regulations. Absent DOE regulations and policy guidance, the case-
+by-case de novo review of this issue has led to conflicting arbitration and court decisions. The court’s 
+summary of the importance of the ability of the arbitration panels and the courts to give deference to an 
+agency interpretation of a statutory provision follows: 
+Chevron deference is afforded to an agency’s interpretation of a particular statutory 
+provision “when it appears that Congress delegated authority to the agency generally to 
+make rules carrying the force of law, and that the agency interpretation claiming deference 
+was promulgated in the exercise of that authority.” United States v. Mead Corp., 533 U.S. 
+218, 226-27 (2001) (“Mead”) (citing Chevron U.S.A. Inc. v. Natural Res. Def. Council, Inc., 467 
+U.S. 837 (1984). Evidence of such authority may be shown by an agency’s power to engage in 
+notice-and comment rulemaking or formal adjudication. See id. at 230. See also Chevron, 467 
+U.S. at 843-44. An agency interpretation meriting Chevron deference is reviewed under the 
+Administrative Procedure Act standard, 5 U.S.C. §706, requiring an agency’s findings to 
+upheld unless the interpretation is “arbitrary, capricious, an abuse of discretion, or otherwise 
+not in accordance with law,” 5 U.S.C. § 706(2)(A). Mead, 533 U.S. at 227. For agency 
+“interpretations [similar to those] contained in policy statements, agency manuals, and 
+enforcement guidelines,” however, the Supreme Court has stated that courts may treat the 
+agency’s guidance as persuasive evidence. Mead, 533 U.S. at 234-35. 
+Contrary to some of the views expressed in briefing, the DoE opinion letters on which the parties rely 
+as general policy pronouncements addressing the proper interpretation of the term “operation of a 
+cafeteria’ under the RSA and its implementing regulations do not merit Chevron deference but may 
+be afforded Mead deference and weighed as persuasive evidence. 
+Washington State Department of Services for the Blind and Robert Ott v. U.S. at FN 7. 
+I agree with the court in Washington that the failure of the DOE to issue regulations defining the 
+statutory terms “operation” or “operation of a cafeteria” has created confusion and a lack of clarity
+
+25 
+in the administration of the RSA. This lack of clarity has resulted in a mixed bag of decisions that only 
+increases the confusion for contracting officers who are responsible for awarding contracts for 
+dining services. 
+As a practical matter, contracting officers require clarity in the procurement regulations that apply to 
+their acquisitions. The inability of the DOE to propose RSA regulations that resolve the issue and 
+provide that needed clarity was identified in the Report referenced above. The Report stated that 
+“(t)he RSA policies are vague and allow for interpretations that benefit the purposes of the 
+interpreter. Clarification is required to strengthen current RSA policies across the board.” Id. at iii. To 
+provide needed clarification, the Report recommended a coordinated effort to “publish for public 
+and interagency comment appropriate policy and regulations to implement the joint policy 
+recommendations as reported to Congress on August 19, 2006, by DoD, DoED, and CFP.” Id. at iv. 
+The Report acknowledged that full implementation requires compliance with Administrative 
+Procedures Act requirements and may require additional legislative action by Congress. Id. 
+What clearly does not measure up to the extensive requirements required before appropriate 
+implementation of a federal policy is the letter quoted authoritatively in both CDOR’s pre-arbitration 
+and closing briefs: Secretary Betsy DeVoss has clearly stated both her position and that of the 
+Department of Education on the central issue presented in this case— the Randolph-Sheppard 
+priority applies to food service attendant services contracts. In a March 5, 2018, letter to 
+Congressman Pete Sessions, [Secretary DeVoss] stated her view that the RSA applies to DFA 
+contracts for “military cafeterias.” 
+Petitioner CDOR’s Closing Brief, at 12. Despite CDOR’s acknowledgement that this is the Secretary’s 
+own “view,” her pronouncement simply isn’t even close to what is required to promulgate a federal 
+policy. See preceding section above. 
+C. Deference to the Contracting Officer 
+a. Strict Constraints on Contracting Officers When Spending Appropriated Funds 
+My colleagues on this arbitration panel seem to believe that its role is to step into the shoes of the 
+contracting officer, making a decision to apply the RSA to DFA services. However, the Navy through 
+its contracting officer, has determined that the RSA does not apply to DFA service contracts. The 
+failure of the majority to give deference to the contracting officer’s interpretation of the RSA is, in 
+my opinion, a significant flaw in the decision of the panel. 
+My view of the proper issue before the panel is whether or not the decision of the Agency through 
+the contracting officer is a violation of the RSA, and if so, the review standard should be the standard 
+defined in the United States Court of Claims in Washington State Department of Services for the Blind 
+and Robert Ott v. U.S., No. 03- 2017C, Supra. My analysis for this position follows. 
+The Randolph Sheppard Program (RSP) has no specific appropriations line item in the federal budget; 
+therefore, funding for this DFA contract is provided by the Navy as the procuring agency. The RSA
+
+26 
+also includes permits for blind vendors to operate vending facility on federal properties. These 
+permits are not funded by appropriated funds and the operators are either successful or not based 
+on revenue generated by vending machines located in federal properties. State rehabilitation 
+agencies recruit, train, license and place individuals who are blind as operators of vending facilities 
+located on federal and other properties. 
+Because the issuance of permits for the operation of vending facilities does not involve the 
+obligation of appropriated funds, a contracting officer does not control the process for negotiation 
+of a permit. However, contracting officers are subject to strict controls for the obligation of federal 
+funds. A vast array of federal statutes and regulations control this process, beginning with our 
+Constitution. The framers of the Constitution vested Congress with the power of the purse by 
+providing in the Constitution that “no Money shall be drawn from the Treasury, but in Consequence 
+of Appropriations made by Law.” U.S. Const., art. I, § 9, cl. 7. The Supreme Court has consistently 
+reaffirmed that the language in the Constitution means “no money can be paid out of the Treasury 
+unless it has been appropriated by an act of Congress.” 
+Cincinnati Soap Co. v. United States, 301 U.S. 308, 321 (1937). 
+Contracting officers are bound by this basic tenet of constitutional Jaw and must obligate and 
+expend funds only when authorized by Congress. Therefore, an appropriation act passed by 
+Congress must authorize the appropriation of funds for the award of a contract for dining hall 
+services and the contracting officer is accountable for that decision. 
+b. Contracting Officers Otherwise Have Broad Authority 
+A contracting officer is a person with authority to enter into, administer, and/or terminate contracts 
+and make related determinations and findings. FAR 1.602-1(a) (Defining the authority of a 
+contracting officer). A contracting officer is not authorized to enter into a contract “unless the 
+contracting officer ensures that all requirements of law, executive orders, regulations, and all other 
+applicable procedures, including clearances and approvals, have been met.” FAR 1.602-1(b) 4 FAR 
+1.602-2. 
+The FAR further defines the responsibilities of a contracting officer to include responsibility for 
+“ensuring performance of all necessary actions for effective contracting, ensuring compliance with 
+the terms of the contract, and safeguarding the interests of the United States in its contractual 
+relationships. In order to perform these responsibilities, contracting officers should be allowed wide 
+latitude to exercise business judgment.” Additionally, a contracting officer has ‘‘no authority to make 
+any commitments or changes that affect price, quality, quantity, delivery, or other terms and 
+conditions of the contract nor in any way direct the contractor or its subcontractors to operate in 
+conflict with the contract terms and conditions.” FAR 1.602-2 (5). 
+A contracting officer’s decisions regarding the process for the selection of a contractor and the 
+process for award of a contract are broad. Those decisions include the application of statutes, such
+
+27 
+as the RSA, to the particular procurement action. The issue of deference to the decisions of the 
+contracting officer will be addressed later in this dissent. See para. D, infra. 
+c. No Court Has Objected to the Use of the FAR 
+It is a fact that the Navy applied the FAR to this acquisition and California did not object to the use of 
+the FAR to control the process for source selection under this acquisition. While the DoE has the 
+authority under its enabling statute to issue implementing regulations that define the process for the 
+award of a dining hall services contract subject to the RSA, the DoE has not implemented FAR-type 
+regulations that instruct a contracting officer on the process to be used to make an award 
+determination. 34 CFR Part 395— Vending Facility Program for the Blind on Federal and Other 
+Property is the implementing regulation for the RSA. While the regulations include specific 
+instructions for the issuance and management of a permit for the operation of vending machines on 
+federal property, they do not include similar FAR-type instructions and regulations for the obligation 
+of federal funds. 
+Because the DoE has no appropriated funds to pay contractors who are providing dining hall service 
+contracts, agency contracting officers, in this case a Navy contracting officer, are tasked to obligate 
+funds to pay for dining hall services under the solicitation in question. Because the local procuring 
+agency must use its contracting officer to award dining hall service contracts with local agency funds 
+appropriated by Congress for that purpose, the decision on the means and process for award directly 
+impacts the procuring agency’s budget. DoE’s budget is not impacted by the award of these 
+contracts. 
+The FAR is a system of administrative regulations that authorize the contracting officer to award a 
+contract. The FAR is a codification of acquisition policy that apply to all executive agencies. The RSA 
+and its implementing regulations are not part of the FAR system and as a result, procuring 
+contracting officers must attempt to determine if the RSA applies to a particular procurement and if 
+so, how that interaction with the FAR impacts the legal authorities necessary to award a contract for 
+dining hall services. 
+DoE could address this issue by issuing detailed procurement acquisition regulations and entering 
+into interagency agreements to manage the award of RSA dining hall service contracts; or could 
+adopt the FAR as its implementing regulation with appropriate modifications to implement its 
+statutory mandate. As explained above, it has done neither. Therefore, procuring agencies through 
+their contracting officers are required by law and regulation to use the FAR to manage the 
+acquisition. 
+d. Deference to the Contracting Officer 
+The panel’s willingness to step into the shoes of the contracting officer and substitute its judgment 
+for that of the contracting officer is erroneous for a number of reasons. In order to avoid an endless
+
+28 
+round of arbitrations with conflicting decisions, the panel should have used the Washington analysis 
+to defer to the Agency’s interpretation of the RSA and its application to DFA services. 
+The analysis above demonstrates that the procuring agency has a constitutional, legislative and 
+regulatory duty to obligate funds consistent with Congressional funding statutes. As agents for their 
+agency, contracting officers do not have the discretion to ignore their agency procurement 
+regulations when awarding procurement contracts that obligate funds subject to Congressional 
+funding statutes. A contracting officer is exposed to both civil and criminal charges if an award is 
+made in violation of law. Because the Navy, in this matter, opined that the award of DFA services 
+was not authorized under the RSA, the contracting officer would have a difficult time justifying an 
+award of a DFA services contract using the RSA as authority for the award. 
+D. Deference to the Navy’s Interpretation of the RSA 
+The General Accountability Office (GAO) has published the Fourth Edition of the Red Book that 
+provides guidance to all executive agencies regarding federal fiscal law issues. The GAO specifically 
+addressed this issue regarding the interpretation of statutes. It is my opinion, that, as in this case, 
+when a procuring agency is tasked to determine the application of a particular statute to a particular 
+procurement, the procuring agency’s opinion should be given deference in the absence of clear 
+regulatory guidance from the DoE. The GAO states the following: 
+When Congress vests an agency with responsibility to administer a particular statute, the 
+agency’s interpretation of that statute, by regulation or otherwise, is entitled to considerable 
+weight. This principle is really a matter of common sense. An agency that works with a 
+program from day to day develops an expertise that should not be lightly disregarded. Even 
+when dealing with a new law, Congress does not entrust administration to a particular 
+agency without reason, and this decision merits respect. 
+The often-cited case of Udall v. Tallman, 380 U.S. 1, 16 (1965), the Supreme Court stated the 
+principle this way: 
+When faced with a problem of statutory construction, this Court shows great deference to 
+the interpretation given the statute by the officers or agency charged with its administration. 
+Principles of Federal Appropriations Law, Chapter 1, Introduction, Fourth Edition 2016, Revisions, 
+Page 1-66 GAO-16-463SP. Weblink: www.gao.gov/legal/redbook/redbook.html. 
+While the panel has opined that, in its opinion, the RSA does apply to DFA service contracts, the 
+panel has failed to defer to the agency responsible for the obligations of the appropriated funds 
+necessary to fund the contract. See Washington, at 15, 23. 
+In addressing whether or not deference is appropriate, the Supreme Court has opined that prior to 
+granting deference to an agency decision, the court must determine “whether Congress has directly
+
+29 
+spoken to the precise question at issue.” Chevron, Inc. v. Natural Resources Defense Council, 467 U.S. 
+837 (1984), at 842. The DoE has not updated or clarified its regulations regarding this issue and 
+United States Court of Claims determined that Congress had not specifically spoken on this issue; 
+therefore, deference is open for evaluation. If DoE had amended its regulations to specifically 
+address this issue, the deference analysis would be impacted by the Supreme Court’s ruling in Udall 
+v. Tallman, 380 U.S. 1, 16 (1965). Where deference to the agency’s interpretation of its own 
+regulation is an issue, the Supreme Court has stated that “[w]hen the construction of an 
+administrative regulation rather than a statute is in issue, deference is even more clearly in order.” 
+Udall v. Tallman, 380 U.S. 1, 16 (1965). Because DoE has not specifically weighed in on that issue, 
+deference to that interpretation of the regulation in an issue before the panel. The panel is left to 
+make its own independent interpretation of the statute and its regulation without the benefit of a 
+formal DoE analysis of the issue. 
+Having addressed the first Chevron test, the question becomes “whether the agency’s answer is 
+based on a permissible construction of the statute.” Chevron at 843. The Court in Chevron went on 
+to say: 
+If Congress has explicitly left a gap for the agency to fill, there is an express delegation of 
+authority to the agency to elucidate a specific provision of the statute by regulation. Such 
+legislative regulations are given controlling weight unless they are arbitrary, capricious, or 
+manifestly contrary to the statute. 
+Sometimes the legislative delegation to an agency on a particular question is implicit rather 
+than explicit. In such a case, a court may not substitute its own construction of a statutory 
+provision for a reasonable interpretation made by the administrator of an agency. 
+Chevron, at 843-44 
+Because the United States Court of Claims in Washington has granted deference to the agency’s 
+decision on this exact issue, it would seem incumbent on the panel to do the same. 
+LEGISLATIVE EFFORTS TO RESOLVE CONFUSION 
+A. Congress has stated that the Randolph-Sheppard Act does not apply to DFA services. 
+Although California may not appreciate the unique realities confronting how the Department of 
+Defense operates military dining facilities, Congress has. Several efforts have been undertaken by 
+Congress to fix the confusion that plaques this specific area of confusion. 
+President George W. Bush signed the National Defense Authorization Act for Fiscal Year 2004. 
+Section 852 of that Act read: 
+(a) INAPPLICABILITY OF RANDOLPH-SHEPPARD ACT- The Randolph-Sheppard Act 
+does not apply to any contract described in subsection (b) for so long as the
+
+30 
+contract is in effect, including for any period for which the contract is extended 
+pursuant to an option provided in the contact. 
+(b) JAVITS-WAGNER-O'DAY CONTRACTS- Subsection (a) applies to any contract for 
+the operation of a military mess hall, military troop dining facility, or any similar 
+dining facility operated for the purpose of providing meals to members of the 
+Armed Forces that: 
+(1) Was entered into before the date of the enactment of this Act with a non-profit 
+agency for the blind or agency for other severely handicapped in compliance 
+with section 3 of the Javits-Wagner-O'Day Act and 
+(2) Is in effect on such date. 
+This Statute took a first attempt at defining the work covered by each Act. 
+However, it did not resolve all of the controversy. 
+Congress’s next intervention occurred on January 6, 2006, when it passed Section 848 of the 
+National Defense Authorization Act for Fiscal Year 2006, Public L. 109-163 (“2006 NDAA”). Section 
+848 required the Departments of Education and Defense and the Committee for Purchase from 
+People Who Are Blind or Severely Disabled (CFP) to issue a joint statement of policy concerning 
+application of the Javits-Wagner-O’Day Act, 41 U.S.C. § 8501, et seq., (JWOD) and the Randolph-
+Sheppard Act to contracts for operation and management of military dining facilities and contracts 
+for food services, mess attendant and other services supporting the operation of military dining 
+facilities. This joint statement of policy was completed on August 29, 2006. 
+The joint report to Congress was issued by the Departments of Education and Defense more than a 
+decade ago, titled “Application of the Javits-Wagner-O’Day Act and the Randolph-Sheppard Act to 
+the Operation and Management of Military Dining Facility Contracts” (Report). The Report advised 
+Congress by defining which aspects of dining facility services were to be covered by each act. The 
+Report advised Congress that military dining facility contracts should be “competed under the RSA 
+when DOD solicits a contract to exercise management and day-to-day decision-making for the 
+overall functioning of a military dining facility.” Id. (emphasis added). However, the Report sought to 
+limit RSA applicability by also recommending: 
+[i]n all other cases, the contracts will be set aside for JWOD performance (or small 
+businesses if there is no JWOD nonprofit agency capable or interested) when the DOD 
+needs dining support services, (e.g., food preparation services, food serving, ordering 
+and inventory of food, meal planning, cashiers, mess attendants, or other services that 
+support the operation of a dining facility) where DOD food service specialists exercise 
+management and responsibility over and above those contract administrative functions 
+described in FAR Part 42. 
+Id. ¶4(b) (parentheses in original, emphasis added).
+
+31 
+The Report, signed and submitted to Congress with the explicit approval of the Department of 
+Education, belies CDOR’s assertion that the Department of Education “has not determined that 
+dining facility attendant services are not covered by the RS-A, or that the RS-A only applies to the 
+overall operation of a military dining facility.” Moreover, pursuant to a September 19, 2006, request 
+by the United States Senate Health, Education, Labor and Pensions (HELP) Committee, the 
+Department of Defense, the Department of Education, and the CFP issued a joint analysis of the 
+Report (Analysis) which was “designed to provide background information on the reason or reasons 
+for the section, the thinking behind the approach chosen, and the effect of the section.” The Analysis 
+provided agency guidance concerning the interplay between RSA and JWOD and the intention 
+behind the recommendations contained in the Report. Importantly, the Analysis states that RSA 
+contractors only have priority for the operation of an entire military dining facility: 
+It should be noted that State RSA agencies do not have authority to provide military dining 
+support services as limited contractual services. The RSA role in military food service is for the 
+operation of an (entire) military dining facility (cafeteria), for which these agencies have a 
+procurement priority. 
+Analysis at p. 4. (parenthetical original, emphasis added). 
+Congress then adopted these findings through the John Warner National Defense Authorization Act 
+for Fiscal Year 2007, P.L. 109-364, § 856(c) (October 17, 2006) (“John Warner Act”). The John Warner 
+Act provides clear guidance that Congress recognized a distinction between how the RSA and JWOD 
+interplay within the context of military dining facilities – stating that the RSA would not have 
+preference over JWOD for dining facility attendant services. The John Warner Act also tasked the 
+Inspectors General of the Departments of Education and Defense to review their respective 
+procedures under RSA and JWOD. See John Warner Act § 856(c). In accordance with this mandate, in 
+2008, the Department of Defense, through an Inspector General report, gave a statement on the 
+applicability of RSA to military dining facility attendants under the John Warner Act: 
+…[T]he Military Departments can provide a priority for blind vendors when a contractin g 
+officer determines the contract will be for ‘operation of a dining facility.’ However, the JWOD 
+and other socio-economic preferences govern contracts for mess attendant services, dining 
+support services, or other services supporting DoD operation of a cafeteria. 
+Further, if there is a conflict between RSA and JWOD, then RSA provisions are the dominating 
+factors for the overall ‘operation’ of the cafeterias, but JWOD is controlling over the general 
+services that support the operation. 
+DOD Assessment of Contracting with Blind Vendors and Employers Who Are Blind or Have Other 
+Severe Disabilities, Apr. 15, 2008, at 5 (emphasis added). 
+The 2015 NDAA acknowledges this history, incorporating a “Joint Explanatory Statement to 
+Accompany the National Defense Authorization Act for Fiscal Year 2015” (hereinafter “Explanatory
+
+32 
+Statement”) which “shall have the same effect with respect to the implementation of this Act as if it 
+were a joint explanatory statement of a committee of conference.” Pub. L. No. 113-291, Section 5. 
+The Explanatory Statement notes that Congress tried to “resolve this long-standing issue by requiring 
+a Joint Policy Statement in section 848 of Public Law 109-163 [the 2006 NDAA] and enacting a 
+permanent ‘no- poaching’ provision in section 856 of Public Law 109-364. [the John Warner Act]” Id., 
+D.N. 42-3 at Page ID #1408. However, the Explanatory Statement further explained that “without 
+complementary regulations to implement the Joint Policy Statement, confusion remains on when to 
+apply the two acts, particularly with regard to new contracts that are not covered by section 856 of 
+Public Law 109-364.” Id. 
+In order to alleviate any further confusion, the Explanatory Statement adopted the findings of the 
+August 29, 2006, joint report which clarifies how the two acts are to be applied within the context 
+of all military dining facilities: 
+Pursuant to the Joint Policy Statement, the Randolph-Sheppard Act applies to contracts for 
+the operation of a military dining facility, or full food services, and the Javits-Wagner-O’Day 
+Act applies to contracts and subcontracts for dining support services, or dining facility 
+attendant services, for the operation of a military dining facility. 
+Id. 
+Through the Explanatory Statement, Congress directed the Department of Defense, not the 
+Department of Education, to “prescribe implementing regulations for the application of the two 
+acts to military dining facilities. Such regulations shall implement the Joint Policy Statement and 
+specifically address DOD contracts that are not covered by section 856 of Public Law 109-364.” Id. 
+B. CDOR’s Misplaced Reliance on Statutory Language 
+California urges the panel to interpret Section (b)(2) of the John Warner Act to expand the coverage 
+of the RSA to include full food services, mess attendant services, or services supporting the 
+operation of all or any part of a military dining facility. Petitioner CDOR Closing Brief at 33. I do not 
+concur in this interpretation of the statute. The John Warner Act was an attempt to establish 
+boundaries between RSA contracts for full service operation of dining hall facilities and JWOD and 
+other socio-economic firms that provided mess attendant services and other services supporting the 
+operation of all or any part of a military dining facility.  Subsection (b) requires the Comptroller 
+General conduct a study of a representative number of the contracts awarded by the government 
+under JWOD and RSA. The definition provided in (b)(2) of the subsection simply defines the type of 
+contracts to be studied and does not amend 20 U.S.C.§107.  The RSA statutory language remains 
+unchanged. 
+To decide that the definition of the requirements of a study expresses the intent of Congress to 
+expand the scope of coverage of the RSA is simply not supportable and is inconsistent with the 
+comprehensive DoD report above. In addition, “If the statutory language is plain and unambiguous, 
+then it controls, and we may not look to the agency regulation for further guidance.” Supra., citing 
+Chevron U.S.A., Inc., 467 U.S. at 842–43, 104 S.Ct. 2778.
+
+33 
+To expand the scope of the RSA to include contracts for mess attendant services or services 
+supporting the operation of a military dining facility effectively bars JWOD contractors and other 
+socio-economically protected contractors from competing for these contracts. Because the RSA has 
+a statutory preference, RSA contractors have a superior priority to these contractors. Therefore, if 
+the decision of the panel is accepted and implemented by the Navy, competition will effectively be 
+eliminated for these services. While the RSA contractors may welcome this expanded sole source 
+authority, the rest of the contracting community will not. 
+AGENCY ACTION: Proposed Regulatory Change 
+The Secretary of the Navy has taken a formal legal position that DFA services are not covered by the 
+RSA. Similarly, the Secretary of Defense is proposing a formal regulatory change to the FAR that 
+would exclude DFA services from RSA coverage. 
+On 7 June 2016, the Department of Defense issued a proposed final regulatory change to the 
+Defense Federal Acquisition Regulation (DFAR) that specifically addressed food services for dining 
+facility on military installations. Defense Federal Acquisition Regulation Supplement: Food Services 
+for Dining Facilities on Military Installations (DFARS Case 2015-D012)(81 FR 36506). 
+The proposed DFAR has been published in the Federal Register and was issued for public comment. 
+The public comment period has expired and the agency has addressed public comments. The stated 
+purpose for the amendment to the DFAR is: 
+DoD is proposing to amend the Defense Federal Acquisition Regulation Supplement (DFARS) to 
+provide policy and procedures for soliciting offers, evaluating proposals and awarding contracts for 
+the operation of a military dining facility pursuant to the Randolph-Sheppard Act; the National 
+Defense Authorization Act (NDAA) for Fiscal Year (FY) 2007; the Joint Report and Policy Statement 
+issued pursuant to the NDAA for FY 2006; and the Committee for Purchase from People Who Are 
+Blind or Severely Disabled statute. 
+The proposed regulation excludes DFA services from the coverage of the RSA, stating: 
+(b) A State licensing agency will be afforded priority for award of the contract if the State 
+licensing agency has submitted a proposal that- (1) Demonstrates the operation of 
+the military dining facility can be provided with food of a high quality and at a fair 
+and reasonable price comparable to that available from other providers; and (2) Is 
+judged to have a reasonable chance of being selected for award as determined by 
+the contracting officer after applying the evaluation criteria contained in the 
+solicitation. 
+The RSA priority is limited to those solicitations for dining hall services where the contractor is 
+contracting for the “operation of a military dining facility”. The proposed DFAR defines the term 
+“operation of a military dining facility” as:
+
+34 
+Operation of a military dining facility means the exercise of management responsibility and 
+day-to-day decision-making authority by a contractor for the overall functioning of a military 
+dining facility, including responsibility for its staff and subcontractors, where the DoD role is 
+generally limited to contract administration functions described in FAR part 42. 
+The proposed DFAR defines “dining support services” to mean: 
+Dining support services means food preparation services, food serving, ordering and 
+inventory of food, meal planning, cashiers, mess attendant services, or any and all other 
+services that are encompassed by, are included in, or otherwise support the operation of a 
+military dining facility, other than the exercise of management responsibility and day-to-day 
+decision-making authority by a contractor for the overall functioning of a military dining 
+facility. 
+DFAR 237-7X01 Definitions. The proposed DFAR clearly limits the RSA priority to contracts for the 
+operation of military dining facilities. The DFAR does not extend the RSA priority to dining hall 
+service contracts limited to dining support services; i.e., DFA services. 
+While the majority is correct in stating that the proposed DFAR is not effect, the Secretary of 
+Defense has examined the same statutes and regulations as the panel and has arrived at a different 
+result. The DFAR is critically relevant to the interpretation of the RSA as it pertains to this specific 
+arbitration. The Secretary of Defense is on record taking a position that is contrary to the panel’s 
+decision. 
+I acknowledge here that the joint explanatory statement does not carry the force of law. Roeder v. 
+Islamic Republic of Iran, 333 F.3d 228, 236–37 (D.C. Cir. 2003); accord Kansas v. United States, 171 F. 
+Supp. 3d 1145, 1161–62 (D. Kan. 2016). See also, Commonwealth of Kentucky by and through the 
+Education and Workforce Development Cabinet Office for the Blind, v. United States, U.S. District 
+Court, Western District of Kentucky (Paducah Division), Civil Action No. 5:12-CV-00132-TBR. Thus, I 
+concede that this proposed regulation does not resolve this dispute; however, I remain convinced that 
+it is at least relevant to provide instruction on the intent of Congress and the relevant agencies, and 
+thus, is informative on the intent of the Navy’s contract for DFA services. 
+As discussed above (See para. C(d) above), the procurement agency, not the Secretary of Education 
+has the authority and responsibility to obligate appropriated funds consistent with the United States 
+constitution and the appropriate Acts passed by Congress. The proposed DFAR addresses the specific 
+issue before this panel and is addressing the issue through the formal rule making process that will 
+codify that DoD’s position. Contracting officers, who receive their warrants from the service 
+agencies, not the D0E, will be bound to follow the DFAR in awarding contracts for food services for 
+dining facility on military installations. Because of the ruling of the United States Court of Claims in 
+Washington that the basis for Navy’s interpretation of the term “operation of a cafeteria” is not 
+“arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law” [Washington, 
+at 23], the likelihood of a court directing the DoD to change its position is remote.
+
+35 
+CONCLUSION 
+The contracting agency, the Navy, has a constitutional, statutory and regulatory responsibility to 
+obligate appropriated funds in accordance with the intent of Congress. When, as in this case, the 
+language in the DoE regulation is subject to different interpretations, the arbitration panel should 
+use the review standard in the Washington as a basis for its analysis of the law as regards the 
+interpretation of the statute. This position has even more weight since the Navy, not the DoE, is 
+responsible for the implementation of the decision of the panel and should have discretion to 
+interpret the meaning of the RSA. While reasonable individuals may disagree as to the interpretation 
+of the statute, California, which carries the burden of proof, has not established that the decision of 
+the Navy to exclude DFA services from the scope of the RSA is arbitrary, capricious, an abuse of 
+discretion, or otherwise not in accordance with law.” 
+No one disputes the authority of the Navy to use its own military personnel to operate and retain 
+responsibility for performing management operations, headcount and cashier services, cooking, and 
+menu planning and serving food at all of the San Diego dining facilities. This practice flows from a 
+decision reserved to the Department of Defense and is entitled to deference. 
+Likewise, there is little dispute as to the fact that this solicitation is for DFA services only and does 
+not include food preparation. The contractor under the DFA contract is to provide services that 
+include washing dishes, scrubbing pots and pans, and cleaning and sanitizing tables, floors, and 
+equipment. The contractor is not required to provide other support services such as facilities, 
+equipment, maintenance of equipment and facilities, grounds maintenance, utilities, transportation, 
+etc. These services also pertain to the successful operation of a dining hall facility but are provided 
+by Navy. The division of services and the limitation of services is important to understanding the 
+scope of the RSA to dining hall services. 
+Bottom Line 
+This Arbitration Panel is chartered to address whether or not DFA services are covered by the RSA. 
+Navy contracting officials made a policy/legal determination that DFA services are not covered by 
+the RSA. Specifically, the Navy contracting officials determined that those discrete services required 
+by the language of the solicitation do not rise to the level of “operating” or “operation” of the 
+military dining facilities at issue. 
+How the Navy makes this determination that is crucial to the sustainment of its fighting force, and, 
+hence, is a major factor relating to Naval operations, is one that most certainly must be left to the 
+expertise of professional Navy contracting officials. 
+Finally, although the proposed DFAR changes that will resolve this dispute once and for all are not 
+yet promulgated, they will be -- by all indications and based on the Navy’s representations. Though 
+not currently cloaked with the force of law, those proposed regulatory changes are nonetheless 
+instructive as to how Congress and the appropriate Agencies have delineated the contours of the
+
+36 
+RSA’s applicability to military dining facilities. Under any fair reading of the DFARS, California’s right 
+to bid for the DFA services at issue in this dispute is diminished. 
+It should be our job to address whether the legal determination of the Navy not to apply the RSA to 
+this source selection process for DFA services should be honored by the DoE. The Navy’s decision not 
+to apply the RSA to DFA services is entitled to deference and is not a violation the RSA. Because I 
+cannot reconcile my interpretation with that of the majority, I respectfully dissent. 
+David Cary 
+October 8, 2018

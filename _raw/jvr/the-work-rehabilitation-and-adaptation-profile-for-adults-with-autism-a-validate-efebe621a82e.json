@@ -1,0 +1,2134 @@
+{
+  "source_type": "jvr_pdf_candidate",
+  "doi": "10.1177/10522263251376329",
+  "doi_url": "https://doi.org/10.1177/10522263251376329",
+  "source_url": "https://journals.sagepub.com/doi/10.1177/10522263251376329",
+  "attempted_pdf_urls": [
+    "https://journals.sagepub.com/doi/pdf/10.1177/10522263251376329",
+    "https://journals.sagepub.com/doi/10.1177/10522263251376329",
+    "https://doi.org/10.1177/10522263251376329",
+    "https://content.iospress.com/download?id=10.1177/10522263251376329"
+  ],
+  "selected_pdf_url": "",
+  "selected_final_url": "",
+  "download_status": "unavailable",
+  "match": {
+    "veteran_hits": [
+      "va "
+    ],
+    "pathway_hits": [
+      "employment",
+      "work",
+      "vocational rehabilitation"
+    ],
+    "disability_hits": []
+  },
+  "openalex": {
+    "id": "https://openalex.org/W4414596592",
+    "doi": "https://doi.org/10.1177/10522263251376329",
+    "title": "The ‘Work Rehabilitation and Adaptation Profile’ for Adults with Autism, a Validated French-Canadian Observation Grid",
+    "display_name": "The ‘Work Rehabilitation and Adaptation Profile’ for Adults with Autism, a Validated French-Canadian Observation Grid",
+    "publication_year": 2025,
+    "publication_date": "2025-09-29",
+    "ids": {
+      "openalex": "https://openalex.org/W4414596592",
+      "doi": "https://doi.org/10.1177/10522263251376329"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/10522263251376329",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/10522263251376329",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S190353498",
+        "display_name": "Journal of Vocational Rehabilitation",
+        "issn_l": "1052-2263",
+        "issn": [
+          "1052-2263",
+          "1878-6316"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310318577",
+        "host_organization_name": "IOS Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310318577"
+        ],
+        "host_organization_lineage_names": [
+          "IOS Press"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Vocational Rehabilitation",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5119491192",
+          "display_name": "Chaimaa Zemrani",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210127220",
+            "display_name": "Centre for Interdisciplinary Research in Rehabilitation",
+            "ror": "https://ror.org/031yz7195",
+            "country_code": "CA",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I4210127220"
+            ]
+          }
+        ],
+        "countries": [
+          "CA"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Chaimaa Zemrani",
+        "raw_affiliation_strings": [
+          "Center of interdisciplinary research in rehabilitation and social integration (Cirris)",
+          "Center of interdisciplinary research in rehabilitation and social integration (Cirris), Québec, QC, Canada"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Center of interdisciplinary research in rehabilitation and social integration (Cirris)",
+            "institution_ids": [
+              "https://openalex.org/I4210127220"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Center of interdisciplinary research in rehabilitation and social integration (Cirris), Québec, QC, Canada",
+            "institution_ids": [
+              "https://openalex.org/I4210127220"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5051978630",
+          "display_name": "Claude Vincent",
+          "orcid": "https://orcid.org/0000-0001-5292-4035"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210127220",
+            "display_name": "Centre for Interdisciplinary Research in Rehabilitation",
+            "ror": "https://ror.org/031yz7195",
+            "country_code": "CA",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I4210127220"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I43406934",
+            "display_name": "Université Laval",
+            "ror": "https://ror.org/04sjchr03",
+            "country_code": "CA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I43406934"
+            ]
+          }
+        ],
+        "countries": [
+          "CA"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Claude Vincent",
+        "raw_affiliation_strings": [
+          "Center of interdisciplinary research in rehabilitation and social integration (Cirris)",
+          "Université Laval",
+          "Faculty of Medicine, School of rehabilitation sciences, Université Laval, Québec, QC, Canada",
+          "Center of interdisciplinary research in rehabilitation and social integration (Cirris), Québec, QC, Canada"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Center of interdisciplinary research in rehabilitation and social integration (Cirris)",
+            "institution_ids": [
+              "https://openalex.org/I4210127220"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Université Laval",
+            "institution_ids": [
+              "https://openalex.org/I43406934"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Faculty of Medicine, School of rehabilitation sciences, Université Laval, Québec, QC, Canada",
+            "institution_ids": [
+              "https://openalex.org/I43406934"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Center of interdisciplinary research in rehabilitation and social integration (Cirris), Québec, QC, Canada",
+            "institution_ids": [
+              "https://openalex.org/I4210127220"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5057111917",
+          "display_name": "Frédéric Dumont",
+          "orcid": "https://orcid.org/0000-0002-4372-4741"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210127220",
+            "display_name": "Centre for Interdisciplinary Research in Rehabilitation",
+            "ror": "https://ror.org/031yz7195",
+            "country_code": "CA",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I4210127220"
+            ]
+          }
+        ],
+        "countries": [
+          "CA"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Frédéric S Dumont",
+        "raw_affiliation_strings": [
+          "Center of interdisciplinary research in rehabilitation and social integration (Cirris)",
+          "Center of interdisciplinary research in rehabilitation and social integration (Cirris), Québec, QC, Canada"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Center of interdisciplinary research in rehabilitation and social integration (Cirris)",
+            "institution_ids": [
+              "https://openalex.org/I4210127220"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Center of interdisciplinary research in rehabilitation and social integration (Cirris), Québec, QC, Canada",
+            "institution_ids": [
+              "https://openalex.org/I4210127220"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5081469456",
+          "display_name": "Francine Julien‐Gauthier",
+          "orcid": "https://orcid.org/0000-0002-3245-3149"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210127220",
+            "display_name": "Centre for Interdisciplinary Research in Rehabilitation",
+            "ror": "https://ror.org/031yz7195",
+            "country_code": "CA",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I4210127220"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I43406934",
+            "display_name": "Université Laval",
+            "ror": "https://ror.org/04sjchr03",
+            "country_code": "CA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I43406934"
+            ]
+          }
+        ],
+        "countries": [
+          "CA"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Francine Julien-Gauthier",
+        "raw_affiliation_strings": [
+          "Center of interdisciplinary research in rehabilitation and social integration (Cirris)",
+          "Faculty of Education, Département des fondements et pratiques en éducation, Université Laval, Québec, QC, Canada",
+          "Center of interdisciplinary research in rehabilitation and social integration (Cirris), Québec, QC, Canada"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Center of interdisciplinary research in rehabilitation and social integration (Cirris)",
+            "institution_ids": [
+              "https://openalex.org/I4210127220"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Faculty of Education, Département des fondements et pratiques en éducation, Université Laval, Québec, QC, Canada",
+            "institution_ids": [
+              "https://openalex.org/I43406934"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Center of interdisciplinary research in rehabilitation and social integration (Cirris), Québec, QC, Canada",
+            "institution_ids": [
+              "https://openalex.org/I4210127220"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5015058746",
+          "display_name": "Martin Caouette",
+          "orcid": "https://orcid.org/0000-0001-9540-9412"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210120730",
+            "display_name": "Centre intégré universitaire de santé et de services sociaux de la Mauricie-et-du-Centre-du-Québec",
+            "ror": "https://ror.org/02jvrpv13",
+            "country_code": "CA",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I4210120730"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210127220",
+            "display_name": "Centre for Interdisciplinary Research in Rehabilitation",
+            "ror": "https://ror.org/031yz7195",
+            "country_code": "CA",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I4210127220"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I63341726",
+            "display_name": "Université du Québec à Trois-Rivières",
+            "ror": "https://ror.org/02xrw9r68",
+            "country_code": "CA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I49663120",
+              "https://openalex.org/I63341726"
+            ]
+          }
+        ],
+        "countries": [
+          "CA"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Martin Caouette",
+        "raw_affiliation_strings": [
+          "Center of interdisciplinary research in rehabilitation and social integration (Cirris)",
+          "Institut universitaire en DI-TSA. Santé et services sociaux, 2008. 1025, rue Marguerite-Bourgeoys Trois-Rivières, QC, Canada",
+          "Université du Québec à Trois-Rivières",
+          "Department of Psychoeducation, Université du Québec à Trois-Rivières (UQTR), Trois-Rivières, QC, QC, Canada",
+          "Center of interdisciplinary research in rehabilitation and social integration (Cirris), Québec, QC, Canada"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Center of interdisciplinary research in rehabilitation and social integration (Cirris)",
+            "institution_ids": [
+              "https://openalex.org/I4210127220"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Institut universitaire en DI-TSA. Santé et services sociaux, 2008. 1025, rue Marguerite-Bourgeoys Trois-Rivières, QC, Canada",
+            "institution_ids": [
+              "https://openalex.org/I4210120730"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Université du Québec à Trois-Rivières",
+            "institution_ids": [
+              "https://openalex.org/I63341726"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Psychoeducation, Université du Québec à Trois-Rivières (UQTR), Trois-Rivières, QC, QC, Canada",
+            "institution_ids": [
+              "https://openalex.org/I63341726"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Center of interdisciplinary research in rehabilitation and social integration (Cirris), Québec, QC, Canada",
+            "institution_ids": [
+              "https://openalex.org/I4210127220"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5039545392",
+          "display_name": "Édith Jolicoeur",
+          "orcid": "https://orcid.org/0009-0006-6779-8178"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I182451676",
+            "display_name": "Université du Québec à Rimouski",
+            "ror": "https://ror.org/049jtt335",
+            "country_code": "CA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I182451676",
+              "https://openalex.org/I49663120"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210120730",
+            "display_name": "Centre intégré universitaire de santé et de services sociaux de la Mauricie-et-du-Centre-du-Québec",
+            "ror": "https://ror.org/02jvrpv13",
+            "country_code": "CA",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I4210120730"
+            ]
+          }
+        ],
+        "countries": [
+          "CA"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Edith Jolicoeur",
+        "raw_affiliation_strings": [
+          "Departmental unit of educational sciences, Université du Québec à Rimouski (UQAR), Rimouski, QC, Canada",
+          "Institut universitaire en DI-TSA. Santé et services sociaux, 2008. 1025, rue Marguerite-Bourgeoys Trois-Rivières, QC, Canada"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Departmental unit of educational sciences, Université du Québec à Rimouski (UQAR), Rimouski, QC, Canada",
+            "institution_ids": [
+              "https://openalex.org/I182451676"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Institut universitaire en DI-TSA. Santé et services sociaux, 2008. 1025, rue Marguerite-Bourgeoys Trois-Rivières, QC, Canada",
+            "institution_ids": [
+              "https://openalex.org/I4210120730"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5027931135",
+          "display_name": "Sylvain Letscher",
+          "orcid": "https://orcid.org/0000-0002-5712-7972"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I182451676",
+            "display_name": "Université du Québec à Rimouski",
+            "ror": "https://ror.org/049jtt335",
+            "country_code": "CA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I182451676",
+              "https://openalex.org/I49663120"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210127220",
+            "display_name": "Centre for Interdisciplinary Research in Rehabilitation",
+            "ror": "https://ror.org/031yz7195",
+            "country_code": "CA",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I4210127220"
+            ]
+          }
+        ],
+        "countries": [
+          "CA"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Sylvain Letscher",
+        "raw_affiliation_strings": [
+          "Center of interdisciplinary research in rehabilitation and social integration (Cirris)",
+          "Departmental unit of educational sciences, Université du Québec à Rimouski (UQAR), Rimouski, QC, Canada",
+          "Center of interdisciplinary research in rehabilitation and social integration (Cirris), Québec, QC, Canada"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Center of interdisciplinary research in rehabilitation and social integration (Cirris)",
+            "institution_ids": [
+              "https://openalex.org/I4210127220"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Departmental unit of educational sciences, Université du Québec à Rimouski (UQAR), Rimouski, QC, Canada",
+            "institution_ids": [
+              "https://openalex.org/I182451676"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Center of interdisciplinary research in rehabilitation and social integration (Cirris), Québec, QC, Canada",
+            "institution_ids": [
+              "https://openalex.org/I4210127220"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5056720603",
+          "display_name": "Normand Boucher",
+          "orcid": "https://orcid.org/0000-0002-0778-6152"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210127220",
+            "display_name": "Centre for Interdisciplinary Research in Rehabilitation",
+            "ror": "https://ror.org/031yz7195",
+            "country_code": "CA",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I4210127220"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I43406934",
+            "display_name": "Université Laval",
+            "ror": "https://ror.org/04sjchr03",
+            "country_code": "CA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I43406934"
+            ]
+          }
+        ],
+        "countries": [
+          "CA"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Normand Boucher",
+        "raw_affiliation_strings": [
+          "Center of interdisciplinary research in rehabilitation and social integration (Cirris)",
+          "Faculty of Business administration, department of Management, Université Laval, Quebec, QC, Canada",
+          "Center of interdisciplinary research in rehabilitation and social integration (Cirris), Québec, QC, Canada"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Center of interdisciplinary research in rehabilitation and social integration (Cirris)",
+            "institution_ids": [
+              "https://openalex.org/I4210127220"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Faculty of Business administration, department of Management, Université Laval, Quebec, QC, Canada",
+            "institution_ids": [
+              "https://openalex.org/I43406934"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Center of interdisciplinary research in rehabilitation and social integration (Cirris), Québec, QC, Canada",
+            "institution_ids": [
+              "https://openalex.org/I4210127220"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5092705101",
+          "display_name": "Frédérique Mercure",
+          "orcid": "https://orcid.org/0000-0002-1356-3158"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210127220",
+            "display_name": "Centre for Interdisciplinary Research in Rehabilitation",
+            "ror": "https://ror.org/031yz7195",
+            "country_code": "CA",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I4210127220"
+            ]
+          }
+        ],
+        "countries": [
+          "CA"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Frédérique Mercure",
+        "raw_affiliation_strings": [
+          "Center of interdisciplinary research in rehabilitation and social integration (Cirris)",
+          "Center of interdisciplinary research in rehabilitation and social integration (Cirris), Québec, QC, Canada"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Center of interdisciplinary research in rehabilitation and social integration (Cirris)",
+            "institution_ids": [
+              "https://openalex.org/I4210127220"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Center of interdisciplinary research in rehabilitation and social integration (Cirris), Québec, QC, Canada",
+            "institution_ids": [
+              "https://openalex.org/I4210127220"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 9,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5119491192"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I4210127220"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.26226053,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": "63",
+      "issue": "3",
+      "first_page": "282",
+      "last_page": "298"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T10106",
+      "display_name": "Autism Spectrum Disorder Research",
+      "score": 0.993399977684021,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2805",
+        "display_name": "Cognitive Neuroscience"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/28",
+        "display_name": "Neuroscience"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T10106",
+        "display_name": "Autism Spectrum Disorder Research",
+        "score": 0.993399977684021,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2805",
+          "display_name": "Cognitive Neuroscience"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/28",
+          "display_name": "Neuroscience"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/1",
+          "display_name": "Life Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11514",
+        "display_name": "Disability Education and Employment",
+        "score": 0.9904999732971191,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3311",
+          "display_name": "Safety Research"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11097",
+        "display_name": "Cerebral Palsy and Movement Disorders",
+        "score": 0.972100019454956,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2738",
+          "display_name": "Psychiatry and Mental health"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/employability",
+        "display_name": "Employability",
+        "score": 0.5705000162124634
+      },
+      {
+        "id": "https://openalex.org/keywords/rehabilitation",
+        "display_name": "Rehabilitation",
+        "score": 0.544700026512146
+      },
+      {
+        "id": "https://openalex.org/keywords/autism",
+        "display_name": "Autism",
+        "score": 0.5389000177383423
+      },
+      {
+        "id": "https://openalex.org/keywords/internship",
+        "display_name": "Internship",
+        "score": 0.5329999923706055
+      },
+      {
+        "id": "https://openalex.org/keywords/adaptation",
+        "display_name": "Adaptation (eye)",
+        "score": 0.454800009727478
+      },
+      {
+        "id": "https://openalex.org/keywords/autism-spectrum-disorder",
+        "display_name": "Autism spectrum disorder",
+        "score": 0.4390999972820282
+      },
+      {
+        "id": "https://openalex.org/keywords/scale",
+        "display_name": "Scale (ratio)",
+        "score": 0.4381999969482422
+      },
+      {
+        "id": "https://openalex.org/keywords/discriminant-validity",
+        "display_name": "Discriminant validity",
+        "score": 0.4359000027179718
+      },
+      {
+        "id": "https://openalex.org/keywords/vocational-education",
+        "display_name": "Vocational education",
+        "score": 0.4189000129699707
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.5978000164031982
+      },
+      {
+        "id": "https://openalex.org/C15302153",
+        "wikidata": "https://www.wikidata.org/wiki/Q470863",
+        "display_name": "Employability",
+        "level": 2,
+        "score": 0.5705000162124634
+      },
+      {
+        "id": "https://openalex.org/C2778818304",
+        "wikidata": "https://www.wikidata.org/wiki/Q1819478",
+        "display_name": "Rehabilitation",
+        "level": 2,
+        "score": 0.544700026512146
+      },
+      {
+        "id": "https://openalex.org/C205778803",
+        "wikidata": "https://www.wikidata.org/wiki/Q38404",
+        "display_name": "Autism",
+        "level": 2,
+        "score": 0.5389000177383423
+      },
+      {
+        "id": "https://openalex.org/C540751848",
+        "wikidata": "https://www.wikidata.org/wiki/Q6500754",
+        "display_name": "Internship",
+        "level": 2,
+        "score": 0.5329999923706055
+      },
+      {
+        "id": "https://openalex.org/C139807058",
+        "wikidata": "https://www.wikidata.org/wiki/Q352374",
+        "display_name": "Adaptation (eye)",
+        "level": 2,
+        "score": 0.454800009727478
+      },
+      {
+        "id": "https://openalex.org/C2778538070",
+        "wikidata": "https://www.wikidata.org/wiki/Q1436063",
+        "display_name": "Autism spectrum disorder",
+        "level": 3,
+        "score": 0.4390999972820282
+      },
+      {
+        "id": "https://openalex.org/C2778755073",
+        "wikidata": "https://www.wikidata.org/wiki/Q10858537",
+        "display_name": "Scale (ratio)",
+        "level": 2,
+        "score": 0.4381999969482422
+      },
+      {
+        "id": "https://openalex.org/C120107772",
+        "wikidata": "https://www.wikidata.org/wiki/Q168554",
+        "display_name": "Discriminant validity",
+        "level": 4,
+        "score": 0.4359000027179718
+      },
+      {
+        "id": "https://openalex.org/C668760",
+        "wikidata": "https://www.wikidata.org/wiki/Q6869278",
+        "display_name": "Vocational education",
+        "level": 2,
+        "score": 0.4189000129699707
+      },
+      {
+        "id": "https://openalex.org/C49453240",
+        "wikidata": "https://www.wikidata.org/wiki/Q1592163",
+        "display_name": "Construct validity",
+        "level": 3,
+        "score": 0.4074999988079071
+      },
+      {
+        "id": "https://openalex.org/C75630572",
+        "wikidata": "https://www.wikidata.org/wiki/Q538904",
+        "display_name": "Applied psychology",
+        "level": 1,
+        "score": 0.4043999910354614
+      },
+      {
+        "id": "https://openalex.org/C2775882741",
+        "wikidata": "https://www.wikidata.org/wiki/Q6130303",
+        "display_name": "Vocational rehabilitation",
+        "level": 3,
+        "score": 0.37869998812675476
+      },
+      {
+        "id": "https://openalex.org/C2780801425",
+        "wikidata": "https://www.wikidata.org/wiki/Q5164392",
+        "display_name": "Construct (python library)",
+        "level": 2,
+        "score": 0.37700000405311584
+      },
+      {
+        "id": "https://openalex.org/C86251818",
+        "wikidata": "https://www.wikidata.org/wiki/Q816754",
+        "display_name": "Benchmarking",
+        "level": 2,
+        "score": 0.34380000829696655
+      },
+      {
+        "id": "https://openalex.org/C171606756",
+        "wikidata": "https://www.wikidata.org/wiki/Q506132",
+        "display_name": "Psychometrics",
+        "level": 2,
+        "score": 0.3425999879837036
+      },
+      {
+        "id": "https://openalex.org/C43214815",
+        "wikidata": "https://www.wikidata.org/wiki/Q7310987",
+        "display_name": "Reliability (semiconductor)",
+        "level": 3,
+        "score": 0.34130001068115234
+      },
+      {
+        "id": "https://openalex.org/C121244757",
+        "wikidata": "https://www.wikidata.org/wiki/Q1783487",
+        "display_name": "Convergent validity",
+        "level": 4,
+        "score": 0.3386000096797943
+      },
+      {
+        "id": "https://openalex.org/C18762648",
+        "wikidata": "https://www.wikidata.org/wiki/Q42213",
+        "display_name": "Work (physics)",
+        "level": 2,
+        "score": 0.33550000190734863
+      },
+      {
+        "id": "https://openalex.org/C187691185",
+        "wikidata": "https://www.wikidata.org/wiki/Q2020720",
+        "display_name": "Grid",
+        "level": 2,
+        "score": 0.31540000438690186
+      },
+      {
+        "id": "https://openalex.org/C169900460",
+        "wikidata": "https://www.wikidata.org/wiki/Q2200417",
+        "display_name": "Cognition",
+        "level": 2,
+        "score": 0.3151000142097473
+      },
+      {
+        "id": "https://openalex.org/C551499885",
+        "wikidata": "https://www.wikidata.org/wiki/Q183560",
+        "display_name": "Intellectual disability",
+        "level": 2,
+        "score": 0.2978000044822693
+      },
+      {
+        "id": "https://openalex.org/C99508421",
+        "wikidata": "https://www.wikidata.org/wiki/Q2678675",
+        "display_name": "Physical medicine and rehabilitation",
+        "level": 1,
+        "score": 0.2946999967098236
+      },
+      {
+        "id": "https://openalex.org/C70410870",
+        "wikidata": "https://www.wikidata.org/wiki/Q199906",
+        "display_name": "Clinical psychology",
+        "level": 1,
+        "score": 0.28760001063346863
+      },
+      {
+        "id": "https://openalex.org/C101266164",
+        "wikidata": "https://www.wikidata.org/wiki/Q2131821",
+        "display_name": "Rasch model",
+        "level": 2,
+        "score": 0.2786000072956085
+      },
+      {
+        "id": "https://openalex.org/C138496976",
+        "wikidata": "https://www.wikidata.org/wiki/Q175002",
+        "display_name": "Developmental psychology",
+        "level": 1,
+        "score": 0.2542000114917755
+      }
+    ],
+    "mesh": [],
+    "locations_count": 2,
+    "locations": [
+      {
+        "id": "doi:10.1177/10522263251376329",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1177/10522263251376329",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S190353498",
+          "display_name": "Journal of Vocational Rehabilitation",
+          "issn_l": "1052-2263",
+          "issn": [
+            "1052-2263",
+            "1878-6316"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310318577",
+          "host_organization_name": "IOS Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310318577"
+          ],
+          "host_organization_lineage_names": [
+            "IOS Press"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Vocational Rehabilitation",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:semaphore.uqar.ca:3474",
+        "is_oa": false,
+        "landing_page_url": "https://orcid.org/0009-0006-6779-8178",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306400309",
+          "display_name": "Sémaphore (Université du Québec à Rimouski)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I182451676",
+          "host_organization_name": "Université du Québec à Rimouski",
+          "host_organization_lineage": [
+            "https://openalex.org/I182451676"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "Non évalué par les pairs"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "content_urls": null,
+    "referenced_works_count": 27,
+    "referenced_works": [
+      "https://openalex.org/W1975398860",
+      "https://openalex.org/W1993868861",
+      "https://openalex.org/W1996715799",
+      "https://openalex.org/W2048729054",
+      "https://openalex.org/W2061935394",
+      "https://openalex.org/W2086545171",
+      "https://openalex.org/W2128967062",
+      "https://openalex.org/W2159306398",
+      "https://openalex.org/W2588738428",
+      "https://openalex.org/W2752674192",
+      "https://openalex.org/W2801702920",
+      "https://openalex.org/W2805704658",
+      "https://openalex.org/W2889876167",
+      "https://openalex.org/W2897025222",
+      "https://openalex.org/W2920655089",
+      "https://openalex.org/W3004564360",
+      "https://openalex.org/W3041115891",
+      "https://openalex.org/W3134846240",
+      "https://openalex.org/W3153576993",
+      "https://openalex.org/W4241083635",
+      "https://openalex.org/W4292895814",
+      "https://openalex.org/W4316495424",
+      "https://openalex.org/W4386209923",
+      "https://openalex.org/W4392096227",
+      "https://openalex.org/W4392096253",
+      "https://openalex.org/W4392111372",
+      "https://openalex.org/W4392111408"
+    ],
+    "related_works": [],
+    "abstract_inverted_index": {
+      "Background": [
+        0
+      ],
+      "There": [
+        1
+      ],
+      "is": [
+        2,
+        122,
+        179,
+        194
+      ],
+      "a": [
+        3
+      ],
+      "critical": [
+        4
+      ],
+      "absence": [
+        5
+      ],
+      "of": [
+        6,
+        18,
+        33
+      ],
+      "standardized": [
+        7
+      ],
+      "assessment": [
+        8
+      ],
+      "tools": [
+        9
+      ],
+      "necessary": [
+        10
+      ],
+      "for": [
+        11,
+        51,
+        106,
+        158,
+        189
+      ],
+      "comprehensively": [
+        12
+      ],
+      "evaluating": [
+        13
+      ],
+      "the": [
+        14,
+        31,
+        45,
+        182,
+        199
+      ],
+      "skills": [
+        15
+      ],
+      "and": [
+        16,
+        27,
+        48,
+        63,
+        74,
+        86,
+        145,
+        148,
+        174,
+        186
+      ],
+      "competencies": [
+        17
+      ],
+      "adults": [
+        19,
+        52
+      ],
+      "with": [
+        20,
+        53,
+        92,
+        104,
+        128,
+        165
+      ],
+      "autism": [
+        21
+      ],
+      "to": [
+        22,
+        137,
+        181
+      ],
+      "establish": [
+        23
+      ],
+      "their": [
+        24,
+        34
+      ],
+      "employability": [
+        25
+      ],
+      "profile": [
+        26
+      ],
+      "support": [
+        28,
+        187
+      ],
+      "them": [
+        29
+      ],
+      "in": [
+        30,
+        37
+      ],
+      "development": [
+        32,
+        73
+      ],
+      "socio-professional": [
+        35
+      ],
+      "skills,": [
+        36,
+        113
+      ],
+      "pre-employment": [
+        38
+      ],
+      "transitions": [
+        39
+      ],
+      "services": [
+        40
+      ],
+      "(Pre-ETS).": [
+        41
+      ],
+      "Objective": [
+        42
+      ],
+      "To": [
+        43
+      ],
+      "validate": [
+        44
+      ],
+      "‘Work": [
+        46
+      ],
+      "Rehabilitation": [
+        47
+      ],
+      "Adaptation": [
+        49
+      ],
+      "Profile’": [
+        50
+      ],
+      "Autism": [
+        54,
+        190
+      ],
+      "Spectrum": [
+        55
+      ],
+      "Disorder": [
+        56
+      ],
+      "(WRAP-ASD)": [
+        57
+      ],
+      "by": [
+        58,
+        168
+      ],
+      "assessing": [
+        59
+      ],
+      "its": [
+        60,
+        65
+      ],
+      "psychometric": [
+        61
+      ],
+      "properties": [
+        62
+      ],
+      "confirming": [
+        64
+      ],
+      "suitability": [
+        66
+      ],
+      "across": [
+        67,
+        79
+      ],
+      "multiple": [
+        68
+      ],
+      "Pre-ETS.": [
+        69,
+        160
+      ],
+      "Method": [
+        70
+      ],
+      "A": [
+        71
+      ],
+      "scale": [
+        72
+      ],
+      "validation": [
+        75
+      ],
+      "method": [
+        76
+      ],
+      "was": [
+        77,
+        102,
+        163
+      ],
+      "applied": [
+        78
+      ],
+      "day": [
+        80
+      ],
+      "activity": [
+        81
+      ],
+      "center,": [
+        82
+      ],
+      "workshops,": [
+        83
+      ],
+      "work": [
+        84
+      ],
+      "programs": [
+        85
+      ],
+      "internships": [
+        87
+      ],
+      "(n": [
+        88
+      ],
+      "=": [
+        89,
+        95
+      ],
+      "41": [
+        90
+      ],
+      "trainees": [
+        91
+      ],
+      "autism,": [
+        93
+      ],
+      "n": [
+        94
+      ],
+      "19": [
+        96
+      ],
+      "vocational": [
+        97,
+        184
+      ],
+      "rehabilitation": [
+        98
+      ],
+      "professionals).": [
+        99
+      ],
+      "Work": [
+        100
+      ],
+      "functioning": [
+        101
+      ],
+      "observed": [
+        103
+      ],
+      "WRAP-ASD": [
+        105,
+        121,
+        141,
+        162,
+        178
+      ],
+      "motivation,": [
+        107
+      ],
+      "attendance,": [
+        108
+      ],
+      "peer": [
+        109
+      ],
+      "relationships,": [
+        110
+      ],
+      "communication,": [
+        111
+      ],
+      "cognitive": [
+        112
+      ],
+      "rules/safety,": [
+        114
+      ],
+      "independence,": [
+        115
+      ],
+      "physical": [
+        116
+      ],
+      "demand,": [
+        117
+      ],
+      "tool/machinery": [
+        118
+      ],
+      "handling,": [
+        119
+      ],
+      "productivity/quality.": [
+        120
+      ],
+      "an": [
+        123,
+        195
+      ],
+      "Excel-based": [
+        124
+      ],
+      "observation": [
+        125
+      ],
+      "grid": [
+        126
+      ],
+      "(≈3-h-over-2-weeks)": [
+        127
+      ],
+      "59": [
+        129
+      ],
+      "items": [
+        130,
+        156
+      ],
+      "using": [
+        131
+      ],
+      "4-point": [
+        132
+      ],
+      "scales": [
+        133
+      ],
+      "from": [
+        134
+      ],
+      "3-almost": [
+        135
+      ],
+      "always": [
+        136
+      ],
+      "0-never.": [
+        138
+      ],
+      "Results": [
+        139
+      ],
+      "The": [
+        140,
+        161
+      ],
+      "demonstrated": [
+        142
+      ],
+      "strong": [
+        143
+      ],
+      "construct": [
+        144
+      ],
+      "convergent": [
+        146
+      ],
+      "validities": [
+        147
+      ],
+      "high": [
+        149
+      ],
+      "internal": [
+        150
+      ],
+      "consistency.": [
+        151
+      ],
+      "Predictive": [
+        152
+      ],
+      "validity": [
+        153
+      ],
+      "identified": [
+        154
+      ],
+      "key": [
+        155
+      ],
+      "exclusive": [
+        157
+      ],
+      "each": [
+        159
+      ],
+      "updated": [
+        164
+      ],
+      "49": [
+        166
+      ],
+      "items,": [
+        167,
+        171
+      ],
+      "removing": [
+        169
+      ],
+      "8": [
+        170
+      ],
+      "merging": [
+        172
+      ],
+      "4,": [
+        173
+      ],
+      "revising": [
+        175
+      ],
+      "4.": [
+        176
+      ],
+      "Conclusion": [
+        177
+      ],
+      "sensitive": [
+        180
+      ],
+      "different": [
+        183
+      ],
+      "needs": [
+        185
+      ],
+      "requirements": [
+        188
+      ],
+      "Levels": [
+        191
+      ],
+      "1–3.": [
+        192
+      ],
+      "This": [
+        193
+      ],
+      "added": [
+        196
+      ],
+      "value": [
+        197
+      ],
+      "over": [
+        198
+      ],
+      "six": [
+        200
+      ],
+      "existing": [
+        201
+      ],
+      "measurement": [
+        202
+      ],
+      "tools.": [
+        203
+      ]
+    },
+    "counts_by_year": [],
+    "updated_date": "2026-04-05T17:49:38.594831",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  "crossref": {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          22
+        ]
+      ],
+      "date-time": "2025-10-22T00:37:47Z",
+      "timestamp": 1761093467523,
+      "version": "build-2065373602"
+    },
+    "reference-count": 39,
+    "publisher": "SAGE Publications",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              29
+            ]
+          ],
+          "date-time": "2025-09-29T00:00:00Z",
+          "timestamp": 1759104000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              29
+            ]
+          ],
+          "date-time": "2025-09-29T00:00:00Z",
+          "timestamp": 1759104000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+      }
+    ],
+    "funder": [
+      {
+        "name": "Ministry of Economy, Innovation and Energy",
+        "award": [
+          "2022-2027-PSOv2a-UL-IS-63676"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "2022-2027-PSOv2a-UL-IS-63676"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Commission des partenaires du marché du travail",
+        "award": [
+          "7389-24964"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "7389-24964"
+            ]
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.sagepub.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Journal of Vocational Rehabilitation"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          11
+        ]
+      ]
+    },
+    "abstract": "<jats:sec>\n            <jats:title>Background</jats:title>\n            <jats:p>There is a critical absence of standardized assessment tools necessary for comprehensively evaluating the skills and competencies of adults with autism to establish their employability profile and support them in the development of their socio-professional skills, in pre-employment transitions services (Pre-ETS).</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Objective</jats:title>\n            <jats:p>To validate the ‘Work Rehabilitation and Adaptation Profile’ for adults with Autism Spectrum Disorder (WRAP-ASD) by assessing its psychometric properties and confirming its suitability across multiple Pre-ETS.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Method</jats:title>\n            <jats:p>A scale development and validation method was applied across day activity center, workshops, work programs and internships (n = 41 trainees with autism, n = 19 vocational rehabilitation professionals). Work functioning was observed with WRAP-ASD for motivation, attendance, peer relationships, communication, cognitive skills, rules/safety, independence, physical demand, tool/machinery handling, productivity/quality. WRAP-ASD is an Excel-based observation grid (≈3-h-over-2-weeks) with 59 items using 4-point scales from 3-almost always to 0-never.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Results</jats:title>\n            <jats:p>The WRAP-ASD demonstrated strong construct and convergent validities and high internal consistency. Predictive validity identified key items exclusive for each Pre-ETS. The WRAP-ASD was updated with 49 items, by removing 8 items, merging 4, and revising 4.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Conclusion</jats:title>\n            <jats:p>WRAP-ASD is sensitive to the different vocational needs and support requirements for Autism Levels 1–3. This is an added value over the six existing measurement tools.</jats:p>\n          </jats:sec>",
+    "DOI": "10.1177/10522263251376329",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          29
+        ]
+      ],
+      "date-time": "2025-09-29T18:58:47Z",
+      "timestamp": 1759172327000
+    },
+    "page": "282-298",
+    "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "The ‘Work Rehabilitation and Adaptation Profile’ for Adults with Autism, a Validated French-Canadian Observation Grid"
+    ],
+    "prefix": "10.1177",
+    "volume": "63",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0009-5675-3304",
+        "authenticated-orcid": false,
+        "given": "Chaimaa",
+        "family": "Zemrani",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Center of interdisciplinary research in rehabilitation and social integration (Cirris)"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5292-4035",
+        "authenticated-orcid": false,
+        "given": "Claude",
+        "family": "Vincent",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Center of interdisciplinary research in rehabilitation and social integration (Cirris)"
+          },
+          {
+            "name": "Université Laval"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4372-4741",
+        "authenticated-orcid": false,
+        "given": "Frédéric S",
+        "family": "Dumont",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Center of interdisciplinary research in rehabilitation and social integration (Cirris)"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3245-3149",
+        "authenticated-orcid": false,
+        "given": "Francine",
+        "family": "Julien-Gauthier",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Center of interdisciplinary research in rehabilitation and social integration (Cirris)"
+          },
+          {
+            "name": "Faculty of Education, Département des fondements et pratiques en éducation, Université Laval, Québec, QC, Canada"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9540-9412",
+        "authenticated-orcid": false,
+        "given": "Martin",
+        "family": "Caouette",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Center of interdisciplinary research in rehabilitation and social integration (Cirris)"
+          },
+          {
+            "name": "Université du Québec à Trois-Rivières"
+          },
+          {
+            "name": "Institut universitaire en DI-TSA. Santé et services sociaux, 2008. 1025, rue Marguerite-Bourgeoys Trois-Rivières, QC, Canada"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0006-6779-8178",
+        "authenticated-orcid": false,
+        "given": "Edith",
+        "family": "Jolicoeur",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Institut universitaire en DI-TSA. Santé et services sociaux, 2008. 1025, rue Marguerite-Bourgeoys Trois-Rivières, QC, Canada"
+          },
+          {
+            "name": "Departmental unit of educational sciences, Université du Québec à Rimouski (UQAR), Rimouski, QC, Canada"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5712-7972",
+        "authenticated-orcid": false,
+        "given": "Sylvain",
+        "family": "Letscher",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Center of interdisciplinary research in rehabilitation and social integration (Cirris)"
+          },
+          {
+            "name": "Departmental unit of educational sciences, Université du Québec à Rimouski (UQAR), Rimouski, QC, Canada"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0778-6152",
+        "authenticated-orcid": false,
+        "given": "Normand",
+        "family": "Boucher",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Center of interdisciplinary research in rehabilitation and social integration (Cirris)"
+          },
+          {
+            "name": "Faculty of Business administration, department of Management, Université Laval, Quebec, QC, Canada"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1356-3158",
+        "authenticated-orcid": false,
+        "given": "Frédérique",
+        "family": "Mercure",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Center of interdisciplinary research in rehabilitation and social integration (Cirris)"
+          }
+        ]
+      }
+    ],
+    "member": "179",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          29
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_3_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1176/appi.books.9780890425596.dsm01"
+      },
+      {
+        "key": "e_1_3_3_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10803-020-04603-3"
+      },
+      {
+        "issue": "6",
+        "key": "e_1_3_3_4_1",
+        "first-page": "1",
+        "article-title": "Best practices for developing and validating scales for health, social, and behavioral research: A primer",
+        "volume": "11",
+        "author": "Boateng G. O.",
+        "year": "2018",
+        "unstructured": "Boateng G. O., Neilands T. B., Frongillo E. A., Melgar-Quiñonez H. R., Young S. L. (2018). Best practices for developing and validating scales for health, social, and behavioral research: A primer. Front Public Health, 11(6), 1–18. https://doi.org/10.3389/fpubh.2018.00149",
+        "journal-title": "Front Public Health"
+      },
+      {
+        "key": "e_1_3_3_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1094428110392383"
+      },
+      {
+        "key": "e_1_3_3_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1362361317703760"
+      },
+      {
+        "key": "e_1_3_3_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF02310555"
+      },
+      {
+        "key": "e_1_3_3_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-94-007-0753-5_1581"
+      },
+      {
+        "key": "e_1_3_3_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5014/ajot.2013.005066"
+      },
+      {
+        "key": "e_1_3_3_10_1",
+        "volume-title": "Stratégie nationale pour l’intégration et le maintien en emploi des personnes handicapées 2019-2024.",
+        "author": "Gouvernement du Québec.",
+        "year": "2019",
+        "unstructured": "Gouvernement du Québec. (2019). Stratégie nationale pour l’intégration et le maintien en emploi des personnes handicapées 2019-2024. 53 pp. Gouvernement du Québec. Bibliothèque et Archives nationales du Québec, 2019 ISBN : 978-2-550-84268-2 (PDF). Stratégie nationale pour l'intégration et le maintien en emploi des personnes handicapées | Gouvernement du Québec (PDF). 53 pp. http://collections.banq.qc.ca/ark:/52327/3761369"
+      },
+      {
+        "key": "e_1_3_3_11_1",
+        "unstructured": "Gouvernement du Québec. (2025). Vision commune sur les parcours de vie des personnes handicapées (A shared vision of life paths for people with disabilities). Parcours de vie des personnes handicapées | Gouvernement du Québec."
+      },
+      {
+        "key": "e_1_3_3_12_1",
+        "unstructured": "Jiujias M. (2020a). Investigating the development of a vocational pre-requisite skills assessment tool (VOSAT) for adults with disabilities. Culminating Projects in Community Psychology Counseling and Family Therapy 70. https://repository.stcloudstate.edu/cpcf_etds/70"
+      },
+      {
+        "key": "e_1_3_3_13_1",
+        "unstructured": "Jiujias M. (2020b). Investigating the development of a vocational pre-requisite skills assessment tool (VOSAT) for adults with disabilities [master these St. Cloud State University]. St. Cloud Minnesota: Culminating Projects in Community Psychology Counseling and Family Therapy. https://repository.stcloudstate.edu/cpcf_etds/70"
+      },
+      {
+        "key": "e_1_3_3_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4324/9781315695990"
+      },
+      {
+        "key": "e_1_3_3_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4236/psych.2018.911145"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_3_3_16_1",
+        "article-title": "Profil de réadaptation et d’adaptation en contexte de travail pour les personnes ayant un trouble du spectre de l’autisme (PRACT-PTSA): Validité de contenu et applicabilité “",
+        "volume": "30",
+        "author": "Mercure F.",
+        "year": "2025",
+        "unstructured": "Mercure F., Vincent C., Dumont F., Caouette M., Jolicoeur E., Letscher S., Boucher N., Julien-Gauthier F., Bertrand-Ouellet J. (2025). Profil de réadaptation et d’adaptation en contexte de travail pour les personnes ayant un trouble du spectre de l’autisme (PRACT-PTSA): Validité de contenu et applicabilité “. Aequitas, Revue de développement humain, handicap et changement social [Journal of Human Development, Disability, and Social Change], 30(1), automne 2025. (Under press).",
+        "journal-title": "Aequitas, Revue de développement humain, handicap et changement social [Journal of Human Development, Disability, and Social Change]"
+      },
+      {
+        "key": "e_1_3_3_17_1",
+        "unstructured": "Montreal West Island Integrated University Health and Social Services Center. (2024). Socio-professional services. Retrieved December 10 2024 from https://www.ciusss-ouestmtl.gouv.qc.ca/en/care-and-services/intellectual-disability-autism-spectrum-disorder-and-physical-disability/socio-professional-services"
+      },
+      {
+        "key": "e_1_3_3_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-130660"
+      },
+      {
+        "key": "e_1_3_3_19_1",
+        "unstructured": "Office for National Statistics. (2022 February 10). Outcomes for disabled people in the UK: 2021. https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/disability/articles/outcomesfordisabledpeopleintheuk/2021"
+      },
+      {
+        "key": "e_1_3_3_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5964/ejop.v9i4.653"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_3_3_21_1",
+        "article-title": "Development and reliability of the basic skill assessment tool for adolescents with autism spectrum disorder (BSATA-ASD)",
+        "volume": "2017",
+        "author": "Pongsaksri M.",
+        "year": "2017",
+        "unstructured": "Pongsaksri M., Lersilp S., Suchart S. (2017). Development and reliability of the basic skill assessment tool for adolescents with autism spectrum disorder (BSATA-ASD). The Scientific World Journal, 2017(1), Article 2403943. https://doi.org/10.1155/2017/2403943",
+        "journal-title": "The Scientific World Journal"
+      },
+      {
+        "key": "e_1_3_3_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-240004"
+      },
+      {
+        "key": "e_1_3_3_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-240003"
+      },
+      {
+        "key": "e_1_3_3_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jaac.2013.05.019"
+      },
+      {
+        "key": "e_1_3_3_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11920-020-1136-7"
+      },
+      {
+        "key": "e_1_3_3_26_1",
+        "unstructured": "Statistics Canada. (2023). Labour market characteristics of persons with and without disabilities in 2022: Results from the Labour Force Survey. https://www150.statcan.gc.ca/n1/daily-quotidien/230830/dq230830a-eng.html"
+      },
+      {
+        "key": "e_1_3_3_27_1",
+        "first-page": "305",
+        "article-title": "The work readiness inventory (WRI): A measurement model to assess graduates’ work readiness in higher vocational educations",
+        "volume": "544",
+        "author": "Suarta I. M.",
+        "year": "2021",
+        "unstructured": "Suarta I. M., Gede I. G. K., Suwintana I. K. (2021). The work readiness inventory (WRI): A measurement model to assess graduates’ work readiness in higher vocational educations. Advances in Social Science, Education and Humanities Research, 544, 305–310. (Proceedings of the International Conference on Applied Science and Technology on Social Science (ICAST-SS 2020)). https://doi.org/10.2991/assehr.k.210424.059",
+        "journal-title": "Advances in Social Science, Education and Humanities Research"
+      },
+      {
+        "issue": "2",
+        "key": "e_1_3_3_28_1",
+        "first-page": "7",
+        "article-title": "Development of a basic work skills assessment tool for adolescents with autism",
+        "volume": "3",
+        "author": "Suchart S.",
+        "year": "2015",
+        "unstructured": "Suchart S., Lersilp S., Pongsaksri M. (2015). Development of a basic work skills assessment tool for adolescents with autism. International Journal of Child Development and Mental Health (CDMH), 3(2), 7–14.",
+        "journal-title": "International Journal of Child Development and Mental Health (CDMH)"
+      },
+      {
+        "key": "e_1_3_3_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4300/JGME-D-11-00075.1"
+      },
+      {
+        "key": "e_1_3_3_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5116/ijme.4dfb.8dfd"
+      },
+      {
+        "key": "e_1_3_3_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-240001"
+      },
+      {
+        "key": "e_1_3_3_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/2165143421993027"
+      },
+      {
+        "key": "e_1_3_3_33_1",
+        "first-page": "119",
+        "article-title": "Expérimentation du Profil de réadaptation et d’adaptation en contexte de travail pour les personnes ayant une déficience intellectuelle (PRACT-PDI)",
+        "author": "Tremblay G.",
+        "year": "2012",
+        "unstructured": "Tremblay G., Paquette G., Desrosiers F. (2012). Expérimentation du Profil de réadaptation et d’adaptation en contexte de travail pour les personnes ayant une déficience intellectuelle (PRACT-PDI). Centre de réadaptation La Myriade, 119. https://www.laressource.ca/images/ressources/experimentation_du_ profil_de_readaptation_et_dadaptation_en_contexte_de_travail_pour_les_personnes_ayant_une_deficience_intellectuelle_praci-pdi.pdf",
+        "journal-title": "Centre de réadaptation La Myriade"
+      },
+      {
+        "key": "e_1_3_3_34_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10926-018-9774-x"
+      },
+      {
+        "key": "e_1_3_3_35_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/apps.12459"
+      },
+      {
+        "key": "e_1_3_3_36_1",
+        "unstructured": "Vincent C. (2024). WRAP-ASD çA questionnaire to establish the profile of rehabilitation/adaptation in the work context for autistic people. Cirris - Centre interdisciplinaire de recherche en réadaptation et intégration sociale. https://www.cirris.ulaval.ca/en/produits/pract-ptsa-a- questionnaire-to-establish-the-profile-of-rehabilitation-adaptation-in-the-work-context-for-autistic-people/"
+      },
+      {
+        "key": "e_1_3_3_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/SHTI230637"
+      },
+      {
+        "key": "e_1_3_3_38_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10803-019-03940-2"
+      },
+      {
+        "key": "e_1_3_3_39_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-240005"
+      },
+      {
+        "issue": "3251",
+        "key": "e_1_3_3_40_1",
+        "first-page": "1",
+        "article-title": "Acceptability of employment readiness measures in youth and young adults on the autism spectrum: A mixed-methods study",
+        "volume": "44",
+        "author": "Wittevrongel K.",
+        "year": "2021",
+        "unstructured": "Wittevrongel K., Mitchell W., Hébert M. L., Nicholas D. B. (2021). Acceptability of employment readiness measures in youth and young adults on the autism spectrum: A mixed-methods study. Disability and Rehabilitation, 44(3251), 1–13. https://doi.org/10.1080/09638288.2021.1902578",
+        "journal-title": "Disability and Rehabilitation"
+      }
+    ],
+    "container-title": [
+      "Journal of Vocational Rehabilitation"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/10522263251376329",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/10522263251376329",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/10522263251376329",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          21
+        ]
+      ],
+      "date-time": "2025-10-21T11:41:30Z",
+      "timestamp": 1761046890000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/10.1177/10522263251376329"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          29
+        ]
+      ]
+    },
+    "references-count": 39,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            11
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1177/10522263251376329"
+    ],
+    "URL": "https://doi.org/10.1177/10522263251376329",
+    "relation": {},
+    "ISSN": [
+      "1052-2263",
+      "1878-6316"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "1052-2263"
+      },
+      {
+        "type": "electronic",
+        "value": "1878-6316"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          29
+        ]
+      ]
+    }
+  }
+}

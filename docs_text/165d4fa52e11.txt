@@ -1,0 +1,2485 @@
+FILENAME: fy2024-ny-g-pdf-a01b617c7eb7.pdf
+PATH: _raw/rsa.ed.gov/fy2024-ny-g-pdf-a01b617c7eb7.pdf
+
+FEDERAL FISCAL YEAR 2024 
+MONITORING REPORT ON 
+NEW YORK ADULT CAREER AND 
+CONTINUING EDUCATION SERVICES- 
+VOCATIONAL REHABILITATION 
+(ACCES-VR) 
+VOCATIONAL REHABILITATION 
+AND 
+SUPPORTED EMPLOYMENT PROGRAMS 
+ 
+U.S. Department of Education 
+Office of Special Education and 
+Rehabilitative Services 
+Rehabilitation Services Administration 
+April 24, 2025
+
+2 
+TABLE OF CONTENTS 
+Page 
+Section 1: The Scope of the Review ............................................................................................... 3 
+Section 2: Focus Area – Performance of the State Vocational Rehabilitation Services and State 
+Supported Employment Services Programs .................................................................................... 5 
+Section 3: Focus Area – Financial Management of the State Vocational Rehabilitation Services 
+and State Supported Employment Services Programs .................................................................. 19 
+Appendix A: State Vocational Rehabilitation Services and State Supported Employment Services 
+Programs Performance Tables ...................................................................................................... 44 
+Appendix B: Fiscal Data Tables ................................................................................................... 51
+
+3 
+SECTION 1: THE SCOPE OF THE REVIEW 
+A. BACKGROUND 
+Section 107 of the Rehabilitation Act of 1973 (Rehabilitation Act), as amended by Title IV of the 
+Workforce Innovation and Opportunity Act (WIOA), requires the Commissioner of the 
+Rehabilitation Services Administration (RSA) to conduct annual reviews and periodic on-site 
+monitoring of programs authorized under Title I of the Rehabilitation Act to determine whether a 
+vocational rehabilitation (VR) agency is complying substantially with the provisions of its State 
+Plan under Section 101 of the Rehabilitation Act and with the evaluation standards and 
+performance indicators established under Section 106 of the Rehabilitation Act subject to the 
+performance accountability provisions described in Section 116(b) of WIOA. In addition, the 
+Commissioner must assess the degree to which VR agencies are complying with the assurances 
+made in the State Plan Supplement for Supported Employment Services under Title VI of the 
+Rehabilitation Act. In conducting the annual reviews, RSA must consider, at a minimum, budget 
+and financial management data (Section 107(a)(2)(I) of the Rehabilitation Act); and, pursuant to 
+Section 107(a)(4)(B) of the Rehabilitation Act, RSA must examine the provision of services, 
+including pre-employment transition services.
+ 
+RSA works closely with its Federal partners at the U.S. Department of Labor’s Employment and 
+Training Administration (ETA) and the U.S. Department of Education’s Office of Career, 
+Technical, and Adult Education (OCTAE) to share monitoring and technical assistance activities, 
+especially as they relate to the joint provisions under WIOA. Although the VR program is one of 
+the six core programs in the workforce development system, it is unique in that State VR 
+agencies provide services directly to individuals with disabilities. Thus, the nature and scope of 
+RSA’s monitoring process and report may appear different from the monitoring ETA and 
+OCTAE conduct with their grantees.  
+In Federal fiscal year (FFY) 2024, RSA conducted an on-site monitoring review of the State 
+Vocational Rehabilitation Services program (VR program) and the State Supported Employment 
+Services program (Supported Employment program) administered by New York Adult Career 
+and Continuing Education Services – Vocational Rehabilitation (ACCES-VR). The nature, 
+scope, and focus of this review and the process by which RSA carried out its activities from 
+August 13 through 15, 2024, was defined by information regarding the VR agency’s use and 
+expenditure of Federal funds, documents, and data submitted by ACCES-VR, taking into 
+account the goals, unique circumstances, and technical assistance needs of the VR agency.  
+RSA—  
+ Assessed the performance of the VR and Supported Employment programs, including 
+how the VR agency is implementing strategies and practices to achieve continuous 
+improvement in the delivery of VR services, including pre-employment transition 
+services, leading to quality competitive integrated employment and supported 
+employment outcomes for individuals with disabilities;   
+ Reviewed the VR agency’s financial management of the VR and Supported Employment 
+programs, which supports and maximizes the use of Federal funds and resources to
+
+4 
+achieve continuous improvement in assisting individuals with disabilities to achieve 
+quality employment outcomes; 
+ Identified strategies, including innovative practices, the VR agency uses or may employ 
+to improve competitive integrated employment outcomes for individuals with disabilities, 
+including students and youth with disabilities; 
+ Provided recommendations leading to continuous improvement in the number and quality 
+of outcomes achieved by individuals with disabilities through the VR and Supported 
+Employment programs and recommendations leading to continuous improvement in the 
+VR agency’s financial management of fiscal resources and strategies for maximizing the 
+use of Federal grant funds;  
+ Identified compliance findings and corrective actions to improve processes and 
+procedures, including the development or revision of policies and internal controls 
+supporting effective and efficient program operations, service delivery, and data-based 
+decision making; and  
+ Provided technical assistance to assist and support the VR agency in developing strategic 
+action plans to improve and maximize program and fiscal performance and the use of 
+Federal funds. 
+B. REVIEW TEAM PARTICIPANTS 
+Members of the RSA review team included Tonya Stellar (VR Unit); Samuel Pierre, Caneshia 
+McAllister, and Jessica Hawes (Technical Assistance Unit); Patricia Dickerson and Kristine 
+Nimmo (Fiscal Unit); and Rimal Desai (Data Collection and Analysis Unit). Although not all 
+team members participated in all aspects of the on-site monitoring review, each contributed to 
+the gathering and analysis of information, along with the development of this report. 
+C. ACKNOWLEDGEMENTS 
+RSA wishes to express appreciation to the representatives of ACCES-VR for the cooperation and 
+assistance extended throughout the review process. RSA also appreciates the participation of 
+others, such as the State Rehabilitation Council (SRC), the Client Assistance Program, 
+advocates, and other stakeholders during the review process.
+
+5 
+SECTION 2: FOCUS AREA – PERFORMANCE OF THE STATE 
+VOCATIONAL REHABILITATION SERVICES AND STATE SUPPORTED 
+EMPLOYMENT SERVICES PROGRAMS  
+A. PURPOSE 
+Through this focus area, RSA assessed the VR agency’s VR and Supported Employment 
+programs’ performance in assisting individuals with disabilities, including those with the most 
+significant disabilities, with the necessary services and supports to achieve quality competitive 
+integrated employment. During this focused review, RSA analyzed VR program data, policies 
+and internal controls, and agency practices in implementing VR services within the context of 
+maximizing the use and expenditure of funds to improve program performance. Where 
+appropriate, RSA provided technical assistance and identified findings requiring corrective 
+actions. RSA also provided recommendations, which the agency may consider as it develops a 
+strategic action plan (SAP) to improve performance and maximize the use and expenditure of 
+Federal funds to achieve quality employment outcomes.  
+B. ANALYSIS OF PERFORMANCE  
+RSA’s analysis of the VR agency’s performance of the VR and Supported Employment 
+programs incorporated a review of data reported by ACCES-VR on the Case Service Report 
+(RSA-911) and the WIOA Statewide Performance Report (ETA-9169) for program years (PY) 
+2020, 2021, and 2022, as well as the review and discussion of internal controls and policies and 
+requested documents. A review of the VR agency profile and data related to the VR process, VR 
+services, quality of employment outcomes, and pre-employment transition services, as well as 
+discussions with ACCES-VR of potential factors influencing program performance informed the 
+analysis and helped to identify technical assistance needs and recommendations to improve the 
+performance and management of the VR and Supported Employment programs.  
+Summary of Factors Influencing Performance 
+Through the analysis of data and documents provided by the VR agency, information from 
+related sources, and discussions with ACCES-VR during the review, RSA identified various 
+factors, which may be contributing either positively or negatively to the VR agency’s 
+performance leading to employment outcomes for individuals with disabilities and the use and 
+expenditure of Federal funds. In addition to providing technical assistance, as appropriate and in 
+response to ACCES-VR’s requests, RSA also developed recommendations for consideration by 
+the VR agency as it plans for continuous improvement in program performance and to maximize 
+the use and expenditure of available Federal funds to assist individuals with disabilities in 
+achieving quality employment outcomes. 
+ 
+Participant, Staff, and Vendor Attrition 
+ 
+The attrition of applicants, eligible individuals and participants prior to or after receiving services 
+plays a key role in evaluating the performance of the VR agency. Premature or untimely exit of 
+individuals with disabilities during the VR process can, among other things, impact ACCES-
+
+6 
+VR’s ability to expend funds to fully support participants with the necessary services to achieve 
+their employment goals. When attrition is high, VR agencies should examine the reasons for exit 
+and make the necessary adjustments to their operations, policies, and practices to sustain 
+engagement and remove unnecessary barriers or contributing factors. ACCES-VR experienced a 
+high rate of attrition during the period under review. The percentage of individuals who exited 
+after applying for VR services and prior to the agency determining their eligibility averaged 
+20.89 percent over the three-year review period. The percentage of individuals who exited after 
+the determination of their eligibility but prior to the development of a signed individualized plan 
+for employment (IPE) increased from 9.8 percent in PY 2020 to 12.8 percent in PY 2022. The 
+percentage of participants who exited after receiving services listed on an IPE without an 
+employment outcome averaged 50.1 percent over the review period.  
+ 
+ACCES-VR made an average of 95.5 percent of eligibility determinations and developed and 
+average of 93.2 percent of IPEs during the three-year review period within federally required 
+time standards. In addition, the number of applicants and individuals determined eligible 
+increased from PYs 2020 to PY 2022. However, the number of individuals who received services 
+listed on an IPE decreased by 3,269 participants and the number of individuals who did not 
+receive services after developing an IPE increased from nine individuals in PY 2020 to 1,063 in 
+PY 2022. The reasons most reported for exit during the period of the review included “no longer 
+interested in receiving services” (ranging from 35.7 percent in PY 2020 to 36.1 percent in PY 
+2022) or “unable to locate” (ranging from 30.6 percent in PY 2020 to 33.5 percent in PY 2022). 
+The attrition rates, decline in service provision, and reasons for exit may indicate issues related 
+to sustained engagement with eligible individuals and participants or VR services that are not 
+sufficiently meeting the needs of participants. 
+ACCES-VR has addressed staff attrition through the hiring and training of staff since the start of 
+the COVID-19 pandemic, which affected the agency’s ability to sustain participant engagement, 
+as well as coordinate and provide timely services. To address staff vacancies, ACCES-VR hired 
+110 vocational rehabilitation counselors over the 18 months prior to the on-site review. 
+However, the VR agency reported a 23.1 percent VR counselor staff vacancy rate (73 of its 315 
+counselor positions remain vacant) across 15 districts and 24 physical offices. At the time of the 
+review, ACCES-VR shared that counselors were managing caseloads ranging from 130 to 200 
+VR participants and additional staff resources were still needed to quickly engage and support 
+individuals. ACCES-VR would like to develop State personnel positions/titles that are dedicated 
+to sustained participant engagement in the VR process beyond the traditional civil service 
+positions for clerical support, and to provide direct pre-employment transition services to 
+students with disabilities. At this time, the VR agency staff capacity is limited by established 
+civil service job classifications. ACCES-VR reported communicating its program needs to the 
+Office of Human Resources Management within the New York State Education Department 
+(NYSED) and the New York State Department of Civil Service. ACCES-VR was successful in 
+establishing counselor training positions and is hopeful that it will also be able to establish 
+positions to improve and sustain participant engagement and increase the availability and 
+provision of pre-employment transition services for students with disabilities. 
+The majority of VR and supported employment services are purchased through core 
+rehabilitation services (CRS) contracts with community rehabilitation providers (CRPs). During 
+the COVID-19 pandemic, ACCES-VR and its VR participants experienced delays in the
+
+7 
+coordination and delivery of VR services due to vendor capacity (e.g., service provider mergers 
+and staff attrition, decreased service options, and service waitlists), procurement limitations (e.g., 
+contracts are required when total services purchased from an entity exceed $50,000), and 
+contracting issues (e.g., service rates must be approved by NYSED and the Office of the New 
+York State Comptroller). In response to these challenges, ACCES-VR worked with vendors to 
+offer remote and virtual core rehabilitation services to meet VR participant requests for such 
+services. In addition, ACCES-VR terminated its FFYs 2020 through 2025 “project Pre-ETS” 
+contracts in December 2023, and included pre-employment transition services for potentially 
+eligible and VR-eligible students in its FFYs 2024 through 2028 CRS contracts in an effort to 
+expand the availability of pre-employment transition services providers from an average of two 
+vendors in each district to over 180 vendors statewide. The approval process for the new CRS 
+contracts delayed service provision. The VR agency also experienced a decline in the number of 
+vendors, including psychologists, willing to accept its service rates. ACCES-VR was 
+unsuccessful in attempts to increase and align its contract rates with the New York State Office 
+for People with Developmental Disabilities (OPWDD) as VR agency requests were denied by 
+NYSED staff and the Office of the New York State Comptroller (OSC). In another effort to 
+expand its network of effective service providers and services for individuals with disabilities 
+across the State, ACCES-VR was able to include travel reimbursement for vendors traveling to 
+and providing services in rural and remote areas of the State. ACCES-VR communicated that it 
+has been a challenge to expand the number of vendors due to its inability to increase service 
+rates. This is further addressed in finding 2.2. 
+Technical Assistance 
+ RSA provided technical assistance specific to the engagement of participants to ensure 
+the successful fulfilment of the IPE, including establishing expectations for regular and 
+frequent communication by both VR agency staff and individuals participating in IPE 
+services to discuss progress, offer or request necessary supports and foster effective 
+engagement. RSA and ACCES-VR discussed how ACCES-VR may be able to streamline 
+and promote meaningful and sustained engagement of individuals throughout the VR 
+process using its counselor trainees and assistants. When solid foundational relationships 
+are established, they provide a space in which challenges can be discussed and addressed, 
+as appropriate, to support the best possible result, reduce the likelihood of attrition, and 
+increase the success of achieving milestones or completing steps within an IPE. 
+ 
+Recommendations  
+ 
+ RSA recommended that ACCES-VR review and identify inefficiencies in its case 
+management processes that delay the timely coordination and provision of services after 
+IPE development and consider modifications to the system.  
+ In addition to ACCES-VR’s use of a software called “Yak Chat” to engage and 
+communicate with participants, RSA recommended that ACCES-VR develop and 
+implement policies specific to participant engagement, including the expected frequency 
+with which ACCES-VR staff must outreach to and engage VR participants. ACCES-VR 
+currently has pre-closure practices that require three attempts to reach an individual using 
+various modes of communication for at least three weeks, prior to case closure.
+
+8 
+ In addition to counselor trainees, RSA encouraged ACCES-VR to consider using 
+counselor assistants to improve participant engagement and coordination of services; 
+senior vocational rehabilitation counselor transition and youth services (SVRC TAYs) to 
+provide direct pre-employment transition services; and experienced counselor assistants 
+to serve in a capacity of supervisor assistants providing support, staffing of cases, and 
+assistance to counselors during and after their traineeship.  
+ RSA recommended that ACCES-VR partner with other VR agencies through the Council 
+of State Administrators of Vocational Rehabilitation and the RSA-funded Vocational 
+Rehabilitation Technical Assistance Center for Quality Management (VRTAC-QM) to 
+gather information related to the implementation of fee-for-service contracts and vendor 
+agreements by VR agencies in other States, specifically, how other States are providing 
+postsecondary education and non-degree trainings without the use of contracts. 
+ 
+Impediments and Practices Affecting the Accurate Reporting and Provision of Pre-
+Employment Transition Services 
+ 
+Section 113(a) of the Rehabilitation Act requires VR agencies to provide or arrange for, in 
+coordination with local educational agencies (LEA), the provision of pre-employment transition 
+services to a “student with a disability” as defined in Section 7(37). Early engagement and career 
+exploration services expose students to the VR program and services available to support their 
+career goals. Although the number of reported students fluctuated during the three-year review 
+period, the total number of students with disabilities reported and total number of students (both 
+eligible and potentially eligible for the VR program) in receipt of pre-employment transition 
+services decreased from PYs 2021 to 2022. The number of potentially eligible students in receipt 
+of services decreased significantly from 2,081 individuals in PY 2021 to 579 individuals in PY 
+2022. Only 13.2 percent of students reported by ACCES-VR received one or more pre-
+employment transition services in PY 2022 (Monitoring Table 7). The amount of VR program 
+funds ACCESS-VR expended on pre-employment transition services decreased from $8,281,262 
+in PY 2021 to $5,914,900 in PY 2022 (RSA-911). ACCES-VR reported a similar decrease on the 
+VR Program Financial Reports (RSA-17), which showed $20,347,020 in FFY 2021 and 
+$18,232,449 in FFY 2022 for pre-employment transition services expenditures. 
+ 
+ACCES-VR communicated that the decrease in students reported and the small percentage of 
+students in receipt of pre-employment transition services was due, in part, to the closure of 
+schools and service providers as a result of the COVID-19 pandemic. ACCES-VR also 
+communicated that it was not accurately capturing and reporting pre-employment transition 
+services and expenditures provided by VR program staff and purchased from vendors. 
+Specifically, ACCES-VR shared that it was erroneously reporting students from cases closed 
+prior to PY 2017 (approximately 40,000) due to staff not verifying whether an individual was 
+currently enrolled in an educational program or updating whether or not the individual was still a 
+student with a disability. ACCES-VR reported that the new case management system was 
+programmed to remove the “student with a disability” designation when an individual no longer 
+meets the age range criteria. However, the new case management system was not accurately 
+capturing secondary and postsecondary education enrollment data, which impacts ACCES-VR’s 
+performance measures such as measurable skill gains and credential attainment rates. It is 
+imperative that ACCES-VR have processes to verify and validate whether a student is enrolled in
+
+9 
+an educational program and information reported, as both the age range and enrollment criteria 
+must be met to accurately report a student with a disability. 
+ 
+The majority of pre-employment transition services reported in PYs 2020 through 2022 were 
+provided directly by ACCES-VR staff (e.g., SVRC TAYS (15), VR counselors and VR 
+counselor assistants) despite the agency having pre-ETS contracts with service providers. 
+ACCES-VR staff began reporting services it provides as “actual services” and “activities 
+provided case notes” that include service check boxes (available May 15, 2024) in the new case 
+management system, as well as time spent providing or arranging for the provision of pre-
+employment transition services through time and effort allocation system (TEAs) codes available 
+on their timesheets. The new case management system allows vendors to refer potentially 
+eligible students for services, receive authorizations from VR agency staff, upload deliverables 
+and reports for VR agency review by ACCES-VR staff, and invoice for services. The Fiscal 
+Administrative Services Team (FAST) within ACCES is able to generate payment. ACCES-VR 
+staff assured RSA that case management system advancements will improve the accuracy with 
+which ACCES-VR reports purchased and agency-provided pre-employment transition services.  
+ 
+ACCES-VR communicated that it is in the process of developing staff job classifications 
+necessary to directly provide pre-employment transition services; however, it is experiencing 
+challenges and delays due to requirements to hire civil service approved job classifications and 
+for service rates to be approved by NYSED and OSC. Specifically, ACCES-VR identified the 
+need to expand the provision of pre-employment transition services to more than 13.2 percent of 
+the students reported through the creation of civil service job classifications that would directly 
+provide pre-employment transition services. ACCES-VR engaged in discussions with NYSED’s 
+office of HR management, which communicated with the New York State Department of Civil 
+Service and requested that ACCES-VR be able to hire from a civil service title/series also used 
+by another program office. The ultimate responsibility and final decision-making authority for 
+classifying new positions and hiring rests with NYSED and the New York Department of Civil 
+Service. It is important to note that ACCES-VR was successful in creating a VR counselor 
+trainee position after two years of negotiation with NYSED’s office of HR management and the 
+New York State Department of Civil Service, which led to the hiring of over 110 staff in an 
+effort to decrease attrition and improve participant engagement, and the provision of services and 
+supports.  
+ 
+ACCES-VR and RSA closed a FFY 2021 non-compliance pre-employment transition services 
+corrective action plan (CAP) on February 3, 2025, through which RSA was monitoring the 
+progress of ACCES-VR and the New York State Commission for the Blind (NYSCB) toward 
+expanding the provision of pre-employment transition services and meeting the reserve and 
+expenditure requirement. The State of New York met the reserve and expenditure requirement in 
+FFYs 2022 and 2023.  
+ 
+Technical Assistance  
+ 
+ After the FFY 2018 review, ACCES-VR updated its TEAs codes to include required 
+activities (931), authorized activities (933), and pre-employment transition coordination 
+activities (935). RSA clarified that staff time spent arranging for VR services (e.g.,
+
+10 
+maintenance and transportation), necessary for VR-eligible students with an IPE to 
+participate in pre-employment transition services should also be captured and that time 
+charged to the funds reserved for pre-employment transition services (notice of 
+interpretation (NOI) on pre-employment transition services flexibilities issued on 
+February 28, 2020, and March 21, 2022).  
+ RSA clarified that ACCES-VR can fund auxiliary aids and services for potentially 
+eligible and eligible students with sensory and communicative impairments when needed 
+to participate in pre-employment transition services.  
+Recommendations 
+ 
+ RSA recommended that ACCES-VR assess how it can maximize its staff capacity and 
+resources to provide direct pre-employment transition services and build upon its 
+strategies to expand services to increase the low percentage of students reported in receipt 
+of pre-employment transition services (13.2 percent in PY 2022).  
+ RSA recommended ACCES-VR expand the use of its business relations team to directly 
+provide pre-employment transition services (e.g., job exploration counseling, workplace 
+readiness training, and instruction in self-advocacy). These staff can also assist with the 
+development and coordination of work-based learning experiences and their time spent 
+on these activities can be charged to the funds reserved for the provision of pre-
+employment transition services.  
+ RSA recommended that ACCES-VR update its youth in school/transition planning-
+related policy (421.00) to include pre-employment transition services (i.e., required, pre-
+employment transition services coordination, and authorized activities), and encourage 
+student referrals starting at the age of 14, rather than two years prior to exiting high 
+school. 
+Service Provision and Reporting System Limitations 
+ 
+During PYs 2020 through 2022, the number of applicants and individuals determined eligible for 
+VR services increased; however, the number of individuals who received services fluctuated 
+with a decrease from 54,151 individuals in PY 2020 to 50,882 individuals in PY 2022. Although 
+applicants entered the VR system and were determined eligible, 49.3 percent of individuals who 
+exited the VR program did so after their IPE was developed but without employment, and 15.1 
+percent exited with employment in PY 2022.  
+ 
+An examination of the training, career, and other services data that ACCES-VR reported for PY 
+2022, revealed that 13.9 percent of participants in receipt of training services received 
+miscellaneous training, 8.2 percent participated in postsecondary education, 4.8 percent received 
+occupational or vocational training, and 1.8 percent engaged in work-based learning experiences. 
+These data indicated that no individuals participated in apprenticeship training, on-the-job 
+training, basic academic remedial or literacy training, or customized training. In PY 2022, the 
+largest percentages of individuals who were provided career services received vocational 
+rehabilitation counseling and guidance (88.6 percent) and job search assistance (8.3 percent). 
+The largest percentage of individuals in receipt of other services were provided transportation 
+(8.3 percent). Given this performance, RSA and ACCES-VR discussed the need to increase 
+career and training services and conduct labor market analyses to determine the State’s labor
+
+11 
+market demands and identify opportunities to prepare individuals with disabilities for careers 
+with the potential for advancement, rather than only entry-level employment.  
+ 
+The VR agency communicated that case management system limitations resulted in the 
+inaccurate reporting of agency-provided and “no cost” services. Specifically, the new case 
+management system captures only those services included in an IPE associated with an 
+authorization, an “actual service” case management system page or “activities provided case 
+note.” During the migration to the new case management system, staff were unaware that they 
+needed to capture services provided by ACCES-VR staff on an “actual services” case 
+management system page, which is similar to an authorization without a voucher,  
+in order for services to be reported as provided on the RSA-911. The agency recently added the 
+“activities provided case note” functionality in order for staff to more easily capture and report 
+customized training, self-employment, and apprenticeships in addition to agency-provided pre-
+employment transition services RSA recommended that ACCES-VR ensure all individualized 
+VR services, whether purchased by the agency, provided directly by agency staff, or obtained 
+through comparable benefits, are included on the IPE  and accurately reported on the RSA-911.  
+ 
+RSA and ACCES-VR also discussed the need to revise policies to address limitations (e.g., 
+application timelines and postsecondary education completion deadlines, college funding limits  
+(404.00 and 405.00), present and available (202.00), and financial need policy (1125.00) that 
+may have impeded the provision and reporting of services and expenditures.  
+ 
+VR agencies may implement strategies to increase participant engagement from application to 
+IPE development and service provision. However, if ACCES-VR does not have an 
+infrastructure, policies, and procedures in place to support and provide the necessary and 
+comprehensive services to assist participants to achieve their career goals, individuals will not 
+have an incentive to remain engaged in the VR process, and unsuccessful closures may increase.  
+ 
+Technical Assistance 
+ 
+ RSA clarified that ACCES-VR must be able to accurately report each service received by 
+an individual on the RSA-911.  
+ RSA and ACCES-VR discussed IPE policy and procedure 206.00 and substantive 
+changes to an IPE that require an IPE amendment. Specifically, any changes to an 
+employment outcome, VR services to be provided, or the providers of the VR services 
+constitute substantive changes that necessitate an IPE amendment. At the time of the 
+review, ACCES-VR’s policy defined some services as minor changes (e.g., job coaching, 
+community work experiences, supported employment retention services, supported 
+employment job retention hrs./wk., youth extended services, job retention/quality wage 
+incentive for providers, fees and licenses during employment services) that did not 
+require an IPE amendment. RSA clarified that if services are not reflected on the IPE, this 
+could be affecting the services captured and reported. 
+ RSA and ACCES-VR reviewed RSA-TAC-12-04: Provision of Vocational Rehabilitation 
+Services to an Individual by More Than One Agency. RSA clarified that two VR 
+agencies (in the same or differing States) can provide VR services to the same individual 
+simultaneously so long as the agencies do not duplicate services. RSA also clarified that
+
+12 
+ACCES-VR may not impose a duration of residency requirement with respect to the 
+eligibility of any individual who is present and available for services in the state (Section 
+101(a)(12) of the Rehabilitation Act; 34 CFR 361.42(c)(1)). Furthermore, ACCES-VR 
+cannot further define “present and available” or limit services for individuals in the State 
+of New York for postsecondary education, or individuals who reside out of State “until 
+they are ready to seek placement services in New York and no longer have a VR case in 
+another State” (ACCES-VR’s eligibility procedure 202.00). 
+RSA clarified that there is no Federal requirement that the financial need of individuals 
+be considered in the provision of VR services. If a State unit chooses to consider financial 
+need, it must maintain written policies that explain the method for determining the 
+financial need of an eligible individual and specific types of VR services for which the 
+unit established a financial needs test. The policies must be applied uniformly and must 
+ensure that the level of participation in cost of VR services is reasonable, based on 
+financial need, including disability-related expenses paid by the individuals, and not so 
+high to effectively deny an individual a necessary service (34 C.F.R. § 361.54/RSA TAC 
+22-03). 
+ 
+ 
+Recommendations 
+ 
+ RSA recommended that ACCES-VR review and revise agency policies implementing 
+service limitations for consistency with Federal requirements, and ensure that they are 
+hyperlinked to ACCES-VR’s policy for exceptions and waivers to the limitations.  
+ 
+RSA recommended agency policies clarify that all individualized VR services (34 C.F.R. § 
+361.48(b)) purchased, agency provided or provided through comparable benefits be included on 
+an IPE, to ensure the accurate reporting of services received on the RSA-911. 
+ 
+RSA recommends that ACCES-VR discontinue considering the calculation of family 
+contributions identified on the Free Application for Federal Student Aid as a source of financial 
+contribution or participation for VR services, particularly when through application of the 
+agency’s financial needs policy, the participant has been determined to have no financial 
+responsibility or participation in the cost of services. The FAFSA is the means to meet the 
+requirement to apply for a PELL grant or other Federal grant assistance prior to the VR agency 
+expending VR program funds (Section 103(a)(5) of the Rehabilitation Act and 34 C.F.R.  
+§ 361.48(b)(6)). 
+ 
+Inaccurate Reporting of Supported Employment Services and Expenditures  
+ 
+During FFYs 2019 through 2021, ACCES-VR received Supported Employment program part A 
+and B funds, as well as those Supported Employment part A and B funds transferred by NYSCB; 
+however, Supported Employment program expenditures reported BY ACCES-VR on the RSA-
+911 decreased from $2,832,342 in PY 2020 to $322,286 in PY 2022. Although the number and 
+percentage of supported employment services and supported employment outcomes reported on 
+the RSA-911 decreased from PYs 2021 to 2022, ACCES-VR’s expenditure of VR program 
+funds for supported employment services increased slightly from $5,912,743 to $5,924,965
+
+13 
+during the same period. Per the RSA-911, the number and percentage of extended services 
+provided by ACCES-VR to youth with disabilities placed in supported employment increased 
+from PYs 2020 to 2022, as did the funds expended on those services ($5,924,965 in PY 2022).  
+ 
+ACCES-VR communicated that its migration to a new case management system in April 2023 
+affected the accuracy of supported employment-related data reported on the RSA-911. 
+Specifically, system limitations restricted the capturing and reporting of supported employment 
+services for cases with a “SE checkbox on the IPE.” As such, cases migrated from the legacy 
+system to the new case management system were not reflected or captured as supported 
+employment cases. ACCES-VR ran error dashboards” to identify needed corrections, including 
+the identification of supported employment plans and completion of the supported employment 
+checkbox. Despite ACCES-VR’s efforts, internal controls need to be strengthened to ensure data 
+is accurately validated and reported, including supported employment services and expenditures 
+using VR and Supported Employment program funds. 
+ 
+ACCES-VR receives a $15,160,000 State appropriation to provide supported employment 
+services, including extended services to adults with most significant disabilities. In April 2023, 
+ACCES-VR created a new case type – Adult Supported Employment (ASE) to track and report 
+these funds (Supported Employment Procedure 1310).  
+ 
+Technical Assistance 
+ 
+ RSA clarified that any staff time spent on adult extended services cannot be charged to the 
+VR or Supported Employment grant awards. All costs related to serving adults in extended 
+services (e.g., staff, case management system, other costs) must be cost allocated to the 
+State appropriation for extended services to adults with most significant disabilities.  
+ 
+ 
+Recommendations 
+ 
+ RSA recommended that ACCES-VR develop internal controls to ensure VR and 
+supported employment services and expenditures using VR and Supported Employment 
+program funds are accurately reported. 
+ RSA recommended that the New York State statute 247.14 be revised to remove 
+references to “extended evaluation” and align with the Federal requirements, as this term 
+was removed from Federal statute by amendments to the Rehabilitation Act made by 
+WIOA.  
+ RSA also recommended New York State statute Chapter 515 Law 1992 (March 12, 2020) 
+be revised to clarify that job development and placement are VR services, not supported 
+employment services.
+
+14 
+Insufficient Tracking and Reporting of Measurable Skill Gains, Credentials, and Post-Exit 
+Measures  
+Although ACCES-VR district offices conduct case reviews to ensure that they are reporting, 
+documenting, and capturing data for the WIOA performance indicators, including the types of 
+measurable skill gains (MSG) earned, the number of participants who earned MSGs, the types of 
+credentials earned, and the number of participants who earned credentials, the agency did not 
+have a uniformly administered system of case reviews as part of its system of internal controls. 
+As such, the accuracy of its performance is uncertain.  
+ 
+All of ACCES-VR’s performance measures appeared to improve across PYs 2020 to 2022 
+(Monitoring Table 1); however, the types of measurable skills gains earned decreased 
+significantly from PYs 2021 to 2022 to include education functional levels (724 to 289), 
+secondary diploma (7,545 to 3,093), and training milestones (277 to 156). The percentage of 
+participants eligible to earn MSGs decreased by almost 10 percent, from 40.7 percent in PY 2020 
+to 30.6 percent in PY 2022.  
+ 
+RSA also reviewed ACCES-VR’s PY 2022 performance measures compared to VR agencies 
+across the nation. ACCES-VR’s MSG rate and median earnings in the second quarter after exit 
+were in the second performance quartile; employment rate in the fourth quarter after exit and 
+credential attainment rate were in the third performance quartile; and employment rate second 
+quarter after exit was in the fourth performance quartile.   
+Additionally, ACCES-VR communicated that it did not conduct targeted reviews to ensure that it 
+captured, documented, and reported MSGs and credentials accurately. RSA conducted a 
+documentation review and identified over 300 cases in which the case file did not have 
+supporting documentation or incorrectly captured and reported MSGs and credentials. RSA also 
+identified ACCES-VR’s inaccurate coding of individuals receiving educational services, 
+including incorrect case types and lack of documentation to substantiate training or educational 
+services provided.  
+At the time of the review, the VR agency also did not have a comprehensive system of internal 
+controls to ensure the tracking and reporting of a student’s graduation from high school and 
+whether graduates are employed or enrolled in postsecondary education within a year after 
+leaving high school. Internal controls are needed to document, track, and report all individuals 
+eligible to earn a MSG. RSA provided cohort data for the performance measures to ACCES-VR 
+and provided a list of cases with missing data for performance measures to be addressed by the 
+agency.  
+Technical Assistance 
+ RSA provided technical assistance regarding how 
+ACCES-VR can use cohorts to review 
+individuals reported as enrolled in an educational program to determine whether MSG 
+and credential attainment have been captured and reported, or if the individual has been 
+disenrolled and should be reported as such.  
+ RSA provided and explained the MSG and credential calculation specifications document 
+issued by RSA.
+
+15 
+ RSA provided technical assistance on enrollment dates and how those affect the overall 
+performance of the agency. As an example, RSA provided a list of cases where the 
+agency reported DE 85: Date Enrolled During Program Participation in an Education or 
+Training Program Leading to a Recognized Credential or Employment but did not report 
+DE 84: Enrolled in Postsecondary Education or Career or Technical Training Leading to 
+Recognized Postsecondary Credential. RSA also provided a list of cases where 
+postsecondary services were coded but no enrollment was reported. RSA provided 
+cohorts of the cases where postsecondary degrees and certificates were reported but no 
+enrollments were reported. 
+ RSA provided technical assistance regarding cohorts on different performance measures 
+including files for Unemployment Insurance (UI) wages. RSA provided information on 
+targeted case reviews and shared case review tools with the agency to use by its field 
+office counselors, supervisors, central office program analysts, and field services chief. 
+ RSA reviewed several data elements used in performance calculations and provided 
+technical assistance specific to reporting performance measures. 
+ 
+Recommendations 
+ 
+ RSA recommended that ACCES-VR develop policies and internal controls specific to 
+collecting, validating, and reporting performance measures, including MSG Rate, 
+credential attainment rate, and post-exit measures.  
+ RSA recommended that ACCES-VR develop internal controls on how and what the 
+written procedures are for data validation that contain a description of the process for 
+identifying and correcting errors or missing data, which may include electronic data 
+checks, use of comparable benefits, and obtaining transcripts for documentation.  
+ RSA recommended that ACCES-VR develop a standardized case review instrument that 
+includes the review of MSG, credential attainment, and post-exit measures to be used to 
+conduct uniform case reviews, including targeted case reviews by district supervisors and 
+for State level reviews on a routine schedule. This information should be aggregated and 
+used to inform policy and identify training needs.  
+Decline in Employment Outcomes  
+ 
+ACCES-VR’s employment rate decreased from 25.5 percent in PY 2020 to 23.5 percent in PY 
+2022 (20.7 percent below the national average in PY 2022). As such, less than one-fourth of the 
+individuals served by ACCES-VR achieved employment at the time of exit. While the number of 
+participants who exited in competitive integrated employment or supported employment 
+decreased from 4,785 in PY 2021 to 3,892 in PY 2022, and median hours worked per week 
+remained stagnant at 35 hours per week (three hours per week above the national average), the 
+median hourly earnings at exit increased from $14.00 in PY 2020 to $16.00 in PY 2022 and 
+remained above the national average. 
+ 
+When a VR agency’s employment rate is decreasing and less than the national average, it is 
+important to review how participants are engaged and how quickly valuable and necessary 
+services are provided, how these services are preparing individuals for career pathways and
+
+16 
+advancement to optimize employment outcomes, how the agency is maximizing the expenditure 
+of available funds, and how barriers to employment are addressed by the VR program. 
+ 
+The COVID-19 pandemic significantly affected the labor market and impeded employment 
+outcomes in New York during the review period. Specifically, State government offices, 
+American Job Centers, and businesses were closed due to the Governor’s emergency declaration 
+and shutdown of the State of New York from March 2020 to June 24, 2021. Only individuals 
+with an “essential staff” designation were able to go to work. While opportunities for 
+employment were limited during this period, ACCES-VR pivoted to and continued to provide 
+virtual and remote services when able to do so. However, vendor staff capacity also was affected 
+by the emergency.  
+In an effort to address factors contributing to the decline in competitive integrated employment 
+outcomes, ACCES-VR implemented various strategies including the requirement (in revised 
+FFY 2024-2028 CRS contracts) that vendors engage VR participants within 10 days from the 
+date of referral, and the engagement of its business relations team and the assignment of staff in 
+each district office whose primary responsibility is workforce engagement and developing 
+partnerships with employers.  
+ 
+Through its partnerships with New York City (NYC) Mayor’s Office for People with Disabilities 
+(MOPD) and NYC Department of Social Services, ACCES-VR provided inclusive internships to 
+178 ACCES-VR participants, resulting in 55 individuals securing employment during PY 2024. 
+Workforce development system partnerships also resulted in the creation of universal design 
+curriculums in apprenticeships to enhance inclusion of individuals with developmental 
+disabilities in Rochester, New York. ACCES-VR continues to offer earn and learn employment 
+opportunities through its partnerships with Rochester Technical and Manufacturing Institute, 
+Amazon, CVS, Mohawk Valley Community College and New York State Department of Labor 
+(DOL).  
+ 
+RSA and ACCES-VR discussed the low number of services reported for participants, including 
+college and occupational and vocational training, apprenticeship and job placement assistance, as 
+well as the need to shift from preparing individuals for entry-level employment to sustainable 
+careers with potential for advancement. ACCES-VR shared that it has updated policies to 
+support non-degree trainings available at community colleges and is evaluating its financial need 
+policies to determine how it can better support VR participants in accessing career pathways and 
+advancing in their careers. 
+ 
+Recommendations 
+ 
+ RSA encouraged ACCES-VR to explore how it might expand customized training 
+opportunities through the multiple partnerships it fosters with employers and workforce 
+development partners. 
+ 
+C. FINDINGS AND CORRECTIVE ACTIONS 
+RSA’s review of the performance of ACCES-VR identified the following findings and the 
+corresponding corrective actions regarding inconsistencies and areas of non-compliance with
+
+17 
+Federal requirements within the scope of this targeted focus area. RSA did not conduct an 
+exhaustive review of all potential areas of non-compliance outside the scope of this focused 
+review. Within 45 days of issuance of the final monitoring report, ACCES-VR will submit to 
+RSA for approval a corrective action plan (CAP), including specific action steps, timelines, and 
+evidence to demonstrate resolution of the finding. If ACCES-VR fails to take the necessary 
+corrective actions specified in the approved CAP, RSA reserves the right to take additional 
+enforcement actions pursuant to 34 C.F.R. Part 81 and 2 C.F.R. § 200.339. 
+Finding 2.1 Insufficient Verification and Compliance with Reporting Requirements  
+Issue: Is ACCES-VR verifying and submitting accurate reports in compliance with the 
+requirements at 34 C.F.R. 361.40(a) and exercising its responsibility and maintaining effective 
+internal controls over the Federal award to provide a reasonable assurance that ACCES-VR is 
+managing the Federal award in compliance with Federal statutes, regulations, and the terms and 
+conditions of the award in accordance with 2 C.F.R. § 200.303.  
+Requirement: Pursuant to 2 C.F.R. § 200.303, VR agencies are required to develop an internal 
+controls process to provide reasonable assurances regarding the effectiveness and efficiency of 
+operations, reliability of reporting for internal and external use; and to be implemented as a 
+measure of checks and balances to ensure proper expenditures of funds, including the evaluation 
+and monitoring of compliance with statutes, regulations and the terms and conditions of Federal 
+awards. Furthermore, a State VR agency must assure, in the VR services portion of the Unified 
+or Combined State Plan, that it will employ methods of administration that ensure the proper and 
+efficient administration of the VR program.  
+In accordance with 34 C.F.R. § 361.40(a), VR agencies are required to submit reports, including 
+reports required under Sections 13, 14, and 101(a)(10) of the Rehabilitation Act in a manner that 
+provides a complete count of the applicants and eligible individuals receiving services, including 
+students with disabilities receiving pre-employment transition services, and complies with any 
+requirements necessary to ensure the accuracy and verification of those reports. The RSA-911 is 
+used to describe the performance of the VR and Supported Employment programs in the Annual 
+Report to the Congress and the President, as required by Sections 13 and 101(a)(10) of the 
+Rehabilitation Act.  
+Analysis: During the on-site review, ACCES-VR shared that it does not maintain a 
+comprehensive system of internal controls to ensure verification and accuracy of reported data 
+and services.  
+ACCES-VR reported that district offices conduct their own case reviews; however, the agency 
+did not provide RSA with a uniform process to conduct or aggregate data from case reviews to 
+inform policies, identify training needs, ensure data accuracy, and improve and optimize 
+program performance.  
+ACCES-VR communicated that it uses the edit checks built into its case management system, as 
+well as RSA’s edit checker, to review errors in reports, prior to submitting reports to RSA. The 
+agency has a dedicated staff member to review the case management system for anomalies in the 
+data. Data elements are obtained from the ACCES-VR case management system and edited for
+
+18 
+correctness and upon submission, any errors are immediately identified and flagged. Although, at 
+the time of the period of review, ACCES-VR mentioned a process to submit the RSA-911, 
+ACCES-VR had not implemented formal written validation procedures as a part of its internal 
+controls to safeguard data integrity and promote the timely resolution of data anomalies and 
+inaccuracies, or review of supporting documentation to ensure accurate reporting of data 
+reported through the RSA-911.  
+Section 116 of WIOA and the implementing joint regulations in 20 C.F.R. part 677 and 34 
+C.F.R. parts 361 and 463, RSA-TAC-17-01 (Performance Accountability Guidance for 
+Workforce Innovation and Opportunity Act (WIOA) Title I, Title II, Title III, and Title IV Core 
+Programs (issued June 11, 2024)), clarify the reporting requirements for MSG, credential 
+attainment, and post-exit measures. During the period under review, ACCES-VR reported 
+inaccurate data for MSG and credential attainment.  
+As discussed under factors impeding performance, RSA pulled data for 300 cases and identified 
+ACCES-VR may not be fully capturing MSGs, credential attainment, and post-exit data. Of the 
+300 cases, a number of cases were inaccurately coded and reported. For example, ACCES-VR 
+reported the provision of training/educational services for individuals who were not enrolled in 
+education or postsecondary education services (as reported in the case file). In addition, some 
+individuals were reported as receiving educational services did so without substantiating 
+documentation in the case file to verify training or educational services were received. 
+Additionally, within the 300 cases reviewed, RSA identified cases where ACCES-VR reported 
+DE 85: Date Enrolled During Program Participation in an Education or Training Program 
+Leading to a Recognized Credential or Employment, but did not report DE 84: Enrolled in 
+Postsecondary Education or Career or Technical Training Leading to Recognized Postsecondary 
+Credential. In addition, cases, for which postsecondary services were coded, did not include the 
+reporting of an enrollment date.  
+Also, as previously discussed, ACCES-VR’s lack of data validation procedures resulted in the 
+failure to fully capture services that were provided and then inaccurately reported on the RSA-
+911. No other written internal controls were implemented during the period of review to ensure 
+adherence to implementation procedures or ensure that all information aligned with and was 
+consistent across the case service record file, ACCES-VR’s case management system, and the 
+RSA-911. Additionally, while the VR agency provided RSA with a case review instrument that 
+includes supporting documentation for MSGs and credential attainment, the frequency of these 
+reviews did not satisfy a uniform and regular review of those MSGs, credential attainment and 
+post-exit measures.   
+Conclusion: RSA determined that ACCES-VR is not maintaining effective internal controls 
+over the Federal award that would provide a reasonable assurance that ACCES-VR is managing 
+the Federal award in compliance with Federal statutes, regulations, and the terms and conditions 
+of the award in accordance with 2 C.F.R. § 200.303. RSA determined that although ACCES-VR 
+has taken some actions toward proper data validation, it had not implemented internal controls, 
+policies, or procedures that ensure data validation, and the accurate reporting of services 
+provided to reportable students and participants during the period under review. RSA also 
+determined that ACCES-VR did not submit accurate reports substantiated by required supporting 
+documentation, as required by 34 C.F.R. § 361.40, or ensure accuracy and verification of
+
+19 
+collected performance measures data, as required in Section 116 of WIOA and the implementing 
+joint regulations in 20 C.F.R. part 677 and 34 C.F.R. parts 361 and 463, and detailed in RSA-
+TAC-17-01. 
+Corrective Action 2.1 RSA requires that ACCES-VR—  
+ 
+2.1.1  Within 120 calendar days fro m the issuance of the final report, develop written data 
+collection and validation policies and procedures to ensure the accuracy and validity of 
+the data being collected and reported to RSA in compliance with 34 C.F.R. § 361.40, 
+including services purchased, provided directly by VR counselors and through 
+comparable benefits, as well as MSGs, credential attainment, and post-exit measures. 
+These policies and procedures must include— 
+ 
+ A description of the process for identifying and correcting errors or missing data 
+(e.g., electronic data checks, regular data validation training for appropriate 
+program staff (at least annually); 
+ A monitoring component (i.e., monitoring protocol) consistent with 2 C.F.R.  
+§ 200.328, to ensure that program staff are following the written data validation 
+procedures and a process for taking appropriate corrective action(s), if those 
+procedures are not followed; 
+ A regular review (e.g., at least quarterly) of program data for errors, missing data, 
+range values and anomalies, and documentation that missing and erroneous data 
+identified during the review process have been corrected; 
+ A regular assessment of the effectiveness of the data validation process (e.g., at 
+least annually) allowing for process revisions, as needed; and 
+ Incorporation and implementation of RSA TAC 19-01: Guidance for Validating 
+Jointly Required Performance Data Submitted Under WIOA. 
+ 
+2.1.2 Develop and finalize a standard ized quality review tool or case review instrument in 
+accordance with RSA-TAC-19-03 for field supervisors, counselors and District office 
+staff use. These would be used to conduct uniform targeted case reviews and other case 
+reviews as necessary, to ensure the DSU is in compliance with any requirements 
+necessary to ensure the accuracy and verification of data prior to reporting data. These 
+instruments should include but are not limited to, MSG, credential attainment, and post-
+exit data is validated before it is reported to RSA. The instruments can also prove to be an 
+effective tool for process improvement as a part of a comprehensive system of internal 
+controls. 
+VR Agency Response: ACCES-VR accepts this finding and will implement the requirements of 
+the corrective action plan as detailed in the report.  
+VR Agency Request for Technical Assistance: No technical assistance is requested from RSA.  
+ACCES-VR has been working with RSA funded technical assistance centers on the issues 
+identified in this finding and would like to continue with this work. 
+ 
+2.2 Failure to Exercise Sole Control over the Expenditure of VR Program Funds (Non-
+Delegable Function)
+
+20 
+ 
+Issue: Whether ACCES-VR maintained sole responsibility for the expenditure of VR funds, as 
+required by 34 C.F.R. § 361.13(c)(1)(iv) and (2). 
+ 
+Requirements: The VR program regulations in 34 C.F.R. § 361.13(c)(1) specify minimum 
+activities that are the responsibilities of the DSU. Specifically, ACCES-VR, as the DSU, must be 
+solely responsible for: all decisions affecting the eligibility for VR services; the nature, scope 
+and provision of services; determinations to close service records; policy formulation and 
+implementation; the allocation and expenditure of VR funds; and participation of the VR 
+program as a partner in the one-stop service delivery system (see also Section 
+101(a)(2)(B)(ii)(V) of the Rehabilitation Act). ACCES-VR may not delegate any of these 
+functions or responsibilities to another entity or individual (34 C.F.R. § 361.13(c)(2)).  
+ 
+Analysis: According to the conditionally approved (May 30, 2024) VR services portion of the 
+Combined State Plan), NYSED is the designated State agency (DSA), and ACCES-VR is the 
+DSU for the VR program, pursuant to the requirements of Section 101(a)(2) of the 
+Rehabilitation Act. ACCES-VR is housed within ACCES, an organizational component of 
+NYSED, making ACCES an intervening level between ACCES-VR (DSU) and NYSED (DSA). 
+In the U.S. Department of Education’s Federal grants management system (GMS), which tracks 
+drawdowns of Federal VR funds by grantees, the State identifies the ACCES-VR assistant 
+commissioner (i.e., VR director) and the deputy commissioner of ACCES (intervening DSA 
+level within the DSA) as the State recipient director and State authorizing official, respectively. 
+During the monitoring activity, RSA learned that the Office of the New York State Comptroller 
+(OSC) also has access to the GMS account. By submitting the State Plan, NYSED and ACCES-
+VR assured RSA that they would satisfy all Federal requirements governing the VR program, 
+which would include those related to ACCES-VR’s non-delegable functions discussed herein. 
+ 
+The fiscal monitoring sessions attendees included: NYSED management staff (DSA level), 
+ACCES’s Financial Services Administration Team (FAST) (intervening DSA level), and the 
+ACCES-VR Director (DSU level). During those meetings, FAST staff indicated that the NYSED 
+(DSA) and/or ACCES (intervening DSA) levels are overall responsible for the fiscal 
+management of ACCES-VR (DSU); specifically, NYSED and/or ACCES are overall responsible 
+for reviewing incurred costs, allocating costs, administering payroll, Federal reporting, and 
+drawing down Federal funds on behalf of ACCES-VR. ACCES also is responsible for creating 
+and submitting the ACCES-VR budget to NYSED and the Bureau of Budget Coordination, 
+which reviews and approves the base budget for ACCES-VR, as well as the VR program’s 
+projections and expenditures. The development of the VR program cost allocation plan is a 
+centralized function within NYSED. In addition to NYSED’s and ACCES’ fiscal responsibilities 
+for ACCES-VR, FAST staff also informed RSA that OSC is exclusively responsible for certain 
+key VR program financial transactions (e.g., cash draws and payment issuance) as described 
+further below and in the “Analysis” section of fiscal findings 3.2 and 3.3. Therefore, it is clear 
+that the fiscal management of the VR program, particularly with respect to the allocation and 
+expenditure of VR program funds, is performed by a four-tiered hierarchy in New York with 
+OSC at the top, followed by NYSED (DSA), ACCES (intervening DSA level), and ACCES-VR 
+(DSU) at the bottom.
+
+21 
+The ACCES and ACCES-VR managers meet regularly to discuss payroll; however, this was a 
+recent undertaking, and it was unclear to RSA, based on the information provided during the 
+monitoring activity, whether ACCES-VR was solely responsible for the allocation and 
+expenditure of VR program funds for personnel costs, which are managed by NYSED as a 
+centralized function. For example, according to data reviewed by RSA, NYSED made almost 
+daily draws for the VR program for the three-month period from January 1 through March 31, 
+2022. Since payroll is bi-weekly, the necessity for near daily draws was never explained. The 
+GMS “External Award Activity Report” for H126A210047 shows 56 completed draws on 61 
+working days during that three-month period (Q6 of the period of performance). In addition, 
+GMS data show that Federal funds were drawn and/or adjusted every working day of January 
+2022, except one (January 10). RSA’s review of ACCES-VR’s GMS transactions also indicates 
+frequent adjustments over the course of the two-year period of performance for each of the 
+awards listed in the table below. Specifically, the data show that one of every five Federal draws 
+(20 percent) for the FFY 2021 award were later subject to adjustment. 
+ 
+Table 2.2 Comparison of Net Federal Draws to Net Federal Adjustments 
+ 
+Fed. Award 
+Ident. Number 
+Net Federal 
+Expenditures Net Adjustments % of Net Adjs 
+to Net Exps 
+H126A190047 135,391,546.48  21,718,870.96  16.04% 
+H129A200047 143,296,527.72        22,655,622.57  15.81% 
+H126A210047 135,469,548.94        28,644,879.32  21.14% 
+ 
+When RSA questioned ACCES-VR about the need for such frequent drawdowns and 
+adjustments, particularly when payroll is done biweekly, ACCES-VR staff could not explain the 
+rationale because they were unaware such frequent drawdowns had occurred since OSC handles 
+that particular fiscal function. Although it is permissible for NYSED to centralize certain 
+functions traditionally performed by the DSU, it is not permissible to centralize those functions 
+that are reserved exclusively to the DSU pursuant to 34 C.F.R. § 361.13(c), such as the 
+expenditure and allocation of funds. In this case, it is permissible for NYSED and the State to 
+centralize certain fiscal functions, including drawing down Federal VR funds from the 
+Department’s GMS and accounting; however, the centralization of these fiscal tasks must not 
+minimize the non-delegable functions of ACCES-VR with respect to the allocation and 
+expenditure of VR funds in accordance with 34 C.F.R. § 361.13(c)(1)(iv) and (2). In other 
+words, regardless of which entity is responsible for performing the administrative parts of the 
+fiscal tasks, all decisions about the spending of VR funds rests solely with ACCES-VR. For this 
+reason, ACCES-VR must fully engage with all tasks that affect VR program funds and receive 
+updates of administrative actions taken with respect to those funds; only in so doing can 
+ACCES-VR know with certainty the amount of funds remaining in GMS, that its VR program 
+funds are spent for allowable costs, and that all Federal requirements are satisfied (i.e., those for 
+match, maintenance of effort, and the reservation of funds for the provision of pre-employment 
+transition services). The fact that ACCES-VR could not answer questions about the frequent 
+drawdowns of Federal funds indicates that ACCES-VR is not involved with the expenditure of 
+VR funds, as it must be in accordance with 34 C.F.R. § 361.13(c)(1)(iv) and (2).
+
+22 
+During the monitoring activity, RSA also inquired about the methodology for procuring VR 
+services. Through these conversations, RSA learned that New York State Finance Law § 112 
+requires that OSC must approve contracts entered into by State agencies that exceed certain 
+thresholds, including “… other contracts: contracts over $50,000.” Specifically, any contract 
+entered into “for” the State or a State agency where the contract exceeds $50,000, must be 
+approved by the Office of the New York State Comptroller. During the monitoring activity, 
+ACCES-VR staff informed RSA that they and the VR director are involved in the development 
+of contracts, as they should be as the entity responsible for administering the VR program in 
+accordance with Section 101(a)(2)(B)(ii) of the Rehabilitation Act. However, ACCES-VR staff 
+also informed RSA that their contract recommendations are sometimes denied. For example, 
+NYSED denied ACCES-VR’s request to modify the contract rate to provide pre-employment 
+transition services to potentially eligible students. Specifically, ACCES-VR wanted to modify 
+the contract rate from $200 to $500 per service because the prior rate was unsustainable for 
+vendors to continue or begin to provide pre-employment transition services, thereby impacting 
+ACCES-VR’s ability to meet its requirement to provide these services statewide and meet the 
+needs of potentially eligible students with disabilities in the State so they could receive the 
+earliest set of VR services available to them. NYSED denied ACCES-VR’s request to modify 
+the contract rate for this purpose because it indicated it would not be considered a justifiable 
+change if sent to OSC. As a result, ACCES-VR ended its provision of pre-employment transition 
+services to potentially eligible students with disabilities through its “potentially eligible pre-ETS 
+contracts” because vendors were not able to deliver the services at the rates in the existing 
+contracts. Therefore, based on this example, RSA is concerned that ACCES-VR does not have 
+the ability to exercise its non-delegable function over the provision of VR services (i.e., the 
+provision of pre-employment transition services to potentially eligible students with disabilities), 
+as it must pursuant to 34 C.F.R. § 361.13(c)(1)(i) and (2); instead, it appears that OSC makes the 
+final decisions regarding procuring those services, which has the net effect of that office making 
+the final decisions about the provision of those VR services. To be clear, 2 C.F.R. § 200.317 
+requires ACCES-VR to follow its State procurement policies and procedures; however, these 
+procurement procedures must not interfere with the agency’s ability to satisfy fundamental 
+requirements under the VR program, such as the provision of pre-employment transition services 
+to potentially eligible students with disabilities, as required by Section 113(a) of the 
+Rehabilitation Act. 
+ 
+Section 101(a)(2)(B)(ii)(I) of the Rehabilitation Act and 34 C.F.R. § 361.13(b)(1)(i) require that 
+ACCES-VR, be responsible for the administration of the VR program. Although the statute does 
+not describe the nature and scope of this responsibility or how the DSU is to carry it out, 34 
+C.F.R. § 361.13(c) requires that certain functions be reserved solely to the staff of the DSU, 
+meaning that ACCES-VR cannot delegate them to any other agency or individual. These “non-
+delegable” functions relate to decisions affecting, among other things, the allocation and 
+expenditure of funds and the provision of services, as discussed above. 
+ 
+RSA has long interpreted
+1 these provisions to require that the specified functions and activities 
+be carried out by the DSU’s own staff (60 FR 64475, 64482 (December 15, 1995) and 62 FR 
+ 
+1 See also RSA Technical Assistance Circular (TAC)-12-03, dated April 16, 2012, “Organizational Structure and 
+Non-Delegable Responsibilities of the Designated State Unit for the Vocational Rehabilitation Program.”  TAC-12-
+
+23 
+6307, 6316 (February 11, 1997)). Further, RSA has long believed, that the non-delegation 
+provisions of 34 C.F.R. § 361.13(c) “[strengthen] the role of the State unit by requiring that the 
+unit have a substantial role in all decisions affecting the administration of the VR program 
+whenever management functions within the State agency are centralized” (60 FR at 64482). 
+Retaining these non-delegable functions within ACCES-VR: 
+ 
+Ensure[s] that State agencies that consolidate staff to administer multiple State and 
+federally funded programs do not entrust these key VR programmatic decisions to 
+individuals who lack experience in meeting the needs of individuals with 
+disabilities…[T]he benefits derived from DSU retention of these functions – enhanced 
+program efficiency and effectiveness – outweigh any costs that may be associated with 
+the non-delegation requirements in the final regulations (62 FR at 6316). 
+ 
+Because the State has centralized certain financial management and procurement functions 
+within NYSED or higher with OSC, RSA assessed the manner in which ACCES-VR, exercises 
+its non-delegable functions by providing effective input into the policy, planning, operations or 
+other related decisions of those processes. While it is permissible for NYSED and OSC to 
+perform certain administrative functions related to financial management and the procurement of 
+VR services, centralization of these functions is impermissible if it results in interference with 
+ACCES-VR’s decision-making capacity to administer the VR program, given that it has been 
+designated as the DSU responsible for administering the VR program under the VR State plan 
+(Section 101(a)(2)(B) of the Rehabilitation Act and 34 C.F.R. § 361.13(b)(1)(i)).  
+As discussed above, the facts demonstrate that the centralization of the financial management 
+responsibilities within NYSED impacts ACCES-VR’s ability to know the specifics about VR 
+program fiscal transactions. Specifically, ACCES-VR does not know when OSC draws down 
+Federal VR funds from the U.S. Department of Education’s GMS. Therefore, it is clear that 
+ACCES-VR is not solely responsible for the expenditure of VR program funds for personnel 
+costs as it must be pursuant to 34 C.F.R. § 361.13(c)(1)(iv) and (2). If ACCES-VR were 
+exercising its non-delegable responsibility over the financial management of VR program funds 
+properly with respect to expenditures, it would have been aware of all transactions occurring in 
+GMS and would have been able to explain to RSA the need for the frequent drawdowns 
+described above, but it could not.  
+With respect to the centralization of procurement approvals with the comptroller, the facts 
+demonstrate that these levels of approval interfered with ACCES-VR’s non-delegable functions 
+to expend funds for the provision of pre-employment transition services to potentially eligible 
+students with disabilities. Specifically, according to the facts learned by RSA, NYSED denied 
+ACCES-VR’s request to modify contract rates to provide pre-employment transition services to 
+potentially eligible students with disabilities – a service required by Section 113(a) of the 
+Rehabilitation Act with Federal VR funds reserved for that purpose. As a result, ACCES-VR 
+ended its “potentially eligible pre-ETS contracts.” Decisions regarding the awarding of this 
+particular contract fall within the scope of the provision of VR services, as well as the 
+expenditure and allocation of VR funds. Therefore, decisions related to these matters require 
+ 
+03 provides comprehensive guidance on Federal requirements governing the organizational structure of the DSA 
+and DSU and the non-delegable functions of the DSU for the VR program.
+
+24 
+ACCES-VR to determine where to spend its resources for the benefit of the VR program and to 
+meet the needs of individuals with disabilities within the State. As such, the decision to provide 
+pre-employment transition services to potentially eligible students in the State of New York rests 
+solely with ACCES-VR, not NYSED or OSC. To be clear, while the State may centralize the 
+procurement process, including approval and signatory processes, such procedures must not 
+interfere with ACCES-VR’s responsibility to determine the VR service needs of individuals with 
+disabilities, the delivery of those VR services, or the expenditure of VR program funds for those 
+purposes (34 C.F.R. § 361.13(c)(1)(i), (1)(iv), and (2)), as the above facts demonstrate. 
+Therefore, it is clear that ACCES-VR is not solely responsible for that decision-making process 
+as it must be. 
+Conclusion:  RSA found that ACCES-VR was not solely responsible for certain critical 
+functions of the VR program, namely the allocation and expenditure of funds and the provision 
+of services; pursuant to 34 C.F.R. § 361.13(c), both of these responsibilities rest solely with 
+ACCES-VR and may not be delegated to another agency or individual. During the on-site visit, 
+RSA found that centralized procedures in the State interfered with ACCES-VR’s non-delegable 
+functions, making it impossible for it to exercise sole control over expenditures and decisions 
+related to the provision of pre-employment transition services to potentially eligible students 
+with disabilities and expend the funds for those services. 
+ 
+Corrective Actions 2.2 RSA requires that ACCES-VR— 
+ 
+2.2.1  Submit an assurance within 10 calendar days  of the issuance of the final monitoring 
+report that within 120 calendar days after the issuance of the monitoring report, ACCES-
+VR will retain and/or regain responsibility for the allocation and expenditure of VR 
+funds, the provision of VR services, and the other non-delegable functions, which are the 
+sole responsibility of the DSU, as required by 34 C.F.R. § 361.13(b) and (c); and  comply 
+with the requirements of 34 C.F.R. § 361.12. 
+2.2.2 Within 90 calendar days of the issuance of  the final monitoring report, ACCES-VR and 
+NYSED shall develop and implement policies, procedures, processes, and internal 
+controls sufficient to ensure that any centralized processes that impact the VR program 
+are revised to ensure that ACCES-VR is able to exercise sole decision-making 
+responsibility for the VR program, particularly with respect to the allocation and 
+expenditure of VR program funds and the provision of VR services, as required by 34 
+C.F.R. § 361.13(c). NYSED and ACCES-VR must submit these revised policies and 
+procedures to RSA for review to determine consistency with Federal requirements.  
+2.2.3 Immediately following RSA’s approval of the corrective action plan, submit to RSA 
+information and/or documentation that demonstrates full and ongoing compliance with 
+requirements cited at 34 C.F.R. § 361.13(b) and (c). 
+VR Agency Response:  
+a. ACCES-VR would like to clarify that adjustments in the GMS are due to refunds 
+received from vendor payments and journals requested by ACCES-VR and 
+NYSED in order to expend program income, meet maintenance of effort, and 
+close out federal awards. These transactions are not initiated by the Office of the 
+New York State Comptroller.
+
+25 
+ 
+b. Regarding the frequency of the drawdowns, ACCES-VR would like to clarify that 
+these transactions are not triggered solely by payroll, but also by non-personnel 
+services and consumer services that occur on a regular basis. These payments are 
+processed by the Office of the New York State Comptroller and Federal funds are 
+drawn down from the GMS as needed to reimburse the state for the expenditures.  
+ 
+c. ACCES-VR will communicate the concerns indicated in this finding with 
+NYSED and OSC and will request greater partnership, collaboration and 
+transparency related to the allocation and expenditure of VR funds. However, 180 
+days (instead of 120 days) is a more realistic timeline to identify and implement 
+changes in policies and procedures needed to address this finding.  
+ 
+d. ACCES-VR requests 180 days (instead of 90 calendar days) to develop and 
+implement policies, procedures, processes, and internal controls sufficient to 
+ensure that any centralized processes that impact the VR program are revised to 
+ensure that ACCES-VR is able to exercise sole decision-making responsibility for 
+the VR program. ACCES-VR will submit these revised policies and procedures to 
+RSA for review and approval.  
+ 
+e. ACCES-VR requests to submit to RSA information and/or documentation that 
+demonstrates compliance with requirements cited at 34 C.F.R. § 361.13(b) and (c) 
+within 30 days of corrective action plan approval. 
+ 
+RSA Response: RSA appreciates the additional clarification provided by ACCES-VR and has 
+adjusted its analysis accordingly. RSA maintains the timelines in the corrective actions as it is 
+imperative that NYSED and ACCES-VR comply with 34 C.F.R. § 361.13(b) immediately. RSA 
+looks forward to working with ACCES-VR to resolve this finding and respective corrective 
+actions.  
+ 
+VR Agency Request for Technical Assistance: ACCES-VR requests technical assistance from 
+RSA and RSA funded technical assistance centers on this finding. 
+ 
+2.3 VR Program Participants Denied the Provision of Timely VR Services and the Ability 
+to Exercise Informed Choice  
+ 
+Issue: Whether ACCES-VR implemented policies, procedures, or practices that delay the 
+provision of VR services or prevent VR program participants from exercising informed choice 
+throughout the VR process, including the selection of services and service providers, as required 
+by 34 C.F.R. §§ 361.45(a)(1), 361.45(d)(2), and 361.52.  
+ 
+Requirements: The VR program regulations at 34 C.F.R. § 361.45(a)(1) require the VR agency 
+to assure, in its VR services portion of its State Plan, that it will develop and implement 
+individualized plans for employment (IPEs) in a timely manner for each individual determined 
+eligible for VR services (or for each eligible individual for whom the agency is able to provide 
+services if the agency is operating under an order of selection).
+
+26 
+ 
+In developing and implementing IPEs, 34 C.F.R. § 361.45(d)(2) requires that the VR agency 
+must give eligible individuals the opportunity to exercise informed choice in selecting—   
+ 
+ The employment outcome, including employment settings; 
+ The specific VR services needed to achieve the employment outcome, including the 
+setting in which those services will be provided; 
+ The entity or entities that will provide the VR services; and  
+ The methods available for procuring the VR services. 
+ 
+34 C.F.R. § 361.52(a) requires the VR agency to provide information and support services 
+necessary to assist VR applicants and recipients of VR services in exercising informed choice 
+throughout the VR process, consistent with the provisions of Section 102(d) of the Rehabilitation 
+Act. VR agencies must develop written policies and procedures that enable an applicant or 
+recipient of VR services to exercise informed choice throughout the VR process (34 C.F.R. § 
+361.52(b)). These policies and procedures must provide for, among other things most pertinent to 
+this Finding, developing and implementing flexible procurement policies and methods that 
+facilitate the provision of VR services and that afford recipients of services meaningful choices 
+among the methods used to procure VR services (34 C.F.R. § 361.52(b)(3)). 
+ 
+Consistent with the requirement at 34 C.F.R. § 361.45(d)(2), the VR agency’s policies and 
+procedures also must provide for assisting eligible individuals in acquiring information that 
+enable them to exercise informed choice in the development of their IPE with respect to the 
+selection of the—  
+ 
+ Employment outcome; 
+ Specific VR services needed to achieve the employment outcome; 
+ Entity that will provide the services; 
+ Employment setting and the settings in which the services will be provided; and 
+ Methods available for procuring the services (34 C.F.R. § 361.52(b)(4)). 
+ 
+Analysis: During the monitoring activity, RSA inquired and obtained further information about 
+the provision of VR services by ACCES-VR, including its policies and procedures governing the 
+provision of postsecondary education services to eligible individuals with disabilities who need 
+such services to achieve the employment outcome identified on their approved IPEs. RSA 
+interviewed ACCES-VR management regarding the agency’s policies and procedures governing 
+postsecondary education to VR program participants, and RSA reviewed a memo issued by 
+ACCES-VR to its district office managers, dated July 20, 2018, and titled, “College Contracts 
+Returning Students Only.” In that memo, ACCES-VR informed its staff that it would allow 
+authorizations for the fall 2018 semester only for returning students at those five postsecondary 
+education institutions that had not returned their  contracts with NYSED; however, “[n]ew 
+students who are planning to attend one of [the five] colleges for the first time under ACCES-
+VR sponsorship will need to select an alternate college that is open for authorization by ACCES-
+VR [(i.e., under contract with NYSED)] or incur the costs for college study on their own.” In 
+other words, with the exception of those students returning to one of the five identified schools 
+for the 2018-2019 school year, all students needing financial assistance from ACCES-VR were
+
+27 
+expected to either attend a school in the State University of New York (SUNY) or City 
+University of New York (CUNY) system or a private or out-of-State school under contract with 
+NYSED. The five postsecondary institutions that had not entered into contracts with NYSED 
+were Southeastern University, Western New England University, Caldwell University, Inc., 
+Colorado Technical University, and Laureat Education Inc. It is important to note that ACCES-
+VR’s memo did not permit exceptions based on the programmatic or disability needs of VR 
+program participants.  
+ 
+Prior to the July 20, 2018, memo, ACCES-VR issued “Parameters for Private College 
+Sponsorship Fall 2018.” According to that issuance, as of June 8, 2018, only 13 of 223 colleges 
+had contracts for the 2018-2019 academic year, making them eligible to receive service 
+authorizations from ACCES-VR staff. ACCES-VR informed their staff, they could not initiate 
+service authorizations for any school that refused to sign a contract. As with the July 20, 2018, 
+memo, this issuance did not provide any exceptions for an individual’s disability or 
+programmatic needs. 
+ 
+ACCES-VR explained to RSA that it issued the memo and accompanying issuance because 
+NYSED has an internal control requirement that programs under its purview, including ACCES-
+VR, must contract with private New York State and all out-of-state institutions of higher 
+education in order to provide postsecondary education for participants at those institutions when 
+the cost is anticipated to exceed $50,000. According to NYSED procurement policies, once 
+contracting is initiated with a school, ACCES-VR cannot issue a billable service authorization 
+for postsecondary education with a school until the contract is fully executed. ACCES-VR 
+further explained that NYSED’s internal control is based on New York State Finance Law § 112 
+which requires the Office of the New York State Comptroller – not NYSED or ACCES-VR –
+approve all contracts entered into by State agencies, including those by ACCES-VR (see related 
+Finding 2.2). 
+ 
+As the DSA, NYSED may implement procurement procedures for the programs under its 
+purview. Pursuant to 2 C.F.R. § 200.317, ACCES-VR, as the DSU, must follow the same State 
+procurement procedures it uses when expending State funds when procuring goods or services 
+with Federal VR funds. Therefore, since the NYSED procurement procedures are applicable to 
+all programs under its purview, ACCES-VR must satisfy those procedures when procuring 
+postsecondary education services with Federal VR funds, consistent with the requirements of 2 
+C.F.R. § 200.317. Having said this, ACCES-VR also assures, in its VR services portion of its 
+approved State Plan, that it will satisfy all Federal requirements governing the VR program, 
+including that it will provide applicants and eligible individuals with disabilities with 
+information and support services to assist them in exercising informed choice throughout the VR 
+process, consistent with Section 102(d) of the Rehabilitation Act (section 101(a)(19) of the 
+Rehabilitation Act). Section 102(d) of the Rehabilitation Act requires ACCES-VR to develop 
+and implement written policies and procedures that enable each applicant or eligible individual 
+to exercise informed choice throughout the entire rehabilitation process. ACCES-VR must 
+develop these policies and procedures in consultation with its State Rehabilitation Council and 
+these policies and procedures must, among other things—
+
+28 
+ Provide or assist eligible individuals in acquiring information that enables them to 
+exercise informed choice in the development of their IPE with respect to the selection of 
+the employment outcome, VR services and service providers, the employment setting 
+and the settings in which the services will be provided, and methods for procuring 
+services; and  
+ Develop and implement flexible procurement policies and methods that facilitate the 
+provision of services and afford eligible individuals meaningful choices among 
+procurement methods. 
+ 
+The link between the employment outcome and informed choice is further reinforced by the 
+description of VR services in Section 103(a) of the Rehabilitation Act as “any services described 
+in an individualized plan for employment necessary to assist an individual with a disability in 
+preparing for, securing, retaining, or regaining an employment outcome that is consistent with 
+the strengths, resources, priorities, concerns, abilities, capabilities, interests, and informed choice 
+of the individual.” Informed choice is a decision-making process that occurs throughout the 
+individual’s experience in the VR program. The role of the VR agency is to administer the VR 
+program in a manner that supports the joint efforts of the individual and the VR counselor. 
+Agencies can provide such support by implementing policies and procedures that provide the 
+maximum opportunity for individuals to exercise informed choice, for the VR counselor to 
+support individuals in that effort, and for the development of employment and service options 
+that meet a wide range of individual needs.  
+ 
+The postsecondary education policy implemented by ACCES-VR in 2018, which is consistent 
+with NYSED’s procurement procedures, fails to satisfy the requirement at 34 C.F.R. § 
+361.52(b)(3) because it is not flexible and does not afford eligible individuals with disabilities 
+meaningful opportunities to exercise informed choice. As noted above, the ACCES-VR memo, 
+consistent with NYSED’s procurement policies and procedures for postsecondary education, 
+offers no exceptions for individual needs. Only “returning students” who had received financial 
+support in prior years were exempt from the policy. To be flexible, and thus satisfy Federal 
+requirements, ACCES-VR’s policies and procedures must allow for exceptions based on 
+individual needs. For example, an individual with a most significant disability may need to 
+attend only online because of transportation and other disability-related difficulties with in-
+person education. ACCES-VR’s policies and procedures must be sufficiently flexible to permit 
+the individual to attend school that offers an online program in the agreed-upon field, as 
+identified on their IPE, without requiring the individual to incur the cost of the postsecondary 
+education. When a policy does not permit such flexibility, the individual has two choices: forego 
+attending school or incur significant debt for the cost. This does not constitute meaningful 
+informed choice, as required by 34 C.F.R. § 361.52(b)(3).   
+ 
+Moreover, in such an instance, ACCES-VR’s procurement procedures, which align with 
+NYSED’s procurement procedures, have the net effect of imposing a financial participation on 
+the individual who desires to attend an “off contract” school. Although ACCES-VR may develop 
+written financial need and financial participation policies for the provision of VR services, the 
+policies may not require cost participation so high as to effectively deny an eligible individual a 
+necessary service (34 C.F.R. § 361.54(b)(2)(iv)(C)).  In its own memo, ACCES-VR instructs its 
+staff to withhold VR financial support to any VR participant (other than the exempt students
+
+29 
+described previously) who desire to attend a school that refused to sign a contract, thereby 
+forcing the student to either not receive a necessary VR service or incur substantial personal cost, 
+neither of which is consistent with the requirements of 34 C.F.R. § 361.54(b)(2). For example, 
+more recently, Southern New Hampshire University has not allowed new students to use interim 
+authorizations while their contract is still pending, forcing some VR participants to pay out of 
+pocket. RSA also learned that other colleges have withheld or threatened to withhold diplomas, 
+transcripts, or class registrations, and have even threatened to evict customers from campus 
+housing until billable authorizations are received. In addition, VR program participants at Sacred 
+Heart University, the University of Rochester, and Adelphi University have faced similar 
+scenarios, with the procurement policies resulting in at least one delayed graduation. 
+ 
+While the requirement to provide informed choice is not unfettered, the Rehabilitation Act and 
+its regulations make clear that individuals must be active participants throughout the entire VR 
+process, including with respect to selecting service providers. However, as implemented, 
+ACCES-VR does not provide individuals informed choice. As these examples demonstrate, 
+ACCES-VR’s postsecondary education procurement procedures, which align with NYSED’s 
+procurement procedures, are not flexible and does not provide meaningful choice to VR program 
+participants. Furthermore, the procedures, in effect, establish a financial participation 
+requirement that is so high that it effectively denies individuals necessary VR services. For these 
+reasons, the procedures fail to satisfy Federal VR requirements governing informed choice at 
+Section 101(a)(19) and 102(d) of the Rehabilitation Act and 34 C.F.R. § 361.52. 
+ 
+In addition to the above-described informed choice failures, ACCES-VR’s procurement 
+procedures, which align with NYSED’s procurement procedures, impede ACCES-VR’s ability 
+to implement IPEs in a timely manner, as required by 34 C.F.R. § 361.45(a)(1). As discussed in 
+more detail in Finding 2.2, New York State Finance Law § 112 requires that OSC must approve 
+contracts entered into by State agencies, including ACCES-VR, that exceed $50,000. According 
+to information RSA learned during the monitoring activity, when ACCES-VR provides services 
+(e.g., non-degree training, including cosmetology training and commercial driver license (CDL) 
+training, vehicular modifications, and other goods and services), and the amount paid to one 
+vendor over a period of time exceeds $50,000, ACCES-VR must enter into a contract and all 
+services cease until the contract is fully executed.  
+ 
+As a result, RSA learned that these procedures have caused delays or interruptions in the 
+provision of VR services, contrary to the requirement of 34 C.F.R. § 361.45(a)(1). For example, 
+RSA learned that Hair on Hudson, a cosmetology school, has reached its contract authorization 
+limit and, under State law, requires a formal contract amendment to increase the amount of the 
+contract.  During the time of this monitoring, at least five students were waiting more than six 
+months to start their training until the State completed the contracting process, thereby delaying 
+services to these students to the only cosmetology school within a 45-minute commute. As 
+another example, RSA learned that a CDL training school in one district had between five and 
+ten individuals on a waiting list for services while the vendor negotiated a contract to provide the 
+services, thereby significantly delaying the training. As noted previously, ACCES-VR must 
+satisfy its State procurement policies and procedures pursuant to 2 C.F.R. § 200.317; however, 
+those State procurement policies and procedures must not interfere with ACCES-VR’s ability to 
+satisfy Federal VR program requirements governing the ability to provide timely services.
+
+30 
+ 
+Conclusion: RSA found that ACCES-VR did not always provide VR participants with 
+opportunities to exercise informed choice throughout the VR process and sometimes delayed or 
+interrupted the provision of their VR services when implementing State procurement policies and 
+procedures. Specifically, ACCES-VR’s processes and procedures, which align with NYSED’s 
+procurement processes, procedures and practices limited VR participants’ ability to exercise 
+meaningful choices due to their inflexible nature. Moreover, these procurement policies caused 
+unnecessary delays or interruptions in the provision of VR services. 
+ 
+Corrective Actions 2.3 RSA requires that ACCES-VR— 
+ 
+2.3.1    In response to this finding, work with NYSED and the Office of State Comptroller to 
+revise procurement policies and procedures to ensure they satisfy Federal requirements 
+governing the VR program, particularly with respect to informed choice, the provision of 
+timely service, and financial participation; and 
+2.3.2    Revise all written policies to—  
+ Remove any arbitrary limits on the nature and scope of VR services to be 
+provided to the individual to achieve an employment outcome and remove any 
+policy or practice that effectively deny a VR participant a service (34 C.F.R. § 
+361.50(a)); and 
+ Permit service provider exceptions to meet individual needs (34 C.F.R. § 
+361.50(c)(2)(ii)) and informed choice (34 C.F.R. § 361.52). 
+ 
+VR Agency Response: ACCES-VR accepts the finding and strongly agrees with the importance 
+of ensuring informed choice to all program participants. ACCES-VR wishes to clarify that NYS 
+procurement procedures are established and implemented by NYSED to ensure NYSED program 
+areas comply with required NYS procurement procedures. ACCES-VR will communicate to 
+NYSED and OSC the impact NYS procurement procedures have on ACCES-VR’s ability to 
+comply with federal regulations to uphold customers informed choice with those entities who set 
+forth these procurement procedures.    
+ 
+VR Agency Request for Technical Assistance: ACCES-VR requests technical assistance from 
+RSA and RSA funded technical assistance centers to ensure that there is flexibility in the policy 
+and procedures impacting customer informed choice and to ensure that policies, practices and 
+procedure do not delay the delivery of vocational rehabilitation services.
+
+31 
+SECTION 3: FOCUS AREA – FINANCIAL MANAGEMENT OF THE STATE 
+VOCATIONAL REHABILITATION SERVICES AND STATE SUPPORTED 
+EMPLOYMENT SERVICES PROGRAMS  
+A. PURPOSE 
+Through this focus area RSA assessed the financial management and fiscal accountability of the 
+VR and Supported Employment programs to ensure that: funds were being used only for 
+intended purposes; there were sound internal controls and reliable reporting systems; that 
+available resources were maximized for program needs; and funds supported the achievement of 
+competitive integrated employment for individuals with disabilities, including those with the 
+most significant disabilities, and the needs of students with disabilities for pre-employment 
+transition services.  
+ 
+B. SCOPE OF FINANCIAL MANAGEMENT REVIEW AND PERFORMANCE   
+    ANALYSIS 
+ 
+The effective and efficient fiscal administration of the VR and Supported Employment programs 
+is essential to the ability of a VR agency to maximize the funds available for attainment of 
+employment outcomes for individuals with disabilities. RSA reviewed components of ACCES-
+VR’s financial management system and assessed the fiscal accountability of the programs to—  
+ 
+ Ensure funds are obligated and expended in accordance with State and Federal 
+requirements and used only for allowable purposes;  
+ Ensure programs have sound internal controls and reliable reporting systems;  
+ Identify needed improvements in fiscal policy, processes, and procedures to maximize 
+the use of Federal funds to benefit VR participants and students with disabilities; and,  
+ Ensure a relative benefit to the VR system is proportional to the expenditure (e.g., 
+contracts, one-stops, indirect cost rates, cost allocation plans, etc.). 
+ 
+RSA reviewed the use and expenditure of Federal funds to assist ACCES-VR in minimizing the 
+return of funds for reallotment and/or the return of unused funds at the end of the period of 
+performance for the award. Therefore, the scope of this focus area is primarily on the financial 
+management and operations that impact the use of or return of Federal funds. 
+RSA assessed the financial management, control, and accountability of the VR and Supported 
+Employment program funds awarded to ACCES-VR. RSA determined that ACCES-VR lacks 
+effective or meaningful management or control over those functions, since financial 
+management of VR funds is controlled at department levels and not at the VR program level. 
+ACCES-VR is dependent on outside support (e.g. NYSED and Office of the New York State 
+Comptroller) to acquire transactional details relating to the draws in order to document that VR 
+and Supported Employment program funds are used only for the allowable purposes.  
+RSA reviewed the following areas related to financial management and accountability:
+
+32 
+VR Program Match  
+ 
+VR program regulations require the State to incur a portion of expenditures under the VR 
+services portion of the Unified or Combined State Plan from non-Federal funds to meet its cost 
+sharing requirements (34 C.F.R. § 361.60). The required Federal share for expenditures made by 
+the State, including expenditures for the provision of VR services and the administration of the 
+VR services portion of the Unified or Combined State Plan, is 78.7 percent. The State’s share is 
+21.3 percent. The RSA review team assessed ACCES-VR’s performance in meeting the 
+matching requirements for the VR program, including the extent to which the matching level was 
+met, and the Federal funds matched were expended, as well as whether the sources of match 
+were consistent with Federal requirements and any applicable maintenance of effort (MOE) 
+requirements. 
+ 
+The RSA review team addressed requirements pertaining to the use of State appropriations as 
+non-Federal share for the VR program.  
+ 
+The RSA review team assessed ACCES-VR’s performance in meeting the matching 
+requirements for the VR program, including the extent to which the matching level was met, and 
+concluded that the Federal funds expended were fully matched. In addition, the source of match 
+was consistent with Federal requirements. ACCES-VR relies on State appropriations to satisfy 
+its non-Federal share requirements. ACCES-VR exceeded their Federal matching requirements 
+by 60 percent in FFY 2019; by 9 percent in FFY 2020 and by 20.5 percent in FFY 2021.  
+Supported Employment Program Match 
+Supported Employment program regulations require the State to expend 50 percent of its total 
+Supported Employment program allotment for the provision of supported employment services, 
+including extended services, to youth with the most significant disabilities. The Supported 
+Employment program funds required to be reserved and expended for services to youth with the 
+most significant disabilities are awarded through the SE-B grant award. The Federal share for 
+expenditures from the State’s SE-B grant award is 90 percent. The statutorily required 10 percent 
+match requirement applies to the costs of carrying out the provision of supported employment 
+services, including extended services, to youth with the most significant disabilities. This means 
+that the 10 percent is applied to total expenditures, including both the Federal and non-Federal 
+shares, incurred for this purpose, and that the non-Federal share must also be spent on the 
+provision of supported employment services, including extended services, to youth with the most 
+significant disabilities. 
+The RSA review team assessed the matching requirements for the Supported Employment 
+program, including an assessment of whether the matching level was met, as well as whether the 
+sources of the match were consistent with Federal requirements. 
+In FFYs 2019 through 2021, ACCES-VR expended 100 percent of its SE-A and SE-B Federal 
+award funds. In addition, ACCES-VR received NYSCB’s entire supported employment formula 
+allotment for those years, which was fully matched and expended as well.
+
+33 
+Pre-Employment Transition Services Reservation and Expenditure of Funds 
+Section 101(a)(25) of the Rehabilitation Act requires State VR agencies to assure in their Unified 
+or Combined State Plan, with respect to students with disabilities, that the State has developed 
+and implemented strategies to—   
+ 
+ Address the needs identified in the assessments described in Section 101(a)(15) of the 
+Rehabilitation Act;  
+ Achieve the goals and priorities identified by the State in accordance with Section 
+101(a)(15) of the Rehabilitation Act to improve and expand VR services for students with 
+disabilities on a statewide basis; and provide pre-employment transition services. 
+“Pre-employment transition services,” as defined at Section 7(30) of the Rehabilitation Act, 
+“means services provided in accordance with Section 113.” Section 113(a) of the Rehabilitation 
+Act requires the State to ensure it will use the funds reserved under Section 110(d)(1) of the 
+Rehabilitation Act to provide, or arrange for the provision of, pre-employment transition services 
+to students with disabilities. Section 110(d)(1) of the Rehabilitation Act establishes the 15 
+percent minimum reservation requirement for the State from its VR allotment. Together, 
+Sections 7(30), 101(a)(25), 110(d)(1), and 113 of the Rehabilitation Act create the statutory basis 
+for the State Plan provisions governing pre-employment transition services.  
+Early career exploration through pre-employment transition services increases the likelihood of 
+students with disabilities achieving high-quality competitive integrated employment. RSA 
+explored the use of funds for the provision of pre-employment transition services and the extent 
+to which ACCES-VR is meeting the State required reservation and expenditure of at least 15 
+percent of its matched Federal VR grant funds. 
+The State of New York is currently under a corrective action plan to address the State’s failure to 
+meet the pre-employment transition service 15 percent requirement for FFY 2021. The State met 
+the requirement in FFY 2022, and the most recently reviewed Federal financial reports indicate 
+the State is on track to meet the 15 percent requirement by September 30, 2024.  
+ 
+Internal Controls and Policies 
+Internal controls mean a process, implemented by the grantee, designed to provide reasonable 
+assurance regarding the achievement of objectives in the effectiveness and efficiency of 
+operations, reliability of reporting for internal and external use, and compliance with applicable 
+laws and regulations. Internal controls serve to safeguard assets and prevent fraud, waste, abuse, 
+improper payments, and mismanagement. They include methods and procedures the grantee uses 
+to manage the day-to-day operations of grant-supported activities to assure compliance with 
+applicable Federal requirements and that performance goals are being achieved. The VR 
+agency’s internal controls for ensuring compliance with fiscal requirements was a core 
+component of the financial management review, particularly as they relate to the VR agency’s 
+use of Federal funds, including the required reservation of funds for pre-employment transition 
+services, and the requirements for non-Federal share (match). The Federal fiscal requirements 
+referenced during the review include—
+
+34 
+ Rehabilitation Act and VR and Supported Employment program implementing 
+regulations in 34 C.F.R. part 361 and 34 C.F.R. part 363, respectively;  
+ Uniform Administrative Requirements, Cost Principles, and Audit Requirements for 
+Federal Awards (Uniform Guidance) located in 2 C.F.R. part 200;  
+ Education Department General Administrative Regulations (EDGAR) in 34 C.F.R. part 
+76;  
+ Departmental and RSA guidance, including Policy Directives (PDs), Technical 
+Assistance Circulars (TACs), Grant Bulletins, Frequently Asked Questions (FAQ), etc.; 
+and  
+ Grant Award terms and conditions. 
+ 
+C. Findings and Corrective Actions 
+ 
+RSA’s review of the performance of ACCES-VR identified the following findings and the 
+corresponding corrective actions regarding inconsistencies and areas of non-compliance with 
+Federal requirements within the scope of this targeted focus area. RSA did not conduct an 
+exhaustive review of all potential areas of non-compliance outside the scope of this focused 
+review. Within 45 days of issuance of the final monitoring report, ACCES-VR will submit to 
+RSA for approval a corrective action plan (CAP), including specific action steps, timelines, and 
+evidence to demonstrate resolution of the finding. If ACCES-VR fails to take the necessary 
+corrective actions specified in the approved CAP, RSA reserves the right to take additional 
+enforcement actions pursuant to 34 C.F.R. Part 81 and 2 C.F.R. § 200.339. 
+Finding 3.1 Inaccurate Financial Reporting 
+Issue: Whether the financial information reported by ACCES-VR is a correct, accurate and 
+complete accounting of VR program funds, and whether the agency’s financial system is capable 
+of capturing, storing, and dispensing data; and producing timely and accurate reports required by 
+the terms and condition of Federal awards.  
+Requirements: In accordance with the Uniform Guidance at 2 C.F.R. § 200.302(a), a State’s 
+financial management systems, including records documenting compliance with Federal statutes, 
+regulations, and the terms and conditions of the award, must be sufficient to permit the 
+preparation of reports, including the RSA-17 report. In addition, the system must be able to trace 
+funds to a level of expenditures adequate to establish that the use of funds was compliant with 
+applicable Federal statutes, regulations, and the terms and conditions of the Federal award. States 
+must exercise fiscal control and maintain fund accounting procedures robust enough to ensure 
+proper disbursement of and accounting for Federal funds. 
+ 
+The RSA-17 collects data on VR program activities which RSA uses to evaluate and monitor the 
+financial and programmatic performance of VR agencies. The RSA-17 captures— 
+   
+ Federal and non-Federal administrative expenditures for the VR program; 
+ Federal and non-Federal expenditures for services to groups;  
+ Federal and non-Federal American Job Center Infrastructure expenditures;  
+ Receipt, use, and/or transfer of VR program income;
+
+35 
+ Indirect costs, match, maintenance of effort, and the reservation of funds for the provision 
+of pre-employment transition services); and  
+ Obligations and disbursements that occurred during the period of the award.  
+ 
+The data collected via the RSA-17 are necessary to ensure Federal requirements imposed by the 
+Rehabilitation Act and its implementing Federal regulations are satisfied.  
+Under Section B.1 of Appendix VII to 2 C.F.R. § 200, direct cost base means the accumulated 
+direct costs used to distribute indirect expenses to a Federal award. NYSED uses salaries and 
+wages as the direct cost base for their Federal awards.  
+Analysis: RSA reviewed the SF-425 and RSA-17 reports submitted for the period under review 
+and noted that line 36 R1-e, (direct cost base) of the report for H126A210047 quarter ending date 
+September 30, 2022, shows $4,667,752,542 in expenses, which is a hundredfold error. The 
+correct base should have been reported as $46,677,525. However, the amount of indirect 
+recovered was correctly shown as $14,936,808 because the indirect cost rate was incorrectly 
+entered as 0.32 percent instead of 32.0 percent. RSA recognizes that the errors did not result in 
+over-recovery; however, the standards cited in the “Requirements” section of this finding still 
+apply. 
+ 
+When accounting adjustments are made to ensure the non-Federal share remains in the Federal 
+fiscal year of original obligation and expenditure, the affected reports must be revised. The 
+Department’s Grants Management System (GMS) indicates that 2019 award H126A190047 
+posted a total of $11,195.64 in refunds and of that amount, $10,724.54, was posted between May 
+28, 2021, and October 14, 2022. All of the transactions that totaled $10,724.54 were posted after 
+January 28, 2021, the end of the liquidation period. The final SF-425 report was due no later than 
+January 28, 2021, but was submitted on March 10, 2021 (Note: ACCES first notified RSA of an 
+error in the report on March 4, 2021, which RSA corrected on March 5, 2021, and notified 
+ACCES the same day.). Award H126A200047 posted a total of $21,136.31 in refunds after 
+January 28, 2022, the end of the liquidation period. Award H126A210047 posted a total of 
+$145,119.68 in refunds, all after the end of the liquidation period. A final RSA-17 report was due 
+no later than January 28, 2022, but submitted on January 31, 2023. Since all these awards were 
+still open in the GMS, the State continued to post applicable credits to the awards but failed to 
+adjust the Federal financial reports. As cited elsewhere in this report, posting adjustments are 
+controlled and conducted by the comptroller and not by ACCES-VR.  
+ 
+Conclusion:  RSA has determined that the agency did not comply with financial management 
+and reporting requirements cited at 2 CFR §§ 200.302(a), 400 (a-c), 401(a), and 403 – 407.  
+ 
+Corrective Action 3.1 RSA requires that ACCES-VR— 
+ 
+3.1.1  Submit, for review for cons istency with Federal requirements, internal control and/or 
+financial reporting policies and procedures, that includes a monitoring component, to 
+ensure Federal financial reports are correct, accurate, complete, and otherwise compliant 
+with Federal reporting requirements. Internal controls must ensure required 
+revisions/updates are made to submitted reports as necessary.
+
+36 
+VR Agency Response: ACCES-VR had initially provided general ledgers compiled by 
+transaction date, rather than the full general ledger by federal award. Additional documentation 
+has been provided relating to the general ledgers referenced. ACCES-VR acknowledges the 
+concerns relating to the timeliness and accuracy of reporting raised in this finding. Regarding the 
+late refunds, OSC’s practice has been to return these funds in the GMS if the grant remains open.  
+ 
+VR Agency Request for Technical Assistance: No technical assistance requested.   
+ 
+Finding 3.2 Program Income Requirements Not Met 
+ 
+Issue: Whether the requirements regarding reporting and use of program income were met.  
+ 
+Requirements: Grantees must account for program income in accordance with the provisions of 
+the Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal 
+Awards (Uniform Guidance), codified at 2 C.F.R. § 200.1 and 2 C.F.R. § 200.307. Consistent 
+with requirements set forth in both the Uniform Guidance (2 C.F.R. § 200.307(e)(2)) and 
+applicable program regulations, grantees must use program income only as an “addition” to the 
+Federal award. In so doing, grantees must use program income for the same purposes authorized 
+under the program. 
+ 
+To the extent that program income funds are available, the grantee must disburse those funds 
+(including repayments to a revolving fund), rebates, refunds, contract settlements, audit 
+recoveries, and interest earned on such funds, before requesting additional funds from the 
+Department in accordance with the following program regulations: 
+ 
+ State Vocational Rehabilitation Services (34 C.F.R. § 361.63(c)(3)(ii)); 
+ State Supported Employment Services (SE-A and SE-B) (34 C.F.R. § 363.24(b)); and 
+ 
+The program income requirements are also included as a Grant Award Notification Attachment 
+and are part of the terms and conditions for the VR and Supported Employment grant awards. 
+ 
+Analysis: The fourth quarter SF-425 for award H126A190047 shows cash on hand on line 10c 
+($1,176,542). If more than three business days of cash are on hand, RSA requires an explanation 
+on SF-425 line 12, “Remarks,” explaining why the drawdown was made prematurely or other 
+reasons for the excess cash. Grantees must minimize the time elapsing between the drawdown of 
+Federal funds and disbursement by the grantee in accordance with Federal requirements (31 
+C.F.R. § 205; 2 C.F.R. § 200.305(b)). Given that the last draw prior to the end of the reporting 
+period was on September 17, 2019, there was no need to draw excess cash in advance. In its 
+sixth quarter SF-425 for H126A190047, the agency reported $1,818,223 in 10.l (total Federal 
+program income earned). The agency reported $1,185,409 in line 10.n (Program income 
+expended in accordance with the addition alternative), and $632,814 in 10o (unexpended 
+program income). However, in its sixth quarter report for H126A190047, the agency reported 
+$3,152,183 in 10.l (total Federal program income earned); the agency reported $1,460,149 in line 
+10.n (Program income expended in accordance with the addition alternative), and $1,692,034 in 
+10.o (Unexpended program income), resulting in an increase of unexpended program income 
+($1,059,220) and showing an additional program income earned after the end of the year of
+
+37 
+appropriation ($1,333,960). Moreover, in its final SF-425 for H126A190047, the agency reported 
+$1,920,656 in 1.0l (total Federal program income earned), which is a $1,231,527 decrease from 
+the sixth quarter but, nevertheless, a $102,433 increase from the fourth quarter.  
+Program income is considered earned in the FFY in which the funds are received by the grantee 
+(2 C.F.R. § 200.80). Therefore, the amount reported on line 10.l should not change after the 
+grantee submits its annual report for any fiscal year. The fourth quarter report for H126A190047 
+showed an unexpended program income balance as $650,925 while the sixth quarter report 
+showed an unexpended program income balance of $722,920. There was no indication of 
+additional program income received or returned between the fourth and sixth reporting periods. 
+As a result of the discrepancy, RSA was not able to determine the actual program income 
+amount by the end of the reporting period. Nonetheless, there was an available balance of 
+program income funds from which to draw, yet the agency continued to draw Federal cash first. 
+More specifically, between October 1, 2019, and March 31, 2020, the agency drew down 
+$29,797,929.16 while there was undisbursed program income available. In accordance with 34 
+C.F.R. § 361.63(c)(3)(ii), “to the extent available, the non-Federal entity must disburse funds 
+available from program income (including repayments to a revolving fund), rebates, refunds, 
+contract settlements, audit recoveries, and interest earned on such funds, before requesting 
+additional funds from the Department. 
+ACCES-VR lacks internal controls necessary to disburse program income funds in accordance 
+with the provisions of the Uniform Administrative Requirements, Cost Principles, and Audit 
+Requirements for Federal Awards (Uniform Guidance), codified at 2 C.F.R. § 200.80 and 2 
+C.F.R. § 200.307, and VR regulations. Despite ACCES-VR assuring RSA during the monitoring 
+they adhere to all first in-first out (FIFO) requirements, the Federal financial reports signed and 
+submitted demonstrate that ACCES-VR is not adhering to this requirement.  
+ 
+Conclusion: RSA’s review of ACCES-VR’s financial reporting found multiple instances of non-
+compliance governing the use of program income for the same purposes authorized under the 
+program consistent with requirements outlined in both the Uniform Guidance (2 C.F.R.  
+§ 200.307(e)(2)) and applicable program regulations. To the extent that program income funds 
+are available, the grantee must disburse those funds and interest earned on such funds before 
+requesting additional funds.  
+ 
+Corrective Actions 3.2 RSA requires that ACCES-VR— 
+ 
+3.2.1 In the first quarterly update after approval of the corrective action plan, develop and 
+implement policies and procedures to— 
+ Accurately collect and timely report fiscal data on Federal financial reports, including 
+the SF-425 and RSA-17;  
+ Ensure its internal controls address how excess cash on hand is managed to comply 
+with the Cash Management Improvement Act (CMIA) requirements and also note in 
+the comments section of the SF-425 (and RSA-17) the reason for excess Federal cash 
+on hand, when required; and 
+ Review and correct program income for all affected quarters for FFYs 2019-2020; 
+and
+
+38 
+3.2.2 The grantee must ensure its internal controls address how program income is reported 
+and managed to ensure that program income is reported earned in the FFY in which the 
+funds are received by the grantee and expended before requesting additional cash 
+payments. The internal controls must contain a monitoring component that ensures 
+ongoing compliance to the program income reporting requirements. 
+ 
+VR Agency Response: ACCES-VR is unable to determine the typo referenced in 4
+th quarter 
+H126A200047 SF 425 line 10.l. 
+ 
+ACCES-VR acknowledges the concerns relating to the timeliness of expending program income.  
+The NYS Division of Budget sets cash limits on the expenditure of State funds and designates 
+the Social Security Reimbursement as a State fund source when it is received as revenue. For this 
+reason, NYSED is not able to immediately expend the funds unless sufficient cash levels are set.  
+ 
+RSA Response: RSA has provided details regarding reporting discrepancies in the "Analysis” 
+section and looks forward to working with ACCES-VR to resolve this finding. 
+ 
+VR Agency Request for Technical Assistance: No technical assistance requested. 
+ 
+Finding 3.3 Contract Management, Monitoring and Oversight Unallowable Use of Funds 
+Reserved for the Provision of Pre-Employment Transition Services and VR Services 
+ 
+Issue: Whether ACCES-VR maintains effective internal control over Federal awards to provide 
+reasonable assurance that the agency is managing the Federal awards in compliance with Federal 
+statutes, regulations, and the terms and conditions of the awards, including controls related to 
+developing, awarding, implementing, and monitoring contracts. 
+ 
+Requirements: Federal regulations state that the non-Federal entity is responsible for oversight 
+of the operations of the Federal award supported activities. The non-Federal entity must monitor 
+its contracted activities under Federal awards to ensure compliance with applicable Federal 
+requirements and that performance expectations are achieved. Monitoring by the non-Federal 
+entity must cover each program, function, or activity (2 C.F.R. §§ 200.302(a) and 329(a)). VR 
+program implementing regulations at 34 C.F.R. §§ 361.3 and 12 require ACCES-VR to employ 
+methods and practices necessary for the proper administration and for carrying out all functions 
+under the State plan. These methods include procedures to ensure accurate data collection and 
+financial accountability. As such, ACCES-VR must monitor and evaluate grant supported 
+activities to ensure compliance of all activities performed under the VR program.  
+ 
+In accordance with Section 113 of the Act and 34 C.F.R. § 361.48(a), each State must ensure the 
+designated State unit, in collaboration with the local educational agencies involved, provide, or 
+arrange for the provision of, pre-employment transition services for all students with disabilities, 
+as defined in 34 C.F.R. § 361.5(c)(51), in need of such services, from Federal funds reserved in 
+accordance with 34 C.F.R. § 361.65, and any funds made available from State, local, or private 
+funding sources. Funds reserved and made available may be used to provide potentially eligible 
+and eligible students with disabilities the five required pre-employment transition services, 
+authorized activities, and pre-employment transition coordination activities (34 C.F.R.
+
+39 
+§ 361.48(a)). 
+ 
+The New York State Comptroller’s Office states that contract terms should, to the greatest extent 
+possible, be specific, measurable, achievable, relevant, and time-bound (SMART). Although 
+MOUs don’t move through the State Comptroller’s Office, the use of SMART goals within the 
+MOU process is beneficial to ACCES. At a minimum, SMART contract terms address the 
+following: 
+ 
+Specific: 
+Scope and purpose of the contract; the contract period; services to be performed 
+and, where necessary, the specific individuals to perform the services; 
+commodities to be provided; location(s) where the work is to be performed; and 
+the actions that will occur in the event the contractor does not comply with contract 
+terms (e.g., corrective action, repayment of overcharges, full fiscal review of all 
+invoices, and contract termination) 
+Measurable: 
+Quantities of commodities or service to be provided; number and nature of clients 
+served; target dates; unit or fixed prices for goods and services; level of expertise 
+required to perform the required work, such as professional licenses, certifications, 
+and educational degrees 
+Achievable: 
+Realistic deliverables from the contractor or specific circumstances in which the 
+contractor may subcontract for commodities and services outside the contractor’s 
+area of expertise 
+Relevant: 
+Performance requirements essential for the contract; record keeping and reporting 
+requirements; billing requirements, such as a full description of goods or services 
+provided, personnel listed by name, title, and hours worked, whether invoices 
+should be electronic or paper, method for submitting invoices, and signatures or 
+authorizations required 
+Time-
+bound: 
+Specific dates or deadlines for delivery of the goods and services, time frames for 
+billing 
+Source: New York State Comptroller’s Office XI. Procurement and Contract Management, XI.11.F Contract 
+Monitoring 
+ 
+Analysis: NYSED has an executed MOU with Mohawk Valley Community College (MVCC), 
+agreement 023-010 effective May 1, 2023, through April 30, 2026, and not to exceed 
+$9,000.000. The MOU does not cite the minimum number of students to be served but does state 
+that the maximum number of students to be served is 1,050, which results in a maximum cost of 
+$8,571 (rounded) per-student. However, since the number of students to be served is a maximum 
+and no minimum number is provided, the contractor could recover costs for completing activities 
+described in the scope without providing any pre-employment transition services. 
+ 
+RSA reviewed the agreement and noted several areas of non-compliance as follows: 
+ 
+Measurable Performance Standards 
+ 
+The scope of work in the MOU has three main components: that MVCC will “create a targeted 
+strategy that will assist students with disabilities in receiving the five required pre-employment 
+transition services; that MVCC will partner with local schools and community-based 
+organizations to identify students with disabilities who are eligible to receive pre-employment
+
+40 
+transition services; and that MVCC will hire staff to provide pre-employment transition 
+services.”2 The requirement to provide pre-employment transition services is implied but is not 
+actually stated in the agreement. As written, it gives the appearance that the vendor could collect 
+$9,000,000.00 merely for developing a targeted strategy, partnering with schools and 
+organizations, and hiring staff in accordance with the agreement, without necessarily providing 
+any pre-employment transition services. The obligations section of the MOU references the 
+delivery of pre-employment transition services. 
+ 
+To be effectively measurable and meaningful, a performance standard should contain a baseline 
+and either an amount or a percentage of change or variance (increase/decrease) from the 
+baseline. Further, performance objectives should be specific to pre-employment transition 
+services for students with disabilities, the requirements under the Rehabilitation Act, as 
+amended, and its implementing regulations.  
+ 
+Some examples of objectively measurable performance standards are— 
+ 
+ Increase job exploration counseling services for students with disabilities, from 16 
+students (baseline) to 24 students (measurable increase) by (date)  
+ Conduct 12 workplace readiness sessions (baseline) by (date) (measurement is the actual 
+number of sessions conducted by the stated date). 
+ Decrease the high school dropout rate for students with disabilities (baseline) by 50% 
+(measurable decrease) by (date).  
+  
+Reasonable Costs 
+ 
+The scope of the MOU indicates that MVCC will hire staff, faculty, and mentors; however, the 
+MOU does not include requirements for the portion of MVCC staff time that is to be spent 
+providing direct pre-employment transition services, or on other duties as assigned. Specifically, 
+the MVCC MOU budget includes 23 FTEs at an approximate cost of $5,500,000 for 
+salaries/wages and fringe benefits over the three-year contract term. The FTEs assigned to this 
+contract include a program director (1 FTE), high school administrator (1 FTE), administrative 
+support (.5 FTE), career services specialist (1.5 FTE), accessibilities services (1.0 FTE), program 
+coordinator high school (15.0 FTEs), applied learning coordinator (1.0 FTE), and applied 
+learning coordinator high school (1.0 FTE). At the time of this report, RSA was unable to verify 
+the portion of FTE time that was allocated to providing services through this contract; the portion 
+of time spent directly providing the five pre-employment transition services; how MVCC staff 
+time is cost allocated to the programs (e.g., MVCC and high schools) to which they are assigned; 
+or who is validating MVCC staff time charged to the MOU. 
+ 
+Additionally, since the MOU does not require the vendor to serve a minimum number of students 
+to be served, ACCES-VR is unable to make a valid determination that the costs or staff time 
+allocation are reasonable. The budget also includes $63,000 for travel and transportation, 
+$74,000 for mentoring, and $405,000 for stipends. Again, without knowing the number of 
+ 
+2 Attachment A – Scope of Work
+
+41 
+students to be served, ACCES-VR cannot make a valid determination that the costs are 
+reasonable.     
+ 
+Potentially Unallowable Costs 
+ 
+RSA reviewed the MVCC budget for allowable costs and identified $2,032,331 in either actual 
+or potential unallowable costs. They are as follows with amounts in parentheses –  
+ 
+ Salary/wage and fringe benefit costs ($337,150) include 23 FTEs when only those staff 
+providing direct services to the students should be included, and pre-employment 
+transition service funds cannot be used for administrative costs. The MOU budget lists a 
+program director, a high school administrator and administrative support for $248,785. 
+However, it is not clear that these staff spend 100 percent of their time providing pre-
+employment transition services. If none of these staff provide direct pre-employment 
+transition services, then none of the costs may be paid from the funds reserved for pre-
+employment transition services. Only the time spent by the accessibility services position, 
+funded at $88,365, when serving students receiving pre-employment transition services 
+under the contract can be charged to the reserve. 
+ The remaining FTE costs are charged one hundred percent to pre-employment 
+transition services when in fact the costs must be allocated to all other activities staff 
+conduct for Mohawk Valley Community College. Since RSA was unable to determine 
+what portion of time was spent providing pre-employment transition services or 
+addressing other duties as assigned, if any, we were unable to estimate the amount of 
+potentially allowable costs. 
+ Meeting space rental costs ($69,000) are not necessary since school districts and MVCC 
+should already have buildings with available meeting space. 
+ Travel and transportation ($63,000) to college, internships and work experiences may 
+only be provided to VR-eligible students under an IPE when necessary to participate in 
+pre-employment transition services. The budget is not clear on who benefits from the 
+mileage costs, MVCC staff or VR participants. In addition, ACCES-VR must ensure that 
+this service is only being provided to VR participants with an IPE. 
+ Student materials, printing and technology ($56,000) expenses are not detailed enough 
+to make a valid allowable cost determination. MVCC needs to explain what is being 
+printed and for whom; and what technology is provided and to whom. 
+ Student mentors and stipends ($509,000) costs do not contain enough information to 
+determine allowability. The contract should state who is receiving the stipend payments. 
+It is not clear if student mentors are VR participants who have gone through the VR 
+program or students hired to be mentors. It is also not clear in the contract which pre-
+employment transition service is to be used to provide the stipend expense to mentors. 
+ Stipends appear to be paid for participation in pre-employment transition services 
+activities other than Work Based Learning Experiences.  To clarify, VR can pay students 
+who are engaged in work-based learning experiences; however, not just for 
+“participating” in workplace readiness training or other required activities under pre-
+employment transition services. RSA requested ACCES-VR provide it with what 
+“stipend for program participation” entails when it is paid and who receives the payment. 
+RSA is still awaiting information from ACCES-VR.
+
+42 
+ Driver’s education ($150,000) should only be considered on a case-by-case basis for 
+students who are VR eligible with an IPE only when needed to participate in pre-
+employment transition services.  
+ Speaker costs ($10,000) need to be defined based on the required activities of the pre-
+employment transition services that they are being provided under. There needs to be 
+expectations in the MOU for topics to be covered and reasonable costs for each speaker.  
+ Indirect costs ($818,181) are not allowable pre-employment transition service expenses. 
+In addition, there is no discussion of indirect costs in the budget, nor is a Federally 
+approved indirect cost rate agreement included. 
+ 
+Conclusion: Based on the documents reviewed, RSA is unable to verify that ACCES-VR 
+maintains effective control over the Federal funds necessary to provide reasonable assurances 
+that it is managing the Federal award in compliance with Federal statutes, regulations, and the 
+terms and conditions of the award, as required by regulations cited in the “Requirements” section 
+of this finding. ACCES-VR did not satisfy the requirements of 34 C.F.R. §§ 361.3 and 361.12, 
+and 2 C.F.R. §§ 200.403 - 405 that funds are spent solely on allowable costs and authorized VR 
+activities.  
+ 
+Internal control deficiencies exist for MOU monitoring, invoice review and approval, and 
+invoice supporting documentation, which does not permit ACCES-VR to ensure all costs 
+charged to the contracts are reasonable, necessary, allocable, and allowable under the VR 
+program, as required by Federal cost principles in Uniform Guidance. 
+ 
+Corrective Actions 3.3 RSA requires that ACCES-VR— 
+ 
+3.3.1 Draft and implement in ternal controls including a monitoring plan to ensure that MOUs 
+paid all or in part from a Federal award contain measurable performance standards and 
+ensures only allowable costs are included in the agreement.  
+3.3.2 Upon receipt of this report, review all pr e-employment transition services contracts, 
+MOUs, interagency agreements, and similar agreements for unallowable costs and cease 
+payments of unallowable costs made under the MVCC agreement and all other 
+agreements.  
+3.3.3 Revise all pre-employment transition servic e agreements to eliminate unallowed costs 
+described in this finding and as cited under 2 C.F.R. §§ 200.403 – 105 and 34 C.F.R. § 
+361.48 and ensure services are clearly defined and address the issues above. Once 
+complete, provide RSA with copies of agreements that have been revised to remove 
+unallowable costs.  
+ 
+VR Agency Response: ACCES-VR understands the findings regarding the MVCC MOU; 
+however, ACCES-VR disagrees with RSA’s interpretation that the requirement to provide pre-
+ETS is implied but not stated within the MVCC MOU. The requirement of this vendor to provide 
+required pre-ETS is noted in the scope of work portion and under MVCC Obligations of the 
+executed MOU. ACCES-VR understands the need to ensure this MOU clearly details the Pre-
+ETS services; including required, coordinated and authorized Pre-ETS, the activities allowed 
+within each category as well as required documentation of the provision of those services 
+directly to students with disabilities.
+
+43 
+ 
+ACCES-VR acknowledges more clarity regarding the costs per student served and a minimum 
+number of students to be served under this MOU would be beneficial in evaluating the 
+reasonable of costs. ACCES-VR also appreciates RSA’s suggestion to utilize the SMART goals 
+that the New York State’s Comptroller’s Office uses for contracts when ACCES-VR develops 
+MOUs.   
+ 
+It is important to note that there is only one Pre-ETS MOU, therefore ACCES-VR will not be 
+able to provide copies of five revised agreements.  
+ 
+VR Agency Request for Technical Assistance: No technical assistance requested.
+
+44 
+APPENDIX A: STATE VOCATIONAL REHABILITATION SERVICES AND 
+STATE SUPPORTED EMPLOYMENT SERVICES PROGRAMS 
+PERFORMANCE TABLES 
+Table 1—NY-G Performance Profile 
+VR Program Performance PY20 PY21 PY22 
+Employment Rate 25.5%  25.7% 23.5% 
+Number of Participants Exiting in Competitive Integrated 
+Employment or Supported Employment 4,372 4,785 3,892 
+Percentage of Timely Eligibility Determinations 92.9%  97.4% 96.3% 
+Percentage of Eligibility Determinations Extensions 0.0%  0.0% 1.3% 
+Percentage of Timely IPE Development 89.7%  95.7% 94.3% 
+Percentage of Initial IPE Extensions 0.0%  0.0% 2.1% 
+Number of Applicants 22,876  26,305 27,302 
+Number of Individuals Determined Eligible 16,401  20,488 20,971 
+Number of Individuals with an IPE and No VR Services Provided 9  31 1,063 
+Number of Participants (with an IPE and VR Services Provided) 54,092  54,151 50,882  
+WIOA Performance Indicators (General VR agency) PY20 PY21 PY22 
+Measurable Skill Gains Rate 42.5%  42.5% 53.1% 
+Employment Rate in 2nd Qtr. After Exit 43.2%  45.3% 50.0% 
+Median Earnings in 2nd Qtr. After Exit $4,588  $5,139 $5,335 
+Employment Rate in 4th Qtr. After Exit 43.9%  45.4% 48.5% 
+Credential Attainment Rate 16.0%  24.4% 34.8%  
+WIOA Performance Indicators (State) PY20 PY21 PY22 
+Measurable Skill Gains Rate 43.7%  44.0% 54.5% 
+Employment Rate in 2nd Qtr. After Exit 43.2%  45.0% 49.3% 
+Median Earnings in 2nd Qtr. After Exit $4,647  $5,204 $5,388 
+Employment Rate in 4th Qtr. After Exit 42.7%  45.2% 48.1% 
+Credential Attainment Rate 16.2%  24.7% 34.9%
+
+45 
+Table 2—NY-G Types of Exit 
+ 
+Individuals Who Exited the VR Program PY20 PY21 PY22 
+Number of Individuals Who Exited the VR Program 25,159 27,472 25,754  
+ 
+ 
+Exit Type 
+PY20 
+Number of 
+Individuals 
+ 
+PY20 
+Percent 
+PY21 
+Number of 
+Individuals 
+ 
+PY21 
+Percent 
+PY22 
+Number of 
+Individuals 
+ 
+PY22 
+Percent 
+Individual exited as an 
+applicant, prior to eligibility 
+determination or trial work 
+Experience 
+5,242 20.84% 5,482 19.95% 5,635 21.88% 
+Individual exited during or 
+after a trial work experience 326 1.30% 275 1.00% 188 0.73% 
+Individual exited after 
+eligibility, but from an order of 
+selection waiting list 
+- 0.0% - 0.0% - 0.0% 
+Individual exited after 
+eligibility, but prior to a signed 
+IP
+E 
+2,472 9.8% 3,123 11.4% 3,284 12.8% 
+Individual exited after an IPE 
+without an employment 
+outcome 
+12,749 50.7% 13,810 50.3% 12,691 49.3% 
+Individual exited after an IPE 
+in noncompetitive and/or 
+nonintegrated employment 
+- 0.0% - 0.0% - 0.0% 
+Individual exited after an IPE 
+in competitive and integrated 
+employment or supported 
+employment 
+4,372 17.4% 4,785 17.4% 3,892 15.1% 
+Individual exited as an 
+applicant after being 
+determined ineligible for VR 
+services 
+- 0.0% - 0.0% 65 0.3% 
+ 
+Supported Employment 
+PY20 
+Number of 
+Participants 
+PY21 
+Number of 
+Participants 
+PY22 
+Number of 
+Participants 
+Number of Participants Who Exited with a Supported Employment 
+Outcome in Competitive Integrated Employment 367 432 359 
+Number of Participants Who Exited with a Supported Employment 
+Outcome in Noncompetitive and/or Nonintegrated Employment - - -
+
+46 
+Table 3—NY-G Reasons for Exit 
+ 
+ 
+ 
+Reason for Exit 
+PY20 
+Number of 
+Individuals 
+ 
+PY20 
+Percent 
+PY21 
+Number of 
+Individuals 
+ 
+PY21 
+Percent 
+PY22 
+Number of 
+Individuals 
+ 
+PY22 
+Percent 
+Health/Medical - 0.0% - 0.0% 151 0.6% 
+Death of Individual 59 0.2% 60 0.2% 54 0.2% 
+Reserve Forces Called to 
+Active Duty - 0.0% - 0.0% - 0.0% 
+Ineligible after determined 
+eligible 15 0.1% - 0.0% 8 0.0% 
+Criminal Offender 41 0.2% 38 0.1% 33 0.1% 
+No Disabling Condition 394 1.6% 348 1.3% 226 0.9% 
+Transferred to Another Agency 368 1.5% 404 1.5% 487 1.9% 
+Achieved Competitive 
+Integrated Employment 
+Outcome 
+4,372 17.4% 4,785 17.4% 3,892 15.1% 
+Extended Employment - 0.0% 2 0.0% 3 0.0% 
+Extended Services Not 
+Available 2 0.0% 2 0.0% 1 0.0% 
+Unable to Locate or Contact 7,687 30.6% 8,412 30.6% 8,624 33.5% 
+No Longer Interested in 
+Receiving Services or Further 
+Services 
+8,984 35.7% 9,855 35.9% 9,292 36.1% 
+All Other Reasons 3,179 12.6% 3,450 12.6% 2,901 11.3% 
+Short-Term Basis Period - 0.0% - 0.0% - 0.0% 
+Ineligible: Pursuant to 511 - 0.0% - 0.0% 1 0.0% 
+Ineligible: Following Trial 
+Work 60 0.2% 119 0.4% 84 0.3% 
+Number of Individuals Who 
+Exited the VR Program 25,159  27,472  25,754
+
+47 
+Table 4 NY-G VR Service Provision 
+ 
+VR Service Provision PY20 PY21 PY22 
+Total Number of Individuals Who Received VR Services 45,767 45,730 43,950  
+ 
+ 
+Training Services 
+PY20 
+Number of 
+Individuals 
+ 
+PY20 
+Percent 
+PY21 
+Number of 
+Individuals 
+ 
+PY21 
+Percent 
+PY22 
+Number of 
+Individuals 
+ 
+PY22 
+Percent 
+Graduate Degree Training 177 0.4% 157 0.3% 190 0.4% 
+Bachelor’s Degree Training 2,549 5.6% 2,135 4.7% 2,286 5.2% 
+Junior or Community College 
+Training 1,398 3.1% 1,057 2.3% 1,358 3.1% 
+Occupational or Vocational 
+Training 1,882 4.1% 1,890 4.1% 2,099 4.8% 
+On-the-Job Training 492 1.1% 11 0.0% 2 0.0% 
+Apprenticeship Training - 0.0% - 0.0% - 0.0% 
+Basic Academic Remedial or 
+Literacy Training 2 0.0% - 0.0% - 0.0% 
+Job Readiness Training 803 1.8% 797 1.7% 739 1.7% 
+Disability Related Skills 
+Training* 68 0.1% 61 0.1% 64 0.1% 
+Miscellaneous Training 917 2.0% 876 1.9% 6,126 13.9% 
+Randolph-Sheppard 
+Entrepreneurial Training - 0.0% - 0.0% - 0.0% 
+Customized Training - 0.0% - 0.0% - 0.0% 
+Work-Based Learning 
+Experience 538 1.2% 721 1.6% 801 1.8% 
+ 
+ 
+ 
+ 
+Career Services 
+PY20 
+Number of 
+Individuals 
+ 
+PY20 
+Percent 
+PY21 
+Number of 
+Individuals 
+ 
+PY21 
+Percent 
+PY22 
+Number of 
+Individuals 
+ 
+PY22 
+Percent 
+Assessment* 2,474 5.4% 3,111 6.8% 3,592 8.2% 
+Diagnosis and Treatment of 
+Impairment 465 1.0% 372 0.8% 331 0.8% 
+Vocational Rehabilitation 
+Counseling and Guidance* 39,694 86.7% 40,295 88.1% 38,942 88.6% 
+Job Search Assistance 4,443 9.7% 4,919 10.8% 3,650 8.3% 
+Job Placement Assistance 1,628 3.6% 1,640 3.6% 2,265 5.2% 
+Short-Term Job Supports 1,059 2.3% 913 2.0% 842 1.9% 
+Supported Employment 
+Services 1,768 3.9% 1,986 4.3% 1,863 4.2% 
+Information and Referral 
+Services* - 0.0% - 0.0% 660 1.5% 
+Benefits Counseling* 640 1.4% 747 1.6% 698 1.6% 
+Customized Employment 
+Services 2 0.0% 15 0.0% 14 0.0% 
+Extended Services (for youth 
+with the most significant 
+disabilities) 
+516 1.1% 645 1.4% 675 1.5%
+
+48 
+ 
+ 
+Other Services 
+PY20 
+Number of 
+Individuals 
+ 
+PY20 
+Percent 
+PY21 
+Number of 
+Individuals 
+ 
+PY21 
+Percent 
+PY22 
+Number of 
+Individuals 
+ 
+PY22 
+Percent 
+Transportation* 2,746 6.0% 3,617 7.9% 3,665 8.3% 
+Maintenance* 1,849 4.0% 1,743 3.8% 1,715 3.9% 
+Rehabilitation Technology* 777 1.7% 687 1.5% 597 1.4% 
+Personal Attendant Services* 16 0.0% 12 0.0% 11 0.0% 
+Technical Assistance Services 23 0.1% 9 0.0% 12 0.0% 
+Reader Services* 2 0.0% - 0.0% - 0.0% 
+Interpreter Services* 251 0.5% 202 0.4% 197 0.4% 
+Other Services 3,126 6.8% 1,307 2.9% 1,249 2.8% 
+* Indicates RSA-911 Service Categories that do not require an individualized plan for employment (IPE) 
+ 
+ 
+ 
+Table 5— NY-G Measurable Skill Gains and Credentials 
+ 
+ 
+Type of Measurable Skill Gains Earned 
+PY20 
+Number 
+PY21 
+Number 
+PY22 
+Number 
+Educational Functioning Level 564 724 289 
+Secondary Diploma 9,342 7,545 3,093 
+Postsecondary Transcript/Report Card 7,162 6,197 7,755 
+Training Milestone 394 277 156 
+Skills Progression 219 141 660 
+Total 17,681 14,884 11,953  
+Participants Who Earned Measurable 
+Skill Gains PY20 
+Number/Percent 
+PY21 
+Number/Percent 
+PY22 
+Number/Percent 
+Number of Participants Who Earned Measurable Skill 
+Gains 9,342 7,545 8,261 
+Percent of Participants Eligible to Earn Measurable 
+Skill Gains 40.7% 32.8% 30.6% 
+ 
+ 
+Type of Credentials Earned 
+PY20 
+Number 
+PY21 
+Number 
+PY22 
+Number 
+Secondary 528 811 1,558 
+Postsecondary 640 751 1,350 
+Total 1,168 1,562 2,908  
+ 
+Participants Who Earned Credentials 
+PY20 
+Number/Percent 
+PY21 
+Number/Percent 
+PY22 
+Number/Percent 
+Number of Participants Who Earned Credentials 1,140 1,503 2,751 
+Percent of Participants Eligible to Earn Credentials 32.0% 36.0% 41.0%
+
+49 
+Table 6— NY-G Competitive Integrated Employment and Supported Employment 
+Outcomes 
+ 
+Participants Who Exited in Competitive Integrated 
+Employment or Supported Employment PY20 PY21 PY22 
+Number of Participants Who Exited in Competitive 
+Integrated Employment or Supported Employment 4,372 4,785 3,892 
+Median Hourly Earnings at Exit $14.00 $15.00 $16.00 
+Median Hours Worked per Week at Exit 35 35 35 
+ 
+ 
+ 
+Public Support at Exit 
+PY20 
+Number of 
+Participants 
+ 
+PY20 
+Percent 
+PY21 
+Number of 
+Participants 
+ 
+PY21 
+Percent 
+PY22 
+Number of 
+Participants 
+ 
+PY22 
+Percent 
+Social Security Disability 
+Insurance at Exit 392 9.0% 399 8.3% 343 8.8% 
+Supplemental Security Income 
+for the Aged, Blind, or Disabled 
+at Exit 
+373 8.5% 468 9.8% 379 9.7% 
+Temporary Assistance for 
+Needy Families at Exit 36 0.8% 49 1.0% 39 1.0% 
+Other Public Support at Exit 179 4.1% 187 3.9% 124 3.2% 
+ 
+ 
+Medical Insurance Coverage 
+at Exit 
+PY20 
+Number of 
+Participants 
+ 
+PY20 
+Percent 
+PY21 
+Number of 
+Participants 
+ 
+PY21 
+Percent 
+PY22 
+Number of 
+Participants 
+ 
+PY22 
+Percent 
+Medicaid at Exit 1,436 32.8% 1,636 34.2% 1,325 34.0% 
+Medicare at Exit 209 4.8% 246 5.1% 197 5.1% 
+State or Federal Affordable 
+Care Act Exchange at Exit 51 1.2% 69 1.4% 57 1.5% 
+Public Insurance from Other 
+Sources at Exit 141 3.2% 150 3.1% 105 2.7% 
+Private Insurance Through 
+Employer at Exit 858 19.6% 893 18.7% 823 21.1% 
+Not Yet Eligible for Private 
+Insurance Through Employer at 
+Exit 
+265 6.1% 312 6.5% 238 6.1% 
+Private Insurance Through 
+Other Means at Exit 1,507 34.5% 1,675 35.0% 1,314 33.8%
+
+50 
+Table 7— NY-G Students with Disabilities 
+ 
+ 
+ 
+ 
+Students with Disabilities 
+PY20 
+Number/ 
+Percentage of 
+Students 
+PY21 
+Number/ 
+Percentage of 
+Students 
+PY22 
+Number/ 
+Percentage of 
+Students 
+Total Students with Disabilities Reported 59,004 65,840 53,866 
+Students with Disabilities Reported with 504 
+Accommodation 4,814 5,228 3,902 
+Students with Disabilities Reported with the 
+Individualized Education Program (IEP) 53,048 59,414 47,962 
+Students with Disabilities Reported without 504 
+Accommodation or IEP 1,155 1,217 6,164 
+Total Students with Disabilities Who Received a 
+Pre-Emplo
+yment Transition Service 8,062 9,498 7,103 
+Potentially Eligible Students with Disabilities 
+Who Received a Pre-Employment Transition 
+Service 
+406 2,081 579 
+Students with Disabilities, Who Applied for 
+VR Services, and Received a Pre-Employment 
+Transition Service 
+7,656 7,417 6,524 
+Percentage of Students with Disabilities 
+Reported Who Received a Pre-Employment 
+Transition Service 
+13.7% 14.4% 13.2% 
+ 
+  Table 8—NY-G Pre-Employment Transition Service Provision 
+ 
+ 
+Pre-Employment 
+Transition Services 
+PY20 
+Number 
+Provided 
+PY20 
+Percent 
+of Total 
+PY21 
+Number 
+Provided 
+PY21 
+Percent 
+of Total 
+PY22 
+Number 
+Provided 
+PY22 
+Percent 
+of Total 
+Total Pre-Employment 
+Transition Services 
+Provided 
+32,865  48,598  48,654  
+Job Exploration 
+Counselin
+g 10,776  32.8% 15,260 31.4% 15,564 32.0% 
+Work-Based Learning 
+Experiences 1,255 3.8% 4,497 9.3% 2,260 4.6% 
+Counseling on 
+Enrollment 
+Opportunities 
+11,886 36.2% 14,139 29.1% 15,680 32.2% 
+Workplace Readiness 
+Training 3,097 9.4% 5,348 11.0% 4,102 8.4% 
+Instruction in Self- 
+Advocacy 5,851 17.8% 9,354 19.2% 11,048 22.7%
+
+51 
+APPENDIX B: FISCAL DATA TABLES 
+Fiscal data tables current as of September 30, 2024.  
+Table 3.1: VR Federal Resources and Expenditures 
+ 
+Federal Resources and Expenditures 2019 2020 2021 2022 
+(a) FAIN H126A190047 H126A200047 H126A210047 H126A220047 
+(b) Formula Award AMT 124,701,453.00 124,318,312.00 125,646,800.00 121,549,660.00 
+(c) MOE Reduction AMT 0 0 0 0 
+(d) Relinquished-Reallotment 0 0 0 0 
+(e) Received-Reallotment 35,000.0 0 35,000,000.00 10,000,000.00 0 
+(f) Adjustments 10,666,667.00 0 0 0 
+(g) Net Award AMT 135,403,120.00 159,318,312.00 135,646,800.00 121,549,660.00 
+(h) Net Award AMT Unused** 11,573.52 16,021,358.80 177,251.06 31,307.00 
+(i) Net Award AMT Unused-Matched*** 11,573.52 16,021,358.80 177,251.06 31,307.00 
+(j) Award Funds Expended 135,391,546.48 143,296,953.20 135,469,548.94 121,518,353.00 
+(k) PCT of Net Award Expended 100.00% 89.90% 99.90% 100.00% 
+(l) PCT of Formula Award Expended 108.60% 115.30% 107.80% 100.00% 
+(m) Carryover Met  Yes Yes Yes Yes 
+(n) Award Closed Yes Yes Yes Yes 
+* Indicates the award is currently in an open status; therefore, data is either not currently available or not final. 
+**If award is closed, represents amount of funds deobligated at closeout. If award is not closed, represents balance 
+in GMS. 
+***Negative number indicates funds expended that were not matched.
+
+52 
+Table 3.2: VR Non-Federal Share 
+  
+Non-Federal Share (Match) 2019 2020 2021 2022 
+(a) FED Expenditures Matched Yes Yes Yes   Yes  
+(b) Non-FED Share-4th 91,821,214.00 64,572,799.00 44,924,981.00 43,355,475.00 
+(c) Non-FED Share-Final 58,619,947.00 47,022,360.00 44,244,642.00 36,571,470.00 
+(d) FED Funds Required to Match 135,391,546. 48 143,296,953.20 135,469,548.94 121,518,353.00 
+(e) FED Funds Matched 216,591,071.78 173,739,893.52 163,476,681.94 135,125,572.25 
+(f) Non-FED Share Required 36,643,455.40 38,783,038.16 36,664,566.61 32,888,702.91 
+(g) FED Funds Match Difference 81,199,525.30 30,442,940.32 28,007,133.00 13,607,219.25 
+(h) PCT of Net FED Funds Matched 160.00% 109.10% 120.50% 111.20% 
+(i) PCT of FED Formula Award Matched 173.70% 139.80% 130.10% 111.20% 
+(j) Matching Requirement Met-State Yes Yes Yes Yes 
+(k) Required Non-FED Share-State 43,228,827.82 45,804,241.16 42,817,217.81 39,100,465.21 
+(l) FED Funds Required to be Matched-State 159,72 3,415.48 169,239,144.58 158,202,584.11 144,469,794.00 
+(m) FED Funds Matched-State 249,570,280.92 203,446,793.61 196,198,316.69 168,468,427.12 
+(n) FED Funds Match Difference-State 89,846,865 .44 34,207,649.03 37,995,732.58 23,998,633.12 
+* Indicates the award is currently in an open status; therefore, data is either not currently available or not final. 
+ 
+Table 3.3: VR Maintenance of Effort 
+ 
+Maintenance of Effort (MOE) 2019 2020 2021 2022 
+(a) AMT of Non-FED Share => 2 Years Prior Yes No No  No 
+(b) Non-FED Share 58,619,947.00 47,022,360.00 44,244,642.00 36,571,470.00 
+(c) Construction Expenditures-4th 0 0 0 0 
+(d) Construction Expenditures-Final 0 0 0 0 
+(e) Unadjusted MOE Base 58,619,947.00 47,022,360.00 44,244,642.00 36,571,470.00 
+(f) Adjusted MOE Base 58,619,947.00 47,022,360.00 44,244,642.00 36,571,470.00 
+(g) MOE Difference 79,978.00 -11,635,612.00 -14,375,305.00 -10,450,890.00 
+(h) Adjusted MOE Base-State 67,545,705.00 55,062,474.00 53,100,688.00 45,595,648.00 
+(i) MOE Difference-State 144,092.00 -12,506,526.00 -14,445,017.00 -9,466,826.00 
+* Indicates the award is currently in an open status; therefore, data is either not currently available or not final.
+
+53 
+ 
+Table 3.4: Pre-Employment Transition Services 
+ 
+Pre-Employment Transition Services 
+(Pre-ETS) 
+2019 2020 2021 2022 
+(a) Pre-ETS Target Met Yes No Yes Yes 
+(b) PCT Matched FED Funds Expended 
+on Pre-ETS 15.00% 7.60% 15.00% 15.00% 
+(c) Pre-ETS FED Expenditures-Final 20,310,468. 00 12,125,468.00 20,347,020.00 18,232,449.00 
+(d) Pre-ETS Base 135,403,120.00 159,31 8,312.00 135,646,800.00 121,549,660.00 
+(e) Pre-ETS Target 20,310,468.00 23,897,746.80 20,347,020.00 18,232,449.00 
+(f) Pre-ETS Difference 0 -11,772,278.80 0 0 
+(g) Pre-ETS Requirement Met-State Yes No No Yes 
+(h) PCT of Matched VR Funds Spent on 
+Pre-ETS-State 15.10% 8.30% 14.50% 15.00% 
+(i) Pre-ETS Base-State 160,155,778.00 18 6,998,323.00 159,579,524.00 144,701,976.00 
+(j) Pre-ETS Target-State 24,023,366.70 28,049,748 .45 23,936,928.60 21,705,296.40 
+(k) Pre-ETS FED Expenditures-Final-
+State 24,167,889.00 15,429,547.00 23,136,145.00 21,705,296.00 
+(l) Pre-ETS Difference-State 144,522.30 -12,620,201.45 -800,783.60 -0.4 
+(m) Negative is Amount of Reserve 
+Spent on Non-Pre-ETS 576,884.82 5,138,976.97 576,156.29 232,181.60 
+* Indicates the award is currently in an open status; therefore, data is either not currently available or not final. 
+ 
+Table 3.5: Program Income-Agency 
+ 
+Program Income 2019 2020 2021 2022 
+(a) Program Income Received-4th 3,509,30 0.00 4,109,026.00 5,82 0,479.00 5,595,888.00 
+(b) Program Income Received-Final 3,509,30 0.00 4,109,026.00 5,92 1,457.00 5,595,888.00 
+(c) Program Income Difference- 4th/Final 0 0 -100,978.00 0 
+(d) Total Program Income Disbursed-4th 1,858,375.00 0 5,820,479.00 1,713,342.00 
+(e) Total Program Income Disbursed-Final 3,50 9,300.00 4,109,026.00 5,921,457.00 5,595,888.00 
+(f) Program Income Disbursed Difference-
+4th/Final 
+-
+1,650,925.00 
+-
+4,109,026.00 
+-100,978.00 -
+3,882,546.00 
+(g) Program Income Transferred SILS Program-
+Final 
+0 0 115,152.00 0 
+(h) Program Income Transferred to OIB 
+Program-Final 
+0 0 0 0 
+(i) Program Income Transferred to CAP 
+Program-Final 
+0 0 0 0 
+(j) Program Income Transferred to Supported 
+Employment Program-Final 
+0 0 0 0 
+(k) Total Program Income Transferred 0 0 115,152.00 0 
+(l) Program Income Used for VR Program 3,509,300.00 4,109,026.00 5,806,305.00 5,595,888.00 
+* Indicates the award is currently in an open status; therefore, data is either not currently available or not final.

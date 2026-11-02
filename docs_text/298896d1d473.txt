@@ -1,0 +1,817 @@
+FILENAME: r-s-15-04-pdf-edc399c773b3.pdf
+PATH: _raw/rsa.ed.gov/r-s-15-04-pdf-edc399c773b3.pdf
+
+1 
+ 
+ 
+UNITED STATES DEPARTMENT OF EDUCATION 
+REHABILITATION SERVICES ADMINISTRATION 
+ 
+Case No. R- S/15-14 
+ 
+Phyliss Davis, Petitioner,  
+ 
+And 
+ 
+Business Enterprise Program,  
+Georgia Vocational Rehabilitation Agency, Respondent.  
+Before the Arbitration Panel: Gail R. Smith, Esquire (Chairperson), Dr. Lillie Pickett, 
+Peter Nolan, Esquire 
+APPEARANCES: 
+For Petitioner: 
+Phyliss Davis, Pro Se 
+For Respondent: 
+Elizabeth de Janes, General Counsel, GVRA 
+Michael Huening, Esquire
+
+2 
+ARBITRATION DECISION 
+ 
+PROCEDURAL BACKGROUND OF THE ARBITRATION 
+ 
+This arbitration arose over a dispute between Phyliss Davis (the “Petitioner”) and the Business 
+Enterprise Program of the Georgia Vocational Rehabilitation Agency (“GVRA”). In 2012, 
+GVRA merged two Business Enterprise Program (“BEP”) vending facilities. The Petitioner 
+operated one of the two facilities under a Temporary Vending Facility Agreement. The GVRA 
+transferred the licensed blind vendor who operated the other vending facility on a permanent 
+basis, to operate the newly consolidated facility. The Petitioner contends that GVRA violated the 
+Randolph-Sheppard Act, 20 U.S.C. §§ 107 et seq. (“R-S Act”) and regulations, and state law by 
+merging the two vending facilities and terminating the Petitioner’s Temporary Vending Facility 
+Agreement. The Petitioner also contends that GVRA should have posted and announced the 
+vacancy of operator of the merged facility, and utilized the bidding process to select the operator. 
+The Petitioner contends that GVRA’s failure to do so violated the Randolph-Sheppard Act and 
+federal regulations, and state law.  
+The arbitration was held pursuant to the Randolph-Sheppard Act, 20 U.S.C. §§ 107d-1 and 107d-
+2, after the Petitioner filed a complaint dated May 30, 2015, with the Rehabilitation Services 
+Administration of the U.S. Department of Education (“DOE”). The Petitioner requested that an 
+arbitration panel be convened pursuant to the R-S Act, 20 U.S.C. §§ 107d-1(a) and 107d-2, and 
+the implementing regulations at 34 C.F.R. § 395.13.  
+ 
+DOE authorized the convening of an arbitration panel to hear and render a decision on the issues 
+raised in the complaint. A letter dated September 8, 2015 (“Convening Letter”) from the 
+Commissioner of the Office of Special Education and Rehabilitative Services, Rehabilitation 
+Services Administration (“RSA”) stated: 
+ 
+“The central issue is whether the SLA’s process for terminating Ms. Davis’ 
+vending facility violated the Randolph-Sheppard Act, implementing regulations 
+and state rules and regulations.”  
+ 
+A hearing was held on April 25-26, 2017, at GVRA’s Vocational Rehabilitation office in 
+Marietta, Georgia. At the hearing, Petitioner appeared pro se.  Elizabeth de Janes, General 
+Counsel for GVRA, and Michael Huening, Esquire, represented the Respondent. During the 
+hearing, the parties were each afforded a full opportunity to present testimony, documents and 
+other evidence, to examine and cross-examine witnesses, and to object to documents and other 
+evidence offered by the other party.
+
+3 
+The Petitioner’s witnesses were the Petitioner and Stanley Turman. The Respondent’s witnesses 
+were Rajaunnda Gandy, current Chief Strategy and Innovation Officer for GVRA and Director 
+of BEP from 2003 to 2016, and Teresa Eggleston, current Director of Support Services for 
+GVRA and former Program Manager of BEP.  
+ 
+The witnesses were sworn. A transcript of the hearing was taken by a court reporter.1  
+Joint Exhibits 1-10, Respondent’s Exhibits 1-5 and Petitioner’s Exhibits 1, 3 and 4 were offered 
+and entered into evidence.2 The evidentiary record was closed at the conclusion of the hearing on 
+April 26, 2017.  The parties elected to file post-hearing briefs and reply briefs subsequent to the 
+hearing.  
+QUESTION TO BE RESOLVED 
+ 
+The issue to be decided in this case is: Whether the state licensing agency’s process for 
+terminating the Petitioner’s vending facility violated the Randolph-Sheppard Act, implementing 
+regulations and state rules and regulations? If so, what is the appropriate remedy?  
+FINDINGS OF FACT 
+ 
+The R-S Act is administered by the Rehabilitation Services Administration (“RSA”) which is a 
+federal agency under the U.S. Department of Education, Office of Special Education and 
+Rehabilitative Services. (R-S Act, 20 U.S.C. § 107a) (Tr. 30) The Randolph-Sheppard program 
+is administered in each state by a state licensing agency. (R-S Act, 20 U.S.C. § 107a) DOE 
+designated GVRA as the state licensing agency to operate the Business Enterprise Program in 
+Georgia. The Business Enterprise Program of Georgia (“BEP”) is a division within GVRA.  
+Under the R-S Act, GVRA provides opportunities to legally blind vendors to operate vending 
+facilities in Georgia. (Tr. 172) GVRA selects the locations and types of vending facilities, and 
+furnishes equipment, initial stock and operating capital for the vending facilities. (R-S Act, 20 
+U.S.C. § 107a) GVRA also provides the training necessary to be licensed in the program, and 
+selects the individuals to operate the various vending facilities. (R-S Act, 20 U.S.C. §§ 107a (b) 
+(c) and 107d-4) 
+ 
+Under Federal law, the state licensing agency has authority to manage the program and facilities 
+in the best interest of the program and to provide a sustainable income for the vendors in its 
+program. (R-S Act, 20 U.S.C. §§ 107a and 107b) The R-S Act and federal regulations require 
+that each state’s BEP issue regulations and policies regarding governance of the program that are 
+approved by the RSA. (R-S Act, 20 U.S.C. § 107b (5), 34 C.F.R. § 395.4) GVRA, as the state 
+                                                 
+1 References to the transcript are indicated by “Tr.” 
+2 Joint exhibits, the Petitioner’s exhibits and the Respondent’s exhibits are referred to respectively as “J. Ex.,” “P. 
+Ex.” and “R. Ex.”
+
+4 
+licensing agency, issued “BEP Rules and Regulations and Policies and Procedures” (“Rules and 
+Regulations”) which were approved by the RSA. (J. Ex. 2) (Tr. 30-32, 98) 
+GVRA’s Committee of Blind Vendors 
+ 
+Although the state licensing agency administers the program, the R-S Act requires that each state 
+establish an elected committee of blind vendors to participate with the state licensing agency in 
+policy and program decisions. (R-S Act, 20 U.S.C. § 107b-1, 34 C.F.R. § 395.3(4)) The 
+committee of blind vendors participates in the development and administration of a transfer and 
+promotion system for blind licensees approved by the RSA. (Tr. 30-32). 
+ 
+Georgia’s Committee of Blind Vendors (“CBV”) consists of eight members who represent all the 
+vendors in the state. (Tr. 162) The members are elected by, and represent the vendors in their 
+regions. (Tr. 162) 
+ 
+The CBV meets on a quarterly basis. The purpose of the meetings is to allow the blind vendors 
+an opportunity to participate in the state licensing agency’s decisions. (Tr. 38) According to Ms. 
+Gandy, the BEP always discusses with the CBV, any proposed changes to BEP’s policies and 
+programs. 
+ 
+A quarterly meeting of GVRA’s CBV was held on July 20 and July 21, 2011. During the 
+meeting, Franklin Hulsey, chairman of CBV’s finance committee, proposed on the CBV’s 
+behalf, that BEP should not “bid out” as a “standalone” any vending facility that does not 
+produce an annual income to a vendor of at least $20,000.00. (“Committee of Blind Vendors 
+Meeting Minutes,” R. Ex. 1) The CBV proposed that BEP either “attach” a facility that generates 
+annually an income of less than $20,000, to another facility or close the facility.3  
+ 
+GVRA adopted the CBV’s proposal but reserved the right to use its discretion either to bid out a 
+facility as an attachment and/or to close the facility. Ms. Gandy testified that BEP retained its 
+right to use its discretion when implementing the new policy because BEP was responsible for, 
+and concerned about the best interest of the entire program. (Tr. 131-132) GVRA’s response to 
+the CBV’s proposal, as reflected in the CBV minutes, was:  
+ 
+“(t)he SLA will use its discretion regarding the CBV’s proposal to bid out 
+facilities that generate less than $20,000 net income as an attachment. The SLA 
+will use its discretion when considering closing locations.” (R. Ex. 1)  
+ 
+                                                 
+3 A “standalone” vending facility provides a minimum annual income of $20,000 for an operator.  An “attachment” 
+is a vending location that is unable to “stand alone” and produces an income that is less than minimum wage. An 
+“attachment” is usually attached to a facility that makes more than $20,000 per year for an operator. A “merger” is 
+the combination of two locations that are not sustainable alone. (Tr. 36 -37, 137-141)
+
+5 
+BEP’s Decision to Merge Vending Facilities Nos. 190 and 341 
+ 
+Ed Mial operated Vending Facility No. 341 in the Manuel Maloof Building as a permanent 
+operator prior to the merger of Vending Facilities Nos. 190 and 341. (Tr. 176) On September 20, 
+2010, Peter Brown, one of BEP’s business counselors, completed a “Vending Facility Analysis” 
+of the facility because Vending Facility No. 341 consistently failed to produce a viable income 
+for a vendor. (R. Ex. 2) Mr. Mial’s income generally was $1,000 to $1,400 per month, or a 
+maximum annual income of $16,800, before the merger. For some years, however, Mr. Mial 
+only earned $6,000 to $7,000 for the year.4 (Tr. 34, 174-175)  
+ 
+Vending Facility No. 190, a snack bar in the DeKalb County Courthouse, was located a block 
+away from the Manuel Maloof Building. Vending Facility No. 190 also historically produced a 
+low income for the vendor, anywhere from $16,000 to $17,000 for the year. (Tr. 34)  
+ 
+After the CBV meetings in July, 2011, BEP considered merging Vending Facilities Nos. 190 and 
+341 under the new policy. (Tr. 34) Both of the vending facilities generated an annual income of 
+less than $20,000, the cut-off point identified by the CBV as insufficient to be designated as a 
+standalone facility. The new policy approved at the CBV’s July 2011 meeting, provided that the 
+SLA could decide whether to merge or close vending locations that did not produce a sufficient 
+annual income. (Tr. 44-45) BEP believed that a merger of the two facilities would be in the best 
+interest of the vendors and the program because it would preserve the locations as business 
+opportunities for the vendors and maintain BEP’s relationship with the DeKalb County 
+Government. (Tr. 138) 
+ 
+On October 3, 2011, BEP Business Counselor Peter Brown completed an analysis to determine if 
+the two vending facilities could be merged, and if so, how to accomplish the merger.  (R. Ex. 3, 
+“Vending Analysis Report) Mr. Brown recommended the vending facility in the Manuel Maloof 
+Building be changed to all vending or to a self-managed mini-snack bar. (R. Ex. 4) Mr. Brown 
+stated that this change would alleviate the need to staff Vending Facility No. 341 all day, which 
+he felt was not feasible based on the sales data for the site. (R. Ex. 4) Mr. Brown recommended 
+the merger of Vending Facilities Nos. 190 and 341, particularly as they were a block from each 
+other. Mr. Brown believed that one vendor could operate both facilities which would then 
+provide a viable income for a vendor. Mr. Brown recommended that the vendor at the Maloof 
+Building operate both vending facilities. (R. Ex. 3) (Tr. 185-186) David Fisher, Director of the 
+DeKalb County Government, had informed Mr. Brown that Mr. Fisher “…wanted to ensure that 
+                                                 
+4BEP has several sources to evaluate the gross sales and income generated by a vending facility. The Georgia 
+Cooperative Services for the Blind provides BEP with monthly income settlement statements. BEP counselors are 
+required to review weekly and monthly sales figures for the vending locations which are incorporated into a 
+financial system called the Financial Edge. (Tr. 183-184). BEP also assigns a business counselor to conduct a 
+business analysis report of a vending facility that is experiencing problems. (Tr. 47)
+
+6 
+the current vendor, Ed Mial, would continue to be employed and be the benefactor of the 
+merger.” (R. Ex. 3) (Tr. 104)  
+ 
+On October 5, 2011, Ms. Gandy, BEP’s Director, approved Mr. Brown’s recommendations. (R. 
+Ex. 3)  
+BEP Seeks Approval of the Merger from the Grantor 
+ 
+Each building where BEP has a vending facility has a Grantor. The state licensing agency must 
+obtain the Grantor’s approval before it makes changes to a vending facility in the Grantor’s 
+building. (Tr. 33) 
+ 
+DeKalb County Government was the Grantor of the two sites (Manuel Maloof Building and 
+DeKalb County Courthouse) where Vending Facilities Nos. 190 and 341 were located. (Tr. 33, 
+115) On October 28, 2011, Mr. Brown sent a letter to David Fisher, Director of the DeKalb 
+County Government, officially seeking approval to merge the two vending facilities. (R. Ex. 4) 
+BEP had to obtain the Grantor’s approval not only to merge the two facilities, but also to agree 
+with BEP’s proposal to change the snack bar in the Manuel Maloof Building to all vending or to 
+a self-managed mini-snack bar that is automated. (R. Ex. 4) The letter stated that the change 
+would: 
+ 
+“…alleviate the need for a vendor to staff that facility all day, which is not 
+feasible based on the current sales data. Instead the vendor will be relocated to the 
+Dekalb County Courthouse, where the staffing hours would be warranted based 
+on the sales. However, we would like to improve the modest sales of the 
+Courthouse location as well due to changing customer buying habits and requests. 
+Therefore, we would like to expand our offerings of freshly prepared cold foods 
+and maybe offer some limited items of hot foods that are merely re-thermalized. 
+We would offer the revenue of both locations to one vendor, thereby making this 
+employment opportunity a more viable source of income. 
+ 
+We anticipate that these changes will improve the overall sales revenue of the 
+combined facility….Our goal is to improve the overall revenue of our blind 
+vendor so that they will be in a better position to pay the expenses that are 
+inherent of being in the program, as well as earn a viable living.”(R. Ex. 4)
+
+7 
+ 
+BEP Discusses the Merger with RSA 
+ 
+Ms. Gandy discussed the proposed merger with Dan Fry and Ray Hopkins, program managers 
+with RSA, around the time of the CBV meetings in July, 2011. (Tr. 35, 37, 106-108). Both Mr. 
+Fry and Mr. Hopkins felt that BEP had the discretion to merge the two facilities and to transfer 
+operation of the consolidated facility to Mr. Mial under BEP’s transfer policy. (Tr. 35, 106-108) 
+BEP’s “Rules and Regulations and Policies and Procedures,” (2009 ed.) provides: 
+ 
+“VII. Transfer and Promotion of Vendors 
+ 
+A. TRANSFER of licensed vendors may be necessary from time to time to meet 
+the best interests of the licensed vendor and/or the State Licensing Agency. A 
+transfer shall be arranged by the State Licensing Agency if the best interest of 
+the program is served thereby.” (J. Ex. 2, R. Ex. 5) 
+ 
+Ms. Gandy decided to move ahead with the project after her discussions with RSA. Ms. 
+Gandy based the merger of the two facilities on BEP’s transfer policy. (Tr. 98) Ms. 
+Gandy testified that she relied not only upon RSA’s approval of the merger under BEP’s 
+transfer policy, but also: 
+ 
+“…after having looked at facility analysis reports, looking at monthly income 
+statements, and seeing the numbers by both facilities, we felt it would be in the 
+best interest of the program to combine the two locations.” (Tr. 35) 
+ 
+The Petitioner Becomes the Temporary Operator of Vending Facility No. 190 
+  
+Carl Lee was the operator of Vending Facility No. 190 before the Petitioner assumed operation 
+of this location. Mr. Lee successfully bid on, and became a permanent operator at another 
+vending location which left Vending Facility No. 190 without an operator. (Tr. 32)   
+While waiting for the Grantor to approve the merger and for the final documents to be signed, 
+BEP decided to obtain a vendor to temporarily operate Vending Facility No. 190 in the interim. 
+Ms. Gandy was aware that the Petitioner was unemployed and did not have a vending site of her 
+own to operate. Ms. Gandy had kept the Petitioner in mind when opportunities for employment 
+arose. As Ms. Gandy testified at the hearing: “Anything that became available, your (the 
+Petitioner’s) name was the first to come up.” (Tr. 115)
+
+8 
+On October 24, 2011, GVRA and the Petitioner entered into a “Temporary Agreement of 
+Operation for Vending Facility #190” (“Agreement”) (J. Ex. 4) BEP’s decision to merge 
+Vending Facilities Nos. 190 and 341 was made before BEP offered the Petitioner an opportunity 
+to operate Vending Facility No. 190 under a temporary agreement. (R. Ex. 3) (Tr. 186)  
+ 
+The Agreement states that the Petitioner will operate the facility as a relief operator, on a 
+temporary basis, and not as a permanent vending facility operator. The Agreement states:  
+ 
+“This agreement may be terminated at any time by the SLA. The SLA shall make 
+every effort to provide the Relief Operator with a minimum of one week’s notice 
+prior to termination. This agreement will be terminated upon the revocation or 
+termination of the SLA’s permit to operate a vending facility on federal or other 
+property.”5 (J. Ex. 4)  
+ 
+During the arbitration hearing, the Petitioner acknowledged that she was aware of the merger and 
+that she operated Vending Facility No. 190 on a temporary basis. (Tr. 318) The Petitioner was 
+aware of the ramifications of signing a temporary agreement as she previously operated another 
+vending facility (Ritche’s Café) on a temporary basis and signed the same agreement with BEP. 
+(Tr. 96, 164, 181-182)  
+ 
+Ms. Gandy testified that she believed that Mr. Brown, the Petitioner’s counselor at the time, also 
+informed the Petitioner about the proposed merger when the Petitioner signed the Agreement. 
+(Tr. 98, 118) BEP’s standard practice is to review the terms of any agreement with the vendor at 
+the time the vendor signs the agreement. (Tr. 180) Ms. Gandy’s testimony is supported by the 
+findings of an administrative review conducted in response to the Petitioner’s request to review 
+GVRA’s decision to merge Vending Facilities Nos. 190 and 341. After an administrative hearing 
+on June 27, 2012, David Rollins, Program Manager for GVRA stated, in a letter addressed to the 
+Petitioner which is dated July 12, 2012: 
+ 
+“By your own admission, you admitted during the Administrative Review that 
+you were aware of the possible merger of the Courthouse and Maloof locations 
+when you signed your Temporary Agreement of Operation back on October 24, 
+2011. You stated that you were told of this possible merger by then BEP 
+Counselor, Mr. Peter Brown, as well as the vendor of that location, Mr. Carl Lee, 
+in October, 2011.” (J. Ex. 6) 
+ 
+ 
+                                                 
+5 The Petitioner was free to bid on other vending locations while she operated Vending Facility No. 190 on a 
+temporary basis. (Tr. 144)
+
+9 
+BEP Completes the Merger and Terminates the Petitioner’s Temporary Agreement 
+ 
+On July 27, 2012, GVRA merged Vending Facilities Nos. 190 and 341 and terminated the 
+Petitioner’s Agreement. (Tr. 104-107) GVRA transferred operation of the consolidated facilities 
+to Mr. Mial, the only permanent licensed vendor of either facility at the time. The Petitioner’s 
+last day of work was July 25, 2012. (Tr. 121) 
+ 
+Although the Petitioner was aware of the merger when she signed the temporary agreement for 
+Vending Facility No. 190, the Petitioner was unaware that BEP did not intend to use the 
+competitive bid process to select the vendor for the consolidated facilities. (Tr. 318) The 
+Petitioner first learned about BEP’s decision to transfer Mr. Mial to operate the merged facilities 
+on June 12, 2012, during a site visit with Petitioner’s BEP counselor. (Tr. 315) Until that time, 
+the Petitioner believed that she would have an opportunity to bid on the consolidated locations 
+because she temporarily operated one of the merged facilities.6 (Tr. 316)  
+ 
+BEP utilizes a competitive bid process to select an operator for a vending facility only if the 
+location is “vacant.” Ms. Eggleston testified that the consolidated facility was not a vacancy 
+because one of the vending facilities had a permanent operator. (Tr. 330, 334) According to Ms. 
+Gandy, BEP was not required to advertise the position for competitive bid because BEP was 
+authorized to transfer management of a location to a blind vendor who already had an existing 
+permanent agreement under Section VII.A of BEP’s “Rules and Regulations.” (Tr. 263, 269)  
+ 
+Ms. Gandy testified that the difference between the Petitioner and Mr. Mial was that while the 
+Petitioner had a temporary agreement to operate one of the facilities, Mr. Mial was a permanent 
+operator. BEP could transfer the operation of the merged facilities to Mr. Mial because he was a 
+permanent operator but not to the Petitioner because she was a relief operator. (Tr. 237)  
+POSITIONS OF THE PARTIES 
+The Petitioner’s Position 
+ 
+The Petitioner points out that the intent of the Randolph-Sheppard Act is to provide blind 
+persons with remunerative employment, enlarge their economic opportunities and encourage 
+their self-support through the operation of vending facilities in federal buildings. The program 
+was broadened in most states including in Georgia, to include facilities in state and municipal 
+locations. In calendar year 2014, 2,108 blind vendors operated 2,389 vending facilities in public 
+buildings. The program generated $693.6 million, and the average wage of a vendor was 
+$59,012.00 for calendar year 2014. 
+                                                 
+6 Section VII.B.2 of BEP’s “Transfer and Promotion of Vendors,” provides that a vendor has to operate his or her 
+present vending facility for a minimum of six months before the closing date of a vacancy announcement to which 
+he or she intends to apply.” (J. Ex. 2/R. Ex. 5)
+
+10 
+ 
+The Petitioner contends that BEP’s decision to merge two standalone facilities violated the R-S 
+Act and BEP’s “Rules and Regulations.” According to the Petitioner, BEP arbitrarily merged 
+two historically separate and distinct standalone snack bars with attached vending machines, into 
+one joint facility. Both locations existed as standalone facilities for thirty years. The Petitioner 
+contends that each facility separately provided a viable income for a vendor. BEP’s decision to 
+merge the facilities was made in deference to Mr. Mial’s income and opportunity, to the 
+Petitioner’s detriment. 
+ 
+The Petitioner also contends that BEP violated the R-S Act and state law when it assigned Mr. 
+Mial to operate the merged facilities. BEP violated the law when it failed to follow proper 
+procedure to advertise the vacancy and permit the vendors to competitively bid on the opening in 
+the new location. The Petitioner asserts that by arbitrarily assigning one vendor to the merged 
+facilities without opening the process to competitive bid, and further removing the Petitioner 
+from her location, resulted in disparate treatment of the Petitioner. The temporary nature of the 
+Petitioner’s Agreement did not negate her right to fair and equitable treatment under the 
+Randolph-Sheppard Act. 
+ 
+ The Petitioner maintains that Ms. Gandy and Ms. Eggleston acknowledged during their 
+testimony both during the state administrative review proceedings and before the arbitration 
+panel, that the situation at hand involving the merger of two historically-viable, standalone snack 
+bars and transferring one vendor to operate the merged facilities to the detriment of another 
+licensed blind vendor, was a first-time event. For this reason, Ms. Gandy and Ms. Eggleston both 
+testified that they felt it necessary to obtain approval for the merger and Mr. Mial’s transfer from 
+the RSA, the Grantor and the CBV.  
+ 
+According to the Petitioner, Ms. Gandy and Ms. Eggleston failed to provide sufficient evidence 
+of their communications with the RSA, the Grantor or the CBV, such as written correspondence 
+with the three entities and/or specific dates or times of their contacts with the RSA, the Grantor 
+and the CBV. The only evidence that the CBV supported BEP’s decision to merge two 
+historically standalone facilities was a proposal made by the CBV which was documented in the 
+minutes of a committee meeting. Ms. Gandy testified however, that she did not accept or adopt 
+the committee’s proposal. In addition, the proposal was not sent to the floor for an open blind 
+vendor’s vote.  
+ 
+Even if there is evidence that BEP contacted the RSA, the Grantor and the CBV, Ms. Gandy 
+failed to disclose that the merger would adversely affect the Petitioner’s employment. The 
+Petitioner contends that:
+
+11 
+“…this omission of information and full disclosure, by the Director of the GVRA-
+BEP (Ms. Gandy), was a purposeful way to avoid answering any questions or 
+concerns that might have arisen from these Entities when they were consulted. 
+Thus the questions that would occur with Ms. Davis, went undisclosed. (This 
+action would be the second loss of vending facility in 2 years’ time for Ms. Davis, 
+through no fault of her own).” (Petitioner’s Brief, page 8) 
+ 
+The Petitioner maintains that BEP has an affirmative obligation under the law to locate gainful 
+employment for each licensed blind vendor. BEP violated the law when it failed to afford or find 
+employment for the Petitioner after it removed her from her position. BEP was aware of the 
+Petitioner’s continuing desire for alternate employment including a willingness to be placed in 
+temporary positions until a permanent position became available, by Petitioner’s request for 
+administrative review of BEP’s actions. During the administrative review, BEP was also 
+informed of the Petitioner’s financial difficulties. Despite BP’s awareness of the Petitioner’s 
+willingness and ability to work in any capacity, BEP has failed to offer any additional position to 
+the Petitioner. 
+ 
+The Respondent’s Position 
+ 
+GVRA did not violate the R-S Act, implementing regulations or state law when it transferred the 
+operation of the merged facility to Mr. Mial and cancelled the Petitioner’s Temporary Agreement 
+to operate Vending Facility No. 190. Although GVRA has a prescribed way in which it places 
+vacancies in vending facilities out to competitive bid, GVRA also has rules and regulations 
+where it may elect to transfer licensed vendors as necessary to meet the best interest of the 
+licensed vendor and/or the SLA, without competitive bid. These rules are found in BEP’s “Rules 
+and Regulations” regarding its transfer and promotion policies. 
+ 
+The Respondent has broad authority under federal and state law to manage the program and 
+facilities in the best interest of the vendors and the program. The Respondent lawfully exercised 
+its discretion when it combined two poorly performing sites into one to avoid closing both 
+locations. The Respondent lawfully transferred operation of the merged facilities to the vendor 
+who operated one of the locations under a permanent agreement. The Respondent conducted a 
+thorough evaluation and analysis of what to do with the two locations, and whether and/or how 
+to accomplish the merger of the two facilities. During the hearing, the Respondent presented 
+substantial evidence of its meticulous study and analysis. The Respondent also presented detailed 
+evidence and documentation that the CBV and RSA approved of the Respondent’s decisions.  
+The Petitioner’s Temporary Agreement stated that the Respondent could terminate the agreement 
+at any time. The Petitioner testified that she understood the terms and conditions of the 
+Agreement. The Petitioner was aware that she did not have any vested right or permanent 
+opportunity to manage Vending Facility No. 190, once the Respondent terminated the
+
+12 
+Temporary Agreement. The Petitioner signed previous temporary agreements with the GVRA 
+and was aware of the ramifications of signing a temporary agreement. 
+ 
+The Petitioner raised matters that were not included within the scope of the issue defined by 
+RSA’s “Convening Letter” and in this arbitration proceeding. The extraneous matters include the 
+termination of the Petitioner’s license and the Petitioner’s bankruptcy. The Petitioner was 
+terminated from the program in 2013 which was a substantial period of time after the Petitioner 
+filed a grievance and requested an administrative review of the Respondent’s decision to merge 
+the two facilities. The Petitioner never filed a separate grievance to contest BEP’s termination of 
+the Petitioner’s license, a matter which is separate and apart from the issues under consideration 
+in this proceeding.  
+ 
+The Petitioner also alleged discriminatory treatment of the Petitioner compared to other vendors. 
+The Petitioner failed to present any evidence of discriminatory treatment on the part of the 
+Respondent. The Respondent’s decision to merge the two facilities and transfer operation of the 
+facilities to Mr. Mial occurred prior to the Petitioner even being asked to operate Vending 
+Facility No. 190. Rather than discriminate against the Petitioner, BEP sought to help the 
+Petitioner by offering her the opportunity to temporarily operate Vending Facility No. 190, as it 
+was aware that the Petitioner was in need of employment at the time. 
+ 
+CONCLUSIONS OF LAW 
+ 
+The Petitioner contests two actions on GVRA’s part. First, the Petitioner asserts that GVRA 
+lacked the authority to merge Vending Facilities Nos. 190 and 341. Second, the Petitioner 
+contends that GVRA improperly transferred operation of the merged facilities to Mr. Mial. The 
+Petitioner contends that GVRA should have initiated its competitive bid procedure in accordance 
+with Section VII.B of BEP’s “Rules and Regulations” to fill the position of operator at the 
+merged facility. (J. Ex. 2. R. Ex. 5) 
+ 
+BEP Properly Merged Vending Facilities Nos. 190 and 341 
+ 
+Under the Randolph-Sheppard Act as well as Georgia state law, the state licensing agency has 
+authority to administer the Business Enterprise Program for the benefit of the vendors and the 
+program in its entirety. 
+As required by federal law, BEP acts in tandem with the CBV to consider and make policy 
+changes and decisions. During the quarterly meeting of the CBV in July, 2011, the CBV 
+proposed that BEP either close or attach to another facility, any vending facility that does not 
+produce a minimum annual income of $20,000 for the operator. The proposal was initiated for
+
+13 
+the benefit of the vendors/operators in order for each vendor to have a “viable” income. The 
+proposal also ensured that BEP operated its program in a prudent manner, particularly as BEP 
+invests in the various vending locations by providing equipment, initial stock and operating 
+capital for the vending facilities.  
+For several years, Vending Facilities Nos. 190 and 341 both had a poor sales record and 
+produced a subsistent income for its operators. BEP applied the new policy initiated by the CBV 
+to close or attach facilities earning less than $20,000 in annual income for an operator, to 
+Vending Facilities Nos. 190 and 341. BEP decided to merge the vending facilities to preserve the 
+business operations at the two locations for the benefit of the vendors and the entire program, 
+particularly as BEP recognized the desirability of continuing its business relationship with the 
+DeKalb County Government. 
+BEP decided to merge the facilities after it was unable to consistently improve the sales at these 
+locations by other means. Although the annual sales and income of the two facilities failed to 
+justify assigning two vendors to the locations, the combined revenue of the two facilities was 
+adequate for one vendor. A merger was appropriate because the two locations were within close 
+physical proximity. After BEP automated the vending facility in the Manuel Maloof Building, a 
+single vendor could easily operate the two facilities.  
+BEP decided to merge the two facilities only after it completed a vending facility analysis of the 
+locations and studied the feasibility of a merger. BEP also obtained approval of the merger from 
+the program managers for the R-S Act at the federal Rehabilitation Services Administration. The 
+federal RSA believed that BEP had the authority to merge the facilities under the transfer 
+provision of BEP’s “Rules and Regulations.” 
+The Petitioner alleged BEP’s merger of the facilities was discriminatory but failed to submit any 
+evidence of this claim. BEP followed its rules and regulations, and exercised careful review and 
+study over several years prior to making this decision. The Petitioner was not even operating 
+Vending Facility No. 190 at the time BEP made the decision to merge the two locations. BEP 
+also established that it offered the Petitioner the opportunity to temporarily operate Vending 
+Facility No. 190 out of concern because the Petitioner was unemployed. These facts refute the 
+Petitioner’s contention that BEP acted in a discriminatory manner to the Petitioner.  
+BEP Properly Transferred Operation of the Merged Facilities to the Permanent Vendor  
+ 
+As required by the R-S Act, a state licensing agency must issue rules and regulations that govern 
+the operation of the state’s BEP. GVRA, as the state licensing agency, issued BEP’s “Rules and 
+Regulations” which were approved by the RSA. (J. Ex. 2, R. Ex. 5) Although BEP has 
+procedures for placing vending facilities out for bid,  BEP may elect to transfer licensed vendors 
+without competitive bid, to vending facilities as deemed necessary to meet the best interest of the
+
+14 
+licensed vendor and/or the state licensing agency. (See, Section VII “Transfer and Promotion of 
+Vendors” of BEP’s “Rules and Regulations,” J. Ex. 2/ R. Ex. 5)  
+ 
+In this case, BEP exercised its regulatory authority when it transferred management of the 
+merged facilities to the permanent vendor of Vending Facility No. 341 rather than initiate a 
+competitive bid for the position. BEP properly took this action under Section VII of its “Rules 
+and Regulations.” The only language in Section VII that limits BEP’s transfer authority is that 
+the transfer must be in the best interest of the licensed vendor and/or the State Licensing Agency. 
+BEP presented substantial evidence that having Mr. Mial operate the merged facilities was in the 
+best interest of the vendors and the business enterprise program. In this regard, BEP’s decision 
+preserved the business opportunities and income from two existing locations rather than having 
+to close the facilities. BEP’s decision also maintained an ongoing and important business 
+relationship with the DeKalb County Government which desired that Mr. Mial operate the two 
+facilities after the merger.  
+ 
+The decision to transfer operation of the merged facilities to Mr. Mial was approved by the RSA. 
+Both Mr. Fry and Mr. Hopkins, program managers at RSA, informed Ms. Gandy that BEP was 
+authorized under its transfer policy, to transfer operation of the merged facilities to Mr. Mial, 
+rather than to initiate a competitive bid to fill the position. RSA informed BEP that it was 
+authorized to transfer management of the merged facilities to Mr. Mial because he was a 
+permanent operator. At the time of the transfer, Mr. Mial was the only vendor who operated 
+either vending facility as a permanent operator.  
+ 
+Under Section VII.B of BEP’s “Rules and Regulations,” a process to fill a position by 
+competitive bid is initiated when a new vending facility is established or a licensed vendor 
+vacancy occurs in an existing vending facility. Neither of these situations occurred in this case. 
+The merger of the two facilities was not a “brand” new vending facility as this type of facility is 
+typically viewed.  The fact that BEP properly used its discretion to merge or attach the two 
+facilities did not create a new facility. The merger also did not create a vacancy in an existing 
+vending facility. BEP established that the consolidated facility was not “vacant’ because one of 
+the facilities had a permanent operator.  
+DECISION AND AWARD 
+ 
+Based on the entire record and consistent with the foregoing discussion and findings, the Award 
+of the Arbitration Panel is ORDERED AS FOLLOWS: 
+ 
+1. The Respondent’s process for terminating the Petitioner’s Temporary Agreement to 
+operate Vending Facility No. 190 did not violate the Randolph-Sheppard Act, its 
+implementing regulations and state rules and regulations.
+
+15 
+2. The Respondent acted in accordance with applicable laws, rules and regulations when 
+it merged Vending Facilities Nos. 190 and 341. 
+3. The Respondent acted in accordance with applicable laws, rules and regulations when 
+it transferred operation of the consolidated facility to the permanent operator of one 
+of the vending facilities, rather than to place the position out for competitive bid. 
+ 
+_____________________________________________________ 
+Gail R. Smith, Panel Chairperson Date 
+  
+_____________________________________________________ 
+ 
+Peter Nolan, Panel Chairperson Date
+
+16 
+Closing Decision from Rev. Dr. Lillie Pickett.  
+Assigned Panel Member for Petitioner- Mrs. Phyliss Davis. 
+Case No. R-S/15-03 October 19.2017 
+Georgia Vocational Rehabilitation Agency –vs- Mrs. Phyliss Davis- Licensed Blind Vendor- 
+since (June -2006) 
+ 
+On April 25-26, 2017-, The Arbitration Panel convened in Marietta, Georgia to hear the 
+complaint of Mrs. Phyliss Davis, against the Georgia Vocational Rehabilitation Agency’s 
+decision in July -2012 to terminate her Temporary Agreement of Operations at Vending 
+Facility# 190- DeKalb County Courthouse and award another Blind Vendor the facility. 
+The GVRA decision to promote another vendor in to the newly vacant vending facility, followed 
+the Agency’s arbitrary decision to allow the other Vendor to retain his current Vending facility 
+(#341) while obtaining Vending facility (#190). 
+Mrs. Davis argued that the GVRA violated the Randolph Sheppard Act’s enabling legislative 
+policy of affirmatively providing renumerative employment and enhanced economic opportunity 
+for each and every duly licensed blind Vendor by the State licensing Agency. 
+“Under the Randolph Sheppard program, state licensing agencies recruit, train, license, and place 
+individuals who are blind as operators of vending facilities located on federal and other 
+properties’.(1936-1954-1974) 
+Thus, Mrs. Davis contentions and arguments of the GVRA’s violations of the Randolph 
+Sheppard Act’s enabling legislation in 2012 and continuing, must be adjudicated and affirmed. 
+The GVRA ‘s Director-Mrs. Rajaunda Gandy and the Northern Program Manager- Mrs. Theresa 
+Eggelston testified before Judge Woodward on 01/31/2013 and again before the Arbitration 
+Panel on 04/25-26,2017. 
+In both testimonies, dates and times, they affirmed that they were  acting in their management 
+roles at the GVRA and were well aware of the Randolph Sheppard’s  Act’s purposes and 
+intentions. 
+“The Vending Facility program authorized by the Randolph-Sheppard Act provides persons who 
+are blind with remunerative employment and self-support through the operation of vending 
+facilities on federal and other property. The program, enacted into law in 1936, was intended to
+
+17 
+enhance employment opportunities for trained, licensed blind persons to operate facilities.” 
+(RSA-1936-1954-1974). 
+Both Agency staff members testified that although they were fully aware of the devastating 
+consequences their official actions in violating Randolph Sheppard enabling legislation would 
+have on Mrs. Davis, they chose to continue. 
+When questioned by the Arbitration Panel, both Agency staff member affirmed to Mrs. Davis’ 
+status under the Randolph Sheppard’s Enabling Legislation and authority. 
+1. Blind- Affirmative –Mrs. Davis has provided proof to the GVRA of her disabling condition 
+that allowed her entrance in to the GVRA-BEP program under the Randolph Sheppard’s 
+guidance and policy and provision. 
+2. Trained- Affirmative- Mrs. Davis entered into and complete her training to operate a Vending 
+facility under the GVRA training program in the State of Georgia, in June-2006. 
+3. Licensed- Affirmative- Mrs. Davis license as a Blind Vendor in the State of Georgia was 
+entered into evidence both at the Administrative Review in 2013, and again before the 
+Arbitration Panel in 20117. 
+Mrs. Davis thus proved her status under the Randolph Sheppard enabling legislation and under 
+the SLA of Georgia policies and procedures. (Written policy manual-2009) 
+Mrs. Davis became a member of this protected class- under the Randolph –Sheppard Act’s 
+enabling legislation (1936-1954-1974) on June 30, 2006- when she was granted her license by 
+the State Licensing Agency- the GVRA. 
+Under these protections, the GVRA has no authority to promote, or enhance the economic 
+opportunity or provide remunerative employment of one duly licensed trained blind vendor over 
+another. 
+The policy the GVRA director and staff member used to justify this violation was the GVRA’s 
+BEP transfer policy. They testified that this transfer policy was applicable, is in violation of the 
+Randolph Sheppard Act under the latter part. 
+The GVRA‘s assertion that this award to Mr. Mial, was in the ‘best interest of the BEP program’ 
+to merge two stand -alone snack bars’ has no merit or justification. 
+The GVRA-BEP program had no, and still has no financial stake in either facility’s operations or 
+revenues. 
+Both locations have been granted to the GVRA-BEP program as rent free enterprises since their 
+inception in 1978. The GVRA’s only investment in these locations has been the licensing of 
+trained blind Vendors ‘, and the Blind Vendor‘s initial petty cash loan to buy operating stock.
+
+18 
+Since this operating capital is always a loan, the GVRA recoups each monetary output within 18 
+months of each operator being awarded the location. (This was after historically an open bid 
+hiring and selection   
+Mrs. Gandy testified that she sought active participation from the Georgia Committee of Blind 
+Vendors on this merger and promotion since it was outside of the Randolph Sheppard enabling 
+legislation ,and also outside the GVRA-BEP policy manual of (2009). However, she could not 
+produce written evidence of any meeting, talks, or phone calls from the Committee of Blind 
+Vendor’s in their role of active participants in any major policy change that will effect and affect 
+the protected class of licensed blind vendors in the State of Georgia.  
+However, her actions as the director of the GVRA-BEP is this matter, is in clear violation of the 
+Randolph Shepard Act (1336-1954-1974). 
+The program, enacted into law in 1936, was intended to enhance employment opportunities for 
+trained, licensed blind persons to operate facilities 
+§395.14   The State Committee of Blind Vendors. 
+(a) The State licensing agency shall provide for the biennial election of a State Committee of 
+Blind Vendors which, to the extent possible, shall be fully representative of all blind vendors in 
+the State program on the basis of such factors as geography and vending facility type with a goal 
+of providing for proportional representation of blind vendors on Federal property and blind 
+vendors on other property. Participation by any blind vendor in any election shall not be 
+conditioned upon the payment of dues or any other fees.  
+(b) The State Committee of Blind Vendors shall:  
+(1) Actively participate with the State licensing agency in major administrative decisions and 
+policy and program development decisions affecting the overall administration of the State's 
+vending facility program;  
+(2) Receive and transmit to the State licensing agency grievances at the request of blind vendors 
+and serve as advocates for such vendors in connection with such grievances;  
+(3) Actively participate with the State licensing agency in the development and administration of 
+a State system for the transfer and promotion of blind vendors;  
+(4) Actively participate with the State licensing agency in the development of training and 
+retraining programs for blind vendors; and  
+(5) Sponsor, with the assistance of the State licensing agency, meetings and instructional 
+conferences for blind vendors within the State.”
+
+19 
+Mrs. Davis testified that she sought help from the then current President of the Committee of 
+Blind Vendors-(Mr. Robert Matuzak- (Chairperson2010-2013).  She testified she sought help 
+from the Committee, since this merger was not written in policy, nor had been voted on by the 
+blind vendors’ committee or body. This proposal had been declined by the GVRA-BEP director- 
+Mrs Gandy-, as per her own testimony and the meeting minutes she entered into evidence. Mrs. 
+Gandy testified that she refused to adopt the Committee of Blind Vendor’s proposal when it was 
+introduced in 2010’s meeting. When the ($20,000) yearly threshold minimum revenue was 
+proposed -Mrs. Gandy declined to make it policy or to have an open vote on its merits from the 
+blind vendors themselves. 
+Mrs. Davis testified that the Committee of Blind Vendors advised her that they were not aware 
+of this proposed merger, and had called the GVRA-BEP offices and staff, but could not get the 
+GVRA-BEP director and staff to confirm or deny this allegation. Mr. Matuzak advised Mrs. 
+Davis that the committee of blind vendors had no knowledge of this proposed merger, and had 
+no active participation in the policy decision making that was leading up to Mr. Mial ‘s 
+promotion.  
+ Mr. Matuzak (Chairperson) advised Mrs. Davis to preemptively file a written request for an 
+administrative review to held internally at the GVRA-BEP offices, as her first step in the 
+arbitration process. Mrs. Davis testified that this was the fifth time she had to use the grievance 
+process to protest a policy violation by the GVRA-BEP. 
+§395.14   The State Committee of Blind Vendors. 
+“3) Actively participate with the State licensing agency in the development and administration of 
+a State system for the transfer and promotion of blind vendors; 
+It is therefore dis-ingenious for Mrs. Gandy to use that failed proposal from the active committee 
+of blind vendors, as her defense and justification to Violate the  Randolph Sheppard Act. 
+THE GVRA’s defense that Mrs. Davis temporary agreement of operation for Vending (#190), 
+gave her no protection or coverage. However, The GVRA-BEP was already in contract with 
+Mrs. Davis when they issued her license. This guaranteed her fair and equal treatment.  -There is 
+not Randolph –Sheppard Act-caveat that sets aside the requirement to provide economic 
+opportunity and equality -based on the type of Agreement to Operate a Vending facility.  
+The decision to promote Mr. Mail over Mrs. Davis was discriminatory and was based on the 
+GVRA-BEP’s own promulgated agreement of operations. Mrs. Davis was not offered the 
+opportunity to sign a permanent agreement of operation and yet this difference was held against 
+her in this matter.
+
+20 
+The GVRA-BEP has been unable to offer into evidence a past or current complete written, 
+codified and adopted, policy and procedures manual. This lack of written policy has been noted 
+in writing, since 2012, when Mrs. Davis asked for her first internal review on this issue.  
+ Moreover, At the Arbitration hearing in 2017, the GVRA-BEP was asked repeatedly by the Mrs. 
+Davis, and by the Panel, for a copy of a complete written policy from 2009,-2012, along with all 
+revisions.  
+The last known published, adopted manual disseminated to all clients and staff of the GVRA, 
+agency wide, not just the BEP program and staff,  and the manual was dated 04/2009. 
+Mrs. Davis’ witness, Mr. Stanley Turman, testified that he had never been given a complete 
+written policy and procedures manual-despite his repeated requests. 
+Mrs. Eggleston and Mrs. Gandy testified that the GVRA-BEP still did not have a complete 
+manual, as of the date of the Arbitration hearing (04/2017). They were not able to point the 
+Arbitration Panel to the chapter, page and line that was part of the GVRA defense for not biding 
+out the newly created mega facility Mr. Mial had been promoted to.  
+The Randolph-Sheppard Act, P.L. 74-732, as amended by P.L. 83-565 and P.L. 93-516;  20 
+U.S.C. Sec. 107 et seq. Code of Federal Regulations, Title 34, Part 395 — Vending Facility 
+Program for the Blind on "Federal and Other Property… 
+“(c) The State licensing agency shall further establish in writing and maintain policies which 
+have been developed with the active participation of the State Committee of Blind Vendors and 
+which govern the duties, supervision, transfer, promotion, and financial participation of the 
+vendors. The State licensing agency shall also establish procedures to assure that such policies 
+have been explained to each blind vendor.” 
+Their obstruction, and lack of truthfulness about why the GVRA-BEP did not follow Randolph 
+Sheppard Legislation in the mandated active participation of the Committee of Blind Vendors in 
+the transfer and promotion policy, as it applies to this merger, became obvious to all in the 
+Hearing.  
+Neither Mrs. Gandy nor Mrs. Eggleston referenced that the current Chairperson of the 
+Committee of Blind Vendors, as having been actively engaged and participating in this merger 
+and decision. Mrs. Gandy named several person as advisors and approvers of this major policy 
+deviation.  
+However, none of the people named have authority to make policy changes under the Randolph 
+Sheppard Act.
+
+21 
+Mrs. Gandy elected not to follow the promotion-transfer legislation requirement as mandated by 
+Randolph Sheppard.  Mr. Robert Matuzak- Chairperson-(2010-2013)  nor was the Committee of 
+Blind Vendors -named or cited the people involved in this major policy decision.  
+Since Mrs. Gandy was and had been the director of the GVRA-BEP program for 7 years 
+previous to this decision, she was well versed in the policy legislation of the Randolph Sheppard 
+Act. This was an act of willful disregard and retaliation personally against Mrs. Davis. Mrs. 
+Gandy was aware that Mrs. Davis was unemployed since her loss of permanent facility in 2009. 
+No effort has ever been made to offer Mrs. Davis employment after the loss of her facility, and 
+after the egregious merger.  
+According the Randolph Sheppard- RSA-1936-1954-1974) 
+ (b) The State Committee of Blind Vendors shall: 
+(1) Actively participate with the State licensing agency in major administrative decisions and 
+policy and program development decisions affecting the overall administration of the State's 
+vending facility program; 
+(c) The State licensing agency shall further establish in writing and maintain policies which have 
+been developed with the active participation of the State Committee of Blind Vendors and which 
+govern the duties, supervision, transfer, promotion, and financial participation of the vendors. 
+The State licensing agency shall also establish procedures to assure that such policies have been 
+explained to each blind vendor. 
+When asked to clarify the GVRA-BEP subjective classification the new mega facility as being 
+open but not vacant, Mrs. Gandy nor Mrs. Eggleston could not find the  written policy or 
+procedure to support their decision or position. Indeed both staffers testified that there is no 
+current written policy manual to reference. Mrs. Gandy testified that this decision was based on 
+her sole discretion as director of the GVRA-BEP. 
+According to Randolph Sheppard Act (1936-1954-1974), the State licensing Agency has an 
+affirmative  
+Economic opportunity obligation to each Blind Vendor. 
+(RSA- 1936-1954-1974) 
+“§395.11   Training program for blind individuals. 
+The State licensing agency shall ensure that effective programs of vocational and other training 
+services, including personal and vocational adjustment, books, tools, and other training materials, 
+shall be provided to blind individuals as vocational rehabilitation services under the 
+Rehabilitation Act of 1973 (Pub. L. 93-112), as amended by the Rehabilitation Act Amendments
+
+22 
+of 1974 (Pub. L. 93-516). Such programs shall include on-the-job training in all aspects of 
+vending facility operation for blind persons with the capacity to operate a vending facility, and 
+upward mobility training (including further education and additional training or retraining for 
+improved work opportunities) for all blind licensees. The State licensing agency shall further 
+ensure that post-employment services shall be provided to blind vendors as vocational 
+rehabilitation services as necessary to assure that the maximum vocational potential of such 
+vendors is achieved and suitable employment is maintained within the State's vending facility 
+program. 
+My Final Decision 
+ 
+I do hear-by affirm that this Panel must and should grant to Mrs. Davis, each and every request 
+in her Prayer for Relief (08/207). 
+The GVRA-BEP program has failed in it’s obligation to provide for Mrs. Davis  as per her 
+written  and spoken requests, continuity in her opportunity to work and be treated to equal 
+economic enhancements as Mr. Mail, and every other licensed Blind Vendor in the State of 
+Georgia.  
+Mrs. Davis has long been subjected to malicious, retaliatory behavior by the director of the 
+GVRA-BEP program. This behavior has resulted in Mrs. Davis’ continued lack of employment 
+and opportunity within the GVRA-BEP program since (2009). The financial devastation suffered 
+by Mrs. Davis as a result of Mrs. Gandy’s retaliatory actions in (2012 ) resulted in Mrs. Davis 
+losing the Vending (#190) location.  These financial repercussions have been documented by 
+Mrs. Davis’s admission of the Bankruptcy filing papers, 2 months after the loss of(190) and the 
+lack of other opportunities within the GVRA-BEP.  
+At no time during any of the preceding 5 years of grievances, reviews or arbitration hearings has 
+the SLA of the GVRA-BEP, offered or entered into or evidenced any attempt to compensate or 
+compromise with Mrs. Davis. 
+The State of Georgia –GVRA-BEP program has never requested to hold settlement talks, offer 
+any open vending facility opportunities for employment,  any re-training classes or assistance to 
+Mrs. Davis. 
+ Yet there is well documented proof that all of these above actions have been offered to other 
+similarly placed licensed Blind Vendors. 
+The discrimination Mrs. Davis has suffered and continues to suffer, must be compensated for and 
+addressed.
+
+23 
+The Sprit, letter and the laws of Randolph Sheppard Act (1936-1954-1974) have been violated 
+by the State of Georgia GVRA-BEP in their actions towards the Petitioner-Mrs. Phyliss Davis. 
+ 
+These actions arose from the Program director and staff in their professional capacity. 
+ 
+We, the Arbitration panel, must grant Mrs. Davis her Prayer of Relief in entirety. 
+ 
+Respectfully submitted, 
+ 
+Rev. Dr. Lillie M. Pickett 
+Date:  October 17, 2017

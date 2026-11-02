@@ -1,0 +1,2501 @@
+FEDERAL FISCAL YEAR 2024 
+MONITORING REPORT ON THE ILLINOIS 
+DIVISION OF REHABILITATION SERVICES 
+VOCATIONAL REHABILITATION 
+AND 
+SUPPORTED EMPLOYMENT PROGRAMS 
+ 
+U.S. Department of Education 
+Office of Special Education and 
+Rehabilitative Services 
+Rehabilitation Services Administration 
+April 30, 2025
+
+TABLE OF CONTENTS 
+Page 
+Section 1: The Scope of the Review ............................................................................................... 1 
+Section 2: Focus Area – Performance of the State Vocational Rehabilitation Services and State 
+Supported Employment Services Programs.................................................................................... 3 
+Section 3: Focus Area – Financial Management of the State Vocational Rehabilitation Services 
+and State Supported Employment Services Programs .................................................................. 21 
+Appendix A: State Vocational Rehabilitation Services and State Supported Employment Services 
+Programs  Performance Tables ..................................................................................................... 42
+ 
+Appendix B: Fiscal Data Tables ................................................................................................... 55
+
+1 
+SECTION 1: THE SCOPE OF THE REVIEW 
+A. BACKGROUND 
+Section 107 of the Rehabilitation Act of 1973 (Rehabilitation Act), as amended by Title IV of the 
+Workforce Innovation and Opportunity Act (WIOA), requires the Commissioner of the 
+Rehabilitation Services Administration (RSA) to conduct annual reviews and periodic on-site 
+monitoring of programs authorized under Title I of the Rehabilitation Act to determine whether a 
+vocational rehabilitation (VR) agency is complying substantially with the provisions of its State 
+Plan under Section 101 of the Rehabilitation Act and with the evaluation standards and 
+performance indicators established under Section 106 of the Rehabilitation Act subject to the 
+performance accountability provisions described in Section 116(b) of WIOA. In addition, the 
+Commissioner must assess the degree to which VR agencies are complying with the assurances 
+made in the State Plan Supplement for Supported Employment Services under Title VI of the 
+Rehabilitation Act. In conducting the annual reviews, RSA must consider, at a minimum, budget 
+and financial management data (Section 107(a)(2)(I) of the Rehabilitation Act); and, pursuant to 
+Section 107(a)(4)(B) of the Rehabilitation Act, RSA must examine the provision of services, 
+including pre-employment transition services. 
+RSA works closely with its Federal partners at the U.S. Department of Labor’s Employment and 
+Training Administration (ETA) and the U.S. Department of Education’s Office of Career, 
+Technical, and Adult Education (OCTAE) to share monitoring and technical assistance activities, 
+especially as they relate to the joint provisions under WIOA. Although the VR program is one of 
+the six core programs in the workforce development system, it is unique in that State VR 
+agencies provide services directly to individuals with disabilities. Thus, the nature and scope of 
+RSA’s monitoring process and report may appear different from the monitoring ETA and 
+OCTAE conduct with their grantees.  
+In Federal fiscal year (FFY) 2024, RSA conducted an on-site monitoring review of the State 
+Vocational Rehabilitation Services program (VR program) and the State Supported Employment 
+Services program (Supported Employment program) administered by Illinois Division of 
+Rehabilitation Services (DRS). The nature, scope, and focus of this review and the process by 
+which RSA carried out its activities from August 6, 2024, through August 8, 2024, was defined 
+by information regarding the VR agency’s use and expenditure of Federal funds, documents, and 
+data submitted by DRS, taking into account the goals, unique circumstances, and technical 
+assistance needs of the VR agency.  
+RSA—  
+• Assessed the performance of the VR and Supported Employment programs, including 
+how the VR agency is implementing strategies and practices to achieve continuous 
+improvement in the delivery of VR services, including pre-employment transition 
+services, leading to quality competitive integrated employment and supported 
+employment outcomes for individuals with disabilities;   
+• Reviewed the VR agency’s financial management of the VR and Supported Employment 
+programs, which supports and maximizes the use of Federal funds and resources to
+
+2 
+achieve continuous improvement in assisting individuals with disabilities to achieve 
+quality employment outcomes; 
+• Identified strategies, including innovative practices, the VR agency uses or may employ 
+to improve competitive integrated employment outcomes for individuals with disabilities, 
+including students and youth with disabilities; 
+• Provided recommendations leading to continuous improvement in the number and quality 
+of outcomes achieved by individuals with disabilities through the VR and Supported 
+Employment programs and recommendations leading to continuous improvement in the 
+VR agency’s financial management of fiscal resources and strategies for maximizing the 
+use of Federal grant funds;  
+• Identified compliance findings and corrective actions to improve processes and 
+procedures, including the development or revision of policies and internal controls 
+supporting effective and efficient program operations, service delivery, and data-based 
+decision making; and  
+• Provided technical assistance to assist and support the VR agency in developing strategic 
+actions to improve and maximize program and fiscal performance and the use of Federal 
+funds. 
+B. REVIEW TEAM PARTICIPANTS 
+Members of the RSA review team included April Trice and Nicole Jeffords, (Vocational 
+Rehabilitation Program Unit), Shannon Moler and Keira Des Anges (Technical Assistance Unit), 
+Yann-Yann Shieh (Data Collection and Analysis Unit), and Jill Saletta and David Miller (Fiscal 
+Unit). Although not all team members participated in all aspects of the on-site monitoring 
+review, each contributed to the gathering and analysis of information, along with the 
+development of this report. 
+C. ACKNOWLEDGEMENTS 
+RSA wishes to express appreciation to the representatives of DRS for the cooperation and 
+assistance extended throughout the review process. RSA also appreciates the participation of 
+others, such as the State Rehabilitation Council (SRC), the Client Assistance Program, 
+advocates, and other stakeholders during the review process.
+
+3 
+SECTION 2: FOCUS AREA – PERFORMANCE OF THE STATE 
+VOCATIONAL REHABILITATION SERVICES AND STATE SUPPORTED 
+EMPLOYMENT SERVICES PROGRAMS  
+A. PURPOSE 
+Through this focus area, RSA assessed the VR agency’s VR and Supported Employment 
+programs’ performance in assisting individuals with disabilities, including those with the most 
+significant disabilities, with the necessary services and supports to achieve quality competitive 
+integrated employment. During this focused review, RSA analyzed VR program data, policies 
+and internal controls, and agency practices in implementing VR services within the context of 
+maximizing the use and expenditure of funds to improve program performance. Where 
+appropriate, RSA provided technical assistance and identified findings requiring corrective 
+actions. RSA also provided recommendations, which the agency may consider as it develops 
+strategic actions to improve performance and maximize the use and expenditure of Federal funds 
+to achieve quality employment outcomes.  
+B. ANALYSIS OF PERFORMANCE
+  
+RSA’s analysis of the VR agency’s performance of the VR and Supported Employment 
+programs incorporated a review of data reported by DRS on the Case Service Report (RSA-911) 
+and the WIOA Statewide Performance Report (ETA-9169) for program years (PYs) 2020, 2021, 
+2022, as well as the review and discussion of internal controls and policies and requested 
+documents. A review of the VR agency profile and data related to the VR process, VR services, 
+quality of employment outcomes, and pre-employment transition services, as well as discussions 
+with DRS of potential factors influencing program performance informed the analysis and helped 
+to identify technical assistance needs and recommendations to improve the performance and 
+management of the VR and Supported Employment programs.  
+Summary of Factors Influencing Performance 
+Through the analysis of data and documents provided by DRS, information from related sources, 
+and discussions with DRS during the review, RSA identified various factors, which may be 
+contributing either positively or negatively to the VR agency’s performance leading to 
+employment outcomes for individuals with disabilities and the use and expenditure of Federal 
+funds. In addition to providing technical assistance, as appropriate and in response to DRS’ 
+requests, RSA also developed recommendations for consideration by DRS as it develops 
+strategies and practices to ensure continuous improvement in program performance and to 
+maximize the use and expenditure of available Federal funds to assist individuals with 
+disabilities in achieving quality employment outcomes. 
+ 
+Inaccurate Reporting and Statewide Availability of Pre-Employment Transition Services 
+ 
+DRS reported providing 330,153 pre-employment transition services to 23,981 students with 
+disabilities in PY 2020, which increased to 449,019 services to 28,006 students in PY 2022. DRS 
+served over three quarters of reported students each year during the review period. DRS had
+
+4 
+determined most students with disabilities (22,873 in PY 2020, 26,972 in PY 2021, and 26,243 in 
+PY 2022) eligible for VR services, with the small remaining numbers representing potentially 
+eligible students. Notably, approximately 77 percent of eligible individuals served by DRS are 
+under age 25. 
+ 
+Ensuring pre-employment transition services are available statewide to all students with 
+disabilities regardless of whether the student applied or has been determined eligible for VR 
+services promotes equitable access to services and complies with Federal requirements. DRS 
+delivers pre-employment transition services primarily through Secondary Transitional 
+Experience Program (STEP) contracts with local school districts, which have been in place since 
+the 1960s. Participating centers for independent living (CILs) provide pre-employment transition 
+services to potentially eligible students through Fast Track contracts. DRS reported that not all 
+CILs provide pre-employment transition services through Fast Track contracts, and not all school 
+systems have STEP contracts. DRS acknowledged service gaps in some regions of the State and 
+provided RSA with a spreadsheet detailing service availability. According to the spreadsheet, 
+Fast Track services are available in 60 of the 102 counties in Illinois and STEP contracted 
+services are available in 94 of the 102 counties. However, in Iroquois, Marion, and Scott 
+counties both Fast Track and Step services are unavailable. Ensuring the availability and access 
+to pre-employment transition services across the State of Illinois to students with disabilities who 
+are eligible or potentially eligible will help to support meaningful postsecondary transition and 
+ultimately successful employment. 
+ 
+According to DRS, in rural areas of the State, or in regions without these contracts, VR 
+counselors may deliver pre-employment transition services. However, when RSA requested an 
+example case involving a potentially eligible student receiving pre-employment transition 
+services provided by VR counselors, no such case could be identified in the case management 
+system (CMS). During the period of review, DRS did not report the provision of any in-house 
+pre-employment transition services on the RSA-911, only those services purchased through 
+vendors. Additionally, DRS reported that there is no mechanism in the agency’s CMS to track 
+and report staff time providing pre-employment transition services. Therefore, DRS is unable to 
+demonstrate that it is making pre-employment transition services available statewide, which is 
+discussed in Finding 2.2.    
+ 
+DRS vendors have access to the agency’s CMS and enter case notes, which automatically 
+generate billings that are subsequently paid by the VR counselor (See Findings 3.1, 3.2, and 3.3 
+for additional details related to pre-employment transition services authorization and billing 
+processes). RSA inquired about the agency’s mechanisms to ensure contractors deliver and 
+students engage in reported pre-employment transition services to which DRS responded that, in 
+most cases, it relies on trust in contractors to fulfill service delivery obligations. DRS also 
+mentioned that it is not familiar with the development of contractor curricula or programming 
+and does not provide input in these areas.  
+ 
+DRS indicated that most students express interest in work opportunities. RSA inquired about the 
+high number of reported on-the-job trainings (OJTs) in Illinois (5,385 reported in PY 2020, 
+6,004 in PY 2021, and 4,406 in PY 2022). DRS reported that work-based learning experiences
+
+5 
+were misclassified as OJTs, as referenced in the STEP contracts, and this resulted in inaccurate 
+reporting in the CMS. 
+ 
+Technical Assistance 
+ 
+• RSA provided DRS with guidance on Using Third-P arty Cooperative Arrangements with 
+Local Educational Agencies for Providing Pre-Employment Transition Services to 
+Students with Disabilities under the VR Program (RSA-TAC-24-05).  
+• RSA clarified that for each student with a disability who receives pre-employment 
+transition services, DRS must track and report the services, whether purchased or directly 
+provided, on the RSA-911 and maintain appropriate documentation at the individual 
+student level in the agency’s CMS. DRS must also monitor and evaluate performance 
+through the agency’s internal controls, in accordance with 2 C.F.R. § 200.303. 
+• RSA also clarified that DRS must report service expenditures on the RSA-911 in a 
+manner that complies with period of performance and liquidation requirements of 2 
+C.F.R. part 200 and 34 C.F.R. part 76. In addition to the Federal requirements, State VR 
+agencies are also subject to their State and agency liquidation and timely payment of 
+invoice requirements. 
+• RSA shared that, in accordance with 2 C.F.R. § 200.302(7)(b), DRS must establish 
+written processes that include a mechanism for reviewing procedures to determine 
+effectiveness. These processes must specifically detail how staff time is allocated to meet 
+the reservation requirement between authorized and required services, in accordance with 
+2 C.F.R. § 200.430 and 431. In addition, these written processes must specify where staff 
+time charged to the reserve is reported within the RSA-17. The associated costs must also 
+be accurately reported. The level of detail must enable the accurate tracing of funds at 
+both obligation and expenditure levels, ensuring transparency and accountability. 
+Furthermore, all reported activities and expenditures must be backed by substantiating 
+documentation for support of the RSA-17 (2 C.F.R. § 200.302(b)(3)). 
+• During the FFY 2016 technical assistance visit, RSA provided guidance to DRS 
+regarding the continued use of random time sample studies as the internal control method 
+for tracking agency personnel time. This approach ensures that only expenditures for 
+agency personnel time dedicated to providing pre-employment transition services to 
+students with disabilities are accurately reported in the CMS. When asked about the 
+validity of this methodology for assigning actual staff time to the appropriate work center, 
+DRS responded that it has historically relied on this tracking system. DRS indicated that 
+random time sample studies align with state standards for personnel activity reporting and 
+that it has received approval from the cognizant agency responsible for reviewing and 
+approving DRS’ indirect cost rate agreement.  
+ 
+Recommendations 
+ 
+• DRS should develop more robust monitoring protocols for the provision of pre-
+employment transition services that encompass program content, service delivery, and 
+appropriate billing to ensure contractors are delivering high-quality services to students. 
+• DRS should collaborate with contractors to ensure that it provided input into the 
+development of pre-employment transition services curriculum and programming to
+
+6 
+ensure students with disabilities receive services relevant to the 21st Century workforce 
+and tailored to meet the unique needs of individuals with disabilities. 
+ 
+Insufficient VR Program Policies and Procedures  
+ 
+RSA found that in DRS’ policies and procedures, in effect during the three-year review period, 
+some administrative rules have not been updated since 2006 (e.g., administrative code 557.30, 
+Application for Vocational Rehabilitation.) Additionally, RSA found discrepancies between the 
+customer contact procedures (e.g., the number of participant contacts VR counselors are required 
+to make) outlined in the VR Casework Procedure Manual and the VR Directives. Inconsistencies 
+such as these may lead to confusion among staff regarding which guidance to follow. Addressing 
+policy and procedural discrepancies could improve both the consistency of service delivery and 
+the accuracy of program data. For example, setting clear expectations for participant contacts can 
+lead to better engagement of participants. Additionally, RSA identified insufficiencies, and in 
+some cases, non-compliance, in written policies and procedures covering the nature and scope of 
+each of the VR services, in accordance with 34 C.F.R. § 361.50.  
+Finally, DRS’ VR Policy Directive, VR-008 Community College Initiative permits 
+DRS to support the costs of attendance at public community colleges for VR 
+participants without applying the agency’s financial need analysis and its cost 
+participation policies. However, the policy applies financial need and cost participation 
+policies for participants attending four-year degree programs and any postsecondary 
+training programs. Though this policy is permissible, DRS must ensure that an 
+individual’s cost participation in postsecondary and vocational training of any type 
+takes into consideration any disability-related expenses paid by the individual and is not 
+so high as to deny an individual necessary postsecondary education and vocational 
+training (34 C.F.R. 361.54). Importantly, DRS should guard against VR counselors 
+applying the policy in such a way that steers individuals toward pursuing employment 
+goals that require only community college education or in other ways that discourage an 
+individual from pursuing employment goals of their choice that require more advanced 
+levels of education (e.g., four-year college and graduate-level education), as well as 
+other types of vocational training because of a lack of financial support from DRS. 
+ 
+Technical Assistance 
+ 
+• RSA provided technical assistance on the development and implementation of policies 
+and procedures including—  
+o Section 116 WIOA Primary Performance Indicators: Development of written 
+policies and procedures and internal controls for Employment Rate—Second 
+Quarter After Exit, Employment Rate—Fourth Quarter After Exit, Median 
+Earnings, Credential Attainment, Measurable Skill Gains Rate (MSG), and the 
+Effectiveness in Serving Employers. 
+o Data Validation Policies and Procedures: Collaboration is needed with the Illinois 
+Department of Innovation and Technology, the entity responsible for maintaining 
+the mapping and coding of DRS’ CMS, to develop a policy, procedures, and 
+internal controls outlining how they collaborate and maintain data accuracy to fix
+
+7 
+coding issues or gaps that prevent the proper collection and recording of VR 
+services. 
+o Application Policies and Procedures: RSA clarified requirements outlined in 34 
+C.F.R. § 361.41(b)(2) related to applications for VR services. RSA informed the 
+agency that there is no requirement that applications be submitted in writing or 
+that they be signed, and once an application is received, DRS would then 
+document how the request was received. Further, the agency could develop 
+written procedures for individuals who would like to apply for VR services by 
+telephone, email, online, or by sending a letter to the VR agency or by completing 
+a common intake application form at an American Job Center. For RSA-911 
+reporting purposes, the application date should be the date on which the 
+application or other material is submitted to the agency. 
+ 
+• RSA provided technical assistance on the need to update Administrative Codes,  
+including—  
+o Section 557.30 Application for Vocational Rehabilitation Services has not been 
+updated since 2006. In accordance with 34 C.F.R. § 361.41, an individual is 
+considered to have submitted an application when the individual or the 
+individual’s representative as appropriate: (1) Has completed and signed an 
+agency application form; (2) Has completed a common intake application form in 
+a one-stop center requesting vocational rehabilitation services; or (3) Has 
+otherwise requested services from the designated state unit; (4) Has provided to 
+the designated State unit information necessary to initiate an assessment to 
+determine eligibility and priority for services; and (5) Is available to complete the 
+assessment process. Additionally, the 60-day eligibility determination is not 
+mentioned in the administrative codes. An eligibility determination must be made 
+within 60 days from the date of application, except in cases of unforeseen 
+circumstances beyond the agency’s control, as described in 34 C.F.R. § 
+361.41(b)(i). 
+o Section 572.40 Coordination of the IPE with an Individualized Educational Plan 
+(IEP), must align with 34 C.F.R. § 361.22 (a)(2), which requires that policies and 
+procedures must provide for the development and approval of an IPE in 
+accordance with 34 C.F.R. § 361.45 as early as possible during the transition 
+planning process and not later than the time a student with a disability determined 
+to be eligible for VR services leaves the school setting or, if the designated State 
+unit is operating under an order of selection, before each eligible student with a 
+disability able to be served under the order leaves the school setting. DRS should 
+correct the name of the IEP to “Individualized Education Program.” 
+o Section 553.31 Trial Work Experience has not been updated since 2007. In 
+accordance with 34 C.F.R. § 361.42 (2)(i), DRS should ensure it has developed a 
+written plan to assess periodically the individual's abilities, capabilities, and 
+capacity to perform in competitive integrated work situations through the use of 
+trial work experiences, which must be provided in competitive integrated settings 
+to the maximum extent possible, consistent with informed choice and 
+rehabilitation needs of the individual.
+
+8 
+• RSA provided technical assistance related to inaccuracies and inconsistencies in the VR 
+Casework Procedural Manual and VR Directives: 
+o While there is no Federal-imposed timeline for referrals, DRS may establish and 
+implement its own as appropriate. Under 34 C.F.R. § 361.41, DRS must establish 
+and implement standards for the prompt and equitable handling of referrals of 
+individuals for VR services, including referrals of individuals made through the 
+one-stop service delivery systems under Section 121 of WIOA. The standards 
+must include timeliness for making good faith efforts to inform these individuals 
+of application requirements and to gather information necessary to initiate an 
+assessment for determining eligibility and priority for services. 
+ 
+Recommendations 
+ 
+• DRS should conduct a thorough review of its administrative codes to ensure alignment 
+with WIOA requirements, as some codes have not been updated since 2006. The agency 
+may discover that some policies and procedures are no longer necessary, which could 
+lead to streamlined operations and increased efficiency. However, DRS must ensure that 
+statutory and regulatory requirements are not removed during this process. 
+• DRS should ensure consistency in communicating and implementing its policies and 
+procedures across agency platforms (e.g., Administrative Codes, Business Rules, VR 
+Casework Procedure Manual, VR Directives, Policy Question and Answer Page, DRS’ 
+intranet, etc.). DRS may benefit from a policy alignment review to identify gaps, 
+redundancies, or areas where policy implementation requires consistency.  
+• DRS should update its pre-employment transition services policies and procedures to 
+incorporate information from RSA’s Final Notification of Interpretation (NOI) regarding 
+the use of Federal Vocational Rehabilitation funds reserved for pre-employment 
+transition services. DRS must develop clear policies and procedures to ensure accurate 
+reporting of pre-employment transition services funds to the RSA-911 and RSA-17. 
+• RSA recommends that DRS seek technical assistance from the Vocational Rehabilitation 
+Technical Assistance Center for Quality Management (VRTAC-QM).  
+ 
+Case Service Record Deficiencies: WIOA Performance Indicators and Pre-Employment 
+Transition Services 
+ 
+From PY 2022, RSA reviewed five cases wherein DRS reported the participant earned an MSG 
+and five cases wherein DRS reported the participant earned a credential. This included two cases 
+where participants were enrolled in secondary education, two cases where participants were 
+enrolled in postsecondary education, and one case involving both secondary and postsecondary 
+education. Additionally, RSA reviewed ten cases where DRS provided pre-employment 
+transition services to students with disabilities. The purpose of the case service record review 
+was to ensure MSG, credential attainment, and pre-employment transition services were 
+accurately reported and supported by the required documentation. RSA found the following 
+issues during its review— 
+ 
+• Insufficient supporting documentation to verify MSG and credential attainment; 
+• Inconsistent reporting of MSG dates;
+
+9 
+• No written internal control processes for data collection and validation of MSG and 
+credential attainment; 
+• Incorrect coding of pre-employment transition services provider types; and 
+• Incorrect expenditure reporting of pre-employment transition services funds. 
+ 
+In some instances, DRS lacked the necessary supporting documentation for MSG, and where 
+documentation was provided, the dates recorded in the files did not match those reported to RSA.  
+DRS provided transcripts as evidence of participants earning an MSG; however, RSA found that 
+some participants had failed their classes and should not have been counted as earning an MSG. 
+In one case record, RSA identified that the high school diploma was missing from the file and 
+credential attainment was based solely on self-reported information in the case notes and post-
+exit employment status through the Unemployment Insurance (UI) data system interface in its 
+CMS. Additionally, RSA noted that the agency erroneously reported credential attainment 
+because the individual was not employed in any quarter for over a year after exiting the VR 
+program. In a case involving postsecondary education, DRS incorrectly reported to RSA that the 
+participant had earned a bachelor’s degree, even though the individual had not graduated from 
+the university. There was also a case with inconsistent credential attainment dates between the 
+DRS case file and what DRS reported on the RSA-911.  
+ 
+In the review of pre-employment transition services cases, RSA found inconsistencies in how 
+DRS reported provider types. In some instances, DRS labeled the same provider as public and 
+private. This issue could stem from a CMS mapping error between the data and IT teams, 
+indicating the need for more robust internal controls. As mentioned previously, collaboration is 
+needed with the Illinois Department of Innovation and Technology, the entity responsible for 
+maintaining the mapping and coding of DRS’ CMS, to develop a policy, procedures, and internal 
+controls on outlining how they collaborate and maintain data accuracy to fix coding issues or 
+gaps that prevent the proper collection and recording of VR services. Additionally, RSA found 
+that DRS reported several purchased services with a $0 expenditure. Although the case 
+management field showed the expenditure as paid, DRS explained that it could only enter the 
+dollar amount once the provider cleared the payment. DRS must develop clear policies and 
+procedures to ensure accurate reporting of pre-employment transition services funds on the RSA-
+911. A more detailed discussion on the incorrect reporting of pre-employment transition services 
+is provided in Finding 3.2.  
+ 
+Missing supporting documentation and inaccurate reporting negatively affect data accuracy and 
+thus, agency performance related to the WIOA performance indicators and pre-employment 
+transition services.   
+Technical Assistance 
+ 
+• RSA provided technical assistance on key internal controls needed to meet WIOA 
+indicators. RSA also emphasized the importance of establishing clear policies and 
+procedures to ensure that training and education programs meet the definitions of MSG 
+and credential attainment and explained that supporting documentation must be included 
+in case records. These controls must check the supporting documentation and prevent 
+reporting for participants not enrolled in recognized programs. RSA also advised DRS
+
+10 
+that internal controls should ensure all exit and post-exit data are appropriately tracked, 
+using data validation procedures and the required documentation. Internal controls should 
+detect any outliers or incorrect data. For example, when a VR program reports someone 
+employed at exit or post-exit, the controls should ensure that wages are reported on the 
+RSA-911 when necessary. 
+• RSA clarified the documentation required when reporting MSGs that may have been 
+earned during on-the-job training, customized training, and apprenticeships. By 
+documenting these additional MSG, DRS will be better positioned to show progress and 
+meet Federal reporting requirements.  
+• RSA encouraged the agency to review the Case Service Report (RSA-911)  RSA-PD-19-
+03 training, which offers essential guidance on how to document training and education 
+programs in line with credential and MSG definitions.  
+• RSA advised DRS of the value of providing routine staff training on documenting and 
+reporting MSG and credential attainment. Keeping up with best practices, new 
+regulations, and updated assessment tools helps staff track progress accurately, provide 
+targeted support, and ensure participants achieve better employment outcomes. 
+• RSA clarified that unofficial high school transcripts may be used to document MSG; 
+however, transcripts with an ‘F’ or failure cannot be counted as an MSG if a participant 
+fails an entire semester. In reviewing documentation, DRS must verify that the transcript 
+or report card indicates interim progress that meets the applicable academic standard to 
+count as an MSG. For example, if a student fails one course but passes several others, 
+they may still have the academic credits necessary to make interim progress. 
+Additionally, unofficial high school transcripts may be used to document credential 
+attainment, including a graduation date. 
+ 
+Recommendation 
+ 
+• To improve credential attainment post-exit data tracking, DRS should consider using the 
+National Student Clearinghouse
+ and its State higher education agency for credential 
+verification.  
+ 
+Inaccurate VR Service Reporting 
+ 
+During the review period, DRS did not report certain data elements under career services. For 
+example, DRS did not report assessment in all program years, which DRS explained as being 
+due to the CMS not capturing this option. In PYs 2020 and 2021, DRS reported no job placement 
+assistance, supported employment, or customized employment services. DRS stated that these 
+services were either unavailable or did not have corresponding boxes for staff to select the 
+service in its CMS. As a result, these data elements were not reported on the RSA-911. 
+Additionally, RSA noted that DRS was missing a sufficient quality assurance process to ensure 
+data validity during the period of review. 
+ 
+RSA also observed that, across all program years reviewed, 13.6 percent of participants were 
+categorized as receiving “other services.” DRS clarified that this data element captures books, 
+supplies, tools, job-related equipment, and uniforms, and applies this data element to record 
+interpreter services. RSA noted significant issues with how data were recorded across some VR
+
+11 
+services. For instance, DRS did not correctly report career services and job placement assistance, 
+leading to no reporting across all program years reviewed. Addressing these discrepancies will 
+give the agency a more accurate understanding of its performance. 
+ 
+Technical Assistance 
+ 
+• RSA advised DRS to report the appropriate type of exit. RSA clarified that the agency 
+must ensure that VR counselors and other personnel are knowledgeable about all exit 
+types and reasons for exit options available in the RSA-911.  
+• RSA explained the role of the statistical adjustment model in performance assessment 
+and emphasized the importance of accurate data reporting, including barriers to 
+employment, enrollment data, outcome data, and service provision data, to RSA for a 
+more precise estimate of DRS performance.  
+• RSA advised DRS to develop written policies and procedures that outline DRS’ quality 
+assurance process to verify the accuracy, validity, and reliability of data.   
+ 
+Recommendations 
+ 
+• DRS should collaborate with the Illinois Department of Innovation and Technology to 
+ensure its CMS accurately captures all RSA-911 data elements. DRS should also conduct 
+a full data mapping review to ensure all required RSA-911 data elements are accurately 
+matched and integrated into its system. 
+• DRS should develop and implement a formal definition for the ‘all other reasons’ exit 
+code. Establishing a clear and consistent definition will help ensure accurate reporting, 
+reduce ambiguity for staff, and improve the overall quality of the agency’s data.   
+• DRS should provide regular training for VR counselors and staff to ensure they input data 
+correctly and select the appropriate options in the CMS. Additionally, DRS should 
+conduct regular quality assurance reviews to identify and correct any discrepancies.  
+ 
+Participant Attrition 
+ 
+The number of participants who exited at various stages of the VR process included 9,534 
+participants in PY 2020, 12,305 participants in PY 2021, and 11,672 participants in PY 2022. 
+The percentage of participants exiting the VR program after eligibility determination before an 
+IPE fluctuated over the three-year period from 6.9 percent in PY 2020 to 5.9 percent in PY 2021 
+and 6.0 percent in PY 2022. Data also show the percentage of participants exiting after an IPE 
+without an employment outcome increased from 41.6 percent in PY 2020 to 44.9 percent in PY 
+2021 and 42.2 percent in PY 2022. The reasons for exit across PYs 2020, 2021, and 2022 
+included: “unable to locate” (26.0 percent, 27.9 percent, and 28.6 percent, respectively); “no 
+longer interested in receiving services or further services” (21.6 percent, 22.3 percent, and 21.7 
+percent, respectively); and all other reasons (9.1 percent, 8.7 percent, and 9.0 percent, 
+respectively). 
+ 
+These trends highlight areas where DRS’ performance can improve. Many participants are 
+exiting the VR program without achieving employment outcomes, raising concerns about the 
+agency’s ability to engage and retain participants effectively throughout the VR process.
+
+12 
+Additionally, high exit rates for reasons such as ‘unable to locate’ and ‘no longer interested in 
+receiving services’ suggest opportunities to strengthen case management practices, participant 
+engagement strategies, and service delivery. Addressing these issues will help reduce premature 
+exits and improve participant outcomes while ultimately enhancing DRS’ overall performance.  
+ 
+DRS staff attributed premature exits to the agency’s increased focus on youth with disabilities, 
+resulting in less engagement with other participants, particularly adults, and noted that DRS’ 
+financial needs policy discourages continued participation in training services. For instance, the 
+agency’s policy allowed the financial needs assessment to be waived for participants pursuing a 
+community college degree; however, those choosing to continue toward a bachelor’s degree 
+were unable to continue services because they could not meet their financial participation 
+requirements. DRS’ quality assurance team plans to review closed case files to identify common 
+themes to inform targeted training to VR counselors. 
+ 
+Technical Assistance: 
+ 
+• RSA informed DRS that studying attrition rates can provide valuable insights into 
+mitigating participant attrition and improving the overall effectiveness of the VR 
+program. Studying attrition can help to identify which groups of participants (e.g., 
+students with disabilities) are most at risk of exiting the VR program. DRS can target 
+those participants for extra support or address systemic issues through policy and 
+procedural revisions.
+ Additionally, DRS can support VR counselors and other frontline 
+staff by removing, revising, or restructuring burdensome policies, practices, or alignment 
+of staff duties that may inhibit timely engagement and meaningful interactions with VR 
+program participants while continuing to maintain necessary internal controls. One 
+example may be eliminating the initial and annual assessment of financial need to 
+determine participant costs in allowable services. 
+• RSA encouraged the agency to refer to RSA-TAC-24-01
+ for more information on 
+promoting meaningful and sustained engagement of individuals with disabilities in the 
+State VR services program. 
+Recommendations 
+ 
+• RSA recommends that DRS engage with stakeholders to gather opinions from individuals 
+with specialized expertise regarding the problems and needs of VR participants. These 
+stakeholders can include human service professionals, advocates, or anyone who works 
+closely with VR participants, such as family members, VR counselors, social workers, 
+community rehabilitation providers, teachers, or parents/guardians.  
+• DRS should develop and strengthen its participant contact policies and procedures, which 
+may minimize case closures and reengage participants in the VR process.  
+VR Program Staff Recruitment and Hiring  
+The Illinois Department of Central Management Services, Bureau of Personnel, is responsible 
+for hiring DRS personnel. DRS submits vacancy announcements to Central Management 
+Services, which posts the jobs, reviews applications, and resumes through an online system, and
+
+13 
+selects personnel with an assigned start date. The agency confirmed that the VR counselor 
+attrition rate was 26.13 percent in 2022, 6.6 percent in 2023, and 6.1 percent in 2024 (at the time 
+of the review). Additionally, DRS reported that the interview process for VR counselors and 
+coordinators is conducted by Central Management Services, and DRS reported it is not permitted 
+to interview these candidates. District managers expressed concerns that training new staff is 
+challenging because these hires often need a foundational understanding and experience in the 
+VR program. Additionally, DRS reported it is sometimes unaware that someone has been hired 
+until the new employee reports for work. Without being involved in the hiring process, it cannot 
+assess the new hires' backgrounds, strengths, or weaknesses. Consequently, individuals from 
+Central Management Services, who may lack knowledge of the VR program, are making critical 
+hiring decisions.  
+ 
+DRS’ VR counselor attrition rate may be attributed, in part, to the agency’s inability to 
+participate in the interview process. Assessing the timeframe during which the Central 
+Management Services policy was implemented to determine whether there is a correlation 
+between DRS’ lack of involvement in the hiring process and the agency’s VR counselor attrition 
+rate could provide valuable insights into the root cause of staff attrition and inform strategies to 
+improve retention and hiring practices.  
+ 
+Technical Assistance 
+ 
+• The VRTAC-QM developed a training that might assist DRS with hiring practices: 
+Onboarding: Lessons Learned and a Path Forward
+. The training is intended for 
+supervisors and managers in State VR agencies to provide an overview of onboarding for 
+new employees to enhance their knowledge and skills, including methods to prepare new 
+employees to function effectively in their new roles. The VRTAC-QM also compiled a 
+collection of 
+recruitment and retention strategies and resources from VR programs and 
+other stakeholders from various sources.   
+ 
+Recommendations 
+ 
+• DRS should offer to provide Central Management Services personnel with talent 
+alignment training that focuses on identifying VR specific competencies (e.g., 
+foundations in rehabilitation counseling, core functions of a VR counselor, and 
+employment services for individuals with disabilities).  
+• DRS should track key hiring data trends, including attrition rates, reasons for turnover, 
+and performance of new hires, and regularly submit these insights to Central 
+Management Services to inform its hiring process. For example, data might show that 
+specific skills or backgrounds should be prioritized when hiring future candidates, which 
+could improve retention and performance.  
+• DRS should consider providing tools and resources for mentorship programs where 
+experienced VR counselors and supervisors guide new hires through initial stages of their 
+roles. DRS should research if incentives are available for this activity (e.g., financial, 
+workplace flexibility, time-off, or career advancement opportunities). Additionally, DRS 
+should assess new hire training and, if needed, develop curriculum to address areas where 
+support may be lacking.
+
+14 
+• DRS should survey current staff about staff attrition, as this can be a helpful way to 
+gather information and feedback on why employees are leaving the agency and help 
+identify areas where improvements can be made. 
+ 
+C. FINDINGS AND CORRECTIVE ACTIONS 
+ 
+RSA’s review of the performance of DRS identified the following findings and the 
+corresponding corrective actions regarding inconsistencies and areas of non-compliance with 
+Federal requirements within the scope of this targeted focus area. RSA did not conduct an 
+exhaustive review of all potential areas of non-compliance outside the scope of this focused 
+review. Within 45 days of issuance of the final monitoring report, DRS will submit to RSA for 
+approval a corrective action plan (CAP), including specific action steps, timelines, and evidence 
+to demonstrate resolution of the finding. If DRS fails to take the necessary corrective actions 
+specified in the approved CAP, RSA reserves the right to take additional enforcement actions 
+pursuant to 34 C.F.R. Part 81 and 2 C.F.R. § 200.339. 
+ 
+Finding 2.1 Insufficient Reporting of Pre-Employment Transition Services 
+ 
+Issue: Does DRS report accurate data to RSA regarding students with disabilities receiving pre-
+employment transition services in accordance with Sections 13, 14, 101(a)(10) and 113 of the 
+Rehabilitation Act and 34 C.F.R. § 361.40(a). 
+ 
+Requirement: A State VR agency must assure, in the VR services portion of the Unified or 
+Combined State Plan, that it will employ methods of administration that ensure the proper and 
+efficient administration of the VR program. 2 C.F.R. § 200.303 requires that VR agencies 
+develop an internal controls process to provide a reasonable assurance regarding the achievement 
+of objectives in the effectiveness and efficiency of operations, and reliability of reporting for 
+internal and external use; and that this process is established and implemented as a measure of 
+checks and balances to ensure proper expenditures of funds, including the evaluation and 
+monitoring of compliance with statutes, regulations and the terms and conditions of Federal 
+awards. 
+ 
+Analysis: RSA found that DRS has not developed comprehensive policies, procedures, and 
+internal controls to facilitate the accurate tracking and reporting of required pre-employment 
+transition services and coordination activities. RSA could not determine how the agency verifies 
+whether students receive appropriate services from STEP and Fast Track contractors, as there 
+appears to be an ineffective mechanism to ensure service provision before agency payment. DRS 
+vendors have access to the agency’s CMS and enter case notes, which automatically generate 
+billings that are subsequently paid by the VR counselor. DRS indicated no other mechanisms to 
+ensure contractors deliver and students engage in reported pre-employment transition services. 
+DRS indicated that it generally trusts contractors to fulfill service delivery obligations.  
+ 
+Additionally, RSA noted the misclassification of work-based learning experiences as on-the-job 
+training (OJT) in the STEP and Fast Track contracts and RSA-911 reporting. RSA inquired 
+about the high number of OJTs (5,385 OJTs reported in PY 2020, 6,004 in PY 2021, and 4,406 
+in PY 2022). DRS reported that work-based learning experiences were misclassified as OJTs.
+
+15 
+The STEP contracts referenced OJTs and, according to staff, contributed to the miscoding of this 
+data element in the agency’s CMS.  
+ 
+DRS also did not report any VR agency staff provided pre-employment transition services on the 
+RSA-911, only services purchased through vendors. The agency reported that its CMS lacks a 
+mechanism to track and report direct staff time spent on pre-employment transitions services. 
+Further, during the case record review, RSA identified inaccuracies in the reporting of RSA-911 
+data, including vendor type and expenditure of funds. RSA informed DRS that robust processes 
+and internal controls are necessary to ensure accurate reporting and to identify data anomalies 
+related to the RSA-911, including those concerning the provision of pre-employment transition 
+services. 
+ 
+Conclusion: In accordance with 34 C.F.R. § 361.12, DRS does not implement internal controls 
+and policies and procedures that ensure the proper and efficient administration of the VR 
+program, including those necessary to carry out all functions for which the VR agency is 
+responsible. In accordance with Section 101(a)(10) (C) and 34 C.F.R. § 361.40, DRS is unable to 
+ensure that it is submitting accurate and verifiable reports in the form and level of detail required 
+for students receiving pre-employment transition services. Based on the review of DRS’ existing 
+policies, procedures, and internal controls related to pre-employment transition services, RSA 
+determined that DRS was not in compliance with the requirements in 34 C.F.R. § 361.12 or 2 
+C.F.R. § 200.303. 
+ 
+Corrective Actions 2.1 RSA requires that DRS—  
+2.1.1  Within two quarters of issuance of the final report, DRS must update its CMS  to track 
+and report direct staff time spent on pre-employment transitions services, including 
+authorized and coordination activities. 
+2.1.2
+ Within two quarters of issuance of the final report, update policies, procedures, and 
+internal controls, including a monitoring component, to ensure the correct coding, 
+tracking, and reporting of pre-employment transition services, whether VR-provided or 
+through contracted services; 
+2.1.3 Within two quarters of issuance of the final report, update the agency’s pre-employment 
+transition service policy to be consistent with updates located in RSA’s Notice of 
+Interpretation (NOI) on Pre-Employment Transition Services Flexibility Regarding the 
+Use of Federal Vocational Rehabilitation Funds; and  
+ 
+VR Agency Response: DRS agrees with the finding.  
+ 
+2.1.1 To track the services performed by direct staff, DRS will identify the type of service as well 
+as the provider type in its electronic CMS within two quarters of issuance of the final report. 
+DRS will clarify what is counted and give examples, using a job aid to illustrate how to 
+accurately report the information in the CMS. The job aid will provide examples that 
+specify how a particular service would be counted. DRS does not currently report hours 
+and time spent engaged in an activity, but this change will be made to capture these 
+timekeeping functions.
+
+16 
+2.1.2 Contracted pre-employment transition services are being revised. Policies, procedures, and 
+internal controls, including a monitoring component will be updated to reflect the changes 
+made. DRS will track and collect timesheets, certify time reports, and conduct additional 
+checks through the local DRS offices. A job aid has been developed to indicate time that 
+is considered for match and when it is a service that can be billed against the contract. 
+Also, a student sign-in will substantiate the provision of the pre-employment transition 
+services provided. Counselors review the billing monthly and communicate with 
+providers about the customers being billed. Review of documents submitted, including 
+paycheck stubs and wage verification will be included in the monthly review. There will 
+be an in-person visit annually to each contract provider by the DRS local office. 
+Additionally, the contract advisor will conduct an in-person visit annually to review the 
+service delivery. This will coincide with one of the quarterly reviews.  
+2.1.3 As the provider contracts are being updated, language is being added to build in additional 
+internal controls of the expenditures. DRS is changing how services are tracked and 
+deliverables are being expanded to include knowledge checks for the provision of the 
+pre-employment transition services. DRS will utilize NTACT:C as a resource to fold in 
+the established criteria in the NOI. 
+ 
+VR Agency Request for Technical Assistance: No technical assistance is requested.  
+ 
+Finding 2.2 Statewide Availability of Pre-Employment Transition Services 
+ 
+Issue: Does DRS ensure the availability of pre-employment transition services to both eligible 
+and potentially eligible students with disabilities throughout the State of Illinois. 
+ 
+Requirement: Section 113 of the Rehabilitation Act and its implementing regulations in 34 
+C.F.R. § 361.48(a)(1) require the designated State unit to make pre-employment transition 
+services available statewide to all students with disabilities regardless of whether the student has 
+applied or been determined eligible for VR services. 
+ 
+Analysis: DRS provides the majority of pre-employment transition services through STEP and 
+Fast Track contracts. STEP contractors consist of local school districts and only provide services 
+to students with disabilities who are determined eligible for services, and who have an IPE in 
+place. CILs provide pre-employment transition services to potentially eligible students through 
+Fast Track contracts. Students enrolled in Fast Track programs have a designated indicator 
+within the CMS identifying them as potentially eligible.  
+ 
+During the review, DRS acknowledged service gaps in some regions of the State and provided 
+RSA with a spreadsheet detailing service availability. According to the spreadsheet, Fast Track 
+services are available in 60 of the 102 counties in Illinois, and STEP contracted services are 
+available in 94 of the 102 counties. DRS staff reported that in areas of the State where STEP or 
+Fast Track contracts are not in place, services are provided by the VR counselor. However, 
+during the period of review, DRS did not report any VR-provided pre-employment transition 
+services on the RSA-911 and the agency’s CMS does not track and report direct staff time spent 
+on pre-employment transition services and coordination activities.
+
+17 
+Conclusion: RSA has determined that DRS has failed to meet the requirement at 34 C.F.R.  
+§ 361.48(a)(1) to make pre-employment transition services available statewide based on data 
+reported to RSA and how DRS has operationalized service delivery across the State.  
+ 
+Corrective Actions 2.2 RSA requires that DRS— 
+ 
+2.2.1
+ Within two quarters of issuance of the final report, evaluate and develop a plan to address 
+system limitations to ensure that each pre-employment transition service provided to and 
+expenditure for each student in receipt of such service is reported, regardless of whether 
+services are purchased or provided directly by DRS staff; 
+2.2.2 
+ Within two quarters of issuance of the final report, develop and implement policies and 
+procedures to ensure that pre-employment transition services are adequately available, 
+captured, and reported statewide in counties with and without STEP or Fast Track 
+contracts in place; and 
+ 
+VR Agency Response: DRS agrees with the finding.  
+ 
+2.2.1 Currently, there are efforts underway in the CMS to allow DRS to serve potentially eligible 
+customers. Contracts have additional tracking of service provisions and receipts built 
+in. Sign-in sheets, whether under a contract or in-house, will verify that the service was 
+provided and by whom. 
+2.2.2 To address the three counties that are not currently receiving services, customers could be 
+identified as Transition, Non-STEP customers and the DRS VR counselor would provide 
+pre-employment transition services. DRS is looking at expanding Fast Track services to 
+potentially eligible customers at colleges and universities, as well as providing in-house 
+services. This would expand the availability of services. The goal is to find providers in 
+the areas lacking services, but until that time, the DRS will increase the in-house 
+provision of services available. For statewideness, DRS has begun the work to expand the 
+range of areas covered statewide under contracts and is identifying colleges and other 
+providers to offer pre-employment transition services. All Transition, Non-STEP 
+customers receive services through in-house delivery only. If a school is interested in 
+participating, then we would offer a contract instead. For the Transition, Non-STEP 
+customer, there would be a structured program that the field delivers based on the needs 
+of the student.  
+ 
+VR Agency Request for Technical Assistance: No technical assistance is requested.  
+ 
+Finding 2.3 Insufficient Data Validation  
+ 
+Issue: Does DRS maintain effective management of the Federal award to provide a reasonable 
+assurance that it was managing the Federal award in compliance with Federal statutes, 
+regulations, and the terms and conditions of the award in accordance with 2 C.F.R. § 200.303 
+and the requirements at 34 C.F.R. § 361.47(a), Section 116 of WIOA, and Section 12 of the 
+Rehabilitation Act.
+
+18 
+Requirement: Pursuant to 2 C.F.R. § 200.303, State VR agencies are required to develop an 
+internal controls process to provide reasonable assurances regarding the effectiveness and 
+efficiency of operations, reliability of reporting for internal and external use, and implemented as 
+a measure of checks and balances to ensure proper expenditure of funds, including the 
+evaluation, and monitoring of compliance with statutes, regulations, and the terms and conditions 
+of Federal awards. Furthermore, a State VR agency must assure, in the VR services portion of 
+the Unified or Combined State Plan, that it will employ methods of administration that ensure the 
+proper and efficient administration of the VR program. Specifically, 2 C.F.R. § 200.303 requires 
+a non-Federal entity to—  
+ 
+• Establish and maintain effective internal control over the Federal award that provides 
+reasonable assurance that the non-Federal entity is managing the Federal award in 
+compliance with Federal statutes, regulations, and the terms and conditions of the Federal 
+award. These internal controls should comply with guidance in Standards for Internal 
+Control in the Federal Government issued by the Comptroller General of the United 
+States and the Internal Control Integrated Framework issued by the Committee of 
+Sponsoring Organizations of the Treadway Commission (COSO);  
+• Comply with Federal statutes, regulations, and the terms and conditions of the Federal 
+awards; 
+• Evaluate and monitor the non-Federal entity’s compliance with statutes, regulations, and 
+the terms and conditions of Federal awards; and 
+• Take prompt action when instances of non-compliance are identified, including 
+noncompliance identified in audit findings. 
+ 
+An internal control deficiency would exist when the design or operation of a control does not 
+allow management or employees, in the normal course of performing their assigned functions, to 
+prevent or correct processes that might lead to non-compliance with Federal and State 
+requirements.  
+ 
+Pursuant to 34 C.F.R. § 361.47(a), VR agencies must maintain for each applicant and eligible 
+individual a record of services that includes, to the extent pertinent, documentation including, but 
+not limited to, the individual’s application for VR services, the individual’s IPE, and information 
+related to closing the service record of an individual who achieves an employment outcome. The 
+record of service must allow for accurate and timely data reports pursuant to 34 C.F.R. § 361.40 
+and meet the performance accountability provisions described in Section 116(b) of WIOA. 
+ 
+Analysis: As previously discussed, DRS lacks procedures and internal controls that may have 
+contributed to the agency’s inaccuracies in reported services. RSA reviewed 10 service records 
+for which MSG and/or credential attainment were reported from PY 2022, including two cases 
+with participants in secondary education, two with participants in postsecondary education, and 
+one involving a participant in both secondary and post-secondary education. Additionally, the 
+RSA team reviewed ten pre-employment transition services cases. RSA found the following 
+issues during the case service record review: (a) insufficient supporting documentation to verify 
+MSG and credential attainment; (b) inconsistent reporting of MSG dates; (c) incorrect coding of 
+pre-employment transition services provider types; and (d) incorrect expenditure reporting of 
+pre-employment transition services funds to the RSA-911.
+
+19 
+Furthermore, DRS had no written policies and procedures for data collection, validation, and 
+reporting of specific data elements for Section 116 of WIOA or internal controls for data 
+collection, validation, and reporting of data elements to the RSA-911. The Illinois Department of 
+Innovation and Technology is responsible for maintaining the mapping and coding of DRS’ 
+CMS and is integral to maintaining data accuracy and correcting coding issues or gaps to ensure 
+proper collection and recording of VR services as described in 
+RSA-TAC-19-01; however, no 
+internal controls or processes were identified. 
+ 
+Conclusion: DRS did not maintain effective management of the Federal award to provide a 
+reasonable assurance that it was managing the Federal award in compliance with Federal 
+statutes, regulations, and the terms and conditions of the award in accordance with 2 C.F.R  
+§ 200.303 and the requirements at 34 C.F.R. § 361.47(a), Section 116 of WIOA, and Section 12 
+of the Rehabilitation Act. 
+ 
+Corrective Action 2.3: RSA requires that DRS— 
+  
+2.3.1  Within two quarters of issuance of the final report, develop and implement internal 
+control processes to ensure that the provisions of 34 C.F.R. § 361.47 have been met, and 
+through service record documentation, the requirements at 34 C.F.R. § 361.40 and RSA- 
+TAC17-01, RSA-TAC-17-04, and RSA-TAC-19-01 for the accurate reporting of its data 
+are met. This also involves developing policies, procedures, and internal controls in 
+collaboration with the Illinois Department of Innovation and Technology to ensure data 
+accuracy and address coding issues or gaps; 
+2.3.2 Within two quarters of issuance of the final report, develop and implement an internal 
+control process to ensure data validity related to Section 116 of WIOA, specifically 
+Employment Rate—Second Quarter After Exit, Employment Rate—Fourth Quarter After 
+Exit, Median Earnings, Credential Attainment, MSG, and the Effectiveness in Serving 
+Employers; 
+2.3.3  Within two quarters of issuance of the final report, develop mechanisms to collect and 
+aggregate the results of these processes, including a quality assurance process and case 
+review tool, and use the results to inform necessary training and evaluation of staff;  
+2.3.4 Within three quarters of issuance of the final report, assess the effectiveness of the 
+policies and procedures governing DRS’ internal control procedures to ensure 
+compliance and the accurate reporting of data; and 
+ 
+VR Agency Response: DRS agrees with the finding.  
+ 
+2.3.1  Within two quarters of issuance of the final report, the DRS data team will work with the 
+Illinois Department of Innovation and Technology team to ensure changes made to the 
+CMS provide for the validation of all required documentation related to a customer’s 
+service record, and for all performance and accountability related collection. The DRS 
+data team will work with the Illinois Department of Innovation and Technology team to 
+ensure the data elements and case service record documentations required under 34 
+C.F.R. § 361.47, 34 C.F.R. § 361.40, RSA- TAC17-01, RSA-TAC-17-04, and RSA-
+TAC-19-01 are coded in a manner that ensures the validity of inputted elements, and in a 
+manner that allows for regular performance monitoring activities by DRS management.
+
+20 
+These corrections will be based on written policies, practices, and procedures in a manner 
+congruent with staff training. CMS changes will ensure staff inputs. Controls, internally 
+referred to as “business rules,” will be added to all inputs related to RSA-911 data 
+elements to remove ambiguity, generality, and incongruence of terminology. This will 
+ensure internal data analysis matches the language of the RSA-911, aiding management 
+in effective oversight. 
+2.3.2 Within two quarters of issuance of the final report, DRS will develop and implement an 
+internal control process to ensure data validity related to Section 116 of WIOA, 
+specifically Employment Rate—Second Quarter After Exit, Employment Rate —Fourth 
+Quarter After Exit, Median Earnings, Credential Attainment, MSG, and the Effectiveness 
+in Serving Employers. DRS will implement policy that details exactly what 
+documentation is acceptable for WIOA performance indicators. DRS will work with 
+Illinois Department of Innovation and Technology to code the CMS so that documented 
+proof can be uploaded to the digital case file to allow for a quality assurance (QA) review 
+of appropriate documentation. Performance screens will be updated to remove ambiguity 
+and confusion in processing customers that should be counted in the denominator for 
+these metrics and included in the wage data reporting. Documentation required will be 
+attached through business rules, so case input progress is dependent upon the required 
+proof. Business rules will steer staff towards collection of elements once preset 
+conditions are met. Relevant DRS teams will collaborate and share information in a 
+manner that ensures these changes are reflected in policy, training, and quality assurance 
+activities.  
+2.3.3 Within two quarters of final report’s release, the QA survey tool will be updated based on 
+RSA feedback. To ensure consistency and compliance, internal controls (such as 
+implementing a rubric and resuming hard case file reviews) will be used. Hard case file 
+reviews resumed in December 2024. The DRS QA team will maintain ongoing feedback 
+on trends and deficiencies and will continue collaborating with relevant staff on a 
+monthly basis. Additionally, the DRS QA team will distribute data on a quarterly and 
+annual basis.  
+2.3.4 Within three quarters of issuance of the final report, DRS will assess the effectiveness of 
+the policies and procedures governing DRS’ internal control procedures to ensure 
+compliance and the accurate reporting of data. DRS data team lead will receive each 
+quarterly RSA-911 file simultaneously with RSA and will immediately analyze the data 
+to ensure procedures implemented have resulted in the expected improvements. These 
+findings will inform additional training and policy remediation activities. Data team 
+members will work with weekly and monthly internal reports to ensure DRS leadership is 
+aware of progress and inadequacies related to these objectives and general service 
+success. Additional Illinois Department of Innovation and Technology cooperative 
+corrections will be implemented as inadequacies are noted. 
+ 
+VR Agency Request for Technical Assistance: No technical assistance requested.
+
+21 
+SECTION 3: FOCUS AREA – FINANCIAL MANAGEMENT OF THE STATE 
+VOCATIONAL REHABILITATION SERVICES AND STATE SUPPORTED 
+EMPLOYMENT SERVICES PROGRAMS  
+A. Purpose 
+Through this focus area RSA assessed the financial management and fiscal accountability of the 
+VR and Supported Employment programs to ensure that: funds were being used only for 
+intended purposes; there were sound internal controls and reliable reporting systems; that 
+available resources were maximized for program needs; and funds supported the achievement of 
+competitive integrated employment for individuals with disabilities, including those with the 
+most significant disabilities, and the needs of students with disabilities for pre-employment 
+transition services.  
+B. Scope Of Financial Management Review And Performance Analysis 
+The effective and efficient fiscal administration of the VR and Supported Employment programs 
+is essential to the ability of a VR agency to maximize the funds available for attainment of 
+employment outcomes for individuals with disabilities. RSA reviewed components of DRS’ 
+financial management system and assessed the fiscal accountability of the programs to—  
+• Ensure funds are obligated and expended in accordance with State and Federal 
+requirements and used only for allowable purposes;  
+• Ensure programs have sound internal controls and reliable reporting systems;  
+• Identify needed improvements in fiscal policy, processes, and procedures to maximize 
+the use of Federal funds to benefit VR participants and students with disabilities; and,  
+• Ensure a relative benefit to the VR system is proportional to the expenditure (e.g., 
+contracts, one-stops, indirect cost rates, cost allocation plans, etc.). 
+ 
+RSA reviewed the use and expenditure of Federal funds to assist DRS in minimizing the return 
+of funds for reallotment and/or the return of unused funds at the end of the period of performance 
+for the award. Therefore, the scope of this focus area is primarily on the financial management 
+and operations that impact the use of or return of Federal funds. 
+DRS did not relinquish or request reallotment funds during the period under review or in the 
+years preceding it going back to at least FFY 2016. In FFYs 2020 through 2022, DRS expended 
+the same percentages of its net and formula award amounts each year, with 99 percent in 2020, 
+and 100 percent in both 2021 and 2022.  
+While these data suggest DRS expended all or nearly all Federal share the VR program made 
+available to Illinois each year, the findings below call into question the integrity and accuracy of 
+the relevant data DRS reported. For example, as the findings in this focus area explain, DRS 
+derived much of the non-Federal share it reported as meeting VR program match from personnel 
+expenditures third-party cooperative arrangements (TPCA) partners self-reported, with little
+
+22 
+oversight or verification by DRS, and without administrative supervision as DRS is required to 
+impart through its certification of TPCA personnel expenditures reported as VR program match.  
+RSA reviewed the following areas related to financial management and accountability: 
+Period of Performance  
+RSA reviewed accounting reports provided by DRS for the monitoring period for compliance 
+with period of performance requirements and noted instances of significant non-compliance. 
+RSA’s review, analysis and conclusions are detailed in the “Findings and Corrective Actions” 
+portion of this report. 
+VR Program Match  
+VR program regulations require the State to incur a portion of expenditures under the VR 
+services portion of the Unified or Combined State Plan from non-Federal funds to meet its cost 
+sharing requirements (34 C.F.R. § 361.60). The required Federal share for expenditures made by 
+the State, including expenditures for the provision of VR services and the administration of the 
+VR services portion of the Unified or Combined State Plan, is 78.7 percent. The State’s share is 
+21.3 percent. RSA assessed DRS performance in meeting the matching requirements for the VR 
+program, including the extent to which the matching level was met, and the Federal funds 
+matched were expended, as well as whether the sources of match were consistent with Federal 
+requirements and any applicable maintenance of effort (MOE) issues. 
+ 
+RSA addressed requirements pertaining to the following sources of non-Federal share used by 
+the State as match for the VR program:  
+ 
+• State appropriations and interagency transfers; 
+• Third-party cooperative arrangements; and 
+• Randolph-Sheppard expenditures. 
+DRS relies heavily on TPCAs to satisfy its non-Federal share requirements, which generate 
+around half of DVR’s total reported non-Federal share year to year. 
+DRS consistently reported having met VR matching requirements since at least FFY 2018. DRS 
+reported having exceeded their required match by 2 percent in FFY 2020; by 1 percent in FFY 
+2021 and by 3 percent in FFY 2022. DRS did not request reallotment funding during the period 
+under review, but it has done so for its FFY 2024 VR award. 
+ 
+As noted above and as further explained in the “Findings and Corrective Actions” portion of this 
+focus area, RSA is concerned that given DRS’ substantial reliance on non-Federal share 
+generated from its TPCAs, and the lack of required administrative supervision from DRS over 
+third-party cooperating partner self-reported personnel expenditure data DRS used as match for 
+the VR program without certifying those expenditures, up to half of all match DRS reported may 
+fall short of requirements for the allowable use of non-Federal share.
+
+23 
+Below is a summary of technical assistance and recommendations RSA provided DRS on the 
+topic of VR program match during RSA’s review.  
+ 
+Technical Assistance  
+• TAC-23-01
+ Allowable Sources of Non-Federal Share for the VR Program. This 
+Technical Assistance Circular (TAC) updated and replaced RSA-TAC-11-02: Sources of 
+Non-Federal Share for the Vocational Rehabilitation Program, previously issued on 
+August 16, 2011. Significantly, TAC-23-01 retained information regarding requirements 
+for VR agencies for TPCA generation of match through certified personnel expenditures. 
+TAC-23-01 clarifies requirements for match generated through TPCAs, including that the 
+VR agency must maintain administrative supervision over the program expenditures and 
+the personnel providing the services (34 C.F.R. § 361.28(a)(3)), and the use of certified 
+personnel expenditures including salary and fringe benefits for the portion of cooperating 
+agency staff time spent directly providing VR services under the arrangement (34 C.F.R. 
+§ 361.28(c)(2)). 
+• TAC-24-05 Using Third-Party Cooperative Arrangements with Local Educational 
+Agencies for Providing Pre-Employment Transition Services to Students with Disabilities 
+under the VR Program. RSA issued this TAC just after the end of its on-site review of 
+DRS. TAC-24-05 provides in-depth detail regarding requirements for VR agency use of 
+TPCAs in generating allowable VR program match. However, the basis for, and rules 
+regarding, requirements for certifying personnel expenditures under TPCAs for use as 
+match remain unchanged from RSA-TAC-11-02: Sources of Non-Federal Share for the 
+Vocational Rehabilitation Program issued August 16, 2011. 
+Recommendations 
+• DRS should take immediate measures to cease using TPCA self-reported personnel 
+expenditures as VR program match in the absence of DRS certifying such expenditures in 
+a manner consistent with program requirements. 
+• RSA recommends that DRS begin pre- and initial planning for the broad scope of 
+changes DRS will be required to undergo to bring the agency into compliance with rules 
+regarding how it monitors vendors and administers contracts, and in contemplation of its 
+need to expand and overhaul internal control activities agency staff carry out at all levels 
+of DRS responsibility and organization. This requires management thinking through 
+interim processes that will be needed to identify specific operational changes necessary to 
+implement new and improved processes and new management expectations regarding 
+staff responsibilities, including training that will be required to support staff in 
+successfully understanding and being able to carry out the enhanced scope of their duties 
+and to meet new management expectations for performance.  
+• The agency also will need to establish the specific required administrative supervision 
+over TPCAs it uses to generate and report VR program match and deliver pre-
+employment transition services.
+
+24 
+Supported Employment Program Match 
+ 
+RSA assessed the matching requirements for the Supported Employment program, including an 
+assessment of whether the matching level was met, as well as whether the sources of the match 
+were consistent with Federal requirements. 
+In FFYs 2020 through 2022, DRS reported having matched and expended 100 percent of its SE-
+A and SE-B awards. 
+Pre-Employment Transition Services Reservation and Expenditure of Funds 
+ 
+Section 101(a)(25) of the Rehabilitation Act requires State VR agencies to assure in their Unified 
+or Combined State Plan, with respect to students with disabilities, that the State has developed 
+and implemented strategies to—   
+ 
+• Address the needs identified in the assessments described in Section 101(a)(15) of the 
+Rehabilitation Act; and  
+• Achieve the goals and priorities identified by the State in accordance with Section 
+101(a)(15) of the Rehabilitation Act to improve and expand VR services for students with 
+disabilities on a statewide basis; and provide pre-employment transition services. 
+ 
+“Pre-employment transition services,” as defined at Section 7(30) of the Rehabilitation Act, 
+“means services provided in accordance with Section 113.” Section 113(a) of the Rehabilitation 
+Act requires the State to ensure it will use the funds reserved under Section 110(d)(1) of the 
+Rehabilitation Act to provide, or arrange for the provision of, pre-employment transition services 
+to students with disabilities. Section 110(d)(1) of the Rehabilitation Act establishes the 15 
+percent minimum reservation requirement for the State from its VR allotment.  
+Together, Sections 7(30), 101(a)(25), 110(d)(1), and 113 of the Rehabilitation Act create the 
+statutory basis for the State Plan provisions governing pre-employment transition services.  
+Early career exploration through pre-employment transition services increases the likelihood of 
+students with disabilities achieving high-quality competitive integrated employment. RSA 
+explored the use of funds for the provision of pre-employment transition services and the extent 
+to which DRS is meeting the State required reservation and expenditure of at least 15 percent of 
+its matched Federal VR grant funds. 
+Between FFYs 2018 and 2022, DRS reported falling short once in FFY 2020 of meeting its 
+requirement to reserve and expend at least 15 percent of its matched Federal funds. DRS reported 
+having expended the following percentages of its Federal share for pre-employment transition 
+services: FFY 2020: 14.5 percent; FFY 2021: 21.9 percent; and FFY 2022: 19.4 percent.  
+With similar regard to the extent of Federal expenditures DRS made during the period under 
+review, reported data regarding pre-employment transition services expenditures suggests DRS 
+expended pre-employment transition services expenditures averaging well above the required 15 
+percent during the review period. However, for the reasons noted above and as further explained 
+in the findings area of this critical element, RSA has concerns regarding the veracity and
+
+25 
+integrity of the information DRS has reported to this end. See the above section on VR Program 
+Match for relevant discussion of technical assistance and recommendations.  
+ 
+Internal Controls and Policies 
+ 
+Internal controls means a process, implemented by the grantee, designed to provide reasonable 
+assurance regarding the achievement of objectives in the effectiveness and efficiency of 
+operations, reliability of reporting for internal and external use, and compliance with applicable 
+laws and regulations. Internal controls serve to safeguard assets and prevent fraud, waste, abuse, 
+improper payments, and mismanagement. They include methods and procedures the grantee uses 
+to manage the day-to-day operations of grant-supported activities to assure compliance with 
+applicable Federal requirements and that performance goals are being achieved. The VR 
+agency’s internal controls for ensuring compliance with fiscal requirements will be a core 
+component of the financial management system review, particularly as they relate to the VR 
+agency’s use of Federal funds, including the required reservation of funds for pre-employment 
+transition services, and the requirements for non-Federal match. The Federal fiscal requirements 
+referenced during the review include—  
+ 
+• Rehabilitation Act and VR and Supported Employment program implementing 
+regulations in 34 C.F.R. part 361 and 34 C.F.R. part 363, respectively;  
+• Uniform Administrative Requirements, Cost Principles, and Audit Requirements for 
+Federal Awards (Uniform Guidance) located in 2 C.F.R. part 200;  
+• Education Department General Administrative Regulations (EDGAR) in 34 C.F.R. part 
+76;  
+• Departmental and RSA guidance, including Policy Directives (PDs), Technical 
+Assistance Circulars (TACs), Grant Bulletins, Frequently Asked Questions (FAQ), etc.; 
+and  
+• Grant Award terms and conditions. 
+ 
+Per the requirements, DRS must develop and implement policies, procedures, and internal 
+controls to ensure effective management and control over VR and SE funds. The controls must 
+address Federal reporting, administration of program income funds, period of performance, and 
+contract management. 
+RSA reviewed internal controls, policies, and practices related to the financial management of 
+the VR and Supported Employment programs. RSA’s analysis and conclusions are detailed in 
+the “Findings and Corrective Actions” portion of this report. 
+ 
+RSA is concerned regarding the serious nature of the period of performance and non-Federal 
+share findings below. Because of these issues, RSA was unable to determine whether DRS met 
+the core financial requirements for the VR award (e.g., match, maintenance of effort, carryover, 
+pre-employment transition service expenditures).
+
+26 
+C. Findings and Corrective Actions 
+RSA’s review of the performance of DRS identified the following findings and the 
+corresponding corrective actions regarding inconsistencies and areas of non-compliance with 
+Federal requirements within the scope of this targeted focus area. RSA did not conduct an 
+exhaustive review of all potential areas of non-compliance outside the scope of this focused 
+review. Within 45 days of issuance of the final monitoring report, DRS will submit to RSA for 
+approval a corrective action plan (CAP), including specific action steps, timelines, and evidence 
+to demonstrate resolution of the finding. If DRS fails to take the necessary corrective actions 
+specified in the approved CAP, RSA reserves the right to take additional enforcement actions 
+pursuant to 34 C.F.R. Part 81 and 2 C.F.R. § 200.339. 
+Finding 3.1 Obligations and Expenditures Not Properly Assigned to Correct Period of 
+Performance 
+Issues: Does DRS meet obligation and expenditure requirements in 2 C.F.R. § 200.71 and 34 
+C.F.R. § 76.707. Does DRS assign obligations and expenditures to the correct Federal award in 
+accordance with 34 C.F.R. § 361.12, 2 C.F.R. §§ 200.77, 200.302, 200.303(a), 200.309, and 34 
+C.F.R. § 76.702. 
+Requirement: As a recipient of Federal VR and Supported Employment program funds, DRS 
+must have procedures that ensure the proper and efficient administration of its VR and Supported 
+Employment programs and enable DRS to carry out all required functions, including financial 
+reporting (34 C.F.R. § 361.12). In accordance with the Uniform Guidance in 2 C.F.R.  
+§ 200.302(a), a State’s financial management systems, including records documenting 
+compliance with Federal statutes, regulations, and the terms and conditions of the award, must be 
+sufficient to permit the preparation of reports required by general and program specific terms and 
+conditions; and the tracing of funds to a level of expenditures adequate to establish that such 
+funds have been used according to the Federal statutes, regulations, and the terms and conditions 
+of the Federal award. The Uniform Guidance requires the financial management system of each 
+non-Federal entity to provide for the identification, in its accounts, of all Federal awards received 
+and expended and the Federal programs under which they were received (2 C.F.R. § 200.302(b)). 
+In addition, Education Department General Administrative Regulations (EDGAR) at 34 C.F.R.  
+§ 76.702 require States to use fiscal control and fund accounting procedures that ensure proper 
+disbursement of and accounting for Federal funds. 
+ 
+Each grant award has a defined “period of performance,” which is the time during which the 
+non-Federal entity may incur new obligations to carry out the work authorized under the Federal 
+award (2 C.F.R. § 200.77). A non-Federal entity may only charge to the Federal award allowable 
+costs incurred during the period of performance (2 C.F.R. § 200.309, see also EDGAR 34 C.F.R. 
+§§ 76.703 and 76.709). Recipients must implement internal controls necessary to ensure 
+obligations and expenditures for a Federal award are assigned, tracked, recorded, and reported 
+within the applicable period of performance for that Federal award, thereby ensuring the 
+recipients are managing the award in compliance with Federal requirements (2 C.F.R.  
+§ 200.303(a)). The proper assignment of Federal and non-Federal funds to the correct period of 
+performance is necessary for DRS to correctly account for VR and Supported Employment 
+program funds so that RSA can be assured that the agency has satisfied requirements for, among
+
+27 
+other things, match (34 C.F.R. § 361.60), MOE (34 C.F.R. § 361.62), and the reservation and 
+expenditure of VR funds for the provision of pre-employment transition services (34 C.F.R.  
+§ 361.65(a)(3)).  
+A financial obligation means “orders placed for property and services, contracts and subawards 
+made, and similar transactions during a given period that require payment by the non-Federal 
+entity during the same or a future period." (2 C.F.R. § 200.71). For expenditures to be allowable 
+under the Federal award, agencies must demonstrate that the obligation occurred within the 
+period of performance of the Federal award. EDGAR regulations at 34 C.F.R. § 76.707 explain 
+when a State incurs an obligation for various kinds of services and property. Expenditures must 
+be for payment of actual obligations. Obligations must be charged to a Federal award and must 
+occur within the appropriate period of performance. Therefore, in order to properly account for 
+and liquidate expenditures, recipients must be able to assign an obligation to a Federal award 
+based upon the date the obligation was made (34 C.F.R. §§ 76.703 and 76.709). 
+Analysis: During the review, RSA and DRS discussed the agency’s ability to track and report 
+obligations in its systems. In preparation for the review effort, RSA transmitted a fiscal 
+document request to learn more about the agency’s policies and procedures for the topic areas 
+identified in the MTAG. The document entitled “Section IV Financial Management of the State 
+VR and Supported Employment Programs Period of Performance” contains some period of 
+performance information, but it is incomplete, not organized, and does not identify who is 
+responsible for specific processes and procedures. RSA asked DRS to clearly identify and 
+explain how each expenditure is assigned and DRS staff confirmed that their systems do not 
+allow them to assign expenditures to the correct period of performance. A further review of the 
+responses to the questions, the policies, and the financial data the agency submitted for the 
+period of performance topic area confirmed DRS does not obligate and expend expenditures in 
+compliance with the period of performance requirements. 
+DRS uses multiple systems to manage the grant funding. The systems include a legacy CMS 
+which is separate from the accounting system used by DRS. DRS’ accounting system, Systems 
+Applications and Products (SAP) is different from the accounting system used by the DSA. SAP 
+does have a nightly feed into the DSA’s accounting system. The approved authorizations are 
+housed in the Client Payment Systems (CPS) which go into the “Hub”. DRS cannot confirm 
+whether this is the old Central Accounting Reporting System (CARS). The “Hub” validates the 
+expenditures for the DSA then the information goes to SAP and then is forwarded to the DSA’s 
+comptrollers accounting system. There is no connection between the CPS and the virtual CMS. 
+The SAP version DRS uses does not maintain necessary contract history or capture accurate 
+dates of obligation. While the CMS can record the dates of obligation based on the date of 
+authorization, RSA observed the CPS frequently assigning obligations based on the dates of 
+services provision. RSA is very concerned about this lack of data integrity. The fiscal staff in 
+DRS downloads monthly data about the contracts, but this does not account for any day-to-day 
+changes. The internal controls in place to capture the history appear to be missing (e.g., process 
+for downloading data and who is responsible). 
+While DRS states it has the capacity to track how and when funds are obligated and expended, 
+DRS expressed uncertainty surrounding whether their computerized accounting system has the
+
+28 
+ability to properly identify the appropriate period of performance. RSA asked how DRS verified 
+the data consistency between the CPS and the CMS to ensure DRS accurately assigns 
+expenditures to the correct period of performance. DRS confirmed their system does not allow it 
+to track period of performance requirements nor does it have a written process or procedure for 
+how the systems worked together in compliance with the period of performance requirements. 
+In January 2024, RSA received an email from DRS inquiring about retroactively approving 
+approximately 25 cases in which verbal approvals were used to approve the provision of 
+services. RSA reviewed the request and determined that DRS would be unable to use Federal 
+share to pay for the services since the services were obligated outside the periods of performance 
+of the award to which DRS wanted to assign the expenditures (2 C.F.R. § 200.1 “Period of 
+Performance”). RSA also heard during a meeting with DRS staff on August 6, 2024, that 
+supervisors use verbal understandings as a key component to authorize payment of vendor 
+invoices. RSA advised that verbal authorizations do not meet the Federal requirements. RSA 
+discussed with DRS the need for formalized written policies and procedures for authorizations. 
+As a recipient of Federal funds, DRS must ensure proper stewardship of those funds to protect 
+the Federal interest and ensure funds are used in accordance with Federal and State requirements. 
+Verbal authorizations do not provide the same measure of protection of Federal funds as written 
+authorizations. With written authorization there is a clear record of which services are being 
+provided, the frequency, intensity and duration of the service, etc. Acceptance of the written 
+authorization by the provider constitutes acceptance of the terms and conditions for providing the 
+service in accordance with Federal requirements. Therefore, the use of verbal authorizations 
+should be limited to emergency situations and the verbal authorization should be followed-up 
+with a written authorization as soon as possible. 
+RSA discussed with DRS the need for formalized written policies and procedures for period of 
+performance and Federal reporting to ensure that obligations are assigned and tracked in 
+accordance with EDGAR and Uniform Guidance requirements and reported accurately on 
+Federal financial reports. RSA discussed the requirement of accurate Federal reporting of 
+obligations, expenditures, and unobligated Federal and non-Federal funds, as this information is 
+necessary for RSA to determine the extent to which VR agencies meet non-Federal share 
+requirements of match and MOE, as well as determining whether awards qualify for a carryover 
+year and extension to the period of performance. Without accurate information submitted on 
+RSA-17 and SF-425 reports, RSA is unable to determine with certainty whether these 
+requirements have been met. 
+Conclusion: RSA found that DRS is not in compliance with the Federal requirements in 34 
+C.F.R. § 361.12, 34 C.F.R. § 76.702, and 2 C.F.R. § 200.302 to ensure non-Federal and Federal 
+obligations and expenditures are assigned, tracked, paid, and reported from the correct Federal 
+award. The agency did not have sufficient internal controls to ensure that 1) A comprehensive 
+written policy regarding period of performance has been developed to outline the steps and 
+procedures to assign, track, and report obligations and expenditures in systems for all cost 
+categories identified in EDGAR 34 C.F.R. § 76.707, to ensure they are for allowable costs under 
+the agency’s approved State Plan during the period of performance of the award; and 2) All non-
+Federal and Federal obligations and expenditures are accurately assigned to specific fund 
+sources, and tracked, paid and reported on the appropriate Federal Financial Reports for the 
+appropriate awards.
+
+29 
+RSA is concerned that the DRS financial management system does not meet Federal 
+requirements because the agency is not able to ensure—  
+• Accurate fiscal data collection and financial accountability, as required by 34 C.F.R.  
+§ 361.12; 
+• The proper disbursement of and accounting for Federal funds, as required by 34 C.F.R.  
+§ 76.702; and 
+• Non-Federal and Federal obligations and expenditures are assigned and liquidated within 
+the period of performance of the Federal award in accordance with the award’s terms and 
+conditions, as required by 34 C.F.R. § 76.707 and 2 C.F.R. § 200.302.
+ 
+As a recipient of Federal VR program funds, DRS must have procedures in place that ensure 
+proper and efficient administration of its VR program, and that enable DRS to carry out all 
+required functions. The methods of administration must ensure accurate data collection and 
+financial accountability (34 C.F.R. § 361.12 and 2 C.F.R. § 200.302). 
+To the extent that DRS incorrectly assigned expenditures outside the period of performance to an 
+award, those expenditures represent questioned costs for which recovery may be required. 
+Corrective Actions 3.1 RSA requires that DRS— 
+3.1.1  Within two quarters of issuance of the final report, s ubmit to RSA, for review and 
+approval, a completed internal controls and/or financial reporting policies and procedures 
+guidance document, that includes a monitoring component to ensure that future financial 
+reports are correct, accurate, complete, and otherwise compliant with Federal reporting 
+requirements;  
+3.1.2  Within three quarters of issuance of the final report, make requisite revisions to its 
+financial data collection and analysis process to bring it into compliance so that DRS 
+can—  
+• Account for, track, and accurately liquidate all non-Federal and Federal 
+expenditures from the correct FFY award, commensurate with the period of 
+performance for the corresponding obligations based on when they were assigned; 
+Accurately report non-Federal and Federal obligations and liquidations on the 
+RSA-17 and SF-425 reports for the corresponding period of performance for 
+Federal awards; and 
+• Revise and correct SF-425 and RSA-17 reports for FFY 2019-2022 accordingly; 
+and 
+3.1.3  Within three quarters of issuance of the final report , update and implement policies and 
+procedures to accurately account for and report all obligations and expenditures for the 
+cost categories identified in 34 C.F.R. § 76.707 to the correct FFY award period of 
+performance, ensuring the policies address— 
+• The assignment of non-Federal and Federal obligations to the appropriate FFY 
+award period of performance and the liquidation of such funds based upon the 
+assignment of the obligation; 
+• The accurate reporting of unliquidated obligations, expenditures and unobligated 
+Federal non-Federal funds on the SF-425 and RSA-17 reports; and 
+• Revise and correct SF-425 and RSA-17 reports for FFY 2019-2022 accordingly.
+
+30 
+VR Agency Response: DRS agrees with the finding. However, the VR agency does believe the 
+SAP version DRS uses maintains contract history or capture accurate dates of obligation. Inside 
+each contract, there is a tab for notes and attachments. The contract establishment and 
+modifications can be recorded there. The contract approval/authorization form (CAAF) can be 
+attached to this area as well. The CAAF will show the original obligation, the increase or 
+decrease, and other pertinent information related to an obligation. Moreover, all approvers up to 
+the Secretary of DHS will be represented on the documents. Although technical assistance was 
+provided to the agency in 2016, there have been two people who have held the top fiscal 
+position. The new Chief Budget Officer (as of December 01, 2024) will require technical support 
+to help map and implement the required changes to adequately reflect reporting requirements.  
+3.1.1 DRS’ Bureau of Support Services will draft internal controls and fiscal policies along 
+with procedures guidance documents (job aids) as part of the monitoring activities to 
+ensure compliance with Federal reporting (e.g., RSA-2, RSA-17, SF-425).    
+3.1.2 DRS’ Bureau of Support Services will work with DRS’ Assistive and Information 
+Technology Supports (AITS), DoIT, and other parties to develop a system that will allow 
+for replacement of Random Moment Time Sampling (RMTS).  
+3.1.3  DRS agrees to this assessment and will update policies and procedures accordingly. 
+However, technical assistance is requested in this area.  
+ 
+VR Agency Request for Technical Assistance: Technical assistance requested by DRS. 
+Finding 3.2 Insufficient Internal Controls for Contracting and Data Collection  
+Issue: Did DRS have sufficient contract monitoring and internal controls to establish that the 
+funds expended were used for allowable purposes in accordance with Federal requirements. 
+Requirement: DRS’ financial management system must be sufficient to permit, among other 
+things, the tracing of funds to establish that the funds have been used for allowable purposes in 
+accordance with Federal requirements (2 C.F.R. § 200.302(a)). Under 2 C.F.R. § 200.303(a), 
+States are required to “Establish and maintain effective internal control over the Federal award 
+that provides reasonable assurance that the non-Federal entity is managing the Federal award in 
+compliance with Federal statutes, regulations, and the terms and conditions of the Federal 
+award.” Federal grant recipients must monitor grant-supported activities pursuant to 2 C.F.R.  
+§ 200.329(a), which identifies monitoring responsibilities of the recipient for oversight, including 
+compliance with all requirements covering each program, function, or activity. 
+DRS assures in its Sate Plan that the methods of administration it uses will provide for proper 
+and efficient administration of the VR program. These methods must include procedures to 
+ensure accurate data collection and financial accountability (34 C.F.R. § 361.12). Except where 
+otherwise authorized by statute, costs are allowable with Federal program funds only if they are 
+necessary and reasonable for the performance of the Federal award and allocable to that award in 
+accordance with Federal cost principles at 2 C.F.R. §§ 200.403 through 200.405. 
+Analysis: DRS administers contracts to facilitate the provision of certain VR purchased services 
+for individuals with disabilities. DRS’ contracts include Third-Party Cooperative Arrangements 
+(TPCAs). RSA observed that the contracts and related internal controls DRS uses for service
+
+31 
+provision did not include the details necessary to ensure contractors report relevant cost and 
+service delivery data to DRS in a manner that assures reliability of the reported data. Similarly, 
+DRS’ contract monitoring and invoice payment internal controls are insufficient to meet 
+compliance with the regulations noted in the requirements section of this finding.  
+Based on RSA’s review, DRS does not maintain and operationalize adequate written internal 
+controls regarding factors DRS staff are to consider when determining whether contractor 
+invoices include data and supporting documentation sufficient to warrant payment. Such 
+payments must be based on analysis of the information contractors provide to ensure allowability 
+according to applicable Federal requirements and Uniform Guidance regulations noted in the 
+requirements section of this finding.  
+RSA found the following deficiencies in DRS processes involving monitoring and internal 
+controls for purchased service contracts persisted throughout the three-year scope of review.  
+Questionable Documentation Supporting Payments to Contractors  
+DRS used VR funds to pay vendor invoices based only on vendor self-reported data. Based on 
+information gathered from DRS staff during on-site interviews, DRS frontline supervisors and 
+managers widely referred to the self-reported data vendors assign to invoices as “case notes.” 
+Several DRS managers, including those with responsibility for approving final payment of 
+invoices, explained that final payment approval was primarily “based on review of the case 
+notes” that vendors self-reported. Notably, DRS staff also indicated front line staff regularly 
+made payments based on unwritten “verbal” approval from their supervisors. This practice 
+means little to no documentation is available to validate that the Federal funds paid were for an 
+allowable service. DRS must ensure that supporting documentation includes the authorized 
+service was provided in a manner consistent with DRS’ service guidelines, the IPE, and contract 
+specifications. While contractors can submit the supporting documentation with the invoice, 
+DRS’ must periodically monitor the documentation to ensure the validity and reliability of the 
+invoices submitted. If DRS supervisors approve an invoice verbally in an emergency 
+circumstance, there must be procedures to ensure the documentation required to support the 
+payment is provided as soon as possible. Without such documentation, DRS is unable to 
+establish that the funds expended were used for the provision of VR services. 
+Consistent with the agency’s organizational chart, DRS assigned agency staff as “coordinators” 
+to clusters of schools to provide coordination and support services to multiple sites. However, 
+interviews with DRS coordinators who held the title of coordinator during the period under 
+review provided little to no evidence that the staff engaged in formal, documented, and 
+consistent monitoring or oversight of contract supported activities, including vendor self-
+reported data. This information was consistent with RSA’s assessment of related documentation 
+DRS provided. As noted above, DRS relied on “case notes” as the sole source of documentation 
+in support of its decisions to approve payments to vendors.  
+DRS’ reliance on vendor self-reported data as the basis for approving the use of VR funds to pay 
+related invoices demonstrates an absence of regular, consistent monitoring by DRS of its vendor 
+supported activities, thereby suggesting significant risk to the Federal interest, elevating RSA’s
+
+32 
+concern regarding potential questioned costs. Finding 3.3 provides additional information 
+regarding this concern. 
+ 
+Inaccurate and Missing Contract Language  
+ 
+DRS’ contracts to provide pre-employment transition services through TPCAs were originally 
+developed for a different purpose prior to the period under RSA’s current scope of review. 
+Between the amendments to the Rehabilitation Act made by WIOA in 2014 and the start of the 
+review period, DRS restructured existing contracts it held with local entities, to repurpose them 
+and align the services with the revised program requirements. Among several changes, the 
+Rehabilitation Act requires States to reserve and expend 15 percent of the Federal award 
+allotment for the provision of pre-employment transition services. DRS attempted to quickly 
+modify the long-existing service contracts to enable DRS to make progress toward meeting the 
+pre-employment transition services requirement. 
+ 
+Much of the language DRS includes in its current TPCA contracts is confusing and/or 
+inaccurate. The language was carried over from the long-ended service contracts and remained 
+largely unchanged from its repurposed origin. For example, the Scope of Services section of 
+Agreement No: 46CBF00040, a TPCA for the provision of pre-employment transition services, 
+identifies contractor responsibilities including the provision of on-the-job training (OJT). As 
+noted in Finding 2.1 above, STEP contracts referenced OJTs and, according to staff, contributed 
+to the miscoding of this data element in the agency’s CMS. Additionally, the contracts identified 
+no curriculum and did not specify how contractors were to implement service provision. 
+ 
+DRS must update contract language and bring the statewide system into compliance with the 
+Rehabilitation Act as amended by WIOA, and current VR and Uniform Guidance requirements. 
+This necessitates a rewriting of TPCA contracts, revising relevant VR agency internal controls, 
+and ensuring compliance with Federal requirements.  
+ 
+In summary, DRS needs to align resources sufficient to correct the following three internal 
+control areas of weaknesses: control activities, operations, and monitoring/management 
+oversight. Below are descriptions of the areas RSA found in most urgent need of improvement 
+relevant to this finding. 
+Invoice Review: DRS lacks adequate internal control activities to direct agency staff in 
+their analysis of vendor invoices to verify the accuracy of information self-reported by 
+vendors seeking payment. Supervisory approval of payment decisions was undocumented 
+or documented inconsistently;  
+Coordinated Monitoring: DRS does not have a monitoring process sufficiently 
+coordinated to provide DRS staff responsible for analyzing vendor invoices and 
+approving payments with the information needed to enable them to verify the accuracy of 
+the information vendors self-report; and, 
+Certified Personnel Expenditures: DRS does not require vendors providing pre-
+employment transition services under TPCAs to submit to DRS the required 
+documentation for DRS to provide administrative oversight of vendor staff effort DRS
+
+33 
+uses to furnish match for the VR program. TPCAs neither include language necessary to 
+facilitate allowable use of non-Federal share generated under the arrangements as VR 
+program match, nor do DRS internal controls require DRS staff to review or approve 
+documentation. VR rules require for DRS to exercise its required administrative oversight 
+of match it generates and reports to RSA from its certification of personnel expenditures 
+through TPCAs. Finding 3.3 below provides further detail on this concern. 
+Inaccurate Reporting of RSA-911 Pre-Employment Transition Service Data 
+DRS’ internal control processes must account for the collection of data elements required 
+through the RSA-911. While vendors self-report data regarding their provision of pre-
+employment transition services, their reporting is subject to little oversight or verification by 
+DRS. In addition, RSA discovered DRS processes for recording and reporting DRS agency staff 
+time used for the provision of pre-employment transition services also fell short of meeting VR 
+program requirements. Of particular concern is DRS’ use of a Random Moment Time Study 
+(RMTS) to obtain required pre-employment transition service data for staff providing pre-
+employment transition services. 
+ 
+Section 101(a)(10)(E), which permits the RSA Commissioner to collect certain data as either a 
+complete count or through sampling, does not permit the sampling of VR service costs or the 
+number of students with disabilities who received pre-employment transition services. The 
+Rehabilitation Act, in section 101(a)(10), requires these data to be reported through a complete 
+count (i.e., positively). Section 101(a)(10)(D)(i) requires VR agencies to report the cost incurred 
+in providing VR services, including pre-employment transition services, both in terms of those 
+services provided by VR agency staff and those services purchased from providers through a 
+complete count. Further, section 101(a)(10)(C)(ii)(V) requires VR agencies to report the number 
+of individuals served under the VR program, including the number of students with disabilities 
+receiving pre-employment transition services, through a complete count. Therefore, DRS may 
+not estimate the costs of services charged to the 15 percent pre-employment transition services 
+reserve and DRS may not estimate which students with disabilities received these services. 
+Through the positive reporting of these cost and service provision data, rather than using 
+estimates, DRS will not only meet the statutory requirements, but it will be positioned to make 
+more accurate data-informed decisions regarding its fiscal forecasting, the providers it uses to 
+deliver pre-employment transition services, and the outcomes students with disabilities achieve. 
+Finally, the Uniform Guidance requires VR agencies to have financial management systems that 
+trace funds to a level of expenditure adequate to establish that such funds have been used 
+according to the requirements of the Federal award and solely for authorized purposes (2 C.F.R. 
+§ 200.302). Without a process that directly tracks the level of effort spent on providing or 
+arranging pre-employment transition services, DRS is unable to ensure that all costs charged to 
+the reserve are allocable and allowable based on the percentage approach resulting from the 
+RMTS. DRS must ensure its internal control processes account for the proper reporting of RSA-
+911 pre-employment transition service data, even when provided directly by staff.  
+ 
+Conclusion: RSA found that DRS does not maintain internal controls related to contract 
+development, monitoring and data collection. DRS’ internal processes do not include the controls 
+necessary to provide reasonable assurances that it is managing the Federal award in compliance
+
+34 
+with Federal statutes, regulations, and the terms and conditions of the award. Specifically, DRS 
+does not have sufficient written policies, procedures, and internal controls to support compliance 
+with rules pertaining to development of contract language, monitoring of contracts, oversight of 
+payments and certified expenditures counted as match, and reporting of pre-employment 
+transition service data.   
+ 
+Corrective Action 3.2: RSA requires that DRS—  
+ 
+3.2.1  Develop and implement internal control processes, including a monitoring component, to 
+ensure that the provisions of 2 C.F.R. §§ 200.302(a), 200.303(a), 200.329(a), & 200.403-
+405, and 34 C.F.R. § 361.12 are met. Within the first quarter following issuance of the 
+monitoring report, generate—  
+a. A process improvement plan, with timeline, to ensure sufficient contract 
+monitoring and invoice payment controls are developed and implemented, 
+satisfactory to address the problems identified in the finding; and 
+b. A quality assurance component that includes targets for acceptable performance 
+and remedies for underperformance, to guide the process identified in part (a) of 
+this corrective action through complete resolution of the finding within four 
+quarters following issuance of the monitoring report; and 
+3.2.2 First, cease use of RMTS in reporting of pre-employment transition services 
+expenditures. Second, cease use of RMTS for reporting of any other VR expenditures 
+whereby such use may result in imprecise costs assigned to the VR award. Replace 
+RMTS with processes and procedures necessary to record and report accurate costs that 
+are verifiable by records of actual effort per cost objective.  
+a. Within one quarter of issuance of the final report, generate a process improvement 
+plan, with timeline, to correct the use of RMTS for pre-employment transition 
+services recording and reporting and replace it with a system that records and 
+provides DRS the ability to report expenditures based on actual time and effort 
+rather than expenditures based on RMTS;  
+b. Within two quarters of issuance of the final report assess other costs currently 
+assigned to the VR award based on RMTS and apply the plan to any costs that 
+might result in inaccurate allocation or assignment to the VR award and develop 
+revised internal controls consistent with Corrective Action 3.2.2.a. and b; and  
+c. Within three quarters of issuance of the final report, analyze costs DRS previously 
+assigned to the VR award during the period under review and submit appropriate 
+request(s) to RSA with supporting documentation for DRS to revise reported 
+financial data consistent with the revised internal controls resulting from this 
+corrective action.  
+VR Agency Response: DRS agrees with the finding.   
+3.2.1 DRS will ensure that internal controls, operations, and monitoring/management oversight 
+are exercised in the areas of invoice review, coordinated monitoring, and certified 
+personnel expenditures. 
+3.2.2 DRS will generate a process to replace the use of RMTS in the reporting of pre-
+employment services. The new procedure will have a process improvement plan that
+
+35 
+permits the reporting of expenditures and accurately records and reflects costs to the plan 
+resulting in inaccurate allocation or assignment to the VR award. Additionally, the new 
+process will identify, and correct costs inaccurately assigned during the RMTS sampling.  
+VR Agency Request for Technical Assistance: Technical assistance is requested. 
+Finding 3.3 Questioned Match from Third-Party Cooperative Arrangements 
+Issue: Did DRS facilitate Third-Party Cooperative Arrangements (TPCAs) sufficient to generate 
+allowable non-Federal share for the VR program in accordance with Federal requirements, 
+including 34 C.F.R. §§ 361.28 and 76.50. 
+Requirement: Pursuant to 34 C.F.R. § 361.28(a), DSUs may enter into TPCAs to provide or 
+contract for the provision of VR services with another State agency or local public agency that 
+provides non-Federal share for VR agency use. To generate valid non-Federal share for the VR 
+program, TPCAs must comply with the requirements of 34 C.F.R. § 361.28: 
+(a) The designated State unit may enter into a third-party cooperative arrangement for 
+providing or contracting for the provision of vocational rehabilitation services with 
+another State agency or a local public agency that is providing part or all of the non-
+Federal share in accordance with paragraph (c) of this section, if the designated State unit 
+ensures that—  
+(1) The services provided by the cooperating agency are not the customary or typical 
+services provided by that agency but are new services that have a VR focus or existing 
+services that have been modified, adapted, expanded, or reconfigured to have a VR focus;  
+(2) The services provided by the cooperating agency are only available to applicants for, 
+or recipients of, services from the DSU;  
+(3) Program expenditures and staff providing services under the cooperative arrangement 
+are under the administrative supervision of the DSU; and  
+(4) All requirements of the vocational rehabilitation services portion of the Unified or 
+Combined State plan, including a State’s order of selection, will apply to all services 
+provided under the cooperative arrangement.  
+ 
+(b) If a third-party cooperative agreement does not comply with the statewideness 
+requirement in §361.25, the DSU must obtain a waiver of statewideness, in accordance 
+with §361.26.  
+ 
+(c) The cooperating agency's contribution toward the non-Federal share required under 
+the arrangement, as set forth in paragraph (a) of this section, may be made through:  
+(1) Cash transfers to the DSU;  
+(2) Certified personnel expenditures for the time cooperating agency staff spent providing 
+direct VR services pursuant to a TPCA that meets the requirements of this section. 
+Certified personnel expenditures may include the allocable portion of staff salary and 
+fringe benefits based upon the amount of time cooperating agency staff directly spent 
+providing services under the arrangement; and  
+(3) other direct expenditures incurred by the cooperating agency for the sole purpose of 
+providing services under this section pursuant to a TPCA that—
+
+36 
+(i) Meets the requirements of this section;  
+(ii) Are verifiable as being incurred under the TPCA; and  
+(iii) Do not meet the definition of third-party in-kind contributions under 2 C.F.R. § 
+200.96.  
+ 
+Analysis: More than half of the total non-Federal share DRS reported as having met VR 
+matching requirements during the scope of RSA’s review appears to lack sufficient evidence to 
+substantiate qualification as valid allowable match under the VR award. Federal VR funds are 
+made available to the VR agency only in proportion to the amount of non-Federal share the 
+agency expends in a given FFY award’s year of appropriation according to the 21.3/78.7 ratio of 
+non-Federal to Federal expenditures.  
+ 
+RSA has concern over the allowability of the non-Federal share DRS accumulated through its 
+TPCAs for pre-employment transition services, which it reported in its RSA-17 financial reports 
+as meeting VR program requirements for furnishing required non-Federal share under such 
+arrangements. This is separate from, but related to, RSA’s concern regarding DRS’ inaccurate 
+reporting of pre-employment transition services expenditures and contract oversight described 
+under Finding 3.2. RSA questions the allowability of a significant source of match DRS 
+identified in its RSA-17 reports as meeting VR matching requirements sufficient to justify its 
+drawdown and expenditure of Federal VR award funds.  
+ 
+Uncertified TPCA Personnel Expenditures 
+DRS did not certify personnel expenditures, submitted by TPCA agencies that it subsequently 
+reported as meeting VR matching requirements despite VR program rules requiring DRS to 
+certify such expenditures through administrative oversight of TPCAs. During on-site interviews 
+with DRS staff responsible for overseeing TPCAs, DRS indicated it did not meet VR 
+requirements for certifying match provided through TPCAs by certifying personnel expenditures. 
+TPCAs did not include steps whereby the cooperating entity submitted documentation to DRS 
+sufficient for VR agency staff to certify expenditures vendors claimed to satisfy their required 
+share of personnel expenditures DRS reported as meeting Federally required VR match. Instead, 
+DRS required vendors to periodically submit a form to self-certify the expenditures the vendors 
+self-identified as having generated allowable match for the VR program. However, the form 
+DRS required vendors to use in attestation of these expenditures for use as VR match fell short 
+of meeting requirements for VR agencies to provide administrative supervision over cooperating 
+agency’s reporting of personnel time generated under the arrangement.  
+DRS also did not have procedures consistent with VR program requirements necessary for DRS 
+to certify the claimed effort cooperating entities self-reported. DRS staff confirmed that none of 
+the TPCAs Illinois implemented during the review period included language regarding 
+requirements for cooperating entities to furnish documentation of staff effort toward VR service 
+delivery to DRS for DRS to certify. Yet DRS routinely reported to the Federal government, via 
+RSA-17s, the entire amount of expenditures TPCA partners self-reported without VR agency 
+staff reviewing or certifying the expenditures as they are required to do when using TPCAs to 
+generate allowable match for the VR program.
+
+37 
+Moreover, the TPCAs DRS used to contractually identify and assign roles and responsibilities 
+were absent of any processes DRS would use to administer such oversight. This includes steps 
+needed for DRS to facilitate its required certification of VR services expenditures cooperating 
+entities self-reported and that DRS then, improperly, reported to the Federal government as 
+allowable VR program match furnished under the arrangements. 
+Conclusion: To the extent DRS claimed non-Federal share for certified personnel expenditures 
+that are not verifiable, RSA would consider such payments questioned costs. The missing 
+certification of personnel expenditures may represent questioned costs in proportion to a 
+significant amount of non-Federal share DRS reported during the review period. RSA will 
+further assess and verify the extent to which DRS improperly assigned the amount of non-
+Federal share it reported as meeting VR matching requirements generated through TPCAs in the 
+below Corrective Actions. 
+Corrective Action 3.3: RSA requires that DRS—  
+3.3.1  Develop and implement internal control processes to ensure that the provisions of 34 
+C.F.R. §§ 361.25, 361.26, & 361.28, and 76.50 are met, as necessary to reconcile relevant 
+unallowable costs for the current and future periods, for such unallowable costs identified 
+for prior periods under the scope of review. These processes must include remedies for 
+repayment needed to satisfy costs assigned to the Federal award found to be unallowable, 
+including expended Federal share based on unallowable sources of match. To support 
+developing these processes, DRS must also generate and present to RSA—  
+a. Within one quarter of issuance of the final report, provide for RSA’s review a 
+process improvement plan specific to ensuring all TPCAs include updated 
+language with relevant requirements to facilitate TPCAs that provide only 
+allowable match generated via VR agency certification of personnel expenditures 
+or as otherwise allowable under VR program rules, with timeline, to ensure 
+sufficient TPCA vendor oversight necessary to correct the problems identified in 
+the finding; and 
+b. Steps to guide the process identified in part (a) of this corrective action plan 
+through complete resolution of the finding within four quarters following issuance 
+of the monitoring report;  
+3.3.2 Within one quarter following issuance of the monitoring report, develop a plan to identify 
+unallowable costs assigned to the VR award as described in this finding. Within three 
+quarters following issuance of the monitoring report, provide RSA a comprehensive list 
+of corrections, by line number and per affected report, of each RSA-17 report data item 
+that requires revision based on the unallowable costs DRS identified pursuant to this 
+finding. Based upon the financial data provided, RSA will decide whether the agency met 
+its match, MOE, carryover requirements, etc. during the scope of review. This 
+information will inform RSA regarding further remedies for compliance; however, RSA 
+may request additional information prior to making final determinations. 
+VR Agency Response: DRS agrees with the finding.   
+3.3.1 The Illinois VR agency will develop and implement internal controls that reconcile 
+unallowable costs for the current and future periods under review. There will be a remedy
+
+38 
+for repayment, if applicable, to satisfy cost assigned to the Federal award as unallowable. 
+A process improvement plan will be developed to ensure all TPCAs contain language 
+reflecting only allowable match within four quarters following issuance of the final 
+Monitoring Report. 
+3.3.2 The Illinois VR will provide within one quarter of issuance of the final Monitoring 
+Report, a plan that identifies unallowable costs assigned to the VR award. Within three 
+quarters of issuance of the final Monitoring Report, Illinois VR will submit a complete 
+and thorough listing of each RSA-17 data items requiring revision based on the 
+unallowable costs identified.  
+VR Agency Request for Technical Assistance:  No technical assistance requested.   
+Finding 3.4 Insufficient Internal Controls 
+ 
+Issues: Whether DRS maintains effective internal controls over the Federal award to provide 
+reasonable assurance that it is managing the Federal award in compliance with Federal statutes, 
+regulations, and the terms and conditions of the award. Whether DRS satisfied prior approval 
+requirements in 2 C.F.R. § 200.407. 
+ 
+Requirements: A State VR agency must assure, in the VR services portion of the Unified or 
+Combined State Plan, that it will employ methods of administration that ensure the proper and 
+efficient administration of the VR program. These methods of administration (i.e., the agency’s 
+internal controls) must include procedures to ensure accurate data collection and financial 
+accountability (34 C.F.R. § 361.12). “Internal controls” means a process, implemented by a non-
+Federal entity, designed to provide reasonable assurance regarding the achievement of objectives 
+in the following categories: 
+ 
+• Effectiveness and efficiency of operations; 
+• Reliability of reporting for internal and external use; and 
+• Compliance with applicable laws and regulations (2 C.F.R. § 200.61). 
+ 
+In addition, the Uniform Guidance at 2 C.F.R. § 200.62(a)(3) defines “internal control over 
+compliance requirements for Federal awards” as a process implemented by a grantee that 
+provides reasonable assurance that, among other things, that transactions are accurately recorded 
+and accounted for to demonstrate compliance with Federal statutes, regulations, and the terms 
+and conditions of the Federal award. In accordance with the Uniform Guidance, 2 C.F.R. § 
+200.303, among other things, a non-Federal entity must— 
+ 
+• Establish and maintain effective internal control over the Federal award that provides 
+reasonable assurance that the non-Federal entity is managing the Federal award in 
+compliance with Federal statutes, regulations, and the terms and conditions of the Federal 
+award; 
+• Comply with Federal statutes, regulations, and the terms and conditions of the Federal 
+awards; 
+• Evaluate and monitor the non-Federal entity’s compliance with statutes, regulations and 
+the terms and conditions of Federal awards; and
+
+39 
+• Take prompt action when instances of noncompliance are identified including 
+noncompliance identified in audit findings. 
+ 
+Additionally, 2 C.F.R. § 200.302(a) requires that a State’s financial management systems, 
+including records documenting compliance with Federal statutes, regulations, and the terms and 
+conditions of the award, must be sufficient to permit the— 
+ 
+• Preparation of reports required by general and program specific terms and conditions; and 
+• Tracing of funds to a level of expenditures adequate to establish that such funds have 
+been used according to the Federal statutes, regulations, and the terms and conditions of 
+the Federal award. 
+ 
+Furthermore, provisions at 2 C.F.R. § 200.302(b)(4) require that the financial management 
+system of each non-Federal entity must ensure effective control over, and accountability for, all 
+funds, property, and other assets. The non-Federal entity must adequately safeguard all assets 
+and assure that they are used solely for authorized purposes. In its guidance The Role of Internal 
+Control, Documenting Internal Control, and Determining Allowability & Use of Funds, the U.S. 
+Department of Education (Department) made clear to grantees that internal controls represent 
+those processes by which an organization assures operational objectives are achieved efficiently, 
+effectively, and with reliable, compliant reporting. Therefore, an internal control deficiency 
+would exist when the design or operation of a control does not allow management or employees, 
+in the normal course of performing their assigned functions, to prevent or correct processes that 
+might lead to noncompliance with Federal and State requirements. 
+Analysis: 
+ 
+Insufficient Internal Controls 
+ 
+RSA’s review of several written process memos provided by DRS, as examples of internal 
+controls, found deficiencies and omissions. The agency did not provide all fiscal policies and 
+procedures in RSA’s document request. The available policies did not provide reasonable 
+assurance that the agency has adequate internal controls, including policies and procedures for 
+program income, match, and MOE. 
+ 
+During the review, including discussions with DRS management and review of the agency’s 
+policy manuals, RSA found that the agency did not have sufficient policies, procedures, and 
+internal controls to ensure compliance with applicable Federal requirements. RSA found that 
+written processes either did not exist or did not include the details necessary to provide a 
+reasonable assurance that the agency is managing the award in compliance with Federal statutes, 
+requirements, and the terms and conditions of the award. 
+ 
+DRS was not able to provide a written policy or procedure for its internal systems (CMS, Hub, 
+CPS, an SAP) and how they interrelate to ensure VR funds are used in accordance with Federal 
+regulations. DRS did not have a policy or procedure regarding reallotment funds. RSA reviewed 
+a number of payments in DRS document request and found a few invoices were marked as 
+obligated on the date of payment which is not in compliance with EDGAR at 34 C.F.R.
+
+40 
+§§ 76.703 and 76.709. For example, a bill was paid for a college student at the end of the term 
+and the obligation date was the paid date, not the date it was approved by DRS. DRS did not 
+have a written internal control policy about the liquidation period and how to ensure that 
+payments which fell within this time period would be paid in accordance with the Federal 
+requirements. For example, there wasn’t any internal control which covered how DRS and the 
+DSA would ensure all eligible payments would be approved and paid in their accounting system, 
+including the liquidation period of 120 days. DRS admitted that funds were returned to RSA due 
+to some payments not being approved by the DSA accounting system during this period. 
+ 
+For some of the internal control processes, DRS has taken steps to address concerns; however, 
+the processes were not adequately documented. Consequently, DRS was unable to demonstrate 
+that adequate safeguards and internal controls were documented, implemented, and in 
+compliance with Federal requirements. When considering staff turnover in key positions, the 
+lack of documented internal control processes may result in loss of continuity necessary to 
+identify and correct non-compliance. 
+ 
+Prior Approval Requirements Not Met 
+ 
+The Uniform Guidance at 2 C.F.R. § 200.407, includes a list of specific circumstances for which 
+prior approval from the Federal awarding agency, in advance of the occurrence, is either required 
+for allowability or recommended to avoid subsequent disallowance or dispute based on the 
+unreasonableness or non-allocability. For example, 2 C.F.R. § 200.439(b)(1) states that capital 
+expenditures for general purpose equipment, buildings, and land are unallowable as direct 
+charges, except with the prior written approval of the Federal awarding or pass-through entity. 
+The Uniform Guidance at 2 C.F.R. § 200.62(a)(3) also requires the agency have internal control 
+over compliance requirements for Federal awards to demonstrate compliance with Federal 
+statutes, regulations, and the terms and conditions of the Federal award. On November 2, 2015, 
+the Department of Education adopted the final regulations found in 2 C.F.R. part 200 (Federal 
+Register notice 80 § FR 67261). The Department issued notifications to grantees regarding the 
+new requirements and made training and technical assistance documents available to grantees to 
+assist in implementation of the new requirements. To ensure that RSA grantees were aware of 
+the applicability of the prior approval requirements, RSA included a special clause on the FFY 
+2016 Grant Award Notifications that stated, in pertinent part: [T]he prior approval requirements 
+listed in the Uniform Administrative Requirements, Costs Principles, and Audit Requirements 
+for Federal Awards (Uniform Guidance) (2 C.F.R. part 200) are applicable to this award… 
+Grantees are responsible for ensuring that prior approval, when required, is obtained prior to 
+incurring the expenditure. Grantees should pay particular attention to the prior approval 
+requirements listed in the Cost Principles (2 C.F.R. 200 subpart E). In addition, information 
+regarding the requirements in 2 C.F.R. part 200 was communicated to grantees via RSA’s 
+listserv on September 23, 2015. 
+ 
+RSA requested the VR agency’s written policies, procedures, or processes for ensuring the 
+agency was meeting the prior approval requirements when applicable. DRS did not have 
+comprehensive policies for prior approval.
+
+41 
+The agency was not able to provide reasonable assurance that it complied with the Uniform 
+Guidance in accordance with 2 C.F.R. § 200.407: 
+ 
+• The staff member who was responsible to prepare and submit the prior approvals left 
+three years ago and since then, no prior approval requests have been submitted; and  
+• The agency did not request prior approval for all costs that require prior approval. 
+ 
+Conclusion: RSA’s analysis found that DRS has not established and maintained written policies 
+and internal controls (2 C.F.R. §§ 200.61 and 200.62). DRS does not have sufficient internal 
+controls to ensure compliance with the prior approval requirements pursuant to the Uniform  
+Guidance (2 C.F.R. § 200.407). 
+ 
+Corrective Action 3.4: RSA requires that DRS—  
+ 
+3.4.1  Within one quarter following issuance of the monitoring report, develop, implement 
+and/or update internal control policies to address issues identified in the finding; and 
+3.4.2  Within one quarter following issuance of the monitoring report, develop and implement 
+policies and procedures, as well as a written internal control process, including a 
+monitoring component, to ensure ongoing compliance with the prior approval 
+requirements and the Dear Colleague Letter (DCL) 24-05, issued by OSERS on 
+September 30, 2024. Once the CAP is developed, RSA will work with the VR agency to 
+determine if updated processes result in meeting Federal requirements and ongoing 
+compliance. 
+ 
+VR Agency Response:  The Illinois VR agency agrees with the finding.  
+  
+3.4.1 The Illinois VR agency will update internal control policies. 
+3.4.2 After approval of the CAP, the Illinois VR agency will develop and implement policies, 
+procedures, and an internal control process that is compliant with Federal requirements. 
+ 
+VR Agency Request for Technical Assistance:  No technical assistance is requested.
+
+42 
+APPENDIX A: STATE VOCATIONAL REHABILITATION SERVICES AND STATE 
+SUPPORTED EMPLOYMENT SERVICES PROGRAMS                                 
+PERFORMANCE TABLES 
+Table 1— IL-C Performance Profile 
+VR Program Performance PY20 PY21 PY22 
+Employment Rate 49.4% 46.0% 47.5% 
+Number of Participants Exiting in Competitive Integrated 
+Employment or Supported Employment 3,872 4,702 4,452 
+Percentage of Timely Eligibility Determinations 89.5% 90.2% 88.6% 
+Percentage of Eligibility Determinations Extensions 3.6% 3.6% 3.1% 
+Percentage of Timely IPE Development 89.4% 92.6% 92.1% 
+Percentage of Initial IPE Extensions 0.2% 0.1% 0.1% 
+Number of Applicants 9,907 12,211 13,149 
+Number of Individuals Determined Eligible 8,755 10,731 11,631 
+Number of Individuals with an IPE and No VR Services Provided - - - 
+ Number of Participants (with an IPE and VR Services Provided) 30,420 32,526 33,024 
+ 
+WIOA Performance Indicators (State) PY20 PY21 PY22 
+MSG Rate 59.8% 67.8% 67.8% 
+Employment Rate in 2nd Qtr After Exit 52.6% 57.2% 60.2% 
+Median Earnings in 2nd Qtr After Exit $3,337 $3,997 $4,207 
+Employment Rate in 4th Qtr After Exit 47.6% 42.2% 48.7% 
+Credential Attainment Rate 27.2% 28.6% 31.9%
+
+43 
+Table 2—IL -C Types of Exit 
+Individuals Who Exited the VR Program PY20 PY21 PY22 
+Number of Individuals Who Exited the VR Program 
+9,534 12,305 11,672 
+ 
+ 
+Exit Type 
+PY20 
+Number of 
+Individuals 
+ 
+PY20 
+Percent 
+PY21 
+Number of 
+Individuals 
+PY21 
+Percent 
+PY22 
+Number of 
+Individuals 
+PY22 
+Percent 
+Individual exited as an 
+applicant, prior to eligibility 
+determination or trial work 
+experience 
+939 9.85% 1,227 9.97% 1,452 12.44% 
+Individual exited during or 
+after a trial work experience 8 0.08% 15 0.12% 15 0.13% 
+Individual exited after 
+eligibility, but from an order of 
+selection waiting list 
+5 0.1% 2 0.0% - 0.0% 
+Individual exited after 
+eligibility, but prior to a signed 
+IPE 
+656 6.9% 732 5.9% 705 6.0% 
+Individual exited after an IPE 
+without an employment 
+outcome 
+3,962 41.6% 5,530 44.9% 4,930 42.2% 
+Individual exited after an IPE 
+in noncompetitive and/or 
+nonintegrated employment 
+93 1.0% 97 0.8% 118 1.0% 
+Individual exited after an IPE 
+in competitive and integrated 
+employment or supported 
+employment 
+3,872 40.6% 4,702 38.2% 4,452 38.1% 
+Individual exited as an 
+applicant after being 
+determined ineligible for VR 
+services - 0.0% - 0.0% - 0.0% 
+ 
+ 
+Supported Employment PY20 
+Number of 
+Participants 
+PY21 
+Number of 
+Participants 
+PY22 
+Number of 
+Participants 
+Number of Participants Who Exited with a Supported Employment 
+Outcome in Competitive Integrated Employment 28 36 28 
+Number of Participants Who Exited with a Supported Employment 
+Outcome in Noncompetitive and/or Nonintegrated Employment - - -
+
+44 
+Table 3—IL -C Reasons for Exit 
+ 
+ 
+Reason for Exit 
+PY20 
+Number of 
+Individuals 
+PY20 
+Percent 
+PY21 
+Number of 
+Individuals 
+PY21 
+Percent 
+PY22 
+Number of 
+Individuals 
+PY22 
+Percent 
+Health/Medical 91 1.0% 146 1.2% 116 1.0% 
+Death of Individual 62 0.7% 58 0.5% 61 0.5% 
+Reserve Forces Called to 
+Active Duty - 0.0% - 0.0% - 0.0% 
+Ineligible after determined 
+eligible 31 0.3% 53 0.4% 48 0.4% 
+Criminal Offender 12 0.1% 15 0.1% 13 0.1% 
+No Disabling Condition 22 0.2% 13 0.1% 14 0.1% 
+Transferred to Another Agency 32 0.3% 38 0.3% 35 0.3% 
+Achieved Competitive 
+Integrated Employment 
+Outcome 
+3,872 40.6% 4,702 38.2% 4,452 38.1% 
+Extended Employment 3 0.0% 6 0.0% 5 0.0% 
+Extended Services Not 
+Available 1 0.0% 3 0.0% 1 0.0% 
+Unable to Locate or Contact 2,477 26.0% 3,434 27.9% 3,338 28.6% 
+No Longer Interested in 
+Receiving Services or Further 
+Services 
+2,056 21.6% 2,750 22.3% 2,528 21.7% 
+All Other Reasons 866 9.1% 1,067 8.7% 1,048 9.0% 
+Short-Term Basis Period - 0.0% - 0.0% - 0.0% 
+Ineligible: Pursuant to 511 9 0.1% 15 0.1% 9 0.1% 
+Ineligible: Following Trial 
+Work 1 0.0% 5 0.0% 4 0.0% 
+Number of Individuals Who 
+Exited the VR Program 9,534  12,305  11,672
+
+45 
+Table 4 IL-C VR Service Provision 
+VR Service Provision PY20  PY21  PY22  
+Total Number of Individuals Who Received VR Services 28,671 30,846 31,426  
+ 
+Training Services 
+PY20 
+Number of 
+Individuals 
+ 
+PY20 
+Percent 
+PY21 
+Number of 
+Individuals 
+ 
+PY21 
+Percent 
+PY22 
+Number of 
+Individuals 
+ 
+PY22 
+Percent 
+Graduate Degree Training 213 0.7% 228 0.7% 246 0.8% 
+Bachelor’s Degree Training 1,212 4.2% 1,362 4.4% 1,440 4.6% 
+Junior or Community College 
+Training 2,653 9.3% 2,693 8.7% 2,795 8.9% 
+Occupational or Vocational 
+Training 148 0.5% 146 0.5% 180 0.6% 
+On-the-Job Training 5,385 18.8% 6,004 19.5% 4,406 14.0% 
+Apprenticeship Training 13 0.0% 16 0.1% 10 0.0% 
+Basic Academic Remedial or 
+Literacy Training - 0.0% - 0.0% - 0.0% 
+Job Readiness Training - 0.0% - 0.0% - 0.0% 
+Disability Related Skills 
+Training* 1,859 6.5% 2,119 6.9% 2,191 7.0% 
+Miscellaneous Training - 0.0% - 0.0% - 0.0% 
+Randolph-Sheppard 
+Entrepreneurial Training 9 0.0% 9 0.0% 14 0.0% 
+Customized Training - 0.0% - 0.0% - 0.0% 
+Work-Based Learning 
+Experience - 0.0% - 0.0% - 0.0% 
+  
+ 
+ 
+Career Services 
+PY20 
+Number of 
+Individuals 
+PY20 
+Percent 
+PY21 
+Number of 
+Individuals 
+PY21 
+Percent 
+PY22 
+Number of 
+Individuals 
+PY22 
+Percent 
+Assessment* - 0.0% - 0.0% - 0.0% 
+Diagnosis and Treatment of 
+Impairment 1,333 4.6% 1,368 4.4% 1,360 4.3% 
+Vocational Rehabilitation 
+Counseling and Guidance* 
+28,653 99.9% 30,825 99.9% 31,407 99.9% 
+Job Search Assistance 16,835 58.7% 18,248 59.2% 16,569 52.7% 
+Job Placement Assistance - 0.0% - 0.0% 18,077 57.5%
+
+46 
+ 
+ 
+Career Services 
+PY20 
+Number of 
+Individuals 
+PY20 
+Percent 
+PY21 
+Number of 
+Individuals 
+PY21 
+Percent 
+PY22 
+Number of 
+Individuals 
+PY22 
+Percent 
+Short-Term Job Supports 2,042 7.1% 2,119 6.9% 1,678 5.3% 
+Supported Employment 
+Services - 0.0% - 0.0% 876 2.8% 
+Information and Referral 
+Services* 28,077 97.9% 30,365 98.4% 31,064 98.8% 
+Benefits Counseling* 568 2.0% 480 1.6% 329 1.0% 
+Customized Employment 
+Services - 0.0% - 0.0% 392 1.2% 
+Extended Services (for youth 
+with the most significant 
+disabilities) 
+1 0.0% - 0.0% - 0.0% 
+ 
+ 
+Other Services 
+PY20 
+Number of 
+Individuals 
+ 
+PY20 
+Percent 
+PY21 
+Number of 
+Individuals 
+ 
+PY21 
+Percent 
+PY22 
+Number of 
+Individuals 
+ 
+PY22 
+Percent 
+Transportation* 2,165 7.6% 2,217 7.2% 2,201 7.0% 
+Maintenance* 3,936 13.7% 4,101 13.3% 4,335 13.8% 
+Rehabilitation Technology* 1,477 5.2% 1,696 5.5% 1,725 5.5% 
+Personal Attendant Services* - 0.0% - 0.0% - 0.0% 
+Technical Assistance Services - 0.0% - 0.0% - 0.0% 
+Reader Services* 23 0.1% 16 0.1% 7 0.0% 
+Interpreter Services* 367 1.3% 378 1.2% 355 1.1% 
+Other Services 4,051 14.1% 4,505 14.6% 3,834 12.2% 
+* Indicates RSA-911 Service Categories that do not require an individualized plan for employment (IPE)
+
+47 
+Table 5— IL-C MSG and Credentials 
+ 
+Type of MSG Earned 
+PY20 
+Number 
+PY21 
+Number 
+PY22 
+Number 
+Educational Functioning Level 52 33 20 
+Secondary Diploma 35 42 79 
+Postsecondary Transcript/Report Card 2,921 3,158 3,184 
+Training Milestone 104 124 106 
+Skills Progression 62 143 91 
+Total 3,174 3,500 3,480  
+Participants Who Earned MSG PY20 
+Number/Percent 
+PY21 
+Number/Percent 
+PY22 
+Number/Percent 
+Number of Participants Who Earned MSG 3,051 3,324 3,316 
+Percent of Participants Eligible to Earned MSG 16.8% 15.1% 14.8% 
+ 
+ 
+Type of Credentials Earned 
+PY20 
+Number 
+PY21 
+Number 
+PY22 
+Number 
+Secondary 1,108 854 1,156 
+Postsecondary 368 321 388 
+Total 1,476 1,175 1,544 
+ 
+ 
+Participants Who Earned Credentials 
+PY20 
+Number/Percent 
+PY21 
+Number/Percent 
+PY22 
+Number/Percent 
+Number of Participants Who Earned Credentials 1,462 1,153 1,496 
+Percent of Participants Eligible to Earn Credentials 45.0% 50.0% 50.0%
+
+52 
+Table 6— IL-C Competitive Integrated Employment and Supported Employment Outcomes 
+Participants Who Exited in Competitive Integrated 
+Employment or Supported Employment PY20 PY21 PY22 
+Number of Participants Who Exited in Competitive Integrated 
+Employment or Supported Employment 3,872 4,702 4,452 
+Median Hourly Earnings at Exit $12.00 $13.85 $15.00 
+Median Hours Worked per Week at Exit 25 25 25  
+ 
+ 
+Public Support at Exit 
+PY20 
+Number of 
+Participants 
+PY20 
+Percent 
+PY21 
+Number of 
+Participants 
+PY21 
+Percent 
+PY22 
+Number of 
+Participants 
+PY22 
+Percent 
+Social Security Disability Insurance 
+at Exit 596 15.4% 744 15.8% 651 14.6% 
+Supplemental Security Income 
+for the Aged, Blind, or Disabled at 
+Exit 
+485 12.5% 668 14.2% 596 13.4% 
+Temporary Assistance for Needy 
+Families at Exit 17 0.4% 17 0.4% 14 0.3% 
+  Other Public Support at Exit 
+77 2.0% 83 1.8% 50 1.1% 
+ 
+ 
+Medical Insurance Coverage at 
+Exit 
+PY20 
+Number of 
+Participants 
+ 
+PY20 
+Percent 
+PY21 
+Number of 
+Participants 
+ 
+PY21 
+Percent 
+PY22 
+Number of 
+Participants 
+ 
+PY22 
+Percent 
+Medicaid at Exit 1,521 39.3% 1,933 41.1% 1,795 40.3% 
+Medicare at Exit 505 13.0% 617 13.1% 535 12.0% 
+State or Federal Affordable Care 
+Act Exchange at Exit 138 3.6% 161 3.4% 118 2.7% 
+Public Insurance from Other Sources 
+at Exit 126 3.3% 115 2.4% 118 2.7% 
+Private Insurance Through Employer 
+at Exit 550 14.2% 640 13.6% 604 13.6% 
+Not Yet Eligible for Private 
+Insurance Through Employer at Exit - 0.0% - 0.0% - 0.0% 
+Private Insurance Through Other 
+Means at Exit 1,097 28.3% 1,253 26.6% 1,216 27.3%
+
+53 
+Table 7— IL-C Students with Disabilities 
+ 
+ 
+Students with Disabilities 
+PY20 
+Number/ Percentage 
+of Students 
+PY21 
+Number/ Percentage 
+of Students 
+PY22 
+Number/ Percentage 
+of Students 
+Total Students with Disabilities Reported 31,704 37,141 34,658 
+Students with Disabilities Reported with 504 
+Accommodation 1,488 1,899 1,873 
+Students with Disabilities Reported with the 
+Individualized Education Program (IEP) 29,632 34,642 32,540 
+Students with Disabilities Reported without 504 
+Accommodation or IEP 586 600 246 
+Total Students with Disabilities Who Received a Pre-
+Employment Transition Service 23,981 28,246 28,006 
+Potentially Eligible Students with Disabilities Who 
+Received a Pre-Employment Transition Service 1,108 1,274 1,763 
+Students with Disabilities, Who Applied for VR 
+Services, and Received a Pre-Employment 
+Transition Service 
+22,873 26,972 26,243 
+Percentage of Students with Disabilities Reported 
+Who Received a Pre-Employment Transition 
+Service 
+75.6% 76.1% 80.8%
+
+54 
+Table 8—IL -C Pre-Employment Transition Service Provision 
+ 
+Pre-Employment 
+Transition Services 
+PY20 
+Number 
+Provided 
+PY20 
+Percent of 
+Total 
+PY21 
+Number 
+Provided 
+PY21 
+Percent of 
+Total 
+PY22 
+Number 
+Provided 
+PY22 
+Percent of 
+Total 
+Total Pre-Employment 
+Transition Services 
+Provided 
+330,153  404,574  449,019  
+Job Exploration 
+Counseling 57,627 17.5% 88,268 21.8% 97,273 21.7% 
+Work-Based Learning 
+Experiences 50,030 15.2% 58,144 14.4% 65,092 14.5% 
+Counseling on 
+Enrollment 
+Opportunities 
+72,873 22.1% 85,246 21.1% 94,992 21.2% 
+Workplace Readiness 
+Training 72,546 22.0% 84,397 20.9% 93,785 20.9% 
+Instruction in Self- 
+Advocacy 77,077 23.3% 88,519 21.9% 97,877 21.8%
+
+55 
+APPENDIX B: FISCAL DATA TABLES 
+Fiscal data tables current as of January 14, 2025 
+Table 3.1: VR Federal Resources and Expenditures 
+ 
+Federal Resources and 
+Expenditures 2021 2022 2023* 2024* 
+(a) FAIN H126A210018 H126A220018 H126A230018 H126A240018 
+(b) Formula Award AMT 118,811,693.00  119,882,242.00  127,331,004.00  127,331,004.00  
+(c) MOE Reduction AMT 0.00  0.00  0.00  0.00  
+(d) Relinquished-Reallotment 0.00  0.00  0.00  0.00  
+(e) Received-Reallotment 0.00  0.00  0.00  12,118,120.00  
+(f) Adjustments 0.00  0.00  0.00  0.00  
+(g) Net Award AMT 118,811,693.00  119,882,242.00  127,331,004.00  139,449,124.00  
+(h) Net Award AMT Unused** 0.00  0.00  0.00  101,569,227.00  
+(i) Net Award AMT Unused-
+Matched*** 
+0.00  0.00  (127,331,004.00) (37,879,897.00) 
+(j) Award Funds Expended 118,811,693.00  119,882,242.00  127,331,004.00  37,879,897.00  
+(k) PCT of Net Award 
+Expended 
+100.0% 100.0% 100.0% 27.2% 
+(l) PCT of Formula Award 
+Expended 
+100.0% 100.0% 100.0% 29.7% 
+(m) Carryover Met  Yes Yes Yes Yes 
+(n) Award Closed Yes No No No 
+* Indicates the award is currently in an open status; therefore, data is either not currently available or not final.   
+**If award is closed, represents amount of funds deobligated at closeout. If award is not closed, represents balance 
+in GMS.   
+***Negative number indicates funds expended that were not matched.
+
+56 
+Table 3.2: VR Non-Federal Share 
+ 
+Non-Federal Share (Match) 2021 2022 2023* 2024* 
+(a) FED Expenditures 
+Matched 
+ Yes   Yes  No No 
+(b) Non-FED Share-4th 35,326,549.00  35,669,544.00  43,131,855.00  43,338,022.00  
+(c) Non-FED Share-Final 32,346,108.00  33,466,509.00  0.00  0.00  
+(d) FED Funds Required to 
+Match 
+118,811,693.00  119,882,242.00  127,331,004  37,879,897.00  
+(e) FED Funds Matched 119,513,553.97  123,653,251.56  0.00  0.00  
+(f) Non-FED Share Required 32,156,150.71  32,445,892.69  34,461,885.45  10,252,119.52  
+(g) FED Funds Match 
+Difference 
+701,860.97  3,771,009.56  (127,331,004.00) (37,879,897.00) 
+(h) PCT of Net FED Funds 
+Matched 
+100.6% 103.1% 0.0% 0.0% 
+(i) PCT of FED Formula 
+Award Matched 
+100.6% 103.1% 0.0% 0.0% 
+(j) Matching Requirement 
+Met-State 
+Yes Yes No No 
+(k) Required Non-FED Share-
+State 
+32,156,150.71  32,445,892.69  34,461,885.45  10,252,119.52  
+(l) FED Funds Required to be 
+Matched-State 
+118,811,693.00  119,882,242.00  127,331,004.00  37,879,897.00  
+(m) FED Funds Matched-State 119,513,553.97  123,653,251.56  0.00  0.00  
+(n) FED Funds Match 
+Difference-State 
+701,860.97  3,771,009.56  (127,331,004.00) (37,879,897.00) 
+* Indicates the award is currently in an open status; therefore, data is either not currently available or not final.
+
+57 
+Table 3.3: VR Maintenance of Effort 
+ 
+Maintenance of Effort (MOE) 2021 2022 2023* 2024* 
+(a) AMT of Non-FED Share => 
+2 Years Prior 
+ Yes  Yes No No 
+(b) Non-FED Share 32,346,108.00  33,466,509.00  0.00  0.00  
+(c) Construction Expenditures-
+4th 
+0.00  0.00  0.00  0.00  
+(d) Construction Expenditures-
+Final 
+0.00  0.00  0.00  0.00  
+(e) Unadjusted MOE Base 32,346,108.00  33,466,509.00  0.00  0.00  
+(f) Adjusted MOE Base 32,346,108.00  33,466,509.00  0.00  0.00  
+(g) MOE Difference 466,805.00  289,989.00  (32,346,108.00) (33,466,509.00) 
+(h) Adjusted MOE Base-State 32,346,108.00  33,466,509.00  0.00  0.00  
+(i) MOE Difference-State 466,805.00  289,989.00  (32,346,108) (33,466,509.00) 
+* Indicates the award is currently in an open status; therefore, data is either not currently available or not final.  
+ 
+Table 3.4: Pre-Employment Transition Services 
+ 
+Pre-Employment Transition 
+Services (Pre-ETS) 2021 2022 2023* 2024* 
+(a) Pre-ETS Target Met Yes Yes No No 
+(b) PCT Matched FED Funds 
+Expended on Pre-ETS 
+21.9% 19.4% 0.0% 0.0% 
+(c) Pre-ETS FED Expenditures-
+Final 
+26,018,871.00  23,266,423.00  0.00  0.00  
+(d) Pre-ETS Base 118,811,693.00  119,882,242.00  0.00  0.00  
+(e) Pre-ETS Target 17,821,753.95  17,982,336.30  0.00  0.00  
+(f) Pre-ETS Difference 8,197,117.05  5,284,086.70  0.00  0.00  
+(g) Pre-ETS Requirement Met-
+State 
+Yes Yes No No 
+(h) PCT of Matched VR Funds 
+Spent on Pre-ETS-State 
+21.9% 19.4% 0.0% 0.0% 
+(i) Pre-ETS Base-State 118,811,693.00  119,882,242.00  0.00  0.00  
+(j) Pre-ETS Target-State 17,821,753.95  17,982,336.30  0.00  0.00  
+(k) Pre-ETS FED Expenditures-
+Final-State 
+26,018,871.00  23,266,423.00  0.00  0.00  
+(l) Pre-ETS Difference-State 8,197,117.05  5,284,086.70  0.00  0.00  
+(m) Negative is Amount of 
+Reserve Spent on Non-Pre-ETS 
+8,197,117.05  5,284,086.70  (127,331,004) (37,879,897.00) 
+* Indicates the award is currently in an open status; therefore, data is either not currently available or not final.
+
+58 
+Table 3.5: Program Income-Agency 
+ 
+Program Income 2021 2022 2023* 2024* 
+(a) Program Income Received-
+4th 
+7,832,266.00  10,320,752.00  9,134,628.00  10,003,748.00  
+(b) Program Income Received-
+Final 
+7,754,156.00  10,411,035.00  0.00  0.00  
+(c) Program Income Difference- 
+4th/Final 
+78,110.00  (90,283.00) 9,134,628.00  10,003,748.00  
+(d) Total Program Income 
+Disbursed-4th 
+0.00  0.00  49,441.00  1,071,983.00  
+(e) Total Program Income 
+Disbursed-Final 
+7,754,156.00  10,411,035.00  0.00  0.00  
+(f) Program Income Disbursed 
+Difference-4th/Final 
+(7,754,156.00) (10,411,035.00) 49,441.00  1,071,983.00  
+(g) Program Income Transferred 
+SILS Program-Final 
+4,594,573.00  2,171,648.00  0.00  0.00  
+(h) Program Income Transferred 
+to OIB Program-Final 
+46,918.00  405,685.00  0.00  0.00  
+(i) Program Income Transferred 
+to CAP Program-Final 
+0.00  0.00  0.00  0.00  
+(j) Program Income Transferred 
+to SE Program-Final 
+0.00  0.00  0.00  0.00  
+(k) Total Program Income 
+Transferred 
+4,641,491.00  2,577,333.00  0.00  0.00  
+(l) Program Income Used for 
+VR Program 
+3,112,665.00  7,833,702.00  0.00  0.00  
+SSA Reimbursement-4th 4,163,355.50  4,895,148.86  3,080,347.95  3,978,880.77  
+* Indicates the award is currently in an open status; therefore, data is either not currently available or not final.

@@ -1,0 +1,775 @@
+Case: 19-50283 Document: 00515547145 Page: 1 Date Filed: 08/31/2020 
+United States Court of Appeals 
+FIFTH CIRCUIT 
+OFFICE OF THE CLERK 
+LYLE W. CAYCE TEL. 504-310-7700 
+CLERK 600 S. MAESTRI PLACE, 
+Suite 115 
+NEW ORLEANS, LA 70130 
+August 31, 2020 
+MEMORANDUM TO COUNSEL OR PARTIES LISTED BELOW 
+Regarding: Fifth Circuit Statement on Petitions for Rehearing 
+or Rehearing En Banc 
+No. 19-50283 Texas Workforce Commission v. United 
+States Dept of Educ 
+USDC No. 3:17-CV-26 
+Enclosed is a copy of the court's decision. The court has entered 
+judgment under Fed. R. App. P. 36. (However, the opinion may yet 
+contain typographical or printing errors which are subject to 
+correction.) 
+Fed. R. App. P. 39 through 41, and 5TH Cir. R. 35, 39, and 41 
+5THgovern costs, rehearings, and mandates. Cir. R. 35 and 40 
+require you to attach to your petition for panel rehearing or 
+rehearing en banc an unmarked copy of the court's opinion or order. 
+Please read carefully the Internal Operating Procedures (IOP's) 
+following Fed. R. App. P. 40 and 5TH Cir. R. 35 for a discussion 
+of when a rehearing may be appropriate, the legal standards applied 
+and sanctions which may be imposed if you make a nonmeritorious 
+petition for rehearing en banc. 
+5THDirect Criminal Appeals. Cir. R. 41 provides that a motion 
+for a stay of mandate under Fed. R. App. P. 41 will not be granted 
+simply upon request. The petition must se t forth good cause for 
+a stay or clearly demonstrate that a substantial question will be 
+presented to the Supreme Court. Otherwise, this court may deny 
+the motion and issue the mandate immediately. 
+Pro Se Cases . If you were unsuccessful in the di strict court 
+and/or on appeal, and are considering filing a petition for 
+certiorari in the United States Supreme Court, you do not need to 
+file a motion for stay of mandate under Fed. R. App. P. 41. The 
+issuance of the mandate does not affect the time, or y our right, 
+to file with the Supreme Court. 
+Court Appointed Counsel. Court appointed counsel is responsible 
+for filing petition(s) for rehearing(s) (panel and/or en banc) and 
+writ(s) of certiorari to the U.S. Supreme Court, unless relieved 
+of your obligation by court order. If it is your intention to 
+file a motion to withdraw as counsel, you should notify your client 
+promptly, and advise them of the time limits for filing for 
+rehearing and certiorari . Additionally , you MUST confirm t hat 
+this information was given to your client, within the body of your 
+motion to withdraw as counsel.
+
+Case: 19-50283 Document: 00515547145 Page: 2 Date Filed: 08/31/2020 
+The judgment entered provides that appellant pay to appellee the 
+costs on appeal. A bill of cost form is available on the court' s 
+website www.ca5.uscourts.gov. 
+Sincerely, 
+LYLE W. CAYCE, Clerk 
+By: _______________________ 
+Charles B. Whitney, Deputy Clerk 
+Enclosure(s) 
+Mr. Eduardo R. Castillo 
+Ms. Laura Myron 
+Mr. Peter Andrew Nolan 
+Mr. Andrew J. Schumacher 
+Mr. Weili Justin Shaw
+
+Case: 19-50283 Document: 00515547117 Page: 1 Date Filed: 08/31/2020 
+IN THE UNITED STATES COURT OF APPEALS 
+FOR THE FIFTH CIRCUIT 
+United States Court of Appeals 
+Fifth Circuit 
+No. 19-50283 FILED 
+August 31, 2020 
+TEXAS WORKFORCE COMMISSION, Lyle W. Cayce 
+Clerk
+       Plaintiff - Appellee 
+v. 
+UNITED STATES DEPARTMENT OF EDUCATION, REHABILITATION 
+SERVICES ADMINISTRATION, 
+       Defendant - Appellant 
+Appeal from the United States District Court 
+for the Western District of Texas 
+USDC No. 3:17-CV-26 
+Before CLEMENT, HIGGINSON, and ENGELHARDT, Circuit Judges. 
+KURT D. ENGELHARDT, Circuit Judge: 
+Plaintiff-Appellee Texas Workforce Commission (the Commission) 
+alleges that the Army1 violated the Randolph-Sheppard Act, 20 U.S.C. § 107 et 
+seq., by failing to give priority to blind vendors in the bidding process for a 
+vending facility services contract at an Army base cafeteria.  An arbitration 
+panel found in favor of the Army.   The Commission appealed the panel’s 
+1 Upon judicial review, the Department of Education (the Department) is substituted 
+as the defendant for the Army. See 5 U.S.C. § 703 (“If no special statutory review proceeding 
+is applicable, the action for judicial review may be brought against the United States, the 
+agency by its official title, or the appropriate officer.”).
+
+Case: 19-50283 Document: 00515547117 Page: 2 Date Filed: 08/31/2020 
+No. 19-50283 
+decision to the district court. The district court granted summary judgment in 
+favor of the Commission and set aside the panel’s decision.  We AFFIRM. 
+I. 
+Congress established the Randolph-Sheppard Act (the Act) “[f]or the 
+purposes of providing blind persons with remunerative employment, enlarging 
+the economic opportunities of the blind, and stimulating the blind to greater 
+efforts in striving to make themselves self-supporting . . . .” 20 U.S.C. § 107(a). 
+To that end, the Act gives blind persons priority in the bidding process for 
+contracts to operate vending facilities on federal property.  Id. at § 107(b). The 
+Secretary of Education (the Secretary) administers the Act and prescribes its 
+implementing regulations. See id. at § 107a; 34 C.F.R. § 395 et seq. For these 
+vending facility contracts, designated state agencies, called State Licensing 
+Agencies (SLAs ), contract with the federal government on behalf of blind 
+vendors. 34 C.F.R. § 395.33(b). 
+Here, the Texas Workforce Commission is the SLA which sought to bid 
+on vending facility services contract s for cafeterias at Fort Bliss, a U.S. Army 
+base in Texas. The Army has two types of contracts for its cafeterias: Full Food 
+Services (FFS) and Dining Facility Attendant (DFA) services. FFS contracts 
+cover activities that comprise the full operation of an Army dining facility, such 
+as requisitioning, receiving, storing, preparing, and serving of food. DFA 
+contracts cover activities required to perform janitorial and custodial duties, 
+such as sweeping, mopping, pot and pan cleaning, and other sanitation-related 
+functions. 
+From 2003 to 2014, six cafeterias at Fort Bliss fell under one contract 
+held by one blind vendor.  But in late 2014 following the contract’s expiration, 
+the Army split the work into two separate contracts: one for FFS services and 
+one for DFA services.  Although the Commission continued to receive bidding 
+2
+
+Case: 19-50283 Document: 00515547117 Page: 3 Date Filed: 08/31/2020 
+No. 19-50283 
+priority for the FFS contract, the Army set aside the DFA contract for bidding 
+only by small businesses, effectively excluding the Commission from the 
+bidding process for the DFA contract.  Herein arises the dispute on appeal. 
+The Commission sought arbitration to challenge the Army’s solicitation 
+of bids for this DFA contract without applying the provisions of the Act to the 
+selection process. 2 The Army contends that the DFA contract is not for the 
+“operation” of a cafeteria; therefore, the Act does not apply, and blind vendors 
+need not receive priority in the bidding process.  The Commission, by contrast, 
+asserts that the Act applies to all contracts pertaining to the operation of 
+cafeterias on federal property, such that the Army violated the Act when it 
+failed to give the Commission priority in bidding on the DFA contract.  The 
+arbitration panel majority concluded that because “military personnel 
+retain[ed] responsibility for performing management operations, headcount 
+and cashier services, cooking, and menu planning and serving food at those 
+facilities,” the Army was not required to comply with the Act when soliciting 
+bids for DFA contracts.
+3 
+The Commission subsequently sought judicial review of the arbitration 
+panel’s decision.  The district court, concluding that the DFA contract at issue 
+is subject to the Act, granted summary judgment for the Commission and set 
+aside the arbitration panel’s decision.  This appeal followed. 
+2 Under the Act, disputes between a federal agency and an SLA are resolved by a 
+three-person arbitration panel; each party designates a panel member, and those two panel 
+members choose the third member. 20 U.S.C. §§ 107d -1, 107d-2. These panel decisions are 
+subject to judicial review as final agency actions under the Administrative Procedure Act. Id. 
+at §§ 107d-1(b), 107d-2(a); see 5 U.S.C. §§ 701–06. 
+3 Importantly, the arbitration panel did not conduct its analysis on a case -specific 
+basis but instead generally concluded that DFA contracts do not fall under the Act. Moreover, 
+the panel majority neglected to address whether the Army, by splitting the work into two 
+separate contracts, placed a limitation on the operation of the vending facility without first 
+justifying it in writing to the Secretary, as required by the Act. See 20 U.S.C. § 107(b). 
+3
+
+Case: 19-50283 Document: 00515547117 Page: 4 Date Filed: 08/31/2020 
+No. 19-50283 
+II. 
+Under the Act, an arbitration panel’s decision is subject to review as a 
+final agency action under the Administrative Procedure Act.  5 U.S.C. § 706(2). 
+A court must set aside that action if it is “arbitrary, capricious, an abuse of 
+discretion, or otherwise not in accordance with law.” Id. § 706(2)(A). We 
+review de novo the district court’s grant of summary judgment.  Bridges v. 
+Empire Scaffold, LLC, 875 F.3d 222, 225 (5th Cir. 2017); see FED. R. CIV. P. 
+56(a). 
+III. 
+The pivotal question here is whether the DFA contract at issue is subject 
+to the Act; the answer turns on the meaning of “operate” 4 as it is used in the 
+Act. The Act authorizes “blind persons . . . to operate vending facilities on any 
+Federal property,” and states that “[i]n authorizing the operation of vending 
+facilities on Federal property, priority shall be given to blind persons licensed 
+by a State agency.” 20 U.S.C. § 107(a)–(b) (emphasis added).   
+The Army contends that “operate” means to direct or manage, 
+implicating a level of executive authority, and because the DFA contract here 
+is only for janitorial and custodial- support services, the contract is not for the 
+“operation” of the cafeteria and does not fall under the Act. The Commission, 
+by contrast, contends that the services covered by the DFA contract are 
+integral to the operation of the cafeteria; therefore, the Act applies, and the 
+Commission should have received priority in bidding on the contract. Because 
+neither the statute nor its implementing regulations make a distinction 
+between the Act’s applicability to FFS versus DFA contracts,  see 20 U.S.C. § 
+4 Our discussion of the term “operate” extends to other variations of the word, i.e. 
+“operation” or “operator.” 
+4
+
+Case: 19-50283 Document: 00515547117 Page: 5 Date Filed: 08/31/2020 
+No. 19-50283 
+107(a)–(b); 34 C.F.R. § 395.33, in order to determine the reach of the Act, we 
+must first determine what it means  to “operate” a vending facility. 
+A. 
+We begin our statutory interpretation by inquiring whether the meaning 
+of the term “operate” is ambiguous. “When the words of a statute are 
+unambiguous . . . judicial inquiry is complete.” Conn. Nat’l Bank v. Germain, 
+503 U.S. 249, 254 (1992) (internal quotation marks and citation omitted). The 
+Act does not define “operate” or “operation,” see 20 U.S.C. § 107e , and we do 
+not find that the term’s plain meaning is resolved after reviewing multiple 
+dictionary definitions. 5  Nevertheless, the Department contends that the 
+“ordinary or natural meaning” of “operate” is unambiguous based on the 
+Supreme Court’s and our court’s interpretation of the term in Bestfoods and 
+Nature’s Way Marine. See United States v. Bestfoods , 524 U.S. 51 (1998); 
+United States v. Nature’s Way Marine, L.L.C., 904 F.3d 416 (5th Cir. 2018). 
+We, however, are hesitant to rely on Bestfoods and Nature’s Way Marine for 
+the ordinary and natural meaning of “operate” given the contextual differences 
+between those cases and the instant case. 
+In Nature’s Way Marine, our court followed the Supreme Court’s 
+interpretation of “operate” in Bestfoods and held that “an ‘operator’ of a vessel 
+under the [statute] would include someone who directs, manages, or conducts 
+the affairs of the vessel.” Nature’s Way Marine, 904 F.3d at 420 –21. 
+5 The dissenting opinion cherry -picks three dictionary definitions to support its 
+assertion that to “operate” a cafeteria unambiguously means to have some level of executive 
+control over it.  But it fails to list a number of other definitions that do not implicate a 
+requisite level of control. For example, The Oxford English Dictionary includes a definition 
+for “operate” that means to “produce an effect; to act, work.” Operate, O
+XFORD ENGLISH 
+DICTIONARY (3d ed. 2004). Merriam-Webster defines it as “to perform a function” and “to put 
+or keep in operation.” Operate, MERRIAM-WEBSTER.COM, 
+ https://www.merriam-
+webster.com/dictionary/operate (last visited Aug. 18, 2020).  Moreover, even the definitions 
+quoted by the dissenting opinion carry alternative meanings. A review of all dictionary 
+definitions reveals that the term “operate” does not bear a singular, plain meaning. 
+5
+
+Case: 19-50283 Document: 00515547117 Page: 6 Date Filed: 08/31/2020 
+No. 19-50283 
+Importantly, Judge Elrod, writing for the court, noted that the statutes in 
+Bestfoods and Nature’s Way Marine “have common purposes and a shared 
+history” and the “parallel language between the two statutes is significant.” 
+Id. at 420. Indeed, the statute in Bestfoods “define[d] . . . ‘operator’ with the 
+exact same language” as the statute at issue in Nature’s Way Marine, id., so it 
+is unsurprising that the court in Nature’s Way Marine adopted the Bestfoods 
+court’s ordinary and natural meaning of the word. See United States v. Meade, 
+175 F.3d 215, 220 (1st Cir. 1999) (noting that the use of parallel language or 
+construction in different statutes may inform judicial interpretation). 
+However, no such commonality exists between the Act in the instant case 
+and either of those statutes.  The shared purpose of the Bestfoods and Nature’s 
+Way Marine statutes centers on liability and compensation for environmental 
+pollution.  See generally 33 U.S.C. §§ 2701– 2762; 42 U.S.C. §§ 9601 –9675. 
+Given that context, it would be fair to say the ordinary and natural meaning 
+of “operator” is a person who “directs, manages, or conducts” the affairs of the 
+facility or vessel because a level of control or responsibility is implicated when 
+liability is involved.  But no liability is implicated by the Act here. Quite the 
+opposite, the Randolph-Sheppard Act was enacted to benefit blind persons by 
+providing them with greater employment and economic opportunities. The Act 
+has a “distinct, focused, and singular purpose” that is not covered by the 
+Bestfoods or Nature’s Way Marine statutes.  See Meade, 175 F.3d at 221. 
+Furthermore, the word the Bestfoods and Nature’s Way Marine courts 
+analyzed was “operator,” but the whole term as listed in the definitions section 
+of both statutes is “owner or operator.” So, it is also unsurprising that the 
+courts interpreted “operator” to mean a person with some sort of executive 
+control or authority because “operator” was defined in tandem with “owner.” 
+By contrast, in the instant case, the Army “owns” the cafeteria, whereas the 
+third party managing the services contract “operates ” the vending facility. 
+6
+
+Case: 19-50283 Document: 00515547117 Page: 7 Date Filed: 08/31/2020 
+No. 19-50283 
+Unlike the statutes in Bestfoods and Nature’s Way Marine, under the Act here, 
+the party who “operates” the vending facility cannot and should not be defined 
+in the same way as the “owner.” 
+Because of the significant contextual distinctions, we cannot 
+unequivocally say that “operate” carries the same meaning in a pollution 
+liability statute as it does in an employment opportunity statute.  “[T]he 
+presumption of consistent usage can hardly be said to apply across the whole 
+corpus juris. Frequently when a court is called on to construe a statutory word 
+or phrase, counsel for one side will argue that it must bear the well-established 
+or unavoidable meaning that the same word or phrase has in a different statute 
+altogether.  Without more, the argument does not have much force[.]” Antonin 
+Scalia & Bryan A. Garner, Reading Law: The Interpretation of Legal Texts 172 
+(2012). “[P]recedent teaches that the case for construing one statute in a 
+manner similar to another is weakest when the two have significant 
+differences.” Meade, 175 F.3d at 221 (referencing United States v. Granderson, 
+511 U.S. 39, 50 –51 (1994)); cf. Walter Wheeler Cook, “Substance” and 
+“Procedure” in the Conflict of Laws, 42 Y
+ALE L.J. 333, 337 (1933) (“The 
+tendency to assume that a word which appears in two or more legal rules . . . 
+has and should have precisely the same scope in all of them . . . must constantly 
+be guarded against.”). “[T]he mere fact that the words are used in each 
+instance is not a sufficient reason for treating a decision on the meaning of the 
+words of one statute as authoritative on the construction of another statute.” 
+Rupert Cross, Precedent in English Law 192 (1961). Accordingly, our inquiry 
+into the meaning of the word “operate” should not begin and end with Bestfoods 
+and Nature’s Way Marine. Although we need not dismiss their interpretations 
+of the word entirely, further investigation is required. 
+A case which presents a more instructive interpretation of “operate” is 
+Ivy v. Williams, 781 F.3d 250 (5th Cir. 2015).  In Ivy, our court was tasked with 
+7
+
+Case: 19-50283 Document: 00515547117 Page: 8 Date Filed: 08/31/2020 
+No. 19-50283 
+determining the meaning of “operations,” as it was used in the Rehabilitation 
+Act. Id. at 254–55. There, the plaintiffs, who were deaf individuals, brought 
+suit against the Texas Education Agency (TEA) to bring driver education into 
+compliance with the Americans with Disabilities Act and the Rehabilitation 
+Act. Id. at 252– 53. The key question was whether the plaintiffs had been 
+excluded from participation in or denied the benefits of the services, programs, 
+or activities of the TEA. Id. at 254–55. To answer that question, our court had 
+to determine whether driver education is a “service, program, or activity” of 
+the TEA. Id. The Rehabilitation Act defined “program or activity” as “all the 
+operations of” a public entity.  Id. at 255 (citing 29 U.S.C. § 794(b)).  Judge 
+Clement, writing for the court, then offered the following explanation: “In the 
+context of interpreting this definition, we have explained that Webster’s 
+Dictionary broadly defines ‘operations’ as ‘the whole process of planning for 
+and operating a business or other organized unit,’ and defines ‘operation’ as ‘a 
+doing or performing esp[ecially] of action.’”  Id. (citing Frame v. City of 
+Arlington, 657 F.3d 215, 227 (5th Cir. 2011)). 
+The Ivy court’s broad interpretation of “operate” is particularly 
+instructive here because the purposes of the Rehabilitation Act and the 
+Randolph-Sheppard Act are strikingly similar. The Rehabilitation Act lists 
+several purposes including “to empower individuals with disabilities to 
+maximize employment, economic self-sufficiency, independence, and inclusion 
+and integration into society.” 29 U.S.C. § 701(b)(1) (emphasis added). The 
+Randolph-Sheppard Act likewise is “[f]or  the purposes of providing blind 
+persons with remunerative employment, enlarging the economic opportunities 
+of the blind, and stimulating the blind to greater efforts in striving to make 
+themselves self-supporting.” 20 U.S.C. § 107(a) (emphasis added). Clearly, 
+these two statutes have similar purposes—to give disabled persons greater 
+employment and economic opportunities.  Accordingly , the Ivy court’s 
+8
+
+Case: 19-50283 Document: 00515547117 Page: 9 Date Filed: 08/31/2020 
+No. 19-50283 
+explanation is informative to our statutory analysis in the instant case. 6 See 
+Meade, 175 F.3d at 215. 
+Because the Bestfoods and Nature’s Way Marine courts and the Ivy court 
+present reasonable, yet contrasting, interpretations for the meaning of 
+“operate,” and the Act here provides no clear definition, we find that the term 
+is ambiguous. 
+The dissenting opinion conte nds that the term’s meaning is 
+unambiguous.  However, it took eight pages to explain how it reached t hat 
+conclusion, only to concede on the last page that “other senses of operate exist.”  
+And we have also reviewed the dictionary definition of “ambiguous”: “capable 
+of being understood in two or more possible senses or ways.”  Ambiguous, 
+MERRIAM-WEBSTER.COM, https://www.merriam-webster.com/dictionary/ambiguous 
+(last visited Aug. 18, 2020) (emphasis added).  Indeed, it is difficult to 
+contemplate how the Bestfoods case could have made it to the steps of the 
+Supreme Court were the term’s meaning plain and unambiguous. And the 
+term’s ambiguity cannot be resolved by the Court’s construction in Bestfoods 
+and later adopted by our court in Nature’s Way Marine because the meaning 
+of an ambiguous term, by its very nature, changes depending on its usage. 
+B. 
+Finding that the statutory language is ambiguous, we must now 
+construe the meaning of “operate” based on the context in and purpose for 
+which it is used. See Wachovia Bank v. Schmidt, 546 U.S. 303, 318 (2006) 
+(finding that the word “located” is a chameleon word in that its meaning 
+depended on its context and purpose). 
+6 The dissenting opinion’s suggestion that Ivy does not support a broad interpretation 
+of “operate” is perplexing given that the Ivy court expressly states that the term is “broadly 
+define[d].” See Ivy, 781 F.3d at 255.  Furthermore, that the Ivy court found driver education 
+fell outside the ambit of the Rehabilitation Act is neither here nor there. It is Ivy’s definition 
+of “operate” that is relevant to the instant case. 
+9
+
+Case: 19-50283 Document: 00515547117 Page: 10 Date Filed: 08/31/2020 
+No. 19-50283 
+Justice Scalia identified one of the fundamental principles of reading law 
+to be a presumption against ineffectiveness.  That is, a textually permissible 
+interpretation that furthers rather than obstructs the document’s purpose 
+should be favored. Scalia & Garner, supra, at 63 –65. Here, although the 
+meaning of “operate” is ambiguous, the purpose of the Act is not: 
+For the purposes of providing blind persons with remunerative 
+employment, enlarging the economic opportunities of the blind, and 
+stimulating the blind to greater efforts in striving to make 
+themselves self-supporting, blind persons licensed under the 
+provisions of this chapter shall be authorized to operate vending 
+facilities on any Federal property. 
+20 U.S.C. § 107(a) (emphasis added).  We should not use the Act’s purpose to 
+expand the meaning of the term “operate” beyond its permissible meaning.  See 
+Scalia & Garner, supra, at 35. But, as the district court noted, “operate” could 
+be fairly read as including all necessary tasks to the functioning of a cafeteria 
+or only those tasks which implicate a level of control or authority. Either 
+interpretation of the word is reasonable and permissible.  A broader reading of 
+“operate” which includes more than only executive- level functions would 
+further the Act’s purpose; therefore, applying a presumption against 
+ineffectiveness, it is the more favorable interpretation. 
+Additionally, prior to 2014 when the Army split the vending facility 
+contract into two, the same custodial and sanitation services now at issue, as 
+part of the then single vending facility contract, were subject to the Act. 
+Accordingly, the dissent is mistaken that our interpretation of “operate” 
+conflicts with its ordinary usage.  On the contrary, the customary application 
+of the Act had previously included these services that are now in a separate 
+DFA contract. To hold that the DFA contract now does not fall under the ambit 
+of the Act because it is not for the “operation” of the cafeteria is inconsistent 
+with the Act’s customary application to these services. See John F. Manning, 
+10
+
+Case: 19-50283 Document: 00515547117 Page: 11 Date Filed: 08/31/2020 
+No. 19-50283 
+What Divides Textualists from Purposivists?, 106 COLUM. L. REV. 70, 92–93 
+(2006) ( “Textualists start with contextual evidence that goes to customary 
+usage and habits of speech . . . When contextual evidence of semantic usage 
+points decisively in one direction, that evidence takes priority over contextual 
+evidence that relates to questions of policy.”). Again, this cuts against the 
+dissent’s narrow interpretation of “operate.”  Cf. Abramski v. United States, 
+573 U.S. 169, 179 (2014) ( noting that we must interpret an ambiguous word 
+not in a vacuum but with reference to, among other things, the statute’s 
+historical application).   
+A broader interpretation of “operate” is further supported by a March 5, 
+2018 letter from the Secretary of Education.  In her letter, which was issued 
+after the arbitration panel’s decision in the instant case, the Secretary notes 
+the existence of a dispute over the types of contracts to which the Act applies 
+and, in no uncertain terms, states that the Department believes the Act applies 
+to both FFS and DFA contracts.  The Secretary then directly discusses the term 
+“operation” as it is used in the Act: 
+Nothing in the Randolph-Sheppard Act requires a vendor to 
+participate in every activity of the cafeteria in order to “manage” 
+or “direct the working of” the cafeteria.  Where a vendor is 
+responsible for all the functions of the cafeteria aside from those 
+performed by military personnel —such as supervisory, 
+administrative, and sanitation-related functions —the vendor can 
+be said to “manage” the cafeteria, even if the vendor is not 
+preparing the food.  Indeed, the cafeteria would not be able to 
+operate without the vendor performing those functions. 
+The Secretary further clarified that the Act may not apply to all DFA contracts, 
+such as those which are limited to discrete tasks. But the Secretary 
+subsequently points to an example of a DFA contract that did fall within the 
+Act’s applicability.  In that case, concerning a DFA contract for services at a 
+cafeteria at Fort Riley, Kansas, the panel concluded that the Act applied to the 
+11
+
+Case: 19-50283 Document: 00515547117 Page: 12 Date Filed: 08/31/2020 
+No. 19-50283 
+DFA contract because the contract “include[d] tasks that constitute an integral 
+element of providing food service at a military cafeteria facility, or pertain to 
+the operation of a cafeteria, or tasks that without which the cafeterias would 
+not be able to function.” See Kan., Dep’t of Children & Family Servs. v. U.S. 
+Dep’t of the Army, Fort Riley , Case No. RS/15-15 (May 9, 2017), 
+https://www2.ed.gov/programs/rsarsp/arbitration-decisions/r-s-15-15.pdf. 
+Following this case cite, the Secretary concludes, “[t]he Department takes 
+seriously its responsibility to administer the Randolph-Sheppard Act and to 
+follow the congressional aim ‘to foster the expansion of the Randolph-Sheppard 
+program to its fullest potential.’” (emphasis added). The Secretary’s language 
+here favors a broader interpretation of “operate” in the context in which it is 
+used within the Act.  Although the Secretary’s letter does not carry the force of 
+law, we find it presents a “reasonable interpretation” of the Act, such that it is 
+persuasive and is therefore “entitled to respect.” See Christensen v. Farris Cty., 
+529 U.S. 576, 587 (2000).  Accordingly, the district court did not err in holding 
+that the Act may apply to DFA contracts generally. 
+We now turn to the DFA contract at issue here.
+7  Upon reviewing the 
+contract’s language and enumerated tasks, we conclude that the DFA contract 
+is subject to the Act. The Performance Work Statement (PWS) of the DFA 
+contract states that “[t]his contract includes all functions, tasks, and 
+responsibilities normally performed by a Food Service Operation.” 
+Furthermore, the contract is not limited to “discrete tasks” and instead lists 
+several pages of specific tasks all for the combined purpose of providing 
+7 Unlike the arbitration panel, we conclude that there is no bright -line rule with 
+respect to the Act’s applicability to DFA contracts; instead, each contract must be examined 
+on a case-by-case basis according to the contract’s individual particularities. Consequently, 
+our ruling here does not foreclose similar issues on appeal in other cases, e.g. SourceAmerica 
+v. U. S. Dep’t of Educ., 368 F. Supp. 3d 974 (E.D. Va. 2019), which is currently pending appeal 
+in the Fourth Circuit. 
+12
+
+Case: 19-50283 Document: 00515547117 Page: 13 Date Filed: 08/31/2020 
+No. 19-50283 
+sanitation-related functions, which the Secretary identified as necessary to the 
+operation or “manage[ment]” of a cafeteria.  These tasks include, but are not 
+limited to, the following: providing “[c]lean and sanitized dinnerware, utensils, 
+and trays . . . to diners without delay 100% during” meal services; cleaning food 
+and beverage spills during meal services “within [five] minutes of occurrence”; 
+cleaning and sanitizing all food service equipment and containers;  preparing, 
+maintaining, and cleaning dining areas and “afford[ing] each diner a clean area 
+to eat without delay. The dissent mistakenly suggests our opinion adopts a 
+meaning of the term “operate” where if you’re involved “even a little bit ” in 
+causing something to function, you “operate” that thing. That suggestion is so 
+far afield from what we hold here today.  We hardly see how a vendor who is 
+in charge of the litany of functions supra—in addition to others not enumerated 
+in our opinion—is involved in the cafeteria’s operation only “a little bit.”  And 
+we, in no uncertain terms, state that the Act may not apply to other DFA 
+contracts, such as ones limited to a discrete task.  But in the DFA contract 
+before us, these tasks, taken together, involve operating the cafeteria.
+8 
+Accordingly, the district court did not err in holding that the DFA contract falls 
+within the terms of the Act, such that the Army violated the Act by not giving 
+the Commission priority in the bidding process. 
+For the reasons stated herein, the district court’s order granting 
+summary judgment in favor of the Commission and setting aside the 
+arbitration panel’s decision is AFFIRMED. 
+8 The dissent further laments that in reaching this conclusion we have applied a 
+definition of what it means to “operate” a cafeteria from an arbitration panel ruling on the 
+very same issue before us today. See Fort Riley, Case No. RS/15-15. And?  Our construction 
+of the term’s meaning, in light of the context and purpose for which it is used in the Act, 
+comports with that panel’s analysis of an analogous DFA contract. The only “mystery” that 
+remains is why the dissenting opinion prefers a definition of “operate” pulled from cases that 
+have several stark statutory and factual distinctions. 
+13
+
+Case: 19-50283 Document: 00515547117 Page: 14 Date Filed: 08/31/2020 
+No. 19-50283 
+EDITH BROWN CLEMENT, Circuit Judge, dissenting: 
+The issue here is whether this custodial-services contract is a contract to 
+“operate” a cafeteria. The majority holds that it is. But that’s not how an 
+ordinary English speaker uses operate. And nothing about how this statute or 
+its implementing regulations use operate or operation suggests a different 
+contextual meaning. There will be cases where determining whether a contract 
+entails the “operation” of a cafeteria will be hard. This is n’t one of them. I 
+therefore respectfully dissent. 
+I. 
+The “first” and “cardinal canon” of statutory construction is that the 
+“legislature says in a statute what it means and means in a statute what it 
+says.” Conn. Nat’l Bank v. Germain, 503 U.S. 249, 253–54 (1992). So, “[w]hen 
+the words of a statute are unambiguous, . . . this first canon is also the last: 
+‘judicial inquiry is complete.’” Id. at 254 (quoting Rubin v. United States, 449 
+U.S. 424, 430 (1981)). Operate and operation, as they are used in the Randolph-
+Sheppard Act, have a plain, unambiguous meaning: to “operate” a cafeteria 
+means to have some level of executive control over it. All our usual interpretive 
+sources support this meaning. 
+U.S. Supreme Court case law supports this meaning. In United States v. 
+Bestfoods, 524 U.S. 51 (1998), the Court construed what “operating” a facility 
+meant. The Court stated that, “[i]n a mechanical sense, to ‘operate’ ordinarily 
+means ‘[t]o control the functioning of; run: operate a sewing machine.’ And in 
+the organizational sense . . . , the word ordinarily means ‘[t]o conduct the 
+affairs of; manage : operate a business.’” Id. at 66 (citation omitted) (quoting 
+A
+MERICAN HERITAGE DICTIONARY 1268 (3d ed. 1992)) . The unanimous Court 
+applied the organizational sense of operate, holding that “an operator is simply 
+someone who directs the workings of, manages, or conducts the affairs of a 
+facility.” Id. 
+14
+
+Case: 19-50283 Document: 00515547117 Page: 15 Date Filed: 08/31/2020 
+No. 19-50283 
+This circuit’s case law supports this meaning. In United States v. 
+Nature’s Way Marine, L.L.C., 904 F.3d 416, 417 –18 (5th Cir. 2018), we 
+construed what “operating” a vessel meant—there, the vessels were two barges 
+that the defendant was moving with its tugboat. We too applied the 
+organizational sense of operate, holding that “the ordinary and natural 
+meaning of an ‘operator’ of a vessel” is one “who directs, manages, or conducts 
+the affairs of the vessel.” Id. at 420–21. 
+Definitions in leading dictionaries support this meaning. The Oxford 
+English Dictionary defines operate to mean “to manage, to direct the operation 
+of.” Operate, OXFORD ENGLISH DICTIONARY (3d ed. 2004). Webster’s Third New 
+International Dictionary defines it to mean “to manage and put or keep in 
+operation whether with personal effort or not” such as “ operated a grocery 
+store.” Operate, W
+EBSTER’S THIRD NEW INTERNATIONAL DICTIONARY 1581 
+(2002). And, as already cited, the American Heritage Dictionary defines it to 
+mean “[t]o conduct the affairs of; manage: operate a business.” Operate, 
+AMERICAN HERITAGE DICTIONARY, supra, quoted in Bestfoods, 524 U.S. at 66.1 
+The way this statute and its implementing regulations use operate and 
+operation supports this meaning. Section 107a(d)(2)(B)(ii) of the Act addresses 
+when the “operation” of a cafeteria “would be in . . . competition with” an 
+incumbent “restaurant or other food facility.” 20 U.S.C. § 107a(d)(2)(B)(ii). This 
+suggests that a vendor’s contract is for the “operation” of a cafeteria only if the 
+vendor has some control over directing and managing the cafeteria —to say 
+1 The majority claims that I selectively chose these definitions over others that support 
+a different sense of operate. But of the three supposedly alterna tive definitions that the 
+majority cites, two are for operate when used as an intransitive verb— operate is clearly used 
+as a transitive verb here—and for the third, the majority leaves out Merriam-Webster’s usage 
+example, which conflicts with how the majority uses operate and is the same as the example 
+I quote from Webster’s Third: “operated a grocery store.” In any event, the majority doesn’t 
+explain how these definitions support its sense of operate. 
+15
+
+Case: 19-50283 Document: 00515547117 Page: 16 Date Filed: 08/31/2020 
+No. 19-50283 
+that a vendor without executive control over the cafeteria’s food or its pricing 
+is in “competition” with another food facility would strain the ordinary and 
+natural meaning of competition. For example, it wouldn’t make sense to say 
+that a vendor with a contract to clean dishes at restaurant A is in competition 
+with restaurant B. And 34 C.F.R. § 395.33(a) states that a blind vendor gets 
+priority in the bidding process if its “operation” of the cafeteria is “at a 
+reasonable cost, with food of a high quality comparable to that currently 
+provided employees.” This suggests that the “operation” of a cafeteria entails 
+having some control over the food and its quality. Both of these uses suggest 
+that a vendor who “operates” a cafeteria must to some degree direct, manage, 
+or conduct its affairs, and likely must have some control over the food. 
+All these sources support that operate is used in the organizational sense 
+here, and no authority suggests otherwise. Our judicial inquiry into this 
+interpretive issue is therefore complete. All that’s left is to apply the term’s 
+plain meaning to the contract. This custodial-services contract is for “activities 
+required to perform janitorial and custodial duties within dining facilities,” 
+such as “sweeping, mopping, scrubbing, trash removal, dishwashing, waxing, 
+stripping, buffing, window washing, pot and pan cleaning, and other 
+sanitation-related functions.” None of these duties entail directing, managing, 
+or conducting the cafeteria’s affairs. Under this contract, the vendor doesn’t 
+order food, prepare food, serve food, determine what is served, determine how 
+much to serve, determine what to charge for a meal, or have any other duties 
+that might arguably suggest that the vendor has executive-level authority over 
+the cafeteria’s affairs. Thus, this contract is not for the “operation” of a 
+cafeteria. 
+The majority, however, doesn’t apply this organizational sense of 
+operate. It applies a “broad” sense, holding that a vendor under this contract 
+“operates” a cafeteria because its “tasks, taken together, involve operating the 
+16
+
+Case: 19-50283 Document: 00515547117 Page: 17 Date Filed: 08/31/2020 
+No. 19-50283 
+cafeteria.” That explanation isn’t very helpful because, like the statutory 
+definitions in Bestfoods and Nature’s Way, it’s circular. Cf. Bestfoods, 524 U.S. 
+at 66 (“Here of course we may again rue the uselessness of [the statute’s] 
+definition of a facility’s ‘operator’ as ‘any person . . . operating’ the facility . . . .” 
+(quoting 42 U.S.C. § 9601(20)(A)(ii))); Nature’s Way, 904 F.3d at 420 (“The 
+statute does not define ‘operating,’ offering instead only the circular definition 
+that an ‘owner or operator’ is ‘in the case of a vessel, any person owning [or] 
+operating . . . the vessel’” (quoting 33 U.S.C. § 2701(26)(A)(i))). What it means 
+to “operate” a cafeteria remains a mystery. 
+The definition that the majority appears to use is from an arbitration 
+panel ruling. That panel held that a contract is for the “operation” of a cafeteria 
+if the contract “includes tasks that constitute an integral element of providing 
+food service at a military cafeteria facility, . . . or tasks that without which the 
+cafeterias would not be able to function.” Kan., Dep’t of Children & Family 
+Servs. v. U.S. Dep’t of the Army, Fort Riley, Case No. RS/15-15 (May 9, 2017), 
+https://www2.ed.gov/programs/rsarsp/arbitration-decisions/r-s-15-15.pdf. 
+Circularity problems aside, this sense of operate conflicts with ordinary usage. 
+Mopping the floor, cleaning the kitchen, and bussing tables are tasks 
+that are integral to operating a restaurant. But if someone who did only those 
+tasks claimed that he was “operating” a restaurant, an ordinary Engli sh 
+speaker would think him confused, mistaken, or dishonest. Similarly, no 
+ordinary English speaker would say that sanitizing the butcher counter at 
+Whole Foods is “operating” a grocery store, that scrubbing the hull of a ship is 
+“operating” a vessel, or that doing custodial work at a chemical plant is 
+“operating” a facility. Yet that’s what the majority’s broad sense of operate 
+would entail. Indeed, based on this broad sense, food suppliers, electricity 
+providers, and plumbers— all of whom perform tasks that, without which, a 
+17
+
+Case: 19-50283 Document: 00515547117 Page: 18 Date Filed: 08/31/2020 
+No. 19-50283 
+cafeteria could not function— “operate” a cafeteria. We shouldn’t adopt a sense 
+of operate that so obviously conflicts with how ordinary people use the word. 
+The majority disagrees. It claims that this sense of operate is consistent 
+with ordinary usage. It reasons that, because the custodial services performed 
+under this contract used to be performed under a larger contract that covered 
+the whole vending facility, and because that contract was subject to the 
+Randolph-Sheppard Act, holding that this custodial-services contract isn’t for 
+the “operation” of a cafeteria is inconsistent with how the Act is customarily 
+applied to those services. I’m not sure that is an example of ordinary usage, 
+but the argument is flawed, nonetheless. The majority incorrectly assumes 
+that what is true of the whole is true of each of its parts—i.e., because someone 
+who performs tasks A–Z “operates” a cafeteria, someone who performs only 
+tasks A–D “operates” a cafeteria. Under that reasoning, a contract solely to 
+sweep the floor would be a contract to “operate” a cafeteria so long as the prior 
+contract included sweeping the floor. That obviously isn’t right. What made the 
+prior contract a contract to “operate” a cafeteria might have been everything 
+except the custodial services. This argument therefore doesn’t show that these 
+custodial services, by themselves, constitute the “operation” of a cafeteria or 
+that the majority’s broad sense of operate is consistent with ordinary usage. 
+The Randolph-Sheppard Act clearly uses operate in the organizational 
+sense. The Supreme Court, this court, and countless dictionaries confirm that 
+operate has a settled, plain meaning when used in this sense. This plain 
+meaning definitively resolves the question before us: Is this custodial -services 
+contract a contract to “operate” a cafeteria? No, it isn’t. Thus, the Act doesn’t 
+apply. 
+II. 
+The majority uses a different sense of operate because it finds an 
+ambiguity. It claims that (a) Ivy v. Williams, 781 F.3d 250 (5th Cir. 2015), 
+18
+
+Case: 19-50283 Document: 00515547117 Page: 19 Date Filed: 08/31/2020 
+No. 19-50283 
+supports this different, broad sense of operate, and (b) we can’t rely on 
+Bestfoods and Nature’s Way because there are contextual differences between 
+how operate is used in the statutes there and here. Both claims are wrong. We 
+therefore have no reason to search for a different sense of the word. 
+A. 
+The majority’s first claim is that Ivy uses a different sense of operate—a 
+“broad” sense. It doesn’t. In Ivy, the issue was whether the “plaintiffs ha[d] 
+been ‘excluded from participation in or . . . denied the benefits of the services, 
+programs, or activities’” of the Texas Education Agency. Id. at 255 (quoting 42 
+U.S.C. § 12132). To resolve that issue, we had to determine whether driver 
+education—the allegedly denied benefit —was an Agency service, program, or 
+activity under the relevant statute. Id. That statute states that “‘program or 
+activity’ means all of the operations of” a public entity. 29 U.S.C. § 794(b). 
+That’s why we cited definitions for operations—“the whole process of planning 
+for and operating a business or other organized unit”—and operation—“a doing 
+or performing esp[ecially] of action.” Ivy, 781 F.3d at 255 (quoting W
+EBSTER’S 
+THIRD NEW INTERNATIONAL DICTIONARY 1581 (1993)). These definitions 
+supposedly support the majority’s broad sense of operate. 
+The majority doesn’t explain how these definitions support its broad 
+sense of operate or how that sense squares with how operate is used in this 
+statute or its implementing regulations. Regardless, in Ivy we held that the 
+Agency did “not operate or perform driver education because it [did] not teach 
+driver education or contract with the schools that [did].” Id. (emphasis added). 
+We held this even though the Agency is in charge of licensing such schools. Id. 
+at 253–54. If Ivy supported the broad sense that the majority cites it for, that 
+case would have gone the other way. The licensing of driver-education schools 
+is integral to their operation —arguably more so than custodial work is to the 
+19
+
+Case: 19-50283 Document: 00515547117 Page: 20 Date Filed: 08/31/2020 
+No. 19-50283 
+operation of a cafeteria. Ivy therefore doesn’t support this broad sense of 
+operate.2 
+B. 
+The majority’s second claim is that we can’t rely on Bestfoods and 
+Nature’s Way because of contextual differences in how the statutes in those 
+cases use operate. The majority correctly notes that the statutes in Bestfoods 
+and Nature’s Way have a shared history, common purpose, and parallel 
+language, and that they are about liability and compensation, not awarding 
+government contracts. The statutes indeed have differences, but the way they 
+use operate is the same. Those cases were about what it meant to “operate” a 
+facility or vessel; this case is about what it means to “operate” a cafeteria. The 
+statutes’ differences, therefore, are not differences in usage. 
+Nevertheless, the majority finds these differences relevant. It points out 
+that those statutes, unlike this one, rely on statutory definitions of an “owner 
+or operator” and impose liability. But it’s unclear how either point affects our 
+analysis. In those statutes, owner and operator are separated by the disjunctive 
+or, not and, so the meanings of those two words aren’t necessarily related. 
+Indeed, in Nature’s Way, we held the defendant liable for operating barges that 
+it didn’t own. 904 F.3d at 418. In any event, neither case suggested that the 
+word owner or the potential for liability affects what operate means. 
+On the liability point, the majority seems to reason that, because the 
+broad sense of operate wouldn’t fit with a statute that imposes liability, we 
+can’t infer much of anything from the sense of operate used in those statutes. 
+The organizational sense, on the other hand, fits those statutes “because a level 
+2 The Supreme Court vacated and remanded Ivy with instructions to dismiss the case 
+as moot. Ivy v. Morath , 137 S. Ct. 414 (2016) (mem.). So even if Ivy supported a different 
+sense of operate, that case is no longer precedential and, therefore, is poor evidence of an 
+ambiguity. 
+20
+
+Case: 19-50283 Document: 00515547117 Page: 21 Date Filed: 08/31/2020 
+No. 19-50283 
+of control or responsibility is implicated when liability is involved.” I agree that 
+liability usually involves some level of control or responsibility, but that isn’t 
+why the broad sense of operate is a poor fit. 
+Someone can be responsible for causing an injury without having 
+executive-level control over the injury -causing thing. For example, consider if 
+the tugboat accident in Nature’s Way had been caused by the boat’s mechanic. 
+A mechanic undoubtedly performs tasks integral to the boat’s functioning and, 
+hence, the barges that the boat was moving. If the mechanic had caused the 
+accident by negligently repairing the boat’s engine, he would be at least partly 
+responsible. He wouldn’t be liable under the statute, however, because the 
+statute limits liability to the person “owning” or “operating” the vessel. 33 
+U.S.C. §§ 2702(a), 2701(32)(A). The statute in Bestfoods similarly limits 
+liability to the person “owning” or “operating” the facility. 42 U.S.C. § 9607(a). 
+The majority seems to get this causal connection backwards—those statutes 
+limit liability only to the person with executive-level control not because the 
+statutes impose liability, but because they use the word operate. Thus, these 
+attempts to distinguish Bestfoods and Nature’s Way fail to show that any of 
+these statutes use operate differently. 
+Ivy doesn’t support a different sense of operate and Bestfoods and 
+Nature’s Way don’t use operate differently than how it’s used here. The 
+majority’s two reasons for finding an ambiguity therefore fail to show any such 
+ambiguity. Operate has one clear sense here—the organizational sense —and 
+the majority cites no authority that calls that into doubt. 
+III. 
+To be sure, other senses of operate exist. Operate has a slightly different 
+meaning in, for example, the medical and mechanical contexts. But the 
+majority isn’t applying those senses; it’s applying what appears to be a novel 
+sense of operate where, if you’re involved—even a little bit—in causing 
+21
+
+Case: 19-50283 Document: 00515547117 Page: 22 Date Filed: 08/31/2020 
+No. 19-50283 
+something to function, you “operate” that thing. This seems to be an attempt 
+to solve a problem we don’t yet have. 
+That problem is that, for some contracts, determining whether the 
+vendor is “operating” a cafeteria will be difficult—e.g., does a vendor who is in 
+charge of everything in the cafeteria except preparing the food “operate” the 
+cafeteria? That case will be tough because we will have to determine how much 
+executive-level control is necessary to constitute “operating” a cafeteria. That 
+is, such a case will be tough not because the meaning of operate is ambiguous, 
+but because its application to the facts will be debatable. At the margins, 
+determining exactly how much executive control is required under this statute 
+will be a difficult line-drawing problem. But it’s a line we need not draw 
+because for this contract, the vendor has no executive control over the cafeteria. 
+That makes our job today easy. Wherever that line should be drawn, this 
+contract falls well below it. 
+* * * 
+Because “operating” a cafeteria entails having some level of control over 
+the cafeteria’s affairs, and the vendor under this custodial-services contract 
+has none, I would hold that the Randolph-Sheppard Act doesn’t apply to this 
+contract. I therefore would remand for the district court to determine in the 
+first instance whether the Army was required to “justify in writing to the 
+Secretary” its decision to split the cafeteria work into two contracts. See 20 
+U.S.C. § 107(b). I respectfully dissent. 
+22

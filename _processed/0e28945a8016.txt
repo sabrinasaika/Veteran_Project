@@ -1,0 +1,999 @@
+1 
+ 
+UNITED STATES DEPARTMENT OF EDUCATION 
+OFFICE OF SPECIAL EDUCATION AND REHABILITATIVE SERVICES 
+REHABILITATION SERVICES ADMINISTRATION 
+WASHINGTON, DC 20202-2800 
+ 
+      TECHNICAL ASSISTANCE CIRCULAR 
+      RSA-TAC-24-02 
+      DATE: October 31, 2023 
+ 
+ADDRESSEES: STATE VOCATIONAL REHABILITATION AGENCIES 
+ 
+SUBJECT: Requirements for Workforce Innovation and Opportunity Act (WIOA) 
+State Plans for Program Years (PY) 2024 - 2027 
+ 
+PURPOSE: 
+ 
+This Technical Assistance Circular conveys to States
+1 the Biden-Harris Administration’s 
+priorities, State Plan requirements, submission process, and deadline for the WIOA Unified or 
+Combined State Plans for Program Years (PY) 2024 through 2027, consistent with WIOA 
+Sections 102 and 103.   
+ 
+ACTION REQUESTED:  
+ 
+In accordance with Sections 102(c)(1)(B) and 103(b)(1) of WIOA, its implementing regulations, 
+and the State Plan information collection request (ICR), WIOA Required Elements for 
+Submission of the Unified or Combined State Plan and Plan Modifications under the Workforce 
+Innovation and Opportunity Act, approved under Office of Management and Budget (OMB) 
+control number 1205-0522, each State's governor must submit a Unified or Combined State Plan, 
+including the common elements and program-specific portions of each plan, for the four-year 
+period covering PYs 2024-2027 by March 4, 2024,
+2 using the online portal described in Section 
+4.d. of this guidance. The Unified or Combined State Plan covering the six core programs of the 
+workforce development system will be considered approved 90 days after the date the Plan is 
+submitted, unless the U.S. Secretaries of Labor and Education inform the State in writing within 
+that time period that the Plan is inconsistent with the State Plan requirements or the provisions 
+authorizing the core programs, as appropriate (Sections 102(c)(2)(B) and 103(c)(3)(A) of 
+WIOA). 
+ 
+ 
+ 
+1 For purposes of the Unified or Combined State Plans, the term “State” refers to the 50 States, the District of 
+Columbia, Puerto Rico, American Samoa, Guam, the U.S. Virgin Islands, the Northern Mariana Islands, and, as 
+appropriate for certain programs, the Republic of Palau (20 CFR § 676.105(e), 34 CFR §§ 361.105(e) and 
+463.105(e)).  
+ 
+2 The deadline for submission is consistent with that established by Section 102(c)(1)(B) of WIOA. See also 20 
+C.F.R. § 676.130(a) and 34 C.F.R. §§ 361.130(a) and 463.130(a).
+
+2 
+ 
+SUMMARY:  
+ 
+This joint guidance describes the WIOA planning requirements, priorities, submission deadlines, 
+and procedures for the required four-year State Plan. This guidance also describes several 
+changes to the OMB-approved ICR that will impact PY 2024 State Plans. 
+ 
+BACKGROUND:  
+  
+WIOA requires the governor of each State to submit a Unified or Combined State Plan that 
+includes a four-year strategy and operational plan for the continuing implementation of the 
+state’s workforce development system, with an update after two years.
+3  States must have 
+federally approved State Plans to receive funding under the six core programs, pursuant to 
+Section 102(a) of WIOA.
+4 All States currently have approved WIOA State Plans for PY 2020-
+2023. 
+ 
+Under WIOA, the Unified and Combined State Plans communicate the State’s vision for the 
+state workforce development system. WIOA planning requirements aim to foster better 
+alignment of Federal investments across job training and education programs, in order to 
+coordinate service delivery across programs for shared customers, improve efficiency, and 
+ensure that the workforce system connects individuals with high-quality job opportunities and 
+employers. Cross-program planning promotes a shared understanding of the workforce needs 
+within each state. Such planning cultivates the development of more comprehensive approaches, 
+such as worker-centered, industry-driven career pathways and worker-centered sector strategies, 
+for addressing the needs of employers and workers, especially those workers who are often 
+underserved, including youth, adults who are basic skills deficient, English-language learners 
+and immigrants, individuals with disabilities, individuals who are justice-involved, women, and 
+workers of color. Additionally, cross-program planning enables the workforce system to provide 
+a wider range of collaborative, coordinated, and streamlined services to shared customers, 
+including pre-employment transition services to students with disabilities, and methodologies for 
+providing shared services to customers, such as through co-enrollment. 
+ 
+Governors and State workforce development boards are encouraged to use the 2024 WIOA state 
+planning process to reshape education and workforce development service delivery to take 
+advantage of historic Federal investments made possible through the Infrastructure Investment 
+and Jobs Act, also known as the Bipartisan Infrastructure Law (BIL), the Creating Helpful 
+Incentives to Produce Semiconductors (CHIPS) and Science Act, and the Inflation Reduction 
+Act (IRA)) (collectively referred to as Investing in America (IIA)). The majority of the jobs 
+created through these investments will involve occupations that require some type of 
+ 
+3 See Section 102(b) and (c)(3) of WIOA. 
+4 The six core programs are the Adult, Dislocated Worker, and Youth programs, authorized under title I and 
+administered by the U.S. Department of Labor (DOL); the Adult Education and Family Literacy Act (AEFLA) 
+program, authorized under title II of WIOA and administered by the U.S. Department of Education (ED); the 
+Employment Service program of the Wagner-Peyser Act, as amended by title III of WIOA (Wagner-Peyser Act 
+Employment Service program) and administered by DOL; and the State Vocational Rehabilitation (VR) program, 
+authorized under title I of the Rehabilitation Act of 1973 (Rehabilitation Act), as amended by title IV of WIOA and 
+administered by ED.
+
+3 
+ 
+postsecondary credential. The programs incorporated into WIOA State Plans are well-positioned 
+to assist workers in accessing good jobs created by these IIA investments and businesses to find 
+the workers they need to flourish. Further, WIOA state planning affords state boards an 
+opportunity to refresh and forge new partnerships with key stakeholders from P-12, career and 
+technical education, higher education, economic development, state and regional transportation 
+and energy agencies, community-based organizations, Registered Apprenticeship Program 
+sponsors, and the business community to ensure that WIOA investments connect individuals to 
+quality jobs and provide genuine pathways to the middle class. Such partnerships often require 
+creativity and flexibility, and WIOA funding can often be leveraged to support the activities of 
+such partnerships. The U.S. Department of Labor (DOL) and U.S. Department of Education 
+(Departments) are available to provide technical assistance regarding allowable uses of Federal 
+program funds to support state strategies. The Departments acknowledge that several States have 
+partnered with state and local agencies to develop and implement various community projects 
+with BIL funding. The Departments encourage these States to incorporate the various 
+partnerships as part of their State Plan strategic efforts.   
+ 
+The Departments envision the state planning process as a valuable opportunity to consider the 
+full flexibility of WIOA in serving the education and workforce needs of states. The 
+Departments urge States to focus on building, fostering, and executing a sustainable and strategic 
+education and workforce vision. The Departments are available to advise where program funds 
+can support State strategies and provide examples of flexibilities and partnership-growing uses of 
+WIOA funds on the Yes, WIOA Can!
+ website. The examples found on this website are 
+illustrative and States and locals are encouraged to work with their federal program officer if 
+interested in implementing the examples. 
+ 
+WIOA PLANNING PRIORITIES:  
+ 
+Leveraging Historic Infrastructure Investments  
+  
+As mentioned in the Summary and Background, three landmark pieces of legislation (BIL, 
+CHIPS, and IRA) signed by President Biden present an opportunity to transform the lives of 
+American workers and create an abundance of new, high-quality jobs. While a portion of these 
+investments flow directly to the public workforce system, WIOA state planning provides 
+governors, state boards, and state workforce, education, and human service agencies a 
+tremendous opportunity to take a systems-level approach to coordinate around shared goals and 
+foster new partnerships (for example, with state transportation and energy agencies) to leverage 
+these investments. For specific examples of how the public workforce system fits in to these 
+investments and suggested roles for the state and local boards in the BIL, CHIPS and IRA 
+investments, please see 
+National Governors Association (NGA) Toolkit for State Workforce 
+Development Policymakers. The examples found on this website are illustrative and States and 
+locals are encouraged to work with their federal program officer if interested in implementing the 
+examples. These laws are summarized below: 
+ 
+(1) Infrastructure Investment and Jobs Act, known as the Bipartisan Infrastructure Law (BIL) 
+ 
+The BIL provides a $1.2 trillion investment to expand access to high-speed internet, improve
+
+4 
+ 
+public transit, and enable construction projects on America’s roads, bridges, and waterways. 
+While there is not a statutory role for the public workforce system in the BIL, there are multiple 
+opportunities for state workforce development policymakers to assume a proactive role in 
+implementation.
+5 The BIL allows States to expend funds from surface transportation programs 
+on key workforce development activities, includes formula and competitive programs through 
+which States may invest in workforce development, and encourages States to undertake long-
+term planning for their infrastructure workforce needs. For example, States can utilize new 
+allowable uses of the Fixing America’s Surface Transportation Act (FAST Act) to support pre-
+apprenticeship and Registered Apprenticeship expansion efforts. 
+ 
+Section 25019 of the BIL gives State and local policymakers the opportunity to take advantage 
+of “local hire” requirements (which may or may not be included in project labor agreements) to 
+leverage grant funding available through BIL to reinvest in underserved communities. Under 
+these provisions, a BIL grantee or sub-grantee may require a certain percentage of labor to come 
+from local, often underserved, communities. State and local boards are uniquely positioned to 
+identify eligible workers and connect them to BIL-funded training opportunities. The 
+Departments strongly encourage State and local boards to provide partner agencies with qualified 
+candidates – including from underserved communities – to satisfy local hire requirements. 
+ 
+The BIL’s $65 billion historic investment in broadband infrastructure deployment aims to 
+promote digital inclusion and advance equity by ensuring access to reliable, affordable, high-
+speed internet. States are encouraged to consider how to leverage these investments, target them 
+to communities most in need, implement digital equity plans, and connect underserved 
+communities to good jobs created through these investments. Additionally, the Digital Equity 
+Act provides $2.75 billion to establish three grant programs that promote digital equity and 
+inclusion and may support such efforts.  
+ 
+(2) Creating Helpful Incentives to Produce Semiconductors (CHIPS) and Science Act 
+ 
+The CHIPS and Science Act provides approximately $52.7 billion to increase semiconductor 
+production in the United States. The CHIPS for America Fund includes $39 billion in incentives 
+for employers to increase semiconductor production and $11 billion for research and 
+development. The Department of Commerce (DOC) will manage a competitive grant program to 
+fund semiconductor research and development activities for eligible private, nonprofit and 
+consortia applicants. Significantly, successful applicants will need to obtain commitments from 
+institutions of higher education and training entities to provide workforce training for 
+economically disadvantaged individuals residing in communities underrepresented in the 
+ 
+5 Pursuant to Section 70914 of the Build America, Buy America Act (BABAA), title IX of the Infrastructure 
+Investment and Jobs Act (P.L. 117-58), certain programs, including the VR program, must comply with the 
+following BABAA domestic sourcing requirements when using Federal funds for construction, including 
+remodeling and broadband infrastructure:  (1) all iron and steel used in the infrastructure project or activity are 
+produced in the United States; (2) all manufactured products used in the infrastructure project or activity are 
+produced in the United States; and (3) all construction materials are manufactured in the United States. The other five 
+core programs (Adult, Dislocated Worker, Youth, AEFLA, and the Wagner-Peyser Act Employment Service 
+programs) must satisfy the Buy American Act requirements pursuant to Section 502(a) of WIOA.
+
+5 
+ 
+industry, and also create an opportunity for State and local boards to identify and convene 
+partners.  
+ 
+(3) Inflation Reduction Act (IRA) 
+ 
+The IRA's $369 billion investment to fight the climate crisis reinforces the Administration's 
+commitment to families, equity, and environmental justice. The IRA will help improve job 
+quality in clean energy industries and incentivize the expansion of workforce training pathways 
+into these jobs, which will help lift many people into the middle class, particularly workers who 
+have been historically underrepresented in these industries, and invest in communities that have 
+been historically underserved. The law includes targeted labor and workforce development 
+standards—primarily prevailing wage and Registered Apprenticeship targets—as we ll as 
+significant investments in manufacturing and domestic content requirements for electric vehicles. 
+State and local boards should assess how IRA investments may expand the manufacturing and 
+clean energy industry sectors in their region and develop a plan for sector-based strategies that 
+incorporate meaningful career pathways into those newly created or expanded jobs. 
+ 
+The workforce opportunities presented by these investments are summarized in documents such 
+as Bipartisan Infrastructure Law State Fact Sheets, a guide titled 
+Advancing Equitable 
+Workforce Development for Infrastructure Jobs publ ished by the White House, DOL 
+Employment and Training Administration’s Training and Employment Notice No. 08-22, 
+Building Pathways to Infrastructure Careers: Framework for Preparing an Infrastructure 
+Workforce, and in reports by the National Governors Association such as A Toolkit for State 
+Workforce Development Policymakers. 
+ 
+Investments that Prepare Workers for Quality Jobs   
+ 
+Strengthening economic self-sufficiency hinges on the ability of individuals to obtain good jobs 
+that provide family-sustaining wages and advancement opportunities. Evidence-based workforce 
+development models such as career pathways, Registered Apprenticeships, and worker-centered 
+sector strategies including labor management partnership training programs, when appropriately 
+designed and implemented, can increase availability of good jobs,
+6 and help to close equity gaps. 
+The workforce system can design services and develop sector partnerships with employers, 
+educators, labor organizations, and community partners to create good jobs and well-defined 
+career pathways starting from entry-level positions. Any industry sector can benefit from a focus 
+on good jobs, ranging from the care sector that is critical to a thriving workforce or the advanced 
+manufacturing jobs critical to the jobs of the future. Different programs might play different 
+roles in preparing a job seeker for a good job, e.g., career guidance that incorporates information 
+about benefits; adult education and literacy programs that support workers moving along career 
+pathways; strong reemployment connections between unemployment insurance and workforce 
+development programs to maximize workers’ abilities to maintain income and benefit levels; 
+career and technical education programs that provide skills and credentials for obtaining good 
+jobs; and vocational rehabilitation (VR) programs that support access to and support in quality 
+competitive integrated employment outcomes for individuals with significant disabilities. For 
+ 
+6 See definitions of good jobs at https://www.dol.gov/general/good-jobs/principles.
+
+6 
+ 
+additional information on maximizing services and the use of funds to support quality 
+employment outcomes for individuals with disabilities through the VR program, see RSA-TAC-
+23-03. 
+ 
+Through the State planning process, States can create a holistic framework to better define good 
+jobs and ensure that job quality is a top priority for both employers and job seekers. A good jobs 
+framework should reflect the eight principles identified by the DOL and DOC and provide both 
+employers and job seekers with standards for evaluating quality. For additional information on 
+the principles and actionable steps to improve job quality, see TEGL No. 07-22
+. 
+ 
+Data-Driven Decisions  
+ 
+When States last submitted their State Plan modifications in March 2022, the COVID-19 
+pandemic and its disruptions to the global and local economies were subsiding, but still very 
+much present. In developing and submitting the State Plan and its modification for PYs 2024 
+through 2027, States must assess economic and labor market information (LMI) and adjust 
+strategies for what may now be a different set of growing versus declining industries, 
+occupations, in-demand skills and credentials. LMI informs both immediate response 
+and ongoing recovery efforts in a dynamic economic environment. State planners must work 
+closely with the LMI directors
+7 in their States to understand the current and emergent workforce 
+needs of their economies. Furthermore, States’ LMI analyses must assess disparities in labor 
+market outcomes among various populations
+8 and should plan how best to adapt and adjust their 
+workforce goals and strategic focus for underserved populations and those communities with 
+disproportionately higher unemployment and underemployment rates and lower earnings.   
+ 
+The Departments encourage States to use longitudinal data systems and compare and share data 
+and LMI across agencies, regardless of inclusion in the WIOA State Plan, to support data-
+informed decisions. For example, such data analysis could support Perkins V career technical 
+education programs in carrying out comprehensive local needs assessments
+9 or in identifying 
+which infrastructure occupations are most likely to provide opportunities for individuals who are 
+justice-involved.    
+ 
+The Departments also encourage States to explore research studies (such as those conducted by 
+the Departments themselves) that include analysis of not only quantitative but also qualitative 
+data. Such studies can provide critical details related to the design and delivery of services to 
+individuals with different needs and preferences, and thus help assure that any new approaches 
+will result in participants being well prepared for, and able to obtain, good jobs in various 
+industries. 
+ 
+ 
+7 A list of all LMI Directors is available at https://www.bls.gov/bls/ofolist.htm. 
+8 WIOA Section 102(b)(1)(B) and Workforce Innovation and Opportunity Act (WIOA) Unified and Combined State 
+Plan Requirements (OMB control # 1205-0522), Section II(a)(1)(B).  
+9 Perkins V is the Carl D. Perkins Career and Technical Education Act of 2006, as amended by the Strengthening 
+Career and Technical Education for the 21st Century Act. Section 135(c) requires comprehensive local needs 
+assessments.
+
+7 
+ 
+Investing In Youth 
+ 
+The Departments continue to envision a no-wrong-door youth workforce system that offers 
+seamless access to resources, programs, and wraparound services; offers paid work experiences 
+for young people; and coordinates with critical WIOA core partners as well as with employers, 
+sector-based industry coalitions, workforce intermediaries, labor unions and worker 
+organizations, secondary and postsecondary education institutions, Registered Apprenticeship 
+Program sponsors, pre-apprenticeship programs, community based organizations, and 
+philanthropy to advance a shared commitment  to high quality career pathways for young 
+workers. 
+ 
+WIOA encourages further alignment and coordination, as appropriate, between the Title I Youth 
+program, Job Corps centers across the nation, Title II AEFLA program, and Title IV VR 
+program through the provision of pre-employment transition services
+10 to students with 
+disabilities, who could be co-enrolled in programs and served by program staff who are co-
+located in one American Job Center, thereby providing seamless services. Additionally, all six 
+WIOA core programs and career and technical education programs supported by Perkins V can 
+work together with employers to arrange unique work-based learning opportunities, especially 
+for in-school youth. When strategically aligned, these funding sources increase the capacity of 
+programs to support innovative education and employment strategies, like career pathways, and 
+can help young adults meet their employment and educational goals. States and local areas can 
+leverage resources across Title I Youth, Title II AEFLA, Title IV VR, and workforce 
+development community partners to ensure seamless services for youth, such as through co-
+location of different titles of WIOA or partner programs, co-enrollment strategies, and the 
+provision of pre-employment transition services under the VR program. Additionally, WIOA 
+places heightened emphasis on coordination and collaboration at the Federal, State, and local 
+levels among these programs to ensure a streamlined and coordinated service delivery system for 
+youth with barriers to employment, including youth with disabilities. Through this State Plan 
+process, State and local workforce development boards, VR agencies, and educational agencies 
+should coordinate and complement agency-specific services with each other, as well as other 
+systems that serve students with disabilities, such as State Medicaid/Medicare agencies, Centers 
+for Independent Living, and Intellectual and Developmental Disabilities agencies. 
+ 
+Equity in Service Delivery and Educational Programming 
+ 
+States should examine population groups, particularly those identified in the LMI analysis as 
+having higher unemployment and lower earnings than the overall population, and explore 
+existing inequities with access to and participation in public workforce and education programs, 
+and outcomes in terms of employment and earnings, and placement in quality jobs.
+11 States and 
+ 
+10 Pursuant to Section 113(a) of the Rehabilitation Act, the VR agency must provide or arrange for the provision of 
+pre-employment transition services to students with disabilities in the State who are eligible or potentially eligible 
+for the VR program. By arranging the provision of these services with the title I Youth and title II AEFLA 
+programs, the pre-employment transition services will be seamless to students with disabilities in the States. 
+11 See Executive Order 13985, Federal Register: Advancing Racial Equity and Support for Underserved 
+Communities Through the Federal Government, https://www.federalregister.gov/documents/2021/01/25/2021-
+01753/advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government.
+
+8 
+ 
+local areas should examine, where data are available, which communities and neighborhoods 
+were particularly economically impacted during the pandemic and its aftermath in order to focus 
+resources and referral networks for maximum impact. States and local areas also should focus on 
+communities and neighborhoods that have experienced inequities even prior to the pandemic. 
+The Departments encourage States to demonstrate how they will develop education, training, and 
+career service strategies that better address and promote equity in recruitment, service design, 
+implementation, and support services to improve access and outcomes for individuals in such 
+communities. State workforce policymakers can adopt mechanisms that allow seamless 
+transitions and alignment among programs, including programs that support low-income job 
+seekers such as recipients of Temporary Assistance for Needy Families (TANF), Supplemental 
+Nutrition Assistance Program (SNAP), and those supporting individuals with disabilities such as 
+State mental health or Medicaid services. Mechanisms should prioritize supports and services for 
+individuals from underserved communities, and thus open up good jobs for workers often left out 
+of economic growth and opportunity, while promoting economic stability. This includes 
+supporting educators to leverage technology for innovative and personalized instruction and 
+increasing access to internet and devices for students and families. Nimble, modularized, 
+innovative, and personalized services—including better leveraging technology for synchronous 
+and asynchronous program delivery—can provide fle xibility and adaptability to workers and 
+learners, increasing equitable engagement in services and meeting their needs while they are 
+balancing competing commitments and schedule challenges.   
+ 
+Enhance Supportive Service Offerings  
+ 
+Services that assist individuals begin work, return to work, retain work, and advance at work not 
+only include education, training, and employment services, but also include services that support 
+individuals’ personal, and family needs and reduce barriers to work. Some of the most successful 
+workforce training programs have incorporated supportive services, and programs like VR have 
+long incorporated supportive services in their program models. WIOA State Plans require 
+discussions of how supportive services are made available to participants, and the State planning 
+process is an opportunity to reimagine how supportive services can change job seekers and 
+learners’ career trajectories into high-paying good jobs. States should continue to partner with 
+State and local entities, such as community-based organizations or social and health agencies that 
+have deep roots in underserved communities, since they are key to improving outreach and 
+support for an equitable recovery, assisting with access to transportation, referrals to physical 
+and mental health assistance, substance misuse, housing assistance, child and dependent care, 
+and income supports such as Unemployment Insurance (UI), TANF, and SNAP. Supportive 
+services are essential to ensure that youth and adults can stay engaged in program offerings and 
+reach their educational and employment goals; they are particularly critical for those impacted by 
+the justice and child welfare systems, individuals with disabilities, individuals without housing, 
+or those with limited English proficiency. Partnerships with community-based organizations with 
+deep roots in underserved communities are key to improve outreach and supports for an 
+equitable recovery.
+
+9 
+ 
+Strategic Partnering   
+ 
+Strategic partners can play an essential role in refocusing State Plans to address local, regional, 
+and state-specific challenges and solutions, including strategies to improve job quality, elevate 
+worker voice, and close equity gaps. For instance, workforce board leaders are uniquely 
+positioned to convene all the stakeholders of a workforce development system to align resources 
+and efforts that lead to quality results for businesses and career seekers. Strategic partnering 
+includes bringing together stakeholders such as employer/industry associations, unions, labor 
+councils and labor-management partnerships, state departments of education pre-apprenticeship 
+and Registered Apprenticeship Program sponsors, community colleges and education and 
+training providers, institutions of higher education, community-based organizations, and various 
+ETA competitive grantees, to design and articulate a vision for the short- and long-term, such as 
+through their State Plans. 
+ 
+PLANNING REQUIREMENTS: 
+ 
+States must use the ICR Required Elements for Submission of the Unified or Combined State 
+Plan and Plan Modifications under the Workforce Innovation and Opportunity Act (OMB 
+control number 1205-0522) to develop and submit the WIOA Unified or Combined State Plan 
+and the two-year modification. A copy of the ICR, which complies with statutory requirements 
+set forth in, as appropriate, Sections 102 and 103 of WIOA, is available at  
+https://www.dol.gov/sites/dolgov/files/ETA/wioa/pdfs/OMB%20approved%20State%20Plan%2
+0ICR_1205-0522_5_4_2023.docx. A copy of these requirements is also available through the 
+State Plan Portal, developed specifically for the required electronic submission.   
+ 
+The Departments also wish to remind States that several changes have been made to the WIOA 
+State Plan ICR. Broadly, the Departments updated the ICR to— 
+ 
+• Clarify and refine several existing requirements across all program sections of the 
+ICR and some requirements related to the AEFLA program-specific section; 
+• Consolidate several data elements into fewer elements, particularly in the VR 
+services portion of the State Plan section;  
+• Add three new requirements related to cross-program activities under WIOA Title 
+I programs and the Trade Adjustment Assistance program; 
+• Replace some requirements for the WIOA Title I youth program with 
+requirements more relevant to current program implementation; and 
+• Add an assurance for the Wagner-Peyser Act Employment Service program. 
+ 
+STAKEHOLDER COLLABORATION AND COMMENT:  
+ 
+Stakeholder collaboration, review, and comment are key requirements of the four-year planning 
+process. State boards are responsible for assisting the governor in the development, 
+implementation, and modification of the State Plan and for convening all relevant programs, 
+required partners, and stakeholders to contribute to the State Plan. The Departments encourage 
+inclusion of the State LMI and evaluation offices (or their equivalent) during plan development 
+and modification to obtain assistance with labor market data, relevant evaluations, existing
+
+10 
+ 
+research, and analysis. Such evidence-informed planning can be strengthened by direct 
+communication with the State agencies responsible for implementing BIL investments, such as 
+State departments of transportation. The State Plan must be developed with the assistance of the 
+state board, as required by Section 101(d) of WIOA, and in coordination with administrators that 
+have optimal policymaking authority for the core programs and required one-stop partner 
+programs. For Combined State Plans, the portions of the plan that cover partner programs are 
+subject to any public comment requirements applicable to those partner programs.
+12  Strong 
+planning also includes engagement of communities impacted by the activities named in WIOA 
+State Plans. States must provide the opportunity for public comment and input, which allows 
+interested stakeholders to participate actively, effectively, and transparently in the development 
+of the State Plan and the modification, including via accessible means for individuals with 
+disabilities. The governor may seek public comment from any targeted stakeholder, such as 
+Registered Apprenticeship Program sponsors, and must ensure that the State Plan is developed 
+with an opportunity for public comment from representatives of— 
+ 
+• local boards and chief elected officials; 
+• businesses; 
+• labor organizations; 
+• community-based organizations; 
+• adult education providers; 
+• institutions of higher education; 
+• other stakeholders with an interest in the services provided by the six core 
+programs; and 
+• the general public, including individuals with disabilities.
+13 
+ 
+The state board also must make information regarding the State Plan and planning process 
+available to the public, which may include program participants, through electronic and 
+accessible means and by holding regularly occurring open meetings in accordance with State law 
+prior to the submission of the State Plan.
+14 
+ 
+INSTRUCTIONS FOR STATE PLAN SUBMISSION: 
+ 
+States must submit their State Plan, including the common elements and program-specific 
+portions, via the State Plan Portal (https://wioaplans.ed.gov
+), which has been developed for 
+cross-program collaboration in States and to facilitate the simultaneous receipt and review of 
+plans across multiple Federal agencies. While multiple individuals in States may enter content 
+into the portal, only one individual from each State may submit to the Departments the entire 
+plan on behalf of the governor for all included programs. Although the governor’s designee is 
+required to submit the plan, the State program directors, or the Director’s designated person, are 
+responsible for completing the applicable programs’ portions of the State Plan (i.e., Title II 
+AEFLA and Title IV VR programs). The governor for each State must notify the Departments of 
+ 
+12 See 20 C.F.R. § 676.143(c)(3) and 34 C.F.R. §§ 361.143(c)(3) and 463.143(c)(3). 
+13 See Section 101(b)(1) of WIOA for required members of the State board. See also Section 102(b)(2)(E)(ii) of 
+WIOA for related public access requirements. 
+14 See WIOA Section 101(g) and 20 C.F.R. § 676.130(d) and 34 C.F.R. §§ 361.130(d) and 463.130(d).
+
+11 
+ 
+the individual designated to submit the State Plan on behalf of the governor for all programs 
+included in the State Plan, even if that designee has not changed since the PY 2022 modification 
+submission. As early as possible, but no later than February 15, 2024, the governor’s office must 
+submit a letter or email with the name of the designee to WIOA.PLAN@dol.gov
+ with a copy to 
+the appropriate ETA Regional Office. 
+  
+To request a State Plan Portal user account or to update existing account login information, visit 
+https://wioaplans.ed.gov
+. Previously approved WIOA State Plans are available within the portal 
+for reference. 
+ 
+PERFORMANCE NEGOTIATIONS FOR CORE PROGRAMS: 
+ 
+To outline the requirements for reaching agreement on the negotiated levels of performance for 
+the states outlined in WIOA Section 116, the Departments issued joint guidance titled, 
+Negotiations and Sanctions Guidance for the Workforce Innovation and Opportunity Act (WIOA) 
+Core Programs (ETA TEGL No. 11-19 (Change 1), OCTAE Program Memorandum 20-2 
+(revised May 2023), and RSA TAC-20-02 (revised May 2023). The Departments will continue 
+to negotiate program specific levels of performance. The appendix in the Unified and Combined 
+State Plan ICR discussed in this section, and in Attachment I of this guidance, reflect which 
+indicators the Departments will negotiate for which programs for PYs 2024 and 2025. See 
+Attachment I of this guidance for more instructions on establishing performance levels. 
+ 
+WAIVERS: 
+ 
+As discussed in TEGL No. 08-18, Workforce Innovation and Opportunity Act (WIOA) Title I and 
+Wagner-Peyser Act Waiver Requirements and Request Process, the Secretary of Labor may 
+grant States additional flexibility through the waiver authority for portions of WIOA Title I and 
+Wagner-Peyser Act requirements when permitted. WIOA Title I funds can be used for a very 
+wide range of activities; see the Yes, WIOA Can!
+ website for examples of flexibility undertaken 
+under current law. Waivers are an optional tool for reducing barriers to WIOA implementation 
+and spurring innovative programming options. States may submit WIOA Title I and III waiver 
+requests as part of their State Plan or separately. As a reminder, waiver requests must discuss, to 
+the extent possible, quantifiable outcomes the State hopes to achieve by using the waiver.   
+ 
+All currently approved waivers expire on June 30, 2024.
+15 Therefore, States should submit new 
+waiver requests as part of the State Plan submission for reconsideration if they wish to continue 
+implementing waivers that ETA approved previously. As articulated in waiver approval letters, 
+States agreed to meet certain performance or other program measures resulting from the waiver. 
+States requesting a waiver renewal beyond June 30, 2024, must provide in the renewal request 
+the most recent data available about the outcomes of the waiver.16 Failure to do so may result in 
+delay of approval of the requested waiver. Find waiver-related resources at 
+https://www.dol.gov/agencies/eta/wioa/waivers. 
+ 
+15 For waivers related to the 75 percent out-of-school youth expenditure requirement, waivers are in effect for the 
+full amount of time that states have to spend program year funds.  
+16 See 20 C.F.R. § 679.620(d)(7).
+
+12 
+ 
+REFERENCES AND ADDITIONAL RESOURCES  
+ 
+• Workforce Innovation and Opportunity Act (WIOA) (Pub. L. 113-128) (July 22, 2014); 
+• Joint Rule for Unified and Combined State Plans, Performance Accountability, and the 
+One-Stop System Joint Provisions; Final Rule (WIOA Joint Final Rule) published at      
+81 FR 55792 (Aug. 19, 2016); 
+• Employment and Training Administration, Workforce Innovation and Opportunity Act; 
+Final Rule (WIOA DOL Final Rule) published at 81 FR 56072 (Aug. 19, 2016); 
+• State Vocational Rehabilitation Services Program; State Supported Employment Services 
+Program; Limitations on Use of Subminimum Wage—Final Rule (Office of Special 
+Education and Rehabilitative Services (OSERS) Final Rule) published at 81 FR 55630 
+(August 19, 2016); 
+• Programs and Activities Authorized by the Adult Education and Family Literacy Act 
+(Title II of WIOA)—Final Rule (WIOA OCTAE Final Rule) published at 81 FR 55526
+ 
+(August 19, 2016); 
+• ICR Required Elements for Submission of the Unified or Combined State Plan and Plan 
+Modifications Under the Workforce Innovation and Opportunity Act, approved under 
+Office of Management and Budget (OMB) control number 1205-0522; 
+• Training and Employment Guidance Letter (TEGL) No. 08-18, Workforce Innovation 
+and Opportunity Act (WIOA Title I and Wagner-Peyser Act Waiver Requirements and 
+Request Process), dated December 19, 2018; 
+• Training and Employment Notice (TEN) No. 20-16, “Announcing the publication and 
+effective date of the Section 188 WIOA Nondiscrimination and Equal Opportunity 
+Regulations (29 CFR Part 38) Final Rule in the Federal Register,” dated December 2, 
+2016; 
+• TEN No. 10-15, Workforce Innovation and Opportunity Technical Amendments Act, 
+dated September 17, 2015; 
+• TEN No. 14-21, Workforce Innovation and Opportunity Act (WIOA) Core Program 
+Performance Accountability Assessment for Program Years (PY) 2020 and 2021, dated 
+October 27, 2021; 
+• Unemployment Insurance Program Letter (UIPL) No. 17-14, Revised Employment and 
+Training (ET) Handbook No. 336, 18th Edition: “Unemployment Insurance (UI) State 
+Quality Service Plan (SQSP) Planning and Reporting Guidelines, dated July 7, 2014;  
+• Jobs for Veterans Act (Public Law 107-288, 38 U.S.C. § 4215), Priority of service for 
+veterans in Department of Labor job training programs (For current instructions to submit 
+an annual Jobs for Veterans State Grants Application for Funding, access the policy on   
+VETS website, 
+https://www.dol.gov/agencies/vets/resources/VPLS/VPLDirectory);   
+• OCTAE Program Memorandum 22-1, Workforce Innovation and Opportunity Act WIOA 
+Core Program Performance Accountability Assessment for Program Years (PYs) 2020 
+and 2021, dated October 26, 2021; 
+• TEGL 14-21, Workforce Innovation and Opportunity Act (WIOA) Core Program 
+Performance Accountability Assessment for Program Years (PYs) 2020 and PY 2021, 
+dated October 27, 2021; 
+• Yes, WIOA Can! Community of Practice; https://ywc.workforcegps.org;  
+• WIOA Waiver Information; https://www.dol.gov/agencies/eta/wioa/waivers;
+
+13 
+ 
+• Apprenticeship USA; https://www.apprenticeship.gov/investments-tax-credits-and-
+tuition-support;   
+• FACT SHEET: The Bipartisan Infrastructure Investment and Jobs Act Creates Good-
+Paying Jobs and Supports Workers; 
+• TEN No. 08-22: Building Pathways to Infrastructure Careers: Framework for Preparing 
+an Infrastructure Workforce (October 21, 2021); 
+• TEN No. 07-22: Joint Communication on Resource Leveraging & Service Coordination 
+to Increase Competitive Integrated Employment for Individuals with Disabilities 
+(October 18, 2022); 
+• White House. Advancing Equitable Workforce Development for Infrastructure Jobs 
+published at https://www.whitehouse.gov/wp-c ontent/uploads/2022/11/Advancing-
+Equitable-Workforce-Development-for-Infrastructure-Jobs_110122.pdf (November 1, 
+2022); 
+• National Governors Association Workforce Development in the IIJA, CHIPS, and IRA: 
+A Toolkit for State Workforce Development Policymakers published at 
+https://www.nga.org/wp-
+content/uploads/2023/02/Workforce_Development_IIJA_CHIPS_IRA_8Feb2023.pdf  
+(April 13, 2023); 
+• Office of Management and Budget Memorandum:  Advancing Effective Stewardship of 
+Taxpayer Resources and Outcomes in the Implementation of the Infrastructure 
+Investment and Jobs Act published at 
+https://www.whitehouse.gov/wp-
+content/uploads/2022/04/M-22-12.pdf (April 29, 2022); 
+• TEN No. 12-21: Practitioners Guide to Supportive Services (October 15, 2021); 
+• TEN No. 10-22: Joint Communication on Guidance to States on Addressing the 
+Workforce Needs and Safety of the Telecommunications Industry (December 6, 2022); 
+• TEGL No. 07-22: Increasing Employer and Workforce System Customer Access to Good 
+Jobs (January 18, 2023); 
+• TEGL No. 21-22: Increasing Equitable Service Access and Employment Outcomes for 
+All Jobseekers in Workforce Innovation and Opportunity Act Adult and Dislocated 
+Worker Programs (June 9, 2023); 
+• TEGL No. 09-22: Workforce Innovation and Opportunity Act Title I Youth Formula 
+Program Guidance (March 2, 2022);  
+• TEGL No. 13-16: Guidance on Registered Apprenticeship Provisions and Opportunities 
+in the Workforce Innovation and Opportunity Act (January 17, 2017); 
+• National Clearinghouse of Rehabilitation Training Material: https://ncrtm.ed.gov/; and  
+• Education Resources Information Center (ERIC): https://eric.ed.gov/.
+
+14 
+ 
+INQUIRIES:   
+ 
+Suzanne Mitchell, Chief 
+Vocational Rehabilitation Program Unit  
+(202) 245-7454 
+Suzanne.Mitchell@ed.gov
+  
+ 
+ 
+                      /s/     
+Carol L. Dobak 
+Deputy Commissioner,  
+delegated the authority to perform the  
+functions and duties of the Commissioner 
+ 
+ 
+cc:  Council of State Administrators of Vocational Rehabilitation  
+National Council of State Agencies for the Blind
+
+15 
+ 
+Attachment I:  Performance Goals and Instructions for the Core Programs 
+ 
+State Plans must identify expected levels of performance for each primary indicator of 
+performance for the first two years covered by planning cycle. The State must reach agreement 
+with the Secretary of Labor, in conjunction with the Secretary of Education, on the negotiated 
+levels of performance for the indicators for each of the first two years of the plan. 
+The Adult, Dislocated Worker, Youth, Adult Education and Family Literacy Act (AEFLA) and 
+Vocational Rehabilitation (VR) programs will have sufficient data available to make reasonable 
+determinations of expected levels of performance for the following indicators for Program Year 
+(PY) 2024 and PY 2025:  
+• Employment
+17 (Second Quarter after Exit); 
+• Employment18  (Fourth Quarter after Exit); 
+• Median Earnings (Second Quarter after Exit); 
+• Credential Attainment Rate; and 
+• Measurable Skill Gains. 
+ 
+The Wagner-Peyser Act Employment Service program will have sufficient data available to 
+make a reasonable determination of expected levels of performance for the following indicators 
+for PY 2024 and PY 2025:  
+• Employment (Second Quarter after Exit); 
+• Employment (Fourth Quarter after Exit); and 
+• Median Earnings (Second Quarter after Exit). 
+ 
+The Credential Attainment Rate and Measurable Skill Gains indicators do not apply to the 
+Wagner-Peyser Act Employment Service program; therefore, this program will not submit 
+expected levels of performance for these indicators.  
+ 
+During PY 2022, the Departments initiated the rulemaking process to establish a standard 
+definition of the sixth performance indicator, Effectiveness in Serving Employers (ESE) (see 
+Notice of Proposed Rulemaking at 87 FR 56318 (Sept. 14, 2022)). In the spring 2023 Unified 
+Agenda, the Departments announced plans to issue a final rule in November 2023 and will keep 
+the public informed of any changes to this timeline. The Departments are working on finalizing 
+this rule and will issue further guidance on implementing this indicator when the rule is finalized. 
+States are not required to submit expected levels of performance for this indicator during the 
+State planning process for PY 2024 and PY 2025. However, States must continue to report the 
+requisite Effectiveness in Serving Employers data, as required.  
+ 
+Each State must update its plan to include the agreed-upon negotiated levels of performance 
+before the Departments approve a State Plan.  
+ 
+States may identify additional indicators in the plan, including additional approaches to 
+measuring ESE, and may establish levels of performance for each of the State indicators. Please 
+ 
+17 For Title I Youth programs, employment, education or training. 
+18 For Title I Youth programs, employment, education or training.
+
+16 
+ 
+identify any such State indicators under Additional Indicators of Performance. Note that States 
+may not sanction local areas, or make other corrective actions based on additional State 
+indicators.  
+ 
+Include the State’s expected levels of performance relating to the performance accountability 
+indicators based on primary indicators of performance described in Section 116(b)(2)(A) of 
+WIOA. 
+Title I – Adult Program 
+  
+PY 2024 
+Expected 
+Level 
+PY 2024 
+Negotiated 
+Level  
+PY 2025 
+Expected 
+Level 
+PY 2025 
+Negotiated 
+Level  
+Employment (Second 
+Quarter after Exit) 
+ 
+ 
+  
+Employment (Fourth 
+Quarter after Exit) 
+ 
+ 
+ 
+ 
+Median Earnings (Second 
+Quarter after Exit)  
+ 
+ 
+ 
+ 
+Credential Attainment Rate 
+ 
+ 
+ 
+ 
+Measurable Skill Gains     
+ 
+Title I – Dislocated Worker Program 
+  
+PY 2024 
+Expected 
+Level 
+PY 2024 
+Negotiated 
+Level  
+PY 2025 
+Expected 
+Level 
+PY 2025 
+Negotiated 
+Level  
+Employment (Second 
+Quarter after Exit) 
+ 
+ 
+  
+Employment (Fourth 
+Quarter after Exit) 
+ 
+ 
+ 
+ 
+Median Earnings (Second 
+Quarter after Exit)  
+ 
+ 
+ 
+ 
+Credential Attainment Rate 
+ 
+ 
+ 
+ 
+Measurable Skill Gains
+
+17 
+ 
+Title I – Youth Program 
+  
+PY 2024 
+Expected 
+Level 
+PY 2024 
+Negotiated 
+Level  
+PY 2025 
+Expected 
+Level 
+PY 2025 
+Negotiated 
+Level  
+Employment (Second 
+Quarter after Exit) 
+ 
+ 
+  
+Employment (Fourth 
+Quarter after Exit) 
+ 
+ 
+ 
+ 
+Median Earnings (Second 
+Quarter after Exit)  
+ 
+ 
+ 
+ 
+Credential Attainment Rate 
+ 
+ 
+ 
+ 
+Measurable Skill Gains     
+ 
+Title II – Adult Education and Family Literacy Act Program 
+  
+PY 2024 
+Expected 
+Level 
+PY 2024 
+Negotiated 
+Level  
+PY 2025 
+Expected 
+Level 
+PY 2025 
+Negotiated 
+Level  
+Employment (Second 
+Quarter after Exit) 
+ 
+ 
+  
+Employment (Fourth 
+Quarter after Exit) 
+ 
+ 
+ 
+ 
+Median Earnings (Second 
+Quarter after Exit)  
+ 
+ 
+ 
+ 
+Credential Attainment Rate 
+ 
+ 
+ 
+ 
+Measurable Skill Gains     
+ 
+Title III – Wagner-Peyser Act Employment Service Program 
+  
+PY 2024 
+Expected 
+Level 
+PY 2024 
+Negotiated 
+Level  
+PY 2025 
+Expected 
+Level 
+PY 2025 
+Negotiated 
+Level  
+Employment (Second 
+Quarter after Exit) 
+ 
+ 
+  
+Employment (Fourth 
+Quarter after Exit) 
+ 
+ 
+ 
+ 
+Median Earnings (Second 
+Quarter after Exit)  
+ 
+ 
+ 
+ 
+Credential Attainment Rate 
+ 
+ 
+ 
+ 
+Measurable Skill Gains
+
+18 
+ 
+Title IV – Vocational Rehabilitation Program 
+  
+PY 2024 
+Expected 
+Level 
+PY 2024 
+Negotiated 
+Level  
+PY 2025 
+Expected 
+Level 
+PY 2025 
+Negotiated 
+Level  
+Employment (Second 
+Quarter after Exit) 
+ 
+ 
+  
+Employment (Fourth 
+Quarter after Exit) 
+ 
+ 
+ 
+ 
+Median Earnings (Second 
+Quarter after Exit)  
+ 
+ 
+ 
+ 
+Credential Attainment Rate 
+ 
+ 
+ 
+ 
+Measurable Skill Gains     
+ 
+All WIOA Core Programs 
+ 
+ 
+ 
+Additional Indicators of Performance  
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+ 
+ 
+ 
+  
+ 
+ 
+ PY 2024 
+Expected 
+Level 
+PY 2024 
+Negotiated 
+Level 
+PY 2025 
+Expected 
+Level 
+PY 2025 
+Negotiated 
+Level 
+Effectiveness in 
+Serving 
+Employers 
+Not 
+applicable 
+Not 
+applicable 
+Not applicable Not 
+applicable

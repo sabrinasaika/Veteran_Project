@@ -1,0 +1,213 @@
+FILENAME: 0295723025ec-Accessible%20Ground%20Transportation%20final2019.pdf
+PATH: _raw/tacqe.com/0295723025ec-Accessible%20Ground%20Transportation%20final2019.pdf
+
+www.adata.org 1 2018
+The ADA & Accessible Ground 
+Transportation
+The Americans with Disabilities Act (ADA) applies to both public and private ground transportation 
+providers. The ADA rules that apply to transportation are regulated by the U.S. Department of 
+Transportation. 
+Overview of Requirements
+• Both public and private organizations must meet ADA requirements: A public entity entering into 
+a contract or agreement with a private entity to operate transportation services must ensure that 
+the private entity meets all ADA requirements for the public entity. Specific requirements for private 
+transportation providers like airport shuttles, hotel shuttles, private buses, and taxis are reviewed later 
+in this document.
+• Rider information: A public transportation system must provide adequate information on services in 
+accessible formats for persons with different types of disabilities (e.g. information in large print, braille 
+or alternative and electronic format).
+• Assistance equipment and accessible features: Equipment and facilities such as lifts, ramps, 
+securement devices (straps for securing wheelchairs on board), signage, and communication devices 
+must be in good operating condition. If a feature is out of order, it must be repaired promptly. In the 
+interim, an alternative accessible vehicle or option must be available.
+• Adequate time to board: Public transit operators must allow adequate time for people with disabilities 
+to board and exit from vehicles.
+• Service animals allowed: Service animals may accompany people with disabilities in vehicles and 
+facilities. The DOT ADA regulations define a service animal as any guide dog, signal dog or other animal 
+individually trained to provide assistance to an individual with a disability, regardless of whether the 
+animal has been licensed or certified by a state or local government.
+• Priority seating and signs: Fixed-route systems (those operating along a prescribed route) must have 
+signs designating seating for passengers with disabilities. At least one set of forward-facing seats must 
+be marked as priority seating (for people with disabilities).
+• Operator training: Each public and private transportation operator must ensure that personnel are 
+trained to operate vehicles and equipment safely; properly assist individuals with disabilities in a 
+respectful, courteous way; and recognize that individuals with disabilities have different abilities and 
+needs requiring different types of assistance.
+National Network
+Information, Guidance and Training on the
+Americans with Disabilities Act
+Call us toll-free
+1-800-949-4232 V/TTY
+Find your regional center at
+www.adata.org
+For the most current and accessible version, please visit 
+http://adainfo.us/ADAtransportation
+
+www.adata.org 2 2018
+Accessible Ground Transportation
+Architectural Requirements
+Note: A fixed route transportation system is one that operates along a prescribed route according to 
+a fixed schedule. Public transportation systems primarily consist of fixed route systems, such as city 
+bus systems, commuter and over-the road bus systems, subways, light rail systems, and intercity rail 
+transportation. A demand responsive system is any other transportation system. Demand responsive 
+transportation typically includes taxis, limousine services, van services, and shuttle bus systems.
+Fixed-route service requirements include:
+• Stop announcements: Stops must be announced at transfer points, major intersections, destination 
+points, and other points so that people with visual impairments understand their location. In addition, 
+the operator must announce any stop at the request of a rider with a disability.
+• Destination information on vehicles: Vehicles must have destination and route information on the 
+front and boarding side of a vehicle. There are size requirements for the numbers and letters on the 
+route information signs. Destination and route information must be announced.
+• Lifts and Ramps: Vehicles need a boarding device (e.g. lift or ramp) so that a passenger who uses a 
+wheelchair or mobility device can reach a securement location onboard. Lifts must have a minimum 
+design load of 600 pounds and lift platforms must accommodate a wheelchair measuring 30 inches by 
+48 inches.
+• Illumination, contrast, and slip-resistant surfaces: Stepwells and doorways of vehicles must be 
+illuminated. Doors and steps need slip-resistant surfaces.
+• Farebox: Fareboxes must be located so they do not obstruct passenger flow for boarding the bus.
+• Turning room, handrails, and pull cords: There must be sufficient turning and maneuvering space for 
+wheelchairs. Handrails and stanchions (vertical rails) in the vehicle must be accessible. A stop control, 
+such as a pull cord or button, should be within reach of wheelchair securement locations.
+Complementary Paratransit Service
+ADA complementary paratransit service provides origin-to-destination service and must be available 
+where fixed-route service exists. Transit agencies can establish a policy to provide door-to-door service 
+or curb-to-curb service. For door-to-door service, a driver offers assistance from the customer’s door 
+to the vehicle and from the vehicle to the door at the destination. For curb-to-curb service, assistance 
+is provided to the customer to enter and exit the vehicle at the curb. However, if a customer needs 
+assistance due to disability, physical barriers in the walkway or adverse weather conditions, the driver 
+may need to offer assistance beyond the curb to the door.
+ADA Paratransit Service Minimum Requirements
+• Service area: Generally within a three-quarter mile on either side of a fixed route.
+• Hours and days of service: Same hours and days as fixed route.
+• Fare: Fares may not exceed twice the fare that would be charged to an individual paying full fare for 
+a fixed-route trip of similar length, at a similar time of day. A personal care attendant shall not be 
+charged.
+• Response time: Paratransit service must be provided at any requested time on a particular day in 
+response to a request for service made the previous day. Real time scheduling, in which a call to the 
+transit provider would result in pickup the same day, is allowed but not mandated.
+
+www.adata.org 3 2018
+Accessible Ground Transportation
+• Trip purpose restrictions: No restrictions or priorities based on trip purpose are allowed.
+• The following are not allowed:
+ ○ Restrictions on the number of trips per eligible individual
+ ○ Waiting lists for access to the service
+ ○ Substantial numbers of significantly untimely pickups for initial or return trips
+ ○ Substantial numbers of trip denials or missed trips
+ ○ Substantial numbers of trips with excessive trip lengths
+Private Transportation Entities
+Private entities that provide transportation services to the public are required by law to be accessible to 
+individuals with disabilities. Private entities covered by the ADA include, but are not limited to, airport 
+shuttles, hotel shuttles, private buses, taxis and Over the Road Bus (OTRB) companies (motor-coach 
+buses that are characterized by an elevated passenger deck located over a baggage compartment).
+If an OTRB company operates a fixed route service, they must provide accessible vehicles. Demand-
+responsive OTRB companies (i.e. charter/tour buses) must provide service in an accessible bus to 
+passengers with disabilities on a 48-hour advance notice basis.
+Private transportation providers that use vehicles that are not accessible must provide equivalent 
+service (e.g., a different accessible vehicle is used to provide service to the same traveling points for 
+the same cost within the same time frame as a regularly scheduled trip) in the most integrated setting 
+appropriate to the needs of the individual, with respect to the following service characteristics:
+• Schedules/headways (for fixed-route service)
+• Response time (for demand responsive service)
+• Fares
+• Geographic area of service
+• Hours and days of service
+• Availability of information
+• Reservations capability (demand responsive service)
+• Any constraints on capacity or service availability
+• Restrictions / priorities based on trip purpose (demand responsive service)
+Private entities providing taxi service are not required to purchase or lease accessible automobiles. 
+However, when a provider of taxi service purchases or leases a vehicle other than an automobile, 
+the vehicle is required to be accessible unless the provider demonstrates equivalency. A provider of 
+taxi service is not required to purchase vehicles other than automobiles in order to have a number of 
+accessible vehicles in its fleet.
+Additionally, private entities providing taxi service cannot discriminate against individuals with 
+disabilities by refusing to provide service to individuals with disabilities who can use taxi vehicles and/
+or use service animals, refusing to assist with the stowing of mobility devices, or charging higher fares 
+or fees for carrying individuals with disabilities and their equipment than are charged to other persons.
+
+www.adata.org 4 2018
+Accessible Ground Transportation
+Transit Facilities
+Transit facilities, intermodal centers, rail stations and platforms must meet accessibility standards 
+established by the U.S. DOT. The requirements apply to new construction as well as alterations made to 
+existing facilities and include the following:
+• Accessible paths of travel
+• Boarding ramps and bridge plates
+• Bus stops and shelters
+• Curb ramps, doors, elevators, escalators, emergency alarms
+• Fare collection, gates and turnstiles, grade crossings, parking
+• Passenger drop-off areas, platforms edges, rescue assistance areas
+• Restrooms, signs, stairs, public telephones, water fountains, wheelchair spaces
+Accessible paths: The accessible path of travel should be as close to the general circulation path as 
+possible. Minimize any additional distance people with disabilities must travel to use ramps, elevators 
+and other accessible features of the path.
+Level boarding: Train doorways and station platforms must be at the same level, and gaps between 
+them must be narrow enough for an ambulatory passenger to step across or a wheelchair user to 
+roll across without difficulty. Span gaps using a short bridge plate when necessary for people with 
+disabilities.
+U.S. Department of Transportation and the ADA
+The following U.S. DOT administrations also have a role in ensuring ADA compliance:
+• Federal Highway Administration (FHWA) – ensures ADA compliance in the public right-of-way (roadway 
+travel lanes, medians, planting strips, sidewalks) and on projects using federal surface transportation 
+planning.
+•  Federal Railroad Administration (FRA) – administers intercity and commuter rail compliance with ADA 
+and Title VI Civil Rights requirements.
+• Federal Transit Administration (FTA) – FTA’s Office of Civil Rights administers Title II public 
+transportation laws related to public transportation services and facilities for people with disabilities.
+• Federal Motor Carrier Safety Administration (FMCSA) – FMCSA administers DOT’s ADA regulations 
+requiring accessible, timely OTRB service for passengers with disabilities, including individuals who use 
+wheelchairs for mobility.
+How to File a Complaint
+Public Transportation Complaint
+If you believe you have been discriminated against based on disability by a public transit agency, you 
+may file an administrative complaint with the FTA Office of Civil Rights.
+Complaints should be filed within 180 days of the alleged act of discrimination.
+You can file a complaint by using the on-line complaint form here:  
+https://www.transit.dot.gov/regulations-and-guidance/civil-rights-ada/file-complaint-fta
+
+www.adata.org 5 2018
+Accessible Ground Transportation
+If you have questions about filing a complaint, you can reach the FTA’s Office of Civil Rights at 1-888-
+446-4511 or via email at FTA.ADAAssistance@dot.gov.
+Private Transportation Complaint
+The U.S. Department of Justice enforces Title III of the ADA which applies to private transportation 
+providers. Complaints can be directed to the U.S. Department of Justice, Office of Civil Rights.
+You can learn more about filing a complaint here: http://www.ada.gov/filing_complaint.htm or, call the 
+ADA Information Line at 1-800-514-0301 (voice) to learn more about the complaint process.
+Motor Coach Transportation Complaint
+Direct complaints related to Motor Coach Accessibility to the Federal Motor Carrier Safety 
+Administration (FMCSA) at 1-888-DOT-SAFT (1-888-368-7238) or online at:  
+https://nccdb.fmcsa.dot.gov/nccdb/home.aspx.
+Public Intercity and High Speed Rail Transportation Complaint
+The Federal Railroad Administration (FRA) Office of Civil Rights is responsible for civil rights compliance 
+and monitoring, which includes ensuring that providers of public intercity and high-speed rail 
+transportation properly abide by Title II of the ADA, the DOT’s ADA regulations, and Section 504 of the 
+Rehabilitation Act of 1973.
+You can learn more about the complaint process at https://www.fra.dot.gov/Page/P0578, and 
+complaints can be emailed to civil.rights@dot.gov.
+Resource
+U.S. DOT – FTA ADA Information: http://www.fta.dot.gov/civilrights/12325.html
+Contact Us
+For more information, the ADA and Transportation contact the ADA National Network:
+• Call us toll-free 1-800-949-4232 V/TTY
+• Find your regional ADA center at: http://adata.org/national-network
+Content was developed by the Northwest ADA Center and the Easter Seals Project ACTION (now National Aging and 
+Disability Transportation Center) and is based on professional consensus of ADA experts and the ADA National Network.
+The contents of this factsheet were developed under grants from the 
+National Institute on Disability, Independent Living, and Rehabilitation 
+Research (NIDILRR grant numbers 90DP0088 and 90DP0086). NIDILRR 
+is a Center within the Administration for Community Living (ACL), 
+Department of Health and Human Services (HHS). The contents of this 
+factsheet do not necessarily represent the policy of NIDILRR, ACL, HHS, 
+and you should not assume endorsement by the Federal Government.
+© Copyright 2019 ADA National Network. All Rights Reserved. 
+May be reproduced and distributed freely with attribution to ADA National Network (www.adata.org).
+http://www.northeastada.org/
+The National Aging and Disability Transportation Center is funded 
+through a cooperative agreement with the U.S. Department of 
+Transportation, Federal Transit Administration and is administered by 
+Easterseals and n4a. This document is disseminated by NADTC in the 
+interest of information exchange. Neither Easterseals, n4a, nor the U.S. 
+DOT, FTA assumes liability for its contents or use.
+www.nadtc.org

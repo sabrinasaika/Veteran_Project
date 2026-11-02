@@ -1,0 +1,318 @@
+Rehabilitation Services Administration 
+Fiscal Unit 
+ 
+ 
+ 
+ 
+ 
+Guide for Requesting Changes to Grantee 
+Information on Formula Grant Award 
+Notifications 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Revised:  October 21, 2022
+
+1 
+ 
+ 
+Contents 
+I. Introduction ......................................................................................................................... 2 
+II. Accessing GANs .................................................................................................................... 2 
+III. UEI Change ........................................................................................................................... 3 
+IV. Recipient Name and/or Address Change ............................................................................ 4 
+V. Recipient State Director Change ......................................................................................... 4 
+1. VR, SE, and OIB Programs ................................................................................................... 5 
+2. CAP ....................................................................................................................................... 6 
+3. PAIR Program ...................................................................................................................... 6 
+4. Requesting a New RSD in the Absence of a Current RSD .................................................. 7 
+VI. State Authorizing Official Assignment ................................................................................ 7
+
+2 
+Note: Use the following process to request changes ONLY when the rights and obligations of the 
+grantee are not affected. DO NOT use these processes to transfer the legal or administrative 
+responsibility for the grant from one legal entity to another due to a re-designation by the 
+Governor or any other action by the Governor or State legislature.1 
+ 
+I. Introduction 
+ 
+The U.S. Department of Education (Department) Grants Management System (G5) is the 
+primary system of record for formula grant awards administered by the Rehabilitation 
+Services Administration (RSA). The G5 system (G5.gov) generates the Grant Award 
+Notification (GAN) document that provides official notice to a grantee that they are an 
+award recipient. The information on the GAN is the Department’s official record of the 
+grantee agency, and lists the individual primarily responsible for administration of the 
+award, the period of award, the grantee Unique Entity Identifier (UEI), etc. This Guide 
+provides technical assistance about the information included on a GAN and how to 
+request changes to that information. 
+ 
+• RSA will only make changes to grant awards in an “open” status in G5. 
+II. Accessing GANs 
+ 
+RSA, through G5, makes GANs available electronically in lieu of hard copy GANs. When 
+RSA issues a new GAN, supplemental GAN, or Administrative Action, G5 will send an 
+email containing a link to access the GAN via G5. The email will be sent to both the 
+Recipient State Director (GAN Box 3) and State Authorizing Official for them to view and 
+print the Adobe Acrobat version of the electronically signed GAN. If neither the 
+Recipient State Director (RSD) nor State Authorizing Official (SAO) is registered in G5, 
+they will immediately be prompted to register once the link is accessed. The electronic 
+signature and issuance of the GAN makes it crucial that grantees provide correct email 
+addresses for both the RSD and SAO. 
+ 
+The individuals receiving the G5 award notifications are responsible for logging in to G5, 
+accessing the required GAN(s), and forwarding copies of the GAN(s) to grantee staff 
+members as needed. RSA staff members will not send copies of GANs directly to agency 
+staff via email, postal mail, or fax.  
+ 
+1 For example, the following process would not apply if a State Vocational Rehabilitation (VR) agency is 
+transferring to another designated State agency (DSA) or becomes an independent agency, or if a Client 
+Assistance Program (CAP) grant is re-designating to an external grantee or a new grantee agency. If the 
+change involves a transfer of legal or administrative responsibilities, the grantee must contact the RSA 
+Fiscal Unit staff assigned to the agency for further instructions prior to decision making in relation to the 
+award(s). Transferring grant awards from one legal entity to another is a complicated process; therefore, 
+it is important that agencies work with RSA to ensure they meet the necessary requirements. VR 
+agencies should refer to TAC-13-02, “Reorganization of the Designated State agency and the Designated 
+State unit for the Vocational Rehabilitation Program” for additional guidance.
+
+3 
+ 
+If the name of the RSD is changed, the new RSD will only be able to view the GANs on 
+which their name appears in Box 3. They will not be able to view GANs issued prior to the 
+change. As a result, it is important that agencies maintain copies of all GANs in an 
+accessible place for agency staff members who need access to them. RSA will not provide 
+duplicate copies of previously issued GANs. 
+ 
+Staff that grantees want to drawdown funds must have accounts established in G5. If 
+grantee staff, the RSD or SAO have any difficulty establishing an account in G5 or 
+accessing a GAN, they should contact the G5 helpdesk at (888) 336-8930 to request 
+assistance. RSA Financial Management Specialists and Program Managers do not have 
+the ability to create, modify, or view user profiles in G5.  
+ 
+III. UEI Change 
+ 
+The Unique Entity Identifier (UEI) (GAN Box 8) is the official identifier used for doing 
+business with the U.S. Government as of April 4, 2022. It is a 12-character alphanumeric 
+ID assigned to an entity by SAM.gov. The Federal government uses a system called SAM, 
+which stands for System for Award Management. Any entity that wants to apply for 
+Federal contracts or receive Federal funds must register with SAM. Entities that use 
+SAM include for-profit businesses, nonprofits, government contractors or 
+subcontractors, as well as State and local governments. UEIs do not expire; however, 
+entities must update their SAM.gov account each year to avoid an inactive registration. 
+Active registrations in SAM.gov are required for RSA to issue or process changes to grant 
+awards.   
+ 
+To initiate a Grantee UEI change, the RSD must formally notify the assigned RSA 
+Financial Management Specialist or Program Manager of the – 
+ 
+• New UEI; 
+• Reason for the change; and 
+• Federal Award Identification Numbers (grant award numbers) to which the new 
+UEI should be assigned. 
+ 
+This change request must be submitted on agency letterhead, signed by the RSD, or via a 
+digitally signed email from the RSD. When the SAO is also the Director of the DSU, the 
+SAO may submit the request for a UEI change according to the process above. Grantee 
+change requests will be saved to the official grant award file by the RSA staff processing 
+the request. RSA will return requests that do not contain the required information to 
+the grantee for revision. 
+ 
+Upon receipt of the request, the Financial Management Specialist
+ or Program Manager 
+will verify the new UEI is associated with an active SAM.gov registration before any 
+changes are initiated in G5.
+
+4 
+Once the change is complete in G5, the RSD and SAO will receive an email link to the 
+GAN that reflects the change.  
+ 
+IV. Recipient Name and/or Address Change 
+ 
+The recipient’s name and address listed in Box 1 of the GAN, Recipient Name, will be the 
+name and address associated with the active entity to which the UEI is assigned in 
+SAM.gov. In accordance with 2 C.F.R. § 200.211(b), General Federal award information, 
+GANs issued by a Federal awarding agency must ensure the recipient’s name matches 
+the name associated with its Unique Entity Identifier as defined at 2 C.F.R. § 25.415. 
+ 
+Changes will not be made to the recipient’s name or address in G5 until after the change 
+has become effective in SAM.gov. 
+ 
+V. Recipient State Director Change 
+ 
+The RSD is the individual who has primary responsibility for achieving the purposes of the 
+grant, while also complying with the financial and administrative policies and regulations 
+associated with the award. See the next section for clarification regarding DSA delegation 
+of authority to a DSU. 
+ 
+The table below identifies who can serve as the RSD for RSA formula awards.  
+ 
+Grant Program Recipient State Director 
+• State Vocational Rehabilitation 
+Services (VR) 
+• State Supported Employment Services 
+(SE) 
+• Independent Living for Older 
+Individuals Who Are Blind (OIB) 
+Director of DSA (or Commissioner if 
+there is no DSA) 
+Client Assistance Program (CAP) – Internal  Director of DSA or DSU* 
+CAP – External Executive Director of Grantee Agency 
+CAP - Internal or external agency 
+contracting CAP services to another 
+organization 
+Director or Executive Director of 
+designated agency 
+Protection and Advocacy of Individual 
+Rights (PAIR) 
+Executive Director of Grantee Agency 
+*As designated by the Governor. 
+ 
+Additional details regarding the RSD assignment are included below.
+
+5 
+1. VR, SE, and OIB Programs  
+ 
+The RSD (GAN Box 3) is the director of the designated State agency (DSA) in accordance 
+with 34 C.F.R. § 361.13. If the DSA is not primarily concerned with vocational 
+rehabilitation or vocational and other rehabilitation of individuals with disabilities, then 
+the director of the designated State unit (DSU) responsible for administration of the VR 
+award, as identified in the State plan, is assigned to the award in G5 with the role of 
+SAO. Even though the designation of the SAO role in G5 does not result in the DSU 
+director’s name appearing on the GAN, when the DSA has delegated a DSU director to 
+sign the State plan, the DSU director has primary responsibility for achieving the 
+purposes of the grant, while also complying with the financial and administrative 
+policies and regulations associated with the award. 
+ 
+Although the DSA or DSU may have administrative staff to assist them with the 
+management of grant funds, the ultimate responsibility for the management of the 
+award rests with the director responsible for signing the State plan and is subsequently 
+the legal entity responsible for receiving the Federal funds. All RSA formula awards 
+administered through the State Monitoring and Program Improvement Division (SMPID) 
+follow this policy. 
+ 
+As the individual responsible for the overall administration of the grant award, the 
+director responsible for signing the State plan is responsible for accessing and 
+distributing GANs to agency personnel and initiating requests for changes to the GAN as 
+they become necessary, in accordance with the processes described in this document.  
+ 
+If an individual serving as the RSD will be vacating that position, the current RSD is 
+responsible for initiating a change to the RSD’s name prior to exiting the position. The 
+new or interim RSD must have the same authority as the previous RSD regarding 
+administering the awards and signing the State plans, if required. If the current RSD 
+does not request the transfer to the new RSD prior to leaving the position, grantees 
+must also follow the procedures in number 4, below.  
+ 
+Regardless of who is authorized to sign the State plan, the Director of the DSA (or 
+Commissioner if the DSA is an Independent Commission) must be the RSD listed on the 
+GAN. To initiate a change to the RSD name, the RSD must submit a request via email to 
+the Financial Management Specialist
+ or Program Manager assigned to the State. The 
+email must include the – 
+ 
+• Federal Award Identification Number for the award(s) that need to be updated; 
+• New RSD’s name, email address, postal address, and telephone number; and 
+• Date when the new RSD will become or became effective. 
+ 
+The email must be digitally signed by the RSD. If the previous RSD did not request the 
+transfer to the new RSD prior to exiting, an email containing the information above must
+
+6 
+be submitted and digitally signed by the head of the DSA or Independent Commission, if 
+applicable. If the submitter is unable to digitally sign the email, a letter as described in 
+number 4, below must be submitted. Grantee change requests will be saved to the 
+official grant award file by the RSA staff processing the request. RSA will return requests 
+that do not contain the required information to the grantee for revision. 
+ 
+Once the change is complete in G5, the new RSD will receive an email link to the GAN 
+that reflects the change. To receive the email notification, the new RSD must have a 
+user account in G5. 
+ 
+2. CAP  
+ 
+The RSD, listed in Box 3 on the GAN, is the director of the Client Assistance Program. For 
+internal CAPs (programs managed from within the VR agency), the RSD is the individual 
+responsible for administering the grant program and must be the director of the DSA. 
+For external CAPs, the RSD is the Executive Director of CAP entity.  
+ 
+To initiate a change to the RSD name, the current RSD must submit an email request to 
+the RSA Fiscal Unit staff member assigned to the award. The email must include the – 
+ 
+• Federal Award Identification Number for the award(s) that need to be updated; 
+• New RSD’s name, email address, postal address, and telephone number; and 
+• Date when the new RSD will become or became effective. 
+ 
+The email must be digitally signed by the RSD. If the previous RSD did not request the 
+transfer to the new RSD prior to exiting, the grantee must submit a letter as described in 
+number 4 below. 
+ 
+Once the change is complete in G5, the new RSD will receive an email link to the GAN 
+that reflects the change. To receive the email notification, the new RSD must have a 
+user account in G5. 
+ 
+3. PAIR Program 
+ 
+The RSD is the individual responsible for administering the grant program and must be 
+the Executive Director of the designated agency. Therefore, the Executive Director must 
+be the individual listed on the GAN as the RSD. 
+ 
+To initiate a change to the RSD, the RSD must submit an email to the 
+Financial 
+Management Specialist o r Program Manager assigned to the State. The email must 
+include the –  
+ 
+• Federal Award Identification Number for the award(s) that need to be updated; 
+• New RSD’s name, email address, postal address and telephone number; and
+
+7 
+• Date when the new RSD will become or became effective. 
+ 
+The email must be digitally signed by the RSD. If the previous RSD did not request the 
+transfer to the new RSD prior to exiting, the grantee must submit, a letter as described in 
+number 4 below. 
+ 
+Once the change is complete in G5, the new RSD will receive an email link to the GAN 
+that reflects the change. To receive the email notification, the new RSD must have a 
+user account in G5. 
+ 
+4. Requesting a New RSD in the Absence of a Current RSD 
+ 
+If the previous RSD did not submit a request to establish a new RSD prior to leaving the 
+position, the individual that supervises the RSD’s position must submit a formal written 
+request to the Financial Management Specialist
+ or Program Manager assigned to the 
+State to initiate the change in G5.  
+ 
+For external CAP and PAIR agencies, the Chairperson of the Board that oversees the 
+functioning of the grantee organization may sign the change request. All written 
+requests must – 
+ 
+A. Be on official letterhead of the grantee organization; 
+B. Be signed by an individual with the legal authority to make the request; 
+C. Include the new RSD’s legal name, organization name, postal and email 
+addresses, and phone number; and 
+D. List all the Federal Award Identification Numbers to which the changes should 
+apply. 
+ 
+Due to security measures, correspondence sent to RSA via the U.S. Postal Service may 
+be delayed by several weeks. To process a request as quickly as possible, RSA will accept 
+a scanned copy submitted via email. RSA will return requests that do not contain the 
+required information to the grantee for revision.  
+ 
+VI. State Authorizing Official Assignment 
+ 
+For the VR, SE, and OIB programs, the SAO is the Director of the DSU. The SAO 
+designation allows the DSU Director to access GANs at the same general level as the RSD 
+for assigned awards, but without the SAO’s name appearing on the GAN.  
+ 
+Contact the Financial Management Specialist
+ assigned to your State or Program 
+Manager for additional information.

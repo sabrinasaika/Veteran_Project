@@ -1,0 +1,3444 @@
+FILENAME: ffy-202023-20mtag-20final-20-06-15-2023-20update-pdf-3439615dc93d.pdf
+PATH: _raw/rsa.ed.gov/ffy-202023-20mtag-20final-20-06-15-2023-20update-pdf-3439615dc93d.pdf
+
+1  
+TABLE OF CONTENTS  
+ 
+  
+I. Monitoring Objective, Values, and Scope ............................................................................................. 1 
+II. Process Overview ................................................................................................................................... 5 
+III. Focus Area—Per formance of the State Vocational Rehabilitation Services and State Supported 
+Employment Services Programs ............................................................................................................. 12 
+IV. Focus Area—Financial Ma nagement of the State Vocational Rehabilitation Services and State 
+Supported Employment Services Programs .......................................................................................... 24 
+APPENDIX A Vocational Rehabilitation Program Accountability Model ......................................... 30 
+APPENDIX B Vocational Rehabilitation Agency Required Documentation ...................................... 34 
+APPENDIX C Vocational Rehabilitation Services and Supported Employment Programs ............. 39 
+Performance Tables .............................................................................................................................. 39 
+APPENDIX D Vocational Rehabilitation Services and Supported Employment Programs Fiscal .. 63 
+ 
+  
+  
+ 
+    
+I. Monitoring Objective, Values, and Scope  
+A.  Objective and Values  
+Consistent with the requirement in Section 107(a) of the Rehabilitation Act of 1973  
+(Rehabilitation Act), as amended by Title IV of the Workforce Innovation and Opportunity Act 
+(WIOA), to conduct annual reviews and periodic on-site monitoring of programs authorized 
+under Title I of the Rehabilitation Act, the Rehabilitation Services Administration (RSA) has 
+collaborated previously with State vocational rehabilitation (VR) agencies in the development of 
+the Monitoring and Technical Assistance Guide (MTAG). RSA also engaged VR agency 
+representatives in the development of the Federal fiscal year (FFY) 2023 MTAG, which has a 
+specific focus on the performance of VR agencies in the use and expenditure of Federal funds to 
+maximize quality employment outcomes for individuals with disabilities. As explained in the 
+MTAG, the objective of monitoring is to support State VR agencies and RSA in improving 
+results for individuals with disabilities seeking high-quality competitive integrated employment 
+by responding to the unique needs and challenges of individual agencies and the VR program 
+nationally. Fundamental to this monitoring approach are values shared by RSA and its State 
+partners. RSA is committed to these values as it partners with State VR agencies in the conduct 
+of monitoring to foster continuous improvement in outcomes for individuals with disabilities. As 
+such, RSA’s monitoring—     
+• Maximizes results for VR participants;  
+• Leads to continuous improvement in the VR program;
+
+2  
+• Values and supports the Federal/State partnership;  
+• Focuses on areas designed to meet the needs of State VR agencies and RSA;  
+• Addresses the characteristics and circumstances of individual VR agencies with respect to 
+the areas reviewed and the conduct of the monitoring;  
+• Fosters transparent and thoughtful verbal and written communication;  
+• Promotes the use of and improves the validity and reliability of programmatic and fiscal 
+data;  
+• Makes efficient and effective use of RSA and State VR agency personnel and time 
+devoted to the process;  
+• Delivers accurate, targeted, purposeful, and timely technical assistance, balanced with the 
+need to assure compliance with fiscal and programmatic requirements; and  
+• Supports alignment of the public workforce system monitoring protocols and provides 
+emphasis on coordination and collaboration at the Federal and State Level in evaluating 
+and reporting performance and compliance across the core programs.   
+Embodying these values, this MTAG explains the process through which RSA will provide 
+technical assistance to, and review the progress of, VR agencies in 1) maximizing the 
+expenditure and use of Federal funds to improve the quality of services for, and employment 
+outcomes achieved by, individuals with disabilities, and 2) complying with requirements under 
+the Rehabilitation Act.   
+B.  Scope of Review   
+1. General   
+Pursuant to Section 107(a) of the Rehabilitation Act, RSA must conduct periodic on-site 
+monitoring and annual reviews to determine whether a VR agency is complying substantially 
+with the provisions of its State Plan under Section 101 and the State Plan Supplement under 
+Section 606 of the Rehabilitation Act and with the evaluation standards and performance 
+indicators established under Section 106 of the Rehabilitation Act (which are subject to the 
+performance accountability measures in Section 116(b) of WIOA and 34 C.F.R. part 361, 
+subpart E).   
+The specific programs covered by this MTAG include—  
+• The State Vocational Rehabilitation Services program (VR program), established under 
+Title I of the Rehabilitation Act (Title 1, 34 C.F.R. part 361); and   
+• The State Supported Employment Services program (Supported Employment program), 
+authorized under Title VI of the Rehabilitation Act (Title VI, 34 C.F.R. part 363).  
+  
+The return of a substantial amount of unused Federal funds for the VR and Supported 
+Employment programs has generated the attention and concern of RSA, Congress, and 
+stakeholders. Thus, RSA will focus FFY 2023 monitoring on identifying the root causes for 
+the return of unused Federal funds and determining strategies and steps VR agencies may 
+employ to reverse this trend. Importantly, during the programmatic and fiscal monitoring, RSA 
+will ensure designated State units are complying with the nondelegable responsibilities for the 
+administration of the VR and Supported Employment programs described in 34 C.F.R. § 
+361.13(c)(1). These responsibilities include—  
+• All decisions affecting eligibility for VR services, the nature and scope of available 
+services, and the provision of these services;
+
+3  
+• The determination to close the record of services of an individual who has achieved an 
+employment outcome in accordance with 34 C.F.R. § 361.56;  
+• Policy formulation and implementation;  
+• The allocation and expenditure of VR funds; and  
+• Participation as a partner in the one-stop service delivery system established under Title I 
+of WIOA, in accordance with 20 C.F.R. part 678.  
+  
+RSA anticipates providing substantial technical assistance during the reviews and limiting 
+compliance findings generally to those focus areas under review.   
+  
+2. Focus Areas  
+When monitoring the State VR and Supported Employment programs, teams within the State 
+Monitoring and Program Improvement Division (SMPID) will address two focus areas while 
+reviewing the performance and compliance of each VR agency during on-site and off-site 
+reviews. Generally, these focus areas cover—  
+• Performance of the VR and Supported Employment programs, including how the VR 
+agency is implementing strategies and practices to achieve continuous improvement in 
+the delivery of VR services, including pre-employment transition services, leading to 
+quality competitive integrated employment and supported employment outcomes for 
+individuals with disabilities; and  
+• Financial management of the VR and Supported Employment programs that supports and 
+maximizes the use of Federal funds and resources to achieve continuous improvement in 
+assisting individuals with disabilities to achieve quality employment outcomes.  
+The nature and scope of each focus area, along with the activities to be conducted under each, is 
+contained in Sections III and IV, respectively, of this MTAG. As a result of the activities 
+reviewed in each of the focus areas, review teams may identify—  
+• Strategies, including innovative practices, that VR agencies use or may employ to 
+improve competitive integrated employment outcomes for individuals with disabilities, 
+including students and youth with disabilities;  
+• Recommendations leading to continuous improvement in the number and quality of 
+outcomes achieved by individuals with disabilities through the VR and Supported 
+Employment programs;  
+• Recommendations leading to continuous improvement in the financial management of 
+fiscal resources and strategies for maximizing the use of Federal grant funds;   
+• Compliance findings and corrective actions to improve processes and procedures, 
+including the development or revision of policies and internal controls supporting 
+effective and efficient program operations, service delivery, and data-based decision 
+making; and  
+• Areas of technical assistance that will assist and support VR agencies in developing 
+strategic action plans to improve and maximize program and fiscal performance and the 
+use of funds.  
+3. Other Areas of Review   
+In general, the review team will conduct monitoring activities related only to those areas of 
+review described above in B.2. However, a team may, after consulting with the VR agency and 
+SMPID management, engage in further activities, including the provision of technical assistance,
+
+4  
+in areas not covered above, if such areas are of significant concern, and if the VR agency would 
+benefit from technical assistance through the monitoring or review process. Additionally, when 
+areas of potential noncompliance, that are outside the specific scope of the MTAG, are identified 
+through the monitoring process, SMPID may add such areas to the scope of the review to ensure 
+due diligence related to SMPID’s legal responsibility to ensure compliance.  
+C.  Technical Assistance  
+To ensure VR agencies and their educational and workforce partners, as appropriate, receive 
+quality and timely technical assistance services, SMPID consults with: 1) the Office of Special 
+Education Programs (OSEP) in the Office of Special Education and Rehabilitative Services; 2) 
+the Employment and Training Administration and the Office of Disability Employment Policy in 
+the U.S. Department of Labor; 3) the Administration for Community Living in the U.S.  
+Department of Health and Human Services; and 4) relevant training and technical assistance 
+centers and demonstration projects funded by RSA, OSEP, and other Federal agencies regarding 
+the provision of services for individuals with disabilities, including students with disabilities. 
+The purpose of this coordinated technical assistance service delivery model is to assist VR 
+agencies and their partners in providing quality VR and other services to individuals with 
+disabilities leading to competitive integrated employment. Each technical assistance center 
+focuses its efforts on a specific set of strategies and practices designed to provide universal, 
+targeted, and intensive technical assistance to maximize the transition, employment, 
+independence, and integration into the community of individuals with disabilities.  
+In FFY 2020, RSA funded three five-year technical assistance centers. They include—    
+• The Vocational Rehabilitation Technical Assistance Center for Quality Management 
+(VRTAC-QM) awarded to San Diego State University for the purpose of providing 
+training and technical assistance to VR agencies to assist them to manage available staff 
+and fiscal resources, improve effective service delivery, and increase the number and 
+quality of employment outcomes for individuals with disabilities;  
+• The Vocational Rehabilitation Technical Assistance Center for Quality Employment 
+(VRTAC-QE) awarded to the University of Wisconsin for the purpose of providing 
+training and technical assistance to VR agencies to support the implementation of 
+innovative and effective employment strategies and supporting practices; and  
+• The National Technical Assistance Center on Transition: The Collaborative (NTACT:C) 
+jointly funded with OSEP and awarded to the University of North Carolina-Charlotte for 
+the purpose of providing training and technical assistance to VR agencies and State and 
+local educational agencies to support the development and implementation of services, 
+including pre-employment transition services for students with disabilities receiving 
+services under the Individuals with Disabilities Education Act (IDEA) or supported by 
+Section 504 of the Rehabilitation Act; and transition services to students and youth with 
+disabilities, including youth who have dropped out of school, are homeless or are 
+involved with the juvenile justice system.  
+Throughout the on-site monitoring or off-site reviews, SMPID’s teams will share with the 
+Training and Service Programs Division (TSPD) project officers who are responsible for the 
+administration of the technical assistance centers, the technical assistance needs of VR agencies 
+that will enable them to take the steps necessary to improve performance and resolve compliance 
+findings. In turn, TSPD project officers will share information with SMPID review teams about
+
+5  
+any intensive and targeted technical assistance provided by the technical assistance centers to the 
+VR agencies.   
+RSA strongly encourages VR agencies selected for monitoring in FFY 2023 to include the 
+VRTAC-QM and other technical assistance centers, as appropriate, in monitoring and review 
+activities prior to and during the process to assist in the development and implementation of 
+corrective action plans (CAP) and strategic action plans focused on maximizing the use of 
+Federal funds to improve program and fiscal performance. SMPID intends that the technical 
+assistance provided in conjunction with the monitoring process will reflect a partnership among 
+RSA staff, VR agencies, and the technical assistance centers to address agency and national VR 
+program areas of focus, including maximizing the efficient and effective use of funds and 
+resources to ensure individuals with disabilities achieve quality employment outcomes.     
+II. Process Overview   
+A. Agencies for Review  
+In FFY 2023, SMPID will use its available resources to conduct eight off-site reviews and four 
+on-site monitoring visits of 12 State VR agencies. RSA will select these VR agencies without 
+specific regard to the recency of prior reviews; rather, RSA will select VR agencies based on the 
+amount of Federal funds the agencies did not expend and their scores on the FFY 2023 
+accountability model.   
+B. Accountability Model  
+1. Background  
+SMPID uses an accountability model to assist in identifying agencies for review and maximizing 
+the effective use of its resources to administer the VR program. The model is consistent with the 
+guidelines set forth in the U.S. Department of Education’s (Department) Directive titled “Guide 
+for Managing Formula Grant Programs,” dated August 13, 2019.  
+2. Accountability Model  
+The FFY 2023 accountability model is comprised of three fiscal factors and one programmatic 
+factor for a total of four performance indicators, as follows:   
+  
+• Percentage of the total FFY 2022 VR grant appropriation the State’s FFY 2022 VR 
+allotment represents;  
+• Percentage of the State’s FFY 2021 Federal VR allotment expended during the year of 
+appropriation;   
+• Percentage of the State’s FFY 2020 Federal VR allotment expended during the period of 
+performance; and   
+• VR program participant percentage change from Program Year (PY) 2020 to PY 2021.  
+  
+Note: RSA computes all data on a State basis to align the RSA accountability model with the 
+principles in Title I of WIOA, under which core partners in the workforce development system, 
+including VR agencies, are required to develop performance targets and report the Annual State 
+Performance Report at the State level. This method ensures comparability between States with 
+one combined agency and States with more than one VR agency (general and blind). In making
+
+6  
+the calculations, RSA/SMPID will review data reported on the Case Service Report (RSA-911) 
+and relevant financial reports for the most recent period for which complete data are available.  
+Further details about the Accountability Model can be found in Appendix A.  
+C. Selection of States  
+During FFY 2023, SMPID will use the accountability model and information related to the 
+substantial amount of unused Federal grant funds to select VR agencies for either on-site 
+monitoring or off-site reviews (see Appendix A).  
+SMPID will assign each State VR agency an overall accountability score of one to five, with five 
+indicating a higher risk score in the identified areas. State VR agencies are selected for review 
+based upon higher overall accountability scores and significant technical assistance needs related 
+to the expenditure of their Federal VR program allotments. As such, SMPID may monitor a VR 
+agency that has been monitored more recently.   
+D. Duration of the Monitoring Process   
+To the extent possible, SMPID teams will begin the monitoring process for selected VR agencies 
+following the issuance of the MTAG for FFY 2023 and conclude all on-site monitoring and 
+offsite reviews by September 30. However, the process for each VR agency under review is not 
+intended to last the length of the entire Federal fiscal year. The SMPID review team, in 
+collaboration with the VR agency, will determine the start date of the monitoring process, 
+accommodating the schedule of the VR agency when possible. The process generally includes 
+preparation and planning activities, an on-site visit or scheduled off-site meetings, and the 
+development and issuance of draft and final monitoring reports.  
+E. Stages of the On-site Monitoring or Off-site Review Process  
+1. Planning and Preparation  
+SMPID review teams will contact each VR agency selected for on-site monitoring or off-site 
+review and request documents and conduct virtual meetings, as needed, in preparation for on-site 
+monitoring or off-site reviews. In coordination with each selected VR agency, SMPID teams 
+will—  
+• Introduce the SMPID team responsible for the review, including the team lead, and have 
+the VR agency identify its staff who will be involved in the review;   
+• Select dates for the on-site monitoring visit or the schedule for the off-site review;   
+• Identify stakeholders and partners to be invited to participate in the review, as 
+appropriate, including State Rehabilitation Council (SRC) members, the Client 
+Assistance Program, community rehabilitation programs (CRPs), employers, workforce 
+development partners, educational agencies, and VR agency consumers and their 
+representatives; and   
+• Determine the involvement of representatives of the technical assistance centers in the 
+review and notify them of the review schedule.  
+Additionally, through virtual meetings or teleconferences, SMPID teams will—   
+• Discuss the monitoring process and the substance of the focus areas included in this 
+MTAG with VR agency management, and, as applicable, progress made related to 
+previous recommendations and findings relevant to the scope of the review;
+
+7  
+• Discuss the agency’s current characteristics and situation, such as its organizational 
+structure and staff capacity, resources for service provision, the State’s economic 
+conditions and local labor markets, and the agency’s strategic planning goals and 
+objectives, so that SMPID may synthesize and prioritize discussions and technical 
+assistance activities tailored to meet significant areas of need;  
+• Gather information pertinent to the focus areas of the review from representatives of the 
+VR agency, SRC, and Client Assistance Program, as appropriate; and   
+• Finalize an agenda, which maximizes efficiency, prioritizes focus areas for discussion, 
+and respects the VR agency’s investment of time and resources for the on-site monitoring 
+visit or off-site review.  
+The SMPID review team will review documents provided by the VR agency in accordance with 
+the document request related to each focus area prior to the on-site monitoring visit or off-site 
+review (Appendix B). Specifically, the review team will use the information obtained from these 
+documents, analyses of program and fiscal data, and the information obtained during the 
+prereview planning activities described above, to identify, in collaboration with the VR agency, 
+technical assistance needs and priority focus areas that will culminate in a productive review.   
+2. On-site Monitoring and Off-site Review Activities   
+The SMPID team will schedule the on-site monitoring visit or off-site review activities with each 
+VR agency, accommodating as much as possible the schedules of VR agency management and 
+personnel. The SMPID team will engage in a variety of activities, including, but not limited to—  
+• A brief entrance meeting to introduce SMPID review team participants and VR agency 
+management and personnel and to review the on-site monitoring or off-site review 
+scheduled agenda;   
+• Relevant discussions with key VR agency personnel in the program performance and 
+financial management focus areas;   
+• The review of policies, procedures, practices, or innovative strategies with key personnel 
+related to the focus areas;   
+• The review of internal control processes and procedures, particularly as they relate to the 
+reporting of and expenditure of funds for services;  
+• The provision of technical assistance requested by the VR agency or recommended by 
+SMPID and the exploration and development of strategic actions to address areas 
+identified through the review process; and   
+• An exit meeting to discuss: 1) information gathered and observed by the review team that 
+may form the basis for potential recommendations, findings, and technical assistance or 
+strategic actions. (Note that any reference to potential recommendations and findings is 
+subject to change based on input from RSA management or other Department offices; 2) 
+next steps in the process, 3) the need for follow-up teleconferences or activities, and 4) 
+input and feedback from VR agency management and personnel and other participants in 
+the review concerning the monitoring process and activities.  
+The review team or the VR director may invite VR agency management and personnel, the 
+leadership of the designated State agency (DSA), as applicable, and the chairperson or a 
+representative of the SRC to participate in both the entrance and exit meetings, as well as any 
+other activities in which their involvement would be pertinent.  
+Individuals with whom the review team may engage in discussions related to the focus areas 
+during the on-site monitoring or off-site review may include—
+
+8  
+• VR agency supervisors and counselors;  
+• State educational agency and local school district staff responsible for providing VR 
+services to students with disabilities, particularly those students receiving preemployment 
+transition services;   
+• The DSA director;   
+• Other staff from the DSA responsible for fiscal or administrative oversight;   
+• Commissioners of agencies for the blind or other stand-alone VR agencies;   
+• Representatives of CRPs, specifically those contracted to provide pre-employment 
+transition services to students with disabilities;   
+• Workforce development partners and employers, as appropriate;   
+• VR agency consumers and their families, as appropriate, and other stakeholders; and   
+• State auditors.  
+3. Follow-up Activities  
+After the on-site monitoring or off-site review activities, the SMPID team may require further 
+documentation from the VR agency to supplement information obtained prior to or during the 
+review. Additional teleconferences or virtual meetings may be necessary to clarify any 
+outstanding questions or concerns the team has or to gather further details about a particular 
+issue.   
+F. Draft Report  
+The review team will develop a draft report containing—  
+• Analyses, observations, and recommendations to improve VR agency performance in 
+each focus area;   
+• Programmatic and fiscal compliance findings and required corrective actions to improve 
+VR agency management and operations and outcomes for individuals with disabilities; 
+and   
+• A brief summary of technical assistance provided during the review as well as plans for 
+additional technical assistance and strategic actions that will be required after the 
+conclusion of the review to assist the VR agency in achieving continuous improvement in 
+maximizing the use of funds and resources to ensure high quality outcomes for 
+individuals with disabilities.  
+The SMPID review team will develop and transmit the draft report to the VR agency following 
+internal review by RSA management and, as needed, relevant departmental or inter-departmental 
+review. If the review team anticipates delays in the issuance of the draft report, this information 
+will be shared with the VR agency with the intention of increasing the transparency of the 
+monitoring process.   
+Once the draft report is issued, the VR agency will have 15 business days to submit written 
+responses to the draft report. If there are extenuating circumstances, the VR agency may submit 
+a written request for an extension that must—   
+• Detail the nature of the extenuating circumstances;  
+• Include a proposed due date by which the agency could provide its response; and  
+• Be submitted to SMPID at least 5 business days before the end of the 15 business days 
+provided for the agency’s response.
+
+9  
+SMPID will notify the VR agency if a new submission deadline is approved.  
+The VR agency responses to the draft report should include—  
+• Identification of factual errors either in a comment inserted in the document, if 
+substantial, or in redline track changes, if minor, or through an email;   
+• Responses to any programmatic or fiscal recommendations, compliance findings, and 
+corrective actions in the designated areas for response in the report;   
+• The attachment of supporting documentation or data as needed to substantiate VR agency 
+responses; and   
+• Requests for technical assistance to carry out the recommendations and corrective actions 
+identified in the draft report.  
+If the VR agency would like to schedule a teleconference or a virtual meeting with the SMPID 
+review team to discuss any aspects of the draft report, the agency should submit a request to the 
+review lead as quickly as possible after receipt of the draft report. Delays in scheduling this call 
+do not extend the 15 business days the agency has to submit its written response to the draft 
+report.   
+G. Final Report  
+Based on the information the VR agency provides in response to the draft report, the SMPID 
+review team will develop the final on-site monitoring or off-site review report, making any 
+needed corrections. The SMPID review team may also modify or eliminate a recommendation, 
+compliance finding, or corrective action after consulting with RSA/SMPID management, the 
+Department’s Office of the General Counsel, other Department officials, or other agencies, as 
+warranted by the VR agency’s response to the draft report.  
+In addition to the information included in the draft report, the final report will contain the VR 
+agency’s responses to the draft report and any requests for technical assistance to support the VR 
+agency in carrying out the recommendations and corrective actions to improve agency 
+management and operations to maximize the provision of services and the use of funds to ensure 
+quality employment outcomes for individuals with disabilities. SMPID will include, at its 
+discretion, documentation or exhibits submitted by the VR agency in support of its responses to 
+the draft report. The SMPID review team may request additional assurances or documentation 
+from the VR agency in connection with programmatic or fiscal findings. The final report will 
+indicate when such material is required. Once completed, the review team will transmit the final 
+report electronically to the VR agency and the SRC. The VR agency, SRC, and others as 
+appropriate, will be notified upon publication of the final report on the RSA website.   
+If the analysis and finalization of a particular finding or findings will unreasonably delay 
+issuance of the complete final report, SMPID will issue a partial final report containing the 
+findings for which analysis has been completed. The partial monitoring or review report also will 
+briefly summarize the findings for which analysis has not been completed and indicate that these 
+findings will be transmitted through a separate communication or addendum to the partial final 
+report at a later date.  
+The final report represents SMPID’s final decision related to the issues identified by the review 
+team during the on-site monitoring or offsite review.
+
+10  
+H. Corrective Action Plan   
+A corrective action plan (CAP) is a step-by-step plan of action that is developed to achieve 
+targeted outcomes for resolution of identified monitoring findings. Within 45 calendar days from 
+the issuance of the final report, the VR agency will submit for SMPID review and approval a 
+CAP to address findings identified through the monitoring process to improve the VR agency’s 
+compliance, performance, and employment outcomes.   
+RSA, in collaboration with the VR agency to the extent possible, will identify target dates by 
+which specific corrective action steps will be completed dependent on the specific facts related 
+to each finding. In most instances, corrective actions should be completed within nine months 
+following the approval of the CAP. In accordance with 2 C.F.R. § 200.303(d), VR agencies must 
+“take prompt action when instances of noncompliance are identified including noncompliance 
+identified in audit findings.” To facilitate the VR agency’s development of the CAP and to 
+promote consistency in the information contained in the plan, all CAPs will be developed, 
+approved, and tracked by the SMPID team.  
+The content of the CAP must include—  
+• Statement of programmatic or fiscal findings consistent with the final report;   
+• Steps the VR agency will take to correct the finding(s). What steps will be implemented 
+and how they will be implemented;  
+• Timelines for completion of steps;  
+• Person responsible for ensuring corrective action step is completed; and  
+• The evidence of success. What evidence will be submitted to demonstrate systemic 
+correction of the identified issue(s).  
+The review team will transmit instructions to the VR agency for the submission of its CAP on 
+the approved CAP form. The VR agency will use the CAP form to provide required quarterly 
+progress reports on implementing the CAP. The VR agency’s RSA State liaison will notify the 
+VR agency once the CAP is approved by SMPID.  
+The first CAP progress report is due to the State Liaison no later than 30 calendar days after the 
+end of the first full quarter following the approval of the CAP, and then 30 calendar days after 
+each subsequent quarter is concluded, until all corrective actions are completed, and the CAP is 
+retired. Following monitoring and implementation of corrective actions, at a defined interval 
+(e.g., two years), where appropriate, RSA may contact the agency to determine if additional 
+technical assistance or the conduct of another VR agency review is required.  
+VR agencies are required to make substantive progress toward the resolution of all findings 
+within the required timelines. In the event an agency does not make progress toward compliance 
+through the approved CAP, SMPID, at its discretion, may require the agency to take additional 
+steps including, but not limited to, revising the CAP steps, timeline, target dates, etc. Depending 
+on the nature of the findings, SMPID may take additional enforcement action including 
+assigning specific conditions to the VR grantee’s award(s) or designating the grant as high risk. 
+In accordance with Department policy, SMPID may not closeout a grant award in compliance 
+until ALL corrective actions have been successfully resolved.  
+ I. Strategic Action Plan  
+Specific to the focus areas addressed during the FFY 2023 on-site monitoring and off-site 
+reviews, the VR agency should develop and implement a strategic action plan (SAP) to
+
+11  
+demonstrate how it will reverse the return of unused funds and maximize the use and expenditure 
+of Federal funds to improve performance and increase employment outcomes for individuals 
+with disabilities, including those with the most significant disabilities, as well as how it will 
+ensure the provision of pre-employment transition services to students with disabilities.  
+The SAP should—   
+• Identify causes for unused Federal funds and strategies and activities the VR agency will 
+undertake to increase and maximize its ability to expend Federal VR and Supported 
+Employment program grant funds;   
+• Provide a written workable plan for taking action, which contains a timeline for 
+implementation that demonstrates results within a reasonable specified time;  
+• Be supported by documentation (e.g., fiscal reports, data, policies) showing 
+implementation of the actions and results achieved; and  
+• Demonstrate a roadmap and commitment for continuous improvement.  
+  
+The SAP also should describe progress the VR agency made in maximizing the use of Federal  
+VR and Supported Employment program funds in FFYs 2021 and 2022, if applicable. Given a 
+State’s history with the return of unused Federal funds, RSA believes it is necessary that the VR 
+agency under review identify and take strategic actions to address the root causes. In so doing, 
+the VR agency will be better positioned to develop and implement a solid workable plan that 
+will lead to continuous improvement in the use and expenditure of available Federal funds to 
+assist individuals with disabilities.   
+  
+The SAP should be shared with RSA within 60 calendar days of the receipt of the published 
+review report. RSA encourages the VR agency to collaborate with the RSA-funded technical 
+assistance centers, as appropriate, in the development of the SAP. This collaboration can assist 
+the VR agency in needed technical assistance, the identification and assignment of specific 
+responsibilities for implementation, and the establishment of timelines. The review team will 
+review and provide appropriate input regarding the SAP. The VR agency should submit written 
+updates to the RSA team at least semiannually and the review team will convene teleconferences 
+or virtual meetings with the VR agency and appropriate staff of the technical assistance centers 
+to review progress on the SAP and discuss any further technical assistance needs that may have 
+emerged.   
+ 
+J. Involvement of Consultants in the Review Process   
+VR agencies, at their discretion, may involve contracted consultants in any or all stages of the 
+review process, including the exchange of information and conduct of teleconferences or virtual 
+meetings in preparation for the on-site monitoring visit or off-site review activities, on-site 
+monitoring or off-site review sessions, follow-up teleconferences or meetings, and the 
+development of responses to draft reports as well as the development of the CAP or strategic 
+action plan. During the initial stages of the monitoring process, VR agencies should inform 
+SMPID about the role of any consultants retained. The review team will direct all 
+communication to VR agency management and staff, as well as to technical assistance center 
+representatives and other stakeholders when appropriate, but not to the consultants.   
+K. Involvement of RSA-Funded Technical Assistance Centers  
+VR agencies are strongly encouraged to seek the participation of the VRTAC-QM or other 
+technical assistance centers, as appropriate, in the on-site and off-site monitoring and review
+
+12  
+activities. The involvement of the technical assistance centers will enhance their ability to 
+support the VR agency with targeted or intensive technical assistance in the development and 
+implementation of strategic actions, which VR agencies may take to maximize the use of funds 
+and their existing resources to provide services to students with disabilities and VR program 
+participants that will result in quality employment outcomes.   
+L. Evaluation of the Review Process   
+Consistent with RSA’s commitment to continuous improvement, all participants in the 
+monitoring and technical assistance review process, including VR agency management and 
+personnel, SRC members, the Client Assistance Program, technical assistance centers, and other 
+stakeholders, may, at any point in the review process, provide written comment and suggestions  
+for improvement of the review process to RSA. This feedback may be used to inform future 
+monitoring activities.    
+III. Focus Area— Performance of the State Vocational 
+Rehabilitation Services and State Supported Employment Services 
+Programs  
+A. Nature and Scope   
+  
+SMPID will assess the performance of the State Vocational Rehabilitation Services (VR 
+program) and State Supported Employment Services program (Supported Employment program) 
+by reviewing RSA-911 data; will assess the VR agency’s internal controls, including policies 
+and procedures; and will conduct in-depth interactive discussions with the VR agency and other 
+appropriate entities. The SMPID review team will consider the unique characteristics and 
+circumstances of individual VR agencies with respect to their performance during the period 
+under review. RSA will assist VR agencies with the provision of technical assistance to promote 
+continuous improvement in the VR and Supported Employment programs, maximize the 
+provision and quality of services, including pre-employment transition services for students with 
+disabilities, ensure quality employment outcomes for VR participants, and improve the validity 
+and reliability of program data to assist the VR agency in making data-driven and strategic 
+program management decisions.  
+  
+The data used in the analysis are those collected and reported by the VR agency through the 
+RSA-911 based on RSA Policy Directives 16-04 and 19-03.
+ These data include joint data 
+elements necessary for the calculation of performance indicators for all core programs in the 
+workforce development system, including the VR program, established in Title I of WIOA. The 
+analysis is intended to serve as a broad overview of the performance of the VR and Supported 
+Employment programs administered by the VR agency and should not be construed as a 
+definitive or exhaustive review of all available VR program data. The data tables generally 
+measure performance of the VR agency based on data for individuals with open and closed 
+service records from PYs 2019, 2020, and 2021. The analysis will incorporate the data contained 
+in the tables in Appendix C and information from the RSA data dashboards. SMPID will also 
+review applicable VR agency policies and procedures, particularly as they relate to the provision 
+and scope of VR services, pre-employment transition services, supported employment services, 
+and the use and expenditure of funds, as well as those related to internal controls necessary for 
+the verification of data. The SMPID team will review quality assurance processes and internal 
+control activities related to the VR agency’s case service records to assist in assessing the 
+effectiveness of a VR agency’s internal controls for the accuracy and validity of its data.
+
+13  
+The SMPID review team will examine VR agency data and a variety of other resources, 
+including the VR services portion of the Unified or Combined State Plan, to analyze the VR 
+agency’s performance. For example, SMPID will assess the efficacy of policies and services 
+provided to eligible individuals with disabilities by reviewing the quality of employment 
+outcomes, including such factors as hours worked, earnings, and the receipt of other benefits. 
+Also, the examination of data related to attrition and reasons for exit may shed light on the 
+engagement of individuals with disabilities in the VR process. Reviewing the percentage of 
+individuals with disabilities served with particular types of impairments may be indicative of 
+decisions made by VR agency management based on the results of the comprehensive statewide 
+needs assessment (CSNA) and other information. In particular, the review team will look at 
+policies and program data in combination with fiscal data to formulate a picture of the VR 
+agency’s expenditure and use of funds to promote services leading to quality employment 
+outcomes for individuals with disabilities. The SMPID team will also review the VR agency’s 
+performance on the WIOA performance indicators established in Section 116(b) of WIOA, 
+discussing any issues related to reliability and validity of the data and the potential effect on the 
+State and VR agency negotiated levels of performance, as applicable. SMPID will provide 
+technical assistance as necessary or upon request.  
+The SMPID review team will share data tables with the VR agency prior to the on-site 
+monitoring visit or off-site review. Throughout the review process, SMPID will engage the VR 
+agency in discussions related to factors that may inform or explain performance considering any 
+unique circumstances experienced by the VR agency. As a result of its analysis and discussions 
+with key VR agency officials and staff, SMPID may develop recommendations intended to assist 
+the VR agency in its efforts to improve performance in identified areas, specifically those areas 
+related to the use and expenditure of funds for the provision of services, including 
+preemployment transition services. Generally, compliance findings will not be generated by the 
+analysis unless, for example, SMPID finds that the VR agency lacks sufficient internal controls, 
+VR agency policies or procedures reviewed in conjunction with the performance analysis are not 
+consistent with Federal requirements governing the VR program, or program data are not 
+accurately tracked and reported.   
+B. Analysis of the Performance of the VR and Supported Employment 
+Programs  
+  
+During the on-site monitoring or off-site review process, the SMPID team will conduct an 
+analysis and joint discussion with the VR agency of the performance of the VR and Supported 
+Employment programs guided by the questions below. These questions are intended to generate 
+meaningful discussions and may lead to additional questions or areas for exploration, 
+particularly as they relate to the scope and provision of services and the expenditure and use of 
+funds.  
+  
+VR Agency Profile  
+Resources: Appendix C  
+  
+• Table 1—VR Agency Profile   
+  
+The VR agency profile provides a summary of data that is designed to capture some of the most 
+salient information about the VR agency’s performance in the most recently completed program
+
+14  
+years. Among the data represented are the number of applicants and eligible individuals, the 
+number of participants, the VR agency’s employment rate, the number of individuals with 
+disabilities who achieved competitive integrated employment or supported employment, data 
+related to VR process efficiency and services, and data on the WIOA performance indicators.   
+Questions:  
+1. What impressions does the VR agency have regarding its performance? Does the VR 
+agency have any unique circumstances or issues that have affected its overall 
+performance as reflected in the profile?  
+2. Does the VR agency experience challenges or barriers related to the number of applicants 
+or individuals served in the VR program? If so, what are they?   
+3. Has the VR agency experienced a downward trend in its employment rate? If so, to what 
+does the agency attribute this trend and what strategies is the VR agency undertaking to 
+improve its employment rate?  
+VR Process: Engagement of Applicants and Eligible Individuals with Disabilities   
+Resources: Appendix B and Appendix C   
+  
+• Table 1—VR Agency Profile   
+• Table 2—Types of Exit  • Table 3— Reasons for Exit  
+• Table 7—Students with Disabilities  
+  
+Timely and effective customer service leads to high-quality competitive integrated employment 
+outcomes for VR program participants. Being engaged with applicants and eligible individuals 
+with disabilities and assisting them during the eligibility and individualized plan for employment 
+(IPE) development processes are attributes of positive customer service. SMPID review teams 
+will look at policies, practices, and trend data, including the most recent program year, to create 
+an understanding of the engagement and movement of individuals with disabilities through the 
+VR process. Through the review of relevant policies and data analysis, the VR agency and the 
+review team can pinpoint potential obstacles to efficient service delivery and engagement of 
+individuals with disabilities throughout their VR journey. In many instances, such analysis can 
+help to identify potential reasons for high attrition rates and premature exit at various stages of 
+the VR process. It is equally valuable to examine data that show positive trends to assess the 
+effectiveness of VR agency initiatives, practices, or policy changes to improve performance. To 
+increase the expenditure of funds to serve eligible individuals and participants, VR agencies 
+must increase the number of applicants and reduce the attrition of individuals at various points in 
+the VR process.    
+Questions:   
+Order of Selection:  
+4. If the agency is on an order of selection (OOS), what are the reasons and how has the 
+OOS affected the expenditure of funds? If the VR agency is not on an OOS, is the VR 
+agency considering implementing an OOS and what are the reasons?  
+Referral and Application:
+
+15  
+5. Has the VR agency experienced rising or falling trends in the total number of referrals or 
+applicants over the past three program years or even before the COVID-19 pandemic? If 
+so, what factors or circumstances are contributing to these trends? How do these factors 
+or circumstances contribute to the expenditure of funds and what strategies is the agency 
+implementing to address falling trends or to sustain rising trends?   
+  
+6. Once referred, how quickly are individuals engaged in the application process? What 
+constitutes an application?   
+  
+7. Are applicants leaving before eligibility determination? If so, why, and what is the 
+agency doing to address attrition at application and prior to eligibility?   
+  
+8. Has the VR agency recently reviewed or revised its policies and procedures pertaining to 
+referral and application? If so, what were the reasons and results? If not, would doing so 
+be beneficial and how?  
+  
+Eligibility:   
+  
+9. What is the VR agency’s average timeframe for determining eligibility? Has the VR 
+agency implemented strategies to shorten the determination process? Is the VR agency 
+experiencing delays in the determination of eligibility of applicants? If so, why, and what 
+efforts is the VR agency making to monitor and ensure compliance with the 60-day 
+timeframe?   
+  
+10. How is the VR agency engaging with individuals during the eligibility determination 
+process? Is the VR agency using interim eligibility? To what extent is the VR agency 
+relying on existing documentation or requiring assessments?  
+  
+11. Is the VR agency complying with the presumption of eligibility requirements for 
+individuals with disabilities eligible for Social Security?  
+  
+12. What percentage of individuals are exiting after eligibility but prior to IPE development? 
+What are the likely factors contributing to this attrition and how is the VR agency 
+addressing them?  
+  
+Ineligibility:   
+13. Is the VR agency providing the required trial work experiences for individuals prior to 
+determining that an individual is ineligible because the individual is too severely disabled 
+to benefit from VR services?   
+  
+14. What other reasons for ineligibility is the VR agency reporting? Is the VR agency 
+determining an unusually high number and percentage of individuals ineligible?  
+IPE Development and Participant Status:   
+  
+15. If the VR agency is experiencing delays in the development of IPEs or is not in 
+compliance with the 90-day timeframe, what steps is the VR agency taking to ensure 
+compliance or to address delays? Does the agency have policies or practices that inhibit 
+the timely development of IPEs?
+
+16  
+  
+16. What percentage of individuals are leaving before the development of the IPE and why? 
+Are participants leaving the VR program after receiving services on the IPE prior to 
+achieving an employment outcome? Has the VR agency evaluated the reasons for 
+attrition of participants after receiving services to determine why this is occurring? What 
+strategies is the agency implementing to decrease this attrition?  
+  
+17. How is the VR agency ensuring and documenting informed choice in the development of 
+the IPE, including the selection of the employment goal, the identification of needed 
+services, and the selection of providers?  
+  
+Service Record Closure and Exit:  
+18. Is the VR agency documenting and ensuring that all VR services and supported 
+employment services identified on the IPE, including post-employment services, that are 
+necessary for the achievement of the individual’s employment goal have been provided 
+prior to exit consistent with the individual’s unique strengths, resources, priorities, 
+concerns, abilities, capabilities, interests, and informed choice?  
+  
+19. How does the agency ensure that the service records contain the supporting 
+documentation necessary for closure?   
+  
+Services and Service Delivery  
+  
+Resources: Appendix B and Appendix C   
+  
+• Table 1—VR Agency Profile   
+• Table 4—VR Service Provision   
+• Table 5—Measurable Skill Gains and Credentials   
+• Table 7—Students with Disabilities
+  
+• Table 8—Pre -Employment Transition Service Provision   
+  
+Active engagement and meaningful service provision result in VR program participants 
+achieving competitive integrated employment. The ongoing engagement of individuals in the 
+VR process, exercise of informed choice, and the timely provision of quality VR services needed 
+for VR participants to attain and maximize their employment goals is integral to the success of 
+the VR program and the participant experience. The scope and type of services provided; 
+policies related to payments, authorizations, and expenditures; service delivery methods; and 
+established rates of payment are among the components influencing the use of funds to ensure 
+successful employment outcomes for individuals with disabilities.  
+The information in Table 4 is intended to provide a general overview of the provision of services 
+and the potential effect on the ability of eligible individuals to achieve quality employment. The 
+VR services data are categorized into three subcategories: Training Services, Career Services, 
+and Other Services. Training services may include such services as postsecondary education, 
+vocational and occupation skills training, on-the-job training, and apprenticeship training. A full 
+list of training services is provided in Section 134(c)(3)(D) of WIOA. Career services may 
+include assessments, group or individual counseling, or career planning. A full list of career 
+services is listed in Section 134(c)(2) of WIOA. Other services would include any other service 
+provided through the VR program not specified as training or career services in WIOA. These
+
+17  
+services include, for example, transportation, maintenance, reader services, or interpreter 
+services.   
+Questions:  
+20. What internal control activities, including policies and procedures, are in place to ensure 
+individuals with disabilities are provided timely engagement and services throughout the 
+VR process? Is there a balance between internal controls and service delivery processes? 
+IF VR services are delayed following the development of the IPE, does the VR agency 
+have policies or practices that may inhibit the available choice or timely delivery of 
+services?   
+  
+21. Has the VR agency made any changes in its policies or procedures related to the 
+provision of VR services and supported employment services (e.g., service delivery 
+models, implementation of a financial needs test, cost containment measures, use of 
+comparable services or benefits, expansion or addition of new services, post-employment 
+services, career advancement, job retention, etc.)?  
+  
+22. Are there limits on the nature and scope of VR services provided to the individual to 
+achieve an employment outcome? What is the VR agency’s policy on the provision of 
+out-of-state services?   
+  
+23. If the VR agency has financial need and cost participation policies, what effect do these 
+have on individuals seeking VR services? For participants, how do these policies affect 
+choice and the services provided on an IPE or the employment goal? Has the VR agency 
+evaluated the effect of eliminating financial need or cost participation policies?  
+  
+24. Is the VR agency providing VR services in-house or through vendors/ providers using 
+fee-for-service arrangements or contracts, or a combination of both? How does the VR 
+agency monitor or evaluate the effectiveness of VR services as well as consumer 
+satisfaction with VR services?  
+  
+25. Are there sufficient vendors/providers to meet service needs? If not, what barriers exist 
+and what is the agency doing to address capacity? Is the agency providing VR services 
+in-house that it could contract for to reduce strain on VR program staff resources?  
+  
+26. Does the VR agency contract with or refer individuals to centers for independent living in 
+the State for pre-employment transition services or VR services that assist individuals to 
+obtain competitive integrated employment? If not, why not?  
+  
+27. Are written policies for rates of payment compliant with 34 C.F.R. § 361.50(c)? How 
+recently have policies related to rates of payment been reviewed or revised by the VR 
+agency? Does the VR agency experience any barriers related to setting rates of payment? 
+Note: Refer to the Financial Management focus area for additional information and 
+questions related to internal control policies and procedures, contracts, and 
+methodologies for determining rates of payment.   
+  
+28. What correlations exist between the services being provided and the achievement of 
+employment outcomes, both in terms of the quality and quantity of employment 
+outcomes? Do certain services lead to better outcomes? For participants who exit without
+
+18  
+achieving an employment outcome after receiving services what types of services are 
+being provided to those participants?   
+  
+29. How does the VR agency consider the national, State, and local labor market information 
+and future projections, as well as other information, when establishing the employment 
+goal and career path with the individual and evaluating and planning the training and 
+educational needs of the individual in the development of the IPE and the provision of 
+VR services?  
+  
+30. To what extent is the VR agency providing postsecondary and vocational training leading 
+to credentials and improved opportunities to maximize quality employment outcomes? 
+What are the VR agency’s policies on the provision of postsecondary education and 
+training and are there limitations? How often and under what circumstances does the VR 
+agency grant exceptions?   
+  
+Quality of Employment Outcomes   
+Resources: Appendix B and Appendix C  
+  
+• Table 1—VR Agency Profile  
+• Table 2—Types of Exit   
+• Table 3— Reasons for Exit  
+• Table 4—VR Service Provision   
+• Table 5—Measurable Skill Gains and Credentials   
+• Table 6—Competitive Integrated Employment and Supported Employment Outcomes    
+  
+The mission of the VR program is to maximize employment opportunities for all individuals 
+with disabilities, including those with the most significant disabilities, and to assist individuals 
+with disabilities to achieve economic self-sufficiency. The achievement of quality employment 
+outcomes requires an investment in quality services and training, including the establishment of 
+community rehabilitation programs, as needed, and the use of funds to support training programs 
+and education leading to measurable skill gains and credentials, including advanced degrees. VR 
+program participants should sustain employment after they exit the VR program and be provided 
+the opportunity to advance in their careers. To guide the analysis and discussion of quality 
+employment outcomes, the SMPID team will review a variety of data elements with the VR 
+agency, including the following:   
+• Employment status at exit;   
+• Employment rate;   
+• Median wages earned;  
+• Median weekly hours worked;  
+• Health insurance at exit;  
+• Social security benefits at exit;  
+• Individuals who exited with competitive integrated employment, including supported 
+employment;  
+• Individuals employed in second quarter after exit and fourth quarter after exit;   
+• Percentage of individuals who retained employment;  
+• Types of occupations that VR participants obtain;  
+• Efforts to promote career advancement;
+
+19  
+• The attainment of Measurable Skill Gains (MSG) and credentials;   
+• Efforts to assist individuals in achieving parity with the general working population; and  
+• Strategies to promote job retention.   
+Questions:  
+  
+Employment Rate:  
+   
+31. To what does the VR agency attribute to changes in the percentage of competitive 
+integrated employment outcomes in recent years?   
+  
+32. Given its employment rate, what strategies has the VR agency developed to improve its 
+overall performance in assisting individuals with significant and most significant 
+disabilities to achieve and retain competitive integrated employment or supported 
+employment, including customized employment? What strategies is the VR agency using 
+to increase the number and quality of supported employment outcomes?  
+  
+Quality Indicators:   
+  
+33. What strategies, policy changes, or practices, including the expanded use of funds to 
+support quality services, has the VR agency implemented to improve its performance on 
+the quality indicators for employment outcomes?
+   
+  
+34. What strategies has the VR agency engaged in to assist individuals with significant and 
+most significant disabilities to advance in employment, including apprenticeships and 
+advanced training in the fields of science, technology, engineering, or mathematics 
+(STEM), including computer science, medicine, law, or business, in accordance with the 
+requirements of Section 103(a)(18) of the Rehabilitation Act?  
+  
+35. Does the VR agency have strategies to assist individuals with disabilities in reducing the 
+need for public support? Has there been a change in the number of individuals in receipt 
+of public support (e.g., Supplemental Security Income, Social Security Disability 
+Insurance, Temporary Assistance for Needy Families), other sources of support and 
+medical insurance coverage (e.g., medical assistance) as a result of VR services and 
+benefits counseling?  
+  
+36. What strategies does the VR agency employ to promote career advancement, attainment 
+of MSGs and credentials, and improvement in the quality and quantity of employment 
+outcomes, including supported employment outcomes?   
+  
+37. To what extent has the VR agency coordinated with other WIOA partner programs or 
+other State programs to provide/coordinate services and the expenditure of funds that 
+benefit VR program participants?  
+  
+Pre-Employment Transition Services  
+Resources: Appendix B and Appendix C  
+  
+• Table 7—Students with Disabilities
+
+20  
+• Table 8—Pre -Employment Transition Service Provision   
+  
+Early career exploration through pre-employment transition services increases the likelihood of 
+students with disabilities achieving high-quality competitive integrated employment. The review 
+team will analyze data on the number of students with disabilities, the number of those receiving 
+pre-employment transition services, and the types of services provided. In addition, SMPID will 
+provide information related to the breakout of students with disabilities who received 
+preemployment transitions services as potentially eligible students with disabilities and students 
+with disabilities who received these services under an IPE, as well as the number of students 
+with disabilities who advance from potentially eligible status to VR program participant status 
+and their outcomes. These data may be used to evaluate the relationship between the provision of 
+pre-employment transition services, participation in the VR process, and employment outcomes. 
+More specifically, the SMPID review team will explore the use of funds for the provision of 
+preemployment transition services and whether the agency is meeting the required reservation 
+and expenditure of at least 15 percent of its Federal VR grant funds.  
+Questions:   
+38. Does the VR agency have updated and accurate policies and procedures to implement 
+pre-employment transition service requirements, including the provision of services to 
+students with disabilities who are potentially eligible for VR services?  
+39. How does the VR agency ensure accurate documentation, tracking, and reporting of 
+preemployment transition services provided to students with disabilities? How are VR 
+staff tracking and documenting time spent providing required pre-employment transition  
+services or coordination activities for students with disabilities? Is the agency providing 
+authorized activities?  
+40. For agencies that are not meeting or exceeding the reservation and expenditure of 15 
+percent of Title I VR funds for arranging and providing pre-employment transition 
+services to students with disabilities, what are the reasons or explanations provided by the 
+agency for not meeting this requirement? What strategies are being implemented to meet 
+the requirement?  
+41. Of those receiving one or more pre-employment transition services, what percentage of 
+students with disabilities are potentially eligible and what percentage are applicants for 
+the VR program? How many students with disabilities are exiting pre-employment 
+transition services without applying for further VR services? What strategies is the VR 
+agency using to attract, engage, and encourage potentially eligible students with 
+disabilities to consider applying for the VR program?  
+42. Of reported students with disabilities who are not receiving pre-employment transition 
+services, what strategies is the VR agency using to increase the number of reported 
+students receiving pre-employment transition services?  
+43. If the number of students with disabilities receiving pre-employment transition services is 
+increasing, what is preventing the VR agency from meeting the reserve requirement?  
+44. How are pre-employment transition services provided and what challenges exist? Are 
+there differences in the service modalities, level, or availability of pre-employment 
+transition services in different parts of the State (e.g., unavailable CRPs in rural areas of
+
+21  
+the State, level of local educational agency coordination or cooperation)? What strategies 
+is the VR agency employing to address any deficits?  
+45. For students with IPEs who receive pre-employment transition services as well as VR 
+services necessary to support their participation in pre-employment transition services, 
+what VR services are these students with disabilities receiving that may be charged to the 
+reserved funds?  
+46. How does the VR agency engage with partners and education programs to collaboratively 
+provide pre-employment transition services, including planning activities, joint activities, 
+and coordination activities such as Individualized Education Program (IEP) meetings? 
+What challenges, if any, is the VR agency experiencing in collaborating with education 
+programs and other partners to provide pre-employment transition coordination 
+activities?  
+C. RSA-911 Data Reporting, Internal Controls, and Quality Assurance  
+Resources: Policies and procedures related to internal controls necessary for the verification of 
+RSA-911 data and quality assurance.   
+While not the sole basis for VR program management, the analysis of data can play a significant 
+role in decision-making and strategies that drive improvement in performance and the use of 
+resources and funding. The more accurate and valid the data, the better the data-informed 
+decisions will be. Quality assurance (QA) is a proactive process to ensure agency staff will 
+deliver, and individuals with disabilities will receive, high-quality VR services. QA determines 
+whether specific requirements are being met and improves work processes and efficiency by 
+analyzing and monitoring performance, developing and implementing strategies to detect and 
+correct deficits, and tracking performance metrics. Together, data-informed decisions and quality 
+assurance lead to improved agency management of resources and outcomes for individuals with 
+disabilities.    
+The SMPID Team will assess whether the agency is adhering to the internal control requirements 
+in 2 C.F.R. § 200.303. Internal controls means a process, implemented by a non-Federal entity, 
+designed to provide reasonable assurance regarding the achievement of objectives in the 
+effectiveness and efficiency of operations, reliability of reporting for internal and external use, 
+and compliance with applicable laws and regulations. Internal controls are established and 
+implemented as a measure of checks and balances to ensure proper expenditures of funds. 
+Internal controls serve to safeguard assets and prevent fraud, waste, abuse, and mismanagement. 
+They include methods and procedures the grantee uses to manage the day-to-day operations of 
+grant-supported activities to assure compliance with applicable Federal requirements and that 
+performance goals are being achieved. SMPID will review the VR agency’s current control 
+activities (policies and procedures), communication, and monitoring of internal controls and 
+quality assurance designed to mitigate potential risks in achieving management and performance 
+goals.  
+The VR agency is required to maintain verifying documentation in an individual’s service 
+record, particularly regarding eligibility determination, IPE development, services provided, and 
+case closure. The VR agency must also comply with the data validation requirements outlined in 
+joint WIOA policy guidance (RSA TAC-19-01). The use of an electronic case management 
+system does not remove the requirement for the agency to maintain either hard copies or scanned 
+copies of required supporting documentation in the individual’s service record. SMPID staff will
+
+22  
+review VR agency internal controls to ensure accuracy of data reported in the RSA-911. 
+Accurate reporting of data is paramount in making data-driven decisions in the management and 
+operation of the VR program leading to continuous improvement in program and fiscal 
+performance.   
+Questions:   
+47. In addition to case reviews, how does the VR agency’s system of internal controls ensure 
+that RSA-911 data are reported accurately and valid?  
+48. What technical assistance, if any, does the VR agency need on the requirements for 
+developing and implementing improved internal controls to ensure that data reported are 
+accurate and valid?  
+49. What training and technical assistance does the VR agency need on the type of source 
+documentation required to validate the data reported through the RSA-911? Describe the  
+VR agency’s policies and procedures that implement RSA TAC 19-01: Guidance for
+ 
+Validating Jointly Required Performance Data Submitted under WIOA.  
+50. Describe how the VR agency adjusts its RSA-911 reporting based on errors it is receiving 
+through RSA’s quarterly edit checks. How does the VR agency ensure future reporting 
+errors are avoided based upon past errors generated by the edit checks?  
+51. How does the VR agency use data to inform and improve program performance and 
+fiscal management?   
+52. How does the VR agency communicate and ensure that VR counselors and staff 
+understand and consistently apply policies and procedures related to RSA-911 data 
+collection and reporting?   
+  
+53. What degree of autonomy do VR counselors have in authorizing services and what 
+internal control activities are in place?   
+  
+54. How does the VR agency ensure accurate reporting of MSG and credential attainment? 
+How does the VR agency identify, capture, and document MSG and credential attainment 
+in case service records? How is this data verified? Do service records have supporting 
+documentation?   
+  
+55. Is the VR agency a signatory to the State Wage Interchange System (SWIS) Agreement? 
+If the VR agency has not signed the SWIS Agreement what separate interstate wage 
+sharing agreements has the VR agency executed with other States to satisfy the 
+requirement that States use interstate wage records in measuring a State's performance on 
+the WIOA primary indicators of performance?  
+  
+56. To what extent does the VR agency participate in other data sharing agreements? For 
+example, does the VR agency have existing agreements with secondary or postsecondary 
+institutions for the purpose of obtaining information regarding enrollment, measurable 
+skill gains, or credential attainment; or State workforce partners for the purpose of 
+determining co-enrollment in other workforce programs?
+
+23  
+D. Technical Assistance   
+The following questions are designed to assess the quality of the technical assistance provided by 
+RSA and RSA-funded technical assistance centers, as well as to identify the ongoing technical 
+assistance needs of the VR agency. During the preliminary meetings with the VR agency in 
+preparation for the on-site monitoring or off-site review, the VR agency is encouraged to identify 
+specific technical assistance needs to achieve continuous improvement in performance, which 
+SMPID can address during its on-site or off-site meetings, or which can be referred to the RSA 
+technical assistance centers.   
+57. What technical assistance needs does the VR agency have on any issue or topic related to 
+the performance focus area?  
+58. Has the VR agency received technical assistance from RSA staff on any issue or topic 
+related to this focus area? If so, please describe the nature of the technical assistance 
+provided and the need for any additional technical assistance.  
+59. Has the VR agency received technical assistance from one or more of the RSA-funded 
+technical assistance centers on a topic or issue related to this focus area? If so, from 
+which center? Was the technical assistance universal, targeted, or intensive? Please 
+describe the technical assistance received. What were the objectives and results?
+
+24  
+IV. Focus Area— Financial Management of the State Vocational 
+Rehabilitation Services and State Supported Employment Services 
+Programs  
+A. Nature and Scope  
+The effective and efficient fiscal administration of the VR and Supported Employment programs 
+is essential to the ability of a VR agency to maximize the funds available for attainment of 
+employment outcomes for individuals with disabilities. SMPID will review components of the 
+grantee’s financial management system and assess the fiscal accountability of the programs to—   
+• Ensure funds are expended within the period of obligation and are used only for 
+allowable purposes;  
+• Ensure programs have sound internal controls and reliable reporting systems;  
+• Identify needed improvements in fiscal policy, processes, and procedures to ensure the 
+maximum use of Federal funds to benefit VR participants and students with disabilities; 
+and,  
+• Ensure a relative benefit to the VR system is proportional to the expenditure (e.g., 
+contracts, one-stops, indirect cost rates, cost allocation plans, etc.).  
+  
+Internal controls means a process, implemented by the grantee, designed to provide reasonable 
+assurance regarding the achievement of objectives in the effectiveness and efficiency of 
+operations, reliability of reporting for internal and external use, and compliance with applicable 
+laws and regulations. Internal controls serve to safeguard assets and prevent fraud, waste, abuse, 
+improper payments, and mismanagement. They include methods and procedures the grantee uses 
+to manage the day-to-day operations of grant-supported activities to assure compliance with 
+applicable Federal requirements and that performance goals are being achieved. The VR 
+agency’s internal controls for ensuring compliance with fiscal requirements will be a core 
+component of the financial management system review, particularly as they relate to the VR 
+agency’s use of Federal funds, including the required reservation of funds for pre-employment 
+transition services, and the requirements for non-Federal match.   
+The Federal fiscal requirements referenced during the review include—  
+• Rehabilitation Act and VR and Supported Employment program implementing 
+regulations in 34 C.F.R. part 361 and 34 C.F.R. part 363, respectively;  
+• Uniform Administrative Requirements, Cost Principles, and Audit Requirements for 
+Federal Awards (Uniform Guidance) located in 2 C.F.R. Part 200;   
+• Education Department General Administrative Regulations (EDGAR) in 34 C.F.R. part 
+76;  
+• Departmental and RSA guidance, including Policy Directives (PDs), Technical 
+Assistance Circulars (TACs), Grant Bulletins, Frequently Asked Questions (FAQ), etc.; 
+and  
+• Grant Award terms and conditions.  
+The review team will use a variety of resources and documents from the current FFY and three 
+FFYs prior. If the issues identified include FFYs beyond the three prior FFYs, SMPID may 
+request additional information as needed. Resources and documentation to be reviewed include 
+data submitted by the VR agency (e.g., Federal Financial Reports (SF-425), VR Financial
+
+25  
+Reports (RSA-17), and the VR services portion of the Unified or Combined State Plan) and in 
+the Department’s Grants Management System (G5).   
+The SMPID review team will review the following documents, as applicable, to ensure 
+adherence to accountability requirements, and may request additional information, if needed:  
+• Single Audit findings and corrective actions;  
+• State/agency allocation/budget documents and fiscal reports;  
+• Agency policies, procedures, and forms (e.g., monitoring, procurement, etc.);  
+• Documentation of obligations and expenditures, including contracts, purchase orders, 
+invoices, etc.; and  
+• Grant award notifications, documentation of non-Federal share/match (e.g., interagency 
+transfers, third-party cooperative arrangements (TPCAs), establishment and construction 
+projects, private donations), maintenance of effort (MOE), and program income 
+documentation.  
+The SMPID review team will work collaboratively with the VR agency to obtain the 
+documentation necessary to complete the review (see Appendix B), while minimizing the 
+amount of documentation requested to the extent possible.  
+The degree to which the review team addresses each fiscal requirement is dependent upon the 
+individual circumstances of the agency. The review team will analyze the information obtained 
+prior to on-site monitoring or off-site review activities by reviewing the documentation 
+submitted, conducting teleconferences or virtual meetings, and examining reported data to 
+determine the level of review required for each component. Throughout the FFY 2023 review 
+activities, the review team will focus on the use of funds and identification of strategies to assist 
+VR agencies in minimizing the return of funds for reallotment and/or the return of unused funds 
+at the end of the period of performance for the award. Therefore, the scope of this focus area is 
+limited primarily to areas which address the financial management and operations that impact 
+the use of or return of Federal funds.   
+B. Period of Performance— VR program  
+Period of performance is the time during which the non-Federal entity (grantee) may incur new 
+obligations to carry out the work authorized under the Federal award (2 C.F.R. § 200.1). For 
+purposes of the Department’s Grant Award Notifications (GANs), the period of performance is 
+referred to as the Federal Funding Period.  
+To accurately account for Federal and non-Federal funds, the VR agency must ensure that 
+allowable non-Federal and Federal obligations and expenditures are assigned to the correct FFY 
+award. SMPID uses the financial information reported by the grantee to determine each VR 
+agency’s compliance with fiscal requirements (e.g., reservation of funds, matching, MOE, etc.). 
+Therefore, if the grantee is not assigning obligations and expenditures to the correct FFY, in 
+accordance with the period of performance requirements, RSA is unable to determine, with 
+certainty, the grantee’s compliance with these Federal requirements.   
+Because issues identified in this area significantly affect other areas of the fiscal review, if 
+substantive issues related to period of performance are identified, this area will become a 
+primary focus area for the fiscal review.  
+Questions:
+
+26  
+1. Identify the State’s requirements for determining when funds are considered obligated.  
+2. Identify the VR agency’s internal control processes for tracking and reporting non-Federal 
+and Federal obligations and expenditures to the correct FFY award. This includes a review of 
+the fiscal data elements used by the VR agency to ensure tracking and alignment of 
+obligations and expenditures to the correct FFY award. Specific areas for review include, but 
+are not limited to—  
+• Authorizations for consumer services;  
+• Administrative costs (e.g., rent, utilities, personnel salaries, travel); and  
+• Contracts (short-term and long-term).  
+3. Identify how the agency ensures obligations are liquidated within the period of performance 
+or subsequent 120-day liquidation period.  
+4. Describe the agency’s internal control processes for calculating and ensuring the accuracy of 
+financial data, including the Federal and non-Federal share of obligations and expenditures, 
+reported on the SF-425/RSA-17.  
+5. Describe the agency’s processes for ensuring that adjustments (e.g., journal entries, rebates, 
+refunds, etc.) are applied to the correct FFY.  
+6. How can these internal controls be improved?  
+C. Match (non-Federal share)—VR and Supported Employment programs  
+VR Program  
+This area assesses the matching requirements for the VR program. It includes an assessment of 
+whether the matching level was met, as well as whether the sources of match were consistent 
+with Federal requirements. Because match is the basis for determining a State’s compliance with 
+the VR program MOE requirements (34 C.F.R. § 361.62(a)), review of this area may include 
+MOE when issues are identified.   
+VR program implementing regulations require that the State must incur a portion of expenditures 
+under the VR services portion of the Unified or Combined State Plan from non-Federal funds to 
+meet its cost sharing requirements (34 C.F.R. § 361.60). The required Federal share for 
+expenditures made by the State, including expenditures for the provision of VR services and the 
+administration of the VR services portion of the Unified or Combined State Plan, is 78.7 percent. 
+The State’s share is 21.3 percent.   
+RSA staff will address requirements pertaining to the sources of non-Federal share used by the 
+State as the match for the VR program including, but not limited to:  
+• State appropriations and interagency transfers;  
+• TPCAs;  
+• Establishment projects; and  
+• Randolph-Sheppard set aside expenditures.  
+Prior to the review, SMPID will ask the VR agency to identify the sources and amounts of match 
+contributed by the VR agency, by FFY, for the period under review. Additionally, SMPID will
+
+27  
+request the agency’s internal control processes for ensuring that only allowable expenditures are 
+reported as the match.  
+State Appropriations and Interagency Transfers  
+Resources: SF-425/RSA-17 financial reports and agency documentation of non-Federal 
+expenditures (e.g., general ledger, accounting records)  
+Match from State appropriations include obligations and expenditures from funds appropriated 
+by the State to the DSA or designated State unit (DSU) to pay the State’s share of program 
+expenditures. This source may include State expenditures made on behalf of the program from a 
+central account or other State department. For example, a State pays for personnel fringe benefits 
+and indirect costs from a central pool of State funds. The actual State expenditures from this pool 
+for VR staff providing allowable VR services would be treated as State appropriated funds.   
+This area includes non-Federal funds transferred to or otherwise under the control of the VR 
+agency, so long as the VR agency maintains control over the determination of eligibility, the 
+provision of services, and the allocation and expenditure of the funds.  
+Questions:   
+7. What are the sources and amounts of State appropriations reported as match by the VR 
+agency, by FFY, for the period under review?  
+8. What are the agency’s internal control processes for ensuring that only allowable 
+expenditures are reported as the match? How can these internal controls be improved?  
+Third-Party Cooperative Arrangements (TPCAs)  
+Resources: Documentation related to TPCAs (e.g., contracts, agreements, and invoices)  
+TPCAs are agreements between the VR agency and other State or local public agencies (referred 
+to as cooperating agencies). TPCAs allow the VR agency to use a third party to provide VR 
+services to applicants for, or recipients of services from, the VR program. Services are typically 
+provided by cooperating agency staff and may not be provided by VR counselors or other VR 
+agency staff. The review of TPCAs includes those for the provision of pre-employment 
+transition services.  
+The SMPID review team will assess consistency of TPCAs with the requirements of 34 C.F.R.  § 
+361.28. This includes the agency’s process for ensuring that TPCA costs are allocable to the VR 
+program in accordance with the relative benefits received (2 C.F.R. § 200.405).  
+Establishment Projects  
+Resources: Policies related to establishment projects and establishment project contracts or 
+agreements; comprehensive statewide needs assessment; VR services portion of the Unified or 
+Combined State Plan; and SF-425/RSA-17 financial reports  
+This area assesses fiscal accountability for VR funds used for the establishment, development, or 
+improvement of a public or nonprofit CRP to provide VR services to applicants and eligible 
+individuals of the VR program that promote integration into the community and competitive 
+integrated employment, including supported employment and customized employment (Section 
+103(b)(2) of the Rehabilitation Act and 34 C.F.R. 
+§ 361.49(a)(1)). The VR agency must evaluate
+
+28  
+the needs of VR participants in the comprehensive Statewide needs assessment (CSNA) (34 
+C.F.R. § 361.29) to determine whether the VR agency can establish, develop, or improve a 
+public or non-profit CRP (34 C.F.R. § 361.5(c)(16) and (17), and 34 C.F.R. § 361.49(a)(1)). The 
+need to establish, develop, or improve a CRP, along with goals and priorities and strategies to 
+address the need, must be reported in the VR services portion of the Unified or Combined State 
+Plan.   
+The questions below address the pre-planning requirements, as well as the use of non-Federal 
+funds earmarked for establishment projects (34 C.F.R. 
+§ 361.60(b)(3)(i)).   
+Questions:  
+9. Identify any contracts or agreements the agency has regarding the establishment, 
+development, or improvement of a public or nonprofit CRP. For these agreements, specify—  
+• Where the CSNA incorporates the need to establish, develop, or improve a public or 
+nonprofit CRP;  
+• The goals and priorities and strategies related to each establishment project;   
+• How the agency determined the amount of funds to be contributed toward the project, 
+including the source of the non-Federal funds (e.g., VR agency State appropriation, CRP 
+non-Federal funds);  
+• How the agency and CRP will ensure that only allowable applicants or recipients of VR 
+services receive VR services from the establishment project; and  
+• The process the agency used to ensure that all pertinent Federal requirements were 
+addressed, such as the requirement that the Federal share of the cost of construction for 
+the facilities for a FFY will not exceed an amount equal to 10 percent of the State’s 
+allotment under Section 110 for such year (Section 101(a)(17)(A) of the Rehabilitation 
+Act) and that the Federal share for expenditures made for the construction of a facility for 
+CRP purposes may not be more than 50 percent of the total cost of the project (34 C.F.R. 
+§ 361.60(a)(2)).  
+Randolph Sheppard Set Aside  
+Resources: Agency documentation of set-aside expenditures, Report of Vending Facility 
+Program (RSA-15)  
+VR agencies serving as the State licensing agency are authorized by the Randolph-Sheppard Act 
+to set aside funds for the purposes set forth in the statute. Such expenditures, in certain 
+categories, are considered as non-Federal expenditures in support of the Federal VR program. 
+Therefore, these expenditures must also be reported as non-Federal expenditures on the VR 
+agency’s financial reports for purposes of determining match and MOE—  
+• Acquisition of new and replacement equipment; • Maintenance and repair of equipment; 
+and  
+• Management Services and Supervision.  
+  
+Questions:  
+10. Identify how the agency tracks obligations and expenditures from set-aside funds.
+
+29  
+11. Identify the agency’s internal control processes for ensuring that only allowable non-Federal 
+expenditures, including set-aside expenditures, are reported as match. How can these internal 
+controls be improved?  
+  
+Supported Employment Program  
+Resources: Federal Financial Reports and agency documentation of non-Federal expenditures  
+This area assesses the matching requirements for the Supported Employment program. It 
+includes an assessment of whether the matching level was met, as well as whether the sources of 
+the match were consistent with Federal requirements. Supported Employment program 
+regulations require that the State expend 50 percent of its total Supported Employment allotment 
+for the provision of supported employment services, including extended services, to youth with 
+the most significant disabilities. This means the amount of Federal funds spent on allowable 
+services for non-youth with the most significant disabilities may not exceed the amount of 
+Federal funds matched and spent on youth with the most significant disabilities. The Supported 
+Employment funds required to be reserved and expended for services to youth with the most 
+significant disabilities are awarded through the SE-B grant award. The Federal share for 
+expenditures from the State’s SE-B grant award is 90 percent. The statutorily required 10 percent 
+match requirement applies to the costs of carrying out the provision of supported employment 
+services, including extended services, to youth with the most significant disabilities. This means 
+that the 10 percent is applied to total expenditures, including both the Federal and non-Federal 
+shares, incurred for this purpose, and that the non-Federal share must also be spent on the 
+provision of supported employment services, including extended services, to youth with the most 
+significant disabilities.  
+Questions:   
+12. For the SE-B award, identify the sources and amounts of match reported by the VR agency, 
+by FFY, for the period under review.  
+13. Describe the agency’s internal control processes for ensuring that only allowable 
+expenditures are reported as the match. In particular, how does the agency ensure that only 
+expenditures for the provision of supported employment services, including extended 
+services, to youth with the most significant disabilities are counted as the match? How can 
+these internal controls be improved?  
+D. Vendor Contracts  
+Resources: Policies and procedures regarding contracting, including determining the rates of the 
+payment, and contract monitoring  
+This area addresses the requirements related to contracting for purchased services. Uniform 
+Guidance requires that States follow the same policies and procedures it uses for procurements 
+from its non-Federal funds (2 C.F.R. § 200.317). Contract policies are necessary to ensure that 
+contract language results in the VR agency receiving the necessary data that it must collect and 
+report with the frequency required by the terms and conditions of the VR award (2 C.F.R. § 
+200.328). In addition, VR agencies are responsible for oversight of the operations of the Federal 
+award supported activities. The non-Federal entity must monitor its activities under Federal 
+awards, including contracts, to assure compliance with applicable Federal requirements and 
+performance expectations are being achieved (2 C.F.R. § 200.329(a)). Through the use of 
+contracts, VR agencies must relate financial data and accomplishments to performance goals and
+
+30  
+objectives of the Federal award, consistent with the reporting of data on the SF-425, RSA-17, 
+and RSA-911 reports (2 C.F.R. § 200.329(b)). VR agencies are required to develop and maintain 
+written policies governing rates of payment for all purchased VR services (34 C.F.R.  
+§ 361.50(c)). These policies outline the process the VR agency completes to ensure the rates of 
+payment for VR services are allowable, reasonable, and allocable to the award, in accordance 
+with Uniform Guidance Cost Principles (2 C.F.R. §§ 200.403, 200.404, and 200.405).  
+Two areas related to vendor contracts will be reviewed—  
+• Contract development/implementation (e.g., ensuring required language, determining 
+rates of payment, invoice processing, budget management, etc.); and  
+• Contract monitoring.  
+This review area includes contracts for the provision of pre-employment transition services.  
+Questions:   
+14. Identify the agency’s internal control processes related to contract development and 
+implementation (e.g., ensuring contracts contain required language, determining rates of 
+payment or fees for services and ensuring that contract payments are reasonable, etc.).  
+15. Identify the agency’s internal control processes for ensuring sufficient supporting 
+documentation to determine the payment requested was for allowable VR services and was 
+consistent with the provisions of the contract.  
+16. Identify the agency’s contract monitoring processes and the outcomes of contract monitoring.  
+17. How can these internal controls be improved?  
+E. Technical Assistance   
+The following questions are designed to assess the quality of the technical assistance provided by 
+RSA and the OSEP and RSA-funded technical assistance centers, as well as to identify the 
+ongoing technical assistance needs of the VR agency.  
+18. What technical assistance needs does the VR agency have on any issue or topic related to this 
+focus area?  
+19. Has the VR agency received technical assistance from RSA staff on any issue or topic related 
+to this focus area? If so, please describe the nature of the technical assistance provided.  
+20. Has the VR agency received technical assistance from one or more of the RSA-funded 
+technical assistance centers on a topic or issue related to this focus area? If so, from which 
+center? Was the technical assistance universal, targeted, or intensive? Please describe the 
+technical assistance received. What were the objectives/results?   
+21. Did the technical assistance provided by SMPID and RSA-funded centers aid the VR agency 
+in correcting or improving its management of the VR program and delivery of services to 
+individuals with disabilities?  
+    
+APPENDIX A  Vocational Rehabilitation Program Accountability Model
+
+31  
+I. Background  
+  
+To monitor the VR program in a manner consistent with Section 107 of the Rehabilitation Act of 
+1973 (Rehabilitation Act), and the U.S. Department of Education’s (Department) policies, and to 
+address technical assistance needs of VR agencies, the State Monitoring and Program 
+Improvement Division (SMPID) within the Rehabilitation Services Administration (RSA), 
+developed an accountability model to enable it to carry out monitoring activities while increasing 
+the effective use of its resources to administer the VR program. The model is consistent with 
+guidelines set forth in the Department’s Directive titled “Guide for Managing Formula Grant 
+Programs,” dated August 13, 2019.  
+  
+II. Federal Fiscal Year (FFY) 2023 Accountability Model  
+  
+The FFY 2023 accountability model is comprised of three fiscal factors and one programmatic 
+factor for a total of four performance indicators, as follows:   
+  
+• Percentage of the total FFY 2022 VR grant appropriation the State’s FFY 2022 VR 
+allotment represents;  
+• Percentage of State’s FFY 2021 Federal VR allotment expended during year of 
+appropriation;   
+• Percentage of State’s FFY 2020 Federal VR allotment expended during the period of 
+performance; and   
+• VR program participant percentage change from PY 2020 to PY 2021.  
+  
+RSA computes all data on a State basis to align the RSA accountability model with the principles 
+in Title I of WIOA, under which core partners in the workforce development system, including 
+VR agencies, establish levels of performance statewide and report performance results on the 
+Annual Statewide Performance Report (WIOA Annual Report) at the State level. This method 
+also ensures comparability between States with one VR agency (combined) and States with more 
+than one VR agency (general and blind). In making the calculations, SMPID reviewed data 
+reported on RSA collection instruments, including the RSA-911, the Financial Status Reports 
+(SF-425), and the VR Financial Reports (RSA-17) for the most recent period for which complete 
+data are available. Therefore, the data used in the calculation of the factors comprising the FFY 
+2023 model are accurate and reliable. Importantly, the data elements used in the calculation of 
+the factors are not subjective in nature, further reducing the likelihood of errors.  
+  
+III.  Description of Factors  
+  
+The four factors analyzed through the model are described more fully below, including the basis 
+for their use, the methods of calculation, and threshold levels of performance equating with 
+numerical scores.  
+  
+1. Percentage of the total FFY 2022 VR grant appropriation the State’s FFY 2022 
+allotment represents  
+  
+Basis: Use of this factor is consistent with the guidelines contained in the Guide for 
+Managing Formula Grants (ODS: 1-102) issued by the Department on August 13, 2019. 
+States allotted a greater amount of the total Federal formula award potentially have more
+
+32  
+financial resources available to assist a larger number of individuals with disabilities to 
+achieve employment. Consequently, these States can have a more significant effect on VR 
+program performance nationally.  
+  
+Method of Calculation: This calculation is based on the percentage of the total FFY 2022 VR 
+allotment the State’s FFY 2022 formula award allotment represents. The State’s formula 
+allotments are not adjusted to account for reallotment, maintenance of effort penalties, or 
+other changes to the allotment.  
+  
+Scoring Thresholds: Assign numerical scores based on the table below. 1 represents the 
+lowest risk; 5 represents the highest risk.  
+  
+Formula Grant  
+Award Percentage  
+Risk Score  
+0.000% - 0.749%  1  
+0.750% - 1.490%  2  
+1.500% - 2.249%  3  
+2.250% - 3.990%  4  
+4.000% - 8.800%  5  
+  
+2. Percentage of State’s FFY 2021 VR allotment expended by end of year of appropriation  
+  
+Basis: Fiscal trend data indicates a decreasing amount of Federal VR funds are expended 
+during the year of appropriation for VR awards. This trend increases the risk of unused VR 
+funds and that VR program objectives will not be attained.  
+  
+Method of Calculation: FFY 2021 RSA-17 for the reporting period ending September 30, 
+2021, line 10, Total Federal Funds Awarded divided by line 19, Total Federal Share.  
+  
+Scoring Thresholds: Numerical scores assigned based on the table below. 1 represents the 
+lowest risk; 5 represents the highest risk.  
+  
+Low 
+Threshold  
+High  
+Threshold  
+Risk  
+Score  
+64.000%  100.000%  1  
+48.000%  63.990%  2  
+32.000%  47.990%  3  
+16.000%  31.990%  4  
+0.000%  15.990%  5  
+  
+3. Percentage of State’s FFY 2020 Federal VR allotment expended during the period of 
+performance  
+  
+Basis: Fiscal trend data indicates an increasing amount of Federal VR funds remaining 
+unexpended at the end of the period of performance for VR awards. These funds represent
+
+33  
+resources that were not made available to VR consumers to accomplish VR program 
+outcomes.  
+  
+Method of Calculation: State’s FFY 2020 VR formula award amount divided by the amount 
+net amount of Federal VR award funds drawn down according to G5.   
+  
+Scoring Thresholds:   
+  
+Low  
+Threshold  
+High 
+Threshold  
+Risk 
+Score  
+100.00%  140.00%  1  
+90.00%  99.999%  2  
+80.00%  89.999%  3  
+70.00%  79.999%  4  
+0.00%  69.999%  5  
+  
+4. VR Program participant percentage change from PY 2020 to PY 2021.  
+  
+Basis: VR program participants are individuals with disabilities, who were determined 
+eligible and received VR services under an individualized plan for employment. VR 
+program participants inform the WIOA performance accountability system, and their 
+outcomes are assessed across the performance indicators, as applicable. Program 
+participation change reflects the extent to which State programs are either contracting or 
+expanding. States with contracting VR programs represent a higher risk than States with 
+expanding VR programs because, in States with contractions, fewer individuals with 
+disabilities are receiving VR services and achieving competitive integrated employment 
+through the VR program.   
+  
+Method of Calculation: The difference between State’s number of VR participants served 
+in PY 2021 and PY 2020 divided by the number of VR program participants served in 
+PY 2020, multiplied by 100.  
+  
+Scoring Thresholds: Numerical scores assigned based on the table below. 1 represents the 
+lowest risk; 5 represents the highest risk.  
+  
+Low  
+Threshold  
+High 
+Threshold  
+Risk 
+Score  
+6.1%  22.2%  1  
+2.2%  3.2%  2  
+0.4%  1.0%  3  
+-4.0%  -3.3%  4  
+-22.8%  -10.2%  5  
+  
+IV.  Method to Determine Level of Monitoring
+
+34  
+SMPID performs the described calculations for each State, resulting in a State’s overall score.  
+SMPID selects States for review in FFY 2023 in a manner that ensures Selected VR agencies in 
+States with higher scores and most in need of technical assistance will be scheduled for on-site 
+monitoring or off-site review. SMPID adds the State scores for each of the factors and divides by 
+5 to calculate an average State program accountability score ranging from 1.00 to 5.00.  
+  
+On-Site Monitoring and Off-Site Reviews  
+  
+SMPID will conduct comprehensive on-site monitoring, or off-site reviews when travel is not 
+possible, of a select number of State VR agencies with higher accountability scores to review the 
+programmatic and fiscal performance of the VR and Supported Employment programs.   
+  
+Scope: This monitoring will entail implementation of all areas of programmatic performance and 
+fiscal review contained in Sections III and IV of this MTAG.   
+  
+Monitoring Team and Activities: The monitoring team, consisting of at least two program 
+members and one fiscal member, will review documentation and conduct teleconferences related 
+to all focus areas in preparation for an on-site visit, typically lasting for one week (or off-site 
+review activities when travel is not possible).  
+  
+Additionally, on-site monitoring and off-site reviews will involve the identification of strategies 
+designed to improve program and fiscal performance related to the use and expenditure of funds 
+to maximize employment outcomes for individuals with disabilities.   
+  
+    
+APPENDIX B Vocational Rehabilitation Agency Required Documentation  
+The review team will use documentation provided by the VR agency to inform the development 
+of the on-site or off-site agenda and in the review of each focus area. In accordance with 2 C.F.R. 
+§ 200.337(a), records of non-Federal entities, the “Federal awarding agency, Inspectors General, 
+the Comptroller General of the United States, and the pass-through entity, or any of their 
+authorized representatives, must have the right of access to any documents, papers, or other 
+records of the non-Federal entity which are pertinent to the Federal award, in order to make 
+audits, examinations, excerpts, and transcripts. The right also includes timely and reasonable 
+access to the non-Federal entity’s personnel for the purpose of interview and discussion related 
+to such documents.” In accordance with 34 C.F.R. § 81.34(b)(3), “a statement that the recipient 
+failed to maintain records required by law or failed to allow an authorized representative of the 
+Secretary access to those records constitutes a prima facie case for the recovery of the funds 
+affected.”  
+VR agencies are responsible for submitting the requested documentation within 30 calendar days 
+of the request unless the review team approves an extension based upon extenuating 
+circumstances. When submitting requested documentation, please remember the following:  
+1. Do not include personally identifiable information (e.g., names, Social Security numbers, 
+dates of birth, etc.);  
+2. Send copies of signed, executed documents for the last completed Federal fiscal year;
+
+35  
+3. “Contract,” as used in this list, means an agreement or promise with another entity to 
+provide goods or services in exchange for VR or Supported Employment funds. These 
+agreements may be referred to as memoranda of understanding, memoranda of 
+agreement, letters of understanding, letters of agreement, grants, agreements, contracts, 
+purchase orders, or service authorizations;  
+4. If a particular request is not applicable to the VR agency, or if the information is not 
+otherwise available, include a statement letting the review team know;  
+5. If the data being submitted contains State or agency specific codes or titles, please 
+include a reference sheet that provides an explanation or the code or title to facilitate 
+review;  
+6. Submit the requested information as soon as it is available. It is not necessary to submit 
+all the documentation at one time. Submitting the information to the review team as soon 
+as possible helps ensure there is adequate time to review the documentation prior to the 
+on-site or off-site review;  
+7. Provide fiscal data by Federal fiscal year, not State fiscal year or program year; and   
+8. Label each document submitted with the corresponding number used in the Document 
+Request.  
+After the initial information has been submitted, the RSA Financial Management Specialist may 
+need to request additional supporting fiscal documents or clarifying information related to the 
+document submission categories in order to complete the review process. Prior to the review, the 
+team’s Financial Management Specialist will work with the VR agency to determine the number 
+of documentation samples being requested and the timeframe from which the samples should be 
+taken (e.g., contracts, third-party cooperative arrangements, etc.).  
+Note: Many agencies have established collaboration websites where SMPID review team 
+members can access and download the requested documentation. Please coordinate with the 
+review team if this is an approach your agency may wish to use. The Department does not 
+currently have the capability to provide this service.   
+PRE-MONITORING DOCUMENT REQUEST 
+ 
+III. Performance of the State VR and Supported Employment Programs  Date 
+Submitted  
+1. Written policies and procedures regarding RSA-911 internal control process (e.g., 
+ensuring data accuracy, reliability, and timely submission).
+
+36  
+2. Written policies and procedures regarding the provision and scope of services, 
+which include the following:   
+• Referrals and applications (34 C.F.R. § 361.41);  
+• Eligibility and ineligibility determinations (34 C.F.R. §§ 361.42, 361.43 
+and 361.44);  
+• Individualized plan for employment (34 C.F.R. §§ 361.45 and 361.46)  
+• Record of services (34 C.F.R. § 361.47);  
+• Scope of vocational rehabilitation services for individuals with 
+disabilities (34 C.F.R. § 361.48);   
+• Scope of vocational rehabilitation services for groups of individuals with 
+disabilities (34 C.F.R. § 361.49);  
+• Written policies governing the provision of services for individuals with 
+disabilities (34 C.F.R. § 361.50);  
+• Informed choice (34 C.F.R. § 361.52);  
+• Comparable services and benefits (34 C.F.R. § 361.53);  
+• Participation of individuals in cost of services based on financial need 
+(34 C.F.R. § 361.54);  
+• Semi-annual and annual review of individuals in extended employment 
+and other employment under special certificate provisions of the Fair 
+Labor Standards Act (34 C.F.R. § 361.55); and  
+• Requirements for closing the record of services of an individual who has 
+achieved an employment outcome (34 C.F.R. § 361.56).  
+  
+3. Written policies and procedures for the provision, scope, tracking and reporting 
+of supported employment services, including extended services for youth (34 
+C.F.R. § 361.5(c)(54) and part 363).  
+  
+4. Written policies and procedures for the provision, tracking, and reporting of pre-
+employment transition services (34 C.F.R. § 361.48(a)).  
+  
+5. A copy of the most recently completed Comprehensive Statewide Needs 
+Assessment (optional unless VR agency spent Federal or non-Federal funds on 
+Construction/Establishment projects).  
+  
+6. As applicable, State-imposed requirements: The designated State unit must, upon 
+request, identify those regulations and policies relating to the  
+administration or operation of its vocational rehabilitation program that are 
+State-imposed, including any regulations or policy based on State interpretation 
+of any Federal law, regulation, or guideline (34 C.F.R. § 361.39).  
+  
+   
+IV.  Financial Management of the State VR and Supported Employment Programs  
+  
+1.  Period of Performance (2 C.F.R. §§ 200.1 and 200.303; 34 C.F.R. § 76.707):  Date 
+Submitted
+
+37  
+A. Documentation that identifies the State and VR agency financial obligation 
+requirements and how they are implemented consistent with the Federal 
+requirements. VR agency’s written policies and procedures that detail the 
+processes/internal controls for assignment of non-Federal and Federal 
+financial obligations and expenditures—for authorizations/purchase orders, 
+contracts, personal salaries, rent, utilities, etc.—to the correct period of 
+performance specific to Federal awards and non-Federal fund sources;  
+  
+B. Description of accounting processes, including chart of accounts, used to 
+track financial obligations and expenditures assigned, tracked, and reported 
+to a Federal award or non-Federal sources; and  
+  
+C. VR agency supporting documentation that demonstrates how the process for 
+assigning, tracking, liquidating, and reporting of obligations and 
+expenditures (see 1.A. and 1.B. above) meet the period of performance 
+requirements.   
+  
+2.  Federal Financial Reporting (2 C.F.R. § 200.328):  Date 
+Submitted  
+A. VR agency policies and procedures for ensuring the accurate and timely 
+submission of Federal financial reports (SF-425) and VR financial reports 
+(RSA-17); and  
+  
+B. VR agency supporting documentation for SF-425/RSA-17 data submitted 
+(RSA Financial Management Specialist will provide reporting period end 
+dates).  
+  
+    
+ 
+3.  Match in VR Program (34 C.F.R. § 361.60(a)(1) and (b)):  
+For FFYs 2020 to 2023 provide dollar amounts ($) for the following sources of 
+non-Federal share (match), for each program per FFY.  
+Date 
+Submitted  
+A. State appropriations;    
+B. Interagency transfers;    
+C. Third-party cooperative arrangements (VR program only);     
+D. Randolph-Sheppard program expenditures (VR program only);    
+E. Construction/Establishment expenditures not included in State appropriations 
+(VR program only);  
+  
+F. Cash contributions by private entities; and    
+G. Other (please describe).    
+3.1 Third-Party Cooperative Arrangements (TPCA) (if applicable) (34 C.F.R. § 
+361.28):   
+Date 
+Submitted  
+A. VR agency policies and procedures regarding TPCAs, including for the 
+provision of pre-employment transition services;  
+   
+B. TPCA contracts/agreements; and
+
+38  
+C. VR agency supporting documentation for costs paid under TPCAs (e.g., 
+cooperating agency personnel activity reports/work logs, monthly progress 
+reports, invoices, etc., including respective charges to Federal and non- 
+  Federal share).  
+  
+3.2 Establishment Projects (VR program only) (if applicable) (Section 03(b)(2)(A) 
+of the Rehabilitation Act and 34 C.F.R. § 361.49(a)(1)):  
+Date 
+Submitted  
+A. VR agency policies and procedures regarding establishment projects, 
+including pre-planning;  
+  
+B. Requirements, demonstration of the need for establishment and reflection of 
+goals and priorities in the VR services portion of the Unified or Combined 
+State plan;  
+  
+C. Contracts/agreements; and    
+D. VR agency supporting documentation for expenditures (e.g., progress  
+ reports, invoices, etc.).  
+  
+3.3 Randolph-Sheppard Expenditures (if applicable) (34 C.F.R. § 361.49(a)):  Date 
+Submitted  
+A. Policies and procedures regarding the VR agency’s use of 
+RandolphSheppard set-aside funds as match in the VR program;  
+  
+B. VR agency supporting documentation that demonstrates only allowable 
+setaside fund expenditures are counted as match for the VR program (DSU 
+management services and supervision, new or replacement equipment, 
+maintenance and repair of equipment); and  
+  
+C. VR agency supporting documentation of non-Federal funds, not set-aside, 
+expended by DSU for acquisition of vending facilities or equipment; 
+management and supervision; maintenance and repair of equipment; initial 
+stocks and supplies not to exceed six months; and initial operating expenses 
+not to exceed six months.  
+  
+ 
+4. Match in the Supported Employment Program – documentation of 
+nonFederal share being spent in Supported Employment-B for youth with the 
+most significant disabilities.  
+Date 
+Submitted  
+A. Supporting documentation that costs used for match met the age 
+requirements for youth and that youth are working in a supported 
+employment position.
+
+39  
+  
+APPENDIX C  Vocational Rehabilitation Services and Supported 
+Employment Programs   
+Performance Tables  
+  
+Table 1—[AGENCY] Performance Profile   
+  
+Table 2—[AGENCY] Types of Exit   
+  
+Table 3—[AGENCY] Reasons for Exit   
+  
+Table 4—[AGENCY] VR Service Provision   
+  
+Table 5—[AGENCY] Measurable Skill Gains and Credentials   
+  
+Table 6—[AGENCY] Competitive Integrated Employment and Supported Employment 
+Outcomes   
+  
+Table 7—[AGENCY] Students with Disabilities  
+  
+Table 8—[AGENCY] Pre -Employment Transition Service Provision
+
+40  
+  
+Table 1—[AGENCY] Performance Profile   
+VR Program Performance  PY 2019  PY 2020  PY 2021  
+Employment Rate        
+Number of Participants Exiting in Competitive Integrated  
+Employment or Supported Employment        
+Percentage of Timely Eligibility Determinations        
+Percentage of Eligibility Determinations Extensions        
+Percentage of Timely IPE Development        
+Percentage of Initial IPE Extensions  N/A      
+Number of Applicants        
+Number of Individuals Determined Eligible        
+Number of Individuals with an IPE and No VR Services Provided        
+Number of Participants (with an IPE and VR Services Provided)  
+  
+      
+WIOA Performance Indicators (General/Blind VR agency)  PY 2019  PY 2020  PY 2021  
+Measurable Skill Gains Rate        
+Employment Rate in 2nd Qtr After Exit        
+Median Earnings in 2nd Qtr After Exit        
+Employment Rate in 4th Qtr After Exit        
+Credential Attainment Rate  
+    
+      
+    WIOA Performance Indicators (State)  PY 2019  PY 2020  PY 2021  
+Measurable Skill Gains Rate        
+Employment Rate in 2nd Qtr After Exit        
+Median Earnings in 2nd Qtr After Exit        
+Employment Rate in 4th Qtr After Exit        
+Credential Attainment Rate        
+       
+    
+Calculation Table 1: Performance Profile   
+VR Program Performance   Number/Percentage  
+Employment Rate  RSA-911: (Total individuals with Data Element 354 Type of  
+Exit = 6 divided by Total individuals with Data Element 354  
+Type of Exit = 4 or 6) multiplied by 100
+
+41  
+  
+Number of Individuals Exiting in Competitive  
+Integrated Employment or Supported  
+Employment  
+RSA-911: Total individuals with Data Element 354 Type Of 
+Exit = 6  
+Percentage of Timely Eligibility Determinations  RSA-911: (Total individuals with Data Element 38 Date of  
+Eligibility Determination during the PY and Data Element  
+39 Eligibility Determination Extension = 0 where Data 
+Element 38 minus Data Element 7 Date of Application is 
+less than or equal to 60 days divided by Total individuals 
+with Data Element 38 during the PY and Data Element 39 = 
+0) multiplied by 100  
+Percentage of Eligibility Determination  
+Extensions  
+RSA-911: (Total individuals with Data Element 38 during 
+the PY and Data Element 39 = 1 divided by Total individuals 
+with Data Element 38 during the PY) multiplied by 100  
+Percentage of Timely IPE Development  RSA-911: (Total individuals with the earlier of Data  
+Element 48 Date of Most Recent or Amended IPE and Data  
+Element 127 Start Date of Initial VR Service On or After  
+IPE during the PY and within 90 days or later of Data  
+Element 38 Date of Eligibility Determination or Data  
+Element 41 Date of Exit from OOS Waiting List, divided by 
+Total individuals with Data Element 48 during the PY) 
+multiplied by 100. * PY 2020 calculation will be adjusted to 
+use data element 398 – Date of Initial IPE in place of data 
+element 48   
+Percentage of Initial IPE Extensions  RSA-911: (Total individuals with Data Element 398 during 
+the PY and Data Element 399 = 1 divided by Total 
+individuals with Data Element 398 during the PY) multiplied 
+by 100  
+Number of Applicants  RSA-911: Total individuals with Data Element 7 Date of 
+Application during the PY  
+Number of Individuals Determined Eligible  RSA-911: Total individuals with Data Element 38 Date of  
+Eligibility Determination during the PY  
+Number of Individuals with an IPE and No VR  
+Services Provided  
+RSA-911: Total individuals with Data Element 48 Date of  
+Most Recent or Amended IPE during the Program Year and  
+Data Element 127 Start Date of Initial VR Service On or 
+After IPE is blank  
+Number of Participants (with an IPE and VR  
+Services Provided)  
+Amended Joint Performance Specs: Item 12 for PY   
+WIOA Performance Indicators   Number/Percentage  
+Measurable Skill Gains Rate  Amended Joint Performance Specs: Item 32 for PY   
+Employment Rate in 2nd Qtr After Exit  Amended Joint Performance Specs: Item 16 for PY   
+Median Earnings in 2nd Qtr After Exit  Amended Joint Performance Specs: Item 26 for PY   
+Employment Rate in 4th Qtr After Exit  Amended Joint Performance Specs: Item 19 for PY   
+Credential Attainment Rate  Amended Joint Performance Specs: Item 29 for PY
+
+42  
+  
+  
+  
+Table 2—[AGENCY] Types of Exit   
+    
+Individuals Who Exited the VR Program  PY 2019  PY 2020  PY 2021  
+Number of Individuals Who Exited the VR Program  
+  
+      
+Exit Type  
+PY 2019  
+Number of  
+Individuals  
+PY 2019 
+Percent  
+PY 2020  
+Number of  
+Individuals  
+PY 2020 
+Percent  
+PY 2021  
+Number of  
+Individuals  
+PY 2021 
+Percent  
+Individual exited as an 
+applicant, prior to eligibility 
+determination or trial work 
+experience  
+            
+Individual exited during or 
+after a trial work experience              
+Individual exited after 
+eligibility, but from an order of 
+selection waiting list  
+            
+Individual exited after  
+eligibility, but prior to a signed 
+IPE  
+            
+Individual exited after an IPE 
+without an employment 
+outcome  
+            
+Individual exited after an IPE 
+in noncompetitive and/or 
+nonintegrated employment 
+ 
+            
+Individual exited after an IPE 
+in competitive and integrated 
+employment or supported 
+employment  
+            
+Individual exited as an 
+applicant after being 
+determined ineligible for VR  
+services  
+  
+            
+Supported Employment  
+PY 2019  
+Number of  
+Participants  
+PY 2020  
+Number of  
+Participants  
+PY 2021  
+Number of  
+Participants  
+Number of Participants Who Exited with a Supported Employment  
+Outcome in Competitive Integrated Employment        
+Number of Participants Who Exited with a Supported Employment  
+Outcome in Noncompetitive and/or Nonintegrated Employment
+
+43  
+  
+  
+Calculation Table 2: Types of Exit   
+Number of Individuals Who Exited the VR  
+Program  
+RSA-911: Total number of individuals where Data 
+Element 353 Date of Exit within PY  
+Exit Type  Number of Individuals  Percent  
+Individual exited as an applicant, 
+prior to eligibility determination or 
+trial work experience  
+RSA-911: Total number of 
+individuals where Data Element  
+354 Type of Exit = 0  
+RSA-911: (Total number of 
+individuals where Data Element 354 
+Type of Exit = 0 divided by 
+Number of Individuals Who Exited 
+the VR Program) multiplied by 100  
+Individual exited during or after a 
+trial work experience  
+RSA-911: Total number of 
+individuals where Data Element  
+354 Type of Exit = 1  
+RSA-911: (Total number of 
+individuals where Data Element 354 
+Type of Exit = 1 divided by 
+Number of Individuals Who Exited 
+the VR Program) multiplied by 100  
+Individual exited after eligibility, 
+but from an order of selection 
+waiting list 
+ 
+RSA-911: Total number of 
+individuals where Data Element  
+354 Type of Exit = 2  
+RSA-911: (Total number of 
+individuals where Data Element 354 
+Type of Exit = 2 divided by 
+Number of Individuals Who Exited 
+the VR Program) multiplied by 100  
+Individual exited after eligibility, 
+but prior to a signed IPE  
+RSA-911: Total number of 
+individuals where Data Element  
+354 Type of Exit = 3  
+RSA-911: (Total number of 
+individuals where Data Element 354 
+Type of Exit = 3 divided by 
+Number of Individuals Who Exited 
+the VR Program) multiplied by 100  
+Individual exited after an IPE 
+without an employment outcome  
+RSA-911: Total number of 
+individuals where Data Element  
+354 Type of Exit = 4  
+RSA-911: (Total number of 
+individuals where Data Element 354 
+Type of Exit = 4 divided by 
+Number of Individuals Who Exited 
+the VR Program) multiplied by 100  
+Individual exited after an IPE in  
+noncompetitive and/or 
+nonintegrated employment  
+RSA-911: Total number of 
+individuals where Data Element  
+354 Type of Exit = 5  
+RSA-911: (Total number of 
+individuals where Data Element 354 
+Type of Exit = 5 divided by 
+Number of Individuals Who Exited 
+the VR Program) multiplied by 100  
+Individual exited after an IPE in 
+competitive and integrated 
+employment or supported 
+employment  
+RSA-911: Total number of 
+individuals where Data Element  
+354 Type of Exit = 6  
+RSA-911: (Total number of 
+individuals where Data Element 354 
+Type of Exit = 6 divided by 
+Number of Individuals Who Exited 
+the VR Program) multiplied by 100  
+Individual exited as an applicant 
+after being determined ineligible for  
+VR services  
+RSA-911: Total number of 
+individuals where Data Element  
+354 Type of Exit = 7  
+RSA-911: (Total number of 
+individuals where Data Element 354 
+Type of Exit = 7 divided by 
+Number of Individuals Who Exited 
+the VR Program) multiplied by 100
+
+44  
+  
+Potentially eligible individual exited 
+after receiving preemployment 
+transition services and has not 
+applied for VR services. Code no 
+longer available as of PY 2020.  
+RSA-911: Total number of 
+individuals where Data Element  
+354 Type of Exit = 8  
+RSA-911: (Total number of 
+individuals where Data Element 354 
+Type of Exit = 8 divided by 
+Number of Individuals Who Exited 
+the VR Program) multiplied by 100  
+  
+Supported Employment   Number  
+Number of Participants Who Exited with a Supported  
+Employment Outcome in Competitive Integrated  
+Employment  
+RSA-911: Total number of individuals where Data  
+Element 354 Type of Exit = 6 and Data Element  
+356 Employment Outcome at Exit = 5   
+Number of Participants Who Exited in Supported  
+Employment with Noncompetitive and/or Nonintegrated  
+Employment   
+RSA-911: Total number of individuals where Data  
+Element 354 Type of Exit = 5 and Data Element  
+356 Employment Outcome at Exit = 5
+
+45  
+  
+Table 3—[AGENCY] Reasons for Exit   
+  
+Reason for Exit  
+PY 2019  
+Number of  
+Individuals  
+PY 2019 
+Percent  
+PY 2020  
+Number of  
+Individuals  
+PY 2020 
+Percent  
+PY 2021  
+Number of  
+Individuals  
+PY 2021 
+Percent  
+Individual is No Longer  
+Available for Services Due to  
+Residence in an Institutional  
+Setting Other Than a Prison or 
+Jail  
+    N/A  N/A  N/A  N/A  
+Health/Medical              
+Death of Individual              
+Reserve Forces Called to 
+Active Duty              
+Foster Care      N/A  N/A  N/A  N/A  
+Ineligible after determined 
+eligible              
+Criminal Offender              
+No Disabling Condition              
+No Impediment to  
+Employment      N/A  N/A  N/A  N/A  
+Does Not Require VR Service      N/A  N/A  N/A  N/A  
+Disability Too Significant to  
+Benefit from Service      N/A  N/A  N/A  N/A  
+No Long-Term Source of  
+Extended Services Available      N/A  N/A  N/A  N/A  
+Transferred to Another Agency              
+Achieved Competitive  
+Integrated Employment  
+Outcome  
+            
+Extended Employment              
+Extended Services Not  
+Available              
+UN/Able to Locate or Contact              
+No Longer Interested in  
+Receiving Services or Further  
+Services
+
+46  
+  
+All Other Reasons              
+Short-Term Basis Period  N/A  N/A          
+Ineligible: Pursuant to 511  N/A  N/A          
+Ineligible: Following Trial  
+Work  N/A  N/A          
+Number of Individuals Who  
+Exited the VR Program    -    -    -  
+Calculation Table 3: Reasons for Exit   
+Reason for Exit  Number  Percent  
+Individual is No Longer  
+Available for Services Due to  
+Residence in an Institutional  
+Setting Other Than a Prison or  
+Jail * Code discontinued as of  
+PY 2020  
+RSA-911: Total number of 
+individuals where Data Element  
+355 Reason for Exit = 1   
+RSA-911: (Total number of individuals 
+where Data Element 355 Reason for Exit = 
+1 divided by Number of Individuals Who  
+Exited the VR Program (Data Element 353  
+Date of Exit within PY)) multiplied by 100  
+Health/Medical  RSA-911: Total number of 
+individuals where Data Element 
+355 Reason for Exit = 2   
+RSA-911: (Total number of individuals 
+where Data Element 355 Reason for Exit = 
+2 divided by Number of Individuals Who  
+Exited the VR Program) multiplied by 100  
+Death of Individual  RSA-911: Total number of 
+individuals where Data Element 
+355 Reason for Exit = 3   
+RSA-911: (Total number of individuals 
+where Data Element 355 Reason for Exit = 
+3 divided by Number of Individuals Who  
+Exited the VR Program) multiplied by 100  
+Reserve Forces Called to Active  
+Duty  
+RSA-911: Total number of 
+individuals where Data Element 
+355 Reason for Exit = 4   
+RSA-911: (Total number of individuals 
+where Data Element 355 Reason for Exit = 
+4 divided by Number of Individuals Who  
+Exited the VR Program) multiplied by 100  
+Foster Care  
+* Code discontinued as of PY  
+2020  
+RSA-911: Total number of 
+individuals where Data Element 
+355 Reason for Exit = 5   
+RSA-911: (Total number of individuals 
+where Data Element 355 Reason for Exit = 
+5 divided by Number of Individuals Who  
+Exited the VR Program) multiplied by 100  
+Ineligible after determining 
+eligible  
+RSA-911: Total number of 
+individuals where Data Element 
+355 Reason for Exit = 6   
+RSA-911: (Total number of individuals 
+where Data Element 355 Reason for Exit = 
+6 divided by Number of Individuals Who  
+Exited the VR Program) multiplied by 100  
+Criminal Offender  RSA-911: Total number of 
+individuals where Data Element 
+355 Reason for Exit = 7   
+RSA-911: (Total number of individuals 
+where Data Element 355 Reason for Exit = 
+7 divided by Number of Individuals Who  
+Exited the VR Program) multiplied by 100  
+No Disabling Condition  RSA-911: Total number of 
+individuals where Data Element 
+355 Reason for Exit = 8   
+RSA-911: (Total number of individuals 
+where Data Element 355 Reason for Exit = 
+8divided by Number of Individuals Who  
+Exited the VR Program) multiplied by 100  
+No Impediment to Employment  
+* Code discontinued as of PY  
+2020  
+RSA-911: Total number of 
+individuals where Data Element 
+355 Reason for Exit = 9   
+RSA-911: (Total number of individuals 
+where Data Element 355 Reason for Exit = 
+9 divided by Number of Individuals Who  
+Exited the VR Program) multiplied by 100
+
+47  
+  
+Does Not Require VR Service  
+* Code discontinued as of PY  
+2020  
+RSA-911: Total number of 
+individuals where Data Element 
+355 Reason for Exit = 10   
+RSA-911: (Total number of individuals 
+where Data Element 355 Reason for Exit = 
+10 divided by Number of Individuals Who  
+Exited the VR Program) multiplied by 100  
+Disability Too Significant to  
+Benefit from Service  
+* Code discontinued as of PY  
+2020  
+RSA-911: Total number of 
+individuals where Data Element 
+355 Reason for Exit = 11   
+RSA-911: (Total number of individuals 
+where Data Element 355 Reason for Exit = 
+11 divided by Number of Individuals Who  
+Exited the VR Program multiplied by 100  
+No Long-Term Source of  
+Extended Services Available  
+* Code discontinued as of PY  
+2020  
+RSA-911: Total number of 
+individuals where Data Element 
+355 Reason for Exit = 12   
+RSA-911: Total number of individuals 
+where Data Element 355 Reason for Exit = 
+12 divided by Number of Individuals Who  
+Exited the VR Program) multiplied by 100  
+Reason for Exit  Number  Percent  
+Transferred to Another Agency  RSA-911: Total number of 
+individuals where Data Element 
+355 Reason for Exit = 13   
+RSA-911: (Total number of individuals 
+where Data Element 355 Reason for Exit = 
+13 divided by Number of Individuals Who  
+Exited the VR Program) multiplied by 100  
+Achieved Competitive  
+Integrated Employment  
+Outcome  
+RSA-911: Total number of 
+individuals where Data Element 
+355 Reason for Exit = 14   
+RSA-911: (Total number of individuals 
+where Data Element 355 Reason for Exit = 
+14 divided by Number of Individuals Who  
+Exited the VR Program) multiplied by 100  
+Extended Employment  RSA-911: Total number of 
+individuals where Data Element 
+355 Reason for Exit = 15   
+RSA-911: (Total number of individuals 
+where Data Element 355 Reason for Exit = 
+15 divided by Number of Individuals Who  
+Exited the VR Program) multiplied by 100  
+Extended Services Not  
+Available  
+RSA-911: Total number of 
+individuals where Data Element 
+355 Reason for Exit = 16   
+RSA-911: (Total number of individuals 
+where Data Element 355 Reason for Exit = 
+16 divided by Number of Individuals Who  
+Exited the VR Program) multiplied by 100  
+UN/Able to Locate or Contact  RSA-911: Total number of 
+individuals where Data Element 
+355 Reason for Exit = 17   
+RSA-911: (Total number of individuals 
+where Data Element 355 Reason for Exit = 
+17 divided by Number of Individuals Who  
+Exited the VR Program) multiplied by 100  
+No Longer Interested in  
+Receiving Services or Further  
+Services  
+RSA-911: Total number of 
+individuals where Data Element 
+355 Reason for Exit = 18   
+RSA-911: (Total number of individuals 
+where Data Element 355 Reason for Exit = 
+18 divided by Number of Individuals Who  
+Exited the VR Program) multiplied by 100  
+All Other Reasons  RSA-911: Total number of 
+individuals where Data Element 
+355 Reason for Exit = 19   
+RSA-911: (Total number of individuals 
+where Data Element 355 Reason for Exit = 
+19 divided by Number of Individuals Who  
+Exited the VR Program) multiplied by 100  
+Short Term Basis Period  
+* Code created as of PY 2020  
+RSA-911: Total number of 
+individuals where Data Element 
+355 Reason for Exit = 20  
+RSA-911: (Total number of individuals 
+where Data Element 355 Reason for Exit = 
+20 divided by Number of Individuals Who  
+Exited the VR Program) multiplied by 100  
+Ineligible: Pursuant to 511  
+* Code created as of PY 2020  
+RSA-911: Total number of 
+individuals where Data Element 
+355 Reason for Exit = 21  
+RSA-911: (Total number of individuals 
+where Data Element 355 Reason for Exit = 
+21 divided by Number of Individuals Who  
+Exited the VR Program) multiplied by 100
+
+48  
+  
+Ineligible: Following Trial Work  
+* Code created as of PY 2020  
+RSA-911: Total number of 
+individuals where Data Element 
+355 Reason for Exit = 22  
+RSA-911: (Total number of individuals 
+where Data Element 355 Reason for Exit = 
+22 divided by Number of Individuals Who  
+Exited the VR Program) multiplied by 100  
+ Number of Individuals Who 
+Exited the VR Program  
+RSA-911: Total number of 
+individuals where Data Element 
+353 Date of Exit within PY  
+N/A  
+    
+Table 4—[AGENCY] VR Service Provision   
+  
+VR Service Provision  PY 2019  PY 2020  PY 2021  
+Total Number of Individuals Who Received VR Services  
+      
+      
+Training Services   
+PY 2019  
+Number of  
+Individuals  
+PY 2019 
+Percent  
+PY 2020  
+Number of  
+Individuals  
+PY 202 
+Percen 
+0 
+t  
+PY 2021 
+Number  
+Individua 
+  
+of 
+ls  
+PY 2021 
+Percent  
+Graduate Degree Training                
+Bachelor Degree Training                
+Junior or Community College  
+Training                
+Occupational or Vocational  
+Training                
+On-the-Job Training                
+Apprenticeship Training                
+Basic Academic Remedial or  
+Literacy Training                
+Job Readiness Training                
+Disability Related Skills  
+Training*                
+Miscellaneous Training                
+Randolph-Sheppard  
+Entrepreneurial Training                
+Customized Training                
+Work-Based Learning  
+Experience  
+  
+N/A  N/A
+
+49  
+  
+Career Services   
+PY 2019  
+Number of  
+Individuals  
+PY 2019 
+Percent  
+PY 2020  
+Number of  
+Individuals  
+PY 202 
+Percen 
+0 
+t  
+PY 2021 
+Number  
+Individua 
+  
+of 
+ls  
+PY 2021 
+Percent  
+Assessment*                
+Diagnosis and Treatment of  
+Impairment                
+Vocational Rehabilitation  
+Counseling and Guidance*                
+Job Search Assistance                
+Job Placement Assistance                
+Short-Term Job Supports                
+Supported Employment 
+Services                
+Information and Referral  
+Services*                
+Benefits Counseling*                
+Customized Employment  
+Services                
+Extended Services (for youth 
+with the most significant 
+disabilities)  
+      
+ 
+  
+ 
+    
+Other Services   
+PY 2019  
+Number of  
+Individuals  
+PY 2019 
+Percent  
+PY 2020  
+Number of  
+Individuals  
+PY 2020 
+Percent  
+PY 2021  
+Number of  
+Individuals  
+PY 2021 
+Percent  
+Transportation*              
+Maintenance*              
+Rehabilitation Technology*              
+Personal Attendant Services*              
+Technical Assistance Services              
+Reader Services*              
+Interpreter Services*              
+Other Services              
+  
+* Indicates RSA-911 Service Categories that do not require an individualized plan for employment (IPE).
+
+50  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Calculation Table 4: VR Service Provision  
+Total Number of Individuals Who  
+Received VR Services   
+  
+Amended Joint Performance Specs: Item 12   
+Count of UNIQUE individuals where Element 7 Application Date is 
+not blank and Element 353 Date of Exit within the report period or 
+Element 353 Date of Exit is null  
+Training Service    Number/Percent  
+  
+Calculation: To determine the number of participants who received 
+each of the specified services, sum the number of individuals (those 
+with Data Element 7 that is not blank) where services provided is 
+greater than 0.  
+To determine the percentage receiving the specified service, divide the 
+number of participants who received the specified service in the PY by 
+the total number of participants served and multiply by 100.  
+Career Services  Number/Percent
+
+51  
+  
+  To determine the percentage receiving the specified service, divide the 
+number of participants who received the specified service in the PY by 
+the total number of participants served and multiply by 100.etermine 
+the percentage receiving the specified service, divide the number of 
+participants who received the specified service in the PY by the total 
+number of participants served and multiply by 100.  
+Other Services  Number/Percent  
+   To determine the percentage receiving the specified service, divide the 
+number of participants who received the specified service in the PY by 
+the total number of participants served and multiply by 100.
+
+52  
+  
+Table 5— [AGENCY] Measurable Skill Gains and Credentials   
+  
+Type of Measurable Skill Gains Earned  
+PY 2019 
+Number   
+PY 2020 
+Number  
+PY 2021 
+Number  
+Educational Functioning Level        
+Secondary Diploma        
+Postsecondary Transcript/Report Card        
+Training Milestone        
+Skills Progression        
+Total  
+  
+      
+Participants Who Earned Measurable   
+Skill Gains  
+PY 2019 
+Number/Percent  
+PY 2020 
+Number/Percent  
+PY 2021 
+Number/Percent  
+Number of Participants Who Earned   
+Measurable Skill Gains        
+Percent of Participants Eligible to Earn   
+Measurable Skill Gains  %  %  %  
+Type of Credentials Earned  
+PY 2019 
+Number   
+PY 2020 
+Number  
+PY 2021 
+Number  
+Secondary         
+Postsecondary         
+ Total        
+Participants Who Earned Credentials   
+PY 2019 
+Number/Percent  
+PY 2020 
+Number/Percent  
+PY 2021 
+Number/Percent  
+Number of Participants Who Earned Credentials        
+Percent of Participants Eligible to Earn Credentials   %  %  %  
+  
+    
+Calculation Table 5: Measurable Skill Gains and Credentials  
+Measurable Skill Gains  Calculation  
+Educational Functioning Level   RSA-911: The number of Participants who had a Date Enrolled During 
+Program Participation in an Education or Training Program Leading to a 
+Recognized Postsecondary Credential before the end of the PY and a  
+Date of Most Recent Measurable Skill Gain: Educational Functioning  
+Level (EFL) within the PY   
+Secondary Diploma  RSA-911: The number of Participants who had a Date Enrolled During 
+Program Participation in an Education or Training Program Leading to a 
+Recognized Postsecondary Credential before the end of the PY and a 
+Date of Most Recent Measurable Skill Gain: Secondary within the PY
+
+53  
+  
+Postsecondary Transcript/Report Card  RSA-911: The number of Participants who had a Date Enrolled During 
+Program Participation in an Education or Training Program Leading to a 
+Recognized Postsecondary Credential before the end of the PY and a  
+Date of Most Recent Measurable Skill Gain: Postsecondary 
+Transcript/Report Card within the PY   
+Training Milestone  RSA-911: The number of Participants who had a Date Enrolled During 
+Program Participation in an Education or Training Program Leading to a 
+Recognized Postsecondary Credential before the end of the PY 2017 and 
+a Date of Most Recent Measurable Skill Gain: Training Milestone within 
+the PY   
+Skills Progression   RSA-911: The number of Participants who had a Date Enrolled During 
+Program Participation in an Education or Training Program Leading to a 
+Recognized Postsecondary Credential before the end of the PY and a 
+Date of Most Recent Measurable Skill Gain: Skills Progression within 
+the PY   
+Number of Participants Who Earned  
+Measurable Skill Gains  
+RSA-911: The number of Participants who had a Date Enrolled During 
+Program Participation in an Education or Training Program Leading to a 
+Recognized Postsecondary Credential before the end of the PY , and a 
+Date of Most Recent Measurable Skill Gain: Educational Functioning  
+Level(EFL) within the PY or a Date of Most Recent Measurable Skill  
+Gain: Secondary within the PY or a Date of Most Recent Measurable  
+Skill Gain: Postsecondary Transcript/Report Card within the PY or a 
+Date of Most Recent Measurable Skill Gain: Training Milestone within 
+ 
+the PY or a Date of Most Recent Measurable Skill Gain: Skills 
+Progression within the PY   
+Percent of Participants Eligible to Earn 
+Measurable Skill Gains  
+RSA-911: The number of Participants who had a Date Enrolled During 
+Program Participation in an Education or Training Program Leading to a 
+Recognized Postsecondary Credential before the end of the PY divided 
+by number of participants in PY, multiply by 100  
+Credentials  Calculation  
+Secondary   RSA-911: Number of participants within the exit cohort that were in a 
+secondary education program and who obtained a secondary school 
+diploma or its recognized equivalent during the program or within one 
+year after exit AND who were also employed OR enrolled in an 
+education or training program leading to a recognized postsecondary 
+credential within one year after exit.  
+Postsecondary   Number of participants within the exit cohort that were in a 
+postsecondary education or training program and earned a 
+postsecondary credential during program participation or within one 
+year of exit. The date on which a participant earns a credential occurs 
+during program participation OR within one year of exit. Count the 
+numbers that have at least one postsecondary degree earned, if an 
+individual earned more than one type, only one postsecondary credential 
+applies.
+
+54  
+  
+Number of Participants Who Earned  
+Credentials  
+Number of participants who exited that were either in a postsecondary 
+education or training program and who obtained a recognized 
+postsecondary credential during the program or within one year after 
+exit; or were in a secondary education program and who obtained a 
+secondary school diploma or its recognized equivalent during the 
+program or within one year after exit AND who were also employed or 
+enrolled in an education or training program leading to a recognized 
+postsecondary credential within one year after exit. Participants who 
+achieve multiple credentials are included based on the highest credential 
+attained for that period of participation.  
+Percent of Participants Eligible to  
+Earn Credentials   
+RSA-911: The number of participants within the appropriate exit cohort 
+who were either in a postsecondary education or training program during 
+program participation; or were in a secondary education program 
+without a secondary school diploma or its recognized equivalent divided 
+by the total number of participants within the exit cohort.  
+    
+Table 6— [AGENCY] Competitive Integrated Employment and Supported Employment Outcomes   
+  
+Participants Who Exited in Competitive Integrated 
+Employment or Supported Employment  PY 2019  PY 2020  PY 2021  
+Number of Participants Who Exited in Competitive 
+Integrated Employment or Supported Employment        
+Median Hourly Earnings at Exit        
+Median Hours Worked per Week at Exit        
+    
+Public Support at Exit  
+PY 2019  
+Number of  
+Participants  
+PY 2019 
+Percent  
+PY 2020  
+Number of  
+Participants  
+PY 2020 
+Percent  
+PY 2021  
+Number of  
+Participants  
+PY 2021 
+Percent  
+Social Security Disability  
+Insurance at Exit              
+Supplemental Security Income  
+for the Aged, Blind, or Disabled 
+at Exit  
+            
+Temporary Assistance for  
+Needy Families at Exit              
+General Assistance (State or 
+local government) at Exit      N/A  N/A  N/A  N/A  
+Veterans' Disability Benefits at  
+Exit      N/A  N/A  N/A  N/A  
+Workers' Compensation at Exit      N/A  N/A  N/A  N/A  
+Other Public Support at Exit  
+  
+            
+Medical Insurance Coverage  
+at Exit  
+PY 2019  
+Number of  
+Participants  
+PY 2019 
+Percent  
+PY 2020  
+Number of  
+Participants  
+PY 2020 
+Percent  
+PY 2021  
+Number of  
+Participants  
+PY 2021 
+Percent
+
+55  
+  
+Medicaid at Exit              
+Medicare at Exit              
+State or Federal Affordable  
+Care Act Exchange at Exit              
+Public Insurance from Other  
+Sources at Exit              
+Private Insurance Through  
+Employer at Exit              
+Not Yet Eligible for Private  
+Insurance Through Employer at 
+Exit  
+            
+Private Insurance Through  
+Other Means at Exit              
+  
+  
+  
+  
+  
+  
+Calculation Table 6: Competitive Integrated Employment and Supported Employment Outcomes  
+Participants Who Exited in  
+Competitive Integrated Employment 
+or Supported Employment  Calculation  
+Number of Participants Who Exited in  
+Competitive Integrated Employment or  
+Supported Employment  
+RSA-911: Total participants with Data Element 354 Type of Exit = 6   
+Median Hourly Earnings at Exit  RSA-911: Data Element 359 Hourly Wage values are listed in order, 
+from the lowest to the highest value. The value in the middle of this 
+list is the median hourly earnings value, so there is the same quantity 
+of numbers above the median number as there is below the median 
+number where Data Element 353 Date of Exit falls within the 
+ 
+Program Year, Data Element 127 Start Date of Initial VR Service On 
+or After IPE is not blank, Data Element 354 Type of Exit = 6   
+Median Hours Worked per Week at Exit  RSA-911: Data Element 360 Hours Worked in a Week at Exit values 
+are listed in order, from the lowest to the highest value. The value in 
+the middle of this list is the median hourly earnings value, so there is 
+the same quantity of numbers above the median number as there is 
+below the median number where Data Element 353 Date of Exit falls 
+within the Program Year, Data Element 127 Start Date of Initial VR  
+Service On or After IPE is not blank, Data Element 354 Type of Exit 
+= 6   
+Public Support at Exit  Number  Percent
+
+56  
+  
+Social Security Disability  
+Insurance at Exit  
+RSA-911: Total number of 
+participants with Data Element 354  
+Type of Exit = 6 and Data Element  
+361 Social Security Disability 
+Insurance (SSDI) at Exit is greater 
+than zero (or, in PY 2020 Data  
+Element 396 = 1)  
+RSA-911: Total number of participants with  
+Data Element 354 Type of Exit = 6 and Data  
+Element 361 Social Security Disability 
+Insurance (SSDI) at Exit is greater than zero 
+divided by number of participants with Data 
+ 
+Element 354 Type of Exit = 6 (or, in PY 2020  
+Data Element 396 = 1) multiplied by 100  
+Supplemental Security  
+Income for the Aged,  
+Blind, or Disabled at Exit  
+RSA-911: Total number of 
+participants with Data Element 354 
+Type of Exit = 6 and Data Element 
+ 
+362 Supplemental Security Income  
+(SSI) for the Aged, Blind, or 
+Disabled at Exit is greater than 
+zero (or, in PY 2020 Data Element 
+396 = 2)  
+RSA-911: Total number of participants with  
+Data Element 354 Type of Exit = 6 and Data  
+Element 362 Supplemental Security Income 
+(SSI) for the Aged, Blind, or Disabled at Exit 
+is greater than zero divided by number of 
+participants with Data Element 354 Type of 
+ 
+Exit = 6 (or, in PY 2020 Data Element 396 = 
+2) multiplied by 100  
+Temporary Assistance for 
+Needy Families at Exit  
+RSA-911: Total number of 
+participants with Data Element 354  
+Type of Exit = 6 and Data Element  
+363 Temporary Assistance for 
+Needy Families (TANF) at Exit is 
+greater than zero (or, in PY 2020 
+ 
+Data Element 396 = 3)  
+RSA-911: Total number of participants with  
+Data Element 354 Type of Exit = 6 and Data  
+Element 363 Temporary Assistance for Needy 
+Families (TANF) at Exit is greater than zero 
+divided by number of participants with Data 
+ 
+Element 354 Type of Exit = 6 (or, in PY 2020  
+Data Element 396 = 3) multiplied by 100  
+General Assistance (State 
+or local government) at  
+Exit  
+RSA-911: Total number of 
+participants with Data Element 354 
+Type of Exit = 6 and Data Element 
+364 General Assistance (State or 
+local government) at Exit is greater 
+than zero  
+RSA-911: Total number of participants with  
+Data Element 354 Type of Exit = 6 and Data 
+Element 364 General Assistance (State or 
+local government) at Exit is greater than zero 
+divided by number of participants with Data  
+Element 354 Type of Exit = 6) multiplied by 
+100  
+ Public Support at Exit  Number  Percent  
+ Veterans' Disability  RSA-911: Total number of  RSA-911: Total number of participants with  
+Benefits at Exit  participants with Data Element 354  Data Element 354 Type of Exit = 6 and Data 
+Type of Exit = 6 and Data Element  Element 365 Veterans' Disability Benefits at 
+365 Veterans' Disability Benefits  Exit is greater than zero divided by number of 
+at Exit is greater than zero  participants with Data Element 354 Type of  
+Exit = 6) multiplied by 100  
+ Workers' Compensation at  RSA-911: Total number of  RSA-911: Total number of participants with  
+ Exit  participants with Data Element 354  Data Element 354 Type of Exit = 6 and Data  
+ Type of Exit = 6 and Data Element  Element 366 Workers' Compensation at Exit  
+ 366 Workers' Compensation at  is greater than zero divided by number of  
+ Exit is greater than zero  participants with Data Element 354 Type of  
+Exit = 6) multiplied by 100  
+ Other Public Support at  RSA-911: Total number of  RSA-911: Total number of participants with  
+ Exit  participants with Data Element 354  Data Element 354 Type of Exit = 6 and Data  
+Type of Exit = 6 and Data Element  Element 367 Other Public Support at Exit is 
+367 Other Public Support at Exit is  greater than zero divided by number of greater 
+than zero (or, in PY 2020  participants with Data Element 354 Type of  
+ Data Element 396 = 4)  Exit = 6 (or, in PY 2020 Data Element 396 =  
+   4) multiplied by 100  
+Medical Insurance  
+ Coverage at Exit  Number  Percent
+
+57  
+  
+Medicaid at Exit  RSA-911: Total number of  RSA-911: Total number of participants with participants 
+with Data Element 354  Data Element 354 Type of Exit = 6 and Data Type of 
+Exit = 6 and Data Element  Element 369 Medicaid at Exit = 1 divided by  
+369 Medicaid at Exit = 1 (or, in PY  number of participants with Data Element 354 
+2020 Data Element 397 includes a  Type of Exit = 6 (or, in PY 2020 Data 
+Element code of ‘1’)  397 includes a code of ‘1’) multiplied by 100  
+Medicare at Exit  RSA-911: Total number of  RSA-911: Total number of participants with participants 
+with Data Element 354  Data Element 354 Type of Exit = 6 and Data Type of 
+Exit = 6 and Data Element  Element 370 Medicare at Exit = 1 divided by  
+370 Medicare at Exit = 1 (or, in PY  number of participants with Data Element 354 
+2020 Data Element 397 includes a  Type of Exit = 6 (or, in PY 2020 Data 
+Element code of ‘2’)  397 includes a code of ‘2’) multiplied by 100  
+ State or Federal Affordable  RSA-911: Total number of  RSA-911: Total number of participants with  
+ Care Act Exchange at Exit  participants with Data Element 354  Data Element 354 Type of Exit = 6 and Data  
+ Type of Exit = 6 and Data Element  Element 371 State or Federal Affordable Care  
+371 State or Federal Affordable  Act Exchange at Exit = 1 divided by number of 
+Care Act Exchange at Exit = 1 (or,  participants with Data Element 354 
+Type of in PY 2020 Data Element 397  Exit = 6 (or, in PY 2020 Data Element 
+397 includes a code of ‘3’)  includes a code of ‘3’) multiplied by 100  
+ Public Insurance from  RSA-911: Total number of  RSA-911: Total number of participants with  
+ Other Sources at Exit  participants with Data Element 354  Data Element 354 Type of Exit = 6 and Data  
+ Type of Exit = 6 and Data Element  Element 372 State or Federal Affordable Care  
+372 Public Insurance from Other  Act Exchange at Exit = 1 divided by number of  
+Sources at Exit = 1 (or, in PY 2020  participants with Data Element 354 Type of 
+Data Element 397 includes a code  Exit = 6 (or, in PY 2020 Data Element 397  
+ of ‘4’)  includes a code of ‘4’) multiplied by 100  
+ Private Insurance Through  RSA-911: Total number of  RSA-911: Total number of participants with  
+ Employer at Exit  participants with Data Element 354  Data Element 354 Type of Exit = 6 and Data  
+ Type of Exit = 6 and Data Element  Element 373 Private Insurance Through  
+373 Private Insurance Through  Employer at Exit = 1 divided by number of  
+ Employer at Exit = 1 (or, in PY  participants with Data Element 354 Type of  
+2020 Data Element 397 includes a  Exit = 6 (or, in PY 2020 Data Element 397 
+code of ‘5’)  includes a code of ‘5’) multiplied by 100  
+Medical Insurance  
+Coverage at Exit  Number  Percent  
+Not Yet Eligible for  
+Private Insurance Through  
+Employer at Exit  
+RSA-911: Total number of 
+participants with Data Element 354 
+Type of Exit = 6 and Data Element  
+374 Not Yet Eligible for Private  
+Insurance Through Employer at  
+Exit = 1 (or, in PY 2020 Data  
+Element 397 includes a code of ‘6’)  
+RSA-911: Total number of participants with  
+Data Element 354 Type of Exit = 6 and Data  
+Element 374 Not Yet Eligible for Private 
+Insurance Through Employer at Exit = 1 
+divided by number of participants with Data  
+Element 354 Type of Exit = 6 (or, in PY 2020 
+Data Element 397 includes a code of ‘6’) 
+multiplied by 100  
+Private Insurance Through 
+Other Means at Exit  
+RSA-911: Total number of 
+participants with Data Element 354  
+Type of Exit = 6 and Data Element  
+375 Private Insurance Through  
+Other Means at Exit = 1 (or, in PY 
+2020 Data Element 397 includes a 
+code of ‘7’)  
+RSA-911: Total number of participants with  
+Data Element 354 Type of Exit = 6 and Data  
+Element 375 Private Insurance Through Other 
+Means at Exit = 1 divided by number of 
+participants with Data Element 354 Type of 
+Exit = 6 (or, in PY 2020 Data Element 397 
+includes a code of ‘7’) multiplied by 100
+
+58
+
+59  
+  
+  
+Table 7— [AGENCY] Students with Disabilities  
+  
+Students with Disabilities  
+PY 2019 Number/  
+Percentage of  
+Students  
+PY 2020 Number/  
+Percentage of  
+Students  
+PY 2021 Number/  
+Percentage of  
+Students  
+Total Students with Disabilities Reported        
+Students with Disabilities Reported with 504  
+Accommodation        
+Students with Disabilities Reported with the 
+Individualized Education Program (IEP)        
+Students with Disabilities Reported without 504 
+Accommodation or IEP        
+Total Students with Disabilities Who Received a 
+Pre-Employment Transition Service        
+Potentially Eligible Students with Disabilities  
+Who Received a Pre-Employment Transition 
+Service  
+      
+Students with Disabilities, Who Applied for VR  
+Services, and Received a Pre-Employment 
+Transition Service  
+      
+Percentage of Students with Disabilities Reported  
+Who Received a Pre-Employment Transition 
+Service  
+      
+  
+Calculation Table 7: Students with Disabilities   
+Students with Disabilities   Number/Percentage of Students  
+Total Students with Disabilities  
+Reported  
+RSA-911: Total cases where Data Element 22 Student with a  
+Disability = 1 and 2 and 3  
+Students with Disabilities Reported with  
+504 Accommodation  
+RSA-911: Total cases where Data Element 22 Student with a 
+Disability = 1  
+Students with Disabilities Reported with  
+IEP  
+RSA-911: Total cases where Data Element 22 Student with a 
+Disability = 2  
+Students with Disabilities Reported 
+without 504 Accommodation or IEP  
+RSA-911: Total cases where Data Element 22 Student with a 
+Disability = 3
+
+60  
+  
+Total Students with Disabilities Who  
+Received a Pre-Employment Transition 
+Service   
+RSA-911: Total cases where Data Element 97 Job Exploration  
+Counseling Provided by VR Agency Staff (in-house), Data Element  
+98 Job Exploration Counseling Provided Through VR Agency  
+Purchase, Data Element 103 Work Based Learning Experiences  
+Provided by VR Agency Staff (in-house), Data Element 104 Work  
+Based Learning Experiences Provided Through VR Agency Purchase, 
+Data Element 109 Counseling on Enrollment Opportunities Provided 
+by VR Agency Staff (in-house), Data Element 110 Counseling on 
+Enrollment Opportunities Provided Through VR Agency Purchase, 
+Data Element 115 Workplace Readiness Training Provided by VR  
+Agency Staff (in-house), Data Element 116 Workplace Readiness  
+Training Provided Through VR Agency Purchase, Data Element 121 
+Instruction in Self Advocacy Provided by VR Agency Staff (inhouse), 
+Data Element 122 Instruction in Self Advocacy Provided Through VR 
+Agency Purchase = 1 and Data Element 22 Student with a Disability = 
+1,2, or 3  
+Students with Disabilities   Number/Percentage of Students  
+Potentially Eligible Students with  
+Disabilities Who Received a Pre- 
+Employment Transition Service  
+RSA-911: Total cases where Data Element 97 Job Exploration  
+Counseling Provided by VR Agency Staff (in-house), Data Element  
+98 Job Exploration Counseling Provided Through VR Agency  
+Purchase, Data Element 103 Work Based Learning Experiences  
+Provided by VR Agency Staff (in-house), Data Element 104 Work  
+Based Learning Experiences Provided Through VR Agency Purchase, 
+Data Element 109 Counseling on Enrollment Opportunities Provided 
+by VR Agency Staff (in-house), Data Element 110 Counseling on 
+Enrollment Opportunities Provided Through VR Agency Purchase,  
+Data Element 115 Workplace Readiness Training Provided by VR  
+Agency Staff (in-house), Data Element 116 Workplace Readiness  
+Training Provided Through VR Agency Purchase, Data Element 121 
+Instruction in Self Advocacy Provided by VR Agency Staff (inhouse), 
+Data Element 122 Instruction in Self Advocacy Provided Through VR 
+Agency Purchase = 1 and Data Element 22 Student with a Disability = 
+1,2, or 3 and Data Element 7 is blank  
+Students with Disabilities, Who Applied 
+for VR Services, and Received a 
+PreEmployment Transition Service  
+RSA-911: Data Element 97 Job Exploration Counseling Provided by  
+VR Agency Staff (in-house),Data Element 98 Job Exploration  
+Counseling Provided Through VR Agency Purchase, Data Element  
+103 Work Based Learning Experiences Provided by VR Agency Staff  
+(in-house), Data Element 104 Work Based Learning Experiences  
+Provided Through VR Agency Purchase, Data Element 109  
+Counseling on Enrollment Opportunities Provided by VR Agency  
+Staff (in-house), Data Element 110 Counseling on Enrollment  
+Opportunities Provided Through VR Agency Purchase, Data Element 
+115 Workplace Readiness Training Provided by VR Agency Staff 
+(inhouse), Data Element 116 Workplace Readiness Training Provided 
+Through VR Agency Purchase, Data Element 121 Instruction in Self  
+Advocacy Provided by VR Agency Staff (in-house), Data Element  
+122 Instruction in Self Advocacy Provided Through VR Agency  
+Purchase = 1 and Data Element 22 Student with a Disability = 1,2, or  
+3 and Data Element 7 IS NOT NULL
+
+61  
+  
+Percentage of Students with Disabilities  
+Reported Who Received a 
+PreEmployment Transition Service  
+RSA-911: Total cases where Data Element 97 Job Exploration  
+Counseling Provided by VR Agency Staff (in-house),Data Element  
+98 Job Exploration Counseling Provided Through VR Agency  
+Purchase, Data Element 103 Work Based Learning Experiences  
+Provided by VR Agency Staff (in-house), Data Element 104 Work  
+Based Learning Experiences Provided Through VR Agency Purchase, 
+Data Element 109 Counseling on Enrollment Opportunities Provided 
+by VR Agency Staff (in-house), Data Element 110 Counseling on 
+Enrollment Opportunities Provided Through VR Agency Purchase,  
+Data Element 115 Workplace Readiness Training Provided by VR  
+Agency Staff (in-house), Data Element 116 Workplace Readiness  
+Training Provided Through VR Agency Purchase, Data Element 121 
+Instruction in Self Advocacy Provided by VR Agency Staff (inhouse), 
+Data Element 122 Instruction in Self Advocacy Provided Through VR 
+Agency Purchase = 1 and Data Element 22 Student with a Disability = 
+1,2, or 3 divided by Total cases where Data Element 22 Student with a 
+Disability = 1,2, or 3  
+    
+Table 8—[AGENCY] Pre- Employment Transition Service Provision   
+  
+Pre-Employment  
+Transition Services  
+PY 2019   
+Number   
+ Provided  
+PY 2019  
+Percent of  
+Total   
+PY 2020  
+Number  
+Provided  
+PY 2020  
+Percent of  
+Total   
+PY 2021  
+Number  
+Provided  
+PY 2021  
+Percent of  
+Total   
+Total Pre-Employment  
+Transition Services  
+Provided  
+  -    -    -  
+Job Exploration  
+Counseling              
+Work-Based Learning  
+Experiences              
+Counseling on  
+Enrollment  
+Opportunities  
+            
+Workplace Readiness  
+Training              
+Instruction in Self- 
+Advocacy
+
+62  
+  
+  
+Calculation Table 8: Pre-Employment Transition Service Provision   
+Pre-Employment Transition  
+Services   Number of Pre-Employment Transition Services Provided  
+Total Pre-Employment Transition  
+Services Provided  
+RSA-911: Count of rows where Data Element 97 Job Exploration  
+Counseling Provided by VR Agency Staff (in-house) = 1 + Count of rows 
+where Data Element 98 Job Exploration Counseling Provided Through VR 
+Agency Purchase = 1 + Count of rows where Data Element 103 Work  
+Based Learning Experiences Provided by VR Agency Staff (in-house) = 1  
++ Count of rows where Data Element 104 Work Based Learning  
+Experiences Provided Through VR Agency Purchase = 1 + Count of rows 
+where Data Element 109 Counseling on Enrollment Opportunities Provided 
+by VR Agency Staff (in-house) = 1 + Count of rows where Data  
+Element 110 Counseling on Enrollment Opportunities Provided Through  
+VR Agency Purchase = 1 + Count of rows where Data Element 115  
+Workplace Readiness Training Provided by VR Agency Staff (in-house) =  
+1 + Count of rows Data Element 116 Workplace Readiness Training  
+Provided Through VR Agency Purchase = 1 + Count of rows where Data  
+Element 121 Instruction in Self Advocacy Provided by VR Agency Staff  
+(in-house) = 1 + Count of rows Data Element 122 Instruction in Self  
+Advocacy Provided Through VR Agency Purchase = 1  
+Job Exploration Counseling  Count of rows where Data Element 97 Job Exploration Counseling  
+Provided by VR Agency Staff (in-house) = 1 + Count of rows where Data  
+Element 98 Job Exploration Counseling Provided Through VR Agency 
+Purchase = 1  
+Work Based Learning Experiences  Count of rows where Data Element 103 Work Based Learning Experiences  
+Provided by VR Agency Staff (in-house) = 1 + Count of rows where Data  
+Element 104 Work Based Learning Experiences Provided Through VR 
+Agency Purchase = 1  
+Counseling on Enrollment  
+Opportunities  
+RSA-911: Count of rows where Data Element 109 Counseling on  
+Enrollment Opportunities Provided by VR Agency Staff (in-house) =1 or  
+Count of rows where Data Element 110 Counseling on Enrollment 
+Opportunities Provided Through VR Agency Purchase = 1  
+Workplace Readiness Training  Count of rows where Data Element 115 Workplace Readiness Training  
+Provided by VR Agency Staff (in-house) = 1 or Count of rows Data  
+Element 116 Workplace Readiness Training Provided Through VR Agency 
+Purchase = 1  
+Instruction in Self Advocacy  Count of rows where Data Element 121 Instruction in Self Advocacy  
+Provided by VR Agency Staff (in-house) = 1 or Count of rows Data  
+Element 122 Instruction in Self Advocacy Provided Through VR Agency = 
+1  
+  
+  
+    
+APPENDIX D
+
+63  
+  
+Vocational Rehabilitation Services and Supported Employment Programs  
+Fiscal Tables  
+  
+Table 3.1—[AGENCY] VR Federal Resources and Expenditures by Federal Fiscal Year  
+Table 3.2—[AGENCY] VR Non -Federal Share by Federal Fiscal Year  
+Table 3.3—[AGENCY] VR Maintenance of Effort by Federal Fiscal Year  
+Table 3.4—[AGENCY] Pre -Employment Transition Services by Federal Fiscal Year  
+Table 3.5—[AGENCY] Program Income
+
+64  
+  
+Table 3.1—[AGENCY] VR Federal Resources and Expenditures by Federal Fiscal Year  
+Federal Resources and Expenditures  2020  2021  2022  2023  
+FAIN          
+Formula Award Amount          
+MOE Penalty Assessed          
+Funds Relinquished - Reallotment          
+Funds Received – Reallotment          
+Adjustments          
+Net Award Amount          
+Net Award Funds Unused**           
+Match Net Award Funds Unused***          
+Award Funds Expended          
+Percent of Net Award Expended          
+Percent of Formula Award Expended          
+Carryover Met          
+Grant Award Closed          
+  
+* Indicates the award is currently in an open status; therefore, data is either not currently available or not final.  
+**If award is closed, represents amount of funds deobligated at closeout. If award is not closed, represents balance in 
+G5.  
+***Negative number indicates funds expended that were not matched.  
+  
+Calculation Table 3.1: VR Federal Resources and Expenditures by Federal Fiscal Year  
+  
+Federal Resources 
+and Expenditures  
+Data Resource(s)  
+FAIN  Federal Award Identification Number (FAIN)   
+Source: Grant Award Notification (GAN), Box 2, Award Information, PR/Award 
+Number  
+Formula Award 
+Amount  
+The award amount calculated by RSA using the statutory formula. This is the  
+Cumulative Amount listed in Box 7, Authorized Funding, of the GAN that transmits the 
+award amount authorized by Congress.  
+Source: GAN, Box 7, Authorized Funding, Cumulative Amount  
+MOE Penalty  
+Assessed  
+Source/Formula: GAN, Box 10, Terms and Conditions, MOE penalty letter issued to 
+agency.  
+Funds Relinquished -  
+Reallotment  
+Source: RSA-692  
+Funds Received - 
+Reallotment  
+Source: RSA-692  
+Adjustments  Amount of miscellaneous adjustments to award (e.g., transfers from one State VR 
+agency to another, grant transfer agreements, etc.). Source: GAN Supplements
+
+65  
+  
+Net Award Amount  Federal award amount after accounting for any changes/adjustments (e.g., MOE 
+penalties, relinquishment, reallotment and transfers).   
+Source: GAN, Box 7, Authorized Funding, Cumulative Amount, Last GAN Supplement  
+Net Award Funds  
+Unused**  
+If award is not in Closed status, represents balance of unexpended funds in G5. If award 
+is in Closed status, represents amount of funds deobligated at closeout.   
+Source: G5 Disbursement Report  
+Matched Net Award  
+Funds Unused***  
+Matched award funds that were unused by grantee. Negative number indicates funds 
+expended that were not matched.  
+Formula: [(Lessor of (Net Award Amount) or (Federal Funds Matched - Agency)) less 
+the (Award Fuds Expended)]  
+Award Funds  
+Expended  
+Source/Formula: G5 - If award is not in Closed status [(Net Award Amount) less the 
+(Balance of Funds per G5 at End of Period of Performance)]. If award is in Closed 
+status, [(Net Award Amount) less the (Unused Funds Deobligated at Closeout)]  
+Percent of Net Award 
+Expended  
+Formula: [(Award Funds Expended) divided by (Net Award Amount)]  
+Percent of Formula  
+Award Expended  
+Formula: [(Award Funds Expended) divided by (Formula Award Amount)]  
+Carryover Met  If “Yes”, award met criteria to carryover unobligated Federal funds for an additional 
+FFY. If “No”, award did not meet criteria to carryover unobligated Federal funds for an 
+additional FFY.  
+Source: G5, RSA-17 4th Quarter Report  
+Grant Award Closed  If “Yes”, award is Closed in G5. If “No”, award is not in a Closed status in G5. Source: 
+G5  
+  
+  
+Table 3.2—[AGENCY] VR Non -Federal Share by Federal Fiscal Year  
+  
+Non-Federal Share (Match)  2020  2021  2022  2023  
+Matching Requirement Met - Agency          
+Non-Federal Share - Agency (4th Qtr.)          
+Non-Federal Share - Agency (Final)          
+Federal Funds Required to be Matched -  
+Agency  
+        
+Federal Funds Matched - Agency          
+Required Non-Federal Share - Agency          
+Federal Funds Match Difference –  
+Agency  
+        
+Percent of Federal Funds Matched - Net  
+Agency  
+        
+Percent of Federal Funds Matched -  
+Formula Agency  
+        
+Federal Funds Matched - State          
+Federal Funds Required to be Matched – 
+State  
+        
+Required Non-Federal Share – State
+
+66  
+  
+Federal Funds Match Difference - State          
+* Indicates the award is currently in an open status; therefore, data is either not currently available or not final.  
+  
+Calculation Table 3.2: VR Non-Federal Share by Federal Fiscal Year  
+  
+Non-Federal Share  
+(Match)  
+Data Source(s)  
+Matching Requirement Met  
+- Agency  
+If “Yes”, agency met the non-Federal share requirement for the FFY. If “No”, 
+agency did not meet the non-Federal share requirement for the FFY.  
+Source: RSA-17 data  
+Non-Federal Share -  
+Agency (4th Qtr.)  
+Source/Formula: RSA-17 4th quarter report [(28. Total Non-Federal Share of  
+Allowable Expenditures (1st - 4th Qtr.)) plus (29. Non-Federal Share of  
+Allowable Unliquidated Obligations (1st - 4th Qtr.))]  
+Non-Federal Share -  
+Agency (Final)  
+Source/Formula: RSA-17 Final report. If 4th quarter report is Final, [(28. Total  
+Non-Federal Share of Allowable Expenditures (1st - 4th Qtr.)) plus (29. 
+NonFederal Share of Allowable Unliquidated Obligations (1st - 4th Qtr.))]. If 6th - 
+8th quarter report is Final, [(28. Total Non-Federal Share of Allowable 
+Expenditures  
+(6th - 8th Qtr.)) plus (29. Non-Federal Share of Allowable Unliquidated 
+Obligations (6th - 8th Qtr.))]  
+Federal Funds Required to 
+be Matched - Agency  
+Formula: [((Non-Federal Share – Agency 4th Qtr. or Final), whichever is less, 
+divided by .213) multiplied by .787]  
+Federal Funds Matched -  
+Agency  
+Formula: [(Non-Federal Share – Agency 4th Qtr. or Final, whichever is less, 
+divided by .787) multiplied by .213]  
+Required Non-Federal Share 
+- Agency  
+Formula: [((Federal Funds Required to be Matched – Agency) divided by .787) 
+multiplied by .213]  
+Federal Funds Match  
+Difference - Agency  
+Formula: [(Federal Funds Matched - Agency) less (Required Non-Federal Share – 
+Agency)]  
+Percent of Federal Funds  
+Matched - Net Agency  
+Formula: [(Federal Funds Matched – Agency) divided by (Net Award Amount)]  
+Percent of Federal Funds  
+Matched - Formula Agency  
+Formula: [(Federal Funds Matched – State) divided by the net formula award 
+amount for the State from RSA-17(s)]  
+Federal Funds Matched -  
+State  
+Formula: Calculate and sum the Federal Funds Matched – Agency (above) for the 
+Blind and General VR agencies. For Combined agencies this data element is the 
+same as Federal Funds Matched – Agency (above).  
+Federal Funds Required to 
+be Matched - State  
+Formula: Calculate and sum the Federal Funds Required to be Matched – Agency 
+(above) for the Blind and General agencies. For Combined agencies this data 
+element is the same as Federal Funds Required to be Matched – Agency (above),  
+Required Non-Federal  
+Share - State  
+Formula: [((Federal Funds Required to be Matched – State) divided by .787) 
+multiplied by .213]  
+Federal Funds Match  
+Difference - State  
+Formula: [(Federal Funds Matched - State) less (Required Non-Federal Share –  
+State)]  
+  
+Table 3.3— [AGENCY] VR Maintenance of Effort by Federal Fiscal Year  
+Maintenance of Effort (MOE)  2020  2021  2022  2023
+
+67  
+  
+MOE Requirement Met - Agency          
+Non-Federal Share - Agency          
+Construction Expenditures - Agency (4th Qtr.)          
+Construction Expenditures - Agency (Final)          
+MOE Base – Agency          
+MOE Amount – Agency          
+MOE Difference – Agency          
+MOE Amount – State          
+MOE Difference - State          
+* Indicates the award is currently in an open status; therefore, data is either not currently available or not final.    
+Calculation Table 3.3: VR Maintenance of Effort by Federal Fiscal Year  
+NOTE: Table under development. See Financial Management Specialist for details.  
+  
+  
+  
+  
+  
+  
+  
+  
+Table 3.4—[AGENCY] Pre- Employment Transition Services by Federal Fiscal Year  
+Pre-Employment Transition Services  
+(Pre-ETS)   2020  2021  2022  2023  
+Pre-ETS Requirement Met - Agency          
+Pre-ETS Requirement Met – State          
+Percent of Matched Federal Funds  
+Expended on Pre-ETS – Agency  
+        
+Percent of Matched VR Funds Spend on  
+Pre-ETS – State   
+        
+Final Pre-ETS Expenditures – Agency          
+Reserve Calculation Base – Agency          
+Federal Funds Required to be Reserved for  
+Pre-ETS – Agency  
+        
+Pre-ETS Difference          
+Final Federal Pre-ETS Expenditures –  
+State
+
+68  
+  
+Reserve Calculation Base – State          
+Federal Funds Required to be Reserved for  
+Pre-ETS – State  
+        
+Percent of Federal Funds Expended on  
+Pre-ETS – State  
+        
+Matched VR Pre-ETS Funds Used for  
+Other Purposes - State  
+        
+* Indicates the award is currently in an open status; therefore, data is either not currently available or not final.  
+Calculation Table 3.4: Pre-Employment Transition Services by Federal Fiscal Year  
+NOTE: Table under development. See Financial Management Specialist for details.  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Table 3.5—[AGENCY] Program Income  
+Program Income  2020  2021  2022  2023  
+Program Income Received (4th Qtr)          
+Total Program Income Expended (4th  
+Qtr)  
+        
+Program Income Received (Final)          
+Total Program Income Received  
+Expended (Final)
+
+69  
+  
+Federal Program Income (VR SSA  
+Payments Only) Transferred to the State 
+Independent Living Services (SILS) 
+Program:  
+        
+Federal Program Income (VR SSA  
+Payments Only) Transferred to the  
+Independent Living Services for Older  
+Individuals who are Blind (OIB)  
+Program  
+        
+Federal Program Income (VR SSA  
+Payments Only) Transferred to the  
+Client Assistance Program (CAP)  
+        
+Federal Program Income (VR SSA  
+Payments Only) Transferred to the State  
+Supported Employment Services (SE) 
+Program  
+        
+Program Income Transferred          
+Program Income Used for VR Program          
+* Indicates the award is currently in an open status; therefore, data is either not currently available or not final.  
+Calculation Table 3.5: Program Income  
+NOTE: Table under development. See Financial Management Specialist for details.

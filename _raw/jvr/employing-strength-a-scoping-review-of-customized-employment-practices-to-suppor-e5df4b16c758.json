@@ -1,0 +1,1981 @@
+{
+  "source_type": "jvr_pdf_candidate",
+  "doi": "10.1177/10522263251356445",
+  "doi_url": "https://doi.org/10.1177/10522263251356445",
+  "source_url": "https://journals.sagepub.com/doi/10.1177/10522263251356445",
+  "attempted_pdf_urls": [
+    "https://journals.sagepub.com/doi/pdf/10.1177/10522263251356445",
+    "https://journals.sagepub.com/doi/10.1177/10522263251356445",
+    "https://doi.org/10.1177/10522263251356445",
+    "https://content.iospress.com/download?id=10.1177/10522263251356445"
+  ],
+  "selected_pdf_url": "",
+  "selected_final_url": "",
+  "download_status": "unavailable",
+  "match": {
+    "veteran_hits": [
+      "va "
+    ],
+    "pathway_hits": [
+      "employment",
+      "unemployment",
+      "job",
+      "supported employment",
+      "employment outcome",
+      "employment outcomes"
+    ],
+    "disability_hits": [
+      "disabilities"
+    ]
+  },
+  "openalex": {
+    "id": "https://openalex.org/W4412426982",
+    "doi": "https://doi.org/10.1177/10522263251356445",
+    "title": "Employing Strength: A Scoping Review of Customized Employment Practices to Support Inclusive Employment for People with Intellectual Disabilities",
+    "display_name": "Employing Strength: A Scoping Review of Customized Employment Practices to Support Inclusive Employment for People with Intellectual Disabilities",
+    "publication_year": 2025,
+    "publication_date": "2025-07-15",
+    "ids": {
+      "openalex": "https://openalex.org/W4412426982",
+      "doi": "https://doi.org/10.1177/10522263251356445"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/10522263251356445",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1177/10522263251356445",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S190353498",
+        "display_name": "Journal of Vocational Rehabilitation",
+        "issn_l": "1052-2263",
+        "issn": [
+          "1052-2263",
+          "1878-6316"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310318577",
+        "host_organization_name": "IOS Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310318577"
+        ],
+        "host_organization_lineage_names": [
+          "IOS Press"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc",
+      "license_id": "https://openalex.org/licenses/cc-by-nc",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Vocational Rehabilitation",
+      "raw_type": "journal-article"
+    },
+    "type": "review",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://doi.org/10.1177/10522263251356445",
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5094318520",
+          "display_name": "Jennifer Christianson‐Barker",
+          "orcid": "https://orcid.org/0000-0002-2017-2948"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I141945490",
+            "display_name": "University of British Columbia",
+            "ror": "https://ror.org/03rmrcq20",
+            "country_code": "CA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I141945490"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I152658341",
+            "display_name": "Canadian Institute for Health Information",
+            "ror": "https://ror.org/0112eam10",
+            "country_code": "CA",
+            "type": "nonprofit",
+            "lineage": [
+              "https://openalex.org/I152658341"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4405260628",
+            "display_name": "University of British Columbia, Okanagan Campus",
+            "ror": "https://ror.org/04241wz75",
+            "country_code": "CA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I141945490",
+              "https://openalex.org/I4405260628"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I822440",
+            "display_name": "Okanagan University College",
+            "ror": "https://ror.org/02mxmh518",
+            "country_code": "CA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I822440"
+            ]
+          }
+        ],
+        "countries": [
+          "CA"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Jennifer Christianson-Barker",
+        "raw_affiliation_strings": [
+          "Canadian Institute for Inclusion and Citizenship, Kelowna, Canada",
+          "School of Graduate Studies, University of British Columbia Okanagan, Kelowna, Canada"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Canadian Institute for Inclusion and Citizenship, Kelowna, Canada",
+            "institution_ids": [
+              "https://openalex.org/I152658341"
+            ]
+          },
+          {
+            "raw_affiliation_string": "School of Graduate Studies, University of British Columbia Okanagan, Kelowna, Canada",
+            "institution_ids": [
+              "https://openalex.org/I822440",
+              "https://openalex.org/I141945490",
+              "https://openalex.org/I4405260628"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5118989589",
+          "display_name": "Alex Franzius",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I152658341",
+            "display_name": "Canadian Institute for Health Information",
+            "ror": "https://ror.org/0112eam10",
+            "country_code": "CA",
+            "type": "nonprofit",
+            "lineage": [
+              "https://openalex.org/I152658341"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I822440",
+            "display_name": "Okanagan University College",
+            "ror": "https://ror.org/02mxmh518",
+            "country_code": "CA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I822440"
+            ]
+          }
+        ],
+        "countries": [
+          "CA"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Alex Franzius",
+        "raw_affiliation_strings": [
+          "Canadian Institute for Inclusion and Citizenship, Kelowna, Canada",
+          "Department of Social Work, University of British Columbia Okanagan, Kelowna, Canda"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Canadian Institute for Inclusion and Citizenship, Kelowna, Canada",
+            "institution_ids": [
+              "https://openalex.org/I152658341"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Social Work, University of British Columbia Okanagan, Kelowna, Canda",
+            "institution_ids": [
+              "https://openalex.org/I822440"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5044906461",
+          "display_name": "Rachel A. Mills",
+          "orcid": "https://orcid.org/0000-0002-9811-246X"
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Rachel Mills",
+        "raw_affiliation_strings": [
+          "Inclusion Canada, Toronto, Canada"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Inclusion Canada, Toronto, Canada",
+            "institution_ids": []
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5118989590",
+          "display_name": "Arielle Lomnesse",
+          "orcid": "https://orcid.org/0000-0003-1694-421X"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I822440",
+            "display_name": "Okanagan University College",
+            "ror": "https://ror.org/02mxmh518",
+            "country_code": "CA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I822440"
+            ]
+          }
+        ],
+        "countries": [
+          "CA"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Arielle Lomness",
+        "raw_affiliation_strings": [
+          "Okanagan Library, University of British Columbia Okanagan, Kelowna, Canada"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Okanagan Library, University of British Columbia Okanagan, Kelowna, Canada",
+            "institution_ids": [
+              "https://openalex.org/I822440"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5086074382",
+          "display_name": "Rachelle Hole",
+          "orcid": "https://orcid.org/0000-0001-5238-0015"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I152658341",
+            "display_name": "Canadian Institute for Health Information",
+            "ror": "https://ror.org/0112eam10",
+            "country_code": "CA",
+            "type": "nonprofit",
+            "lineage": [
+              "https://openalex.org/I152658341"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I822440",
+            "display_name": "Okanagan University College",
+            "ror": "https://ror.org/02mxmh518",
+            "country_code": "CA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I822440"
+            ]
+          }
+        ],
+        "countries": [
+          "CA"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Rachelle Hole",
+        "raw_affiliation_strings": [
+          "Canadian Institute for Inclusion and Citizenship, Kelowna, Canada",
+          "Department of Social Work, University of British Columbia Okanagan, Kelowna, Canda"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Canadian Institute for Inclusion and Citizenship, Kelowna, Canada",
+            "institution_ids": [
+              "https://openalex.org/I152658341"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Social Work, University of British Columbia Okanagan, Kelowna, Canda",
+            "institution_ids": [
+              "https://openalex.org/I822440"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 5,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5086074382"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I152658341",
+      "https://openalex.org/I822440"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 6.9162,
+    "has_fulltext": false,
+    "cited_by_count": 3,
+    "citation_normalized_percentile": {
+      "value": 0.96800811,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 99,
+      "max": 100
+    },
+    "biblio": {
+      "volume": "63",
+      "issue": "2",
+      "first_page": "119",
+      "last_page": "140"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11514",
+      "display_name": "Disability Education and Employment",
+      "score": 0.9997000098228455,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3311",
+        "display_name": "Safety Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11514",
+        "display_name": "Disability Education and Employment",
+        "score": 0.9997000098228455,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3311",
+          "display_name": "Safety Research"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11631",
+        "display_name": "Retirement, Disability, and Employment",
+        "score": 0.9858999848365784,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3317",
+          "display_name": "Demography"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11015",
+        "display_name": "Down syndrome and intellectual disability research",
+        "score": 0.9386000037193298,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2739",
+          "display_name": "Public Health, Environmental and Occupational Health"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/cinahl",
+        "display_name": "CINAHL",
+        "score": 0.8559170365333557
+      },
+      {
+        "id": "https://openalex.org/keywords/psycinfo",
+        "display_name": "PsycINFO",
+        "score": 0.8364746570587158
+      },
+      {
+        "id": "https://openalex.org/keywords/intellectual-disability",
+        "display_name": "Intellectual disability",
+        "score": 0.6798897981643677
+      },
+      {
+        "id": "https://openalex.org/keywords/scopus",
+        "display_name": "Scopus",
+        "score": 0.6391621828079224
+      },
+      {
+        "id": "https://openalex.org/keywords/supported-employment",
+        "display_name": "Supported employment",
+        "score": 0.6292267441749573
+      },
+      {
+        "id": "https://openalex.org/keywords/psychology",
+        "display_name": "Psychology",
+        "score": 0.5161822438240051
+      },
+      {
+        "id": "https://openalex.org/keywords/medline",
+        "display_name": "MEDLINE",
+        "score": 0.4860558807849884
+      },
+      {
+        "id": "https://openalex.org/keywords/unemployment",
+        "display_name": "Unemployment",
+        "score": 0.45248913764953613
+      },
+      {
+        "id": "https://openalex.org/keywords/web-of-science",
+        "display_name": "Web of science",
+        "score": 0.41867417097091675
+      },
+      {
+        "id": "https://openalex.org/keywords/public-relations",
+        "display_name": "Public relations",
+        "score": 0.3620486259460449
+      },
+      {
+        "id": "https://openalex.org/keywords/business",
+        "display_name": "Business",
+        "score": 0.3561273217201233
+      },
+      {
+        "id": "https://openalex.org/keywords/applied-psychology",
+        "display_name": "Applied psychology",
+        "score": 0.3259151577949524
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.25696271657943726
+      },
+      {
+        "id": "https://openalex.org/keywords/economic-growth",
+        "display_name": "Economic growth",
+        "score": 0.15992054343223572
+      },
+      {
+        "id": "https://openalex.org/keywords/economics",
+        "display_name": "Economics",
+        "score": 0.1305285394191742
+      },
+      {
+        "id": "https://openalex.org/keywords/psychiatry",
+        "display_name": "Psychiatry",
+        "score": 0.1250908374786377
+      },
+      {
+        "id": "https://openalex.org/keywords/psychological-intervention",
+        "display_name": "Psychological intervention",
+        "score": 0.11624282598495483
+      },
+      {
+        "id": "https://openalex.org/keywords/engineering",
+        "display_name": "Engineering",
+        "score": 0.09896400570869446
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2781145037",
+        "wikidata": "https://www.wikidata.org/wiki/Q5011772",
+        "display_name": "CINAHL",
+        "level": 3,
+        "score": 0.8559170365333557
+      },
+      {
+        "id": "https://openalex.org/C2779549880",
+        "wikidata": "https://www.wikidata.org/wiki/Q5542226",
+        "display_name": "PsycINFO",
+        "level": 3,
+        "score": 0.8364746570587158
+      },
+      {
+        "id": "https://openalex.org/C551499885",
+        "wikidata": "https://www.wikidata.org/wiki/Q183560",
+        "display_name": "Intellectual disability",
+        "level": 2,
+        "score": 0.6798897981643677
+      },
+      {
+        "id": "https://openalex.org/C83867959",
+        "wikidata": "https://www.wikidata.org/wiki/Q371467",
+        "display_name": "Scopus",
+        "level": 3,
+        "score": 0.6391621828079224
+      },
+      {
+        "id": "https://openalex.org/C2778965245",
+        "wikidata": "https://www.wikidata.org/wiki/Q2499074",
+        "display_name": "Supported employment",
+        "level": 3,
+        "score": 0.6292267441749573
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.5161822438240051
+      },
+      {
+        "id": "https://openalex.org/C2779473830",
+        "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+        "display_name": "MEDLINE",
+        "level": 2,
+        "score": 0.4860558807849884
+      },
+      {
+        "id": "https://openalex.org/C2778126366",
+        "wikidata": "https://www.wikidata.org/wiki/Q41171",
+        "display_name": "Unemployment",
+        "level": 2,
+        "score": 0.45248913764953613
+      },
+      {
+        "id": "https://openalex.org/C3020774429",
+        "wikidata": "https://www.wikidata.org/wiki/Q1201886",
+        "display_name": "Web of science",
+        "level": 3,
+        "score": 0.41867417097091675
+      },
+      {
+        "id": "https://openalex.org/C39549134",
+        "wikidata": "https://www.wikidata.org/wiki/Q133080",
+        "display_name": "Public relations",
+        "level": 1,
+        "score": 0.3620486259460449
+      },
+      {
+        "id": "https://openalex.org/C144133560",
+        "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+        "display_name": "Business",
+        "level": 0,
+        "score": 0.3561273217201233
+      },
+      {
+        "id": "https://openalex.org/C75630572",
+        "wikidata": "https://www.wikidata.org/wiki/Q538904",
+        "display_name": "Applied psychology",
+        "level": 1,
+        "score": 0.3259151577949524
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.25696271657943726
+      },
+      {
+        "id": "https://openalex.org/C50522688",
+        "wikidata": "https://www.wikidata.org/wiki/Q189833",
+        "display_name": "Economic growth",
+        "level": 1,
+        "score": 0.15992054343223572
+      },
+      {
+        "id": "https://openalex.org/C162324750",
+        "wikidata": "https://www.wikidata.org/wiki/Q8134",
+        "display_name": "Economics",
+        "level": 0,
+        "score": 0.1305285394191742
+      },
+      {
+        "id": "https://openalex.org/C118552586",
+        "wikidata": "https://www.wikidata.org/wiki/Q7867",
+        "display_name": "Psychiatry",
+        "level": 1,
+        "score": 0.1250908374786377
+      },
+      {
+        "id": "https://openalex.org/C27415008",
+        "wikidata": "https://www.wikidata.org/wiki/Q7256382",
+        "display_name": "Psychological intervention",
+        "level": 2,
+        "score": 0.11624282598495483
+      },
+      {
+        "id": "https://openalex.org/C127413603",
+        "wikidata": "https://www.wikidata.org/wiki/Q11023",
+        "display_name": "Engineering",
+        "level": 0,
+        "score": 0.09896400570869446
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C78519656",
+        "wikidata": "https://www.wikidata.org/wiki/Q101333",
+        "display_name": "Mechanical engineering",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C18762648",
+        "wikidata": "https://www.wikidata.org/wiki/Q42213",
+        "display_name": "Work (physics)",
+        "level": 2,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1177/10522263251356445",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1177/10522263251356445",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S190353498",
+          "display_name": "Journal of Vocational Rehabilitation",
+          "issn_l": "1052-2263",
+          "issn": [
+            "1052-2263",
+            "1878-6316"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310318577",
+          "host_organization_name": "IOS Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310318577"
+          ],
+          "host_organization_lineage_names": [
+            "IOS Press"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Vocational Rehabilitation",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.1177/10522263251356445",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1177/10522263251356445",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S190353498",
+        "display_name": "Journal of Vocational Rehabilitation",
+        "issn_l": "1052-2263",
+        "issn": [
+          "1052-2263",
+          "1878-6316"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310318577",
+        "host_organization_name": "IOS Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310318577"
+        ],
+        "host_organization_lineage_names": [
+          "IOS Press"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc",
+      "license_id": "https://openalex.org/licenses/cc-by-nc",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Vocational Rehabilitation",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [
+      {
+        "score": 0.6600000262260437,
+        "id": "https://metadata.un.org/sdg/8",
+        "display_name": "Decent work and economic growth"
+      }
+    ],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "content_urls": null,
+    "referenced_works_count": 66,
+    "referenced_works": [
+      "https://openalex.org/W29257565",
+      "https://openalex.org/W1162418105",
+      "https://openalex.org/W1505003694",
+      "https://openalex.org/W1566054954",
+      "https://openalex.org/W1589397605",
+      "https://openalex.org/W1776472134",
+      "https://openalex.org/W1894241852",
+      "https://openalex.org/W2016239435",
+      "https://openalex.org/W2075950485",
+      "https://openalex.org/W2076885186",
+      "https://openalex.org/W2084154288",
+      "https://openalex.org/W2088332016",
+      "https://openalex.org/W2149708226",
+      "https://openalex.org/W2182028747",
+      "https://openalex.org/W2232950354",
+      "https://openalex.org/W2261738878",
+      "https://openalex.org/W2272553088",
+      "https://openalex.org/W2340815537",
+      "https://openalex.org/W2343439955",
+      "https://openalex.org/W2602174572",
+      "https://openalex.org/W2621384521",
+      "https://openalex.org/W2748196853",
+      "https://openalex.org/W2774218265",
+      "https://openalex.org/W2791223482",
+      "https://openalex.org/W2806621019",
+      "https://openalex.org/W2855412930",
+      "https://openalex.org/W2886491514",
+      "https://openalex.org/W2891378911",
+      "https://openalex.org/W2891959510",
+      "https://openalex.org/W2938741207",
+      "https://openalex.org/W2940179547",
+      "https://openalex.org/W2966238608",
+      "https://openalex.org/W2970917408",
+      "https://openalex.org/W2986052864",
+      "https://openalex.org/W2990361570",
+      "https://openalex.org/W2994020422",
+      "https://openalex.org/W2996350399",
+      "https://openalex.org/W3092419658",
+      "https://openalex.org/W3107794427",
+      "https://openalex.org/W3123497531",
+      "https://openalex.org/W3124525735",
+      "https://openalex.org/W3158750933",
+      "https://openalex.org/W3198384408",
+      "https://openalex.org/W3212080065",
+      "https://openalex.org/W4213009707",
+      "https://openalex.org/W4213350940",
+      "https://openalex.org/W4224871168",
+      "https://openalex.org/W4224929701",
+      "https://openalex.org/W4234387117",
+      "https://openalex.org/W4280610662",
+      "https://openalex.org/W4285490928",
+      "https://openalex.org/W4311343221",
+      "https://openalex.org/W4312010542",
+      "https://openalex.org/W4312069926",
+      "https://openalex.org/W4319074236",
+      "https://openalex.org/W4366773235",
+      "https://openalex.org/W4383620521",
+      "https://openalex.org/W4383620728",
+      "https://openalex.org/W4389039133",
+      "https://openalex.org/W4389039791",
+      "https://openalex.org/W4391296587",
+      "https://openalex.org/W4392584918",
+      "https://openalex.org/W4393470545",
+      "https://openalex.org/W4394748170",
+      "https://openalex.org/W4411072207",
+      "https://openalex.org/W4414066781"
+    ],
+    "related_works": [
+      "https://openalex.org/W2113043745",
+      "https://openalex.org/W2766839180",
+      "https://openalex.org/W4308638646",
+      "https://openalex.org/W2531219817",
+      "https://openalex.org/W2054290182",
+      "https://openalex.org/W2232330152",
+      "https://openalex.org/W2971604386",
+      "https://openalex.org/W2171084971",
+      "https://openalex.org/W4390408219",
+      "https://openalex.org/W4366742153"
+    ],
+    "abstract_inverted_index": {
+      "Background": [
+        0
+      ],
+      "Inclusive": [
+        1
+      ],
+      "employment": [
+        2,
+        30,
+        66,
+        71,
+        136
+      ],
+      "offers": [
+        3
+      ],
+      "advantages": [
+        4
+      ],
+      "for": [
+        5,
+        18,
+        26,
+        72,
+        188
+      ],
+      "both": [
+        6
+      ],
+      "employers": [
+        7
+      ],
+      "and": [
+        8,
+        47,
+        105,
+        122,
+        140,
+        142,
+        157,
+        167
+      ],
+      "individuals": [
+        9,
+        190
+      ],
+      "with": [
+        10,
+        20,
+        44,
+        74,
+        191
+      ],
+      "intellectual": [
+        11,
+        21,
+        75,
+        192
+      ],
+      "disabilities.": [
+        12
+      ],
+      "However,": [
+        13,
+        146
+      ],
+      "high": [
+        14
+      ],
+      "unemployment": [
+        15
+      ],
+      "rates": [
+        16
+      ],
+      "persist": [
+        17
+      ],
+      "people": [
+        19,
+        73
+      ],
+      "disabilities,": [
+        22
+      ],
+      "underscoring": [
+        23
+      ],
+      "the": [
+        24,
+        54,
+        58,
+        62,
+        84,
+        116
+      ],
+      "need": [
+        25
+      ],
+      "alternative": [
+        27
+      ],
+      "approaches.": [
+        28
+      ],
+      "Customized": [
+        29
+      ],
+      "(CE)": [
+        31
+      ],
+      "has": [
+        32,
+        151
+      ],
+      "emerged": [
+        33
+      ],
+      "as": [
+        34
+      ],
+      "a": [
+        35,
+        80,
+        185
+      ],
+      "promising": [
+        36
+      ],
+      "strategy": [
+        37
+      ],
+      "by": [
+        38
+      ],
+      "tailoring": [
+        39
+      ],
+      "job": [
+        40
+      ],
+      "opportunities": [
+        41
+      ],
+      "to": [
+        42,
+        68,
+        115,
+        134,
+        153,
+        171
+      ],
+      "align": [
+        43
+      ],
+      "individual": [
+        45
+      ],
+      "strengths": [
+        46
+      ],
+      "employer": [
+        48,
+        144
+      ],
+      "requirements.": [
+        49
+      ],
+      "Objective": [
+        50
+      ],
+      "This": [
+        51
+      ],
+      "review": [
+        52,
+        82
+      ],
+      "answers": [
+        53
+      ],
+      "question,": [
+        55,
+        118
+      ],
+      "“What": [
+        56
+      ],
+      "does": [
+        57
+      ],
+      "literature": [
+        59,
+        128
+      ],
+      "say": [
+        60
+      ],
+      "about": [
+        61
+      ],
+      "use": [
+        63
+      ],
+      "of": [
+        64,
+        83,
+        97,
+        125,
+        148,
+        159,
+        174
+      ],
+      "customized": [
+        65
+      ],
+      "practices": [
+        67,
+        162,
+        182
+      ],
+      "facilitate": [
+        69
+      ],
+      "paid": [
+        70
+      ],
+      "disabilities?”": [
+        76
+      ],
+      "Methods": [
+        77
+      ],
+      "We": [
+        78
+      ],
+      "conducted": [
+        79
+      ],
+      "scoping": [
+        81
+      ],
+      "literature.": [
+        85
+      ],
+      "Eight": [
+        86
+      ],
+      "databases": [
+        87
+      ],
+      "were": [
+        88,
+        112
+      ],
+      "searched,": [
+        89
+      ],
+      "including": [
+        90
+      ],
+      "APA": [
+        91
+      ],
+      "PsycInfo,": [
+        92
+      ],
+      "Medline,": [
+        93
+      ],
+      "CINAHL,": [
+        94
+      ],
+      "Scopus,": [
+        95
+      ],
+      "Web": [
+        96
+      ],
+      "Science,": [
+        98
+      ],
+      "Business": [
+        99
+      ],
+      "Source": [
+        100
+      ],
+      "Ultimate,": [
+        101
+      ],
+      "Social": [
+        102,
+        106
+      ],
+      "Services": [
+        103
+      ],
+      "Abstracts": [
+        104
+      ],
+      "Science": [
+        107
+      ],
+      "Abstracts.": [
+        108
+      ],
+      "Results": [
+        109
+      ],
+      "Fifty-seven": [
+        110
+      ],
+      "articles": [
+        111
+      ],
+      "deemed": [
+        113
+      ],
+      "relevant": [
+        114
+      ],
+      "research": [
+        117
+      ],
+      "revealing": [
+        119
+      ],
+      "clear": [
+        120
+      ],
+      "trends": [
+        121
+      ],
+      "key": [
+        123
+      ],
+      "characteristics": [
+        124
+      ],
+      "CE.": [
+        126
+      ],
+      "The": [
+        127
+      ],
+      "suggests": [
+        129
+      ],
+      "that": [
+        130
+      ],
+      "CE": [
+        131,
+        161,
+        181
+      ],
+      "can": [
+        132,
+        183
+      ],
+      "lead": [
+        133
+      ],
+      "improved": [
+        135
+      ],
+      "outcomes,": [
+        137
+      ],
+      "greater": [
+        138
+      ],
+      "self-determination": [
+        139
+      ],
+      "independence,": [
+        141
+      ],
+      "increased": [
+        143
+      ],
+      "satisfaction.": [
+        145
+      ],
+      "lack": [
+        147
+      ],
+      "evaluative": [
+        149
+      ],
+      "measures": [
+        150
+      ],
+      "led": [
+        152
+      ],
+      "inconsistencies": [
+        154
+      ],
+      "in": [
+        155,
+        194
+      ],
+      "delivery": [
+        156
+      ],
+      "quality": [
+        158
+      ],
+      "support.": [
+        160
+      ],
+      "may": [
+        163
+      ],
+      "demand": [
+        164
+      ],
+      "more": [
+        165
+      ],
+      "time": [
+        166
+      ],
+      "higher": [
+        168
+      ],
+      "costs": [
+        169
+      ],
+      "compared": [
+        170
+      ],
+      "other": [
+        172
+      ],
+      "types": [
+        173
+      ],
+      "supported": [
+        175
+      ],
+      "employment.": [
+        176,
+        197
+      ],
+      "Conclusions": [
+        177
+      ],
+      "When": [
+        178
+      ],
+      "implemented": [
+        179
+      ],
+      "effectively,": [
+        180
+      ],
+      "be": [
+        184
+      ],
+      "valuable": [
+        186
+      ],
+      "method": [
+        187
+      ],
+      "supporting": [
+        189
+      ],
+      "disabilities": [
+        193
+      ],
+      "securing": [
+        195
+      ],
+      "inclusive": [
+        196
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 3
+      }
+    ],
+    "updated_date": "2026-04-04T08:04:53.788161",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  "crossref": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          4
+        ]
+      ],
+      "date-time": "2026-04-04T15:57:32Z",
+      "timestamp": 1775318252125,
+      "version": "3.50.1"
+    },
+    "reference-count": 71,
+    "publisher": "SAGE Publications",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              15
+            ]
+          ],
+          "date-time": "2025-07-15T00:00:00Z",
+          "timestamp": 1752537600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              15
+            ]
+          ],
+          "date-time": "2025-07-15T00:00:00Z",
+          "timestamp": 1752537600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.sagepub.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Journal of Vocational Rehabilitation"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          9
+        ]
+      ]
+    },
+    "abstract": "<jats:sec>\n            <jats:title>Background</jats:title>\n            <jats:p>Inclusive employment offers advantages for both employers and individuals with intellectual disabilities. However, high unemployment rates persist for people with intellectual disabilities, underscoring the need for alternative approaches. Customized employment (CE) has emerged as a promising strategy by tailoring job opportunities to align with individual strengths and employer requirements.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Objective</jats:title>\n            <jats:p>This review answers the question, “What does the literature say about the use of customized employment practices to facilitate paid employment for people with intellectual disabilities?”</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Methods</jats:title>\n            <jats:p>We conducted a scoping review of the literature. Eight databases were searched, including APA PsycInfo, Medline, CINAHL, Scopus, Web of Science, Business Source Ultimate, Social Services Abstracts and Social Science Abstracts.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Results</jats:title>\n            <jats:p>Fifty-seven articles were deemed relevant to the research question, revealing clear trends and key characteristics of CE. The literature suggests that CE can lead to improved employment outcomes, greater self-determination and independence, and increased employer satisfaction. However, lack of evaluative measures has led to inconsistencies in delivery and quality of support. CE practices may demand more time and higher costs compared to other types of supported employment.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Conclusions</jats:title>\n            <jats:p>When implemented effectively, CE practices can be a valuable method for supporting individuals with intellectual disabilities in securing inclusive employment.</jats:p>\n          </jats:sec>",
+    "DOI": "10.1177/10522263251356445",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          15
+        ]
+      ],
+      "date-time": "2025-07-15T08:11:03Z",
+      "timestamp": 1752567063000
+    },
+    "page": "119-140",
+    "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "title": [
+      "Employing Strength: A Scoping Review of Customized Employment Practices to Support Inclusive Employment for People with Intellectual Disabilities"
+    ],
+    "prefix": "10.1177",
+    "volume": "63",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-2017-2948",
+        "authenticated-orcid": false,
+        "given": "Jennifer",
+        "family": "Christianson-Barker",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Canadian Institute for Inclusion and Citizenship, Kelowna, Canada"
+          },
+          {
+            "name": "School of Graduate Studies, University of British Columbia Okanagan, Kelowna, Canada"
+          }
+        ]
+      },
+      {
+        "given": "Alex",
+        "family": "Franzius",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Canadian Institute for Inclusion and Citizenship, Kelowna, Canada"
+          },
+          {
+            "name": "Department of Social Work, University of British Columbia Okanagan, Kelowna, Canda"
+          }
+        ]
+      },
+      {
+        "given": "Rachel",
+        "family": "Mills",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Inclusion Canada, Toronto, Canada"
+          }
+        ]
+      },
+      {
+        "given": "Arielle",
+        "family": "Lomness",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Okanagan Library, University of British Columbia Okanagan, Kelowna, Canada"
+          }
+        ]
+      },
+      {
+        "given": "Rachelle",
+        "family": "Hole",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Canadian Institute for Inclusion and Citizenship, Kelowna, Canada"
+          },
+          {
+            "name": "Department of Social Work, University of British Columbia Okanagan, Kelowna, Canda"
+          }
+        ]
+      }
+    ],
+    "member": "179",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          15
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_3_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.childyouth.2019.104656"
+      },
+      {
+        "key": "e_1_3_3_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/1364557032000119616"
+      },
+      {
+        "key": "e_1_3_3_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1108/AMHID-05-2014-0015"
+      },
+      {
+        "key": "e_1_3_3_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1540796918783202"
+      },
+      {
+        "key": "e_1_3_3_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-150781"
+      },
+      {
+        "key": "e_1_3_3_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1352/1934-9556-61.6.468"
+      },
+      {
+        "key": "e_1_3_3_8_1",
+        "volume-title": "StateData: The national report on employment services and outcomes 2013",
+        "author": "Butterworth J.",
+        "year": "2014",
+        "unstructured": "Butterworth J., Smith F. A., Hall A. C., Migliore A., Winsor J., Domin D. (2014). StateData: The national report on employment services and outcomes 2013. University of Massachusetts Boston, Institute for Community Inclusion."
+      },
+      {
+        "key": "e_1_3_3_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/jar.12662"
+      },
+      {
+        "key": "e_1_3_3_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-2011-0565"
+      },
+      {
+        "issue": "4",
+        "key": "e_1_3_3_11_1",
+        "article-title": "Employment for persons with disabilities in Thailand: Opportunities and challenges in the labor market.",
+        "volume": "29",
+        "author": "Cheausuwantavee, T., & Keeratiphanthawong, S.",
+        "year": "2021",
+        "unstructured": "Cheausuwantavee, T., & Keeratiphanthawong, S. (2021). Employment for persons with disabilities in Thailand: Opportunities and challenges in the labor market. Journal of Population and Social Studies, 29(4), 384–400. https://so03.tcithaijo.org/index.php/jpss/article/view/246426",
+        "journal-title": "Journal of Population and Social Studies"
+      },
+      {
+        "key": "e_1_3_3_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/23297018.2025.2501261"
+      },
+      {
+        "key": "e_1_3_3_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0894845319884636"
+      },
+      {
+        "key": "e_1_3_3_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-130633"
+      },
+      {
+        "key": "e_1_3_3_15_1",
+        "unstructured": "Employment and Social Development Canada. (2024 July 11). Employment strategy for Canadians with disabilities. Government of Canada. https://www.canada.ca/en/employment-social-development/programs/disability-inclusion-action-plan/employment-strategy.html#h2.8."
+      },
+      {
+        "issue": "3",
+        "key": "e_1_3_3_16_1",
+        "first-page": "14",
+        "article-title": "Social role valorization and employment of people with the most significant disabilities",
+        "volume": "85",
+        "author": "Fleming C.",
+        "year": "2019",
+        "unstructured": "Fleming C., Martin E. D., Curtis R., Varda K. (2019). Social role valorization and employment of people with the most significant disabilities. The Journal of Rehabilitation, 85(3), 14–21.",
+        "journal-title": "The Journal of Rehabilitation"
+      },
+      {
+        "key": "e_1_3_3_17_1",
+        "unstructured": "Government of British Columbia. (2024 October 1). WorkBC Employment Services. Government of British Columbia. https://www2.gov.bc.ca/gov/content/governments/policies-for-government/bcea-policy-and-procedure-manual/eppe/workbc-employment-services."
+      },
+      {
+        "key": "e_1_3_3_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-170905"
+      },
+      {
+        "key": "e_1_3_3_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-130622"
+      },
+      {
+        "issue": "3",
+        "key": "e_1_3_3_20_1",
+        "first-page": "15",
+        "article-title": "Exploring the costs and benefits of workers with disabilities",
+        "volume": "76",
+        "author": "Hernandez B.",
+        "year": "2010",
+        "unstructured": "Hernandez B., McDonald K. (2010). Exploring the costs and benefits of workers with disabilities. Journal of Rehabilitation, 76(3), 15–23. Retrieved from https://www.researchgate.net/publication/236964511_Exploring_the_Costs_and_Benefits_of_Workers_with_Disabilities.",
+        "journal-title": "Journal of Rehabilitation"
+      },
+      {
+        "key": "e_1_3_3_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/hrm.22118"
+      },
+      {
+        "key": "e_1_3_3_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1352/1934-9556-61.6.481"
+      },
+      {
+        "key": "e_1_3_3_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-180928"
+      },
+      {
+        "key": "e_1_3_3_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/00343552221088256"
+      },
+      {
+        "key": "e_1_3_3_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/WOR-246003"
+      },
+      {
+        "key": "e_1_3_3_26_1",
+        "unstructured": "Institute for Research and Development on Inclusion and Society. (2021). Help wanted—Ending sheltered work in Canada: Transitioning to inclusive employment for people with intellectual and developmental disabilities (Research report). Institute for Research and Development on Inclusion and Society. https://irisinstitute.ca/wp-content/uploads/sites/2/2021/09/Help-wanted-Full-Report-EN.pdf."
+      },
+      {
+        "key": "e_1_3_3_27_1",
+        "unstructured": "Ishii K. Yaeda J. (2010). Job Development Activities for Individuals with Intellectual Disabilities in Japan."
+      },
+      {
+        "issue": "2",
+        "key": "e_1_3_3_28_1",
+        "first-page": "13",
+        "article-title": "State vocational rehabilitation counselors’ knowledge of the discovery process in customized employment",
+        "volume": "86",
+        "author": "Jones K. T.",
+        "year": "2020",
+        "unstructured": "Jones K. T., Landon T., Kipping K. C., McKnight-Lizotte M. (2020). State vocational rehabilitation counselors’ knowledge of the discovery process in customized employment. The Journal of Rehabilitation, 86(2), 13–21.",
+        "journal-title": "The Journal of Rehabilitation"
+      },
+      {
+        "issue": "6",
+        "key": "e_1_3_3_29_1",
+        "first-page": "62",
+        "article-title": "Creating an inclusive workplace: Integrating employees with disabilities into a distribution center environment",
+        "volume": "57",
+        "author": "Kaletta J. P.",
+        "year": "2012",
+        "unstructured": "Kaletta J. P., Binks D. J., Robinson R. (2012). Creating an inclusive workplace: Integrating employees with disabilities into a distribution center environment. Professional Safety, 57(6), 62–71.",
+        "journal-title": "Professional Safety"
+      },
+      {
+        "key": "e_1_3_3_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/00343552221140335"
+      },
+      {
+        "key": "e_1_3_3_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-240013"
+      },
+      {
+        "key": "e_1_3_3_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-221227"
+      },
+      {
+        "key": "e_1_3_3_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1748-5908-5-69"
+      },
+      {
+        "key": "e_1_3_3_34_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1352/1934-9556-49.4.261"
+      },
+      {
+        "key": "e_1_3_3_35_1",
+        "unstructured": "Maebara K. (2020). Case Study on the Employment of a Person with Intellectual Disability in Childcare Work in Japan."
+      },
+      {
+        "key": "e_1_3_3_36_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1352/1934-9556-50.3.207"
+      },
+      {
+        "key": "e_1_3_3_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-230015"
+      },
+      {
+        "key": "e_1_3_3_38_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/875687051603500204"
+      },
+      {
+        "key": "e_1_3_3_39_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/jar.13231"
+      },
+      {
+        "key": "e_1_3_3_40_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-180978"
+      },
+      {
+        "key": "e_1_3_3_41_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-130678"
+      },
+      {
+        "key": "e_1_3_3_42_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2511/rpsd.35.1-2.31"
+      },
+      {
+        "key": "e_1_3_3_43_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-170870"
+      },
+      {
+        "key": "e_1_3_3_44_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.11124/JBIES-20-00167"
+      },
+      {
+        "key": "e_1_3_3_45_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-221180"
+      },
+      {
+        "key": "e_1_3_3_46_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-221182"
+      },
+      {
+        "key": "e_1_3_3_47_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s13643-020-01542-z"
+      },
+      {
+        "key": "e_1_3_3_48_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-180985"
+      },
+      {
+        "key": "e_1_3_3_49_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/00343552211043259"
+      },
+      {
+        "key": "e_1_3_3_50_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/15407969231181901"
+      },
+      {
+        "issue": "3",
+        "key": "e_1_3_3_51_1",
+        "first-page": "22",
+        "article-title": "Building consensus among experts regarding customized job development fidelity descriptors: A delphi study",
+        "volume": "87",
+        "author": "Riesen T.",
+        "year": "2021",
+        "unstructured": "Riesen T., Keeton B., Hall S., Snyder A. (2021). Building consensus among experts regarding customized job development fidelity descriptors: A delphi study. The Journal of Rehabilitation, 87(3), 22–30.",
+        "journal-title": "The Journal of Rehabilitation"
+      },
+      {
+        "key": "e_1_3_3_52_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-180952"
+      },
+      {
+        "key": "e_1_3_3_53_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-150768"
+      },
+      {
+        "key": "e_1_3_3_54_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fresc.2022.873568"
+      },
+      {
+        "key": "e_1_3_3_55_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-221222"
+      },
+      {
+        "key": "e_1_3_3_56_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-2012-0583"
+      },
+      {
+        "key": "e_1_3_3_57_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-230010"
+      },
+      {
+        "key": "e_1_3_3_58_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1352/1934-9556-62.1.27"
+      },
+      {
+        "key": "e_1_3_3_59_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.59588/2243-786X.1135"
+      },
+      {
+        "key": "e_1_3_3_60_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-170880"
+      },
+      {
+        "key": "e_1_3_3_61_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-191004"
+      },
+      {
+        "key": "e_1_3_3_62_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-150740"
+      },
+      {
+        "key": "e_1_3_3_63_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1044207316644412"
+      },
+      {
+        "key": "e_1_3_3_64_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-191006"
+      },
+      {
+        "key": "e_1_3_3_65_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-201130"
+      },
+      {
+        "key": "e_1_3_3_66_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/M18-0850"
+      },
+      {
+        "key": "e_1_3_3_67_1",
+        "first-page": "37",
+        "article-title": "Informal network members’ perspectives and experiences on work for people with intellectual disabilities: A thematic synthesis",
+        "author": "Voermans M. A. C.",
+        "year": "2023",
+        "unstructured": "Voermans M. A. C., Wilthagen T., Embregts P. J. C. M. (2023). Informal network members’ perspectives and experiences on work for people with intellectual disabilities: A thematic synthesis. Journal of Occupational Rehabilitation, 37–55. https://doi.org/10.1007/s10926-023-10128-0",
+        "journal-title": "Journal of Occupational Rehabilitation"
+      },
+      {
+        "key": "e_1_3_3_68_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ridd.2016.01.015"
+      },
+      {
+        "key": "e_1_3_3_69_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2511/027494812804153606"
+      },
+      {
+        "key": "e_1_3_3_70_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1540796918777730"
+      },
+      {
+        "key": "e_1_3_3_71_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/ijerph182212083"
+      },
+      {
+        "key": "e_1_3_3_72_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-191035"
+      }
+    ],
+    "container-title": [
+      "Journal of Vocational Rehabilitation"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/10522263251356445",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/10522263251356445",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/10522263251356445",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          30
+        ]
+      ],
+      "date-time": "2025-09-30T09:10:36Z",
+      "timestamp": 1759223436000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/10.1177/10522263251356445"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          15
+        ]
+      ]
+    },
+    "references-count": 71,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            9
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1177/10522263251356445"
+    ],
+    "URL": "https://doi.org/10.1177/10522263251356445",
+    "relation": {},
+    "ISSN": [
+      "1052-2263",
+      "1878-6316"
+    ],
+    "issn-type": [
+      {
+        "value": "1052-2263",
+        "type": "print"
+      },
+      {
+        "value": "1878-6316",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          15
+        ]
+      ]
+    }
+  }
+}

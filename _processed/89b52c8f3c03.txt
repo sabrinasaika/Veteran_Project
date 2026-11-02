@@ -1,0 +1,1550 @@
+UNITED STATES DEPARTMENT OF EDUCATION 
+OFFICE OF SPECIAL EDUCATION AND REHABILITATIVE SERVICES 
+REHABILITATION SERVICES ADMINISTRATION 
+WASHINGTON, DC 20202-2800 
+ 
+TECHNICAL ASSISTANCE CIRCULAR 
+RSA-TAC-20-02 
+DATE: January 6, 2025 
+ 
+ADDRESSEES: STATE VOCATIONAL  REHABILITATION AGENCIES  
+STATE REHABILITATION COUNCILS 
+TECHNICAL ASSISTANCE CENTERS  
+ 
+SUBJECT: Negotiations and Sanctions Guid ance for the Workforce Innovation and 
+Opportunity Act (WIOA) Core Programs 
+ 
+PURPOSE: 
+ 
+This guidance
+1 supersedes Technical Assistance Circular (TAC) 20-02, published May 10, 2023, 
+and rescinds TAC-17-05, WIOA Annual Performance Report Submission, published September 
+11, 2017, developed jointly by the U.S. Departments of Labor and Education (the Departments). 
+Through this updated guidance, the Departments:   
+ 
+ Revise the negotiations process and requirements to incorporate changes made in the 
+Workforce Innovation and Opportunity Act Effectiveness in Serving Employers 
+Performance Indicator final rule (89 FR 13814 (Feb. 23, 2024)) (ESE final rule). This 
+final rule, which took effect March 25, 2024, defines the Effectiveness in Serving 
+Employers primary indicator of performance (ESE), as required by section 
+116(b)(2)(A)(i)(VI) of WIOA, as Retention with the Same Employer. The ESE final rule 
+requires states to report the indicator as a shared indicator across the six WIOA core 
+programs.  
+ Include requirements for the annual performance report submission requirements to 
+encompass all requirements in TAC-17-05. 
+ Clarify the standard for meeting requirements for submission of Eligible Training 
+Provider results. 
+ Clarify the standard for meeting requirements for local area performance negotiations. 
+ 
+This guidance also continues to delineate the process for negotiating levels of performance, as 
+required by section 116(b)(3)(A)(iv) of WIOA; the process for assessing state performance; and 
+explains the two instances in which a state may be sanctioned (including the imposition of those 
+sanctions), namely for performance failure or for failure to report (section 116(f) of WIOA). 
+ 
+ 
+1 This guidance is a statement of the Departments’ policy regarding the Workforce Innovation and Opportunity Act 
+(WIOA). Other than statutory and regulatory requirements included in this document, the contents of this guidance 
+do not have the force and effect of law. This document is intended only to provide clarity regarding existing 
+requirements under the applicable law or agency policies.
+
+2 
+ 
+SUMMARY AND BACKGROUND: 
+ 
+This revised guidance rescinds and replaces TAC-20-02, published May 10, 2023, and TAC-17-
+05, published September 11, 2017. Changes included in this guidance update the portions of 
+TAC-20-02 that relate to the Effectiveness in Serving Employers performance indicator to align 
+with the recently published ESE final rule. This revised guidance also combines all WIOA 
+annual state reporting requirements in one document. The remainder of this guidance remains 
+unchanged from TAC-20-02 and continues to outline: (1) the requirements for reaching 
+agreement on the negotiated levels of performance; and (2) the application of sanctions for states 
+outlined in section 116(f) of WIOA and its implementing joint regulations in 20 CFR part 677 
+and 34 CFR parts 361 and 463.
+ 2  
+ 
+WIOA establishes performance accountability indicators and performance reporting 
+requirements to assess the effectiveness of states and local areas in achieving positive outcomes 
+for individuals served by the workforce development system’s six core programs.
+3 
+ 
+Under section 116(b)(2)(A) of WIOA, there are six primary indicators of performance for which 
+each of the state core programs must negotiate levels of performance with its respective Federal 
+agency: 
+ 
+ Employment Rate Second Quarter after Exit (ERQ2) - The percentage of program 
+participants who are in unsubsidized employment during the second quarter after exit 
+from the program (for the title I Youth program, the indicator is the percentage of 
+program participants in education or training activities, or unsubsidized employment, 
+during the second quarter after exit); 
+ 
+ Employment Rate Fourth Quarter after Exit (ERQ4) - The percentage of program 
+participants who are in unsubsidized employment during the fourth quarter after exit from 
+the program (for the title I Youth program, the indicator is the percentage of program 
+participants in education or training activities, or unsubsidized employment, during the 
+fourth quarter after exit); 
+ 
+ Median Earnings Second Quarter after Exit (MEQ2) - The median earnings of 
+program participants who are in unsubsidized employment during the second quarter 
+after exit from the program; 
+ 
+ 
+2 As stated in 20 CFR § 677.150(d) and 34 CFR §§ 361.150(d) and 463.150(d), the negotiations and sanctions 
+process only applies to states as defined in sec. 3(56) of WIOA – each of the several states of the United States, the 
+District of Columbia, and the Commonwealth of Puerto Rico. It does not apply to the outlying areas as defined in 
+sec. 3(45)—American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, the U.S. Virgin Islands, 
+and the Republic of Palau. 
+3 The six core programs are the Adult, Dislocated Worker, and Youth programs, authorized under WIOA title I and 
+administered by the U.S. Department of Labor (DOL); the Adult Education and Family Literacy Act (AEFLA) 
+program, authorized under WIOA title II and administered by the U.S. Department of Education (ED); the 
+Employment Service program authorized under the Wagner-Peyser Act, as amended by WIOA title III and 
+administered by DOL (the Employment Service program); and the Vocational Rehabilitation (VR) program 
+authorized under title I of the Rehabilitation Act of 1973, as amended by WIOA title IV and administered by ED.
+
+3 
+ 
+ Credential Attainment Rate (CRED) - The percentage of program participants enrolled 
+in an education or training program (excluding those in OJT and customized training) 
+who attain a recognized postsecondary credential, or a secondary school diploma or its 
+recognized equivalent, during participation in or within one year after exit from the 
+program. Under this primary indicator, the attainment of a secondary school diploma or 
+its recognized equivalent is included only if the participant is employed or is enrolled in 
+an education or training program leading to a recognized postsecondary credential within 
+one year after exit from the program (this indicator does not apply to the Employment 
+Service program); 
+ 
+ Measurable Skill Gains (MSG) - The percentage of program participants who, during a 
+program year (PY), are in an education or training program that leads to a recognized 
+postsecondary credential or employment and who are achieving measurable skill gains 
+toward such a credential or employment (this indicator does not apply to the Employment 
+Service program); and 
+ 
+ Effectiveness in Serving Employers (ESE) - The percentage of program participants in 
+unsubsidized employment during the second quarter after exit from the program who 
+were employed by the same employer in the second and fourth quarters after exit. For the 
+six core programs, this indicator is a statewide indicator reported by one core program on 
+behalf of all six core programs in the state. 
+ 
+WIOA requires the Governor of each state
+ to submit a Unified or Combined State Plan that 
+includes a four-year strategy for the state’s workforce development system. States are also 
+required to submit a modification to that plan after two years (sections 102(c) and 103(b)(1) of 
+WIOA). In both the initial submission of a Unified or Combined State Plan and in the required 
+two-year modification of the plan (section 116(b)(3)(A)(iii) of WIOA)), states must include the 
+expected levels of performance for each primary indicator of performance for each core program, 
+as applicable. The approved Unified or Combined State Plan and the required two-year 
+modification must reflect two years of negotiated levels of performance (section 
+116(b)(3)(A)(iv) of WIOA). Additional information on the process for setting these levels of 
+performance is provided in section 4.  
+ 
+NEGOTIATIONS AND SANCTIONS GUIDANCE: 
+ 
+In this guidance, the Departments use the following terms with respect to the process of 
+establishing levels of performance under section 116(b) of WIOA: 
+ 
+ Expected levels of performance are the levels of performance proposed by the state in 
+the initial submission of the Unified or Combined State Plan and in the required two-year 
+modification of the Unified or Combined State Plan prior to negotiations (section 
+116(b)(3)(A)(iii) of WIOA) for each primary indicator of performance for each core 
+program; 
+ 
+ Negotiated levels of performance are the levels of performance mutually agreed to by 
+the state and the Departments for each respective program. The negotiations process must
+
+4 
+ 
+be based on four factors described in section 4 of this guidance. These negotiated levels 
+of performance must be incorporated into the approved Unified or Combined State Plan 
+and the approved two-year modification of that Plan (section 116(b)(3)(A)(iv) of WIOA) 
+for each primary indicator of performance for each core program; 
+ 
+ Adjusted levels of performance are levels of performance determined by adjusting the 
+negotiated levels of performance at the end of the program year to reflect actual 
+characteristics of participants served and the actual economic conditions experienced 
+using the statistical adjustment model (see below) (section 116(b)(3)(A)(vii) of WIOA); 
+ 
+ Actual level of performance is the outcome reported by a state on the Statewide 
+Performance Report (ETA-9169 OMB No. 1205-0526) for each primary indicator of 
+performance for each core program (section 116(d)(2) of WIOA). The Departments will 
+compare actual levels of performance to the adjusted levels of performance at the close of 
+the program year to determine the state’s performance success or failure pursuant to 
+section 116(b)(3)(A)(vii) of WIOA; 
+ 
+ Adjustment factor is a positive or negative difference that will be added to the 
+negotiated level of performance to determine the adjusted level of performance. The 
+adjustment factor is the difference between the estimated levels of performance predicted 
+by the statistical adjustment model based on pre-program year estimates of participant 
+characteristics and economic conditions and the levels of performance re-estimated by 
+the statistical adjustment model after the close of the program year based on the actual 
+participant characteristics and economic conditions. This calculation will yield a positive 
+or negative difference, which will be used as the adjustment factor for the program year; 
+ 
+ Individual indicator score is the proportion the actual level of performance represents 
+of the adjusted level of performance for a single performance indicator for a single 
+program. It is calculated by dividing the actual level of performance achieved by the 
+adjusted level of performance (20 CFR § 677.190(c)(5) and 34 CFR §§ 361.190(c)(5) and 
+463.190(c)(5)); 
+ 
+ Overall state program score is the average of the individual indicator scores for a 
+single WIOA core program across performance indicators (20 CFR § 677.190(c)(1) and 
+34 CFR §§ 361.190(c)(1) and 463.190(c)(1)); 
+ 
+ Overall state indicator score is the average of the individual indicator scores for a 
+single performance indicator across WIOA core programs (20 CFR § 677.190(c)(3) and 
+34 CFR §§ 361.190(c)(3) and 463.190(c)(3)); and 
+ 
+ Statistical adjustment model is an objective regression model, developed pursuant to 
+section 116(b)(3)(A)(viii) of WIOA, used to estimate levels of performance and derive 
+the adjusted levels of performance based on participant characteristics and economic 
+conditions. Economic conditions include differences in unemployment rates and job 
+losses or gains in particular industries. Characteristics of participants include but are not 
+limited to: indicators of poor work history, lack of work experience, lack of educational
+
+5 
+ 
+or occupational skills attainment, dislocation from high-wage and high-benefit 
+employment, low levels of literacy or English proficiency, disability status, 
+homelessness, ex-offender status, and welfare dependency (20 CFR § 677.170(c) and 34 
+CFR §§ 361.170(c) and 463.170(c)). The statistical adjustment model also considers 
+other factors that, through empirical support, are determined to have an effect on state 
+outcomes. The Departments are committed to a transparent process for assessing state 
+performance. Accordingly, ETA, the Office of Career, Technical, and Adult Education 
+(OCTAE), and the Rehabilitation Services Administration (RSA) will publish the 
+statistical adjustment model for all primary indicators of performance on their websites. 
+ 
+The Negotiations Process Overview 
+ 
+Section 116(b)(3)(A)(iv) of WIOA requires that states reach agreement with the Departments on 
+levels of performance for each primary indicator of performance for each of the core programs at 
+two separate and distinct times, specifically during both the State Plan and State Plan 
+modification approval process. These agreed-upon negotiated levels of performance, commonly 
+known as “negotiated levels of performance,” must be included in the approved State Plan and 
+State Plan modification, as applicable. These negotiated levels of performance must cover the 
+first two program years of the Unified or Combined State Plan, with new approved negotiated 
+levels of performance for each of the primary indicators of performance for each of the core 
+programs covering the third and fourth years of the Unified or Combined State Plan (i.e., for the 
+State Plan modification approval process). The submission to the Departments of the Unified or 
+Combined State Plan and the required modification of a plan, including the required expected 
+levels of performance, initiates performance negotiations between the state and the Departments. 
+ 
+Before the start of the first program year, negotiated levels of performance for the first and 
+second years of the Unified or Combined State Plan must be established and included in the State 
+Plan for its approval. Likewise, negotiated levels of performance for the third and fourth years of 
+the required two-year State Plan modification must be established before the start of the third 
+program year. To ensure performance negotiations and State Plan submission and approval are 
+completed before the beginning of the first and third program years of a Unified or Combined 
+State Plan, states must adhere to deadlines established in separate guidance issued by the 
+Departments that govern State Plans. 
+ 
+Attachment III “WIOA Negotiations/Performance Process Flow Chart” illustrates the process for 
+negotiations and Attachment IV “Determining Performance Success or Failure” illustrates the 
+process for assessing performance, which is detailed later in this guidance.  
+ 
+The negotiations process will proceed as follows: 
+ 
+ Pursuant to section 116(b)(3)(A)(iii) of WIOA, each state must identify expected levels of 
+performance in its Unified or Combined State Plan and in the two-year modification of 
+that plan. Expected levels of performance for the first two years of a State Plan must be 
+submitted in the initial submission of the Unified or Combined State Plan and in the 
+initial submission of the two-year modification of that Plan, for years three and four, as 
+described in 20 CFR § 677.170(a) and 34 CFR §§ 361.170(a) and 463.170(a) and should
+
+6 
+ 
+be the result of the state’s own analyses. Expected levels of performance must be stated to 
+the nearest tenth of a percent (XX.X %) or to the nearest whole dollar for median 
+earnings. States are reminded that the expected levels of performance proposed by states 
+in their plan must be published for public comment prior to plan submission in 
+accordance with state law, regulation, and policy. In order to satisfy these requirements 
+and deadlines, the state should not wait for the release of the latest estimated levels of 
+performance derived from the Departments’ statistical adjustment model. 
+ 
+ After the Unified or Combined State Plan submission, the state must negotiate and reach 
+agreement with the respective Federal agency on the negotiated levels of performance for 
+the indicators for each of the first two years of the Unified or Combined State Plan (or for 
+the third and fourth years of the Unified or Combined State Plan during the required two-
+year modification process) for each of the core programs under section 116(b)(3)(A)(iv) 
+of WIOA. With respect to the ESE indicator, since it is a statewide measure that reflects a 
+combined result across WIOA titles I, II, III, and IV programs, the Departments will 
+jointly engage in negotiations with state representatives from all core programs. The 
+factors that will be taken into account during the negotiations process for all indicators 
+and scores are described in detail below under Negotiation Factors. 
+ 
+ The Departments will use the statistical adjustment model as a tool in the negotiations 
+process to estimate the state’s levels of performance prior to the program year to help 
+reach agreement on the negotiated levels of performance. The negotiation factors outlined 
+in section 116(b)(3)(A)(v) of WIOA and further described below under Negotiation 
+Factors will be taken into account during this process. 
+ 
+ Once negotiated levels of performance are agreed upon, the state must incorporate the 
+negotiated levels of performance into the Unified or Combined State Plan and the two-
+year modification of that plan prior to the plan’s approval (section 116(b)(3)(A)(iv) of 
+WIOA). 
+ 
+Use of the Statistical Adjustment Model in the Negotiations and State Performance 
+Assessment Processes 
+ 
+As required by section 116(b)(3)(A)(viii) of WIOA, the Departments will use the statistical 
+adjustment model to ensure that the impact of participant characteristics and economic conditions 
+in the state are accounted for in determining the negotiated levels of performance. 
+ 
+The statistical adjustment model will perform two major functions in performance negotiations 
+and assessment of state performance. First, it is one of the factors used when coming to 
+agreement on the negotiated levels of performance. It is used to account for the economic 
+conditions and the characteristics of participants to be served in the state and/or local areas 
+(section 116(b)(3)(A)(v)(II) of WIOA). Second, it will be used at the close of a program year to 
+adjust the negotiated levels of performance for the actual economic conditions experienced and 
+actual characteristics of participants served (section 116(b)(3)(A)(vii) of WIOA); these are the 
+adjusted levels of performance.
+
+7 
+ 
+The Departments will update the statistical adjustment model with more recent data in a manner 
+that is aligned with the common framework the Departments outlined in the preamble to the 
+2016 WIOA Joint Final Rule.4 This approach ensures that estimates produced before the program 
+year begins are based on historical data and estimates produced after the program year ends are 
+based on actual economic conditions and participant characteristics. The addition of these data 
+will strengthen the statistical adjustment model’s estimates and help produce estimates that yield 
+accurate adjusted levels of performance and objective state performance assessments. 
+ 
+The Departments use the statistical adjustment model at two key junctures in negotiating and 
+assessing state performance:  
+ 
+ Before the program year, the Departments use the statistical adjustment model, based on 
+the data available at the time, to derive estimated coefficients and pre-program year 
+performance estimates. The Departments use these estimates as one of four required 
+factors in the negotiations process, in accordance with section 116(b)(3)(A)(v) of WIOA. 
+ 
+ After the program year, the estimated coefficients derived from the statistical adjustment 
+model are re-estimated to incorporate additional data from before the program year that 
+were not available at the time negotiations occurred. See Attachment V for a functional 
+example. These estimated coefficients are then applied to pre-program year estimates of 
+participant characteristics and economic conditions to obtain updated pre-program year 
+performance estimates. These re-estimated coefficients are also applied to the actual 
+economic conditions and characteristics of participants served to obtain post-program 
+year performance estimates. The difference between these two pre- and post-program 
+year performance estimates determines the adjustment factor (section 116(b)(3)(A)(vii) 
+of WIOA). 
+ 
+The statistical adjustment model is critically important to the WIOA performance negotiations 
+process. As more data become available, the Departments will periodically review the model and 
+refine it as necessary.  
+ 
+The Departments will assess state performance using the model containing coefficients that were 
+re-estimated after the program year using additional data that were not available at the time of 
+negotiations. In other words, the Departments will assess for performance using more current 
+data, which will lead to more accurate and reliable results than under the prior approach of using 
+data that were locked in at the time the negotiated levels of performance were approved. For all 
+core programs, the additional data used to re-estimate the coefficients include more recent 
+observations of economic conditions and participant characteristics up to but not including the 
+cohorts associated with the program year being assessed. By not including economic conditions 
+and participant characteristics for the program year being assessed, the Departments will 
+maintain separation between the state performance results being assessed and the data used to 
+inform the re-estimated coefficients. The Departments will analyze available data to determine if 
+reliable estimates can be made using the statistical adjustment model for the purpose of imposing 
+sanctions. 
+ 
+4 Workforce Innovation and Opportunity Act; Joint Rule for Unified and Combined State Plans, Performance 
+Accountability, and the One-Stop System Joint Provisions; Final Rule. 81 FR 55792 (Aug. 19, 2016).
+
+8 
+ 
+Negotiating Levels of Performance 
+ 
+As discussed in more detail previously, Unified or Combined State Plan submissions and the 
+two-year modifications to those plans must contain expected levels of performance for the 
+primary indicators of performance (section 116(b)(3)(A)(iii) of WIOA). Submitting this 
+information is the first step in the negotiations process. Once the expected levels of performance 
+have been submitted, each core program must begin negotiations with its respective Federal 
+agency (section 116(b)(3)(A)(iv) of WIOA). Title I WIOA and title III Employment Service 
+programs will conduct these negotiations with their ETA Regional Offices. The title II AEFLA 
+program will conduct negotiations with OCTAE’s Division of Adult Education and Literacy, and 
+the title IV VR program will conduct negotiations with the RSA’s State Monitoring and Program 
+Improvement Division. 
+ 
+States have access to their own historical performance information and various other tools and 
+resources, such as data from the Bureau of Labor Statistics or U.S. Census Bureau. These tools 
+may be used to establish the states’ expected levels of performance. When using other resources 
+to analyze the relationship between labor market or economic conditions and actual performance, 
+states should consider the reference period of the resource and the timeframes associated with 
+each of the primary indicators of performance and apply them accordingly. 
+ 
+Negotiation Factors 
+ 
+In reaching agreement on the negotiated levels of performance, states and the Departments must 
+apply the following factors pursuant to section 116(b)(3)(A)(v) of WIOA. Note that WIOA does 
+not specify more or less weight on any specific negotiation factor. 
+ 
+1. Take into account how the levels involved compare with the negotiated levels of 
+performance established for other states (section 116(b)(3)(A)(v)(I) of WIOA). 
+ 
+The Departments will provide the most recent performance data for all states, including 
+previous actual, negotiated, and adjusted levels of performance, and will use this information 
+throughout the negotiations process. 
+ 
+2. Ensure that the levels involved are adjusted using an objective statistical adjustment model 
+provided by the Departments (section 116(b)(3)(A)(v)(II) of WIOA). 
+ 
+Before the negotiations process begins, the Departments will provide the estimated 
+performance outcomes produced by the statistical adjustment model, including the 
+coefficients and state specific values for each variable. This information will include levels of 
+performance, as estimated by the Departments, to be used to inform the negotiations process. 
+State agencies and their respective Federal agencies must negotiate using the levels of 
+performance estimated by the model, as one of four factors pursuant to section 
+116(b)(3)(A)(v) of WIOA, for each primary indicator of performance. These estimated levels 
+of performance may not be altered for the purposes of negotiations, including any changes in 
+participant characteristics or economic conditions anticipated by the state that would result in 
+changes to the levels of performance predicted by the statistical adjustment model. Any
+
+9 
+ 
+changes in participant characteristics or economic conditions will be reflected in the model 
+by using the actual participant characteristics and economic conditions after the close of the 
+program year, and they will not be factored into the negotiations process. 
+ 
+3. Take into account the extent to which the levels involved promote continuous improvement 
+in performance accountability measures by the state and ensure optimal return on the 
+investment of Federal funds (section 116(b)(3)(A)(v)(III) of WIOA).  
+ 
+The Departments consider continuous improvement to be a critical factor in the negotiations 
+process. The Departments will consider continuous improvement factors that ensure optimal 
+return on investment of Federal funds.  
+ 
+The Departments acknowledge that there are many ways to define continuous improvement 
+as related to state or national program circumstances. For example, continuous improvement 
+may reflect:  
+  
+ An increase from the levels of performance previously attained; 
+ Increases in percentile rankings of levels of performance either nationally or among 
+similar states; 
+ A change in service strategy and delivery, including more progressive or innovative 
+approaches designed to better meet participants’ needs; 
+ A change in the intensity or comprehensiveness with which individuals are served; or 
+ A maintenance of previous performance for the top performing states. 
+ 
+The Departments acknowledge that changes to service strategy or individuals served do not 
+always lead to increases in performance levels. 
+ 
+States and local areas must adhere to the priority of service requirements of WIOA title I 
+programs as established in WIOA.5 Additionally, the Departments encourage all other WIOA 
+programs to maximize service to individuals with barriers to employment who may need 
+more intensive services to achieve a positive outcome. The effect of serving more of these 
+individuals will be accounted for in the adjusted levels of performance calculated after the 
+program year.  
+ 
+4. Take into account the extent to which the levels involved will assist the state in meeting the 
+performance goals established by the Secretaries of Education and Labor in accordance with 
+the Government Performance and Results Act of 1993 (GPRA) (section 116(b)(3)(A)(v)(IV) 
+of WIOA). 
+ 
+Section 116(b)(3)(A)(vi) of WIOA requires the Departments to establish long-term goals for 
+the adjusted levels of performance for each of their core programs as provided under GPRA. 
+GPRA is a mechanism through which Congress and the Office of Management and Budget 
+(OMB) evaluate the success of Federal programs, including those operated by states and 
+local areas. During negotiations, the Departments will take into consideration levels of 
+performance that will assist the Federal agencies in meeting the established GPRA goals. 
+ 
+5 Section 134(c)(3)(E) of WIOA, 20 CFR 680.600-660, TEGL 19-16, and TEGL 07-20 provide additional 
+information regarding priority of service populations and service requirements.
+
+10 
+ 
+Determination of Sanctions 
+ 
+There are two different types of failure that can lead to sanctions: failure to report and failure to 
+meet adjusted levels of performance (section 116(f) of WIOA). A discussion of both 
+circumstances is below. 
+ 
+a. Sanctions for Failure to Report 
+States must submit complete and timely WIOA annual performance reports pursuant to the 
+WIOA Joint Final Rule at 20 CFR § 677.180(a) and 34 CFR §§ 361.180(a) and 463.180(a). The 
+“Workforce Innovation and Opportunity Act (WIOA) Performance Accountability, Information 
+and Reporting System” information collection request (WIOA Joint Performance ICR), approved 
+under OMB Control Number 1205-0526, contains the performance accountability reporting 
+requirements for the core programs.  
+ 
+Sanctions will be applied when a state fails to submit the performance reports to the appropriate 
+Federal agency, as required under section 116(d) of WIOA (section 116(f)(1)(B) of WIOA). 
+Consistent with 20 CFR § 677.185(a) and 34 CFR §§ 361.185(a) and 463.185(a), the 
+Departments consider a state as failing to submit the performance reports if the state either: (1) 
+does not submit performance reports by 11:59 p.m. local time on October 1 or the next business 
+day if October 1 falls on a holiday or weekend or (2) submits performance reports by the date for 
+timely submission, but the report is incomplete.
+ 6 Annual performance reports are complete when 
+the state7: 
+ 
+ Attests all reports are complete and accurate to the best of its knowledge; 
+ Submits a WIOA Statewide Performance Report (ETA-9169) for each of the six WIOA 
+core programs;  
+ Collects and reports all required elements of the WIOA Statewide Performance Reports 
+as applicable to the core program and uses appropriate data for the reporting period; 
+ Makes available a mechanism of electronic access to local area performance reports for 
+WIOA title I programs; 
+ Submits Effectiveness in Serving Employers performance results reflecting the combined 
+performance of all six core programs as one performance indicator; and 
+ Makes available a mechanism of electronic access to a complete and accurate Eligible 
+Training Provider (ETP) performance report for WIOA title I programs. In accordance 
+with section 116(d)(4) of WIOA and 20 CFR § 677.230(a), an ETP performance report is 
+complete and accurate when: 
+1. The ETP report includes all training programs on the state Eligible Training Provider 
+List (ETPL) in the most recent program year. 
+2. The ETP report includes counts of all individuals (students) in a program of study 
+which will typically be greater than the counts of WIOA participants in the same 
+program of study, because it will include all students in that program, some of whom 
+may not be WIOA participants. Reporting counts of all individuals (students) that are 
+ 
+6 Local time references the state capital’s time zone. 
+7 See 20 CFR § 677.160(d), 34 CFR § 361.160(d), and 34 CFR § 463.160(d); 20 CFR § 677.205(f), 34 CFR § 
+361.205(f), and 34 CFR § 463.205(f); and 20 CFR § 677.230(d), 34 CFR § 361.230(d), and 34 CFR § 463.230(d).
+
+11 
+ 
+greater than WIOA participants is required for participant counts, exiter counts, 
+completer counts, ERQ2 results, ERQ4 results, and CRED results for no less than 
+10% of training programs.8  
+3. The submitted ETP report satisfies all data quality requirements established in ETA’s 
+Workforce Integrated Performance System (WIPS) and does not intentionally subvert 
+the required edit checks (for example, including filler words that do not provide 
+meaningful program descriptions, entering $1.00 to bypass logical rules requiring 
+reported earnings, or repeating a placeholder value for all programs to satisfy valid 
+value requirements but in reality those data are missing or were not collected as 
+required). 
+ 
+The Department of Labor provided states with sufficient time to establish IT systems and 
+processes in support of required ETP reporting. The requirements for complete ETP reports 
+described above are efforts to improve data quality now that ETP reporting has matured, and the 
+All-Student waiver has expired and is no longer being granted.
+9 The Department of Labor 
+provides technical assistance resources and tools at 
+https://www.dol.gov/agencies/eta/performance/wips that include the measures of completeness 
+listed above (among others) so that states can proactively determine if their ETP data are 
+complete. Using this tool will help states to ensure that their ETA reports meet the above 
+requirements, making the report complete. Incomplete reports may be subject to sanctions 
+pursuant to 20 CFR § 677.185(a). Should these thresholds for complete reporting need to be 
+adjusted, this guidance will be revised as necessary.    
+ 
+If the performance reports submitted by the state do not meet all of the above requirements by 
+the reporting deadline, the state annual report is incomplete. 
+   
+The Departments implemented sanctions provisions for failure to report beginning with the PY 
+2017 WIOA Statewide Performance Reports submission, which was due on October 1, 2018.
+10 
+ 
+Consistent with section 116(f)(1)(B) of WIOA and 20 CFR § 677.185(b) and 34 CFR §§ 
+361.185(b) and 463.185(b), sanctions will not be applied in cases where failure to report is due to 
+exceptional circumstances outside the state’s control as determined by the Departments. The 
+Departments defined “exceptional circumstances” in 20 CFR § 677.185(b) and 34 CFR §§ 
+361.185(b) and 463.185(b). Exceptional circumstances may include, but are not limited to: 
+ 
+ Natural disasters; 
+ Unexpected personnel transitions; and 
+ Unexpected technology-related issues. 
+ 
+8 See WIOA Eligible Training Provider (ETP) Performance Report Specifications and WIOA Eligible Training 
+Provider (ETP) Performance Report Definitions (ETA-9171) OMB Control No. 1205-0526 for definitions and ETP 
+reporting requirements. 
+9 See Training and Employment Notice 7-21 Expiration of the Workforce Innovation and Opportunity Act (WIOA) 
+Waiver of the Obligation of Eligible Training Providers (ETP) to Report Performance Data on All Students in a 
+Program of Study 
+https://www.dol.gov/agencies/eta/advisories/training-and-employment-notice-no-07-21 
+ 
+10 ETP performance reports were required to be submitted beginning with the PY 2018 Annual Report due on 
+October 1, 2019.
+
+12 
+ 
+Extension Requests 
+ 
+In the event of exceptional circumstances as described in the preceding section, the state must 
+notify the Secretary of Labor or Education, as appropriate, in writing of a potential impact on the 
+state’s ability to submit its annual performance report, and request an extension, in order not to 
+be considered failing to report (20 CFR § 677.185(c) and 34 CFR §§ 361.185(c) and 463.185(c)). 
+The state’s request for an extension should include a detailed account identifying the unexpected 
+events precluding timely reporting sufficient for the Departments to make a determination. The 
+following information should be included in an extension request: 
+ 
+ Sufficient detail of the unexpected circumstances that will lead to untimely or incomplete 
+reporting to warrant an extension;  
+ A proposed extension, fitting of the circumstances causing the delay, which should not 
+exceed 30 calendar days after the established annual reporting deadline;  
+ The names and contact information of each responsible state designee or designated point 
+of contact who will ensure that any extended deadline will be met; and 
+ Any other information that the state deems relevant to help explain the need for an 
+extension. 
+ 
+The state must submit the extension request as soon as possible, but not later than 30 calendar 
+days prior to the established annual reporting deadline (20 CFR § 677.185(c)(1) and 34 CFR §§ 
+361.185(c)(1) and 463.185(c)(1)). The annual reporting deadline is October 1 each year or the 
+next business day if October 1 falls on a holiday or weekend. Therefore, states must submit 
+reporting extension requests no later than September 1 (or the next business day if September 1 
+falls on a holiday or weekend). 
+ 
+In cases where unexpected, exceptional circumstances occur within 30 calendar days of the 
+established annual reporting deadline, the state must submit an extension request to the Secretary 
+of Labor or Education, as applicable, as soon as possible but not later than the established annual 
+reporting deadline (20 CFR § 677.185(c)(2) and 34 CFR §§ 361.185(c)(2) and 463.185(c)(2)). 
+Under these circumstances, in addition to the information described above, the request should 
+include sufficient explanation as to why notification of the delay could not be provided 30 
+calendar days prior to the established annual reporting deadline. 
+ 
+All extension requests will be reviewed by the Departments for completeness and a thorough 
+explanation of exceptional circumstances. The Departments may grant extension requests as 
+submitted, grant extension requests with revisions, or reject the extension requests. Proposed 
+reporting extensions should not exceed 30 calendar days after the established annual reporting 
+deadline and should be appropriate to and commensurate with the exceptional circumstances. 
+ 
+In the event of failure to report timely or completely, pursuant to section 116(f)(1)(B) of WIOA, 
+the Governor’s discretionary funds provided under section 128(a) of WIOA will be reduced by 
+five percent of the maximum available allotment in the immediately succeeding program year. 
+The WIOA Joint Final Rule at 20 CFR § 677.195(a) and 34 CFR §§ 361.195(a) and 463.195(a) 
+provide that the sanction is equal to five percent of the maximum allotment percentage that could 
+be reserved by the Governor in the succeeding program year, not a five percentage-point
+
+13 
+ 
+reduction from the amount that a Governor elected to reserve. This sanction will be enforced for 
+each year in which a state fails to report timely or completely. 
+ 
+b. Sanctions for Failure to Meet Adjusted Levels of Performance 
+In accordance with 20 CFR § 677.190(d) and 34 CFR §§ 361.190(d) and 463.190(d), a 
+performance failure occurs if: 
+ 
+ Any single Individual Indicator Score for any single core program falls below 50 percent 
+of the adjusted level of performance; 
+ The Overall State Program Score falls below 90 percent for that single core program; or 
+ The Overall State Indicator Score falls below 90 percent for that single measure. 
+ 
+Any state that fails to meet adjusted levels of performance for the primary indicators of 
+performance for any year will receive technical assistance, including assistance in the 
+development of a performance improvement plan provided by the Secretary of Labor or 
+Secretary of Education (20 CFR § 677.190(b) and 34 CFR §§ 361.190(b) and 463.190(b)). 
+However, if the state has the same performance failure occur in two consecutive program years, 
+the Departments will apply sanctions. Further explanation of how technical assistance and 
+sanctions will be applied is provided later in this section. A description of how this applies to 
+assessing the ESE performance indicator can be found in the next section.  
+ 
+Determining Performance Success or Failure 
+ 
+The Departments will determine state performance success or failure at the end of each program 
+year. In order to make a determination of success or failure, the negotiated levels of performance 
+for that year will be adjusted using the statistical adjustment model, which will factor in data on 
+the actual economic conditions of the state and the actual characteristics of the populations 
+served by the program during that year. This adjustment will be calculated using the adjustment 
+factor to produce the adjusted levels of performance described in the “Terms” section above. A 
+detailed explanation of this calculation is found in Attachment II “Calculation—Adjusted Level 
+of Performance.” This will determine the adjusted levels of performance for the program year 
+against which the state’s actual levels of performance will be evaluated through the calculation 
+of the performance score. Attachment IV, “Determining Performance Success or Failure,” 
+provides an overview of the entire process. 
+ 
+The individual indicator score is calculated by dividing the actual level of performance achieved 
+by the adjusted level of performance. The adjusted level of performance is calculated by adding 
+the adjustment factor to the negotiated level of performance. The individual indicator score will 
+not be rounded; it will be truncated to the first decimal place. A detailed example can be found in 
+Attachment I. 
+ 
+Table 1 illustrates an example calculation of the Overall State Program Scores. An Overall State 
+Program Score is derived for each WIOA core program reflecting all applicable primary 
+indicators of performance. Because ESE is reported on a statewide basis, it is not included in the 
+calculation. The performance scores are calculated for each applicable primary indicator of 
+performance and the average is computed. In this example, the Individual Indicator Score for
+
+14 
+ 
+Employment Rate—4th Quarter after Exit of 46.8 percent is a performance failure because it is 
+below the 50.0 percent threshold.  
+ 
+The Overall State Program Score of 81.5 percent is obtained by averaging the scores for each 
+applicable indicator in the program. Again, the ESE indicator is not included in this calculation 
+because it is reported on a statewide basis. In this example, the core program did not achieve 90 
+percent, which is considered a performance failure. Percentages will not be rounded in this 
+calculation; they will be truncated to the tenth of a percent.  
+ 
+Table 1: Calculation of Overall State Program Score 
+ 
+Primary Indicator 
+of Performance 
+Actual Level of 
+Performance 
+(Numerator/Denominator) 
+Adjusted Level 
+of Performance 
+Individual Indicator Score 
+Calculation 
+Employment 
+Rate—2nd Quarter 
+after Exit 
+14,720
+20,000 75.1% ൬14,720
+20,000൰÷75.1%= 98.0% 
+Employment 
+Rate—4th Quarter 
+after Exit 
+8,200
+25,000 70.0% ൬8,200
+25,000൰÷70.0%= 46.8% 
+Median Earnings—
+2nd Quarter after 
+Exit 
+$3,434 $3,890 $3,434÷$3,890= 88.2% 
+Credential 
+Attainment 
+12,500
+25,000 55.2% ൬12,500
+25,000൰÷55.2%= 90.5% 
+Measurable Skill 
+Gains 
+21,600
+30,000 85.6% ൬21,600
+30,000൰÷85.6%= 84.1% 
+Overall State 
+Program Score* 
+(Average of 
+Individual Indicator 
+Scores for this Core 
+Program) 
+- - 
+81.5% 
+*For a detailed explanation of the calculation behind the Overall State Program Score, please refer to Attachment I. 
+ 
+Table 2 illustrates an example calculation of the Overall State Indicator Scores. An Overall State 
+Indicator Score is derived for each primary indicator of performance across all WIOA core 
+programs, other than ESE, which is reported on a statewide basis. In this example, the 
+performance scores are calculated for the Employment—2nd Quarter after Exit indicator for each 
+core program, and the average is computed. In this case, the Overall State Indicator Score, which 
+is the average of all Individual Indicator Scores, is 92.6 percent, meaning that the core program 
+achieved performance success. Again, percentages will not be rounded in this calculation; they 
+will be truncated to the tenth of a percent.
+
+15 
+ 
+Table 2: Calculation of Overall State Indicator Score 
+ 
+Program Title I-
+Adult 
+Title I-
+Youth 
+Title I-
+DW Title II Title III Title IV 
+Overall 
+State 
+Indicator 
+Score* 
+(Average 
+of 
+Individual 
+Indicator 
+Scores 
+Across 
+Core 
+Pro
+grams) 
+Actual Level 
+of 
+Performance 
+(Numerator/ 
+Denominator) 
+14,720
+20,000 8,820
+15,000 12,648
+17,000 9,300
+15,000 21,330
+30,000 6,792
+12,000 - 
+Adjusted 
+Level of 
+Performance 
+75.1% 70.2% 75.5% 67.5% 70.0% 69.0% - 
+Individual 
+Indicator 
+Score 
+Calculation 
+ቀ
+14,720
+20,000ቁൊ
+75.1% 
+= 
+98.0% 
+ቀ
+8,820
+15,000ቁൊ
+70.2% 
+= 
+83.7% 
+ቀ
+12,648
+17,000ቁൊ
+75.5% 
+= 
+98.5% 
+ቀ
+9,300
+15,000ቁൊ
+67.5% 
+= 
+91.8% 
+ቀ
+21,330
+30,000ቁൊ
+70.0% 
+= 
+101.5% 
+൬6,792
+12,000൰ൊ 
+69.0% 
+= 
+82.0% 
+92.6% 
+*For a detailed explanation of the calculation behind the Overall State Indicator Score, please refer to Attachment I. 
+ 
+In accordance with 20 CFR § 677.190(c)(3)(ii) and 34 CFR §§ 361.190 (c)(3)(ii) and 463.190 
+(c)(3)(ii), the Overall State Indicator Score for ESE, as reported by one core program on behalf 
+of all six core programs in the state, is a statewide indicator that reflects the performance for all 
+core programs. The Overall State Indicator Score for ESE is calculated by dividing the state’s 
+unduplicated, aggregated annual result for all six core programs by the state’s adjusted level of 
+performance.  
+ 
+Phasing in Sanctions for Performance Failure 
+ 
+The Departments used their transition authority under section 503(a) of WIOA to implement a 
+phased-in approach to determine performance success or failure for each indicator or program, 
+due to lack of available data, consistent with the requirements of 20 CFR § 677.190(c) and 34 
+CFR §§ 361.190(c) and 463.190(c). Consistent with past practice, the Departments will continue 
+to inform states when the assessment of any performance indicator is delayed.
+11 
+ 
+ 
+11 See Training and Employment Notice 04-24 Workforce Innovation and Opportunity Act (WIOA) Core Program 
+Performance Accountability Assessment for Program Year (PY) 2023 
+https://www.dol.gov/agencies/eta/advisories/ten-04-24
+
+16 
+ 
+The ESE indicator has been defined in the ESE final rule and PY 2024 will be the first year of 
+data for the newly defined performance indicator. However a minimum of at least two baseline 
+years of data must be collected to support a statistical adjustment model that could produce 
+sufficiently reliable estimates for the purposes of performance negotiations and state 
+performance assessments.12 The Departments, in accordance with 20 CFR § 677.190(c)(4) and 
+34 CFR §§ 361.190(c)(4) and 463.190(c)(4), will collect and monitor state ESE performance 
+results for at least PY 2024 and PY 2025 to establish a credible baseline and provide technical 
+assistance. After PY 2025 data are collected the Departments will develop a statistical 
+adjustment model for ESE in accordance with section 116(b)(3)(A)(viii) of WIOA. The 
+Departments will notify the states of the model estimates’ reliability and the Departments’ ability 
+to use the model for the purposes of fair and objective state performance assessments. 
+  
+If a performance failure occurs at the end of the program year, the respective Federal agency and 
+the state agency will work to develop a performance improvement plan, and the Federal agency 
+will provide technical assistance in accordance with section 116(f)(1)(A) of WIOA. 
+ 
+In this guidance, the Departments want to make clear that if the state has the same performance 
+failure occur in two consecutive program years, the Departments will apply sanctions, pursuant 
+to section 116(f)(1)(B) of WIOA. This applies regardless of where those program years fall 
+within the negotiations cycle. That is, although state negotiated levels of performance are 
+negotiated at two-year intervals, a failure in the second year of one negotiation cycle followed by 
+the same failure in the first year of the subsequent negotiation cycle is considered a failure in two 
+consecutive program years. For example, the Departments will establish negotiated levels of 
+performance for PYs 2024 and 2025 in one negotiation cycle and negotiated levels of 
+performance for PYs 2026 and 2027 in another negotiation cycle. A state will be sanctioned if it 
+has a repeat performance failure in PYs 2025 and 2026.  
+ 
+Specifically, the Departments will reduce the Governor’s discretionary funds provided under 
+section 128(a) of WIOA by five percent of the maximum available amount in the program year 
+immediately succeeding the second consecutive performance failure. This sanction will be 
+enforced each successive year in which the state continues to have the same performance failure. 
+ 
+c.  Sanctions for Failure to Report and Repeat Failure to Meet Adjusted Levels of 
+Performance in the Same Program Year 
+ 
+If the state, in the same year, has both types of failure that would result in sanctions being 
+applied as described in sections (a) and (b) above, meaning the state has both a failure to report 
+and a failure to meet adjusted levels of performance for a second consecutive program year, then 
+the Departments will apply sanctions for both types of failure. The WIOA Joint Final Rule at 20 
+CFR § 677.195(b) and 34 CFR §§ 361.195(b) and 463.195 provide that the sanction is equal to 
+ten percent of the maximum allotment percentage that could be reserved by the Governor in the 
+succeeding program year. The Departments will enforce this sanction each successive year in 
+which the state continues to have the same reporting and performance failures. 
+ 
+ 
+12 See Training and Employment Notice 24-23 Effectiveness in Serving Employers Final Rule Publication Notice 
+https://www.dol.gov/agencies/eta/advisories/ten-24-23
+
+17 
+ 
+Local Performance and Negotiations under WIOA Title I 
+ 
+a. Negotiations with Local Areas  
+ 
+Section 116(c)(1)(A)(i) of WIOA requires that all of the primary indicators of performance, 
+including the ESE indicator, must be applied at the local level for the WIOA title I programs 
+(Adult, Dislocated Worker, and Youth). Furthermore, 20 CFR § 677.205(a) provides that “[e]ach 
+local area in a state under WIOA title I is subject to the same primary indicators of performance 
+for the core programs for WIOA title I under 20 CFR § 677.155(a)(1) and (c) that apply to the 
+state.”  
+ 
+i. Local Performance and Negotiations for the ESE Indicator 
+ 
+The same methods described in the Negotiating Levels of Performance and Determining 
+Performance Success or Failure sections of this guidance, for defining performance levels and 
+assessing performance at the state level, also apply at the local level. For ESE, this means that 
+states and local areas must agree to a single, shared level of performance for the WIOA Adult, 
+Dislocated Worker, and Youth programs in the local area. This single, shared level will be used 
+to assess the one shared ESE result for all WIOA title I programs in the local area. For all other 
+primary indicators of performance, each WIOA title I program will have individual negotiated 
+levels of performance and will be assessed as individual programs. 
+ 
+The state is required to negotiate the ESE indicator with all local areas in program years in which 
+this measure is also negotiated between the state and DOL. For PYs 2024 and 2025, baseline 
+data will be reported by states. This means that states should be collecting baseline data for these 
+two years from their local areas to incorporate in the state’s future local area statistical 
+adjustment model as well. 
+ 
+ii. Criteria for Complete Local Area Negotiations 
+ 
+In accordance with 20 CFR § 677.210(c), states must incorporate the following criteria into the 
+negotiations dialogue with each local area:  
+ 
+1. The local board, the Chief Elected Official, and the Governor must negotiate and reach 
+agreement on local levels of performance based on each local area’s historical 
+performance results and service capacity levels, and how each individual local area 
+assists in/contributes to the aggregate attainment of the state negotiated levels of 
+performance.  
+2. In negotiating the local levels of performance, the local board, the Chief Elected Official, 
+and the Governor also must use the above-listed four factors of negotiation used at the 
+state level.  
+3. In addition, the state’s statistical adjustment model that aligns with the framework of the 
+state-level model must be used at the beginning of the program year to negotiate and at 
+the end of the program year to adjust negotiated local levels of performance in order to 
+reflect the actual economic conditions experienced in the local area and the 
+characteristics of the actual individuals served according to the state’s established 
+policies.
+
+18 
+ 
+This means the negotiated levels of performance for a given local area will differentiate from the 
+negotiated levels of the other local areas and the state for each program and performance 
+indicator based on the characteristics of participants served, past performance, economic 
+conditions of the local area, and the other required factors of negotiations listed above.  
+ 
+States should make available to the state’s DOL-ETA Regional Office these negotiated and 
+adjusted levels when completed, as well as making available the established policies for local 
+performance negotiations and assessment, to the local boards and the state’s DOL-ETA Regional 
+Office prior to the start of the program year in which the policies will be applied. 
+ 
+The Departments have developed the framework for an objective statistical adjustment model 
+that satisfies the WIOA requirements at the state level. States must use this framework and 
+develop a model that satisfies their needs at the local level, both in the performance negotiations 
+and year-end adjustment of local levels of performance. 
+ 
+The local board, the Chief Elected Official, and the Governor must negotiate and reach 
+agreement on local levels of performance for two program years at a time, based on the state’s 
+negotiated levels of performance, no later than September 30 in each year in which state 
+negotiations occur. The state must notify its DOL-ETA Regional Office that negotiations are 
+complete and include in the notification the agreed-upon levels of performance for each local 
+area. 
+ 
+b. Local Performance Success and Failure 
+ 
+States must use local performance goals for WIOA title I programs for two required purposes: 
+(1) to determine if a local area “performed successfully” for subsequent local area designation, 
+and (2) to determine when a state must take corrective action when a local area fails to meet the 
+adjusted levels of performance.  
+ 
+For the purpose of determining subsequent local area designation, the term “performed 
+successfully” means that the local area met or exceeded the levels of performance the Governor 
+negotiated with the local board and chief elected official for WIOA primary indicators of 
+performance and that the local area has not failed any individual measure for the last two 
+consecutive program years in accordance with a state-established definition, provided in the 
+Unified or Combined State Plan, of “met or exceeded performance.” For subsequent designation 
+determinations made at the conclusion of PY 2018, or at any point thereafter, states must base 
+their findings of whether a local area performed successfully for the two most recently completed 
+program years on all six of the WIOA primary indicators of performance where at least two 
+years of negotiated and adjusted performance levels are available. 
+ 
+Before coming to agreement on the negotiated levels of performance for the local area, a state 
+must establish the threshold for failure to meet adjusted levels of performance for a local area 
+Following the conclusion of the program year, a state must establish the adjusted level of 
+performance for a local area, using the statistical adjustment model described. At least two years 
+of complete data on any indicator for any local core program are required in order to establish 
+adjusted levels of performance for a local area. States must provide technical assistance if a local
+
+19 
+ 
+area fails to meet the adjusted levels of performance agreed to for the primary indicators of 
+performance in WIOA title I programs in any program year. Upon the state’s request to the 
+Secretary of Labor, DOL may provide this technical assistance. The technical assistance may 
+include: 
+  
+ Assistance in the development of a performance improvement plan;  
+ The development of a modified local or regional plan; or 
+ Other actions designed to assist the local area in improving performance.  
+ 
+If a local area fails to meet the adjusted levels of performance agreed to for the same primary 
+indicators of performance for the same core program authorized under WIOA title I for a third 
+consecutive program year, the Governor must take corrective actions. If the Governor takes 
+corrective action against a local area for failing to meet the negotiated goals, the state workforce 
+agency should advise its Federal Project Officer of this action. The corrective actions must 
+include the development of a reorganization plan under which the Governor:  
+ 
+ Requires the appointment and certification of a new local board, consistent with the 
+criteria in 20 CFR § 679.350;  
+ Prohibits the use of eligible providers and one-stop partners that have been identified as 
+achieving poor levels of performance; or  
+ Takes such other significant actions as the Governor determines are appropriate, which 
+may include local area redesignation without the support of the local area in accordance 
+with section 116(g)(2)(A) of WIOA and 20 CFR § 677.220(b). 
+ 
+INQUIRIES:  
+ 
+Michael S. Quinn, Chief 
+Data Collection and Analysis Unit  
+(202) 245-6527 
+Michael.Quinn@ed.gov  
+ 
+ 
+                               /s/                                                                                      
+Danté Q. Allen  
+Commissioner 
+ 
+cc:  Council of State Administrato rs of Vocational Rehabilitation  
+National Council of State Agencies for the Blind 
+ 
+Attachment I: Calculation—Overall State Indicator and Program Scores 
+Attachment II: Calculation—Adjusted Level of Performance 
+Attachment III: WIOA Negotiations / Performance Process Flow Chart 
+Attachment IV: Determining Performance Success or Failure
+
+Attachment I 
+I-1 
+ 
+Calculation—Overall State Indicator and Program Scores 
+ 
+States and Federal agencies negotiate to one decimal place. Actual levels of performance are 
+calculated by dividing the number of successes within an indicator (numerator) by the total 
+number of participants matching the qualifications for the given indicator (denominator). Actual 
+levels of performance are reported by the state for all primary indicators of performance. In the 
+WIOA statewide performance report (ETA-9169), actual levels of performance are represented 
+by rounding to the nearest tenth of a percent, but for the purpose of performing these 
+calculations, actual levels of performance and adjusted levels of performance are neither rounded 
+nor truncated. 
+ 
+In the table below, refer to the column related to the title I Adult program for an example of 
+Employment Rate—2nd Quarter after Exit. 
+ 
+ Numerator = 16,244 (Total number of participants in the denominator that were also 
+employed second quarter after exit.) 
+ Denominator = 24,000 (Total number of participants that exited during the reporting period.)  
+ Numerator divided by Denominator = 
+16,244
+24,000 = 0.676833 
+ Rate reported in Annual Report = 67.7% 
+ Adjusted level of performance = 75.2% 
+Employment Rate—2nd Quarter after Exit Results by Core Program 
+Program Title I 
+Adult 
+Title I 
+Dislocated 
+Worker 
+Title I 
+Youth 
+Title II 
+AEFLA 
+Title III 
+Wagner- 
+Peyser 
+Title IV 
+Vocational 
+Rehabilitation 
+Numerator 16,244 13,000 20,000 9,000 6,000 31,555 
+Denominator 24,000 18,000 30,000 15,000 12,000 42,000 
+Annual Report Value 67.7% 72.2% 66.7% 60.0% 50.0% 75.1% 
+Adjusted Level of 
+Performance 75.2% 72.5% 76.3% 79.7% 68.7% 65.4% 
+ 
+What figures are used to determine how close actual performance was to the adjusted level of 
+performance? 
+ 
+Each Indicator Score is calculated in a similar way. For those indicators reported as a 
+percentage, use both numerator and denominator in the next step. 
+ 
+The Indicator Score is calculated by dividing the actual outcome by the adjusted level of 
+performance. 
+= 
+ቀ16,244
+24,000ቁ
+75.2%  = .90004 (represented in the report as 90.0%) 
+ 
+For those indicators not reported as a percentage, such as Median Earnings in the Second Quarter 
+after Exit, use the value in the Annual Report and divide by the adjusted level of performance.
+
+Attachment I 
+I-2 
+ 
+How are the Overall State Indicator Scores calculated? 
+ 
+After the Indicator Score is calculated for each single primary indicator of performance, it is 
+populated into the below matrix. Each row of Indicator Scores is averaged and truncated to one 
+decimal place to produce the Overall State Indicator Score. In the example below, the average of 
+the Employment Rate—2nd Quarter after Exit Indicator Scores for the six programs is 0.89985 
+and is truncated to one decimal place for an Overall State Indicator Score of 89.9%. Note that 
+because the ESE indicator is a single shared statewide indicator, there is no need to calculate an 
+average of the individual program results. Instead, the shared statewide ESE result will be 
+divided by the adjusted level of performance for ESE to determine performance success or 
+failure.  
+ 
+= 
+ቀ16,244
+24,000ቁ
+75.2%
+6  + 
+ቀ13,000
+18,000ቁ
+72.5%
+6  + 
+ቀ20,000
+30,000ቁ
+76.3%
+6  + 
+ቀ9,000
+15,000ቁ
+79.7%
+6  + 
+ቀ6,000
+12,000ቁ
+68.7%
+6  + 
+ቀ31,555
+42,000ቁ
+65.4%
+6  = .89985 = 89.9% 
+ 
+Primary 
+Indicator/ Core 
+Program 
+Title I 
+Adult 
+Title I 
+Dislocated 
+Worker 
+Title I 
+Youth 
+Title II 
+AEFLA 
+Title III 
+Wagner
+- 
+Peyser 
+Title IV 
+Vocational 
+Rehabilitation 
+Overall 
+State 
+Indicator 
+Score 
+Employment 2nd 
+Quarter after 
+Exit 
+90.0% 99.6% 87.4% 75.3% 72.8% 114.9% 89.9% 
+Employment 4th 
+Quarter after 
+Exit 
+ 87.4%            
+Median Earnings 
+2nd Quarter after 
+Exit 
+ 111.8%            
+Credential 
+Attainment Rate 
+ 130.1%        N/A   
+Measurable Skill 
+Gains  84.1%        N/A    
+Effectiveness in 
+Serving 
+Emplo
+yers 
+ N/A N/A  N/A  N/A  N/A  N/A  95.5%13 
+Overall State 
+Program Score 100.6%      - 
+ 
+13 ESE is a shared statewide measure reflecting the percentage of participants in unsubsidized employment during 
+the second quarter after exit from the program who were employed by the same employer in the second and fourth 
+quarters after exit", reported by one core program on behalf of all core programs. Therefore, there are no ESE results 
+for individual programs.
+
+Attachment I 
+I-3 
+ 
+How are the Overall State Program Scores calculated? 
+ 
+After the Indicator Score is calculated for each primary indicator of performance, it is populated 
+into the above matrix. Each column of Indicator Scores is averaged and truncated to one decimal 
+place to produce the Overall State Program Score. In the example below, the average of the 
+Indicator Scores for the title I Adult program is 1.00689 and is truncated to one decimal place for 
+an Overall State Program Score of 100.6%, as shown in the table above. Note the ESE indicator 
+is not included in the Overall State Program Scores. 
+ 
+= 
+ቀ16,244
+24,000ቁ
+75.2%
+5  + 
+ቀ15,300
+25,000ቁ
+70.0%
+5  + 
+$4,350
+$3,890
+5  + 
+ቀ17,950
+25,000ቁ
+55.2%
+5  + 
+ቀ21,600
+30,000ቁ
+85.6%
+5   = 1.00689 = 100.6% 
+ 
+Title I Adult Results by Performance Indicator 
+Primary Indicator of 
+Performance 
+Actual Level of 
+Performance 
+(Numerator/Denominator) 
+Annual Report 
+Value 
+Adjusted Level of 
+Performance 
+Employment Rate—2nd 
+Quarter after Exit 
+16,244
+24,000
+ 67.7% 75.2% 
+Employment Rate—4th 
+Quarter after Exit 
+15,300
+25,000 61.2% 70.0% 
+Median Earnings—2nd 
+Quarter after Exit $4,350 $4,350 $3,890 
+Credential Attainment 17,950
+25,000 71.8% 55.2% 
+Measurable Skill Gains 21,600
+30,000 72.0% 85.6%
+
+Attachment II 
+II-1 
+ 
+Calculation—Adjusted Level of Performance 
+ 
+The Federal agencies estimate levels of performance based on participant characteristics and 
+economic conditions using an objective statistical model. The pre-program year performance 
+estimate is provided to states prior to the start of the program year during the negotiations 
+process and is a factor in reaching agreement on the negotiated levels of performance. After the 
+close of the program year, the Federal agencies will:  
+ 
+(1) re-estimate the coefficients in the statistical adjustment model with the additional year(s) 
+of data available; 
+(2) apply the revised coefficients to the same pre-program year participant characteristics and 
+economic conditions used in calculating the estimated levels of performance to generate 
+the pre-program year estimate (Estimate0); and  
+(3) apply the revised coefficients to the characteristics of the actual participants served and 
+the actual economic conditions of the state to estimate the state’s actual program year 
+performance (Estimate
+1). 
+ 
+Federal agencies will subtract Estimate0 from Estimate1 to obtain the adjustment factor. The 
+resulting positive or negative adjustment factor is added to the negotiated level of performance to 
+arrive at the adjusted level of performance. These calculations are shown in Examples 1 and 2 
+below. Refer to section on Determining Performance Success or Failure of the guidance for an 
+explanation of how the adjusted level of performance is used to determine performance success 
+or failure. 
+ 
+ 
+Example 1: Adjusted Level of Performance Calculation 
+Expected Level of Performance 68.9% 
+Negotiated Level of Performance 70.2% 
+Estimate0 75.5% 
+Estimate1 73.7% 
+Adjustment Factor 73.7% - 75.5% = -1.8% 
+Adjusted Level of Performance -1.8%  + 70.2% = 68.4% 
+ 
+ 
+ 
+Example 2: Adjusted Level of Performance Calculation 
+Expected Level of Performance 68.9% 
+Negotiated Level of Performance 70.2% 
+Estimate0 75.5% 
+Estimate1 78.3% 
+Adjustment Factor 78.3%  - 75.5% = 2.8% 
+Adjusted Level of Performance 2.8% + 70.2% = 73.0%
+
+Attachment III 
+III-1 
+ 
+WIOA Negotiations / Performance Process Flow Chart 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Step 1: 
+States: Submit Expected Levels 
+of Performance for two program 
+years in State Plans or plan 
+modifications (PYs A and B). 
+DOL/ED: Produce pre-program 
+year performance estimates 
+using the statistical adjustment 
+model. 
+Step 2: Before PY A begins, states and 
+DOL/ED arrive at Negotiated Levels of 
+Performance for PYs A and B by 
+considering the four factors of performance 
+Required 
+State 
+Actions 
+Step 3: PY A Concludes. DOL/ED re-
+estimate the statistical adjustment model 
+coefficients with the additional year of data 
+available, process state data on actual 
+outcomes and re-estimate performance 
+levels (Estimate0 and Estimate1) using the re-
+estimated coefficients, the same objective 
+model specification, and actual 
+characteristics of participants and economic 
+conditions of PY A. 
+The positive or negative difference between 
+the DOL/ED estimates before and after PY 
+A are used to adjust the negotiated levels of 
+performance and calculate the adjusted 
+levels of performance. 
+Step 5: PY B Concludes. DOL/ED re-
+estimate the statistical adjustment model 
+coefficients with the additional two years of 
+data available, process state data on actual 
+outcomes and re-estimate performance 
+levels (Estimate0 and Estimate1) using the re-
+estimated coefficients, the same objective 
+model specification, and actual 
+characteristics of participants and economic 
+conditions of PY B. 
+The positive or negative difference between 
+the DOL/ED estimates before and after PY 
+B are used to adjust the negotiated levels of 
+performance and calculate the adjusted 
+levels of performance. 
+Step 4: DOL/ED determine states' 
+performance success or failure using 
+actual results of PY A and the adjusted 
+levels of performance for PY A. 
+Step 6: DOL/ED determine states' 
+performance success or failure using 
+actual results of PY B and the adjusted 
+levels of performance for PY B. 
+For steps 4 and 6, please 
+see "Attachment IV—
+Determining 
+Performance Success or 
+Failure"
+
+Attachment IV 
+IV-1 
+ 
+Determining Performance Success or Failure 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Step 4:  DOL/ED add the PY 
+adjustment factor to the negotiated 
+level of performance to determine the 
+adjusted level of performance. 
+Step 1:  After the close of the PY, DOL/ED 
+will re-estimate the statistical adjustment 
+model coefficients using the same objective 
+model specification and additional pre-PY 
+data that were not available at the time of 
+negotiations. 
+Step 2:  DOL/ED apply the revised coefficients 
+to the same pre-program year participant 
+characteristics and economic conditions used in 
+calculating the estimated levels of performance 
+for performance negotiations prior to the 
+program year (Estimate0).  
+Step 5:  The actual results from the 
+PY are then divided by the adjusted 
+level of performance to determine the 
+individual indicator scores. 
+Step 6:  The average of individual 
+indicator scores across WIOA core 
+programs is the overall state program 
+score. 
+Performance Failure occurs if any 
+individual indicator score is below 
+50%. 
+Performance Failure occurs if any 
+overall state program score is below 
+90%.
+ 
+Step 7:  The average of individual 
+indicator scores for a single WIOA core 
+program across performance indicators is 
+the overall state indicator score. 
+Performance Failure occurs if any 
+overall state indicator score is below 
+90%. 
+Step 3:  DOL/ED apply the revised coefficients to the actual participant characteristics and 
+actual economic conditions of the PY to generate the program year estimate (Estimate1). The 
+positive or negative percentage point difference yielded by subtracting Estimate0 from Estimate1 
+is the PY adjustment factor.
+
+Attachment IV 
+IV-2 
+ 
+Functional Example of the Approach for Using the Statistical Adjustment Model 
+ 
+The Departments will use the most current data available to derive adjusted levels of 
+performance for all six core programs, thereby furthering a consistent application of the common 
+framework. The example below demonstrates how and when the Departments will add more 
+current data to the statistical adjustment model to produce more accurate results. After the first 
+program year, the Departments will add an additional year of data to the statistical adjustment 
+model. After the second program year, the Departments will add a second additional year of data.  
+ 
+This example reflects a hypothetical economic upturn that occurred after RSA and a state VR 
+program established negotiated levels of performance before the program years began.  
+ 
+Before PYs 2024 and 2025 begin:  
+ 
+ In its State Plan, a state VR program submits expected levels of performance of 46.0% for PY 
+2024 and 47.0% for PY 2025 for the measurable skill gains indicator. 
+ The statistical adjustment model produces a pre-program year estimate of 45.0% for PYs 
+2024 and 2025. This estimate is based on data from PYs 2018, 2019, 2020, 2021 and 2022. 
+Because the negotiations take place during PY 2023, economic conditions and participant 
+data for PY 2023 are not yet available. PY 2022 data are the most recent data available at that 
+time. 
+ Using the pre-program year estimate
+ and other negotiation factors, RSA and the state VR 
+program agree to negotiated levels of performance of 47.0% for PY 2024 and 48.0% for PY 
+2025.  
+ 
+After PY 2024 ends:  
+ 
+ The state VR program reports an actual level of performance of 52.0% for PY 2024.  
+ RSA produces Estimate
+0 of 50.0% that includes PY 2023 data in addition to data available at 
+the time of negotiations which, at the time of the assessment, are the most recent data 
+available to the Departments.  
+ Using PY 2023 data, the statistical adjustment model produces an Estimate1 of 52.0% for PY 
+2024. This estimate is based on the actual participant characteristics and actual economic 
+conditions in PY 2024. 
+ RSA calculates an adjustment factor of 2.0% (52.0% - 50.0%). 
+ RSA adds 2.0% to the negotiated level of performance of 47.0% to produce an adjusted level 
+of performance of 49.0%. 
+ RSA divides the actual level of performance of 52.0% by the adjusted level of performance 
+of 49.0% to produce an individual indicator score of 106.0%, which means the state VR
+
+Attachment IV 
+IV-3 
+ 
+program passed this performance indicator for PY 2024 pursuant to 34 CFR § 361.190(d)(1) 
+and (2) since the individual indicator score was greater than 50 percent. 
+During PY 2025:  
+ 
+ The state experiences improved economic conditions. 
+ 
+After PY 2025 ends:   
+ 
+ The state VR program reports an actual level of performance of 52.0% for PY 2025. 
+ The statistical adjustment model produces Estimate
+0 for PY 2025 of 53.0% using PYs 2023 
+and 2024 data in addition to data available at the time of negotiations. Of note, this is another 
+PY’s worth of data being added to the statistical adjustment model to ensure it incorporates 
+the most recent economic conditions and participant data available to the Departments at the 
+time the calculations are being done. 
+ Using PYs 2023 and 2024, the statistical adjustment model produces an Estimate1 of 59.0% 
+for PY 2025. This estimate is based on the actual participant characteristics and actual 
+economic conditions in PY 2025. 
+ RSA calculates an adjustment factor of 6.0% (59.0% - 53.0%). 
+ RSA adds 6.0% to the negotiated level of performance of 48.0% to produce an adjusted level 
+of performance of 54.0%. 
+RSA divides the actual level of performance of 52.0% by the adjusted level of performance of 
+54.0% to produce an individual indicator score of 96.0%, which means the state VR program 
+passed this performance indicator for PY 2025 pursuant to 34 CFR § 361.190(d)(1) and (2) since 
+the individual indicator score was greater than 50 percent.

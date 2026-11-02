@@ -1,0 +1,2694 @@
+FILENAME: 999f7a13ebd6-2023-Code-of-Ethics.pdf
+PATH: _raw/tacqe.com/999f7a13ebd6-2023-Code-of-Ethics.pdf
+
+CODE OF 
+PROFESSIONAL ETHICS FOR 
+CERTIFIED REHABILITATION 
+COUNSELORS 
+ 
+Adopted in September 2022 by the  
+Commission on Rehabilitation Counselor Certification.  
+  
+This Code is effective as of January 1, 2023. 
+ 
+Developed and Administered by the 
+Commission on Rehabilitation Counselor Certification 
+(CRCC®) 
+1501 East Woodfield Road, Suite 105E 
+Schaumburg, Illinois 60173 
+(847) 944-1325 
+www.crccertification.com
+
+TABLE OF CONTENTS 
+PREAMBLE            1 
+ENFORCEABLE STANDARDS OF ETHICAL PRACTICE      4 
+Section A: The Counseling Relationship        4 
+  Introduction         4 
+A.1.  Welfare of Those Served        4 
+A.2.  Respecting Diversity        4 
+A.3.  Client Rights         5 
+A.4.  Prohibited Roles and Relationships with Clients     6 
+A.5  Multiple Clients         7 
+A.6.  Group Work         7 
+A.7.  Termination and Referral       7 
+A.8.  End-of-Life Care for Terminally Ill Clients     8 
+ 
+Section B: Confidentiality, Privileged Communication, and Privacy     8 
+  Introduction         8 
+B.1.  Respecting Client Rights       9 
+B.2.  Exceptions         9 
+B.3.  Information Shared with Others     10 
+B.4.  Groups and Families      11 
+B.5.  Responsibility to Clients Lacking Capacity to Consent  11 
+B.6.  Records and Documentation     11 
+B.7.  Case Consultation      12 
+ 
+Section C: Advocacy and Accessibility      12 
+  Introduction       12 
+C.1.  Advocacy       13 
+C.2.  Accessibility       13 
+ 
+Section D: Multicultural Considerations      14 
+  Introduction       14 
+D.1.  Strengthening the Multicultural Counseling Relationship  14 
+D.2.  Avoiding Harm and Value Imposition    15 
+D.3.  Personal and Professional Development and Cultural  15 
+  Competence       
+D.4.  Diversity, Equity, and Belonging in Coworker Relationships 16 
+ 
+Section E: Professional Responsibility      16 
+  Introduction       16 
+E.1.  Professional Competence     16 
+E.2.  Functional Competence      17 
+E.3.  Professional Credentials     17 
+E.4.  Responsibility to the Public and Other Professionals  17 
+E.5.  Scientific Bases for Interventions    18 
+ 
+Section F: Relationships with Other Professionals and Employers   19 
+  Introduction       19 
+F.1.  Relationships with Colleagues, Employers, and Employees 19 
+F.2.  Organization and Team Relationships    19 
+F.3.  Provision of Consultation Services    20 
+ 
+Section G: Forensic Services       20 
+  Introduction       20 
+G.1.  Evaluee Rights       20 
+G.2.  Forensic Competency and Conduct    21 
+G.3.  Forensic Practices      22 
+G.4.  Forensic Business Practices     22
+
+Section H: Assessment and Evaluation      22 
+  Introduction       22 
+H.1.  Informed Consent      22 
+H.2.  Release of Assessment or Evaluation Information  23 
+H.3.  Mental Health Diagnosis and Treatment    23 
+H.4.  Competence to Use and Interpret Tests/Instruments  24 
+H.5.  Test/Instrument Selection     24 
+H.6.  Test/Instrument Administration Conditions   24 
+H.7.  Test/Instrument Scoring and Interpretation   25 
+H.8.  Test/Instrument Security     25 
+H.9.  Obsolete Tests/Instruments and Outdated Results  25 
+H.10.  Test/Instrument Construction     25 
+ 
+Section I: Supervision, Training, and Teaching     25 
+  Introduction       25 
+I.1.  Clinical Supervisor Responsibilities    26 
+I.2.  Clinical Supervisor Competence     27 
+I.3.  Roles and Relationships Between Clinical Supervisors   27 
+and Supervisees 
+I.4.  Supervision Evaluation, Remediation, and Endorsement  28 
+I.5.  CRC/CCRC Educator Responsibilities    28 
+I.6.  CRC/CCRC Educator Competence    30 
+I.7.  Roles and Relationships Between Educators and Students 30 
+I.8.  Education Evaluation, Remediation, and Endorsement  31 
+ 
+Section J: Research and Publication       31 
+  Introduction       31 
+J.1.  Research Responsibilities     32 
+J.2.  Rights of Research Participants     32 
+J.3.  Reporting Results      33 
+J.4.  Research Publications and Presentations   34 
+J.5.  Managing and Maintaining Boundaries    35 
+ 
+Section K: Technology, Social Media, and Virtual Counseling    35 
+  Introduction       35 
+K.1.  Competence and Legal Considerations    35 
+K.2.  Accessibility       36 
+K.3.  Confidentiality and Disclosure     36 
+K.4.  Social Media       36 
+K.5.  Virtual Counseling      37 
+ 
+Section L: Business Practices       38 
+  Introduction       38 
+L.1.  Advertising and Soliciting Clients    38 
+L.2.  Client Records       38 
+L.3.  Fees, Bartering, and Billing     39 
+L.4.  Termination and Referral     39 
+ 
+Section M: Resolving Ethical Issues       40 
+  Introduction       40 
+M.1.  Knowledge of Ethical Standards and the Law   40 
+M.2.  Addressing Suspected Violations    40 
+M.3.  Conduct in Addressing Ethical Issues    41 
+GLOSSARY OF TERMS        42
+
+1 
+PREAMBLE 
+PURPOSE 
+The Code of Professional Ethics for Certified Rehabilitation Counselors, henceforth referred to as the 
+Code, is designed to provide standards of practice for practitioners, trainees, recipients of services, and 
+society on the ethical practice of certified rehabilitation counselors, henceforth referred to as 
+CRCs/CCRCs. The Commission on Rehabilitation Counselor Certification (CRCC) provides an 
+accredited national certification for individuals meeting rigorous educational requirements for the purpose 
+of providing specialized supports for individuals with disabilities. CRCs/CCRCs credentialed by CRCC 
+may identify with various professional associations and practice settings. CRCs/CCRCs may also be 
+licensed in fields that require specific standards of professional behavior. This Code is enforceable for all 
+CRCs/CCRCs. 
+ 
+The basic objectives of the Code are to: 
+• promote public welfare by specifying ethical behavior; 
+• establish principles that guide ethical behaviors;  
+• serve as an ethical guide designed to assist in constructing a professional course of action; and  
+• serve as the basis for the processing of alleged Code violations. 
+ 
+VALUES AND PRINCIPLES 
+ 
+CRCs/CCRCs are committed to facilitating the personal, economic, and social independence of 
+individuals with disabilities. CRCs/CCRCs recognize diversity and embrace a culturally relevant and 
+responsive approach to support of the worth, dignity, potential, and uniqueness of individuals with 
+disabilities within their social and cultural context and bracket their personal values and beliefs when 
+working with clients. They look to professional values as an important way of living out an ethical 
+commitment.  
+The values that serve as a foundation for this Code include a commitment to 
+• respecting human rights and dignity of all people; 
+• ensuring the integrity of all professional relationships; 
+• acting to alleviate personal distress and suffering; 
+• enhancing the quality of professional knowledge and its application to increase professional and 
+personal effectiveness; 
+• promoting empowerment through self-advocacy and self-determination; 
+• respecting and understanding the diversity of human experience and appreciating culture;  
+• emphasizing client strengths versus deficits; 
+• serving individuals holistically; and 
+• advocating for equitable and appropriate provision of services. 
+ 
+These values inform principles and represent one important way of expressing a general ethical 
+commitment that becomes more precisely defined and action-oriented when expressed as a principle. 
+The fundamental spirit of caring and respect with which the Code is written is based upon six principles 
+of ethical behavior: 
+ 
+Autonomy: To respect the rights of clients to be self-governing within their social and cultural framework 
+Beneficence: To do good to others; to promote the well-being of clients 
+Fidelity: To be faithful; to keep promises and honor the trust placed in CRCs/CCRCs 
+Justice: To be fair in the treatment of all clients; to provide appropriate services to all 
+Nonmaleficence: To do no harm to others 
+Veracity: To be honest and truthful
+
+2 
+COMMITMENT TO CULTURAL DIVERSITY 
+ 
+CRCs/CCRCs are aware that all individuals exist in a variety of social contexts and strive to understand 
+the influence of these contexts on an individual. CRCs/CCRCs are aware of the continuing evolution of 
+the field, changes in society at large, and the different needs of individuals in social, political, religious, 
+historical, environmental, economic, and other contexts. CRCs/CCRCs are committed to providing 
+respectful and timely communication, taking appropriate action when diversity issues occur, and being 
+accountable for the outcomes as they affect people of all races, ethnicities, genders, national origins, 
+religions, sexual orientations, and other cultural group identities. 
+ 
+CLIENTS/EVALUEES 
+ 
+The primary obligation of CRCs/CCRCs is to their clients, defined as persons who receive services from 
+CRCs/CCRCs. In some settings, clients may be referred to by other terms such as, but not limited to, 
+consumers, participants, or customers.  
+ 
+When employed to render an opinion for a forensic purpose, CRCs/CCRCs do not have clients. Instead, 
+the person being evaluated is deemed an evaluee. Additionally, if a section or standard in the Code does 
+not seem to be relevant to CRCs/CCRCs in specific practice setting (e.g., state vocational rehabilitation 
+agency, mental health setting, forensic practice), CRCs/CCRCs adhere to the principles of the Code. 
+ 
+STRUCTURE OF THE CODE 
+ 
+The Code consists of a Preamble, thirteen main Sections, and a Glossary. Each Section includes an 
+introduction that describes the ethical behavior and responsibility to which CRCs/CCRCs aspire. The 
+introduction helps set the tone for that Section and provides a starting point that invites reflection on the 
+Enforceable Standards contained in each Section of the Code. The Enforceable Standards that follow 
+the introduction outline professional responsibilities and provide direction for fulfilling those ethical 
+responsibilities. 
+ 
+The Enforceable Standards within the Code are specific and intended to provide directives for specific 
+circumstances and serve as the basis for processing complaints initiated against CRCs/CCRCs. A 
+breach of the Enforceable Standards provided herein do not necessarily constitute legal liability or 
+violation of the law; such action is established in legal and judicial proceedings. 
+ 
+APPLYING THE CODE 
+ 
+Individual Enforceable Standards are not meant to be interpreted in isolation. Instead, Enforceable 
+Standards are interpreted across the Code as a whole, with each Enforceable Standard interpreted in 
+conjunction with other related standards throughout the Code. Actions of CRCs/CCRCs are consistent 
+with the spirit, as well as the letter, of these Enforceable Standards.  
+ 
+CRCs/CCRCs acknowledge that resolving ethical issues is a process. When CRCs/CCRCs are faced 
+with ethical dilemmas that are difficult to resolve, they are expected to engage in a carefully considered 
+ethical decision-making process, consulting available resources (including the CRCC Ethics Committee) 
+as needed. Ethical reasoning includes consideration of professional values, professional ethical 
+principles, and ethical standards. 
+ 
+CRCs/CCRCs are expected to use a credible ethical decision-making model that can bear public scrutiny 
+of its application. Through a chosen ethical decision-making process and evaluation of the context of the 
+situation, CRCs/CCRCs work to resolve any ethical dilemmas that arise. Ethical decision-making models 
+can be viewed on CRCC's website.
+
+3 
+CRCs/CCRCs must be aware of laws related to their scope of practice and service delivery. At times, 
+legal and ethical standards may conflict. In such situations, CRCs/CCRCs are encouraged to consult 
+with supervisors, legal/ethical experts, CRC/CCRC colleagues, and others as appropriate and to use an 
+ethical decision-making model to inform the decision. 
+ 
+DEFINING THE PROFESSION 
+ 
+CRCs/CCRCs are nationally certified counselors educated and trained at the graduate level. They have 
+specialized knowledge, skills, and abilities to collaborate with persons with all types of disabilities to 
+overcome barriers to employment or other life domains. Through a comprehensive and holistic approach, 
+CRCs/CCRCs work with the whole person, to help them understand the functional implications of their 
+disability and the environmental constraints that may occur. CRCs empower individuals with disabilities 
+to articulate their needs, achieve their personal, social, psychological, vocational, and independent living 
+goals. CRCs/CCRCs provide a bridge between the individual and self-sufficiency, assisting their clients 
+in living fully integrated lives. CRCs/CCRCs are unique in comparison to other counseling professionals 
+given their interaction with individuals with disabilities. No other counseling profession is primarily 
+dedicated to working with individuals with all types of disabilities.
+
+4 
+ENFORCEABLE STANDARDS OF ETHICAL PRACTICE 
+ 
+ 
+SECTION A: THE COUNSELING RELATIONSHIP 
+ 
+INTRODUCTION 
+CRCs/CCRCs work in cooperation with their clients to promote client growth, welfare, and support them in 
+developing and progressing toward their goals. CRCs/CCRCs understand that trust is the cornerstone of 
+the counseling relationship, and they have the responsibility to respect and safeguard the client’s right to 
+privacy and confidentiality. 
+ 
+CRCs/CCRCs respect the rights of clients to make their own decisions about matters that affect their own 
+lives. CRCs/CCRCs make reasonable efforts to ensure clients make informed choices about every aspect 
+of the rehabilitation counseling process. CRCs/CCRCs are expected to respect the diverse cultural 
+backgrounds and identities of the clients they serve and do not discriminate in their provision of 
+rehabilitation counseling services based on protected identities. CRCs/CCRCs also explore their own 
+backgrounds, cultural identities, and experiences and how these affect their values and beliefs. 
+ 
+A.1. WELFARE OF THOSE SERVED 
+ 
+a. PRIMARY RESPONSIBILITY. The primary responsibility of CRCs/CCRCs is to respect the dignity of 
+clients and to promote their welfare. 
+ 
+b. REHABILITATION COUNSELING PLANS. CRCs/CCRCs and clients collaborate to develop client-
+centered, integrated, individualized, mutually agreed-upon, written rehabilitation counseling plans. This 
+agreed-upon plan is consistent with the abilities and circumstances of clients. CRCs/CCRCs and clients 
+regularly review rehabilitation counseling plans to assess their continued viability and effectiveness and 
+revise them as needed, while respecting the client's informed decision making. 
+ 
+c. EMPLOYMENT. When assessing potential employment goals, CRCs/CCRCs consider the client's overall 
+abilities. Assessment of potential employment includes consideration of the client's functional capabilities, 
+interests and aptitudes, social skills, education, general qualifications, transferable skills, work history, 
+psychological characteristics, geographic locations, and other relevant characteristics and needs of clients. 
+CRCs/CCRCs facilitate the placement of clients in positions consistent with their interests, education/skills, 
+culture, and welfare. CRCs/CCRCs assist clients in understanding potential barriers to employment and 
+placement choices and mitigate barriers that could affect a successful employment outcome. 
+Considerations include, but are not limited to, legal history, substance use disorder, transportation, financial 
+implications of work, skill level, and educational background. CRCs/CCRCs educate clients on appropriate 
+and accessible resources to address and resolve barriers. 
+ 
+d. AVOCATIONAL AND INDEPENDENT LIVING GOALS. CRCs/CCRCs work with clients to develop 
+avocational, independent living, and community integration goals consistent with their abilities, interests, 
+culture, needs, and welfare. 
+ 
+e. AUTONOMY. CRCs/CCRCs respect the rights of clients to make decisions on their own behalf in 
+accordance with their cultural identity, values, and beliefs. Decision-making on behalf of clients that limits or 
+diminishes the autonomy of the client is made only after careful deliberation. CRCs/CCRCs advocate for 
+clients to resume responsibility for their choices as quickly as possible. 
+ 
+A.2. RESPECTING DIVERSITY 
+ 
+a. RESPECTING CULTURE. CRCs/CCRCs demonstrate cultural humility and respect for the cultural 
+identity of clients in developing and implementing culturally responsive rehabilitation strategies and 
+treatment plans by providing and adapting interventions.
+
+5 
+b. NONDISCRIMINATION. CRCs/CCRCs do not condone or engage in the prejudicial treatment of an 
+individual or group based on their actual or perceived membership in a particular group, class, or category. 
+ 
+A.3. CLIENT RIGHTS 
+ 
+a. PROFESSIONAL DISCLOSURE STATEMENT. CRCs/CCRCs must review with clients, both orally and 
+in writing, the rights and responsibilities of both CRCs/CCRCs and client and document the process has 
+occurred. These are presented in a manner that is accessible and understandable to the client. Disclosure 
+at the outset of the professional relationship minimally includes 
+(1) the qualifications, credentials, and relevant experience of the CRCs/CCRCs; 
+(2) purposes, goals, techniques, limitations, and the nature of potential risks and benefits of services; 
+(3) frequency and length of services; 
+(4) confidentiality and limitations regarding confidentiality (including how a supervisor and/or other related 
+professionals are consulted); 
+(5) contingencies for continuation of services upon the extended absence, incapacitation, or death of 
+CRCs/CCRCs; 
+(6) fees and/or payment arrangements; 
+(7) record preservation and release policies; 
+(8) benefits and risks associated with electronic communication; and 
+(9) legal issues affecting services. 
+When necessary, CRCs/CCRCs disclose other information consistent with organization and/or employer 
+policies or legal requirements. CRCs/CCRCs recognize that disclosure of this information needs to be 
+reiterated or expanded upon throughout the professional relationship. 
+ 
+b. INFORMED CONSENT. CRCs/CCRCs recognize that clients have the freedom to choose whether to 
+enter into or remain in a professional relationship. CRCs/CCRCs respect the rights of clients to participate in 
+ongoing rehabilitation counseling planning and to make decisions to refuse any services or modality 
+changes. CRCs/CCRCs ensure that clients are advised of the benefits and/or consequences of such 
+refusal. CRCs/CCRCs recognize that clients need relevant and adequate information to make an informed 
+decision regarding services. CRCs/CCRCs recognize that informed consent is ongoing and needs to be 
+reassessed throughout the rehabilitation counseling relationship, so clients are able to provide informed 
+consent. CRCs/CCRCs appropriately document discussions of disclosure and informed consent throughout 
+the professional relationship. 
+ 
+c. DEVELOPMENTALLY AND MULTICULTURALLY APPROPRIATE COMMUNICATIONS. 
+CRCs/CCRCs communicate information in ways that are both developmentally and multiculturally 
+appropriate while taking into consideration the accessibility needs of the client. CRCs/CCRCs arrange for 
+qualified interpreters, translators, or other necessary accommodations (e.g., captioning services) when 
+needed to communicate effectively with clients. CRCs/CCRCs collaborate with clients, consider multicultural 
+implications of informed consent procedures, and adjust their practices accordingly. 
+ 
+d. INABILITY TO GIVE CONSENT. When counseling minors or persons who have limited capacity to give 
+voluntary informed consent, CRCs/CCRCs seek the assent of clients and include clients in decision-making 
+as appropriate. Parents and legal guardians are informed about the confidential nature of the counseling 
+relationship. CRCs/CCRCs embrace the diversity of family systems, and the inherent rights and 
+responsibilities parents/guardians have for the welfare of their children/dependents. CRCs/CCRCs 
+recognize the need to balance the (1) ethical rights of clients to make choices; (2) cognitive or legal capacity 
+of clients to give consent or assent; and (3) legal rights and responsibilities of legal guardians to protect 
+clients and make decisions on their behalf. 
+ 
+e. SUPPORT NETWORK INVOLVEMENT. CRCs/CCRCs recognize that support by others may be 
+important to clients or central to interacting with rehabilitation services. When appropriate and with 
+documented consent from clients, CRCs/CCRCs enlist the support and involvement of others (e.g., 
+religious/spiritual/community leaders, family members, friends, legal guardians, educators, employers).
+
+6 
+A.4. PROHIBITED ROLES AND RELATIONSHIPS WITH CLIENTS 
+ 
+a. SEXUAL OR ROMANTIC RELATIONSHIPS ASSOCIATED WITH CURRENT CLIENTS. CRCs/CCRCs 
+are prohibited from engaging in any (e.g., electronic, virtual, online, and/or in-person) sexual or romantic 
+interactions or relationships with current clients, their romantic partners, or their immediate family members. 
+ 
+b. SEXUAL OR ROMANTIC RELATIONSHIPS ASSOCIATED WITH FORMER CLIENTS. CRCs/CCRCs 
+are prohibited from engaging in any (e.g., electronic, virtual, online, and/or in-person) sexual or romantic 
+interactions or relationships with former clients, their romantic partners, or their immediate family members 
+for a period of five years following the last professional contact. Even after five years, CRCs/CCRCs 
+carefully consider if a potential sexual or romantic relationship would be coercive or exploitative and/or 
+cause harm to the former client. If CRCs/CCRCs choose to enter into such a relationship after five years, it 
+is the responsibility of the CRCs/CCRCs (not the former client) to demonstrate that neither coercion nor 
+harm to the former client has transpired. In cases of potential exploitation and/or harm, CRCs/CCRCs avoid 
+entering into such interactions or relationships. 
+ 
+c. SEXUAL OR ROMANTIC RELATIONSHIPS WITH VULNERABLE FORMER CLIENTS. CRCs/CCRCs 
+are prohibited from engaging in any (e.g., electronic, virtual, online, and/or in-person) sexual or romantic 
+interactions or relationships with former clients, regardless of the length of time elapsed since termination of 
+the client relationship, if those clients (1) have a history of physical, emotional, or sexual trauma; (2) have 
+ever been diagnosed with any form of psychosis or personality disorder or marked cognitive impairment, (3) 
+are likely to remain in need of treatment due to the intensity or chronic nature of a mental health condition, 
+or (4) are unable to give proper consent. 
+ 
+d. SERVICE PROVISION WITH PREVIOUS SEXUAL OR ROMANTIC PARTNERS. CRCs/CCRCs are 
+prohibited from engaging in the provision of rehabilitation counseling services with any persons with whom 
+they have had a previous electronic, virtual, online and/or in-person sexual or romantic interaction or 
+relationship. 
+ 
+e. SERVICE PROVISION WITH FRIENDS AND FAMILY MEMBERS. CRCs/CCRCs are prohibited from 
+engaging in the provision of rehabilitation counseling services with family members. CRCs/CCRCs are 
+prohibited from engaging in the provision of rehabilitation counseling services with individuals with whom 
+they have an inability to remain objective. 
+ 
+f. PERSONAL VIRTUAL RELATIONSHIPS WITH CURRENT CLIENTS. CRCs/CCRCs are prohibited from 
+engaging in personal, non-professional electronic or virtual relationships with current clients (e.g., through 
+social media). 
+ 
+g. EXTENDING PROFESSIONAL BOUNDARIES. CRCs/CCRCs consider the risks and benefits of 
+extending the boundaries of their professional relationships with current or former clients, their romantic 
+partners, or their family members to include interactions not typical of professional CRC/CCRC-client 
+relationships. In cases where boundaries are extended, CRCs/CCRCs take appropriate professional 
+precautions, such as seeking informed consent, consultation, and supervision to ensure their judgment is 
+not impaired and that exploitation or harm does not occur. With current clients, such interactions are 
+initiated with appropriate consent from clients and are time-limited or context-specific. Examples include but 
+are not limited to attending a formal ceremony (e.g., a wedding/commitment ceremony or graduation); 
+purchasing a service or product provided by clients or former clients (excepting unrestricted bartering); 
+hospital visits to ill family members; or mutual membership in professional associations, organizations, or 
+communities. 
+ 
+h. DOCUMENTING BOUNDARY EXTENSIONS. If CRCs/CCRCs expand boundaries as described in 
+Standard A.5.g, they must officially document, prior to the interaction (when feasible), the rationale for such 
+an interaction, the potential benefit, and anticipated consequences for the client or former client and other 
+individuals significantly involved with the client or former client. When unintentional harm occurs to these 
+individuals, CRCs/CCRCs must show evidence of an attempt to remedy such harm.
+
+7 
+i. ROLE CHANGES IN THE PROFESSIONAL RELATIONSHIP. CRCs/CCRCs carefully evaluate and 
+document the risks and benefits to clients before initiating role changes. If CRCs/CCRCs change roles from 
+the original or most recent contracted relationship, they discuss the implications of the role change with the 
+client, including possible risks and benefits (e.g., financial, legal, personal, therapeutic). They obtain new 
+informed consent from the client, complete a new professional disclosure form with clients and explain the 
+right to refuse services related to the change, as well as the availability of alternate service providers. 
+CRCs/CCRCs refrain from frequent and/or indiscriminate role changes. If changing roles more than one 
+time, CRCs/CCRCs evaluate and document the risks and benefits of multiple changes. Examples of 
+possible role changes include 
+(1) changing from individual to group, relationship, or family counseling, or vice versa;  
+(2) changing from a CRCs/CCRCs to a mediator role, or vice versa;  
+(3) changing from CRCs/CCRCs to a researcher role (e.g., enlisting clients as research participants), or vice 
+versa; and  
+(4) changing from a non-forensic evaluative role or forensic role to a rehabilitation or therapeutic role, or 
+vice versa. 
+ 
+j. ACCEPTING GIFTS. CRCs/CCRCs shall not accept gifts from clients except in cases when it is culturally 
+appropriate or therapeutically relevant. CRCs/CCRCs understand the challenges of accepting gifts from 
+clients and recognize that in some cultures, small gifts are a token of respect and gratitude. When 
+determining whether to accept gifts from clients, CRCs/CCRCs take into account the cultural or community 
+practice, therapeutic relationship, the monetary value of the gift(s), the client’s motivation for giving the 
+gift(s), and the motivation of the CRCs/CCRCs for accepting or declining the gift(s). CRCs/CCRCs are 
+aware of and comply with their employers’ policies on accepting gifts and seek consultation with their 
+supervisor when necessary. 
+ 
+A.5. MULTIPLE CLIENTS 
+ 
+When CRCs/CCRCs agree to provide services to two or more persons who have a relationship (e.g., 
+husband/wife; siblings; parent/child), CRCs/CCRCs clarify at the outset which person is, or which persons 
+are, to be served and the nature of the relationship with each involved person. When CRCs/CCRCs are 
+called upon to perform potentially conflicting roles, CRCs/CCRCs clarify, adjust, or withdraw from roles 
+appropriately. 
+ 
+A.6. GROUP WORK 
+ 
+a. SCREENING. CRCs/CCRCs screen prospective group counseling/therapy participants. To the extent 
+possible, CRCs/CCRCs select members whose needs and goals are compatible with goals of the group, 
+who do not impede the group process, and whose well-being is not jeopardized by the group experience. 
+ 
+b. PROTECTING CLIENTS. In a group setting, CRCs/CCRCs take reasonable precautions to protect 
+clients from harm or physical, emotional, or psychological trauma. 
+ 
+A.7. TERMINATION AND REFERRAL 
+ 
+a. COMPETENCE WITHIN TERMINATION AND REFERRAL. If CRCs/CCRCs determine they lack the 
+competence to be of professional assistance to clients, they avoid entering or continuing professional 
+relationships. CRCs/CCRCs are knowledgeable about culturally and clinically appropriate referral resources 
+and suggest these alternatives. If clients decline the suggested referrals, CRCs/CCRCs discontinue the 
+relationship. 
+ 
+b. VALUES WITHIN TERMINATION AND REFERRAL. CRCs/CCRCs refrain from referring prospective 
+and current clients to another provider based solely on CRCs/CCRCs personally held values, attitudes, 
+beliefs, and behaviors. CRCs/CCRCs respect the diversity of clients and seek training in areas in which 
+they are at risk of imposing their values onto clients, especially when CRCs/CCRCs values are inconsistent 
+with the client’s goals or are discriminatory in nature.
+
+8 
+c. APPROPRIATE TERMINATION AND REFERRAL. CRCs/CCRCs terminate counseling relationships 
+when it becomes reasonably apparent that clients no longer need assistance, are not likely to benefit, or are 
+being harmed by continued services. CRCs/CCRCs may terminate services when in jeopardy of harm by 
+clients or other persons with whom clients have a relationship. CRCs/CCRCs may terminate services: (1) if 
+a client is determined no longer eligible for services; (2) when agreed-upon time limits are reached; or (3) 
+when clients or funding sources do not pay agreed-upon fees or will not pay for further services. 
+CRCs/CCRCs are aware of alternate resources in the communities in which they practice. They provide 
+pre-termination counseling and recommend other clinically and culturally appropriate and accessible service 
+sources when necessary. CRCs/CCRCs ensure that clients are eligible for the services from the service 
+provider to which they are making a referral. 
+ 
+d. APPROPRIATE TRANSFER OF SERVICES. When CRCs/CCRCs transfer or refer clients to other 
+practitioners, they make reasonable efforts to ensure that appropriate counseling, services, and 
+administrative processes are completed in a timely manner and that appropriate information and records 
+are communicated and/or transferred to the referral source to facilitate a smooth transition. 
+ 
+e. SELF-REFERRAL. CRCs/CCRCs working in organizations (e.g., school, agency, institution) that provide 
+rehabilitation counseling services do not refer clients to their private practice unless the policies of the 
+organization make explicit provisions for self-referrals. In such instances, the client must be informed of 
+other options available to them should they seek private rehabilitation counseling/forensic services. 
+ 
+f. ABANDONMENT PROHIBITED. CRCs/CCRCs do not abandon or neglect clients. CRCs/CCRCs assist 
+in making appropriate arrangements for the continuation of services when necessary, during extended 
+absences and following termination. 
+ 
+A.8. END-OF-LIFE CARE FOR TERMINALLY ILL CLIENTS 
+ 
+a. QUALITY OF CARE. When the need arises, CRCs/CCRCs advocate for services that enable clients to: 
+(1) obtain high quality end-of-life care for their physical, emotional, social, and spiritual needs; (2) exercise 
+the highest degree of self-determination possible; (3) be given every opportunity possible to engage in 
+informed decision-making regarding their end-of-life care; and (4) receive complete and adequate 
+assessment regarding their ability to make competent, rational decisions on their own behalf. 
+ 
+b. END OF LIFE CARE. CRCs/CCRCs are aware of their own competency as it relates to end-of-life 
+decisions. When CRCs/CCRCs assess they are unable to work with clients on the exploration of end-of-life 
+options, they make referrals to ensure clients receive appropriate assistance. 
+ 
+c. CONFIDENTIALITY. CRCs/CCRCs who provide services to terminally ill individuals who are considering 
+hastening their own deaths through such mechanisms as assisted suicide or refusing life-sustaining 
+treatments have the option of maintaining confidentiality on this matter, depending on applicable laws, the 
+specific circumstances of the situation, and after seeking consultation or supervision from appropriate 
+professional and legal parties. 
+ 
+ 
+SECTION B: CONFIDENTIALITY, PRIVILEGED  
+COMMUNICATION, AND PRIVACY 
+ 
+INTRODUCTION 
+CRCs/CCRCs recognize that trust is the cornerstone of the counseling relationship. CRCs/CCRCs aspire to 
+earn the trust of current and prospective clients by creating an ongoing partnership, establishing and 
+upholding appropriate boundaries, and maintaining confidentiality. CRCs/CCRCs communicate the legal 
+and ethical parameters of confidentiality to their clients in a culturally competent manner. CRCs/CCRCs 
+inform clients about confidentiality and privacy rights regarding disclosure of client information to outside 
+entities (including employers and third-party payers).
+
+9 
+B.1. RESPECTING CLIENT RIGHTS 
+ 
+a. RESPECT FOR PRIVACY. CRCs/CCRCs respect the privacy rights of clients. CRCs/CCRCs solicit 
+private information from clients only when it is beneficial to the rehabilitation counseling process. 
+CRCs/CCRCs make reasonable efforts to ensure that methods of sharing or transmitting information are 
+secure. 
+ 
+b. RESPECT FOR CONFIDENTIALITY. CRCs/CCRCs do not share confidential information without 
+informed consent from clients or without sound legal or ethical justification. CRCs/CCRCs do not release 
+confidential records without a signed authorization to release information, except as required by law or 
+required by court order. 
+ 
+c. MULTICULTURAL AND DIVERSITY CONSIDERATIONS. CRCs/CCRCs develop and maintain 
+awareness and sensitivity of the client’s cultural meanings of confidentiality and privacy. CRCs/CCRCs hold 
+ongoing discussions with clients as to how, when, and with whom information is to be shared. 
+ 
+d. PERMISSION TO RECORD. CRCs/CCRCs clarify the rationale for recording a session in a manner that 
+is understandable and accessible to the client and obtain permission from clients prior to recording sessions 
+through electronic or other means. Such recordings are destroyed after the timeframe specified by 
+jurisdictional requirements. Even with a guardian's written consent, CRCs/CCRCs carefully consider the 
+clinical and legal implications of recording a session without the assent of the client. 
+ 
+e. CONSENT TO OBSERVE. CRCs/CCRCs obtain consent from clients prior to observing sessions, 
+reviewing session transcripts, and/or listening to or viewing recordings of sessions with supervisors, faculty, 
+interns, peers, or others within the training environment. 
+ 
+f. DISCLOSURE TO EMPLOYERS. CRCs/CCRCs obtain written consent from the client before disclosing 
+relevant information to prospective and current employers. CRCs/CCRCs educate clients, employers, and 
+others about confidentiality and privacy rights regarding disclosure. When engaged in job placement or 
+retention services (e.g., coordinating accommodations, training staff, developing natural supports), 
+CRCs/CCRCs respect clients’ privacy rights by providing only necessary job-relevant information about the 
+person with the disability to parties that have a need to know. 
+ 
+g. EXPLANATION OF LIMITATIONS. At initiation and as needed throughout the counseling process, 
+CRCs/CCRCs inform clients of the limitations of confidentiality and seek to identify foreseeable situations in 
+which confidentiality must be breached. 
+ 
+B.2. EXCEPTIONS 
+ 
+a. SERIOUS OR FORESEEABLE HARM AND LEGAL REQUIREMENTS. The general requirement that 
+CRCs/CCRCs keep information confidential does not apply when disclosure is required to protect clients or 
+identified third parties from serious and foreseeable harm or when legal requirements demand that 
+confidential information must be revealed. CRCs/CCRCs assess the risk of harm to the client or others 
+(e.g., suicidal or homicidal ideation/intent/plan), prior to breaking confidentiality. CRCs/CCRCs must be 
+aware of and adhere to standards and laws that govern confidentiality. CRCs/CCRCs are bound by the 
+principles of duty to warn and mandated reporting. CRCs/CCRCs utilize supervision, ethical decision-
+making models, and consultation with other professionals when in doubt as to the validity of an exception. 
+ 
+b. COMMUNICABLE, LIFE-THREATENING DISEASES. When clients disclose that they have been 
+diagnosed with a communicable and potentially life-threatening disease, CRCs/CCRCs may be justified in 
+disclosing information to an identifiable third party without consent if they are known to be at demonstrable 
+and high risk of contracting the disease. Prior to making a disclosure, CRCs/CCRCs confirm the diagnosis 
+and assess the intent of clients to inform the third parties about the disease or to engage in any behaviors 
+that may be harmful to identifiable third parties. CRCs/CCRCs are expected to be aware of and adhere to 
+standards and laws concerning disclosure about disease status and seek consultation as needed.
+
+10 
+ 
+c. COURT-ORDERED DISCLOSURE. When subpoenaed by a judge or served a court-order to release 
+confidential or privileged information, CRCs/CCRCs understand that subpoenas are part of the court’s legal 
+process and comply with the subpoena or court order. CRCs/CCRCs inform their clients of the subpoena or 
+order and attempt to minimize potential negative impact from the release of information on the client-
+counselor relationship. If the subpoena is from someone other than a judge (e.g., attorney representative in 
+a legal matter), CRCs/CCRCs inform clients and assess potential harm to clients or the counseling 
+relationship before releasing the information. CRCs/CCRCs are responsible to ensure they have the 
+appropriately signed client release forms and only share appropriately requested information. When in 
+doubt to the appropriate response to a subpoena, CRCs/CCRCs consult with appropriate legal and ethical 
+authorities. When release of raw assessment data is requested, refer to Standard H.2.b. 
+ 
+d. MINIMAL DISCLOSURE. When circumstances require the disclosure of confidential information, 
+CRCs/CCRCs clarify the nature of information being requested and ensure only required information is 
+disclosed. Following disclosure of confidential information, CRCs/CCRCs work to preserve the counseling 
+relationship. 
+ 
+B.3. INFORMATION SHARED WITH OTHERS 
+ 
+a. WORK ENVIRONMENT. CRCs/CCRCs avoid casual conversation about clients in the work environment 
+to protect privacy and confidentiality of clients’ information and records are maintained by employees, 
+supervisees, students, clerical assistants, and volunteers. 
+ 
+b. INTERDISCIPLINARY TEAMS. When services provided by CRCs/CCRCs to clients involve the sharing 
+of their information among team members, clients are advised of this fact during the professional disclosure 
+process and are informed of the team’s existence and composition. 
+ 
+c. OTHER SERVICE PROVIDERS. When CRCs/CCRCs learn that clients have an ongoing professional 
+relationship with another CRC/CCRC-treating professional or community partners from another agency, 
+they obtain a signed authorization prior to releasing confidential information. File review, second-opinion 
+services and other indirect services are not considered an ongoing professional relationship. 
+ 
+d. CLIENT ASSISTANTS. Clients have the right to decide who can be present as client assistants (e.g., 
+interpreter, personal care assistant, advocates). When clients choose to have assistants present, clients are 
+informed that CRCs/CCRCs cannot guarantee that assistants will maintain confidentiality. CRCs/CCRCs 
+impress upon assistants the importance that CRCs/CCRCs discuss the concern with the client. If the 
+concern is not resolved, CRCs/CCRCs may consider termination and referral. 
+ 
+e. CONFIDENTIAL SETTINGS. CRCs/CCRCs ensure client privacy when discussing confidential 
+information, consider limits to confidentiality, and only discuss confidential information in settings in which 
+they can reasonably ensure client privacy. 
+ 
+f. THIRD-PARTY PAYERS. CRCs/CCRCs disclose information to third-party payers only when clients have 
+authorized such disclosure, unless otherwise required by law. 
+ 
+g. DECEASED CLIENTS. CRCs/CCRCs protect the confidentiality of deceased clients as consistent with 
+laws, organizational policies, and documented preferences of clients. 
+ 
+h. TRANSMITTING CONFIDENTIAL INFORMATION. CRCs/CCRCs take necessary precautions to ensure 
+client confidentiality of information transmitted electronically when using a computer, e-mail, fax, telephone, 
+text message, voicemail, answering machines, or any other virtual or electronic means. See Section K.3. for 
+additional guidance. 
+ 
+i. DISCLOSURE TO REFERRAL SOURCES. CRCs/CCRCs adhere to appropriate disclosure of 
+confidential information to referral sources and other professionals providing services on the same case.
+
+11 
+CRCs/CCRCs do not intentionally withhold or omit information that would cause the facts to be 
+misinterpreted or distorted. 
+ 
+B.4. GROUPS AND FAMILIES 
+ 
+a. GROUP WORK. In group work, whether in-person or using electronic formats, CRCs/CCRCs assist 
+members in developing individual goals and respect group members as equal partners in the group 
+experience. CRCs/CCRCs state their expectation that all members maintain confidentiality for each 
+individual and the group. CRCs/CCRCs also advise group members of the limitations of confidentiality and 
+that confidentiality by other group members cannot be guaranteed. 
+ 
+b. COUNSELING COUPLES AND FAMILY. In couples and family counseling, CRCs/CCRCs clearly define 
+who the clients are and discuss expectations and limitations of confidentiality. CRCs/CCRCs seek 
+agreement concerning each individual’s right to confidentiality and document in writing such agreements 
+among all involved parties having the capacity to give consent. CRCs/CCRCs clearly define whether they 
+share or do not share information with family members that is privately and/or individually communicated to 
+CRCs/CCRCs. When engaging in couples and family counseling, CRCs/CCRCs practice only within the 
+boundaries of their competence, as indicated in Standard E.1.a. 
+ 
+B.5. RESPONSIBILITY TO CLIENTS LACKING CAPACITY TO CONSENT 
+ 
+a. RESPONSIBILITY TO CLIENTS. When counseling minors or persons who are unable to give consent, 
+voluntary assent is sought. CRCs/CCRCs protect the confidentiality of information received in the 
+counseling relationship, in any format, as specified by law, written policies, and applicable ethical standards. 
+ 
+b. RESPONSIBILITY TO LEGAL GUARDIANS AND PARENTS. CRCs/CCRCs inform legal guardians, 
+including parents who are legal guardians, about the role of CRCs/CCRCs and the confidential nature of the 
+services provided, as consistent with current legal and custodial arrangements. CRCs/CCRCs are sensitive 
+to the diversity of families and respect the inherent rights and responsibilities of parents/guardians regarding 
+the welfare of their children/dependents according to the law. CRCs/CCRCs work to establish, as 
+appropriate, collaborative relationships with legal guardians to best serve clients. 
+ 
+c. RELEASE OF CONFIDENTIAL INFORMATION. When working with minors or persons who lack the 
+capacity to give voluntary informed consent to the release of confidential information, CRCs/CCRCs obtain 
+written permission from legal guardians or legal power of attorney to disclose the information. In cases 
+where there is no legal guardian or legal power of attorney, CRCs/CCRCs engage in an ethical decision-
+making process to determine appropriate action. In such instances, CRCs/CCRCs inform clients consistent 
+with their level of understanding and take culturally appropriate measures to safeguard client confidentiality. 
+ 
+B.6. RECORDS AND DOCUMENTATION 
+ 
+a. REQUIREMENT OF RECORDS AND DOCUMENTATION. CRCs/CCRCs include sufficient and timely 
+documentation in the records of their clients to facilitate the delivery and continuity of needed services. 
+CRCs/CCRCs ensure that documentation in records accurately reflects progress and services provided to 
+clients. If errors are made in records, CRCs/CCRCs take steps to properly note the correction of such errors 
+according to organizational policies. 
+ 
+b. CONFIDENTIALITY OF RECORDS AND DOCUMENTATION. CRCs/CCRCs make reasonable efforts to 
+ensure that records and documentation, in any format, are kept in a secure location and that only authorized 
+persons have access to the records. 
+ 
+c. CLIENT ACCESS. CRCs/CCRCs provide reasonable access to copies of records, including billing 
+records, when requested by clients or their legal representatives, unless prohibited by law. In situations 
+involving multiple clients, CRCs/CCRCs provide individual clients with only those parts of records that relate 
+directly to them and do not include confidential information related to any other client. When records may be
+
+12 
+sensitive, confusing, or detrimental to clients, CRCs/CCRCs have a responsibility to exercise judgment 
+regarding the timing and manner in which the information is shared and to educate clients regarding such 
+information. When CRCs/CCRCs are in possession of records from other sources, they refer clients back to 
+the original sources to obtain copies of those records. 
+ 
+d. DISCLOSURE OR TRANSFER. Unless exceptions to confidentiality exist, CRCs/CCRCs obtain written 
+permission from clients to disclose or transfer records to legitimate third parties who have an identified role 
+in the case. CRCs/CCRCs make reasonable efforts to ensure that recipients of records are sensitive to their 
+confidential nature. 
+ 
+e. STORAGE AND DISPOSAL AFTER TERMINATION. CRCs/CCRCs store records of their clients 
+following termination of services to ensure reasonable future access. CRCs/CCRCs maintain records in 
+accordance with organizational policies and laws, including licensure laws and policies governing records. 
+CRCs/CCRCs dispose of records and other sensitive materials in a manner that protects client 
+confidentiality. CRCs/CCRCs apply careful discretion and deliberation before destroying records that may 
+be needed by a court of law (e.g., notes on child abuse, suicide, sexual harassment, violence). 
+ 
+f. REASONABLE PRECAUTIONS. CRCs/CCRCs take reasonable precautions to protect the confidentiality 
+of clients in the event of disaster or termination of practice, incapacity, or death of the CRC/CCRC. 
+CRCs/CCRCs appoint a records custodian when appropriate. 
+ 
+B.7. CASE CONSULTATION 
+ 
+a.  DISCLOSURE OF CONFIDENTIAL INFORMATION. When consulting with colleagues outside the 
+rehabilitation team, CRCs/CCRCs do not disclose confidential information that reasonably could lead to the 
+identification of clients or other persons or organizations with whom they have a confidential relationship, 
+unless they have obtained the prior written consent of the persons or organizations or when the disclosure 
+cannot be avoided. They disclose information only to the extent necessary to achieve the purpose of the 
+consultation. 
+ 
+b.  RESPECT FOR PRIVACY. CRCs/CCRCs share information in a consulting relationship for professional 
+purposes only with persons directly involved with the case. Written and oral reports presented by 
+CRCs/CCRCs contain only data germane to the purpose of the consultation, and every effort is made to 
+protect the identity of clients and to avoid undue invasion of privacy. 
+ 
+c.  CONFIDENTIALITY IN CONSULTATION. CRCs/CCRCs seeking and/or providing consultation obtain 
+agreement among the parties involved concerning each individual’s right to confidentiality, the obligation of 
+each individual to preserve confidential information, and the limits of confidentiality of information shared by 
+others. 
+ 
+ 
+SECTION C: ADVOCACY AND ACCESSIBILITY 
+ 
+INTRODUCTION 
+CRCs/CCRCs are aware of and sensitive to the needs of individuals with disabilities and recognize that 
+individuals with disabilities are disproportionately represented in communities of color and are more likely to 
+experience poverty, homelessness, trauma, systemic racism, and other adversities. CRCs/CCRCs 
+advocate at individual, group, institutional, professional, and societal levels to (1) promote opportunity and 
+access; (2) improve the quality of life for individuals with disabilities; (3) remove potential barriers (e.g., 
+societal, institutional, environmental) to the provision of or access to services; (4) address stigma; (5) foster 
+systems change when appropriate, and (6) promote diversity, equity, inclusion, and belonging, while 
+maintaining an awareness of the intersectionality of client identities throughout their advocacy efforts.
+
+13 
+C.1. ADVOCACY 
+ 
+a. ATTITUDINAL BARRIERS. CRCs/CCRCs recognize and address attitudinal barriers in applicable 
+settings (e.g., employment, educational, health care, community inclusion) that inhibit the growth and 
+development of their clients, including stigma, stereotyping, and discrimination. 
+ 
+b. SELF ADVOCACY AND GUARDIANSHIP. CRCs/CCRCs empower clients, parents, or legal guardians 
+by providing appropriate information to facilitate their self-advocacy actions whenever possible. 
+CRCs/CCRCs work with clients, parents, or legal guardians to support understanding of their rights and 
+responsibilities and encourage them to speak for themselves and make informed decisions. When 
+appropriate and with the consent of a client, parent, or legal guardian, CRCs/CCRCs act as advocates on 
+behalf of that client at the local, regional, and/or national levels. To better support clients, CRCs/CCRCs are 
+familiar with guardianship and the range of alternatives available to clients and their support systems (e.g., 
+supported decision-making). 
+ 
+c. EMPOWERING THE CLIENT. CRCs/CCRCs work to ensure the voice of the client is heard, valued, and 
+given full consideration by supporting informed choice and client engagement in decision-making and 
+treatment planning. CRCs/CCRCs foster self-advocacy skills of clients to achieve maximum independence. 
+ 
+d. ORGANIZATIONAL AND SYSTEM ADVOCACY. CRCs/CCRCs consider how actions taken by their 
+own organization, as well as cooperating organizations impact clients. To ensure effective service delivery, 
+CRCs/CCRCs act as advocates for clients who cannot self-advocate. CRCs/CCRCs make reasonable 
+efforts to partner with client groups and community members to address environmental and systemic issues 
+and to combat ableism and systems of oppression across policies, procedures, and practices. See M.2.f. 
+ 
+e. ADEQUACY OF SERVICES. CRCs/CCRCs advocate for a client-to-professional ratio and length of 
+service that are sufficient to allow for a thorough and effective provision of services to meet the needs of the 
+client. 
+ 
+f. ADVOCACY AND CONSENT. CRCs/CCRCs obtain client consent prior to engaging in advocacy efforts 
+on behalf of a client to improve the provision of services and to work toward removal of systemic barriers or 
+obstacles that inhibit client access, growth, and development. 
+ 
+g. ADVOCACY AND CONFIDENTIALITY. When engaging in advocacy on behalf of clients, should 
+circumstances require the disclosure of confidential information, CRCs/CCRCs obtain and document 
+consent from the client and disclose only minimal information. CRCs/CCRCs advocate for systems and 
+policy change when privacy and confidentiality rights are infringed upon. 
+ 
+h. AREAS OF KNOWLEDGE AND COMPETENCY. CRCs/CCRCs are knowledgeable about systems and 
+laws, as well as organizational policies and how they affect access to employment, education, 
+transportation, housing, civil rights, financial benefits, medical services, and mental health services for 
+individuals with disabilities. CRCs/CCRCs keep current with changes in these areas in order to advocate 
+effectively for clients and/or to facilitate self-advocacy of clients in these areas. 
+ 
+i. KNOWLEDGE OF BENEFIT SYSTEMS. CRCs/CCRCs are aware that disability benefit systems directly 
+affect the quality of life of clients as well as clients’ motivation and interest in pursuing personal, career, and 
+independent living goals. CRCs/CCRCs provide accurate and timely information and resources to 
+individuals (and their support network), including referral to appropriate experts, so that informed decisions 
+can be made. 
+ 
+C.2. ACCESSIBILITY 
+ 
+a. ACCOMMODATIONS. To address the barriers encountered by individuals with disabilities and ensure 
+fair and equitable access to personal, career, and independent living goals, CRCs/CCRCs facilitate the 
+provision of necessary, appropriate, and reasonable accommodations in accordance with the law.
+
+14 
+b. REFERRAL ACCESSIBILITY. CRCs/CCRCs make reasonable efforts to refer clients only to programs, 
+facilities, or employment settings that are appropriately accessible (including multicultural responsiveness) 
+and that do not condone or engage in the prejudicial treatment of an individual or group based on their 
+actual or perceived membership in a particular group, class, or category. 
+ 
+c. BARRIERS TO SERVICES. CRCs/CCRCs collaborate with clients and/or other stakeholders to identify 
+and develop a plan to address physical, programmatic, structural, attitudinal, or technological barriers to 
+service and to ensure fair and equitable access to service. 
+ 
+d. BARRIERS TO COMMUNITY INCLUSION. CRCs/CCRCs promote the welfare of individuals with 
+disabilities to maximize their potential for community integration. They engage in community collaboration 
+when feasible to address systemic barriers to fair and equitable access, participation, and inclusion into the 
+social, cultural, and economic life of the community. 
+ 
+ 
+SECTION D: MULTICULTURAL CONSIDERATIONS 
+ 
+INTRODUCTION 
+The Code incorporates an advanced exploration of professional multicultural considerations for 
+CRCs/CCRCs. These standards seek to reduce bias, minimize discrimination, and prevent harm. 
+CRCs/CCRCs work in partnership with a range of diverse clients to individualize rehabilitation counseling 
+services and to promote client welfare in the progression toward their personal, career, educational, and 
+independent living goals. CRCs/CCRCs consider multicultural competencies when working with clients from 
+diverse racial, cultural, and ethnic groups. This section features the attitudes and behaviors of a 
+multiculturally competent CRCs/CCRCs who maintain an awareness of self and others. Furthermore, the 
+section describes the ethical responsibility of CRCs/CCRCs to exhibit cultural knowledge and skills aligned 
+with the core values of the profession. 
+ 
+D.1. STRENGTHENING THE MULTICULTURAL COUNSELING RELATIONSHIP 
+ 
+a. ESTABLISHING CONSTRUCTIVE MULTICULTURAL COUNSELING RELATIONSHIPS. Given that 
+trust and professional competence are essential to establishing positive multicultural counseling 
+relationships, CRCs/CCRCs are expected to be aware that professional relationships may be impacted by 
+cultural differences that exist between CRCs/CCRCs and the client, including but not limited to protected 
+identities. 
+ 
+b. IMPACT OF CLIENT INTERSECTIONALITY/IDENTITY. CRCs/CCRCs consider the influence of a 
+client’s intersectionality across each stage of the rehabilitation counseling process, recognizing that diverse 
+cultural identities may experience multiple forms of oppression, which may overlap and influence the 
+efficacy of services. CRCs/CCRCs select modalities that are culturally relevant and appropriate. 
+ 
+c. AWARENESS OF CLIENT WORLDVIEW. CRCs/CCRCs have a professional responsibility to 
+understand that awareness of the client’s worldview increases service effectiveness and positively 
+influences rehabilitation outcomes. CRCs/CCRCs are aware of their own cultural background, experiences, 
+sociopolitical position in relation to power, privilege, and oppression and in relation to the client or client 
+communities. CRCs/CCRCs are expected to prevent biases from interfering with the counseling process. 
+CRCs/CCRCs prioritize the client’s lived experiences and protected identities to best select culturally 
+sensitive intervention strategies to increase overall effectiveness. 
+ 
+d. INTERVENTIONS. CRCs/CCRCs use, develop, or adapt interventions and services that consider clients’ 
+cultural perspectives. CRCs/CCRCs recognize barriers external to clients that may impact effective 
+rehabilitation outcomes.
+
+15 
+D.2. AVOIDING HARM AND VALUE IMPOSITION 
+ 
+a. AVOIDING HARMFUL MULTICULTURAL SERVICE PROVISION. CRCs/CCRCs recognize that 
+personal values and dispositions (attitudes, beliefs, stereotypes, and behaviors) have the potential to impact 
+interactions with diverse clients. CRCs/CCRCs do not impose their values and dispositions on their clients. 
+CRCs/CCRCs recognize that prejudice is antithetical to the rehabilitation counseling philosophy and 
+profession. 
+ 
+b. AVOIDING MICROAGGRESSION. CRCs/CCRCs recognize that microaggressions have historically 
+occurred against marginalized/protected identity groups, as well as against individuals with disabilities. 
+CRCs/CCRCs treat all people with dignity and respect. They are expected to be aware of and avoid 
+microaggressions that potentially disrupt the efficacy of the counseling relationship and communicate 
+negative attitudes. 
+ 
+c. IMPLICIT BIAS. CRCs/CCRCs recognize that implicit biases can influence service conditions for clients 
+and contribute to institutional inequalities and structural barriers to service delivery. CRCs/CCRCs are 
+expected to engage in activities that include but are not limited to supervision, consultation, and training to 
+identify their own biases and improve self-awareness. 
+ 
+d. RECOGNITION AND RESPECT OF CLIENT VALUES. CRCs/CCRCs identify responsible approaches 
+that safeguard against value imposition and refrain from attempts to influence the client to conform to the 
+values, attitudes, and beliefs of CRCs/CCRCs. 
+ 
+D.3. PERSONAL AND PROFESSIONAL DEVELOPMENT AND CULTURAL COMPETENCE 
+ 
+a. PERSONAL AWARENESS. CRCs/CCRCs recognize the potential impact of their own cultural 
+background on the working alliance and maintain an awareness of multicultural competency. CRCs/CCRCs 
+assess their own cultural competence and practices that integrate culture-specific awareness, knowledge, 
+and skills into counseling interactions. CRCs/CCRCs work to improve the parameters of their current 
+personal awareness of multicultural differences gained through education, training, and supervised 
+experience. 
+ 
+b. ANTIRACISM. CRCs/CCRCs are expected to understand that antiracism is foundational to the efficacy 
+of the counseling relationship. CRCs/CCRCs do not exhibit racist attitudes and behaviors. They seek 
+diverse perspectives and work to challenge policies and practices that maintain the oppression of 
+marginalized racial groups. When possible, CRCs/CCRCs work to create change to allow full adherence to 
+the Code. (See C.1.d and M.2.f.) 
+ 
+c. SOCIAL JUSTICE. CRCs/CCRCs are expected to understand the client’s personal experience, cultural 
+background, the client’s awareness of and personal commitment to social justice, as well as the impact of 
+social justice on rehabilitation services outcomes. 
+ 
+d. CULTURAL HUMILITY. CRCs/CCRCs use cultural humility as an approach to address imbalance in 
+client-provider power dynamics that include an openness to consider other perspectives. 
+ 
+e. USE OF AFFIRMING LANGUAGE. CRCs/CCRCs recognize the evolving nature of language related to 
+identity. CRCs/CCRCs use sensitive and affirming language that is aligned with the client’s preference (e.g., 
+person-first, identity-first, pronouns). CRCs/CCRCs actively increase their skills in using affirming language. 
+ 
+f. AVOIDING DISCRIMINATION. CRCs/CCRCs do not engage in any activity deemed oppressive, 
+including but not limited to concepts of ableism, racism, nativism, classism, sexism, heterosexism, and 
+cisgenderism. CRCs/CCRCs do not allow internalized homophobia, biphobia, or transphobia to influence 
+service provision.
+
+16 
+g. SERVING RELIGIOUS CULTURES. CRCs/CCRCs build a working alliance based on understanding, 
+respect, and support for their clients’ spiritual and religious beliefs (or absence of beliefs). CRCs/CCRCs 
+recognize the client’s worldview and influence are central to their psychosocial functioning. 
+ 
+D.4. DIVERSITY, EQUITY, AND BELONGING IN COWORKER RELATIONSHIPS 
+ 
+CRCs/CCRCs promote diversity, equity, and belonging within coworker relationships and professional 
+settings. CRCs/CCRCs maintain and enhance inclusive work environments to avoid negative indirect 
+influences on client outcomes. CRCs/CCRCs foster good working relationships by promoting trust, respect, 
+self-awareness, and open communication. CRCs/CCRCs are committed to minimizing barriers to 
+opportunity for diverse colleagues. 
+ 
+ 
+SECTION E: PROFESSIONAL RESPONSIBILITY 
+ 
+INTRODUCTION 
+CRCs/CCRCs aspire to open, honest, and accurate communication in dealing with other professionals and 
+the public. CRCs/CCRCs facilitate access to rehabilitation counseling services, practice in a 
+nondiscriminatory manner within the boundaries of professional and personal competence, and have a 
+responsibility to abide by the Code. CRCs/CCRCs actively participate in professional associations and 
+organizations that foster the development and improvement of the profession in order to improve the quality 
+of life for individuals with disabilities. CRCs/CCRCs have a responsibility to the public to engage in practices 
+that are based on accepted research methodologies and evidence-based practices. They are encouraged 
+to contribute to society by devoting a portion of their professional activity to services for which there is little 
+or no financial return (pro bono publico). In addition, CRCs/CCRCs engage in self-care activities to maintain 
+and promote their own emotional, physical, mental, and spiritual well-being to best meet their professional 
+responsibilities. They advocate for hiring practices that promote the hiring of CRCs/CCRCs. CRCs/CCRCs 
+advocate for the profession by educating other disciplines and institutions about their scope of practice and 
+unique qualifications to serve individuals with disabilities, taking reasonable action to obtain parity, 
+recognition, and inclusion. 
+ 
+E.1. PROFESSIONAL COMPETENCE 
+ 
+a. BOUNDARIES OF COMPETENCE. CRCs/CCRCs practice only within the boundaries of their 
+competence, based on their education, training, supervised experience, professional credentials, and 
+appropriate professional experience. CRCs/CCRCs do not misrepresent their competence to clients or 
+others. 
+ 
+b. NEW SPECIALTY AREAS OF PRACTICE. CRCs/CCRCs transitioning into specialty areas requiring 
+new core competencies begin practicing only after having obtained appropriate consultation, education, 
+training, and/or supervised experience. While developing skills in new specialty areas, CRCs/CCRCs make 
+reasonable efforts to ensure the competence of their work and to protect clients from possible harm. 
+ 
+c. EMPLOYMENT QUALIFICATIONS. CRCs/CCRCs accept employment only for positions for which they 
+are qualified by education, training, supervised experience, professional credentials, and appropriate 
+professional experience. CRCs/CCRCs hire individuals for rehabilitation counseling positions who are 
+qualified and competent for those positions. 
+ 
+d. AVOIDING HARM. CRCs/CCRCs act to avoid harming clients, students, employees, supervisees, and 
+research participants and to minimize or to remedy unavoidable or unanticipated harm. 
+ 
+e. DELEGATION. When delegating work to employees, supervisees, research or teaching assistants, or 
+when utilizing the services of others (e.g., interpreters), CRCs/CCRCs (1) authorize only those 
+responsibilities that such persons can be expected to perform competently on the basis of their education,
+
+17 
+training, or experience, either independently or with the level of supervision being provided; and (2) see that 
+such persons perform these services competently and ethically. 
+ 
+f. MONITORING EFFECTIVENESS. CRCs/CCRCs continually monitor their effectiveness as professionals 
+and, when necessary, take steps to improve performance through supervision, consultation, peer 
+supervision, or input from other sources. 
+ 
+g. CONTINUING EDUCATION. CRCs/CCRCs recognize the need for continuing education to acquire and 
+maintain a reasonable level of awareness of current scientific and professional information in their fields of 
+activity. They maintain their competence in the skills they use, are open to new procedures, and keep 
+current with professional and community resources for diverse and specific populations with which they 
+work. CRCs/CCRCs need to remain current with developments in evidence-based practices. 
+  
+E.2. FUNCTIONAL COMPETENCE 
+ 
+a. IMPAIRMENT. CRCs/CCRCs are alert to the signs of impairment due to their own health issues or 
+personal circumstances and refrain from offering or providing professional services when such impairment 
+is likely to harm clients or others. They seek assistance for problems that reach the level of professional 
+impairment, and, if necessary, they limit, suspend, or terminate their professional responsibilities until it is 
+determined they may safely resume their work. When CRCs/CCRCs have knowledge of the unethical 
+conduct of another CRCs/CCRCs, they attempt to rectify the situation. CRCs/CCRCs bring unethical 
+activities to the attention of the appropriate state licensing board and/or appropriate ethics committee. 
+ 
+b. CONTINGENCY PLANNING AND RESPONSE. CRCs/CCRCs plan for continued client services in the 
+event that rehabilitation counseling services are interrupted by disaster, such as acts of violence, terrorism, 
+natural disaster, or public health crises. 
+ 
+E.3. PROFESSIONAL CREDENTIALS 
+ 
+a. ACCURATE REPRESENTATION. CRCs/CCRCs provide accurate and credible information about their 
+credentials. CRCs/CCRCs claim or imply only the professional qualifications they have completed and 
+correct any known misrepresentations of their qualifications by others. CRCs/CCRCs do not use any 
+abbreviation or statement in any form, whether it be written or spoken, to imply the attainment of a 
+credential they do not currently possess. They truthfully represent themselves and their professional 
+colleagues regarding their education, training, licenses, certifications, or other evidence of competence. 
+ 
+b. CREDENTIALS. CRCs/CCRCs claim only licenses or certifications that are current and in good standing. 
+ 
+c. IMPLYING DOCTORAL-LEVEL COMPETENCE. CRCs/CCRCs refer to themselves as “doctor” in a 
+counseling context only when their degree is an earned doctorate in rehabilitation counseling or a closely 
+related field from an accredited university. CRCs/CCRCs clearly differentiate between earned and honorary 
+degrees. If CRCs/CCRCs have a doctoral-level degree in an unrelated field, they clearly state the field in 
+which the doctoral degree was earned. 
+ 
+E.4. RESPONSIBILITY TO THE PUBLIC AND OTHER PROFESSIONALS 
+ 
+a. HARASSMENT. CRCs/CCRCs do not condone or participate in harassment of any type. 
+ 
+b. REPORTS TO THIRD PARTIES. CRCs/CCRCs are accurate, honest, and objective in reporting their 
+professional activities and judgments to authorized third parties (e.g., courts, insurance companies, 
+recipients of evaluation reports). 
+ 
+c. PRESENTATIONS. When CRCs/CCRCs provide advice or commentary by means of public lectures, 
+demonstrations, radio or television programs, recordings, technology-based applications, printed articles, 
+mailed material, or other media, they ensure that (1) the statements are based on appropriate professional
+
+18 
+literature and practice; (2) the statements are otherwise consistent with the Code; and (3) it is clear that a 
+professional counseling relationship does not exist – i.e., CRCs/CCRCs are clear in disclosing any actual or 
+perceived conflicts of interest. 
+ 
+d. PROFESSIONAL STATEMENTS. When making professional statements in a public context, regardless 
+of media or forum, CRCs/CCRCs clearly identify whether the statements represent individual perspectives 
+or the position of the profession or any professional organizations with which they may be affiliated. 
+ 
+e. EXPLOITATION OF OTHERS. CRCs/CCRCs do not exploit others in their professional relationships to 
+seek or receive unjustified personal gains, sexual favors, unfair advantages, or goods or services. 
+ 
+f. CONFLICT OF INTEREST. CRCs/CCRCs recognize their own personal or professional relationships may 
+interfere with their ability to practice ethically and professionally. Under such circumstances, CRCs/CCRCs 
+are obligated to decline participation or to limit their assistance in a manner consistent with professional 
+obligations. CRCs/CCRCs identify, make known, and address real or apparent conflicts of interest in an 
+attempt to maintain the public confidence and trust, discharge professional obligations, and maintain 
+responsibility, impartiality, and accountability. 
+ 
+g. VERACITY. CRCs/CCRCs do not engage in any act or omission of a dishonest, deceitful, or fraudulent 
+nature in the conduct of their professional activities. CRCs/CCRCs only take credit for work they have 
+performed and, when using the work of others, ensure that appropriate credit is provided. 
+ 
+h. DISPARAGING REMARKS. Whether in-person or via electronic means (e.g., virtual, online), 
+CRCs/CCRCs do not disparage individuals or groups of individuals. CRCs/CCRCs refer to clients and 
+colleagues with whom they work with professionalism, courtesy, and respect. 
+ 
+E.5. SCIENTIFIC BASIS FOR INTERVENTIONS 
+ 
+a. ACCEPTABLE PRACTICES. CRCs/CCRCs use techniques, procedures, modalities, and interventions 
+that are grounded in theory and/or have an empirical or scientific foundation. 
+ 
+b. SELECTING CULTURALLY APPROPRIATE INTERVENTON STRATEGIES. CRCs/CCRCs identify 
+and select culturally appropriate interventions that provide relevant and competent services to diverse 
+populations. 
+ 
+c. NEW OR NOVEL PRACTICES. When CRCs/CCRCs use new or novel 
+techniques/procedures/modalities/interventions, they explain to clients any related potential risks, benefits, 
+and ethical considerations. CRCs/CCRCs work to minimize any potential risks or harm when using these 
+techniques/procedures/modalities/interventions. CRCs/CCRCs ensure they are professionally qualified to 
+use new techniques/procedures/modalities/interventions. 
+ 
+d. HARMFUL PRACTICES. CRCs/CCRCs do not use techniques/procedures/modalities/interventions 
+when evidence suggests the likelihood of harm, even if such services are requested. They advocate within 
+their agency or organization to avoid the use of these interventions. 
+ 
+e. CREDIBLE RESOURCES. CRCs/CCRCs make reasonable efforts to ensure the resources used or 
+accessed in rehabilitation counseling are current and valid (e.g., internet sites, mobile applications, books).
+
+19 
+SECTION F: RELATIONSHIPS WITH OTHER PROFESSIONALS  
+AND EMPLOYERS 
+ 
+INTRODUCTION 
+CRCs/CCRCs recognize the quality of interactions with colleagues can influence the quality of services 
+provided to clients. They work to become knowledgeable about the role of other professionals within and 
+outside the profession. CRCs/CCRCs are respectful of approaches to counseling services that differ from 
+their own and of traditions and practices of other professional groups with which they work. CRCs/CCRCs 
+develop positive working relationships and systems of communication with colleagues to enhance services 
+to clients. CRCs/CCRCs are committed to the equal treatment of all individuals. They secure employment in 
+settings that support and uphold the ethical standards outlined in the Code. They attempt to reach 
+agreements with employers as to acceptable standards of client care and professional conduct that allow for 
+changes in employer policies that are conducive to the growth and development of clients. 
+ 
+F.1. RELATIONSHIPS WITH COLLEAGUES, EMPLOYERS, AND EMPLOYEES 
+ 
+a. PROFESSIONAL COURTESY/CONSIDERATION. CRCs/CCRCs are respectful of approaches that are 
+grounded in theory and/or have an empirical or scientific foundation but may differ from their own. 
+CRCs/CCRCs acknowledge the expertise of other professional groups and are respectful of their practices. 
+CRCs/CCRCs do not question the competency or ethics of other professionals or agencies in discussions 
+with their clients unless it is done to protect the client’s safety and well-being and is documented. 
+ 
+b. NEGATIVE EMPLOYMENT CONDITIONS. CRCs/CCRCs alert their employer of unethical policies and 
+practices. They attempt to effect changes in such policies or procedures through constructive action within 
+their organization. When such policies are inconsistent with the Code, potentially disruptive, damaging to 
+clients, and/or limit the effectiveness of services provided, CRCs/CCRCs take necessary action if change 
+cannot be affected. Such action may include referral to appropriate certification, accreditation, or licensure 
+organizations. Ultimately, voluntary termination of employment may be the necessary action. 
+ 
+c. PROTECTION FROM PUNITIVE ACTION AND RETALIATION. Whether in an employee or supervisory 
+role, CRCs/CCRCs take care not to dismiss, threaten, or otherwise retaliate against employees who have 
+acted in a responsible and ethical manner to expose inappropriate employer policies or practices, Code 
+violations, or suspected Code violations. 
+ 
+d. PERSONNEL SELECTION AND ASSIGNMENT. CRCs/CCRCs select competent and appropriately 
+credentialed staff and assign responsibilities compatible with their education, skills, and experiences. 
+ 
+e. EMPLOYMENT PRACTICES. Whether as employers or employees, CRCs/CCRCs engage in legal and 
+ethical employment practices with regard to hiring, promoting, and training. 
+ 
+F.2. ORGANIZATION AND TEAM RELATIONSHIPS 
+ 
+a. TEAMWORK. CRCs/CCRCs who are members of interdisciplinary teams delivering multifaceted services 
+to clients must keep the focus on how to serve clients best. They participate in and contribute to decisions 
+that affect the well-being of clients by drawing on the perspectives, values, and experiences of their 
+profession and those of colleagues from other disciplines. CRCs/CCRCs promote mutual understanding of 
+rehabilitation plans by all team members cooperating in the rehabilitation of clients. 
+ 
+b. TEAM DECISION-MAKING. CRCs/CCRCs implement team decisions in rehabilitation plans and 
+procedures, even when not personally agreeing with such decisions, unless these decisions breach the 
+Code. When team decisions raise ethical concerns, CRCs/CCRCs first attempt to resolve the concerns 
+within the team. If they cannot reach resolution among team members, CRCs/CCRCs recuse themselves 
+and consider other approaches to address their concerns consistent with the well-being of clients.
+
+20 
+c. DOCUMENTATION. CRCs/CCRCs obtain necessary reports and evaluations only when essential for 
+rehabilitation planning and/or service delivery. 
+ 
+d. CLIENTS AS TEAM MEMBERS. CRCs/CCRCs make reasonable efforts to ensure that clients and/or 
+their legally authorized representatives are afforded the opportunity for full participation in decisions related 
+to the services they receive. Only those with a need to know are allowed access to the information of 
+clients, and only then upon a properly executed release of information request or receipt of a court order. 
+ 
+F.3. PROVISION OF CONSULTATION SERVICES 
+ 
+a. CONSULTATION. As consultants, CRCs/CCRCs only discuss information necessary to achieve the 
+purpose of the consultation. When engaging in formal and informal consultation, CRCs/CCRCs refrain from 
+discussing confidential information that reasonably could lead to the identification of a client unless client 
+consent has been obtained or the disclosure cannot be avoided. CRCs/CCRCs refrain from providing 
+consultation when they are engaged in a personal or professional role that compromises their ability to 
+provide effective assistance to clients. 
+ 
+b. CONSULTANT COMPETENCY. CRCs/CCRCs provide consultation only in areas in which they are 
+competent. They make reasonable efforts to ensure they have the appropriate resources and 
+competencies. CRCs/CCRCs provide appropriate referral resources when requested or needed. 
+ 
+c. INFORMED CONSENT IN FORMAL CONSULTATION. When providing formal consultation, 
+CRCs/CCRCs have an obligation to review, in writing and verbally, the rights, responsibilities, and roles of 
+both CRCs/CCRCs and consultees. CRCs/CCRCs use clear and understandable language to inform all 
+parties involved about the purpose of the services to be provided, relevant costs, potential risks and 
+benefits, and the limits of confidentiality. Working in conjunction with the consultees, CRCs/CCRCs attempt 
+to develop a clear definition of the problem, goals for change, and predicted consequences of interventions 
+that are culturally responsive and appropriate to the needs of consultees. 
+ 
+ 
+SECTION G: FORENSIC SERVICES 
+ 
+INTRODUCTION 
+ 
+CRCs/CCRCs in a forensic setting conduct reviews of records and/or evaluations and conduct research for 
+the purpose of providing unbiased and objective expert opinions via case consultation or testimony. 
+Although CRCs/CCRCs in a forensic setting may meet with the evaluee, they do not typically engage in 
+provision of direct rehabilitation counseling services. In a forensic practice setting, if CRCs/CCRCs engage 
+in direct rehabilitation counseling services, they must meet the requirements set forth in Standard G.1.c – 
+Role Changes. CRCs/CCRCs in a forensic setting take great care to produce unbiased, objective opinions 
+that are based on relevant data and methodologies appropriate to the review and /or evaluations. 
+CRCs/CCRCs in a forensic setting are mindful of the need to clearly outline fees, expense reimbursement, 
+conditions of services, terms of termination, and collection policies, which are often achieved through use of 
+a retainer agreement. 
+ 
+G.1. EVALUEE RIGHTS 
+ 
+a. PRIMARY OBLIGATIONS. CRCs/CCRCs in a forensic setting produce unbiased, objective opinions and 
+findings that can be substantiated by information and methodologies appropriate to the service being 
+provided, which may include evaluation, research, and/or review of records. CRCs/CCRCs in a forensic 
+setting form opinions based on their professional knowledge and expertise, which are supported by the 
+data. CRCs/CCRCs in a forensic setting define the limits of their opinions or testimony, especially when 
+there is no direct contact with an evaluee. CRCs/CCRCs in a forensic setting acting as consultants or expert 
+witnesses may or may not generate written documentation regarding involvement in a case.
+
+21 
+ 
+b. INFORMED CONSENT. When an evaluation is conducted, the evaluee is informed in writing the 
+relationship is for the purpose of an evaluation and that a report of findings may or may not be produced. 
+Written consent for an evaluation is obtained from the evaluee or the evaluee’s legally authorized 
+representative unless a court or legal jurisdiction orders an evaluation to be conducted without the written 
+consent of the evaluee or when an evaluee is deceased. If written consent is not obtained, CRCs/CCRCs in 
+a forensic setting document verbal consent and the reasons why obtaining written consent was not 
+possible. When a minor or person unable to give voluntary consent is evaluated, informed consent is 
+obtained from the evaluee’s legally authorized representative. 
+ 
+c. ROLE CHANGES. CRCs/CCRCs in a forensic setting carefully evaluate and document the risks and 
+benefits to evaluees before initiating role changes. When CRCs/CCRCs in a forensic setting change roles 
+from the original or most recent contracted relationship, they discuss the nature and implications of the role 
+changes with the evaluee, including possible risks and benefits (e.g., financial, legal, personal, therapeutic). 
+CRCs/CCRCs in a forensic setting seek written consent of the evaluee and their legal representative and 
+complete a new professional disclosure form with the evaluee, explaining the right to refuse services related 
+to the change, as well as the availability of alternate service providers. CRCs/CCRCs in a forensic setting 
+refrain from frequent and/or indiscriminate role changes. When changing roles more than one time, 
+CRCs/CCRCs in a forensic setting evaluate and document the risks and benefits of multiple changes.  
+ 
+d. CONSULTATION. CRCs/CCRCs in a forensic setting may act as case consultants. The role as a case 
+consultant may or may not be disclosed to other involved parties. When there is no intent to meet directly 
+with an evaluee, whether in person or using any other form of communication, professional disclosure is not 
+required for CRCs/CCRCs in a forensic setting. 
+ 
+G.2. FORENSIC COMPETENCY AND CONDUCT 
+ 
+a. OBJECTIVITY. CRCs/CCRCs in a forensic setting are aware of the standards governing their roles in 
+performing forensic services. CRCs/CCRCs in a forensic setting are aware of the occasionally competing 
+demands placed upon them by these standards and the requirements of the legal system. They attempt to 
+resolve these conflicts by making known their commitment to this Code and taking steps to resolve conflicts 
+in a responsible manner. The goal of CRCs/CCRCs in a forensic setting is to provide impartial findings to 
+the trier of fact regardless of the retaining parties’ interest in the outcome of a legal matter. 
+ 
+b. QUALIFICATION TO PROVIDE EXPERT TESTIMONY. CRCs/CCRCs in a forensic setting have an 
+obligation to present to finders of fact the boundaries of their competence, the factual bases (knowledge, 
+skill, experience, training, and education) for their qualifications as experts, and the relevance of those 
+factual bases to their qualifications as experts on the specific matters at issue. 
+ 
+c. AVOIDING POTENTIALLY HARMFUL RELATIONSHIPS. CRCs/CCRCs in a forensic setting who 
+provide forensic evaluations do not enter into potentially harmful professional or personal relationships with 
+current evaluees or their family members, romantic partners, and close friends. CRCs/CCRCs in a forensic 
+setting give careful consideration to the potential of sexual or romantic relationships to cause harm to former 
+evaluees. In cases where the former evaluee is at risk of potential exploitation and/or harm, CRCs/CCRCs 
+in a forensic setting avoid entering into such interactions or relationships. 
+ 
+d. VALIDITY OF RESOURCES CONSULTED. CRCs/CCRCs in a forensic setting ensure the resources 
+used or accessed in supporting opinions are valid, current, and cited.  
+ 
+e. FOUNDATION OF KNOWLEDGE. CRCs/CCRCs in a forensic setting have an obligation to maintain 
+current knowledge of scientific, professional, and legal developments within their area of competence. They 
+use knowledge, consistent with accepted clinical and scientific standards, and accepted data collection 
+methods and procedures for evaluation, treatment, consultation, or scholarly/empirical investigations.
+
+22 
+f. DUTY TO CONFIRM INFORMATION. Where circumstances reasonably permit, CRCs/CCRCs in a 
+forensic setting seek to obtain independent verification of data relied upon as part of their professional 
+services to the court or to parties to the legal proceedings. 
+ 
+g. REVIEW/CRITIQUE OF OPPOSING WORK PRODUCT. When evaluating or commenting upon the work 
+or qualifications of other professionals involved in legal proceedings, CRCs/CCRCs in a forensic setting 
+seek to represent their differences of opinion in a professional and respectful tone, and base their opinions 
+on an objective examination of the data, theories, standards, and opinions of the other experts or 
+professionals. 
+ 
+G.3. FORENSIC PRACTICES 
+ 
+a. CASE ACCEPTANCE AND INDEPENDENT OPINION. CRCs/CCRCs in a forensic setting have the right 
+to accept any referral within their area(s) of expertise. They decline involvement in cases when asked to 
+support predetermined positions, assume invalid representation of facts, alter their methodology or process 
+without foundation or compelling reasons, or when they have ethical concerns about the nature of the 
+requested assignments. 
+ 
+b. TERMINATION AND ASSIGNMENT TRANSFER. If it is necessary to withdraw from a case after having 
+been retained, CRCs/CCRCs in a forensic setting assist evaluees and/or referral sources in locating 
+another CRC/CCRC in a forensic setting to accept the assignment. 
+ 
+G.4. FORENSIC BUSINESS PRACTICES  
+ 
+a. PAYMENTS AND OUTCOME. CRCs/CCRCs in a forensic setting do not enter into financial agreements 
+that may compromise the quality of their services or otherwise raise questions as to their credibility. 
+CRCs/CCRCs in a forensic setting neither give nor receive commissions, rebates, contingency or referral 
+fees, gifts, or any other form of remuneration when accepting cases or referring evaluees for professional 
+services. Payment for services is never contingent on an outcome of a case or award. 
+ 
+b. FEE DISPUTES. Should fee disputes arise during the course of evaluating cases, CRCs/CCRCs in a 
+forensic setting have the right to discontinue their involvement. 
+ 
+ 
+SECTION H: ASSESSMENT AND EVALUATION 
+ 
+INTRODUCTION 
+CRCs/CCRCs use a comprehensive assessment process as an integral component of providing 
+individualized rehabilitation counseling services for their clients. While assessment is also associated with 
+the administration of tests, it is a broader process that goes well beyond gathering quantitative and 
+qualitative data from assessment instruments and other informal sources. The terms assessment and 
+evaluation may be used interchangeably within the profession. Evaluation is often referred to as a more 
+specific process intended to assess an individual within the context of his or her living, learning, educational, 
+or working environments. CRCs/CCRCs promote the well-being of clients or groups of clients by developing 
+and using assessment and evaluation methods that take into account the clients’ personal and cultural 
+context. 
+ 
+H.1. INFORMED CONSENT 
+ 
+a. EXPLANATION TO CLIENTS. CRCs/CCRCs explain the nature and purpose of the assessment or 
+evaluation process, the potential use of the results, and who will receive the results prior to initiating either 
+process. The explanation is given in the language and cognitive level of clients (or other legally authorized 
+persons on behalf of clients). Consent includes purpose of the evaluation, fees, involvement of third parties, 
+and limits of confidentiality. CRCs/CCRCs consider the personal or cultural contexts of clients and the
+
+23 
+impact of the results on clients. Regardless of whether scoring and interpretation are completed by 
+CRCs/CCRCs, by assistants, or by computer or other outside services, CRCs/CCRCs ensure that 
+appropriate explanations are given to clients. 
+ 
+b. AVOIDING BIAS IN ASSESSMENT. As part of the assessment process, CRCs/CCRCs address 
+concerns about bias that may impact the evaluation of a client by (1) choosing unbiased methods, 
+instruments, and procedures based on the individual evaluee; (2) recognizing and addressing issues of bias 
+when interpreting assessment results; and (3) communicating those issues when sharing the results of 
+assessment with other parties who are entitled to receive them. 
+ 
+c. RECIPIENTS OF RESULTS. CRCs/CCRCs consider the welfare of clients, explicit understandings, and 
+prior agreements in determining who receives the assessment or evaluation results, and they make 
+reasonable efforts to prevent misuse of assessment information. To release protocols, results, or reports of 
+administered assessments, CRCs/CCRCs obtain a specific release of information or must have a court 
+order, except in the instance of clear, imminent danger to the client or others. CRCs/CCRCs include 
+accurate and appropriate interpretations with any release of individual or group assessment or evaluation 
+results. Issues of cultural diversity, when present, are taken into consideration when providing 
+interpretations and releasing information. 
+ 
+H.2. RELEASE OF ASSESSMENT OR EVALUATION INFORMATION 
+ 
+a. MISUSE OF RESULTS. CRCs/CCRCs do not misuse assessment or evaluation results, including test 
+results and interpretations, and they take reasonable steps to prevent the misuse of such by others. 
+CRCs/CCRCs respect the client’s right to know the results, interpretations made, and basis for 
+CRCs’/CCRCs’ conclusions and recommendations. 
+ 
+b. RELEASE OF RAW DATA TO QUALIFIED PROFESSIONALS. When allowed by copyright law,  
+CRCs/CCRCs release raw data (e.g., worksheets, answer sheets, notes) in which clients are identified only 
+with the consent of clients or their legal representatives or by court order. Such raw data is released only to 
+professionals recognized as qualified to interpret the data. 
+ 
+H.3. MENTAL HEALTH DIAGNOSIS AND TREATMENT 
+ 
+a. PROPER DIAGNOSIS. If it is within their professional and individual scope of practice, CRCs/CCRCs 
+take special care to provide proper diagnosis of mental disorders using the most current diagnostic criteria. 
+Assessment techniques (including personal interviews) used to determine care of clients (e.g., focus of 
+treatment, types of treatment, recommended follow-up) are selected carefully and used appropriately. 
+CRCs/CCRCs who are qualified to diagnose base their diagnoses and other assessment summaries on 
+multiple sources of data whenever possible and consider multicultural factors in test interpretation, 
+diagnosis, and the formulation of prognosis and treatment recommendations. 
+ 
+b. MULTICULTURAL SENSITIVITY. CRCs/CCRCs recognize that culture affects the manner in which a 
+client’s symptoms are defined and experienced. A client’s socioeconomic and cultural experiences are 
+considered when diagnosing mental disorders. CRCs/CCRCs carefully consider the specific validity, 
+reliability, and appropriateness of tests when selecting them for use in a given situation or with a particular 
+individual. CRCs/CCRCs are cognizant of cultural considerations and impact when evaluating and 
+interpreting the test results or test performance of individuals with disabilities, marginalized groups, or other 
+persons who are not represented in the standardized norm group of the instrument being used. 
+ 
+c. HISTORICAL AND SOCIAL PREJUDICES IN THE DIAGNOSIS OF PATHOLOGY. CRCs/CCRCs 
+recognize historical and social prejudices in the misdiagnosis and pathologizing of certain individuals and 
+groups and strive to become aware of and address such biases in themselves or others.
+
+24 
+d. REFRAINING FROM DIAGNOSIS. CRCs/CCRCs refrain from making and/or reporting a diagnosis to the 
+client if they believe that it would cause harm to the client. CRCs/CCRCs carefully consider both the positive 
+and negative implications of a diagnosis. 
+ 
+H.4. COMPETENCE TO USE AND INTERPRET TESTS/INSTRUMENTS 
+ 
+a. LIMITS OF COMPETENCE. CRCs/CCRCs utilize only those tests/instruments they are qualified and 
+competent to administer. CRCs/CCRCs ensure the proper use of assessment techniques by persons under 
+their supervision. The requirement to develop this competency applies regardless of the manner of 
+administration. 
+ 
+b. APPROPRIATE USE. CRCs/CCRCs are responsible for the appropriate applications, scoring, 
+interpretations, and use of tests/instruments relevant to the needs of clients, whether they score and 
+interpret the tests/instruments themselves or use technology or other services. Generally, new or revised 
+tests/instruments are used within one year of publication, unless CRCs/CCRCs document a valid reason 
+why the previous versions are more applicable to their clients. 
+ 
+c. DECISIONS BASED ON RESULTS. CRCs/CCRCs responsible for recommendations that are based on 
+test results have a thorough understanding of psychometrics. They make decisions based on triangulation 
+of data, which includes, but is not limited to, test results. They do not make decisions and recommendations 
+based on tests that are obsolete. 
+ 
+d. ACCURATE INFORMATION. CRCs/CCRCs provide accurate information and avoid false claims or 
+misrepresentation when making statements about tests/instruments or testing techniques. CRCs/CCRCs 
+update information/reports if they become aware of inaccuracies. 
+ 
+H.5. TEST/INSTRUMENT SELECTION 
+ 
+a. APPROPRIATENESS OF TESTS/INSTRUMENTS. When selecting tests/instruments, CRCs/CCRCs 
+carefully consider their appropriateness, validity, reliability, and psychometric limitations. When possible, 
+multiple sources of data are used in forming conclusions, diagnoses, and/or recommendations. 
+ 
+b. REFERRAL INFORMATION. If clients are referred to a third party for evaluation, CRCs/CCRCs provide 
+specific referral questions to be addressed by the third party, furnish sufficient objective client data, and 
+ensure that appropriate tests/instruments are utilized. 
+ 
+c. APPROPRIATE USE WITH MULTICULTURAL POPULATIONS. CRCs/CCRCs are responsible for the 
+appropriate application, scoring, interpretation, and use of assessment instruments relevant to the needs of 
+the client, whether they score and interpret such assessments themselves or use technology or other 
+professional evaluator/psychometric service providers. CRCs/CCRCs consider the sample group normative 
+data when reporting results. 
+ 
+H.6. TEST/INSTRUMENT ADMINISTRATION CONDITIONS 
+ 
+a. STANDARD CONDITIONS. CRCs/CCRCs administer tests/instruments according to the parameters 
+described in the publishers’ manuals. When tests/instruments are not administered under standard 
+conditions, as may be necessary to accommodate individuals with disabilities or when unusual behavior or 
+irregularities occur during the administration, those conditions are noted in the interpretation, and the results 
+may be designated as invalid or of questionable validity. CRCs/CCRCs use assessment instruments whose 
+validity and reliability have been established for use with members of the population tested. When such 
+validity or reliability has not been established, CRCs/CCRCs consider and describe the strengths and 
+limitations of test results and interpretation in the evaluation report. 
+ 
+b. DIGITAL ASSESSMENT ADMINISTRATION. CRCs/CCRCs make reasonable efforts to ensure that 
+digitally administered tests/instruments are accessible, function properly, and provide accurate results.
+
+25 
+CRCs/CCRCs obtain information regarding the validity of computerized test interpretation before utilizing 
+such an approach and are responsible for evaluating the quality of computer software interpretations of test 
+data. When utilizing computerized assessment services, CRCs/CCRCs ensure that such services are 
+based on appropriate research to establish the validity of the results that are obtained. CRCs/CCRCs are 
+familiar with and able to explain the procedures used in arriving at interpretations. It is the CRC's/CCRC's 
+responsibility to justify the use of such computerized documents as to the appropriateness, validity, and 
+reliability of such data. 
+ 
+c. UNSUPERVISED ADMINISTRATION. CRCs/CCRCs do not permit unsupervised or inadequately 
+supervised use of tests/instruments unless they are designed, intended, and validated for self-
+administration and/or scoring. 
+ 
+H.7. TEST/INSTRUMENT SCORING AND INTERPRETATION 
+ 
+a. PSYCHOMETRIC LIMITATIONS. CRCs/CCRCs exercise caution and qualify any conclusions, 
+diagnoses, or recommendations that are based on tests/instruments with questionable validity or reliability. 
+ 
+b. DIVERSITY ISSUES IN ASSESSMENT. CRCs/CCRCs use caution when interpreting results normed on 
+populations other than that of the client and take caution to avoid inappropriate or discriminatory 
+assessment techniques. CRCs/CCRCs recognize the potential effects of disability, culture, or other factors 
+that may result in potential bias and/or misinterpretation of data. 
+ 
+c. REPORTING STANDARD SCORES. CRCs/CCRCs include standard scores when reporting results of a 
+specific instrument. 
+ 
+d. INTERPRETING TEST/INSTRUMENT RESULTS TO CLIENTS. When interpreting test results to a 
+client, CRCs/CCRCs consider the client’s personal and cultural background and the level of the client’s 
+understanding. CRCs/CCRCs are sensitive to the effect of the information on the client. 
+ 
+H.8. TEST/INSTRUMENT SECURITY 
+ 
+CRCs/CCRCs maintain the integrity and security of tests/instruments consistent with legal and contractual 
+obligations. CRCs/CCRCs do not appropriate, reproduce, or modify published tests/instruments or parts 
+thereof without the acknowledgment and permission of the publisher. 
+ 
+H.9. OBSOLETE TESTS/INSTRUMENTS AND OUTDATED RESULTS  
+ 
+CRCs/CCRCs do not rely on data or results from tests/instruments that are obsolete or outdated. 
+CRCs/CCRCs make every effort to prevent the misuse of obsolete tests/instruments data by others.  
+ 
+H.10. TEST/INSTRUMENT CONSTRUCTION 
+ 
+CRCs/CCRCs utilize established scientific procedures, relevant standards, and current professional 
+knowledge of test/instrument design in the development, publication, and utilization of testing techniques. 
+ 
+ 
+SECTION I: SUPERVISION, TRAINING, AND TEACHING 
+ 
+INTRODUCTION 
+Supervision and training promote the mission, goals, values, and knowledge of the rehabilitation counseling 
+profession by fostering supervisee growth and welfare and supporting them in development and 
+progression toward professional goals. Supervision and training occur in both the academic and work 
+environment and may occur in face-to-face, online, and/or hybrid formats. In employment settings, 
+supervision may include both clinical supervision and administrative oversight of an employee’s work
+
+26 
+performance in areas other than clinical counseling. The standards in this section pertain to clinical 
+supervision, although the standards may also provide useful guidance in performing other administrative 
+functions, such as performance evaluations. To promote ethical behavior and safeguard client welfare, 
+CRC/CCRC supervisors and educators aspire to foster meaningful and respectful professional relationships 
+and to maintain appropriate boundaries with supervisees and students. They have theoretical and 
+pedagogical foundations for their work; have knowledge of supervision models; and aim to be fair, accurate, 
+and honest in their assessments of supervisees and students. CRC/CCRC supervisors and educators strive 
+to assist students and supervisees in developing their counseling knowledge and skills and to address 
+barriers to competent practice. They also serve an important gatekeeping function to ensure that a minimal 
+level of competency is achieved before supervisees assume professional counseling roles. CRC/CCRC 
+supervisors, and educators strive to assist students and supervisees in developing their counseling 
+knowledge and skills and to address barriers to competent practice. They also serve an important 
+gatekeeping function to ensure that a minimal level of competency is achieved before supervisees assume 
+professional counseling roles. 
+ 
+I.1. CLINICAL SUPERVISOR RESPONSIBILITIES 
+ 
+a. CLIENT WELFARE. A primary obligation of CRC/CCRC supervisors is to monitor client welfare by 
+overseeing supervisee performance and professional development. To fulfill these obligations, CRC/CCRC 
+supervisors meet or communicate regularly with supervisees to review the supervisees’ work and help them 
+become prepared to serve a diverse client population. 
+ 
+b. CRC/CCRC CREDENTIALS. CRC/CCRC supervisors make reasonable efforts to ensure that 
+supervisees maintain and communicate their qualifications and credentials to render services to their 
+clients. CRC/CCRC supervisors also make reasonable efforts to maintain and communicate their own 
+qualifications and credentials to potential and current supervisees. 
+ 
+c. CLIENT RIGHTS AND INFORMED CONSENT. CRC/CCRC supervisors make supervisees aware of 
+client rights, including the protection of client privacy and confidentiality in the counseling relationship. They 
+ensure that supervisees are advised of their ethical obligations under the Code to (1) provide clients with 
+professional disclosure information, (2) inform clients of how the supervision process influences the limits of 
+confidentiality, and (3) make clients aware of anyone who will have access to records of the counseling 
+relationship and how these records will be stored, transmitted, or otherwise reviewed. Clients are also 
+informed that supervision and case consultation is a regular practice in the profession, with the privacy 
+rights of clients maintained. 
+ 
+d. SUPERVISEE RIGHTS AND INFORMED CONSENT FOR SUPERVISION. CRC/CCRC supervisors 
+have an obligation to review, in writing and verbally, the rights and responsibilities of both the supervisor 
+and supervisee. CRC/CCRC supervisors disclose to supervisees organizational policies and procedures to 
+which supervisors are to adhere and the mechanisms for due process appeal of individual supervisor 
+actions. Issues unique to the use of distance supervision are included. 
+ 
+e. RECORDKEEPING AND CONFIDENTIALITY IN SUPERVISION. CRC/CCRC supervisors shall keep 
+accurate records of supervision, goals, and progress. All information gained in supervision is confidential 
+except to prevent clear, imminent danger to the client or others or when legally required. When supervisory 
+records are legally required to be released, the supervisor shall make reasonable attempts to promptly 
+notify the supervisee. 
+ 
+f. EMERGENCIES AND ABSENCES. CRC/CCRC supervisors establish and communicate to supervisees 
+the procedures for contacting them or, in their absence, alternative on-call supervisors to assist in handling 
+crises. 
+ 
+g. TERMINATION OF THE SUPERVISORY RELATIONSHIP. CRC/CCRC supervisors or supervisees 
+have the right to terminate the supervisory relationship with adequate notice. Reasons for considering 
+termination are discussed, and both parties work to resolve differences. When termination is warranted,
+
+27 
+supervisors make appropriate referrals to possible alternative supervisors. CRC/CCRC supervisors 
+recognize when the supervision is no longer effective and make reasonable efforts to remediate. 
+ 
+I.2. CLINICAL SUPERVISOR COMPETENCE 
+ 
+a. SUPERVISOR PREPARATION. Prior to offering supervision services, CRC/CCRC supervisors are 
+trained in supervision methods and techniques. CRC/CCRC supervisors who offer supervision services 
+regularly pursue continuing education activities, including both rehabilitation counseling and supervision 
+topics and skills. 
+ 
+b. MULTICULTURAL AND DIVERSITY ISSUES IN SUPERVISION. CRC/CCRC supervisors are sensitive 
+to the role of multiculturalism and diversity in their supervisory relationships with supervisees. CRC/CCRC 
+supervisors understand and use multiculturally sensitive and competent supervision practices. They assist 
+supervisees in gaining knowledge, personal awareness, sensitivity, dispositions, and skills necessary for 
+developing cultural humility. CRC/CCRC supervisors identify and address any gaps in multicultural 
+knowledge or skills that could impede the supervisee relationship or learning experience. 
+ 
+c. TECHNOLOGY-ASSISTED SUPERVISION. When using technology in online or remote supervision, 
+CRC/CCRC supervisors are competent in the use of those technologies. CRC/CCRC supervisors take 
+necessary precautions to protect the confidentiality of all information transmitted through any electronic 
+means. 
+ 
+I.3. ROLES AND RELATIONSHIPS BETWEEN CLINICAL SUPERVISORS AND SUPERVISEES 
+ 
+a. RELATIONSHIP BOUNDARIES WITH SUPERVISEES. CRC/CCRC supervisors clearly define and 
+maintain ethical professional relationships with their supervisees. CRC/CCRC supervisors are aware of the 
+career influence and power differential in their relationships with current and former supervisees. They do 
+not engage in electronic, virtual, online, and/or in-person interactions or relationships that compromise the 
+supervisory relationship. CRC/CCRC supervisors consider and clearly discuss the risks and benefits of 
+extending boundaries with their supervisees and take appropriate professional precautions to minimize the 
+risk of harm to supervisees. 
+ 
+b. SEXUAL OR ROMANTIC RELATIONSHIPS WITH CURRENT SUPERVISEES. CRC/CCRC supervisors 
+are prohibited from engaging in any form of sexual or romantic interactions or relationships (e.g., in-person, 
+electronic, virtual, online) with their current supervisees. 
+ 
+c. EXPLOITATIVE RELATIONSHIPS. CRC/CCRC supervisors do not engage in exploitative relationships 
+with their current or former supervisees. 
+ 
+d. HARASSMENT. CRC/CCRC supervisors do not condone or participate in any form of harassment, 
+including sexual harassment. 
+ 
+e. RELATIONSHIPS WITH FORMER SUPERVISEES. CRC/CCRC supervisors are aware of the power 
+differential in their relationships with former supervisees. CRCs/CCRCs give careful consideration to the 
+potential for sexual or romantic relationships to be seen as coercive or exploitive in any way and/or cause 
+harm to former supervisees. CRC/CCRC supervisors discuss with former supervisees potential risks when 
+they consider engaging in romantic, sexual, or other intimate relationships and do not exploit or harass 
+former supervisees.  
+ 
+f. SUPERVISION OF RELATIVES AND FRIENDS. CRC/CCRC supervisors do not accept close relatives, 
+current or former romantic or sexual partners, or friends as supervisees. 
+ 
+g. REPORTING CONCERNS OF SUPERVISION IN THE WORKPLACE. When CRCs/CCRCs observe 
+ethical concerns in their work setting (e.g., exploitation, harassment, inappropriate boundary-crossing),
+
+28 
+CRCs/CCRCs proactively follow professional and organizational procedures to protect the 
+supervisee/trainee, including disclosure to the counselor education program. 
+ 
+I.4. SUPERVISION EVALUATION, REMEDIATION, AND ENDORSEMENT 
+ 
+a. EVALUATION OF SUPERVISEES. CRC/CCRC supervisors document and provide supervisees with 
+ongoing feedback regarding their performance and schedule periodic formal evaluative sessions throughout 
+the supervisory relationship. 
+ 
+b. GATEKEEPING AND REMEDIATION FOR SUPERVISEES. Through initial and ongoing evaluation, 
+CRC/CCRC supervisors are aware of and address supervisee limitations that might impede performance. 
+CRC/CCRC supervisors explore and introduce additional supervisory interventions (including direct 
+observation) to foster supervisee development and protect client welfare. If remedial assistance does not 
+resolve concerns regarding supervisee performance and supervisees are unable to demonstrate they can 
+provide competent professional services to a range of diverse clients, CRC/CCRC supervisors may 
+recommend dismissal from training programs or supervision settings. CRC/CCRC supervisors seek 
+consultation and document their decisions to recommend dismissal. They make reasonable efforts to 
+ensure that supervisees are aware of options available to them to address such decisions. If the supervisee 
+is a student intern, CRC/CCRC site supervisors maintains communication with the supervisee’s counselor 
+education program to discuss concerns and explore solutions. 
+ 
+c. PARTNERSHIP WITH COUNSELOR EDUCATION PROGRAMS. CRC/CCRC supervisors communicate 
+in a timely manner with the supervisee’s counselor education program to discuss the supervisee’s 
+performance. CRC/CCRC supervisors take an active role in understanding the school’s experiential learning 
+objectives and expectations and participate in supervisory training offered by the academic institution. The 
+supervisor shall release supervision records consistent with the terms of agreement from the program. 
+ 
+d. REFERRING SUPERVISEES FOR COUNSELING. If supervisees request counseling or if counseling 
+services are suggested as part of a remediation process, CRC/CCRC supervisors assist supervisees in 
+identifying appropriate services. CRC/CCRC supervisors do not provide direct clinical counseling services 
+to supervisees but may address interpersonal competencies in terms of the impact of these issues on the 
+supervisory relationship, professional functioning, and/or clients. 
+ 
+e. ENDORSEMENT. CRC/CCRC supervisors endorse supervisees for certification, licensure, employment, 
+or completion of academic or training programs based on satisfactory progress and observations while 
+under supervision or training. Regardless of qualifications, CRC/CCRC supervisors do not endorse 
+supervisees whom they believe to be impaired in any way that would interfere with the performance of the 
+duties associated with the endorsement. Responsibility to maintain the standards of the profession of 
+rehabilitation counseling supersedes the preferences of the supervisor or supervisee. 
+ 
+I.5. CRC/CCRC EDUCATOR RESPONSIBILITIES 
+ 
+a. PROGRAM INFORMATION AND ORIENTATION. CRC/CCRC educators recognize that orientation to 
+the graduate program and the rehabilitation counseling profession is a developmental process that 
+continues throughout the educational and clinical training of students. CRC/CCRC educators have an 
+ethical responsibility to provide information to prospective or current students about program expectations 
+for them to make informed decisions about entering into and continuing in a program. 
+ 
+b. STUDENT CAREER ADVISING. CRC/CCRC educators provide career advisement to their students and 
+make them aware of employment and educational opportunities in the field. 
+ 
+c. SELF-GROWTH EXPERIENCES. Self-growth is an expected component of rehabilitation counselor 
+education. CRC/CCRC educators are mindful of ethical principles when they require students to engage in 
+self-growth experiences. CRC/CCRC educators inform students they have a right to decide what 
+information will be shared or withheld when other students are present.
+
+29 
+ 
+d. STUDENT DISCLOSURE OF PERSONAL INFORMATION. CRC/CCRC educators do not require 
+students to disclose highly personal and private information in course- or program-related activities, either 
+orally or in writing (e.g., sexual history, history of abuse and neglect, medical treatment, and relationships 
+with parents, peers, and spouses or significant others). 
+ 
+e. DIVERSITY IN RECRUITMENT AND RETENTION. CRC/CCRC educators in a position of student 
+recruitment actively attempt to recruit a diverse student body. CRC/CCRC educators work to retain a 
+diverse student body. CRCs/CCRCs demonstrate commitment to multicultural competence by recognizing 
+and valuing diverse cultures and types of abilities that students bring to the training experience. 
+ 
+f. TEACHING CULTURAL DIVERSITY. CRC/CCRC educators infuse material related to cultural diversity 
+into all courses and trainings for the development of professional CRCs/CCRCs. 
+ 
+g. MULTICULTURAL CONSIDERATIONS IN TEACHING AND SUPERVISION. CRC/CCRC educators 
+and supervisors provide comprehensive multicultural training. CRC/CCRC educators and supervisors 
+ensure that supervision, training, and teaching is multiculturally inclusive and expands student knowledge of 
+the historical background, cultural heritage, life experiences, and sociopolitical issues of diverse groups. 
+CRC/CCRC educators and supervisors employ learning strategies that foster the development of 
+multicultural counseling knowledge and skills and address barriers to competent practice. 
+ 
+h. TEACHING AND EVALUATION. CRC/CCRC educators ensure they teach rehabilitation counseling 
+students how to integrate contrasting worldviews, meanings, customs, traditions, and perceptions into the 
+service delivery process. CRC/CCRC educators encourage the development of empathy and discourage 
+cultural encapsulations and unwillingness to adopt culturally appropriate counseling values and behaviors. 
+CRC/CCRC educators evaluate the student’s ability in the above areas. 
+ 
+i. CRC/CCRC EDUCATION AND GATEKEEPING. CRC/CCRC educators prepare students to uphold their 
+moral and ethical obligation to recognize systematic oppression of marginalized groups and how this is 
+embedded in norms, values, policies, and practices. CRC/CCRC educators create learning opportunities 
+and teach macro skills to combat large-scale social issues, including but not limited to ableism, racism, 
+nativism, classism, sexism, heterosexism, and cisgenderism. 
+ 
+j. TEACHING ETHICS. CRC/CCRC educators are responsible for teaching students about the Code and 
+how to use the Code as a tool in their education and clinical practice. CRC/CCRC educators infuse ethical 
+considerations throughout the curriculum and make students aware of their ethical responsibilities and 
+standards of the profession. 
+ 
+k. INTEGRATION OF STUDY AND PRACTICE. CRC/CCRC educators establish education and training 
+programs that integrate academic study and supervised practice. 
+ 
+l. USE OF CASE EXAMPLES. The use of client, student, or supervisee information for the purposes of 
+case examples in a lecture or classroom setting is permissible only when (1) the client, student, or 
+supervisee has reviewed the material and agreed to its presentation or (2) the information has been 
+sufficiently modified to obscure identity. 
+ 
+m. STUDENT-TO-STUDENT SUPERVISION AND INSTRUCTION. CRC/CCRC educators make 
+reasonable efforts to ensure the rights of students are not compromised when their peers lead experiential 
+counseling activities in traditional, online, and/or hybrid formats (e.g., counseling groups, skills classes, 
+clinical supervision). CRC/CCRC educators ensure that students who are presenting in class or leading 
+activities understand they have the same ethical obligations as CRC/CCRC educators. 
+ 
+n. INNOVATIVE TECHNIQUES/PROCEDURES/MODALITIES. CRC/CCRC educators promote the use of 
+techniques/procedures/modalities that are grounded in research and accreditation standards. When
+
+30 
+CRC/CCRC educators discuss innovative or developing techniques/procedures/modalities, they explain the 
+potential risks, benefits, and ethical considerations of using such techniques/procedures/modalities. 
+ 
+o. FIELD PLACEMENT. CRC/CCRC educators in charge of field placements develop clear policies within 
+their training programs regarding field placement and other clinical experiences and provide direct 
+assistance with securing an appropriate field placement. CRC/CCRC educators provide clearly stated roles 
+and responsibilities for students, site supervisors, and program supervisors. They confirm that site 
+supervisors are qualified to provide supervision and inform site supervisors of their professional and ethical 
+responsibilities in this role. 
+ 
+p. STUDENT STATUS DISCLOSURE. CRC/CCRC educators make reasonable efforts to ensure that 
+clients at field placement sites are aware of the services rendered and the qualifications of the students 
+rendering those services as part of the informed consent process. CRC/CCRC educators reinforce the 
+requirement for students to disclose their status as a student and how this status affects the limits of 
+confidentiality. 
+ 
+I.6. CRC/CCRC EDUCATOR COMPETENCE 
+ 
+a. EDUCATOR KNOWLEDGE AND SKILL. CRC/CCRC educators who are responsible for developing, 
+implementing, and supervising educational programs are knowledgeable regarding the ethical, legal, and 
+regulatory aspects of the profession, are skilled in applying that knowledge, and make students aware of 
+their responsibilities. CRC/CCRC educators conduct counselor education and training programs in an 
+ethical manner. 
+ 
+b. TECHNOLOGY-ASSISTED EDUCATION. CRC/CCRC educators have an obligation to stay up to date 
+on current technologies used in the field for the benefit of the students who are entering the field. When 
+using technology, CRC/CCRC educators are competent in its use. If they are not competent in the use of 
+the technology, they seek training or education to become competent. CRC/CCRC educators take 
+necessary precautions to protect confidential student information transmitted through any electronic means. 
+ 
+c. CULTURAL DIVERSITY IN REHABILITATION COUNSELOR EDUCATION. CRC/CCRC educators are 
+sensitive to the role of cultural diversity in their relationships with students. CRC/CCRC educators 
+understand and use culturally sensitive and competent teaching practices. They assist students in gaining 
+knowledge, personal awareness, sensitivity, disposition, and skills necessary for becoming a culturally 
+competent CRC/CCRC working with a diverse client population. 
+ 
+I.7. ROLES AND RELATIONSHIPS BETWEEN EDUCATORS AND STUDENTS 
+ 
+a. RELATIONSHIP BOUNDARIES WITH STUDENTS. CRC/CCRC educators are aware of the power 
+differential in their relationships with students. They do not engage in electronic and/or in-person 
+interactions or relationships that knowingly compromise the academic relationship. CRC/CCRC educators 
+consider and clearly discuss the risks and benefits of extending boundaries with their students and take 
+appropriate professional precautions to minimize the risk of harm to the student. 
+ 
+b. SEXUAL OR ROMANTIC RELATIONSHIPS WITH CURRENT STUDENTS. CRC/CCRC educators are 
+prohibited from engaging in any (e.g., virtual, online, electronic, and/or in-person) sexual or romantic 
+interactions or relationships with current students. 
+ 
+c. EXPLOITATIVE RELATIONSHIPS. CRC/CCRC educators do not engage in exploitative relationships 
+with students.  
+ 
+d. HARASSMENT. CRC/CCRC educators do not condone or participate in any form of harassment, 
+including sexual harassment.
+
+31 
+e. RELATIONSHIPS WITH FORMER STUDENTS. CRC/CCRC educators are aware of the power 
+differential in their relationships with former students. CRC/CCRC educators discuss with former students 
+potential risks when they consider engaging in romantic, sexual, or other intimate relationships. 
+ 
+f. ACADEMIC RELATIONSHIPS WITH RELATIVES AND FRIENDS. CRC/CCRC educators make every 
+effort to avoid accepting relatives, romantic partners, or friends as students. When such circumstances 
+cannot be avoided, CRC/CCRC educators utilize a formal review mechanism and recuse themselves from 
+the final admissions decision. In the event that a relative, romantic partner, or friend is admitted into the 
+educational program, CRC/CCRC educators do not serve as faculty advisors to those individuals as 
+students and recuse themselves from any situations where academic or professional disposition evaluation 
+occurs. 
+ 
+I.8. EDUCATION EVALUATION, REMEDIATION, AND ENDORSEMENT 
+ 
+a. EVALUATION OF STUDENTS. CRC/CCRC educators clearly state to students, prior to and throughout 
+the training program, the levels of competency expected, appraisal methods, and timing of evaluations for 
+both didactic and clinical competencies, as well as professional dispositions. CRC/CCRC educators provide 
+students with ongoing feedback regarding their performance throughout the training program. 
+ 
+b. GATEKEEPING AND REMEDIATION FOR STUDENTS. CRC/CCRC educators, through ongoing 
+evaluation, are aware of and address the inability of some students to achieve required competencies, 
+which may be due to academic performance, personal concerns (e.g., physical or mental health, chronic 
+illness), and professional dispositions (e.g., values, characteristics) aligning with rehabilitation counseling 
+philosophy. CRC/CCRC educators do the following: (1) assist students in securing remedial assistance, 
+including counseling, when needed; (2) seek professional consultation and document the decision to 
+recommend dismissal or refer students for assistance; and (3) make reasonable efforts to ensure that 
+students have recourse in a timely manner to address decisions requiring them to seek assistance, or to 
+dismiss them and provide students with due process, according to institutional policies and procedures. 
+ 
+c. REFERRING STUDENTS FOR COUNSELING. If students request counseling or if counseling services 
+are suggested as part of a remediation process, CRC/CCRC educators assist students in identifying 
+appropriate services. CRC/CCRC educators do not provide counseling services to currently enrolled 
+students but may address interpersonal competencies in terms of the impact of these issues on academic 
+performance, professional functioning, and/or clients. 
+ 
+d. ENDORSEMENT. CRC/CCRC educators endorse students for certification, licensure, employment, or 
+completion of academic or training programs based on satisfactory progress and observations while under 
+supervision or training. CRC/CCRC educators do not endorse students whom they believe to be impaired in 
+any way that would interfere with the performance of the duties associated with the endorsement. 
+ 
+ 
+SECTION J: RESEARCH AND PUBLICATION 
+ 
+INTRODUCTION 
+CRCs/CCRCs who conduct research are encouraged to contribute to the knowledge base of the profession. 
+They promote the welfare of individuals with disabilities as well as a clearer understanding of the conditions 
+that lead to a healthy and more just society. CRCs/CCRCs support the efforts of researchers by 
+participating fully and willingly whenever possible. CRCs/CCRCs minimize bias and respect diversity in 
+designing and implementing research. CRCs/CCRCs understand the need for research that includes 
+diverse populations, including individuals with disabilities and other racial/ethnic and marginalized groups.
+
+32 
+J.1. RESEARCH RESPONSIBILITIES 
+ 
+a. MULTICULTURAL AND DIVERSITY FACTORS IN RESEARCH. CRCs/CCRCs plan, design, conduct, 
+and report research in a manner that is mindful of multicultural considerations and reflect sensitivity to 
+cultural values, beliefs, behaviors, and impacts of research outcomes. CRCs/CCRCs, when appropriate, 
+take steps to include a) diverse samples and populations, b) diverse study sites, and c) multiculturally 
+appropriate research methods. 
+b. USE OF HUMAN SUBJECTS. CRCs/CCRCs plan, design, conduct, and report research in a manner 
+that is consistent with pertinent ethical principles, applicable laws, host institutional regulations, and 
+organizational and scientific standards governing research with human subjects. CRCs/CCRCs seek 
+consultation when appropriate. 
+ 
+c. CONFIDENTIALITY IN RESEARCH. CRCs/CCRCs are responsible for understanding and adhering to 
+applicable laws and organizational policies and all other pertinent guidelines regarding confidentiality in their 
+research practices. 
+ 
+d. INSTITUTIONAL APPROVAL. When institutional review board (IRB) approval is required, CRCs/CCRCs 
+provide accurate information about their research proposals and obtain approval prior to conducting their 
+research. They conduct research in accordance with the approved research protocols. If changes to the 
+research protocols are made, amendments are submitted to the IRB for further approval in a timely manner. 
+ 
+e. INDEPENDENT RESEARCHERS. When CRCs/CCRCs conduct independent research and do not have 
+access to an institutional review board, they are bound to the same ethical principles and laws pertaining to 
+the review of their plan, design, conduct, and reporting of research. Independent researchers not familiar 
+with institutional review board standards seek appropriate consultation. 
+ 
+f. DEVIATION FROM STANDARD PRACTICES. CRCs/CCRCs seek consultation and observe stringent 
+safeguards to protect the rights of research subjects when a research-related problem indicates that a 
+deviation from standard or acceptable practices may be necessary. 
+ 
+g. DATA STORAGE. CRCs/CCRCs inform participants how data is stored, including how privacy and 
+confidentiality is maintained, and for how long the raw data is stored. 
+ 
+h. PRECAUTIONS TO AVOID INJURY. CRCs/CCRCs who conduct research with human subjects are 
+responsible for the welfare of participants throughout the research process and take reasonable precautions 
+to avoid causing psychological, emotional, physical, or social harm to participants. 
+ 
+i. PRINCIPAL RESEARCHER RESPONSIBILITY. The ultimate responsibility for ethical research practice 
+lies with the principal researcher(s). All others involved in the research activities share ethical obligations 
+and responsibilities for their own actions. 
+ 
+j. MINIMAL INTERFERENCE. CRCs/CCRCs take precautions to avoid causing disruption in the lives of 
+research participants or the setting in which research is conducted. 
+ 
+J.2. RIGHTS OF RESEARCH PARTICIPANTS 
+ 
+a. INFORMED CONSENT IN RESEARCH. Individuals have the right to consent to or decline requests to 
+become research participants. CRCs/CCRCs conducting research obtain consent from participants prior to 
+initiating research. In seeking consent, CRCs/CCRCs  
+(1) accurately explain the purpose and procedures to be followed; 
+(2) identify any procedures that are experimental or relatively untried; 
+(3) describe any attendant discomforts and risks; 
+(4) describe any benefits or changes in individuals or organizations that might be reasonably expected; 
+(5) disclose appropriate alternative procedures that would be advantageous for participants; 
+(6) offer to answer any inquiries concerning the procedures;
+
+33 
+(7) describe any limitations on confidentiality; 
+(8) describe formats and potential target audiences for the dissemination of research findings;  
+(9) instruct participants they are free to withdraw their consent and to discontinue participation in the project 
+at any time without penalty; and 
+(10) use language that is easily understood by participants. 
+ 
+b. DECEPTION. CRCs/CCRCs do not conduct research involving deception unless alternative procedures 
+are not feasible. If such deception has the potential to cause physical or emotional harm to research 
+participants, the research is not conducted, regardless of prospective value. When the methodological 
+requirements of a study necessitate concealment or deception, the investigator explains the reasons for this 
+action as soon as possible during the debriefing. 
+ 
+c. STUDENT/SUPERVISEE PARTICIPATION. CRCs/CCRCs who involve students or supervisees in 
+research make clear to them the decision regarding participation in research activities does not affect their 
+academic standing or supervisory relationship. Senior researchers or faculty have an obligation to teach 
+students/supervisees how to conduct research in an ethical and thorough manner. Students or supervisees 
+who choose not to participate in research are provided with an appropriate alternative to fulfill their 
+academic or clinical requirements. 
+ 
+d. CLIENT PARTICIPATION. CRCs/CCRCs conducting research involving clients make clear in the 
+informed consent process that clients are free to choose whether to participate in research activities and are 
+free to withdraw from research studies without adverse consequences. 
+ 
+e. CONFIDENTIALITY OF INFORMATION. Confidential information obtained about research participants 
+during the course of research remains confidential. When the possibility exists that others may obtain 
+access to such information, ethical research practice requires the possibility, together with the plans for 
+protecting confidentiality, be explained to participants as part of the procedures for obtaining informed 
+consent. 
+ 
+f. RESEARCH PARTICIPANTS NOT CAPABLE OF GIVING INFORMED CONSENT. When research 
+participants are not capable of giving informed consent, CRCs/CCRCs obtain informed consent from a 
+legally authorized representative and assent from the research participant. 
+ 
+g. COMMITMENTS TO PARTICIPANTS. CRCs/CCRCs take reasonable measures to honor all 
+commitments to research participants. 
+ 
+h. AGREEMENT OF CONTRIBUTORS. CRCs/CCRCs conducting joint research establish agreements in 
+advance regarding allocation of tasks, publication credit, and types of acknowledgment received, and incur 
+an obligation to cooperate as agreed. Order of authorship on manuscripts or presentations is discussed and 
+agreed upon before beginning projects, and allocation of tasks and responsibilities reflect this order. 
+ 
+i. INFORMING SPONSORS. CRCs/CCRCs inform sponsors, institutions, and publication channels of 
+research procedures and outcomes. CRCs/CCRCs ensure that appropriate bodies and authorities are given 
+pertinent information and acknowledgment. 
+ 
+j. RESEARCH RECORDS CUSTODIAN. As appropriate, CRCs/CCRCs prepare and disseminate to an 
+identified colleague or records custodian a plan for the transfer of research data in the case of their 
+incapacitation, retirement, or death. 
+ 
+J.3. REPORTING RESULTS 
+ 
+a. ACCURATE RESULTS. CRCs/CCRCs plan, conduct, and report research accurately. They provide 
+accurate discussions of the limitations of their data and alternative hypotheses. CRCs/CCRCs do not 
+engage in misleading or fraudulent research; further, they do not distort data, misrepresent data, or 
+deliberately bias their results. They explicitly mention all variables and conditions known to the
+
+34 
+investigator(s) that may have affected the outcome of studies or interpretations of data. They describe the 
+extent to which results are applicable to diverse populations. 
+ 
+b. OBLIGATION TO REPORT UNFAVORABLE RESULTS. CRCs/CCRCs report the results of any 
+research of professional value, regardless of outcomes. Results that reflect unfavorably on institutions, 
+programs, services, prevailing opinions, or vested interests are not withheld. When reporting unfavorable 
+results, CRCs/CCRCs take care to remain objective in the presentation of results and do not otherwise 
+harm the institutions, agencies, programs, or services being studied. 
+ 
+c. REPORTING ERRORS. If CRCs/CCRCs discover significant errors in their published research, they take 
+reasonable steps to correct such errors in a correction erratum or other appropriate publication means. 
+ 
+d. IDENTITY OF PARTICIPANTS. CRCs/CCRCs who supply data aid in the research of another 
+investigator, report research results, or make original data available take due care to disguise the identity of 
+respective participants in the absence of specific authorization from the participants to do otherwise. In 
+situations where participants self-identify their involvement in research studies, researchers make 
+reasonable efforts to ensure that data are adapted/changed to protect the identities and welfare of all 
+parties and that discussion of results does not cause harm to participants. 
+ 
+e. REPLICATION STUDIES. CRCs/CCRCs make reasonable efforts to make available sufficient original 
+research information to qualified professionals who may wish to replicate the study. 
+ 
+J.4. RESEARCH PUBLICATIONS AND PRESENTATIONS 
+ 
+a. PLAGIARISM. CRCs/CCRCs do not plagiarize. 
+ 
+b. INTELLECTUAL PROPERTY. CRCs/CCRCs respect the intellectual contributions of others and do not 
+use or appropriate the works of others without first obtaining consent and providing appropriate credit. 
+CRCs/CCRCs do not represent the information obtained from professional conference presentations, 
+informal presentations or trainings, and published materials as their own. 
+ 
+c. USE OF CASE STUDIES. The use of information from participants, clients, students, or supervisees for 
+the purpose of case examples in a presentation or publication is permissible only when (1) participants, 
+clients, students, or supervisees have reviewed the material and agreed to its presentation or publication; or 
+(2) the information has been sufficiently modified to obscure identity. 
+ 
+d. ACKNOWLEDGING PREVIOUS WORK. When conducting and reporting research, including replication 
+studies, CRCs/CCRCs are familiar with and give recognition to previous work on the topic, observe 
+copyright laws, and fully credit those to whom credit is due. 
+ 
+e. CONTRIBUTOR(S). CRCs/CCRCs give credit through joint authorship, acknowledgment, footnote 
+statements, or other appropriate means to those who have contributed significantly to research or concept 
+development in accordance with such contributions. Principal contributors are listed first, and minor 
+technical or professional contributions are acknowledged in notes or introductory statements. Authorship 
+order and expected contributions is determined early on (and revisited as necessary) in the process to avoid 
+confusion. 
+ 
+f. STUDENT PAPERS AND RESEARCH. Unpublished items submitted for coursework, manuscripts, or 
+professional presentations in any media that are substantially based on a student’s course 
+papers/assignments, projects, dissertations, or theses are used only with the student’s permission and list 
+the student as lead author. 
+ 
+g. DUPLICATE SUBMISSION. CRCs/CCRCs submit manuscripts for consideration to only one journal at a 
+time. Manuscripts that are published in whole or in substantial part in another journal or published work are 
+not submitted for secondary publication without acknowledgment and permission from the original publisher.
+
+35 
+ 
+h. PROFESSIONAL REVIEW. CRCs/CCRCs who review material submitted for publication, research, or 
+other scholarly purposes (1) respect the confidentiality and proprietary rights of those who submitted it; (2) 
+avoid personal biases; (3) make publication decisions based on valid and defensible standards; (4) review 
+materials and return a defensible decision to the editor(s) in a timely manner, and (5) review only materials 
+that are within their scope of competency. 
+ 
+J.5. MANAGING AND MAINTAINING BOUNDARIES 
+ 
+a. BOUNDARY CONSIDERATIONS IN RESEARCH. CRCs/CCRCs consider the risks and benefits of 
+extending current research relationships beyond conventional parameters. In cases where boundaries are 
+extended, CRCs/CCRCs take appropriate professional precautions, such as seeking informed consent, 
+consultation, supervision, and documentation to ensure that judgment is not impaired and that neither 
+exploitation nor harm has occurred. Such interactions are discussed and are initiated with appropriate 
+consent of research participants. Where unintentional harm occurs to research participants, researchers 
+must show evidence of an attempt to remedy such harm. 
+ 
+b. SEXUAL OR ROMANTIC RELATIONSHIPS WITH RESEARCH PARTICIPANTS. CRCs/CCRCs are 
+prohibited from engaging in electronic, virtual, online, and/or in-person sexual or romantic interactions or 
+relationships with current research participants. 
+ 
+c. HARASSMENT. CRCs/CCRCs do not condone or subject research participants to any form of 
+harassment, including sexual harassment. 
+ 
+ 
+SECTION K: TECHNOLOGY, SOCIAL MEDIA, AND  
+VIRTUAL COUNSELING 
+ 
+INTRODUCTION 
+CRCs/CCRCs recognize that service provision is not limited to in-person, face-to-face interactions. 
+CRCs/CCRCs actively attempt to understand the evolving nature of technology-based services, social 
+media, virtual counseling, and how such resources may be used to better serve clients. CRCs/CCRCs 
+appreciate the implications for legal and ethical practice when using technology, social media, or virtual 
+counseling and are particularly mindful of issues related to confidentiality, accessibility, and online behavior. 
+When providing virtual counseling, CRCs/CCRCs are mindful of their professional behavior, disposition, and 
+the background settings in which services are rendered (e.g., no distraction, extraneous noise). 
+ 
+K.1. COMPETENCE AND LEGAL CONSIDERATIONS 
+ 
+a. COMPETENCE. When technology-based services are used in the counseling relationship, CRCs/CCRCs 
+are held to the same level of expected behavior and competence as defined in the Code, regardless of the 
+technology used or its application. Although some clients may find technology-based services to be a 
+convenient and preferred method of service delivery, CRCs/CCRCs recognize that electronic modalities 
+may not be well suited for all clients and all situations. CRCs/CCRCs develop knowledge and skills 
+regarding the ethical, legal, and technical considerations of using technology-assisted services. 
+ 
+b. LEGAL CONSIDERATIONS. CRCs/CCRCs who use technology, social media, and/or virtual counseling 
+in their practice understand they may be subject to laws in both the CRC’s/CCRC’s practicing location and 
+the client’s place of residence. CRCs/CCRCs are aware of and adhere to laws governing the practice of 
+counseling across state lines or international boundaries. CRCs/CCRCs seek business, legal, and technical 
+assistance when necessary; they make reasonable efforts to ensure that technology is used appropriately 
+and client rights are protected. CRCs/CCRCs ensure that clients are informed of pertinent legal rights and 
+limitations governing the practice of counseling across state or international boundaries.
+
+36 
+ 
+K.2. ACCESSIBILITY 
+ 
+a. ACQUISITION AND USE OF TECHNOLOGY. When providing technology-assisted services, 
+CRCs/CCRCs ensure that technology and equipment used, purchased, or recommended for a client is in an 
+accessible platform that meets the needs of the client. To ensure reasonable actions are implemented with 
+security and confidentiality, CRCs/CCRCs use technology-based communications that allow for encryption 
+and/or password protection. CRCs/CCRCs ensure technology is individualized, accessible, and meets 
+language preferences. 
+ 
+b. ACCESSING TECHNOLOGY. In considering technology-assisted services, CRCs/CCRCs are 
+responsible for guiding clients to obtain reasonable access to pertinent applications. CRCs/CCRCs must 
+carefully assess a client’s emotional, physical, intellectual, and linguistic capabilities to understand the 
+application’s purpose and functionality as it pertains to their needs, as well as their ability to utilize the 
+technology-assisted services. 
+ 
+K.3. CONFIDENTIALITY AND DISCLOSURE 
+ 
+a. TRANSMITTING CONFIDENTIAL INFORMATION. CRCs/CCRCs inform clients about the inherent risks 
+of using technology to transmit confidential information. CRCs/CCRCs explain the limitations of specific 
+technologies (e.g., voice recognition, text messaging, email) and urge clients to be cautious when using 
+technology to communicate confidential information. 
+ 
+b. SECURITY. CRCs/CCRCs make reasonable efforts to ensure the security of confidential information 
+transmitted or stored through any electronic means. CRCs/CCRCs use encryption and password-protection 
+techniques for all technology-based communications to protect confidential client information. CRCs/CCRCs 
+review limitations of voice activated/voice recognition technologies with clients and how these may impact 
+client confidentiality. 
+ 
+c. CLIENT VERIFICATION. CRCs/CCRCs who engage in the use of technology-based virtual counseling to 
+interact with clients take steps to verify the client’s identity at the beginning and throughout the rehabilitation 
+counseling process. Verification can include, but is not limited to, using code words, numbers, graphics, 
+two-factor authentication, or other nondescript identifiers. 
+ 
+K.4. SOCIAL MEDIA 
+ 
+a. PROFESSIONAL ELECTRONIC PRESENCE. If CRCs/CCRCs choose to have a professional social 
+media presence that is separate and apart from their personal social media presence, they clearly display 
+the purpose and limits of the professional page. CRCs/CCRCs maintain professionalism, integrity, and 
+honesty in all electronic platforms interactions in which they are in their counselor role, avoiding making 
+statements or sharing content that is not relevant to the profession. 
+ 
+b. MONITORING SOCIAL MEDIA. CRCs/CCRCs recognize that information posted on social media sites is 
+largely permanent and easily shared beyond the privacy settings of any particular site. CRCs/CCRCs take 
+reasonable steps to monitor for and remove or correct potentially harmful information shared on sites they 
+establish for their professional presence. 
+ 
+c. SOCIAL MEDIA AND INFORMED CONSENT. CRCs/CCRCs clearly explain to their clients, as part of 
+the informed consent procedure, the benefits, limitations, and boundaries of the use of social media in the 
+provision of services. As part of appropriate boundaries, CRCs/CCRCs include an explicit statement in the 
+disclosure regarding non-acceptance of friend or follow requests from clients on their personal social media 
+accounts. After termination of the rehabilitation counseling relationship, CRCs/CCRCs determine for 
+themselves if they will accept personal friend or follow requests from former clients. Additionally, 
+CRCs/CCRCs work within their organizations to develop and clearly communicate a social media policy so 
+the social media practice is transparent, consistent, and easily understood by clients. When discrepancies
+
+37 
+exist between agency policy and the Code, CRCs/CCRCs advocate to align policies with the Code. If 
+CRCs/CCRCs choose to have a professional social media page, they can provide this information to clients. 
+ 
+d. PRIVACY IN SOCIAL MEDIA. CRCs/CCRCs respect the privacy of their client’s presence on social 
+media and avoid searching a client’s virtual presence unless relevant to the rehabilitation counseling 
+process. If a CRCs/CCRCs may search a client’s virtual presence, this is disclosed in advance. 
+CRCs/CCRCs caution clients of the potential impact that social media use may have on the counseling 
+relationship and discuss the benefits and risks of using social media within the rehabilitation counseling 
+process. 
+ 
+e. MAINTAINING CONFIDENTIALITY IN SOCIAL MEDIA. CRCs/CCRCs protect the confidentiality of 
+clients by avoiding the posting of any personally identifiable information unless the client has provided 
+written consent to do so. In no circumstance should protected or highly sensitive information be shared via 
+social media platforms or agency/organization websites. Images of clients are not shared without written 
+consent of the client or the parent/guardian of a client when the client is unable to provide consent. 
+ 
+K.5. VIRTUAL COUNSELING 
+ 
+a. INFORMED CONSENT. Unless court-ordered or otherwise mandated, clients have the freedom to 
+choose whether to use technology-based virtual counseling within the rehabilitation counseling process. In 
+addition to the usual and customary protocol of informed consent between CRCs/CCRCs and client for 
+face-to-face counseling, the following issues, unique to the use of technology-based virtual counseling, are 
+addressed in the informed consent process:  
+(1) risks and benefits of engaging in the use of technology-based virtual counseling;  
+(2) type of technology, possibility of technology failure, and alternate methods of service delivery;  
+(3) anticipated response time;  
+(4) procedures to follow when the CRC/CCRC is not available;  
+(5) referral information for client emergencies;  
+(6) time zone differences;  
+(7) cultural and/or language differences that may affect the delivery of services;  
+(8) possible denial of insurance claims and/or benefits;  
+(9) any limitations due to services provided across jurisdictions; and  
+(10) any policies related to use of social media. 
+ 
+b. LAWS AND STATUTES. When providing virtual counseling or virtual rehabilitation services, 
+CRCs/CCRCs understand they may be subject to laws and regulations of both the CRC's/CCRC's 
+practicing location and the client’s place of residence. CRCs/CCRCs are aware of the legal rights and 
+limitations governing the distance counseling services within their state and across state lines. 
+ 
+c. PRIVACY AND SECURITY. When using teleconferencing platforms, CRCs/CCRCs ensure such 
+platforms are appropriately HIPAA or PIPEDA compliant and meet agency/organization, local, state, and 
+federal regulations. 
+ 
+d. EMERGENCY PREPARDNESS. At the beginning of a course of virtual counseling, CRCs/CCRCs 
+develop a procedure to follow in the event of an emergency, which includes acquiring contact information 
+for local emergency services and a personal emergency contact in the client’s physical location.
+
+38 
+SECTION L: BUSINESS PRACTICES 
+ 
+INTRODUCTION 
+CRCs/CCRCs aspire to open, honest, and accurate business practices when working or communicating 
+with clients, evaluees, other professionals, and the general public. CRCs/CCRCs facilitate access to 
+rehabilitation counseling services and practice in a nondiscriminatory manner within the boundaries of 
+professional competence. 
+ 
+L.1. ADVERTISING AND SOLICITING CLIENTS 
+ 
+a. ACCURATE ADVERTISING. When advertising or otherwise representing their services to the public in 
+any form of media, CRCs/CCRCs identify their credentials in an accurate manner that is not false, 
+misleading, deceptive, or fraudulent. 
+ 
+b. TESTIMONIALS AND STATEMENTS. CRCs/CCRCs who use testimonials do not solicit them from 
+current or former clients or evaluees. CRCs/CCRCs always avoid soliciting a testimonial from any persons 
+who may be vulnerable to undue influence. When considering the use of unsolicited testimonials from 
+clients or evaluees, CRCs/CCRCs discuss the implications and obtain permission for such use. 
+CRCs/CCRCs may solicit testimonials from those who are not current clients or evaluees (e.g., partner 
+organizations, placement sites). Regardless of the source of the testimonial, CRCs/CCRCs ensure that 
+statements made by others about them or about the profession are accurate. 
+ 
+c. RECRUITMENT THROUGH SELF-REFERRAL. CRCs/CCRCs working in an organization that provides 
+rehabilitation counseling services do not refer clients to their private practice unless the policies of a 
+particular organization make explicit provisions for self-referrals and/or there are limited or no other 
+agencies available to meet the client’s needs. In this case, CRCs/CCRCs complete a professional 
+disclosure form with the client/evaluee, explaining the CRC's/CCRC's role in the private practice, the nature 
+and implications of the referral, and other options available to them. 
+ 
+d. PROMOTION OF PRODUCTS AND TRAINING EVENTS. CRCs/CCRCs who develop products related 
+to their profession or conduct workshops or training events make reasonable efforts to ensure that 
+advertisements concerning these products or events are accurate and disclose adequate information so 
+clients or consumers may make informed choices. CRCs/CCRCs do not use counseling, teaching, training, 
+or supervisory relationships to promote their products or training events in a manner that is deceptive or 
+would exert undue influence on individuals who may be vulnerable. CRC/CCRC educators may adopt 
+textbooks they have authored for appropriate instructional purposes. 
+ 
+L.2. CLIENT RECORDS 
+ 
+a. RECORDS AND DOCUMENTATION. Regardless of format, CRCs/CCRCs create, protect, and maintain 
+documentation necessary for rendering professional services. CRCs/CCRCs include sufficient and timely 
+documentation to facilitate the delivery and continuity of services. CRCs/CCRCs ensure that documentation 
+accurately reflects client progress and the services provided, including who provided the services. If records 
+or documentation need to be altered, it is done so according to organizational policy and in a manner that 
+preserves the original information. Alterations are accompanied by the date of change, the identity of who 
+made the change, and the rationale for the change. 
+ 
+b. PRIVACY. Documentation generated by CRCs/CCRCs protects the privacy of clients to the extent 
+possible and includes only relevant or appropriate information. 
+ 
+c. RECORDS MAINTENANCE. CRCs/CCRCs securely maintain records necessary for rendering 
+professional services to clients and as required by relevant laws, standards, and organizational policies. 
+Subsequent to file closure or termination of services, records are stored in a secure manner that ensures 
+reasonable future access for record retrieval. Records are destroyed in a manner assuring preservation of
+
+39 
+confidentiality. CRCs/CCRCs apply careful discretion and deliberation before destroying records that may 
+be needed by a court of law. 
+ 
+d. CONTINGENCY PLANNING. CRCs/CCRCs are expected to maintain a written plan and prepare and 
+disseminate to identified colleagues or records custodians a plan for the transfer of clients and files in the 
+case of their incapacitation, death, retirement, closure, or termination of practice. 
+ 
+L.3. FEES, BARTERING, AND BILLING 
+ 
+a. UNDERSTANDING OF FEES AND NONPAYMENT OF FEES. Prior to providing services, 
+CRCs/CCRCs clearly explain to the client or evaluee and/or responsible party all financial arrangements 
+related to professional services. If a third party is paying for services, CRCs/CCRCs explain that 
+arrangement to the client or evaluee and/or responsible party. If CRCs/CCRCs, or their employer, intend to 
+use collection agencies or take legal measures to collect fees when payment is not received as agreed 
+upon, they include such information in their professional disclosure statement or retainer agreement. If 
+collection actions are considered, CRCs/CCRCs first inform the client, evaluee, or responsible party of 
+intended actions in a timely fashion. CRCs/CCRCs may charge interest, as allowed by law, on delinquent 
+accounts. Interest rates must be stated on contracts, bills, and invoices. 
+ 
+b. ESTABLISHING FEES. If a CRC’s/CCRC’s usual fees create undue hardship for the client, 
+CRCs/CCRCs may adjust fees, when legally permissible, or assist the client in locating comparable, 
+affordable services. 
+ 
+c. UNACCEPTABLE FEE ARRANGEMENTS. CRCs/CCRCs do not participate in fee splitting, nor do they 
+give or receive commissions, rebates, or any other form of remuneration when accepting referrals or 
+referring clients for additional professional services. 
+ 
+d. LIENS AND OUTCOME-BASED PAYMENTS. Liens and payments based on outcomes are acceptable 
+when it is standard practice within the particular practice setting. In a forensic setting, payment for services 
+is never contingent on an outcome of a case or award. 
+ 
+e. BARTERING DISCOURAGED. CRCs/CCRCs ordinarily refrain from accepting goods or services from 
+clients in return for rehabilitation counseling services because such arrangements may create inherent 
+potential for conflicts, exploitation, and distortion of the professional relationship. CRCs/CCRCs may barter 
+only if the client requests it, if such arrangements are an accepted practice in the community, and if the 
+bartering does not result in exploitation or harm. CRCs/CCRCs consider the cultural implications of 
+bartering, discuss relevant concerns with clients, and document such agreements in writing. 
+ 
+f. WITHHOLDING RECORDS FOR NONPAYMENT. CRCs/CCRCs may not withhold records under their 
+control that are requested and needed for the emergency medical/psychiatric treatment of clients solely 
+because payment has not been received. 
+ 
+g. BILLING RECORDS AND INVOICES. CRCs/CCRCs maintain billing records that are confidential, 
+accurately reflect the services provided and fees charged, and identifies who provided the services. 
+Invoices accurately reflect the services provided. 
+ 
+L.4. TERMINATION AND REFERRAL 
+ 
+CRCs/CCRCs in fee-for-service relationships may terminate client services due to nonpayment of fees 
+under the following conditions: (1) clients were informed of payment responsibilities and the effects of 
+nonpayment or the termination of payment by third parties; and (2) clients do not pose an imminent danger 
+to themselves or others. As appropriate, CRCs/CCRCs refer clients to other qualified professionals to 
+address issues unresolved at the time of termination.
+
+40 
+SECTION M: RESOLVING ETHICAL ISSUES 
+ 
+INTRODUCTION 
+CRCs/CCRCs behave in an ethical and legal manner. They are aware that client welfare and trust in the 
+profession depend on a high level of professional conduct. They hold other CRCs/CCRCs to the same 
+standards and ensure that standards are upheld. CRCs/CCRCs strive to resolve ethical dilemmas with 
+direct and open communication among all parties involved and seek consultation with colleagues and 
+supervisors when necessary. CRCs/CCRCs recognize underlying ethical principles and conflicts among 
+competing interests. They apply appropriate decision-making models and skills to resolve dilemmas and act 
+ethically. CRCs/CCRCs incorporate ethical practice into their daily professional work and engage in ongoing 
+professional development on current topics in ethical and legal issues in counseling. CRCs/CCRCs become 
+familiar with the CRCC Guidelines and Procedures for Processing Complaints and use it as a reference for 
+assisting in the enforcement of the Code. 
+ 
+M.1 KNOWLEDGE OF ETHICAL STANDARDS AND THE LAW 
+ 
+a. KNOWLEDGE OF THE CODE. CRCs/CCRCs are responsible for reading, understanding, and following 
+the Code and seeking clarification of any standard that is not understood. Lack of knowledge or 
+misunderstanding of an ethical responsibility is not a defense against a charge of unethical conduct. 
+ 
+b. KNOWLEDGE OF RELATED CODES OF ETHICS. CRCs/CCRCs understand applicable ethics codes 
+from other professional organizations or from certification and licensure bodies. CRCs/CCRCs are held to 
+the CRCC standards if there is a discrepancy between codes. CRCs/CCRCs are aware the Code forms the 
+basis for CRCC disciplinary actions. The CRCC Ethics Committee makes decisions pertaining to 
+disciplinary actions based upon the Enforceable Standards of the Code. 
+ 
+c. CONFLICTS BETWEEN ETHICS AND LAWS. CRCs/CCRCs obey the laws of the legal jurisdiction in 
+which they practice unless there is a conflict with the Code. If ethical responsibilities conflict with laws, 
+CRCs/CCRCs rely on the Code to take steps to resolve conflicts. If conflicts cannot be resolved by such 
+means, CRCs/CCRCs adhere to the requirements of law.  
+ 
+M.2. ADDRESSING SUSPECTED VIOLATIONS 
+ 
+a. ETHICAL DECISION-MAKING MODELS AND SKILLS. CRCs/CCRCs recognize underlying ethical 
+principles and conflicts among competing interests. They apply appropriate decision-making models and 
+skills to resolve dilemmas and act ethically. When CRCs/CCRCs are faced with an ethical dilemma, they 
+use and document an appropriate ethical decision-making model. 
+ 
+b. CONSULTATION. When uncertain as to whether particular situations or courses of action may be in 
+violation of the Code, CRCs/CCRCs consult with other professionals who are knowledgeable about ethics 
+with supervisors, colleagues, and/or with appropriate authorities, such as CRCC, licensure boards, or legal 
+counsel. 
+ 
+c. INFORMAL RESOLUTION. When CRCs/CCRCs have reason to believe that another CRC/CCRC is 
+violating or has violated an ethical standard, they attempt to resolve the issue informally by direct 
+communication with the other CRC/CCRC, if feasible and provided such action does not violate 
+confidentiality rights that may be involved. 
+ 
+d. REPORTING ETHICAL VIOLATIONS. When an informal resolution is neither appropriate, feasible, nor 
+resolved, or if an apparent violation has substantially harmed or is likely to substantially harm persons or 
+organizations, CRCs/CCRCs take further action as appropriate to the situation. Such action might include 
+referral of the matter to applicable committees on professional ethics (e.g., voluntary certification bodies, 
+licensure boards, organizational authorities). Referral may not be appropriate when the reporting would 
+violate confidentiality rights (e.g., when clients refuse to allow information or statements to be shared) or
+
+41 
+when CRCs/CCRCs have been retained to review the work of another CRCs/CCRCs whose professional 
+conduct is in question (e.g., consultation, expert testimony). 
+ 
+e. SELF-REPORTING. CRCs/CCRCs shall immediately notify CRCC when sanctioned for violations of 
+ethical codes by any applicable counselor licensure, certification, or registry boards, other mental health 
+licensure, certification, or registry boards, or voluntary national certification boards or professional 
+associations with which they are affiliated. CRCs/CCRCs notify CRCC if they are found to have violated 
+another organization’s professional code of ethics, violated laws in relation to their practice in the field of 
+rehabilitation counseling, or are convicted of offenses that constitute violations of the Code. 
+ 
+f. ORGANIZATION CONFLICTS. If the demands of organizations with which CRCs/CCRCs are affiliated 
+pose a conflict with the Code, CRCs/CCRCs specify the nature of such conflicts and express their 
+commitment to the Code to appropriate responsible officials. When possible, CRCs/CCRCs work to create 
+change within organizations to allow full adherence to the Code. If the conflict cannot be resolved, 
+CRCs/CCRCs evaluate the risks and benefits of continued affiliation with the organization. 
+ 
+M.3. CONDUCT IN ADDRESSING ETHICAL ISSUES 
+ 
+a. COOPERATION WITH ETHICS COMMITTEES. CRCs/CCRCs have a working knowledge of the Code 
+and assist in the process of enforcing it by reviewing the CRCC Guidelines and Procedures for Processing 
+Complaints. CRCs/CCRCs cooperate with investigations, requests, proceedings, and requirements of the 
+CRCC Ethics Committee or ethics committees of other duly constituted associations or boards having 
+jurisdiction over those charged with a violation. 
+ 
+b. CONFIDENTIALITY. CRCs/CCRCs who are knowledgeable of and/or party to a complaint alleging 
+violation of the Code maintain confidentiality of all information related to the complaint and to the 
+adjudication of the complaint unless they are compelled to disclose information by a validly issued 
+subpoena or when otherwise required by law or valid court order. 
+ 
+c. UNWARRANTED COMPLAINTS. CRCs/CCRCs do not initiate, participate in, or encourage the filing of 
+ethics complaints that are retaliatory in nature, made with reckless disregard or willful ignorance of facts that 
+would disprove the allegation, or are intended to harm CRCs/CCRCs rather than to protect clients or the 
+public. 
+ 
+d. UNFAIR DISCRIMINATION AGAINST COMPLAINANTS AND RESPONDENTS. CRCs/CCRCs do not 
+disparage or retaliate against individuals by denying services, employment, advancement, admission to 
+academic or other programs, tenure, or promotions based solely upon their having made or being the 
+subject of an ethics complaint. This does not preclude taking action based upon the outcome of such 
+proceedings when CRCs/CCRCs are found to be in violation of ethical standards. 
+ 
+e. COERCION OR ACTION AGAINST CLIENTS OR SUPERVISEES. CRCs/CCRCs under investigation 
+for an ethical violation must not use their position of power in the counseling or supervisory relationship to 
+pressure clients or supervisees to participate in the CRC’s/CCRC’s response process.
+
+42 
+GLOSSARY OF TERMS 
+ 
+ABANDONMENT: the inappropriate ending or arbitrary termination of a counseling relationship that puts 
+the client at risk. 
+ 
+ABLEISM: discrimination and social prejudice against individuals with disabilities. Ableism characterizes 
+individuals with disabilities as inferior to or somehow “less than” people without disabilities. 
+ 
+ACCESSIBILITY: access to a site, facility, work environment, service, or program that is easy to approach, 
+enter, operate, participate in, and/or use safely and with dignity by a person with a disability. 
+ 
+ADVOCACY: promoting the well-being of individuals, groups, and the profession within systems and 
+organizations. Advocacy seeks fair treatment and full physical and programmatic access for all individuals 
+with disabilities and the removal of any barriers or obstacles that inhibit access, growth, and development. 
+ 
+ANTIRACISM: conscious efforts and actions to counter racism, inequalities, prejudices, and discrimination 
+based on race. 
+ 
+ASSENT: agreement with a proposed course of action in relation to rehabilitation counseling services or 
+plans when a person is otherwise not capable or competent to give formal or legal consent (e.g., informed 
+consent). 
+ 
+ASSESSMENT: an ongoing, dynamic, and comprehensive process of collecting in-depth information and 
+data in order to provide individualized rehabilitation counseling services for a client. The terms “assessment” 
+and “evaluation” are sometimes used interchangeably. 
+ 
+AUTONOMY: the right of clients to be self-governing within their social and cultural framework; the right of 
+clients to make decisions on their own behalf. 
+ 
+AVOCATIONAL: a non-paid activity that may include hobbies, recreation, leisure, or volunteer work. 
+ 
+BENEFICENCE: to do good to others; to promote the well-being of clients. 
+ 
+BRACKETING: intentional separating and setting aside of personal values from professional values to 
+ensure ethical and appropriate services are provided to all clients. 
+ 
+CLIENTS: persons with or directly affected by a disability who receive services from CRCs/CCRCs. At 
+times, rehabilitation counseling services may be provided to individuals other than those with disabilities. 
+ 
+CLINICAL SUPERVISION: a formal process that generally is provided to a student or to a beginning 
+counselor (supervisee) by a more experienced counselor or educator (supervisor) in which the supervisee's 
+work with clients is reviewed and reflected upon with the aims of improving the supervisee's counseling 
+skills, protecting client welfare, and facilitating the supervisee's professional development. 
+ 
+CONFIDENTIALITY: a promise or contract to respect the privacy of clients by not disclosing anything 
+revealed to CRCs/CCRCs except under agreed-upon conditions. 
+ 
+CONFLICT OF INTEREST: a situation in which financial or other personal considerations have the potential 
+to compromise or bias professional judgment and objectivity. 
+ 
+CONSULTATION: a process in which one professional seeks the advice of another professional to resolve 
+a specific issue. 
+ 
+CONTINGENCY FEE: any fee for services provided where the fee is payable if the case is won or settled.
+
+43 
+COURT ORDER: a directive from a tribunal or court directing certain actions or conduct that CRCs/CCRCs 
+are legally required to follow. 
+ 
+CRCS/CCRCs IN A FORENSIC SETTING: CRCs/CCRCs who work in a forensic setting conducting 
+evaluations and/or reviews of records and conduct research for the purpose of providing unbiased and 
+objective expert opinions via case consultation or testimony. 
+ 
+CULTURAL COMPETENCE: possessing a set of values and principles and demonstrating behavior, 
+attitude, knowledge, or skills that enable one to work effectively cross-culturally with the capacity to value 
+diversity, conduct self-assessment, manage the dynamics of difference, acquire and institutionalize cultural 
+knowledge, and adapt to diversity and the cultural contexts of the individuals and communities served.  
+ 
+CULTURALLY DIVERSE: the existence of a variety of cultural or ethnic groups within a society. 
+ 
+CULTURAL HUMILITY: a lifelong process of self-reflection and self-critique whereby the individual not only 
+learns about another's culture but starts with an examination of their own beliefs and cultural identities. 
+ 
+CURRENT STUDENT: student currently enrolled in an educational program in which a CRC/CCRC 
+educator is teaching, regardless of their enrollment in a specific course or courses. 
+ 
+DISABILITY: physical or mental impairment that substantially limits one or more major life activities, a 
+history or record of such an impairment, or being perceived by others as having such an impairment. 
+ 
+DISPARAGING REMARKS: public statements that degrade, belittle, minimize, defame, demean, humiliate, 
+or scorn individuals or groups of individuals. If the evaluation of a colleague’s methodology, work product, or 
+conclusion is critical of the individual as a person, mocks the colleague’s character or intellect, or is based 
+on incorrect information or fictional claims, such a statement is considered a disparaging remark. 
+ 
+DISSONANCE: a situation that arises when a practitioner holds two or more competing values about a 
+specific situation or object. While the discomfort felt by the practitioner regarding these competing 
+differences is natural, CRCs/CCRCs need to appropriately bracket their values and work toward an 
+appropriate resolution. 
+ 
+ETHICAL DECISION-MAKING MODELS: frameworks that provide structure and guidance to assist the 
+practitioner in the process of ethical decision-making and clinical judgement. Ethical decision-making 
+model(s) may include but are not limited to consultation; consideration of relevant ethical standards, 
+principles, and laws; generation of potential courses of action; deliberation of risks and benefits; and 
+selection of an objective decision based on the circumstances and welfare of all involved. (See CRCC 
+website for ethical decision-making models.) 
+ 
+EVALUATION: a specific process of assessing an individual in the context of their living, 
+educational/learning, or working environments. The terms “evaluation” and “assessment” are sometimes 
+used interchangeably. 
+ 
+EVALUEE: in a forensic setting, the evaluee is the person who is being evaluated. 
+ 
+EXPLOIT: to take advantage of a power differential in a relationship. 
+ 
+FEE SPLITTING: the payment or acceptance of fees for client referrals (e.g., percentage of fee paid for 
+rent, referral fees). 
+ 
+FIDELITY: to be faithful; to keep promises and honor the trust placed in CRCs/CCRCs.
+
+44 
+FORENSIC: to provide expertise involving the application of professional knowledge and the use of 
+scientific, technical, or other specialized knowledge for the resolution of legal or administrative issues, 
+proceedings, or decisions. 
+ 
+FORMER STUDENT: Student no longer enrolled in an educational program in which the CRC/CCRC 
+educator teaches. 
+ 
+FUNCTIONAL: pertaining to the performance of tasks or activities required to achieve desired outcomes 
+during the course of daily life. 
+ 
+FUNCTIONAL LIMITATION: a term given to the restriction or lack of ability to perform a task or activity. 
+ 
+GATEKEEPING: the initial and ongoing academic, skill, and dispositional assessment of rehabilitation 
+counseling students’ and supervisees’ competency for professional practice, including remediation and 
+termination, as appropriate. 
+ 
+HARASSMENT: unwelcome conduct—whether verbal, written, physical, or visual —that is based upon a 
+person’s legally protected status. This includes sexual harassment, defined as sexual solicitation, physical 
+advances, or verbal or nonverbal conduct that is sexual in nature. Harassment occurs when (1) 
+CRCs/CCRCs know or are told the act is unwelcome, offensive, or creates a hostile workplace or learning 
+environment and (2) the act(s) would be perceived as harassment to a reasonable person or persons in the 
+context in which the behavior occurred. Harassment may occur in person or through electronic format. 
+ 
+HIPAA: an acronym for the Health Insurance Portability and Accountability Act. This piece of federal 
+legislation is a privacy rule with the major goal of protecting individual health information. It dictates whose 
+privacy is protected, what information is protected, and how protected information can be used and shared. 
+ 
+IDENTITY FIRST: an approach to self-identification by many different communities denoting a preference 
+for a specific characteristic to be embraced as the primary identity. Examples include a person preferring to 
+be called “Deaf” rather than an “person who is deaf,” or “autistic” rather than a “person who has autism.” 
+ 
+IMMEDIATE FAMILY MEMBERS: a child, spouse, parent, grandparent, or sibling. Immediate family 
+members are also defined in a manner that is sensitive to cultural differences. 
+ 
+IMPAIRMENT: a loss or significant deviation in body function or structure. 
+ 
+INFORMED CONSENT: a process of communication between CRCs/CCRCs and clients/evaluees that 
+results in an authorization or decision by clients based upon an appreciation and understanding of the facts 
+and implications of an action. 
+ 
+INSTITUTIONAL REVIEW BOARD (IRB): a committee that has been formally designated to approve, 
+monitor, and review biomedical and behavioral research involving humans. The committee members often 
+conduct some form of risk-benefit analysis in an attempt to determine whether or not research should be 
+done. The purpose of the IRB is to assure that appropriate steps are taken to protect the rights and welfare 
+of humans participating as subjects in a research study. 
+ 
+INTELLECTUAL PROPERTY: rights are given to persons who have authored or otherwise created original 
+works. They protect the products of human intelligence and creation, often in the form of copyrights, 
+patents, and trademarks, which are enforceable, lawful rights. 
+ 
+INTERSECTONALITY: the interconnected nature of social categorizations such as disability, race, class, 
+and gender as they apply to a given individual or group. 
+ 
+JUSTICE: to be fair in the treatment of all clients; to provide appropriate services to all.
+
+45 
+LAWS: within the context of this Code, the term laws includes any applicable laws, statues, or regulations, 
+whether they occur at a local, regional, or national level. 
+ 
+LEGAL GUARDIAN: a person who has been appointed by the courts and has the legal authority and 
+obligation to care for the personal and property interests of a minor or an adult who is incapacitated. Rights 
+and responsibilities of the legal guardian may vary by jurisdiction. 
+ 
+MICROAGRESSION: a comment or action that subtly and often unconsciously or unintentionally expresses 
+a prejudiced attitude toward a member of a marginalized group. 
+ 
+MINORS: generally, persons under the age of 18 years, unless otherwise designated by statute or 
+regulation. In some jurisdictions, minors may have the right to consent to counseling without consent of the 
+parent or guardian. 
+ 
+MULTICULTURAL: relating to or constituting several cultural and/or ethnic groups within a society. 
+ 
+MULTICULTURALISM: practice of giving attention to many different cultural backgrounds and identities in 
+society based on characteristics such as age, race, ethnicity, disability status, gender and gender 
+identify/expression, sexual identity, sexual orientation, etc. 
+ 
+NONMALEFICENCE: to do no harm to others. 
+ 
+OPRESSION: limitations, disadvantages, or disapproval experienced by an individual due to differences in 
+racial/ethnic status, sexual orientation or sexual preference, disability status, religion, or gender/gender 
+identity and expression. 
+ 
+PIPEDA: an acronym for the Personal Information Protection and Electronic Documents Act. This piece of 
+legislation is a privacy rule with the goal of protecting individual health information in Canada and dictates 
+whose privacy is protected, what information is protected, and how protected information can be used and 
+shared. 
+ 
+PLAGIARISM: an act or instance of using or closely imitating the language and thoughts of another author 
+without authorization; the representation of that author's work as one's own without crediting the original 
+author. 
+ 
+PRIVACY: the right of a client to keep the counseling relationship to him/herself (e.g., as a secret). Privacy 
+is more inclusive than confidentiality, which addresses communications in the counseling context. 
+ 
+PRIVILEGED COMMUNICATION: established by statute and protects clients from having confidential 
+communications with CRCs/CCRCs disclosed in legal proceedings without their permission. 
+ 
+PRO BONO PUBLICO: work of a professional nature that is undertaken voluntarily and without pay; work 
+provided for the public good. 
+ 
+PROFESSIONAL COMPETENCE: having requisite knowledge, skills, and abilities to provide quality 
+services as defined by the technical and ethical standards of the profession. The expertise needed to 
+undertake professional responsibilities and to serve the public interest. 
+ 
+PROFESSIONAL DISCLOSURE: the process of communicating pertinent information to clients in order for 
+clients to engage in informed consent. 
+ 
+PROTECTED IDENTITIES: characteristics of an individual that are protected by law to ensure equal 
+treatment and access across all social, educational, and employment domains. Characteristics include but 
+are not limited to race, color, ethnicity (national origin), religion, sexual orientation, sexual preference, age, 
+disability, etc.
+
+46 
+ 
+RACISM: prejudice, discrimination, or antagonism directed against a person or people based on their 
+membership in a particular racial or ethnic group, typically one that is a minority or marginalized. 
+ 
+RAW DATA: client/evaluee responses to assessment questions, raw and scaled scores, and notes and 
+recordings concerning client/evaluee statements and behavior obtained during an evaluation or 
+assessment. 
+ 
+RESEARCH: a systematic and scientific process of investigation that is intended to establish facts and 
+reach new conclusions. 
+ 
+REGIONAL: state, provincial, or other intermediate level. 
+ 
+RETAINER AGREEMENT: a contract that outlines the terms of the services provided by CRCs/CCRCs. 
+ 
+SOCIAL JUSTICE: the view that everyone deserves equality of opportunity in relationship to economic, 
+political, and social rights, and equality of access to housing, healthcare, employment, and more. 
+ 
+SOCIAL MEDIA: forms of electronic communication through which users create online communities to 
+share information, ideas, personal messages, and other content. 
+ 
+SOCIAL MEDIA POLICY: a statement delineating a CRC’s/CCRC’s practices and use of social media. 
+ 
+STUDENT: a person actively enrolled in an academic program. 
+ 
+SUBPOENA: a legal request for information and/or to appear in court, from a court official (e.g., judge, 
+lawyer). 
+ 
+SUPERVISEE: a professional CRC/CCRC or rehabilitation counselor-in-training whose work is being 
+overseen in a formal supervisory relationship by a qualified, trained CRC/CCRC. 
+ 
+SUPERVISOR: a CRC/CCRC who oversees the development and professional work of another 
+CRC/CCRC or rehabilitation counselor-in-training. 
+ 
+TEAMS: groups of individuals who participate in a structured or agreed-upon form of collaboration. 
+ 
+TEST/INSTRUMENT/ASSESSMENT: a tool, developed using accepted research practices, which 
+measures the presence and strength of a specified behavior or construct(s). The terms “test” and 
+“instrument” are sometimes used interchangeably. 
+ 
+TRAINING: educational activities, such as in-service training, professional development activity, or 
+completion of academic programs leading to the award of a degree or certificate. 
+ 
+TRIER OF FACT: the judge in a bench trial or jury in a jury trial that carries the responsibility of determining 
+the issues of fact in a case. 
+ 
+VERACITY: to be honest; truthfulness.  
+ 
+VIRTUAL COUNSELING, SUPERVISION, OR EDUCATION: rehabilitation counseling service provision, 
+supervision, or education that occurs primarily through any electronic format, sometimes referred to as 
+telehealth. 
+ 
+VIRTUAL RELATIONSHIP: a non-face-to-face relationship (e.g., through social media).
+
+47 
+WORLDVIEW: a term recognizing that individuals conceptualize the world differently based on a variety of 
+internal, external, and societal factors. 
+ 
+NOTE: CRCs/CCRCs who violate the Code are subject to disciplinary action. Since the use of the Certified 
+Rehabilitation Counselor (CRC®) and Canadian Certified Rehabilitation Counselor (CCRC®) designations 
+are a privilege granted by the Commission on Rehabilitation Counselor Certification (CRCC®), CRCC 
+reserves unto itself the power to suspend or to revoke the privilege or to approve other penalties for a 
+violation. Disciplinary penalties are imposed as warranted by the severity of the offense and its attendant 
+circumstances. All disciplinary actions are undertaken in accordance with published procedures and 
+penalties designed to assure the proper enforcement of the Code within the framework of due process and 
+equal protection under the law. 
+ 
+This document may be reproduced in its entirety without permission for non-commercial purposes only. 
+ 
+ 
+CRCC is a registered service mark of the Commission on Rehabilitation Counselor Certification. All rights reserved. 
+CRC is a registered certification mark of the Commission on Rehabilitation Counselor Certification. All rights reserved. 
+CCRC is a registered certification mark of the Commission on Rehabilitation Counselor Certification. All rights reserved. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RECOMMENDED CITATION 
+ 
+Commission on Rehabilitation Counselor Certification. (2023). Code of professional ethics for certified 
+rehabilitation counselors. Schaumburg, IL: Author. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A copy of CRCC’s Guidelines and Procedures for Processing Complaints along with a 
+Complaint Form may be obtained from CRCC’s website at www.crccertification.com or 
+by contacting CRCC at 
+ 
+CRCC 
+1501 East Woodfield Road, Suite 105E 
+Schaumburg, IL 60173 
+(847) 944-1325 
+ 
+Adopted: 09/2022 
+Effective: 01/2023

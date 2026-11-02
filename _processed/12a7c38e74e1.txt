@@ -1,0 +1,451 @@
+URL: https://tacqe.com/disability-inclusion-profiler/
+
+Disability Inclusion Profiler - Technical Assistance Center for Quality Employment
+"
+*
+" indicates required fields
+Please read each disability inclusion practice carefully and rate the extent to which you think the following disability inclusion practices are important in the workplace and the extent to which your company has implemented the following disability inclusion practices.
+Importance rating
+1 = Not important
+2 = Somewhat important
+3 = Important
+4 = Very important
+Implementation rating
+1 = Not currently in implementation
+2 = In planning for implementation
+3 = Partial implementation
+4 = Fully implementation
+1. Have a mechanism to assess the number of people with disabilities in the company.
+Importance Rating
+*
+1
+2
+3
+4
+Implementation Rating
+*
+1
+2
+3
+4
+2. Include disability in the company’s diversity and inclusion policies and procedures.
+Importance Rating
+*
+1
+2
+3
+4
+Implementation Rating
+*
+1
+2
+3
+4
+3. Have a senior executive with a disability.
+Importance Rating
+*
+1
+2
+3
+4
+Implementation Rating
+*
+1
+2
+3
+4
+4. Include “work and disability” as a topic in the company’s diversity and inclusion training.
+Importance Rating
+*
+1
+2
+3
+4
+Implementation Rating
+*
+1
+2
+3
+4
+5. Have a hiring manager with a disability.
+Importance Rating
+*
+1
+2
+3
+4
+Implementation Rating
+*
+1
+2
+3
+4
+6. Have internal and external resources to support the goals of the company’s disability employment and inclusion program.
+Importance Rating
+*
+1
+2
+3
+4
+Implementation Rating
+*
+1
+2
+3
+4
+7. Participate in job fairs for people with disabilities.
+Importance Rating
+*
+1
+2
+3
+4
+Implementation Rating
+*
+1
+2
+3
+4
+8. Senior leadership clearly communicates its commitment to meet the 7% utilization goal of people with disabilities.
+Importance Rating
+*
+1
+2
+3
+4
+Implementation Rating
+*
+1
+2
+3
+4
+9. Have annual targets and assess performance to achieve application and employment goals of persons with disabilities.
+Importance Rating
+*
+1
+2
+3
+4
+Implementation Rating
+*
+1
+2
+3
+4
+10. Report progress toward hiring persons with disabilities to senior management.
+Importance Rating
+*
+1
+2
+3
+4
+Implementation Rating
+*
+1
+2
+3
+4
+11. Senior leadership communicates clearly and affirmatively the company’s commitment to recruit and hire people with disabilities.
+Importance Rating
+*
+1
+2
+3
+4
+Implementation Rating
+*
+1
+2
+3
+4
+12. Provide disability inclusion training for company's HR recruiters.
+Importance Rating
+*
+1
+2
+3
+4
+Implementation Rating
+*
+1
+2
+3
+4
+13. Have internship and summer employment programs directed toward high school and college students with disabilities.
+Importance Rating
+*
+1
+2
+3
+4
+Implementation Rating
+*
+1
+2
+3
+4
+14. Identify and select partners that can be valuable in recruiting qualified individuals with disabilities.
+Importance Rating
+*
+1
+2
+3
+4
+Implementation Rating
+*
+1
+2
+3
+4
+15. Have contracts with employment agencies.
+Importance Rating
+*
+1
+2
+3
+4
+Implementation Rating
+*
+1
+2
+3
+4
+16. Have a disability accommodation policy.
+Importance Rating
+*
+1
+2
+3
+4
+Implementation Rating
+*
+1
+2
+3
+4
+17. Communicate emergency preparedness policy or procedures with specific mention of persons with disabilities.
+Importance Rating
+*
+1
+2
+3
+4
+Implementation Rating
+*
+1
+2
+3
+4
+18. Have an accommodations budget line item to cover costs of accommodations for employees.
+Importance Rating
+*
+1
+2
+3
+4
+Implementation Rating
+*
+1
+2
+3
+4
+19. Include “work and disability” as a topic in the company’s new employee orientation training.
+Importance Rating
+*
+1
+2
+3
+4
+Implementation Rating
+*
+1
+2
+3
+4
+20. Post statement of commitment to hiring people with disabilities on your public-facing company website.
+Importance Rating
+*
+1
+2
+3
+4
+Implementation Rating
+*
+1
+2
+3
+4
+21. Have in-house (or contractual) disability management personnel that are responsible for handling issues related to the Americans with Disabilities Act (ADA) and ADA job accommodations.
+Importance Rating
+*
+1
+2
+3
+4
+Implementation Rating
+*
+1
+2
+3
+4
+22. Have strategies to attract qualified applications from persons with disabilities.
+Importance Rating
+*
+1
+2
+3
+4
+Implementation Rating
+*
+1
+2
+3
+4
+23. Have a mentoring program to promote advancement of diverse persons.
+Importance Rating
+*
+1
+2
+3
+4
+Implementation Rating
+*
+1
+2
+3
+4
+Consent
+*
+I confirm that the information I have provided on this form is an accurate representation of my company.
+*
+Company Information
+What is the size of your company?
+*
+Small – Less than 50 employees
+Medium – Between 50 and 249 employees
+Large – Greater than or equal to 250 employees
+Approximately what percent of your workforce has self-identified disabilities?
+*
+This field is hidden when viewing the form
+Approximately what percent of your workforce has self-identified disabilities?
+*
+0%
+0.5%
+1%
+1.5%
+2%
+2.5%
+3.0%
+3.5%
+4.0%
+4.5%
+5.0%
+5.5%
+6.0%
+6.5%
+7.0%
+> 7.0%
+Other (please specify)
+This field is hidden when viewing the form
+Other Percentage
+Is your company a Fortune 500 company?
+*
+Yes
+No
+Does your company have 50 or more employees and federal contracts over $50,000?
+*
+Yes
+No
+The Hiring Intention Scale
+*
+Instructions:
+Please indicate, in the next six months, your company's intentions to hire people with disabilities using the following 7-point agreement scale.
+Strongly Disagree
+Disagree
+Somewhat Disagree
+Neither Agree nor Disagree
+Somewhat Agree
+Agree
+Strongly Agree
+1. Intent to hire
+2. Ready to hire
+3. Decided to hire
+4. Planning to hire
+5. Will hire
+Type of Industry of Business
+*
+Accommodation and Food Services
+Wholesale Trade
+Retail Trade (e.g., Food services and different types of stores)
+Transportation and Warehousing
+Information and Technology
+Finance and Insurance
+Real Estate and Rental and Leasing
+Educational Services
+Professional, Scientific, and Technical Services
+Management of Companies and Enterprises
+Health Care and Social Assistance
+Arts, Entertainment, and Recreation
+Administrative and Support and Waste Management and Remediation Services
+Manufacturing
+Other sector (Please specify)
+Other Industry
+Title of the person completing this survey
+*
+Human Resource managers
+Human Resource staff
+Recruiter
+Owner
+C-suite
+Manager
+Director
+Other (Please Specify)
+Other Title
+For our research purposes only, can you please provide responses to the following demographic questions?
+Data collected will be deidentified and not connected to your company in any published report or database. Demographic information will not be included in reports generated on this site.
+How long have you been in your current position (in years)?
+*
+How many total years have you been employed in a human resource or hiring position?
+*
+What is your current age (in years)?
+What is your gender?
+Male
+Female
+Transgender
+Non-binary/non-conforming
+Prefer not to respond
+What is your race background?
+White
+Black or African American
+American Indian or Alaska Native
+Asian
+Native Hawaiian or Other Pacific Islander
+Other
+Other
+*
+Are you identified as Hispanic or Latino Origin?
+Yes
+No
+Almost done!
+Select all that apply.
+Create account
+I would like to create a free business account to gain access to more resources.
+Add report to account
+Add my report to my account.
+Email report
+Email me a copy of the report.
+Contact me
+I would like to be contacted with further information about disability inclusion.
+Include organization name
+Include my organization's name on my report.
+Include my name
+Include my name as "completed by" on my report.
+Name
+*
+First
+Last
+Email Address:
+*
+Organization Name
+*
+Type and Press “enter” to Search

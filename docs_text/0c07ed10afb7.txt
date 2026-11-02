@@ -1,0 +1,16 @@
+FILENAME: how-20to-20report-20other-20icrs-0-docx-bddbdec3c28d.docx
+PATH: _raw/rsa.ed.gov/how-20to-20report-20other-20icrs-0-docx-bddbdec3c28d.docx
+
+Reporting Instructions: How to Report Information Collections in RSAMIS
+After you have logged-in to your RSAMIS account, please follow the below steps to report data at rsa.ed.gov (these steps use the RSA-692 as an example):
+Scroll down to the menu at the bottom of the page. Under the column labeled “DATA,” select “Report Data.”
+This will take you to the “Warning” page. After reading the warning, select “Report Data.”
+This will take you to a page listing your Grantee name that includes the data collection forms you have permissions to use.
+Select the specific data collection form (e.g., RSA-692) you would like to use.
+This will bring you to the RSA-692 data collection page or the page for whichever form you selected to use. This page includes information about the OMB-approved information collection and other details.
+To submit the FY 2020 RSA-692 report, for example, select “RSA-692 FY 2020.”
+This will bring you to the page where you will enter data for the RSA-692 report. In the form, the grantee name will be prepopulated next to “Submitting Organization.”
+Once you have entered the data into the RSA-692 report or whichever data collection form you are using, you will need to indicate that you are signing the form, enter the date you are signing the form, and enter your signature. You then have the option of saving the report in draft by selecting “Save Draft” or you may submit the report to RSA by selecting “Submit.”
+If you save the form as Draft, you will see a confirmation message that reads, “Draft saved.”
+When you come back later to finish the form, you will see the message that reads, “Draft loaded” with the previously saved information.
+If you submit the report to RSA, you will see a confirmation message that reads, “RSA-692 report has been submitted.” You will also receive an email confirming submission.

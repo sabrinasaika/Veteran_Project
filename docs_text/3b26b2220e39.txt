@@ -1,0 +1,10 @@
+FILENAME: eca888dfad47-howtoprint.pdf
+PATH: _raw/tacqe.com/eca888dfad47-howtoprint.pdf
+
+To print this information as a folded booklet on 8.5”x11” paper, open the 
+document in Adobe Acrobat Reader DC. Next, select the FILE tab, then select 
+Print…  
+ 
+In the following Print dialog box, select Booklet under “Page Sizing and Handling.” 
+Be sure that the Booklet subset has “Both sides” selected. The dialog box also has 
+a preview on the bottom right that you can examine. When satisfied, select Print.

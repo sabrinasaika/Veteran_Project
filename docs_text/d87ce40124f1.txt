@@ -1,0 +1,181 @@
+FILENAME: eta-9169-20annualreport-py2018-20ut-pdf-77cb463cc194.pdf
+PATH: _raw/rsa.ed.gov/eta-9169-20annualreport-py2018-20ut-pdf-77cb463cc194.pdf
+
+WIOA STATEWIDE AND LOCAL PREFORMANCE REPORT 
+June 2018
+PROGRAM
+STATE:                                                                                                                               Utah                             
+ 
+From(mm/dd/yyyy): 7/1/2018 To(mm/dd/yyyy): 6/30/2019  X
+
+SUMMARY INFORMATION
+Service
+BY PARTICIPANT CHARACTERISTICS
+Num Rate Num Rate Num Rate Num Rate
+Negotiated 
+Target Baseline Baseline Baseline Baseline
+Actual 1,843 52.9% 1,477 51.2%
+836 51.0% 721 52.4%
+1,006 54.6% 755 50.3%
+- - 7
+5 54.7%
+228 61.3% 563 54.0%
+480 61.1% 365 55.7%
+769 54.3% 365 46.6%
+249 44.9% 76 39.8%
+76 35.0% 20 41.7%
+39 30.7% 13 50.0%
+54 49.1% 37 43.0%
+26 53.1% 22 45.8%
+49 47.6% 27 38.0%
+159 49.4% 113 44.7%
+26 63.4% 19 52.8%
+1,738 53.0% 1,414 51.9%
+201 50.2% 151 46.3%
+45 3,964
+White 11,882 3,690 3,462
+More Than One Race 1,599 518 3,576
+3,553
+60+ 440 161 3,691
+Ethnicity/Race
+American Indian / Alaska Native 447 159 3,836
+Asian 206 59 3,350
+Black / African American 438 143 2,912
+Hispanic / Latino 1,285 428 3,720
+Native Hawaiian / Pacific 
+Islander 168
+Age
+ < 16 191 19 1,500
+16 - 18 2,164 481 3,610
+19 - 24 2,918 901 2,815
+25 - 44 4,709 1,565 3,801
+45 - 54 1,745 624 3,561
+55 - 59 624 232
+Total Statewide 12,791 3,983
+Baseline
+Sex
+Female 5,760 1,725 3,405
+Male 7,016 2,256 3,645
+3,495
+N/A 30.0% N/A
+Total Participants 
+Served
+Total Participants 
+Exited
+Employment Rate 
+(Q2)2 
+(Cohort Period: 
+07/01/2017 - 
+06/30/2018)
+Employment Rate 
+(Q4)2
+Median 
+Earnings        
+(Cohort Period: 
+07/01/2017 - 
+06/30/2018)
+Credential Rate3
+Measurable Skill 
+Gains3
+(Cohort Period: 
+07/01/2018 - 
+06/30/2019)
+Earnings
+2,798 $6,311,962 $549
+Training Services 3,135 513 $4,578,139 $1,460
+Percent training-related employment1: Percent enrolled in more than one core program: Percent Admin Expended:
+OMB Control Number 1205-0526
+Expiration Date:  03-31-2021 ETA-9169
+Statewide Performance Report
+TITLE (select one):
+Title I Local Area: Title I Adult Title II Adult Education
+REPORTING PERIOD COVERED (Required for current and three preceding years.) Title I Dislocated Worker Title III Wagner-Peyser
+Title I Youth Title IV Vocational Rehabilitation
+Title I and Title III combined
+Participants Served
+(Cohort Period: 
+07/01/2018 - 06/30/2019) Participants Exited
+(Cohort Period: 07/01/2018 - 06/30/2019)
+Funds Expended
+(Cohort Period: 07/01/2018 - 
+06/30/2019)
+Cost Per Participant Served
+(Cohort Period: 07/01/2018 - 
+06/30/2019)
+Career Services 11,496 
+Revised 2.17.2016 1
+
+WIOA STATEWIDE AND LOCAL PREFORMANCE REPORT 
+June 2018
+BY EMPLOYMENT BARRIER4
+Num Rate Num Rate Num Rate Num Rate
+Negotiated 
+Target Baseline Baseline Baseline Baseline
+Actual 1,843 52.9% 1,477 51.2%
+91 47.2% 81 53.6%
+482 53.1% 358 51.2%
+7 15.6% 10 33.3%
+378 46.1% 151 35.8%
+26 29.5% 15 28.3%
+1,164 48.0% 773 52.4%
+967 48.9% 699 46.0%
+- - - -
+1
+,843 52.9% 1,477 51.2%
+192 56.6% 116 46.4%
+75 52.8% 59 37.3%
+Public Burden Statement (1205-0526) 
+Persons are not required to respond to this collection of information unless it displays a currently valid OMB control number. Respondent’s reply to these reporting requirements is required to obtain 
+or retain benefits (Workforce Innovation and Opportunity Act, Section 185(a)(2)). Public reporting burden for this collection of information is estimated to range between 240 and 360 minutes which 
+averages 300 minutes per response, including the time for reviewing instructions, searching existing data sources, gathering and maintaining the data needed, and completing and reviewing the 
+collection of information. Send comments regarding this burden estimate to the Office of Policy Development and Research ● U.S. Department of Labor ● Room N-5641 ● 200 Constitution Ave., NW, ● 
+Washington, DC ● 20210. Do NOT send the completed 9169 application to this address.
+Youth in foster care or aged out of system 909 260 3,703
+1Applies to Title I only.
+2This indicator also includes those who entered into a training or education program for the Youth program.   
+3Credential Rate and Measurable Skill Gains do not apply to the Wagner-Peyser program.
+4Barriers to Employment are determined at the point of entry into the program. 
+Numbers entered into cells in this template are the same as the corresponding "report item number" on the report specification document.  Clicking on each hyperlink will take the user to the plain 
+text language and technical specifications of each report item.
+Migrant and Seasonal Farmworkers 21 6 5,913
+Individuals with Disabilities (incl. youth) 12,791 3,983 3,495
+Single Parents (Incl. single pregnant women) 1,242 423 4,534
+Homeless Individuals / runaway youth 471 154 4,645
+Long-term Unemployed                          (27 or 
+more consecutive weeks)
+6,934 2,230 3,052
+Low-Income Individuals 7,715 2,429 3,023
+English Language Learners, Low Levels of 
+Literacy, Cultural Barriers
+3,785 1,071 2,122
+Exhausting TANF within 2 years (Part A Title 
+IV of the Social Security Act) 160 49 4,676
+Ex-offenders 3,257 1,191 3,376
+Total Statewide 12,791 3,983
+Baseline
+3,495
+Displaced Homemakers 682 180 3,822
+Total Participants 
+Served
+Total Participants 
+Exited
+Employment Rate 
+(Q2)2 
+(Cohort Period: 
+07/01/2017 - 
+06/30/2018)
+Employment Rate 
+(Q4)2            
+Median 
+Earnings        
+(Cohort Period: 
+07/01/2017 - 
+06/30/2018)
+Credential Rate3
+Measurable Skill 
+Gains3
+(Cohort Period: 
+07/01/2018 - 
+06/30/2019)
+Earnings
+Revised 2.17.2016 2

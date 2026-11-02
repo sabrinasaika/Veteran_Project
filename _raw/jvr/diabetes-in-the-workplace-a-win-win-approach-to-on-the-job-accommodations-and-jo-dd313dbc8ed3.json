@@ -1,0 +1,1438 @@
+{
+  "source_type": "jvr_pdf_candidate",
+  "doi": "10.1177/10522263261430647",
+  "doi_url": "https://doi.org/10.1177/10522263261430647",
+  "source_url": "https://journals.sagepub.com/doi/10.1177/10522263261430647",
+  "attempted_pdf_urls": [
+    "https://journals.sagepub.com/doi/pdf/10.1177/10522263261430647",
+    "https://journals.sagepub.com/doi/10.1177/10522263261430647",
+    "https://doi.org/10.1177/10522263261430647",
+    "https://content.iospress.com/download?id=10.1177/10522263261430647"
+  ],
+  "selected_pdf_url": "",
+  "selected_final_url": "",
+  "download_status": "unavailable",
+  "match": {
+    "veteran_hits": [
+      "va "
+    ],
+    "pathway_hits": [
+      "employment",
+      "job",
+      "jobs",
+      "job retention",
+      "employment outcome",
+      "employment outcomes"
+    ],
+    "disability_hits": []
+  },
+  "openalex": {
+    "id": "https://openalex.org/W7138878665",
+    "doi": "https://doi.org/10.1177/10522263261430647",
+    "title": "Diabetes in the Workplace: A Win-Win Approach to on-the-Job Accommodations and Job Retention",
+    "display_name": "Diabetes in the Workplace: A Win-Win Approach to on-the-Job Accommodations and Job Retention",
+    "publication_year": 2026,
+    "publication_date": "2026-03-18",
+    "ids": {
+      "openalex": "https://openalex.org/W7138878665",
+      "doi": "https://doi.org/10.1177/10522263261430647"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/10522263261430647",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/10522263261430647",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S190353498",
+        "display_name": "Journal of Vocational Rehabilitation",
+        "issn_l": "1052-2263",
+        "issn": [
+          "1052-2263",
+          "1878-6316"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310318577",
+        "host_organization_name": "IOS Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310318577"
+        ],
+        "host_organization_lineage_names": [
+          "IOS Press"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Vocational Rehabilitation",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5073029992",
+          "display_name": "Stuart Rumrill",
+          "orcid": "https://orcid.org/0000-0003-0844-5234"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I157725225",
+            "display_name": "University of Illinois Urbana-Champaign",
+            "ror": "https://ror.org/047426m28",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I157725225"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Stuart Rumrill",
+        "raw_affiliation_strings": [
+          "Health and Kinesiology, University of Illinois Urbana-Champaign"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Health and Kinesiology, University of Illinois Urbana-Champaign",
+            "institution_ids": [
+              "https://openalex.org/I157725225"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000168905",
+          "display_name": "Kaiqi Zhou",
+          "orcid": "https://orcid.org/0000-0002-6524-0385"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I123534392",
+            "display_name": "University of North Texas",
+            "ror": "https://ror.org/00v97ad02",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I123534392"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Kaiqi Zhou",
+        "raw_affiliation_strings": [
+          "University of North Texas"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of North Texas",
+            "institution_ids": [
+              "https://openalex.org/I123534392"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5066436137",
+          "display_name": "Sara Park",
+          "orcid": "https://orcid.org/0000-0001-9584-5003"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I123534392",
+            "display_name": "University of North Texas",
+            "ror": "https://ror.org/00v97ad02",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I123534392"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Sara Park",
+        "raw_affiliation_strings": [
+          "University of North Texas"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of North Texas",
+            "institution_ids": [
+              "https://openalex.org/I123534392"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5121859217",
+          "display_name": "Phillip Rumrill",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I87216513",
+            "display_name": "Michigan State University",
+            "ror": "https://ror.org/05hs6h993",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I87216513"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Phillip Rumrill",
+        "raw_affiliation_strings": [
+          "Michigan State University"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Michigan State University",
+            "institution_ids": [
+              "https://openalex.org/I87216513"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 4,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5073029992"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I157725225"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.93457312,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": null,
+      "issue": null,
+      "first_page": null,
+      "last_page": null
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11084",
+      "display_name": "Workplace Health and Well-being",
+      "score": 0.07670000195503235,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3600",
+        "display_name": "General Health Professions"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/36",
+        "display_name": "Health Professions"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11084",
+        "display_name": "Workplace Health and Well-being",
+        "score": 0.07670000195503235,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3600",
+          "display_name": "General Health Professions"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/36",
+          "display_name": "Health Professions"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10793",
+        "display_name": "Diabetes Management and Education",
+        "score": 0.06870000064373016,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2712",
+          "display_name": "Endocrinology, Diabetes and Metabolism"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12066",
+        "display_name": "Obesity and Health Practices",
+        "score": 0.03680000081658363,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3611",
+          "display_name": "Pharmacy"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/36",
+          "display_name": "Health Professions"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/accommodation",
+        "display_name": "Accommodation",
+        "score": 0.8471999764442444
+      },
+      {
+        "id": "https://openalex.org/keywords/overweight",
+        "display_name": "Overweight",
+        "score": 0.5349000096321106
+      },
+      {
+        "id": "https://openalex.org/keywords/rehabilitation",
+        "display_name": "Rehabilitation",
+        "score": 0.45509999990463257
+      },
+      {
+        "id": "https://openalex.org/keywords/job-loss",
+        "display_name": "Job loss",
+        "score": 0.3409999907016754
+      },
+      {
+        "id": "https://openalex.org/keywords/balance",
+        "display_name": "Balance (ability)",
+        "score": 0.31369999051094055
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C157660682",
+        "wikidata": "https://www.wikidata.org/wiki/Q419793",
+        "display_name": "Accommodation",
+        "level": 2,
+        "score": 0.8471999764442444
+      },
+      {
+        "id": "https://openalex.org/C2780586474",
+        "wikidata": "https://www.wikidata.org/wiki/Q332428",
+        "display_name": "Overweight",
+        "level": 3,
+        "score": 0.5349000096321106
+      },
+      {
+        "id": "https://openalex.org/C2778818304",
+        "wikidata": "https://www.wikidata.org/wiki/Q1819478",
+        "display_name": "Rehabilitation",
+        "level": 2,
+        "score": 0.45509999990463257
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.4075999855995178
+      },
+      {
+        "id": "https://openalex.org/C74909509",
+        "wikidata": "https://www.wikidata.org/wiki/Q10387",
+        "display_name": "Gerontology",
+        "level": 1,
+        "score": 0.3919000029563904
+      },
+      {
+        "id": "https://openalex.org/C71924100",
+        "wikidata": "https://www.wikidata.org/wiki/Q11190",
+        "display_name": "Medicine",
+        "level": 0,
+        "score": 0.36809998750686646
+      },
+      {
+        "id": "https://openalex.org/C75630572",
+        "wikidata": "https://www.wikidata.org/wiki/Q538904",
+        "display_name": "Applied psychology",
+        "level": 1,
+        "score": 0.34709998965263367
+      },
+      {
+        "id": "https://openalex.org/C2993469481",
+        "wikidata": "https://www.wikidata.org/wiki/Q41171",
+        "display_name": "Job loss",
+        "level": 3,
+        "score": 0.3409999907016754
+      },
+      {
+        "id": "https://openalex.org/C168031717",
+        "wikidata": "https://www.wikidata.org/wiki/Q1530280",
+        "display_name": "Balance (ability)",
+        "level": 2,
+        "score": 0.31369999051094055
+      },
+      {
+        "id": "https://openalex.org/C555293320",
+        "wikidata": "https://www.wikidata.org/wiki/Q12206",
+        "display_name": "Diabetes mellitus",
+        "level": 2,
+        "score": 0.3133000135421753
+      },
+      {
+        "id": "https://openalex.org/C160735492",
+        "wikidata": "https://www.wikidata.org/wiki/Q31207",
+        "display_name": "Health care",
+        "level": 2,
+        "score": 0.2874000072479248
+      },
+      {
+        "id": "https://openalex.org/C159110408",
+        "wikidata": "https://www.wikidata.org/wiki/Q121176",
+        "display_name": "Nursing",
+        "level": 1,
+        "score": 0.28200000524520874
+      },
+      {
+        "id": "https://openalex.org/C144133560",
+        "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+        "display_name": "Business",
+        "level": 0,
+        "score": 0.27059999108314514
+      },
+      {
+        "id": "https://openalex.org/C2779353907",
+        "wikidata": "https://www.wikidata.org/wiki/Q828739",
+        "display_name": "Occupational rehabilitation",
+        "level": 3,
+        "score": 0.2531000077724457
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1177/10522263261430647",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1177/10522263261430647",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S190353498",
+          "display_name": "Journal of Vocational Rehabilitation",
+          "issn_l": "1052-2263",
+          "issn": [
+            "1052-2263",
+            "1878-6316"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310318577",
+          "host_organization_name": "IOS Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310318577"
+          ],
+          "host_organization_lineage_names": [
+            "IOS Press"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Vocational Rehabilitation",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "score": 0.4893706738948822,
+        "id": "https://metadata.un.org/sdg/10",
+        "display_name": "Reduced inequalities"
+      }
+    ],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "content_urls": null,
+    "referenced_works_count": 30,
+    "referenced_works": [
+      "https://openalex.org/W1928678829",
+      "https://openalex.org/W2075281490",
+      "https://openalex.org/W2253146837",
+      "https://openalex.org/W2329597115",
+      "https://openalex.org/W2346808375",
+      "https://openalex.org/W2757847198",
+      "https://openalex.org/W2789317488",
+      "https://openalex.org/W2799477269",
+      "https://openalex.org/W2802572437",
+      "https://openalex.org/W2808141153",
+      "https://openalex.org/W2913800336",
+      "https://openalex.org/W2922375543",
+      "https://openalex.org/W2924181987",
+      "https://openalex.org/W2947793521",
+      "https://openalex.org/W2966092311",
+      "https://openalex.org/W2978987634",
+      "https://openalex.org/W2995605526",
+      "https://openalex.org/W2997893869",
+      "https://openalex.org/W3036004292",
+      "https://openalex.org/W3106480898",
+      "https://openalex.org/W3114158622",
+      "https://openalex.org/W3174891878",
+      "https://openalex.org/W3206204598",
+      "https://openalex.org/W4281678382",
+      "https://openalex.org/W4304192846",
+      "https://openalex.org/W4310281491",
+      "https://openalex.org/W4365516039",
+      "https://openalex.org/W4388111256",
+      "https://openalex.org/W4389938368",
+      "https://openalex.org/W4411599244"
+    ],
+    "related_works": [],
+    "abstract_inverted_index": {
+      "Background": [
+        0
+      ],
+      "Diabetes": [
+        1
+      ],
+      "affects": [
+        2
+      ],
+      "over": [
+        3
+      ],
+      "38": [
+        4
+      ],
+      "million": [
+        5
+      ],
+      "U.S.": [
+        6
+      ],
+      "adults": [
+        7
+      ],
+      "and": [
+        8,
+        17,
+        23,
+        43,
+        50,
+        59,
+        83,
+        89,
+        110,
+        138,
+        144,
+        155,
+        164,
+        168
+      ],
+      "is": [
+        9
+      ],
+      "linked": [
+        10
+      ],
+      "to": [
+        11,
+        38,
+        107,
+        158
+      ],
+      "higher": [
+        12
+      ],
+      "absenteeism,": [
+        13
+      ],
+      "presenteeism,": [
+        14
+      ],
+      "early": [
+        15
+      ],
+      "retirement,": [
+        16
+      ],
+      "workplace": [
+        18
+      ],
+      "discrimination.": [
+        19
+      ],
+      "Despite": [
+        20
+      ],
+      "ADA": [
+        21
+      ],
+      "protections": [
+        22
+      ],
+      "evidence": [
+        24
+      ],
+      "that": [
+        25
+      ],
+      "reasonable": [
+        26
+      ],
+      "accommodations": [
+        27
+      ],
+      "dramatically": [
+        28
+      ],
+      "improve": [
+        29
+      ],
+      "outcomes,": [
+        30
+      ],
+      "workers": [
+        31
+      ],
+      "with": [
+        32,
+        85
+      ],
+      "diabetes": [
+        33
+      ],
+      "underutilize": [
+        34
+      ],
+      "them,": [
+        35
+      ],
+      "primarily": [
+        36
+      ],
+      "due": [
+        37
+      ],
+      "stigma,": [
+        39,
+        163
+      ],
+      "fear": [
+        40
+      ],
+      "of": [
+        41,
+        62
+      ],
+      "retaliation,": [
+        42
+      ],
+      "a": [
+        44,
+        56,
+        124
+      ],
+      "daunting": [
+        45
+      ],
+      "accommodation": [
+        46,
+        111,
+        160
+      ],
+      "request": [
+        47
+      ],
+      "process.": [
+        48
+      ],
+      "Objectives": [
+        49
+      ],
+      "Methods": [
+        51
+      ],
+      "This": [
+        52
+      ],
+      "article": [
+        53,
+        151
+      ],
+      "first": [
+        54
+      ],
+      "presents": [
+        55
+      ],
+      "detailed": [
+        57
+      ],
+      "occupational": [
+        58
+      ],
+      "demographic": [
+        60
+      ],
+      "profile": [
+        61
+      ],
+      "diabetes,": [
+        63
+      ],
+      "showing": [
+        64
+      ],
+      "disproportionate": [
+        65
+      ],
+      "impact": [
+        66
+      ],
+      "on": [
+        67
+      ],
+      "racial/ethnic": [
+        68
+      ],
+      "minorities;": [
+        69
+      ],
+      "individuals": [
+        70
+      ],
+      "who": [
+        71
+      ],
+      "are": [
+        72
+      ],
+      "overweight": [
+        73
+      ],
+      "or": [
+        74,
+        79
+      ],
+      "obese;": [
+        75
+      ],
+      "those": [
+        76,
+        84
+      ],
+      "in": [
+        77
+      ],
+      "shift-based": [
+        78
+      ],
+      "physically": [
+        80
+      ],
+      "demanding": [
+        81
+      ],
+      "jobs;": [
+        82
+      ],
+      "mobility": [
+        86
+      ],
+      "limitations,": [
+        87
+      ],
+      "neuropathy,": [
+        88
+      ],
+      "vision": [
+        90
+      ],
+      "impairment.": [
+        91
+      ],
+      "Results": [
+        92
+      ],
+      "A": [
+        93
+      ],
+      "composite": [
+        94
+      ],
+      "worker,": [
+        95
+      ],
+      "Brendan": [
+        96,
+        134
+      ],
+      "(a": [
+        97
+      ],
+      "48-year-old": [
+        98
+      ],
+      "Hispanic": [
+        99
+      ],
+      "warehouse": [
+        100
+      ],
+      "associate),": [
+        101
+      ],
+      "illustrates": [
+        102
+      ],
+      "how": [
+        103
+      ],
+      "these": [
+        104
+      ],
+      "factors": [
+        105
+      ],
+      "intersect": [
+        106
+      ],
+      "deter": [
+        108
+      ],
+      "disclosure": [
+        109
+      ],
+      "requests.": [
+        112
+      ],
+      "The": [
+        113
+      ],
+      "manuscript": [
+        114
+      ],
+      "then": [
+        115
+      ],
+      "introduces": [
+        116
+      ],
+      "the": [
+        117,
+        150
+      ],
+      "Win-Win": [
+        118
+      ],
+      "Approach—a": [
+        119
+      ],
+      "non-adversarial,": [
+        120
+      ],
+      "seven-step": [
+        121
+      ],
+      "framework—and": [
+        122
+      ],
+      "provides": [
+        123
+      ],
+      "step-by-step": [
+        125
+      ],
+      "case": [
+        126
+      ],
+      "example": [
+        127
+      ],
+      "contrasting": [
+        128
+      ],
+      "effective": [
+        129
+      ],
+      "versus": [
+        130
+      ],
+      "ineffective": [
+        131
+      ],
+      "communication": [
+        132
+      ],
+      "when": [
+        133
+      ],
+      "requests": [
+        135
+      ],
+      "private": [
+        136
+      ],
+      "space": [
+        137
+      ],
+      "refrigeration": [
+        139
+      ],
+      "for": [
+        140
+      ],
+      "insulin": [
+        141
+      ],
+      "administration.": [
+        142
+      ],
+      "Implications": [
+        143
+      ],
+      "Conclusions": [
+        145
+      ],
+      "By": [
+        146
+      ],
+      "offering": [
+        147
+      ],
+      "replicable": [
+        148
+      ],
+      "strategies,": [
+        149
+      ],
+      "equips": [
+        152
+      ],
+      "workers,": [
+        153
+      ],
+      "employers,": [
+        154
+      ],
+      "rehabilitation": [
+        156
+      ],
+      "professionals": [
+        157
+      ],
+      "increase": [
+        159
+      ],
+      "utilization,": [
+        161
+      ],
+      "reduce": [
+        162
+      ],
+      "achieve": [
+        165
+      ],
+      "better": [
+        166
+      ],
+      "health": [
+        167
+      ],
+      "employment": [
+        169
+      ],
+      "outcomes.": [
+        170
+      ]
+    },
+    "counts_by_year": [],
+    "updated_date": "2026-03-20T20:54:20.808490",
+    "created_date": "2026-03-20T00:00:00"
+  },
+  "crossref": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          20
+        ]
+      ],
+      "date-time": "2026-03-20T12:02:06Z",
+      "timestamp": 1774008126169,
+      "version": "3.50.1"
+    },
+    "reference-count": 43,
+    "publisher": "SAGE Publications",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              18
+            ]
+          ],
+          "date-time": "2026-03-18T00:00:00Z",
+          "timestamp": 1773792000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+      }
+    ],
+    "funder": [
+      {
+        "name": "Career Innovations Project",
+        "award": [
+          "H263G250011)."
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "H263G250011)."
+            ]
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.sagepub.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Journal of Vocational Rehabilitation"
+    ],
+    "abstract": "<jats:sec>\n                    <jats:title>Background</jats:title>\n                    <jats:p>Diabetes affects over 38 million U.S. adults and is linked to higher absenteeism, presenteeism, early retirement, and workplace discrimination. Despite ADA protections and evidence that reasonable accommodations dramatically improve outcomes, workers with diabetes underutilize them, primarily due to stigma, fear of retaliation, and a daunting accommodation request process.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Objectives and Methods</jats:title>\n                    <jats:p>This article first presents a detailed occupational and demographic profile of diabetes, showing disproportionate impact on racial/ethnic minorities; individuals who are overweight or obese; those in shift-based or physically demanding jobs; and those with mobility limitations, neuropathy, and vision impairment.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>A composite worker, Brendan (a 48-year-old Hispanic warehouse associate), illustrates how these factors intersect to deter disclosure and accommodation requests. The manuscript then introduces the Win-Win Approach—a non-adversarial, seven-step framework—and provides a step-by-step case example contrasting effective versus ineffective communication when Brendan requests private space and refrigeration for insulin administration.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Implications and Conclusions</jats:title>\n                    <jats:p>By offering replicable strategies, the article equips workers, employers, and rehabilitation professionals to increase accommodation utilization, reduce stigma, and achieve better health and employment outcomes.</jats:p>\n                  </jats:sec>",
+    "DOI": "10.1177/10522263261430647",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          18
+        ]
+      ],
+      "date-time": "2026-03-18T09:16:23Z",
+      "timestamp": 1773825383000
+    },
+    "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Diabetes in the Workplace: A Win-Win Approach to on-the-Job Accommodations and Job Retention"
+    ],
+    "prefix": "10.1177",
+    "author": [
+      {
+        "given": "Stuart",
+        "family": "Rumrill",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Health and Kinesiology, University of Illinois Urbana-Champaign"
+          }
+        ]
+      },
+      {
+        "given": "Kaiqi",
+        "family": "Zhou",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of North Texas"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9584-5003",
+        "authenticated-orcid": false,
+        "given": "Sara",
+        "family": "Park",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of North Texas"
+          }
+        ]
+      },
+      {
+        "given": "Phillip",
+        "family": "Rumrill",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Michigan State University"
+          }
+        ]
+      }
+    ],
+    "member": "179",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          18
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_2_2_1",
+        "unstructured": "ADA Amendments Act of 2008. (2008). Pub. L. No. Pub. L. No. 110-325 122 Stat. 3553 (2008)."
+      },
+      {
+        "key": "e_1_3_2_3_1",
+        "unstructured": "American Diabetes Association. (2025). Diabetes Symptoms & Early Warning Signs: Know When to Take Action. https://diabetes.org/about-diabetes/warning-signs-symptoms."
+      },
+      {
+        "key": "e_1_3_2_4_1",
+        "unstructured": "Americans with Disabilities Act of 1990. (1990). Pub. L. No. Pub. L. No. 101-336 42 U.S.C. § 12101 et seq. 104 Stat. 327 (1990)."
+      },
+      {
+        "key": "e_1_3_2_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2337/dc15-1095"
+      },
+      {
+        "key": "e_1_3_2_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0194127"
+      },
+      {
+        "key": "e_1_3_2_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00125-019-04997-5"
+      },
+      {
+        "key": "e_1_3_2_8_1",
+        "unstructured": "CDC. (2024a July 19). Diabetes Basics. Diabetes. https://www.cdc.gov/diabetes/about/index.html."
+      },
+      {
+        "key": "e_1_3_2_9_1",
+        "unstructured": "CDC. (2024b July 23). National Diabetes Statistics Report. Diabetes. https://www.cdc.gov/diabetes/php/data-research/index.html."
+      },
+      {
+        "key": "e_1_3_2_10_1",
+        "unstructured": "CDC. (2024c August 6). Employers and Insurers. Diabetes. https://www.cdc.gov/diabetes/hcp/employers/index.html."
+      },
+      {
+        "key": "e_1_3_2_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bjophthalmol-2021-319655"
+      },
+      {
+        "key": "e_1_3_2_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2019.19365"
+      },
+      {
+        "key": "e_1_3_2_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0034355219834630"
+      },
+      {
+        "key": "e_1_3_2_14_1",
+        "unstructured": "Equal Employment Opportunity Commission. (2011a). Diabetes in the workplace and the ADA. https://www.eeoc.gov/laws/guidance/diabetes-workplace-and-ada."
+      },
+      {
+        "key": "e_1_3_2_15_1",
+        "unstructured": "Equal Employment Opportunity Commission. (2011b). Walgreens sued by EEOC for disability discrimination. https://www.eeoc.gov/newsroom/walgreens-sued-eeoc-disability-discrimination."
+      },
+      {
+        "key": "e_1_3_2_16_1",
+        "unstructured": "Equal Employment Opportunity Commission. (2019). United Parcel Service to pay $150 000 to settle EEOC disability discrimination lawsuit.https://www.eeoc.gov/newsroom/united-parcel-service-pay-150000-settle-eeoc-disability-discrimination-lawsuit."
+      },
+      {
+        "key": "e_1_3_2_17_1",
+        "volume-title": "Medical and Psychosocial Aspects of Chronic Illness and Disability",
+        "author": "Falvo D.",
+        "year": "2018",
+        "unstructured": "Falvo D., Holland B. E. (2018). Medical and Psychosocial Aspects of Chronic Illness and Disability. Jones & Bartlett Learning."
+      },
+      {
+        "key": "e_1_3_2_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s13410-018-0643-0"
+      },
+      {
+        "key": "e_1_3_2_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/JOM.0000000000001094"
+      },
+      {
+        "key": "e_1_3_2_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/workar/way004"
+      },
+      {
+        "key": "e_1_3_2_21_1",
+        "volume-title": "Diabetes in America",
+        "author": "Gregg E. W.",
+        "year": "2017",
+        "unstructured": "Gregg E. W., Hora I., Benoit S. R., & Albright A. (2017). Disability and diabetes. In Cowie C. C., Saydah S., Williams A., et al. (Eds.), Diabetes in America (3rd ed., Chap. 32, pp. 34-1–34-15). National Institutes of Health, National Institute of Diabetes and Digestive and Kidney Diseases.",
+        "edition": "3"
+      },
+      {
+        "key": "e_1_3_2_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/hsc.13415"
+      },
+      {
+        "key": "e_1_3_2_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0326176"
+      },
+      {
+        "key": "e_1_3_2_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/JOM.0000000000002577"
+      },
+      {
+        "key": "e_1_3_2_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jcjd.2017.06.013"
+      },
+      {
+        "key": "e_1_3_2_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12963-018-0166-4"
+      },
+      {
+        "key": "e_1_3_2_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/2165079920965538"
+      },
+      {
+        "key": "e_1_3_2_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/WOR-2005-00477"
+      },
+      {
+        "key": "e_1_3_2_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/1348-9585.12034"
+      },
+      {
+        "key": "e_1_3_2_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.puhe.2019.11.009"
+      },
+      {
+        "key": "e_1_3_2_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fcdhc.2023.1027578"
+      },
+      {
+        "key": "e_1_3_2_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2337/dci23-0085"
+      },
+      {
+        "key": "e_1_3_2_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12889-018-6324-6"
+      },
+      {
+        "key": "e_1_3_2_34_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.endmts.2020.100053"
+      },
+      {
+        "key": "e_1_3_2_35_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1089/pop.2015.0181"
+      },
+      {
+        "key": "e_1_3_2_36_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/WOR-223648"
+      },
+      {
+        "key": "e_1_3_2_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/WOR-223651"
+      },
+      {
+        "key": "e_1_3_2_38_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/JOM.0000000000002117"
+      },
+      {
+        "key": "e_1_3_2_39_1",
+        "volume-title": "Disability across the developmental life span: For the rehabilitation counselor (pp. xv, 518)",
+        "author": "Smart J.",
+        "year": "2012",
+        "unstructured": "Smart J. (2012). Disability across the developmental life span: For the rehabilitation counselor (pp. xv, 518). Springer Publishing Company."
+      },
+      {
+        "key": "e_1_3_2_40_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11892-013-0421-9"
+      },
+      {
+        "key": "e_1_3_2_41_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S2213-8587(23)00347-9"
+      },
+      {
+        "key": "e_1_3_2_42_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1891/2168-6653.28.4.329"
+      },
+      {
+        "key": "e_1_3_2_43_1",
+        "unstructured": "Widiss D. (2015). Still Kickin’ After All These Years: Sutton and Toyota as Shadow Precedents. 63 Drake Law Review 919(2015) https://www.repository.law.indiana.edu/facpub/1671."
+      },
+      {
+        "key": "e_1_3_2_44_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2337/dc19-0629"
+      }
+    ],
+    "container-title": [
+      "Journal of Vocational Rehabilitation"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/10522263261430647",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/10522263261430647",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/10522263261430647",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          20
+        ]
+      ],
+      "date-time": "2026-03-20T09:47:48Z",
+      "timestamp": 1774000068000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/10.1177/10522263261430647"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          18
+        ]
+      ]
+    },
+    "references-count": 43,
+    "alternative-id": [
+      "10.1177/10522263261430647"
+    ],
+    "URL": "https://doi.org/10.1177/10522263261430647",
+    "relation": {},
+    "ISSN": [
+      "1052-2263",
+      "1878-6316"
+    ],
+    "issn-type": [
+      {
+        "value": "1052-2263",
+        "type": "print"
+      },
+      {
+        "value": "1878-6316",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          18
+        ]
+      ]
+    },
+    "article-number": "10522263261430647"
+  }
+}

@@ -1,0 +1,567 @@
+FILENAME: rsa-20faqs-2021-03-20-2803-08-21-29-0-pdf-061bda93ea61.pdf
+PATH: _raw/rsa.ed.gov/rsa-20faqs-2021-03-20-2803-08-21-29-0-pdf-061bda93ea61.pdf
+
+U.S. DEPARTMENT OF EDUCATION 
+OFFICE OF SPECIAL EDUCATION AND REHABILITATIVE SERVICES 
+REHABILITATION SERVICES ADMINISTRATION 
+March 8, 2021 
+FAQ 21-03 
+ 
+Frequently Asked Questions 
+ 
+Criterion for an Integrated Employment Location  
+in the Definition of “Competitive Integrated Employment” 
+and Participant Choice 
+ 
+Overview 
+ 
+The Office of Special Education and Rehabilitative Services (OSERS) in the U.S. Department of 
+Education (Department) has received requests for further clarification of the definition of 
+“competitive integrated employment,” particularly with respect to: (1) the criterion for an 
+“integrated employment location” (i.e., the integration standards for the location of the 
+employment) in the definition of “competitive integrated employment” for purposes of the 
+Vocational Rehabilitation (VR) program; and (2) how the criterion for an integrated employment 
+location in the definition affects a VR program participant’s ability to exercise informed choice.  
+ 
+The information in these FAQs provides guidance and technical assistance to VR agencies and 
+community rehabilitation programs (CRPs) so they may assist individuals with disabilities to 
+achieve high-quality employment and exercise their informed choice about the type of 
+employment to pursue, either with assistance from the VR program or from other community 
+resources.  
+ 
+Other than statutory and regulatory requirements included in the document, the contents of this 
+guidance do not have the force and effect of law and are not meant to bind the public. This 
+document is intended only to provide clarity to the public regarding existing requirements under 
+the law or agency policies. In addition, it does not create or confer any rights for or on any 
+person.  
+ 
+The key sections of the Rehabilitation Act of 1973, as amended (Rehabilitation Act), discussed 
+below include the following: Sections 7(5), 7(11), 7(20)(A), 7(38), 100(a), 102(a), 102(b), 
+102(d), and 111(a)(1) of the Rehabilitation Act (29 U.S.C. §§ 705(5), 705(11), 705(20)(A), 
+705(38), 720(a), 722(a), 722(b), 722(d), and 731(a)(1)). 
+ 
+In developing these Frequently Asked Questions (FAQs), OSERS met with a variety of 
+stakeholders over the past three years to obtain a better understanding of how VR agencies and 
+CRPs have implemented the criterion for an integrated employment location in “competitive 
+integrated employment,” as defined at Section 7(5) of the Rehabilitation Act, as amended by 
+Title IV of the Workforce Innovation and Opportunity Act (WIOA) (29 U.S.C. § 705(5)), and 34 
+C.F.R. § 361.5(c)(9), and the effect that implementation has had on individual choice. These 
+FAQs respond to many of the concerns we heard during those meetings by clarifying and
+
+updating a similar set of FAQs, issued January 17, 2017, titled “Frequently Asked Questions: 
+Integrated Location Criteria of the Definition of ‘Competitive Integrated Employment”. 
+ 
+In these updated FAQs, OSERS clarifies the Department’s policy with respect to the criterion for 
+an integrated employment location in the definition of “competitive integrated employment,” set 
+forth at Section 7(5)(B) of the Rehabilitation Act (29 U.S.C. § 705(5)(B)) and 34 C.F.R. § 
+361.5(c)(9)(ii). Specifically, OSERS recognizes that job opportunities for individuals with 
+disabilities, including individuals with the most significant disabilities, are becoming more 
+diverse and integrated as the 21
+st century labor market continues to evolve. The VR program can 
+play a vital role in identifying these employment opportunities on a case-by-case basis, and in 
+training and preparing individuals with disabilities for those opportunities. Therefore, we 
+encourage State VR agencies to continue to work with employers and other community partners 
+to create employment opportunities that meet all criteria in the definition of “competitive 
+integrated employment,” including the criterion for an integrated employment location.  
+ 
+Nevertheless, we recognize some VR program participants, represented by family members or 
+others as appropriate, may choose to pursue work that does not meet the definition of 
+“competitive integrated employment,” such as those work opportunities that pay subminimum 
+wage or are not integrated in a manner consistent with the definition.  
+ 
+We make clear that nothing in these FAQs is to be interpreted as prohibiting an individual with a 
+disability from exercising informed choice as to the type of work the individual wants to do. The 
+VR program is designed to assist individuals with disabilities who choose to seek competitive 
+integrated employment. To the extent an individual with a disability, through his or her 
+representative as appropriate, chooses to pursue work that is beyond the scope of the VR 
+program, the VR program plays a critical role in making the proper referrals to other community 
+resources. 
+ 
+General Information – Definition and its Connection to the VR Program 
+ 
+Q1. What constitutes “competitive integrated employment”? 
+To be considered “competitive integrated employment,” a job position must satisfy three criteria 
+related to wages/benefits, integration, and opportunities for advancement (Section 7(5) of the 
+Rehabilitation Act (29 U.S.C. § 705(5)) and 34 C.F.R. § 361.5(c)(9)). Specifically, “competitive 
+integrated employment” means full- or part-time work –  
+• In which the employee with a disability is compensated (including benefits) at a rate of 
+the higher of the Federal, State, or local minimum wage applicable to the place of 
+employment, and not less than the customary rate paid by the employer to employees 
+without disabilities performing the same or similar work and who have similar 
+experience, training, and skills; 
+• At a location–  
+o That is typically found in the community; and 
+o Where the individual with a disability interacts, for the purpose of performing the 
+duties of the job position, with other employees within the work unit and at the 
+entire worksite, and, as appropriate for the work performed, with other persons
+
+(e.g., customers and vendors) who are not individuals with disabilities (and who 
+are not supervisory personnel or service providers) to the same extent that non-
+disabled employees interact with these persons; and 
+• That presents opportunities for advancement for individuals with disabilities that are 
+similar to those available to employees without disabilities in similar positions. 
+ 
+Competitive integrated employment also includes work performed by individuals with 
+disabilities who are self-employed. 
+ 
+While all three criteria must be satisfied, these FAQs focus primarily on the criterion for an 
+integrated employment location in the definition. During all of OSERS’ meetings with 
+stakeholders and by a review of the inquiries received, the integrated employment location 
+criterion has generated the most questions, particularly as it relates to employment offered by 
+CRPs. We address these questions in these FAQs. 
+ 
+Q2. Why is it important to know whether a job position is considered “competitive 
+integrated employment” for purposes of the VR program? 
+Section 100(a)(3) of the Rehabilitation Act (29 U.S.C. 720(a)(3)) makes clear that the VR 
+program must be carried out in such a way that individuals with disabilities are provided with the 
+opportunity to obtain competitive integrated employment. To that end, the Department awards 
+grants to States to carry out the VR program and provide VR services (Section 111(a)(1) of the 
+Rehabilitation Act (29 U.S.C. § 731(a)(1))). An individual with a disability is eligible for the VR 
+program if the individual requires VR services to prepare for, secure, retain, advance in, or 
+regain an employment outcome that is consistent with the individual’s strengths, resources, 
+priorities, concerns, abilities, capabilities, interests, and informed choice (Sections 7(20)(A) and 
+102(a)(1) of the Rehabilitation Act (29 U.S.C. §§ 705(20)(A) and 722(a)(1)). 
+For purposes of the VR program, the definition of an “individual with a disability” makes clear 
+that he or she must be able to “benefit in terms of an employment outcome” from the receipt of 
+VR services (Section 7(20)(A)(ii) of the Rehabilitation Act (29 U.S.C. § 705(20)(A)(ii))). An 
+“employment outcome” means, with respect to an individual, full- or part-time competitive 
+integrated employment (including customized employment, self-employment, telecommuting, or 
+business ownership), or supported employment
+1 that is consistent with an individual’s unique 
+strengths, resources, priorities, concerns, abilities, capabilities, interests, and informed choice 
+(Section 7(11) of the Rehabilitation Act (29 U.S.C. § 705(11)) and 34 C.F.R. § 361.5(c)(15)). 
+Therefore, to be eligible for the VR program, an individual with a disability must intend to 
+achieve an “employment outcome,” as that term is defined (34 C.F.R. § 361.42(a)(4)). This 
+requirement is consistent with the statutory requirements governing the mandatory components 
+of the individualized plan for employment (IPE), which is developed once an applicant is 
+ 
+1 “Supported employment,” as defined at Section 7(38) of the Rehabilitation Act (29 U.S.C. § 705(38)) and 34 
+C.F.R. § 361.5(c)(53), means competitive integrated employment, including customized employment, or 
+employment in an integrated setting in which an individual with a most significant disability is working on a short -
+term basis toward competitive integrated employment. As such, “supported employment” constitutes an 
+“employment outcome” under the VR program, as that term is defined at Section 7(11) of the Rehabilitation Act (29 
+U.S.C. § 705(11)) and 34 C.F.R. § 361.5(c)(15).
+
+determined eligible for the VR program and which provides the approved agreement for the 
+relationship that exists between the VR agency and the eligible individual with a disability. 
+Pursuant to Section 102(b)(4) of the Rehabilitation Act (29 U.S.C. § 722(b)(4)), the IPE must 
+contain, among other things, a description of the eligible individual’s employment outcome that 
+is consistent with the general goal of competitive integrated employment and the VR services 
+needed by the individual to achieve that employment outcome. 
+Because of the heightened emphasis on competitive integrated employment throughout Title I of 
+the Rehabilitation Act -- from the provisions on the purpose and policy of the VR program to 
+requirements governing eligibility determination and IPE development -- it is essential that the 
+VR agency determine whether a job position that an individual with a disability chooses to 
+pursue would be considered “competitive integrated employment.” The VR agency must make 
+this determination on a case-by-case basis, as described in more detail in Q18. 
+Q3. Must an individual with a disability choose competitive integrated employment? 
+No. There is a wide continuum of employment opportunities available for individuals with 
+disabilities, such as subminimum wage work, competitive non-integrated work, and competitive 
+integrated employment, as that term is defined for purposes of the VR program. See Q19 through 
+Q22 for a more detailed discussion on the individual’s ability to exercise informed choice and 
+the steps the VR agency must take when an individual with a disability chooses to pursue work 
+other than competitive integrated employment. 
+Q4. Who decides whether a job position is “competitive integrated employment” – RSA or 
+the VR agency? 
+The VR agency must determine whether a job position satisfies the criteria of “competitive 
+integrated employment.” See Q18 for a more detailed discussion of the case-by-case analysis that 
+a VR agency should use in making such a determination. 
+Criterion for an Integrated Employment Location – Overview 
+Q5. What standards must an employment location meet to be considered an integrated 
+employment location for purposes of “competitive integrated employment?” 
+With respect to an employment outcome for purposes of the VR program, under 34 C.F.R. §§ 
+361.5(c)(9)(ii) and 361.5(c)(32)(ii), an employment location must be: 
+• Typically found in the community; and  
+• Where the employee with a disability interacts, for the purpose of performing the duties 
+of the position, with other employees within the particular work unit and the entire 
+worksite, and, as appropriate to the work performed, other persons (e.g., customers and 
+vendors) who are not individuals with disabilities (not including supervisory personnel or 
+individuals who are providing services to such employee) to the same extent that 
+employees who are not individuals with disabilities and who are in comparable positions 
+interact with these persons. 
+Q6. Must an employment location meet both prongs of the criterion to be considered an 
+integrated location for purposes of “competitive integrated employment?”
+
+Yes. The regulatory definition at 34 C.F.R. § 361.5(c)(9)(ii) uses the word “and” to connect the 
+two requirements. Therefore, if a job position in a location satisfies only one of the two prongs of 
+the criterion for an integrated employment location, the job would not meet the definition of 
+“competitive integrated employment” for purposes of the VR program and, thus, would not be an 
+employment outcome. 
+Q7. Is the criterion for an integrated employment location in the regulatory definition of 
+“competitive integrated employment” consistent with the statutory definition? 
+Yes. Although the criterion for an integrated employment location in the regulatory definition of 
+“competitive integrated employment” at 34 C.F.R. § 361.5(c)(9)(ii) is not word-for-word the 
+statutory definition at Section 7(5)(B) of the Rehabilitation Act (29 U.S.C. § 705(5)(B)), it is 
+consistent with the statutory definition.  
+The statutory definition of “competitive integrated employment” in Section 7(5) of the 
+Rehabilitation Act (29 U.S.C. § 705(5)), for the most part, incorporates the prior regulatory 
+definition of “integrated setting” as the criterion for an integrated employment location. The 
+regulatory definition of an “integrated setting” and its standards have existed in the VR program 
+regulations since at least 1997 (62 FR 6308, 6337-6338 (February 11, 1997)), and are consistent 
+with the Rehabilitation Act’s heightened emphasis on ensuring individuals with disabilities are 
+afforded maximum opportunities to engage in training and competitive employment in integrated 
+settings. The Rehabilitation Act as amended by WIOA does not alter the scope of the criterion 
+for an integrated setting that has existed in Department regulations since the term was first 
+defined. Therefore, the definition of “competitive integrated employment” in 34 C.F.R. § 
+361.5(c)(9)(ii), while not verbatim, is nonetheless consistent with the definition of the term at 
+Section 7(5) of the Rehabilitation Act (29 U.S.C. § 705(5)), prior regulations, and long-standing 
+Department policy. See also 81 FR 55630, 55641 (Aug. 19, 2016). 
+Standard for “Typically Found in the Community”  
+Q8. What is meant by “typically found in the community,” as used in the definition of 
+“competitive integrated employment?” 
+To be “typically found in the community,” an employment location setting should be: 
+• Found in the competitive labor market; and 
+• Not formed for the purpose of employing individuals with disabilities (62 FR at 6310-
+6311 and 81 FR at 55642-55643). 
+The Department’s long-standing policy, dating back to the mid-1990s, is that employment 
+settings that are considered “typically found in the community” are those in the competitive labor 
+market (62 FR at 6310-6311 and 81 FR at 55642). This long-standing Department interpretation 
+is consistent with the Rehabilitation Act, as amended by WIOA, as well as with prior legislative 
+history. Specifically, integrated setting “is intended to mean a work setting in a typical labor 
+market site where people with disabilities engage in typical daily work patterns with co-workers 
+who do not have disabilities; and where workers with disabilities are not congregated . . .” 
+(Senate Report 105-166, page 10, March 2, 1998). Therefore, the Department has continued to 
+maintain its long-standing policy interpretation, consistent with the statutory definition of 
+“competitive integrated employment” at Section 7(5) of the Rehabilitation Act (29 U.S.C. §
+
+705(5)), that employment location settings established specifically for the purpose of employing 
+individuals with disabilities are not “typically found in the community” because such settings are 
+not typically found in the competitive labor market. This is the first prong of the criterion for an 
+integrated employment location that must be satisfied for a job position to meet the definition of 
+“competitive integrated employment” at Section 7(5) of the Rehabilitation Act (29 U.S.C. 
+705(5)) and 34 C.F.R. § 361.5(c)(9) (81 FR at 55642-55643). 
+Q9. How does a VR agency know whether a job position was formed for the purpose of 
+employing individuals with disabilities? 
+Many CRPs have established businesses within their organizational structure to serve two 
+different functions: (1) to provide training and services to individuals with disabilities; and (2) to 
+employ individuals with disabilities.  
+One factor that often signals a distinction between those job positions that are “typically found in 
+the community” and those that are not is whether the job position is open to all applicants 
+regardless of disability status. For example, if a job position is required by law to comply with a 
+direct labor-hour ratio of individuals with disabilities, it is likely not considered “typically found 
+in the community” (81 FR at 55643). 
+Q10. What job positions could be “typically found in the community”? 
+While OSERS provides some examples here, we make clear they must not be used in lieu of the 
+VR agency’s own case-by-case analysis that is based on the unique facts of the particular job 
+position at issue. The examples provided below, though not exhaustive, are job positions that are 
+likely to be considered “typically found in the community”: 
+• Job positions in CRPs that are designed to provide services to others, even if those other 
+persons are also individuals with disabilities (81 FR at 55643); 
+• Management staff and administrative staff employed by CRPs (i.e., those staff who 
+supervise and support the CRP’s “direct labor workers”); and 
+• Job positions that are open to any qualified applicant regardless of disability status. 
+In addition, the Department has long held that telework opportunities are considered “typically 
+found in the community” (62 FR at 6311 and 81 FR at 55643). A telework option could be 
+beneficial to individuals with disabilities. See Q18 for a more detailed discussion of the criteria 
+to consider when conducting the case-by-case analysis. 
+Standard for Interaction in the Work Unit and Worksite 
+Q11. Why is the level of interaction between individuals with and without disabilities 
+important in determining whether a job position is in an integrated employment 
+location for purposes of “competitive integrated employment?” 
+The Department maintains its policy that the best measure of integration in an employment 
+setting for individuals with disabilities is to require parity with the integration experienced by 
+workers without disabilities in similar positions. Consequently, the regulations establish a 
+standard of integration with respect to employment outcomes that ensures the same level of 
+interaction by individuals with disabilities with non-disabled persons as that experienced by
+
+workers without disabilities in the same or similar jobs (62 FR at 6311 and 81 FR at 55642-
+55645). For this reason, this standard must also be met in order for a job position to be 
+considered in an integrated employment location and, thus, “competitive integrated 
+employment.” 
+Q12. What level of interaction is needed to satisfy the criterion for an integrated 
+employment location? 
+The regulation at 34 C.F.R. § 361.5(c)(9)(ii)(B) requires the interaction be: 
+• For the purpose of performing the duties of the job position; 
+• With other employees in the work unit in which the individual with a disability works; 
+• With other employees at the entire worksite; and 
+• With others, such as vendors and customers, as appropriate. 
+These standards help to ensure parity in the level of interaction between employees with 
+disabilities and non-disabled workers.  
+In determining whether a particular job position satisfies the above interaction requirements and 
+may be considered an integrated employment location, the VR agency must consider whether the 
+employee with a disability interacts with non-disabled persons to the same extent that a non-
+disabled employee who performs the same work at the same employment location interacts with 
+other individuals. For this reason, it is important to start a case-by-case analysis by looking at the 
+specific work unit in which the individual with a disability is or will be working (e.g., the team, 
+crew, or division within an office). Because of the ability to easily compare interactions between 
+employees with and without disabilities to the interactions between non-disabled workers and all 
+others in the work unit, the level of interaction at the work unit level is a good measure for the 
+VR agency to use in determining whether parity exists for employees with disabilities as 
+compared to their colleagues without disabilities. 
+Similarly, the level of interaction across the entire worksite (and not just the individual work 
+unit) provides another valuable indicator of parity with respect to interaction between employees 
+with and without disabilities as compared to the interactions between non-disabled workers and 
+others at the worksite. As required by 34 C.F.R. § 361.5(c)(9)(ii)(B), employees with disabilities 
+must be able to interact with non-disabled persons at the entire worksite to the same extent that a 
+non-disabled worker performing the same or similar work would interact with others. 
+While interactions between employees with disabilities and non-disabled customers and vendors 
+are important, these interactions should not be the sole criterion used to determine whether a job 
+position is an integrated employment location. In other words, when conducting a case-by-case 
+analysis, a State VR agency should not consider only the interactions employees with disabilities 
+have with non-disabled customers and vendors. Interactions with customers and vendors do not 
+provide the same measure of parity as do the interactions between the employees themselves. 
+Specifically, it is possible for employees with disabilities to interact with customers and vendors 
+while also being segregated from, and having little or no interaction with, non-disabled co-
+workers performing the same job duties at the same employment location.
+
+Such an outcome is not intended when implementing the definition of “competitive integrated 
+employment” at Section 7(5) of the Rehabilitation Act (29 U.S.C. § 705(5)). Therefore, when 
+promulgating regulations in 2016, we emphasized the comparison of interactions between 
+employees with and without disabilities at the work unit and worksite levels at 34 C.F.R. § 
+361.5(c)(9)(ii)(B) (81 FR at 55644-55645). 
+Q13. What does “for the purpose of performing the job duties” mean with respect to the 
+level of interaction needed for “competitive integrated employment?” 
+Interactions between employees with disabilities and others without disabilities for the “purpose 
+of performing job duties” include those conversations that are necessary, ordinary, and routine 
+when carrying out the functions of the job position (i.e., those interactions specific to the 
+performance of the job duties (81 at 55644)). Some examples could include: 
+• With respect to others in the employee’s work unit, collaborating on next steps for a joint 
+project or asking for assistance to solve a problem raised by a customer; 
+• With respect to others at the worksite, obtaining clarification from management about a 
+new policy decision or obtaining assistance from human resources about a personnel 
+matter; and 
+• With respect to customers and vendors, placing or receiving an order for delivery or 
+assisting a customer in making a purchase. 
+OSERS maintains, as has been the long-standing Department policy, that these interactions, for 
+purposes of a case-by-case analysis conducted by the VR agency, should not take into 
+consideration casual and social conversations between individuals with disabilities and non-
+disabled persons at the workplace (e.g., those conversations that occur in the hallways and 
+lunchroom when the employees are not performing work duties) (81 FR at 55644). While casual 
+conversations are to be expected at any workplace, such conversations are not indicative of the 
+parity of interaction contemplated by Section 7(5)(B) of the Rehabilitation Act (29 U.S.C. § 
+705(5)(B)). For this reason, as the Department has stated in the past, the best measure of whether 
+an employment setting is integrated is based on the level of interaction that occurs between 
+employees with disabilities and non-disabled persons during the performance of job duties as 
+compared to the interactions that occur between non-disabled workers performing the same or 
+similar work and others (62 FR at 6311 and 81 FR 55644-55645). 
+Q14. What do “work unit” and “worksite” mean, as used in the definition of “competitive 
+integrated employment?” 
+Work Unit: As used in the regulatory definition of “competitive integrated employment” at 34 
+C.F.R. § 361.5(c)(9)(ii)(B), “work unit” may refer to all employees in a particular job category or 
+to a group of employees working together to accomplish tasks, depending on the employer’s 
+organizational structure (81 FR at 55643). For example, a work unit could be a team, crew, 
+division in an office, or, depending on the organizational structure of the employer, the entire 
+office. In other words, the work unit refers to those individuals with whom an employee works 
+most closely during the course of performing his or her work duties. 
+Worksite: The worksite, as used in the standards at 34 C.F.R. § 361.5(c)(9)(ii)(B), depends on 
+the business operations of the CRP and the location or locations where they are performed. In
+
+general, the term refers to the broader location in which the work unit, as described above, 
+performs its work (e.g., the entire warehouse or office building).  
+Use of the terms “work unit” and “worksite” in the regulation focuses the consideration of the 
+interaction of employees with disabilities with employees without disabilities on the particular 
+job, and the environment in which the work is performed. This focus in these criteria ensures 
+parity exists with respect to the levels of interaction (i.e., with respect to interactions necessary 
+for the performance of job duties, not casual conversation) between employees with disabilities 
+and non-disabled persons in both the work unit and throughout the entire worksite, as compared 
+to the interaction that non-disabled employees have with their non-disabled co-worker peers in 
+their work unit and throughout the entire worksite (81 FR at 55644-55645). The level of 
+integration experienced by all individuals with disabilities employed by a CRP is not the same 
+and is dependent on the circumstances of the particular job within each work unit and worksite of 
+the organization.  
+Q15. Do group employment settings, such as janitorial and landscaping crews in which 
+individuals with disabilities earn competitive wages, satisfy the definition of 
+“competitive integrated employment”? 
+It depends. VR agencies must determine if any job positions, including those in mobile work 
+units such as janitorial and landscaping crews, satisfy all criteria set forth at Section 7(5) of the 
+Rehabilitation Act (29 U.S.C. § 705(5)) and 34 C.F.R. § 361.5(c)(9). As noted in Q1, only those 
+job positions that satisfy all three criteria related to wages/benefits, integrated employment 
+location, and opportunities for advancement would be considered “competitive integrated 
+employment.”   
+In conducting its case-by-case analysis of the job position with the janitorial or landscaping 
+crew, VR agencies must:  
+• Determine whether the employee with a disability is compensated at not less than the 
+Federal, State, or local minimum wage (whichever is applicable) and at the customary 
+rate paid similar to other non-disabled workers performing the same or similar work for 
+the same employer, and is afforded the same opportunities for advancement as his or her 
+non-disabled co-worker peers; 
+• Determine whether the job position on that janitorial or landscaping crew is “typically 
+found in the community,” as described in more detail in Q8; and  
+•  Analyze the parity in interaction experienced by the employee with a disability with his 
+or her non-disabled co-workers in the work unit and at the worksite, as well as with 
+customers and vendors as appropriate, as compared to the same level of interaction 
+experienced by non-disabled workers performing the same or similar work with others 
+(see Q12 through Q14). In analyzing the parity in the interaction experienced by 
+employees with disabilities in mobile crews, VR agencies should not take into account 
+the casual conversations these individuals have with members of the public working in or 
+visiting the worksite. As noted in Q13, the parity in the level of interaction at both the 
+worksite and work unit levels is based on the interaction that employees with disabilities 
+have with their non-disabled coworkers as they perform their job duties, as compared to 
+the level of interaction that their non-disabled co-workers have with other non-disabled 
+coworkers when performing their job functions.
+
+See also Q18 for a more detailed discussion about the case-by-case analysis VR agencies 
+must conduct to determine whether a job position satisfies the definition of “competitive 
+integrated employment.” 
+Q16. Is there a ratio of individuals with disabilities to non-disabled individuals at an 
+employment setting that would cause a job position to satisfy the criterion for an 
+integrated employment location to be considered “competitive integrated 
+employment?” 
+No. OSERS maintains, as has been the long-standing Department policy, that it is not 
+appropriate for the Department to compare the number of employees with disabilities to the 
+number of individuals without disabilities for purposes of understanding the criterion for an 
+integrated employment location in the definition of “competitive integrated employment.” Since 
+“integrated setting” was first defined in VR program regulations, we have considered how best to 
+capture in the definition’s criteria the intent of the statute and long-standing Department policy. 
+In doing so, we considered whether to establish a numerical ratio and rejected that as impractical 
+and unworkable. Given the many and varied types of employment settings in today’s economy, 
+we cannot determine a single ratio that could be used to satisfactorily determine the level of 
+interaction required to meet the intent underlying the definition. Rather than using a numerical 
+standard as the measure, an “integrated setting” is best viewed in light of the quality of the 
+interaction among employees with disabilities and persons without disabilities, when compared 
+to that of employees without disabilities in similar positions with other persons (81 FR at 55643). 
+Case-by-Case Analysis 
+Q17. Is it possible for a VR agency to determine that a job position at an employment 
+location satisfies the definition of “competitive integrated employment,” but another 
+job position at the same location does not? 
+Yes. In conducting a case-by-case analysis, as described in more detail in Q18, the VR agency 
+could determine that one or more job positions for individuals with disabilities meet the 
+definition of “competitive integrated employment” at Section 7(5) of the Rehabilitation Act (29 
+U.S.C. § 705(5)) and 34 C.F.R. § 361.5(c)(9), while other job positions do not. Therefore, a VR 
+agency should conduct a case-by-case analysis for each job position and should not generalize 
+the analysis across an entire employment location or business. 
+Q18. What factors should a VR agency consider when conducting a case-by-case analysis to 
+determine whether a job position is “competitive integrated employment” for 
+purposes of the VR program? 
+In Q9, Q13, and Q14, we provide some standards that a VR agency should take into 
+consideration when determining, on a case-by-case basis, whether a job position is typically 
+found in the community, whether the interaction with others for that job position is for the 
+purpose of performing the job duties, and whether parity exists with respect to the interaction 
+between employees with disabilities and non-disabled individuals as compared to non-disabled 
+workers performing the same or similar work at the work unit and the entire worksite, and with 
+customers and vendors as appropriate. The VR agency should apply the criteria of the definition
+
+equally to the position (81 FR at 55642). In addition to those standards, the VR agency may find 
+the following considerations helpful in conducting its case-by-case analysis: 
+• Is the job position open to any qualified applicant or is it limited to applicants with 
+disabilities? 
+• If the job position is limited to individuals with disabilities, does the nature of the 
+business and/or the population served by the business necessitate such limitation (for 
+example, a coffee shop that employs individuals who are deaf because it is established for 
+the primary purpose of serving students and faculty of a university who are deaf)? 
+• Whether a reasonable person observing the ordinary performance of work at an 
+employment setting would consider individuals with disabilities to be segregated from 
+their non-disabled coworker peers, who are doing the same or similar work, while 
+performing their work duties, or would a reasonable person observe employees with 
+disabilities as integrated among and interacting with their non-disabled coworkers while 
+performing their work duties? 
+The above considerations are just a few that a VR agency may find helpful in conducting a case-
+by-case analysis, but the list is not exhaustive. The most important considerations, however, will 
+be those that are unique to the job position at issue and which the VR agency will observe while 
+onsite or will know from other information. 
+Informed Choice 
+Q19. Do the requirements of “competitive integrated employment” prevent an individual 
+from exercising informed choice in deciding on a job position? 
+No. The requirements at Section 7(5) of the Rehabilitation Act (29 U.S.C. § 705(5)) and 34 
+C.F.R. § 361.5(c)(9) simply establish minimum requirements that a job position must satisfy to 
+be considered “competitive integrated employment.” These requirements must never be 
+construed as limiting an individual with a disability’s choice as to the type of employment the 
+individual chooses to pursue. 
+Section 100(a)(3)(C) of the Rehabilitation Act (29 U.S.C. § 720(a)(3)(C)) makes clear it is the 
+policy of the United States that the VR program be carried out in a manner that enables 
+applicants and eligible individuals to be “active and full partners” in the VR process, so they may 
+make “meaningful and informed choices” regarding, for example, the services received and the 
+employment outcome to be achieved. Section 102(d) of the Rehabilitation Act (29 U.S.C. § 
+722(d)) and 34 C.F.R. § 361.52 implement this policy by requiring a VR agency to have policies 
+and procedures in place that ensure each applicant and eligible individual is provided the 
+necessary information and support services to exercise informed choice throughout the entire VR 
+process. This means that an individual with a disability must be provided the necessary 
+information and support to exercise informed choice with respect to employment, as well as all 
+parts of the VR process. Implicit in this requirement is the need to ensure that an individual can 
+exercise informed choice in deciding not to seek an “employment outcome” as that term is 
+defined for purposes of the VR program. See Q2 for a more detailed discussion of the role of the 
+VR program with respect to “competitive integrated employment.”
+
+Q20. How can a VR agency help an individual with a disability to exercise informed choice 
+in choosing a job position? 
+The VR agency should make every effort to assist an applicant for VR services or an eligible 
+individual with a disability in a manner that facilitates independent decision-making and supports 
+informed choice regarding employment opportunities (Sections 102(b)(3)(B) and 102(d) of the 
+Rehabilitation Act (29 U.S.C. §§ 722(b)(3)(B) and 722(d))). Consistent with 34 C.F.R. § 
+361.37(b), a full discussion between the VR counselor and individual about topics such as the 
+following could assist applicants and eligible individuals in making an informed choice 
+regarding the full range of their employment opportunities: 
+• The purpose of the VR program; 
+• The role the VR program can play in assisting individuals with disabilities in achieving 
+competitive integrated employment with reasonable accommodations and appropriate 
+services and supports, including supported employment services and customized 
+employment services;  
+• The impact working could have on the receipt of any State or Federal means-tested 
+benefits, such as Social Security Administration (SSA) benefits, Medicaid, and Federally-
+assisted housing benefits; and 
+• The impact any choice not to pursue competitive integrated employment will have on the 
+individual’s eligibility for, and receipt of, VR services. 
+Additionally, individuals may find it helpful when exercising informed choice to know that it is 
+permissible under the VR program to participate in both integrated and non-integrated training 
+and work experiences (34 C.F.R. § 361.37(b)(3)). 
+Despite the Rehabilitation Act’s heightened emphasis on the achievement of competitive 
+integrated employment as an employment outcome under the VR program, we recognize there 
+are times when an individual with a disability, after discussing all available employment options 
+with a VR counselor in accordance with 34 C.F.R. § 361.43(a), will choose to pursue work that 
+is not considered “competitive integrated employment” and will not result in an “employment 
+outcome” under the VR program.  
+When an individual with a disability makes an informed choice not to pursue competitive 
+integrated employment opportunities, the VR counselor must make a determination that the 
+individual is either not eligible (if he or she is an applicant) or no longer eligible (if he or she was 
+previously determined eligible) for the VR program, in accordance with Section 102(a) of the 
+Rehabilitation Act (29 U.S.C. § 722(a)) and 34 C.F.R. § 361.42. At that point, the VR agency 
+must refer the individual with a disability to other community resources that may be able to assist 
+the individual, as required by 34 C.F.R. § 361.37(b), and described in more detail in Q22 below. 
+Training and Referrals 
+Q21. What if an individual with a disability is unsure if he or she wants to pursue a job 
+position in “competitive integrated employment”? 
+Nothing in the Rehabilitation Act or its implementing regulations prohibits an individual from 
+receiving VR services, including job training or work experience, in a non-integrated setting. In
+
+fact, before a VR counselor refers an individual with a disability to another community resource 
+because he or she has made an informed choice not to achieve an “employment outcome” (i.e., 
+competitive integrated employment or supported employment) under the VR program, the VR 
+counselor must inform the individual that VR services may be provided in a non-integrated 
+setting if necessary to prepare for employment in an integrated setting (34 C.F.R. § 
+361.37(b)(3)). 
+ 
+A VR agency may provide job training or work experience to an eligible individual if such 
+services are needed to achieve an employment outcome under the VR program and the service is 
+listed on the individual’s IPE. The VR counselor and eligible individual must agree on the 
+providers of those services, in accordance with Sections 102(b) and (d) of the Rehabilitation Act 
+(29 U.S.C. §§ 722(b) and 722(d)). Because the Rehabilitation Act and its regulations do not 
+mandate that services be provided in an integrated setting, both the VR counselor and eligible 
+individual could agree that job training or work experiences would be provided by a CRP in an 
+activity that would otherwise not be considered “competitive integrated employment.” It is 
+important to note, however, that these opportunities must be treated as training opportunities 
+(e.g., be time limited) that will lead to an employment outcome under the VR program. If that is 
+not the intended choice of the individual, the VR agency must determine the individual as 
+ineligible for the VR program and refer him or her to other community resources. 
+Q22. What if an individual with a disability makes an informed choice not to pursue 
+“competitive integrated employment”? 
+If the VR counselor, after applying the criteria to the facts related to the particular job position 
+chosen by the individual with a disability, determines it is not “competitive integrated 
+employment,” 34 C.F.R. § 361.37(b) requires the VR counselor to determine the individual 
+ineligible for VR services and refer the individual to other programs, including CRPs, for 
+assistance in obtaining the chosen employment goal. Before making the referral pursuant to 34 
+C.F.R. § 361.37(b), the VR agency must: 
+• Explain to the individual that the VR program is designed to assist individuals with 
+disabilities to achieve employment outcomes, as that term is defined at Section 7(11) of 
+the Rehabilitation Act (29 U.S.C. § 705(11)) and 34 C.F.R. § 361.5(c)(15) (34 C.F.R. § 
+361.37(b)(1)); 
+• Provide information regarding availability of employment options and VR services to 
+assist the individual to achieve an employment outcome under the VR program, 
+consistent with 34 C.F.R. § 361.52 (34 C.F.R. § 361.37(b)(2)); 
+• Inform the individual that services can be provided in an extended (or non-integrated) 
+setting, if necessary, for training or preparing for an employment outcome in an 
+integrated setting (34 C.F.R. § 361.37(b)(3)); 
+• Inform the individual with a disability that he or she can reapply to the VR program at a 
+later date to pursue a job position that would be considered an “employment outcome” 
+under the VR program (34 C.F.R. § 361.37(b)(4)); and  
+• Refer the individual with a disability to SSA so he or she can receive information about 
+receipt of SSA benefits while working (34 C.F.R. § 361.37(b)(5)). 
+In making a referral consistent with 34 C.F.R. § 361.37(c), the VR agency must:
+
+• Refer the individual with a disability to other Federal and State programs, including 
+workforce development programs, better suited to assist the individual in achieving the 
+chosen employment goal; and  
+• Provide the individual –  
+o A notice of the referral; 
+o Specific information for a contact at the referral agency or program; and  
+o Information and advice about the services best suited to assist the individual to 
+prepare for or obtain employment.

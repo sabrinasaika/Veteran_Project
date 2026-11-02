@@ -1,0 +1,642 @@
+FILENAME: 151-ethical-implications-genai-ac-pdf-a0093bde8346.pdf
+PATH: _raw/tacqe.com/151-ethical-implications-genai-ac-pdf-a0093bde8346.pdf
+
+Ethical Implications of 
+GenAI in Rehabilitation 
+Counseling Education
+Sara Park, Christine Sui, Aylin Zencir, & Tim Tansey 
+University of Wisconsin-Madison
+Department of Rehabilitation Psychology and Special 
+Education
+
+Evolution of Technology 
+in Counselor Training
+1 Early Technology
+Video recordings for supervision and self-reflection
+2 Web-Based Platforms
+Interactive learning environments without adaptive 
+capabilities
+3 Large Language Models
+Emergence of GenAI creating immersive, adaptive 
+training environments
+
+Traditional Counseling 
+Skill Development
+Role-Play Exercises
+Peer-based simulated 
+scenarios
+Recorded Practice
+Video review for feedback
+Supervised Fieldwork
+Guided real-world experience
+
+Current GenAI 
+Applications in 
+Healthcare Education
+Medical Diagnosis 
+Training
+AI systems that simulate 
+patient presentations for 
+diagnostic practice
+Clinical Decision 
+Support
+Tools that help 
+practitioners evaluate 
+treatment options
+Healthcare Simulations
+Immersive scenarios that 
+supplement traditional clinical 
+training
+
+GenAI in Counseling 
+Education
+Virtual Clients
+AI-powered simulations for on-demand practice 
+opportunities
+Case Conceptualization
+Tools to aid in developing clinical reasoning skills
+Adaptive Learning
+Personalized training experiences based on student 
+performance
+
+Study Purpose: SWOT Analysis
+Strengths
+Internal advantages of GenAI 
+in counselor education
+Weaknesses
+Internal limitations of 
+current GenAI 
+applications
+Threats
+External challenges and 
+ethical concerns
+Opportunities
+External possibilities for 
+future development
+
+Limitations of Traditional Role-Play
+Inconsistent Portrayals
+Varying quality of client simulations 
+between peers
+Limited Diversity
+Restricted range of client presentations 
+and scenarios
+Scheduling Constraints
+Difficulty coordinating practice sessions
+Artificial Interactions
+Peer dynamics compromising authentic skill 
+development
+
+UW-Madison's 
+Innovative Approach
+Vignette Creation
+Student groups develop detailed clinical cases of 
+individuals with disabilities
+Case Exchange
+Vignettes reassigned to different groups for implementation
+AI Implementation
+Cases entered into LLM platforms to generate realistic 
+client interactions
+
+Components of Student-Created Vignettes
+Demographics & Background
+Social and family history, current functioning
+Clinical Information
+Client strengths, resources, treatment history, 
+medical history
+Problem Description
+Current issues in behavioral terms, without 
+explicit diagnostic labels
+Assessment Data
+Formal evaluation results to support clinical 
+reasoning
+
+GenAI Platforms Used
+ChatGPT (OpenAI)
+Comprehensive capabilities 
+for maintaining coherent 
+therapeutic conversations
+Responds to diverse 
+counseling approaches 
+across extended 
+interactions
+Claude (Anthropic)
+Strengths in empathetic 
+response patterns
+Nuanced comprehension of 
+complex scenarios involving 
+disability-related 
+experiences
+
+Student Feedback on AI Simulations
+81.3%
+Realism
+Students agreed that AI client interactions felt 
+realistic and engaging
+68.8%
+Preference
+Students found AI simulations more helpful than 
+traditional role-play
+
+SWOT Analysis: Strengths
+Safe Learning Environment
+Low-risk setting for practice and experimentation
+Scalability & Accessibility
+Standardized, on-demand learning experiences
+Assessment & Feedback
+Detailed transcripts for evaluation and 
+improvement
+
+Strength: Safe Learning 
+Environment
+"[Conversation] is less pressured, and I feel safe making 
+mistakes and learning from them."
+GenAI offers a judgment-free setting where students can 
+practice without fear of negative repercussions. This 
+psychological safety is particularly beneficial for novice 
+counselors still developing confidence with clinical language 
+and interventions.
+
+Strength: Scalability & 
+Accessibility
+"What surprised me most was its ability to provide 
+detailed, contextually appropriate responses that 
+mimicked real-life dialogue, including displaying complex 
+emotions."
+GenAI delivers standardized, emotionally rich simulations to 
+all students. This consistency ensures fairness in learning and 
+assessment while supporting remote, on-demand practice 
+opportunities.
+
+Strength: Assessment & Feedback
+Automatic 
+Transcription
+Complete records of each 
+student interaction
+Objective Evaluation
+Structured assessment of 
+clinical competencies
+Progress Tracking
+Monitoring skill 
+development over time
+
+SWOT Analysis: Weaknesses
+Biases & Underrepresentation
+Stereotypical portrayals of disability
+High-Risk Scenario Limitations
+Inability to effectively simulate crisis situations
+Authenticity Challenges
+Missing nonverbal aspects of communication
+
+Weakness: Biases & Underrepresentation
+AI systems demonstrate consistent stereotyping patterns in their representations:
+Demographic Stereotyping
+• COPD patients portrayed as elderly females
+• TBI/SCI clients depicted as young adults
+• Consistent age patterns across disability types
+Occupational Biases
+• Overrepresentation of "graphic designers"
+• Deaf individuals shown in remote work
+• Autistic people in technology roles
+• MS clients in part-time positions
+
+Example of 
+Stereotypical AI 
+Response
+"I've been looking mostly at remote work... data entry, 
+maybe some content writing. Things I could do from home 
+where I wouldn't have to interact with people directly. 
+(Pauses) And where I could take breaks when my MS 
+symptoms flare up without everyone watching and 
+judging."
+This response reinforces stereotypes about people with MS, 
+focusing narrowly on limitations rather than presenting a 
+complex, multidimensional individual.
+
+Weakness: High-Risk Scenario Limitations
+1
+Safety Guardrails
+AI systems restrict content related to crisis situations
+2
+Training Gap
+Students lack practice with suicidality and self-harm scenarios
+3
+Crisis Response
+AI provides simplified or clinically inappropriate 
+responses
+
+Weakness: Authenticity Challenges
+Missing Nonverbal 
+Communication
+"We cannot learn how to 
+collect information from 
+non-verbal communication."
+Lack of Emotional 
+Nuance
+"It focuses more on 
+information than on emotion, 
+whereas humans experience 
+complex emotions."
+Unrealistic Compliance
+"The AI client was too nice, 
+and we did not need to make 
+any extra effort to build 
+rapport."
+
+SWOT Analysis: Opportunities
+1
+Commercialization
+Advanced AI-augmented training systems
+2
+Expanded Access
+Reaching underserved communities and settings
+3
+Hybrid Learning Models
+Combining AI with human instruction
+
+Opportunity: 
+Commercialization
+Emerging 
+Platforms
+Tmind.ai and VirCo 
+offering advanced 
+client simulations
+Natural Language 
+Processing
+Realistic, responsive 
+dialogues for 
+therapeutic skill 
+development
+Agentic Technologies
+Human-like avatars with lifelike speech capabilities
+
+Student Perspective on 
+AI Training
+"The advantage of using AI is its accessibility and ability to 
+simulate a wide range of scenarios quickly, enabling 
+focused practice on specific skills."
+Students recognize the value of AI in offering flexible, 
+scenario-based learning experiences tailored to individual 
+developmental goals. This reinforces the potential of AI to 
+prepare future counselors for real-world practice.
+
+Opportunity: Expanded Access
+Clinical Practicum Integration
+Rehearsing complex scenarios before client engagement
+Continuing Education
+Cost-effective resources for ongoing professional development
+Rural & Remote Areas
+Bringing quality training to underserved communities
+
+Research on AI in Education
+Contreras et al. (2024)
+AI-generated educational videos 
+were well-received in 
+continuing medical education, 
+with only 32% of participants 
+identifying them as AI-
+produced.
+Baba et al. (2024)
+AI-driven mobile learning tools 
+significantly improved learner 
+engagement, comprehension, 
+and academic performance.
+Alsayer (2023)
+Highlighted the value of 
+asynchronous platforms in 
+enhancing course content, 
+especially where real-time 
+access is challenging.
+
+Opportunity: Hybrid Learning Models
+AI Role-Play
+Simulated client interactions 
+for skill practice
+Instructor Feedback
+Expert guidance on 
+performance
+Iterative Practice
+Applying feedback in new 
+scenarios
+Peer Discussion
+Collaborative reflection on 
+experiences
+
+Co-Creation Opportunities
+Inclusive 
+Development
+Rehabilitation 
+professionals collaborating 
+with AI developers
+Representative Data
+Ensuring training data 
+reflects diverse disability 
+experiences
+Ethical Review
+Establishing protocols to 
+mitigate algorithmic bias
+
+AI as Clinical Supervisor
+Practice Session
+Student conducts intake interview with AI client
+Role Transition
+AI shifts from client to supervisor role
+Feedback Loop
+AI offers reflective questions and improvement 
+strategies
+
+SWOT Analysis: Threats
+1
+Data Privacy Concerns
+Risks to confidential information
+2
+Algorithmic Bias
+Reinforcement of existing prejudices
+3
+Over-Reliance
+Diminished critical thinking and creativity
+
+Threat: Data Privacy 
+Concerns
+"Working with the AI client raised ethical considerations 
+related to confidentiality, data security, and the potential 
+for over-reliance on AI in sensitive areas like mental 
+health."
+Students may not fully understand data privacy risks when 
+using AI platforms. Institutions must implement strict 
+guidelines to protect sensitive information in training 
+contexts.
+
+Threat: Algorithmic Bias
+Marginalized 
+Communities
+Inaccuracies in AI 
+training data 
+reinforcing existing 
+biases
+Insufficient 
+Diversity
+Inadequate 
+representation in 
+language model 
+training
+Harmful Misrepresentation
+Potential for stereotyping marginalized identities
+
+Threat: Over-Reliance 
+on AI
+Critical Thinking 
+Impact
+Students' dependence on AI 
+may diminish essential 
+clinical reasoning skills. 
+Critical thinking enhances 
+the quality of clinical 
+judgments in counseling 
+practice.
+Creativity Concerns
+AI may limit students' 
+ability to generate original 
+therapeutic approaches. 
+Creativity is crucial for 
+improving counseling 
+effectiveness and 
+developing personalized 
+interventions.
+
+Student Concerns About AI Ethics
+"I think we need an ethical guideline about the information we can input to AI. If a counselor inputs 
+information from the case of a real client without getting consent, it seems unethical to me. Also, we 
+cannot avoid the risk of information leakage from the AI tool."
+Students recognize the need for clear ethical guidelines regarding client information and AI use in 
+counseling contexts.
+
+Superficial Interactions
+Lack of Depth
+"It feels like we are 
+relying on technology 
+to do the work for us. It 
+is easier to skim over 
+answers and not go as 
+in depth."
+Missing Resistance
+"AI still differs from 
+humans. It does not 
+replicate real-life 
+counseling because AI 
+provides complete 
+answers, unlike 
+humans."
+Reduced Effort
+"Counselors may not do their best practices because 
+they believe they are not facing real people."
+
+Ethical Considerations: Data Privacy
+1
+Robust Safeguards
+Protecting sensitive information in training contexts
+2
+Secure Systems
+Implementing encryption and protected storage
+3
+Clear Policies
+Establishing guidelines for data collection and 
+usage
+
+Addressing Bias and 
+Representation
+Diverse Datasets
+Including broad spectrum of disability 
+experiences
+Bias Detection
+Implementing algorithmic fairness constraints
+Inclusive Design
+Involving disabled individuals in development 
+process
+
+Future of AI in 
+Rehabilitation 
+Counseling
+Active 
+Participation
+Rehabilitation 
+professionals shaping 
+AI development
+Ethical Standards
+Grounding technology 
+in inclusive practices
+Advocacy Role
+Ensuring accurate representation of disability 
+experiences
+
+Establishing Ethical Guidelines
+Stakeholder Collaboration
+Bringing together diverse 
+perspectives
+Professional Standards
+Developing formal guidelines 
+through associations
+Privacy Protection
+Implementing security by 
+design
+Transparency
+Creating explainable AI models
+
+Governance Framework 
+Components
+Oversight 
+Committees
+Monitoring AI 
+development and 
+implementation in 
+academic settings
+Defined 
+Responsibilities
+Clear roles for developers 
+and educators in 
+upholding standards
+Accountability Procedures
+Formal processes to address and rectify AI-related errors
+
+Enhancing Counselor 
+Education with AI
+Benefits
+• Scalable, on-demand 
+learning
+• Standardized simulations
+• Personalized learning 
+pathways
+• Immediate feedback
+Limitations
+• Overly accommodating 
+responses
+• Emphasis on information 
+over emotion
+• Missing nonverbal 
+communication
+• Potential overreliance
+
+The "Eliza Effect" 
+Concern
+Named after ELIZA, an early natural language program, this 
+phenomenon describes how users attribute human-like 
+intelligence to algorithmic outputs. John Weizenbaum warned 
+against delegating human judgment to machines, as such 
+judgment is rooted in lived experience and value-based 
+reasoning.
+"In counselor education, this concern is especially salient, 
+as ethical decision-making and value-informed reflection 
+are core to professional competence."
+
+Human-AI Hybrid Models
+AI Simulations
+Standardized practice scenarios
+Instructor Feedback
+Expert guidance and mentorship
+Peer Discussion
+Collaborative reflection
+Iterative Learning
+Continuous improvement cycle
+
+Research Evidence from 
+Related Fields
+Banerjee et al. (2021)
+Trainee doctors were 
+optimistic about AI 
+enhancing research skills 
+but skeptical about its 
+capacity to strengthen 
+clinical judgment and 
+practical skills.
+Varma et al. (2023)
+When integrated with 
+human instruction, AI has 
+potential to enhance rather 
+than replace traditional 
+learning. Recommended as 
+supplement to existing 
+curricula.
+
+Need for Ongoing Research
+Longitudinal Studies
+Tracking impact on student development over time
+Discipline-Specific Research
+Investigating effectiveness in rehabilitation counseling 
+contexts
+Skill Assessment
+Measuring influence on interpersonal abilities and ethical 
+reasoning
+Continuous Evaluation
+Iterative refinement based on evidence
+
+Promoting AI Literacy
+1
+Comprehensive Education
+Teaching technical aspects and ethical 
+implications
+2
+Professional Development
+Continuing education on AI 
+applications
+3
+Public Awareness
+Informing clients and 
+stakeholders about AI 
+capabilities
+
+Research on AI Readiness
+Karsanti (2019) found significant disparities in students' and 
+instructors' readiness to integrate AI into educational contexts. This 
+underscores the need for structured and inclusive training efforts to 
+prepare all stakeholders.
+Technical Knowledge Gaps
+Varying levels of understanding about AI capabilities
+Ethical Awareness
+Inconsistent recognition of potential issues
+Implementation Skills
+Differences in ability to effectively utilize AI tools
+
+Transformative Potential of AI
+Educational Equity
+Bridging access gaps through scalable, accessible training
+Reflective Practice
+Expanding opportunities for skill development and feedback
+Adaptive Learning
+Preparing students for evolving clinical landscapes
+Diverse Simulations
+Exposing students to wide range of client presentations
+
+True Promise of AI in 
+Counselor Education
+"The true promise of AI in counselor education lies not in 
+replacing human connection but in enhancing it."
+When guided by empathy and principles of inclusion, AI can 
+serve as a powerful complement to traditional training. It can 
+amplify diverse client voices and support ethical decision-
+making while maintaining human values at the center.
+
+Key Takeaways
+1 Strategic Balance
+Leverage AI strengths while addressing limitations through 
+human oversight
+2 Ethical Framework
+Develop comprehensive guidelines for responsible AI 
+implementation
+3 Inclusive Development
+Ensure disability representation in AI training and design
+4 Ongoing Research
+Continuously evaluate effectiveness and refine approaches
+
+Future Directions
+Research
+Building evidence base for 
+effective implementation
+Collaboration
+Partnering across disciplines to 
+improve AI tools
+Ethics
+Refining guidelines for 
+responsible use
+Education
+Developing AI literacy among 
+counseling professionals

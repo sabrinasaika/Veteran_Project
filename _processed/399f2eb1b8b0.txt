@@ -1,0 +1,39 @@
+=== SHEET: Sheet1 ===
+COVID-19 RELIEF FUNDS CALCULATION				No formula version					
+           BASIS* - Average monthly Net Income				BEFORE COVID					
+____ Average of Jan, Feb, Mar 2021					 Jan+Feb+Mar /2				
+				     /3  =					
+____ Average of Jan, Feb 2021 (Closed in Mar 2021)					Jan+Feb /2				
+				      /2  =					
+____ Added last quarter of 2019 to get Average					Oct 2019 to Feb 2020 /5				
+						     /5   =			
+Relief		Pre Covid	Monthly	Add ****	Deficit**	Relief***	Remainder		
+Months	Actual	Monthly	 Difference	Otherwise	 negative#	 /month	 Losses/		
+	Income	BASIS*	Inc-Basis	Compensa-		max $1200	  Deficit		
+2020-04-01 00:00:00			 		 				
+2020-05-01 00:00:00			 		 				
+2020-06-01 00:00:00			 		 				
+2020-07-01 00:00:00			 		 				
+2020-08-01 00:00:00			 		 				
+2020-09-01 00:00:00			 		 		 Remainder		
+2020-10-01 00:00:00			 		 		   Total		
+2020-11-01 00:00:00			 		 		mo. Deficit		
+2020-12-01 00:00:00			 		 		 - mo. Relief		
+				   Totals		 			
+	To be calculated by SLA *****			Balance %	  	add'l relief			
+  * BASIS is the average monthly net income BEFORE COVID									
+ ** Deficit must be a negative number									
+ ***Relief   If Deficit is less than $1000, the Relief equals the Deficit	 If loss/deficit is less than $1200, then relief equalss loss/deficit								
+	   Example:	Act inc  $0	 -Basis 1200	 0-1200=1200	  oth comp 0	 =deficit 1200	  Relief  1200		
+	 If loss/deficit is more than $1200, relief is at maximum $1200								
+	  Example:	Act Inc $1000	 -Bsis $3000	3000-1000=2000		 =Deficit 2000	 Relief=1200		
+ **** Otherwise Compensated: Insurance, Direct Federal, State, City & County payments									
+***** After monthly relief 	 monthly relief is paid, FRRP balance divided by the total remaining deficit = Balance percentage								
+	Applying this percentage to each vendors remaining deficit = the additional relief								
+ I attest to the facts and figures submitted on the COVID Relief Chart are									
+ true satements of facts. I understand that this cahart must be coroborated 									
+ with my previously submitted P/L statements. No relief paymets will be									
+ made without this P/L corroboration.									
+       VF#:		      Facility:							
+      Operator (print):									
+  Signature:					    Date:

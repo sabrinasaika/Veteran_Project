@@ -1,0 +1,1385 @@
+{
+  "source_type": "jvr_pdf_candidate",
+  "doi": "10.1177/10522263251357443",
+  "doi_url": "https://doi.org/10.1177/10522263251357443",
+  "source_url": "https://journals.sagepub.com/doi/10.1177/10522263251357443",
+  "attempted_pdf_urls": [
+    "https://journals.sagepub.com/doi/pdf/10.1177/10522263251357443",
+    "https://journals.sagepub.com/doi/10.1177/10522263251357443",
+    "https://doi.org/10.1177/10522263251357443",
+    "https://content.iospress.com/download?id=10.1177/10522263251357443"
+  ],
+  "selected_pdf_url": "",
+  "selected_final_url": "",
+  "download_status": "unavailable",
+  "match": {
+    "veteran_hits": [
+      "va "
+    ],
+    "pathway_hits": [
+      "employment",
+      "job",
+      "career"
+    ],
+    "disability_hits": []
+  },
+  "openalex": {
+    "id": "https://openalex.org/W4412384307",
+    "doi": "https://doi.org/10.1177/10522263251357443",
+    "title": "Social Return on Investment Analysis: A Case Study of a Job and Skills Training Program Administered by the French Labor Ministry",
+    "display_name": "Social Return on Investment Analysis: A Case Study of a Job and Skills Training Program Administered by the French Labor Ministry",
+    "publication_year": 2025,
+    "publication_date": "2025-07-14",
+    "ids": {
+      "openalex": "https://openalex.org/W4412384307",
+      "doi": "https://doi.org/10.1177/10522263251357443"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/10522263251357443",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1177/10522263251357443",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S190353498",
+        "display_name": "Journal of Vocational Rehabilitation",
+        "issn_l": "1052-2263",
+        "issn": [
+          "1052-2263",
+          "1878-6316"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310318577",
+        "host_organization_name": "IOS Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310318577"
+        ],
+        "host_organization_lineage_names": [
+          "IOS Press"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc",
+      "license_id": "https://openalex.org/licenses/cc-by-nc",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Vocational Rehabilitation",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://doi.org/10.1177/10522263251357443",
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5118972743",
+          "display_name": "Dima Murtada",
+          "orcid": "https://orcid.org/0000-0002-5830-8361"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I181827316",
+            "display_name": "Université Catholique de Lille",
+            "ror": "https://ror.org/025s1b152",
+            "country_code": "FR",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I181827316"
+            ]
+          }
+        ],
+        "countries": [
+          "FR"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Dima Murtada",
+        "raw_affiliation_strings": [
+          "Faculty of Management, Economics and Sciences, Catholic University of Lille, Lille, France"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Faculty of Management, Economics and Sciences, Catholic University of Lille, Lille, France",
+            "institution_ids": [
+              "https://openalex.org/I181827316"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5019283232",
+          "display_name": "Claire Hutchinson",
+          "orcid": "https://orcid.org/0000-0003-4289-8886"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I169541294",
+            "display_name": "Flinders University",
+            "ror": "https://ror.org/01kpzv902",
+            "country_code": "AU",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I169541294"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I2800277939",
+            "display_name": "Government of South Australia",
+            "ror": "https://ror.org/04g3scy39",
+            "country_code": "AU",
+            "type": "funder",
+            "lineage": [
+              "https://openalex.org/I2800277939"
+            ]
+          }
+        ],
+        "countries": [
+          "AU"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Claire Hutchinson",
+        "raw_affiliation_strings": [
+          "Caring Future Institute, College of Nursing and Health Sciences, Flinders University, Adelaide, Australia",
+          "Centre for Social Impact, College of Business, Government and Law, Flinders University, Adelaie, Australia"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Caring Future Institute, College of Nursing and Health Sciences, Flinders University, Adelaide, Australia",
+            "institution_ids": [
+              "https://openalex.org/I169541294"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Centre for Social Impact, College of Business, Government and Law, Flinders University, Adelaie, Australia",
+            "institution_ids": [
+              "https://openalex.org/I169541294",
+              "https://openalex.org/I2800277939"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 2,
+    "institutions_distinct_count": 2,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5019283232"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I169541294",
+      "https://openalex.org/I2800277939"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.26931061,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": "63",
+      "issue": "2",
+      "first_page": "207",
+      "last_page": "224"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T13033",
+      "display_name": "Social Sciences and Governance",
+      "score": 0.989300012588501,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3322",
+        "display_name": "Urban Studies"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T13033",
+        "display_name": "Social Sciences and Governance",
+        "score": 0.989300012588501,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3322",
+          "display_name": "Urban Studies"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11475",
+        "display_name": "French Urban and Social Studies",
+        "score": 0.9259999990463257,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10153",
+        "display_name": "Education, sociology, and vocational training",
+        "score": 0.900600016117096,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/christian-ministry",
+        "display_name": "Christian ministry",
+        "score": 0.8530467748641968
+      },
+      {
+        "id": "https://openalex.org/keywords/investment",
+        "display_name": "Investment (military)",
+        "score": 0.6366739273071289
+      },
+      {
+        "id": "https://openalex.org/keywords/job-training",
+        "display_name": "Job training",
+        "score": 0.5979676246643066
+      },
+      {
+        "id": "https://openalex.org/keywords/training",
+        "display_name": "Training (meteorology)",
+        "score": 0.48669201135635376
+      },
+      {
+        "id": "https://openalex.org/keywords/psychology",
+        "display_name": "Psychology",
+        "score": 0.47839176654815674
+      },
+      {
+        "id": "https://openalex.org/keywords/business",
+        "display_name": "Business",
+        "score": 0.44937729835510254
+      },
+      {
+        "id": "https://openalex.org/keywords/labour-economics",
+        "display_name": "Labour economics",
+        "score": 0.42203351855278015
+      },
+      {
+        "id": "https://openalex.org/keywords/medical-education",
+        "display_name": "Medical education",
+        "score": 0.32790470123291016
+      },
+      {
+        "id": "https://openalex.org/keywords/economics",
+        "display_name": "Economics",
+        "score": 0.24902114272117615
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.24578991532325745
+      },
+      {
+        "id": "https://openalex.org/keywords/pedagogy",
+        "display_name": "Pedagogy",
+        "score": 0.19213399291038513
+      },
+      {
+        "id": "https://openalex.org/keywords/medicine",
+        "display_name": "Medicine",
+        "score": 0.16907227039337158
+      },
+      {
+        "id": "https://openalex.org/keywords/vocational-education",
+        "display_name": "Vocational education",
+        "score": 0.1157604455947876
+      },
+      {
+        "id": "https://openalex.org/keywords/geography",
+        "display_name": "Geography",
+        "score": 0.05979195237159729
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C521751864",
+        "wikidata": "https://www.wikidata.org/wiki/Q1729207",
+        "display_name": "Christian ministry",
+        "level": 2,
+        "score": 0.8530467748641968
+      },
+      {
+        "id": "https://openalex.org/C27548731",
+        "wikidata": "https://www.wikidata.org/wiki/Q88272",
+        "display_name": "Investment (military)",
+        "level": 3,
+        "score": 0.6366739273071289
+      },
+      {
+        "id": "https://openalex.org/C2994503098",
+        "wikidata": "https://www.wikidata.org/wiki/Q6869278",
+        "display_name": "Job training",
+        "level": 3,
+        "score": 0.5979676246643066
+      },
+      {
+        "id": "https://openalex.org/C2777211547",
+        "wikidata": "https://www.wikidata.org/wiki/Q17141490",
+        "display_name": "Training (meteorology)",
+        "level": 2,
+        "score": 0.48669201135635376
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.47839176654815674
+      },
+      {
+        "id": "https://openalex.org/C144133560",
+        "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+        "display_name": "Business",
+        "level": 0,
+        "score": 0.44937729835510254
+      },
+      {
+        "id": "https://openalex.org/C145236788",
+        "wikidata": "https://www.wikidata.org/wiki/Q28161",
+        "display_name": "Labour economics",
+        "level": 1,
+        "score": 0.42203351855278015
+      },
+      {
+        "id": "https://openalex.org/C509550671",
+        "wikidata": "https://www.wikidata.org/wiki/Q126945",
+        "display_name": "Medical education",
+        "level": 1,
+        "score": 0.32790470123291016
+      },
+      {
+        "id": "https://openalex.org/C162324750",
+        "wikidata": "https://www.wikidata.org/wiki/Q8134",
+        "display_name": "Economics",
+        "level": 0,
+        "score": 0.24902114272117615
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.24578991532325745
+      },
+      {
+        "id": "https://openalex.org/C19417346",
+        "wikidata": "https://www.wikidata.org/wiki/Q7922",
+        "display_name": "Pedagogy",
+        "level": 1,
+        "score": 0.19213399291038513
+      },
+      {
+        "id": "https://openalex.org/C71924100",
+        "wikidata": "https://www.wikidata.org/wiki/Q11190",
+        "display_name": "Medicine",
+        "level": 0,
+        "score": 0.16907227039337158
+      },
+      {
+        "id": "https://openalex.org/C668760",
+        "wikidata": "https://www.wikidata.org/wiki/Q6869278",
+        "display_name": "Vocational education",
+        "level": 2,
+        "score": 0.1157604455947876
+      },
+      {
+        "id": "https://openalex.org/C205649164",
+        "wikidata": "https://www.wikidata.org/wiki/Q1071",
+        "display_name": "Geography",
+        "level": 0,
+        "score": 0.05979195237159729
+      },
+      {
+        "id": "https://openalex.org/C153294291",
+        "wikidata": "https://www.wikidata.org/wiki/Q25261",
+        "display_name": "Meteorology",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C94625758",
+        "wikidata": "https://www.wikidata.org/wiki/Q7163",
+        "display_name": "Politics",
+        "level": 2,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1177/10522263251357443",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1177/10522263251357443",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S190353498",
+          "display_name": "Journal of Vocational Rehabilitation",
+          "issn_l": "1052-2263",
+          "issn": [
+            "1052-2263",
+            "1878-6316"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310318577",
+          "host_organization_name": "IOS Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310318577"
+          ],
+          "host_organization_lineage_names": [
+            "IOS Press"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Vocational Rehabilitation",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.1177/10522263251357443",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1177/10522263251357443",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S190353498",
+        "display_name": "Journal of Vocational Rehabilitation",
+        "issn_l": "1052-2263",
+        "issn": [
+          "1052-2263",
+          "1878-6316"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310318577",
+        "host_organization_name": "IOS Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310318577"
+        ],
+        "host_organization_lineage_names": [
+          "IOS Press"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc",
+      "license_id": "https://openalex.org/licenses/cc-by-nc",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Vocational Rehabilitation",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "content_urls": null,
+    "referenced_works_count": 23,
+    "referenced_works": [
+      "https://openalex.org/W1499361853",
+      "https://openalex.org/W1503978586",
+      "https://openalex.org/W1596970287",
+      "https://openalex.org/W1956535214",
+      "https://openalex.org/W1979290264",
+      "https://openalex.org/W2067961132",
+      "https://openalex.org/W2156970605",
+      "https://openalex.org/W2266146079",
+      "https://openalex.org/W2304368234",
+      "https://openalex.org/W2557077994",
+      "https://openalex.org/W2559949883",
+      "https://openalex.org/W2567267188",
+      "https://openalex.org/W2773545416",
+      "https://openalex.org/W2898596759",
+      "https://openalex.org/W3000570648",
+      "https://openalex.org/W3032376952",
+      "https://openalex.org/W3084012410",
+      "https://openalex.org/W3128944451",
+      "https://openalex.org/W3175805329",
+      "https://openalex.org/W4224119512",
+      "https://openalex.org/W4400071323",
+      "https://openalex.org/W4401512442",
+      "https://openalex.org/W6629766181"
+    ],
+    "related_works": [
+      "https://openalex.org/W2034041692",
+      "https://openalex.org/W250806075",
+      "https://openalex.org/W3016418392",
+      "https://openalex.org/W2255763016",
+      "https://openalex.org/W2606748847",
+      "https://openalex.org/W2957003686",
+      "https://openalex.org/W4391322075",
+      "https://openalex.org/W2015969812",
+      "https://openalex.org/W590367774",
+      "https://openalex.org/W3200271835"
+    ],
+    "abstract_inverted_index": {
+      "Background": [
+        0
+      ],
+      "The": [
+        1,
+        86,
+        120,
+        137
+      ],
+      "program": [
+        2,
+        14,
+        71,
+        80,
+        84,
+        92,
+        96,
+        113,
+        115,
+        155
+      ],
+      "“Réalise": [
+        3
+      ],
+      "Tes": [
+        4
+      ],
+      "Rêves”": [
+        5
+      ],
+      "(Make": [
+        6
+      ],
+      "your": [
+        7
+      ],
+      "dreams": [
+        8
+      ],
+      "come": [
+        9
+      ],
+      "true;": [
+        10
+      ],
+      "RtR)": [
+        11
+      ],
+      "was": [
+        12,
+        76,
+        88,
+        140
+      ],
+      "a": [
+        13,
+        56
+      ],
+      "of": [
+        15,
+        29,
+        50,
+        68,
+        166
+      ],
+      "action": [
+        16
+      ],
+      "research": [
+        17
+      ],
+      "aimed": [
+        18
+      ],
+      "at": [
+        19
+      ],
+      "trialing": [
+        20
+      ],
+      "new": [
+        21
+      ],
+      "approaches": [
+        22
+      ],
+      "to": [
+        23,
+        60
+      ],
+      "address": [
+        24
+      ],
+      "the": [
+        25,
+        48,
+        64,
+        69,
+        112,
+        118,
+        126,
+        150,
+        163
+      ],
+      "job": [
+        26,
+        173
+      ],
+      "seeking": [
+        27
+      ],
+      "needs": [
+        28
+      ],
+      "people": [
+        30
+      ],
+      "not": [
+        31
+      ],
+      "in": [
+        32,
+        41,
+        99,
+        128
+      ],
+      "employment,": [
+        33
+      ],
+      "education": [
+        34
+      ],
+      "or": [
+        35
+      ],
+      "training": [
+        36
+      ],
+      "(NEETs),": [
+        37
+      ],
+      "and": [
+        38,
+        62,
+        82,
+        103,
+        117,
+        134,
+        153,
+        161,
+        169
+      ],
+      "unemployed": [
+        39
+      ],
+      "women": [
+        40
+      ],
+      "disadvantaged": [
+        42,
+        172
+      ],
+      "neighborhoods.": [
+        43
+      ],
+      "Objective": [
+        44
+      ],
+      "This": [
+        45,
+        147
+      ],
+      "study": [
+        46,
+        148
+      ],
+      "examines": [
+        47
+      ],
+      "use": [
+        49
+      ],
+      "social": [
+        51,
+        57,
+        164
+      ],
+      "return": [
+        52
+      ],
+      "on": [
+        53
+      ],
+      "investment": [
+        54
+      ],
+      "(SROI),": [
+        55
+      ],
+      "valuation": [
+        58
+      ],
+      "methodology,": [
+        59
+      ],
+      "examine": [
+        61
+      ],
+      "capture": [
+        63
+      ],
+      "broad": [
+        65
+      ],
+      "socio-economic": [
+        66
+      ],
+      "value": [
+        67
+      ],
+      "employment": [
+        70,
+        168
+      ],
+      "RtR.": [
+        72
+      ],
+      "Methods": [
+        73
+      ],
+      "Qualitative": [
+        74
+      ],
+      "data": [
+        75,
+        93
+      ],
+      "collected": [
+        77
+      ],
+      "from": [
+        78
+      ],
+      "54": [
+        79
+      ],
+      "participants": [
+        81
+      ],
+      "21": [
+        83
+      ],
+      "staff.": [
+        85
+      ],
+      "analysis": [
+        87
+      ],
+      "also": [
+        89
+      ],
+      "informed": [
+        90
+      ],
+      "by": [
+        91,
+        100,
+        157
+      ],
+      "such": [
+        94
+      ],
+      "as": [
+        95
+      ],
+      "components": [
+        97
+      ],
+      "engaged": [
+        98
+      ],
+      "participants,": [
+        101,
+        114
+      ],
+      "retention": [
+        102
+      ],
+      "exit": [
+        104
+      ],
+      "outcomes.": [
+        105
+      ],
+      "Results": [
+        106
+      ],
+      "Positive": [
+        107
+      ],
+      "outcomes": [
+        108,
+        124,
+        156
+      ],
+      "were": [
+        109,
+        125
+      ],
+      "identified": [
+        110
+      ],
+      "for": [
+        111,
+        142,
+        171
+      ],
+      "staff,": [
+        116
+      ],
+      "community.": [
+        119
+      ],
+      "most": [
+        121
+      ],
+      "important": [
+        122
+      ],
+      "direct": [
+        123
+      ],
+      "increase": [
+        127
+      ],
+      "personal": [
+        129
+      ],
+      "assets,": [
+        130
+      ],
+      "enhanced": [
+        131
+      ],
+      "career": [
+        132
+      ],
+      "prospects,": [
+        133
+      ],
+      "health": [
+        135
+      ],
+      "improvements.": [
+        136
+      ],
+      "SROI": [
+        138,
+        159
+      ],
+      "ratio": [
+        139
+      ],
+      "€16.62": [
+        141
+      ],
+      "every": [
+        143
+      ],
+      "€1": [
+        144
+      ],
+      "invested.": [
+        145
+      ],
+      "Conclusions": [
+        146
+      ],
+      "illustrates": [
+        149
+      ],
+      "program's": [
+        151
+      ],
+      "tangible": [
+        152
+      ],
+      "intangible": [
+        154
+      ],
+      "applying": [
+        158
+      ],
+      "methodology": [
+        160
+      ],
+      "demonstrates": [
+        162
+      ],
+      "impact": [
+        165
+      ],
+      "supporting": [
+        167
+      ],
+      "self-employment": [
+        170
+      ],
+      "seekers.": [
+        174
+      ]
+    },
+    "counts_by_year": [],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  "crossref": {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          30
+        ]
+      ],
+      "date-time": "2025-09-30T09:40:03Z",
+      "timestamp": 1759225203159,
+      "version": "3.44.0"
+    },
+    "reference-count": 29,
+    "publisher": "SAGE Publications",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              14
+            ]
+          ],
+          "date-time": "2025-07-14T00:00:00Z",
+          "timestamp": 1752451200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              14
+            ]
+          ],
+          "date-time": "2025-07-14T00:00:00Z",
+          "timestamp": 1752451200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.sagepub.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Journal of Vocational Rehabilitation"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          9
+        ]
+      ]
+    },
+    "abstract": "<jats:sec>\n            <jats:title>Background</jats:title>\n            <jats:p>The program “Réalise Tes Rêves” (Make your dreams come true; RtR) was a program of action research aimed at trialing new approaches to address the job seeking needs of people not in employment, education or training (NEETs), and unemployed women in disadvantaged neighborhoods.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Objective</jats:title>\n            <jats:p>This study examines the use of social return on investment (SROI), a social valuation methodology, to examine and capture the broad socio-economic value of the employment program RtR.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Methods</jats:title>\n            <jats:p>Qualitative data was collected from 54 program participants and 21 program staff. The analysis was also informed by program data such as program components engaged in by participants, retention and exit outcomes.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Results</jats:title>\n            <jats:p>Positive outcomes were identified for the program participants, program staff, and the community. The most important direct outcomes were the increase in personal assets, enhanced career prospects, and health improvements. The SROI ratio was €16.62 for every €1 invested.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Conclusions</jats:title>\n            <jats:p>This study illustrates the program's tangible and intangible program outcomes by applying SROI methodology and demonstrates the social impact of supporting employment and self-employment for disadvantaged job seekers.</jats:p>\n          </jats:sec>",
+    "DOI": "10.1177/10522263251357443",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          14
+        ]
+      ],
+      "date-time": "2025-07-14T07:04:23Z",
+      "timestamp": 1752476663000
+    },
+    "page": "207-224",
+    "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Social Return on Investment Analysis: A Case Study of a Job and Skills Training Program Administered by the French Labor Ministry"
+    ],
+    "prefix": "10.1177",
+    "volume": "63",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-5830-8361",
+        "authenticated-orcid": false,
+        "given": "Dima",
+        "family": "Murtada",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Faculty of Management, Economics and Sciences, Catholic University of Lille, Lille, France"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4289-8886",
+        "authenticated-orcid": false,
+        "given": "Claire",
+        "family": "Hutchinson",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Caring Future Institute, College of Nursing and Health Sciences, Flinders University, Adelaide, Australia"
+          },
+          {
+            "name": "Centre for Social Impact, College of Business, Government and Law, Flinders University, Adelaie, Australia"
+          }
+        ]
+      }
+    ],
+    "member": "179",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          14
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "issue": "2",
+        "key": "e_1_3_3_2_1",
+        "first-page": "28",
+        "article-title": "What is behind the rise in long-term unemployment?",
+        "volume": "34",
+        "author": "Aaronson D.",
+        "year": "2010",
+        "unstructured": "Aaronson D., Mazumder B., Schechter S. (2010). What is behind the rise in long-term unemployment? Economic Perspectives, 34(2), 28–51.",
+        "journal-title": "Economic Perspectives"
+      },
+      {
+        "key": "e_1_3_3_3_1",
+        "unstructured": "Aeron-Thomas D. Nicholls J. Forster S. Westall A. (2004). Social return on investment: Valuing what matters. New Economics Foundation."
+      },
+      {
+        "key": "e_1_3_3_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12889-015-1935-7"
+      },
+      {
+        "key": "e_1_3_3_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1108/SEJ-05-2018-0044"
+      },
+      {
+        "key": "e_1_3_3_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1191/1478088706qp063oa"
+      },
+      {
+        "key": "e_1_3_3_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/nml.21189"
+      },
+      {
+        "key": "e_1_3_3_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1108/MEDAR-05-2021-1307"
+      },
+      {
+        "key": "e_1_3_3_9_1",
+        "first-page": "12",
+        "volume-title": "Long-term unemployment in the EU: Trends and policies",
+        "author": "Duell N.",
+        "year": "2016",
+        "unstructured": "Duell N., Thurau L., Vetter T. (2016). Long-term unemployment in the EU: Trends and policies (p. 12). Bertelsmann Stiftung."
+      },
+      {
+        "key": "e_1_3_3_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.procs.2017.11.406"
+      },
+      {
+        "key": "e_1_3_3_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1108/SEJ-08-2023-0101"
+      },
+      {
+        "key": "e_1_3_3_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1108/SEJ-02-2015-0004"
+      },
+      {
+        "key": "e_1_3_3_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S2215-0366(20)30235-2"
+      },
+      {
+        "key": "e_1_3_3_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.26552/ems.2021.1.55-63"
+      },
+      {
+        "key": "e_1_3_3_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/labr.12188"
+      },
+      {
+        "key": "e_1_3_3_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s13643-016-0394-2"
+      },
+      {
+        "key": "e_1_3_3_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/14719037.2012.698857"
+      },
+      {
+        "key": "e_1_3_3_18_1",
+        "unstructured": "Ministère du Travail de l’emploi et de l’insertion. (2020). Plan d’investissement dans les compétences - PIC. https://travail-emploi.gouv.fr/le-ministere-en-action/pic/"
+      },
+      {
+        "key": "e_1_3_3_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/nml.21145"
+      },
+      {
+        "key": "e_1_3_3_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.evalprogplan.2016.11.011"
+      },
+      {
+        "key": "e_1_3_3_21_1",
+        "unstructured": "Nicholls J. Lawlor E. Neitzert E. Goodspeed T. (2012). A guide to social return on investment. The Office of the Third Sector."
+      },
+      {
+        "key": "e_1_3_3_22_1",
+        "volume-title": "Disability, work and inclusion: Mainstreaming in all policies and practices",
+        "author": "OECD (Organisation for Economic Cooperation and Development)",
+        "year": "2022",
+        "unstructured": "OECD (Organisation for Economic Cooperation and Development). (2022). Disability, work and inclusion: Mainstreaming in all policies and practices. OECD Publishing."
+      },
+      {
+        "key": "e_1_3_3_23_1",
+        "volume-title": "A guide to social return on investment",
+        "author": "Office of the Third Sector",
+        "year": "2009",
+        "unstructured": "Office of the Third Sector. (2009). A guide to social return on investment. Cabinet Office."
+      },
+      {
+        "key": "e_1_3_3_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/nml.21187"
+      },
+      {
+        "key": "e_1_3_3_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.childyouth.2020.104747"
+      },
+      {
+        "key": "e_1_3_3_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1108/CG-02-2020-0062"
+      },
+      {
+        "key": "e_1_3_3_27_1",
+        "volume-title": "Social return on investment: A guide to SROI analysis",
+        "author": "Scholten P.",
+        "year": "2006",
+        "unstructured": "Scholten P., Nicholls J., Olsen S., Galimidi B. (2006). Social return on investment: A guide to SROI analysis. Lenthe Publishers."
+      },
+      {
+        "key": "e_1_3_3_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0306285"
+      },
+      {
+        "key": "e_1_3_3_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/nml.21190"
+      },
+      {
+        "key": "e_1_3_3_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1108/SEJ-03-2013-0013"
+      }
+    ],
+    "container-title": [
+      "Journal of Vocational Rehabilitation"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/10522263251357443",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/10522263251357443",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/10522263251357443",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          30
+        ]
+      ],
+      "date-time": "2025-09-30T09:10:14Z",
+      "timestamp": 1759223414000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/10.1177/10522263251357443"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          14
+        ]
+      ]
+    },
+    "references-count": 29,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            9
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1177/10522263251357443"
+    ],
+    "URL": "https://doi.org/10.1177/10522263251357443",
+    "relation": {},
+    "ISSN": [
+      "1052-2263",
+      "1878-6316"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "1052-2263"
+      },
+      {
+        "type": "electronic",
+        "value": "1878-6316"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          14
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,45 @@
+# Allowlist: nothing is tracked unless it is listed below.
+# Private RSA-911 data and anything derived from it, evaluation outputs,
+# paper drafts and Markdown notes stay local.
+*
+!*/
+!*.py
+!*.sh
+!requirements.txt
+!.env.example
+!.gitignore
+!.gitattributes
+!web/*.html
+!web/static/*.js
+!web/static/*.css
+
+# Public data: crawled documents, the Chroma index built from them, and the benchmarks.
+!_raw/**
+!_processed/**
+!docs_text/**
+!chroma_db_adv/**
+!chunks.jsonl
+!manifest.csv
+!dupes.csv
+!sources.txt
+!eval_benchmark.json
+!eval_benchmark_full_system.json
+!eval_benchmark_expanded.json
+
+# Never tracked, even when a pattern above matches.
+.DS_Store
+*.md
+!/README.md
+.venv/
+__pycache__/
+.claude/
+.gradio/
+data/
+logs/
+exports/
+archives/
+statistics/runs/
+statistics/comparison/runs/
+statistics/current_evaluation/
+statistics/paper/
+*_rsa911*

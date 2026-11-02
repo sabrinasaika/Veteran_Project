@@ -1,0 +1,1909 @@
+UNITED STATES DEPARTMENT OF EDUCATION 
+OFFICE OF SPECIAL EDUCATION AND REHABILITATIVE SERVICES 
+REHABILITATION SERVICES ADMINISTRATION 
+WASHINGTON, DC 20202-2800 
+ 
+TECHNICAL ASSISTANCE CIRCULAR 
+RSA-TAC-17-02 
+DATE: January 18, 2017 
+ 
+ADDRESSEES: STATE VOCATIONAL REHABILITATION AGENCIES  
+STATE REHABILITATION COUNCILS 
+TECHNICAL ASSISTANCE CENTERS  
+AMERICAN INDIAN VOCATIONAL REHABILITATION SERVICE    
+PROJECTS 
+CLIENT ASSISTANCE PROGRAMS 
+ 
+SUBJECT:  One-Stop Operations Guidance for the American Job Center Network  
+ 
+PURPOSE:  
+ 
+This Technical Assistance Circular (TAC) provides general guidance for the implementation of 
+operational requirements under the Workforce Innovation and Opportunity Act (WIOA) 
+pertaining to the one-stop delivery system, branded nationally as the American Job Center 
+network. Due to the broad scope of the one-stop delivery system, encompassing multiple 
+programs administered by different Federal agencies, this guidance provides the primary 
+components for understanding and implementing an integrated American Job Center network.  
+Consistent with the requirement to promote increased public identification of the one-stop 
+delivery system and the requirement for the use of a common identifier across the nation (WIOA 
+sec. 121(e)(4)), the U.S. Department of Labor (DOL), in coordination with the U.S. Department 
+of Education (ED), established the “American Job Center” network, a unifying name and brand 
+that identifies online and in-person workforce development services as part of a single network 
+of publicly-funded services. The use of the American Job Center network designation in this 
+guidance establishes a framework for accentuating and implementing an integrated workforce 
+delivery system.  
+ 
+DOL and ED, in partnership with the U.S. Department of Health and Human Services (HHS) 
+(collectively, the Departments), published the WIOA Joint Rule for Unified and Combined State 
+Plans, Performance Accountability, and the One-Stop System Joint Provisions; Final Rule (Joint 
+WIOA Final Rule) on August 19, 2016, in the Federal Register at 81 FR 55791. The Joint WIOA 
+Final Rule, which became effective on October 18, 2016, can be found at:  
+https://www.federalregister.gov/documents/2016/08/19/2016-15977/workforce-innovation-and-
+opportunity-act-joint-rule-for-unified-and-combined-state-plans-performance 
+ 
+This guidance is being issued jointly by DOL’s Employment and Training Administration 
+(ETA), ED’s Office of Career, Technical, and Adult Education (OCTAE) and Office of Special 
+Education and Rehabilitative Services’ Rehabilitation Services Administration (RSA), and
+
+2 
+HHS’s Administration for Children and Families (ACF). The guidance also links to other 
+technical assistance resources that support States and local areas as they work to implement an 
+integrated American Job Center network. 
+ 
+TECHNICAL ASSISTANCE:  
+ 
+Background 
+ 
+The vision for the American Job Center network reflects the long-standing and ongoing work of 
+dedicated workforce professionals to align a wide range of publicly- or privately-funded 
+education, employment, and training programs, while also providing high-quality customer 
+service to all job seekers, workers, and businesses. 
+ 
+The creation of the integrated one-stop locations was a cornerstone of the Workforce Investment 
+Act of 1998 (WIA). In the years between the passage of WIA and WIOA, the public workforce 
+development system tested a variety of approaches to maximize the benefits that customers and 
+their communities receive from American Job Centers. In the last ten years, technological 
+advances have opened up new methods of service delivery and evidence-based models to build 
+upon our shared understanding of best practices. Further, during the past few years, Federal 
+agencies have worked collectively to reform Federal employment, education, and training 
+programs to create a more integrated, job-driven, public workforce system. As a result of this 
+work, American Job Centers continue to be valued community resources, acknowledged both 
+locally and nationally as a critical source of assistance for individuals looking for work or 
+opportunities to grow in their careers, and employers looking for human resource assistance.  
+ 
+WIOA builds on the value of the American Job Center network and provides the workforce 
+development system with important tools to enhance the quality of its American Job Centers. 
+WIOA strengthens the ability of States, regions, and local areas to align investments in 
+workforce, education, and economic development to respond to regional job growth. WIOA also 
+emphasizes achieving results for all job seekers, workers, and businesses.  
+ 
+Finally, WIOA reinforces the partnerships and strategies necessary for American Job Centers to 
+provide all job seekers and workers with the high-quality career, training, and supportive 
+services they need to obtain and maintain good jobs. Such strategies help businesses find skilled 
+workers and access other human resource assistance, including education and training, to meet 
+their current workforce needs. 
+ 
+American Job Center Network 
+  
+Characteristics of the American Job Center Network 
+ 
+The American Job Center network includes six core programs: title I Adult, Dislocated Worker, 
+and Youth programs; the title II Adult Education and Family Literacy Act (AEFLA) program; 
+the Wagner-Peyser Act Employment Service (ES) program, authorized under the Wagner-Peyser 
+Act, as amended by title III of WIOA; and the Vocational Rehabilitation (VR) program, 
+authorized under title I of the Rehabilitation Act of 1973, as amended by title IV of WIOA. The
+
+3 
+American Job Center network also includes other required and additional partners identified in 
+WIOA and discussed later in this TAC. Through the American Job Centers, these partner 
+programs and their direct service providers ensure businesses and all job seekers—a shared client 
+base across the multiple programs—have access to information and services that lead to positive 
+educational and employment outcomes.  Under WIOA, American Job Centers and partner staff 
+strive to: 
+• Provide job seekers with the skills and credentials necessary to secure and advance in 
+employment with wages that sustain themselves and their families; 
+• Provide access and opportunities to job seekers, including individuals with barriers to 
+employment, as defined in section 3(24) of WIOA, such as individuals with 
+disabilities, individuals who are English language learners, and individuals who have 
+low levels of literacy, to prepare for, obtain, retain, and advance in high-quality jobs 
+and high-demand careers; 
+• Enable businesses and employers to easily identify and hire skilled workers and 
+access other human resource assistance, including education and training for their 
+current workforce, which may include assistance with pre-screening applicants, 
+writing job descriptions, offering rooms for interviewing, and consultation services on 
+topics like succession planning and career ladder development, and other forms of 
+assistance.  
+• Participate in rigorous evaluations that support continuous improvement of American 
+Job Centers by identifying which strategies work better for different populations; and 
+• Ensure that high-quality integrated data inform decisions made by policy makers, 
+employers, and job seekers. 
+ 
+The management of the American Job Center network is the shared responsibility of States, local 
+workforce development boards (WDBs), elected officials, the six WIOA core program partners, 
+required one-stop partners and other additional one-stop partners, American Job Center 
+operators, and service providers. Through the American Job Center, the one-stop operator carries 
+out the activities described below: 
+• Facilitates integrated partnerships that seamlessly incorporate services for the 
+common customers served by multiple program partners of the American Job Center. 
+• Develops and implements operational policies that reflect an integrated system of 
+performance, communication, and case management, and uses technology to achieve 
+integration and expanded service offerings. 
+• Organizes and integrates American Job Center services by function (rather than by 
+program), when permitted by a program’s authorizing statute and, as appropriate, 
+through coordinating staff communication, capacity building, and training efforts. 
+Functional alignment includes having American Job Center staff who perform similar 
+tasks serve on relevant functional teams (e.g., skills development team or business 
+services teams).  
+o Service integration focuses on serving all customers seamlessly (including 
+targeted populations) by providing a full range of services staffed by relevant 
+functional teams, consistent with the purpose, scope, and requirements of each 
+program.   
+o Integrated American Job Centers also ensure that:  
+ Center staff are trained and equipped in an ongoing learning
+
+4 
+environment with the skills and knowledge needed to provide superior 
+service to job seekers, including those with disabilities, and businesses 
+in an integrated, regionally focused framework of service delivery, 
+consistent with the requirements of each of the partner programs. 
+ Center staff are cross-trained, as appropriate, to increase staff capacity,  
+expertise, and efficiency.  This allows staff from differing programs to 
+understand other partner programs’ services, and share their own 
+expertise related to the needs of specific populations so that all staff 
+can better serve all customers. 
+ Center staff are routinely trained so they are keenly aware as to how 
+their particular work function supports and contributes to the overall 
+vision of the Local WDB, as well as within the American Job Center 
+network. This enhances their ability to ensure that a direct linkage to 
+partner programs is seamlessly integrated within the center.  
+ 
+Benefits of Participating in an Integrated American Job Center Network 
+ 
+There are significant benefits to partner participation in the American Job Center network.  The 
+clear benefit is better outcomes for customers, both job seekers and businesses. The following is 
+not an exhaustive list of benefits, but provides some of the many advantages inherent in 
+partnering in an integrated one-stop delivery system: 
+• Expanded workforce services for individuals at all levels of skill and experience.  
+All customers, including those with disabilities or other barriers to employment, have 
+the opportunity to receive hard and soft skills guidance, career planning and job 
+placement services, particularly timely labor market demand and occupational 
+information, and a variety of job-driven training options, including work-based 
+training opportunities such as registered apprenticeship, on-the-job training (OJT), 
+and incumbent worker training.   
+• Access to multiple employment and training resources. Access to multiple 
+program resources, including necessary supportive services that may not be offered 
+by or available through one individual program. Access to multiple resources in one 
+location also reduces the travel and commuting distances for customers needing 
+referrals to or the receipt of multiple services. Access to multiple resources may also 
+facilitate the leveraging and braiding of resources across systems for individual 
+customers, as appropriate. 
+• Integrated and expert intake process for all customers entering the American 
+Job Centers. Frontline staff are highly familiar with the functions and basic 
+eligibility requirements of each program, appropriately assist customers, and make 
+knowledgeable referrals to partner programs, as appropriate, given the authorized 
+scope of, and eligibility requirements for, each program.  
+• Integrated and aligned business services strategy among American Job Center 
+partners. As part of an aligned team, partners have access to a wider range of 
+business engagement strategies, increasing the opportunity for better placement 
+services and outcomes for all customers. This partnership also allows for a unified 
+voice for the American Job Center in its communications with area employers. 
+• Expert advice from multiple sources. Customers, including individuals with
+
+5 
+barriers to employment, can benefit from multiple levels of staff expertise, guidance, 
+and advice across programs. This enhances job seekers’ experiences and increases 
+their chances for success in the evolving labor market. 
+• Relevance to labor market conditions. All workforce development activities occur 
+within the context of a regional economy. Services provided should be informed by 
+data on labor market demand in the local area to ensure a positive impact or labor 
+market outcome. This outcome results in a return on investment for the job seeker’s 
+time and efforts, and for the workforce program resources expended. 
+• Expanded community and industry outreach. The integrated nature of the 
+American Job Center network extends the one-stop reach to increase customer 
+participation and enrollments, and to engage and support businesses. 
+• Strengthened partnerships. The integrated nature of the American Job  Center 
+network also helps in providing seamless workforce services that serve similar 
+populations. Some examples include setting up common intake and assessment, joint 
+outreach activities, and referral processes outlined in agreements implemented 
+between partners in the American Job Center. 
+• Encouraging efficient use of accessible information technology to include, when 
+possible, the use of machine readable forms and other features consistent with 
+modern accessibility standards, such as section 508 Standards (36 CFR part 1194) 
+and the Worldwide Web Consortium’s Web Content Accessibility Guidance 2.0, as 
+well as virtual services to expand the customer base and effectively deliver self-
+services.   
+ 
+Comprehensive American Job Centers 
+ 
+A comprehensive American Job Center, as described in 20 CFR 678.305, 34 CFR 361.305, and 
+34 CFR 463.305, is a physical location where job seekers and employer customers can access the 
+programs, services, and activities of all required one-stop partners (section 121(b)(1)(B) of 
+WIOA), along with any additional partners as determined by the Local WDB. The one-stop 
+delivery system must include at least one comprehensive physical center in each local area.  (See 
+subsection 5.B. below for a full list of required and additional partner programs.)  
+Comprehensive American Job Centers should reflect and exemplify the characteristics of a high-
+quality American Job Center as described in DOL’s TEGL No. 4-15, and ED’s RSA-TAC-15-01 
+and OCTAE Program Memorandum 15-3, entitled Vision for the One-Stop Delivery System 
+under the Workforce Innovation and Opportunity Act. Comprehensive one-stop centers should 
+reflect a welcoming environment to all customer groups who are served by the American Job 
+Centers. All American Job Center staff should be courteous and helpful to all job seekers, 
+businesses, and others who interact with the American Job Centers, in person, by telephone, or 
+online. 
+ 
+A comprehensive American Job Center must have: 
+1) At least one WIOA title I staff person physically present, and the Center must 
+provide the career services listed in 20 CFR 678.430, 34 CFR 361.430, and 34 
+CFR 463.430;  
+2) Access to training services described in 20 CFR 680.200;  
+3) Access to any employment and training activities carried out under section 134(d)
+
+6 
+of WIOA;  
+4) Access to programs and activities carried out by one-stop partners listed in 20 
+CFR 678.400 through 678.410, 34 CFR 361.400 through 361.410, and 34 CFR 
+463.400 through 463.410, including the Wagner-Peyser Act ES program; and  
+5) Workforce and labor market information. 
+ 
+Customers must have access to these programs, services, and activities during regular business 
+days at a comprehensive one-stop center (20 CFR 678.305(c), 34 CFR 361.305(c), and 34 CFR 
+463.305(c)). The Local WDB may establish other service hours at other times to accommodate 
+schedules of individuals who work on regular business days or who, because of life 
+circumstances, are not able to access the American Job Centers during regular business hours.   
+The Departments encourage access to services outside of regular business hours (i.e., nights and 
+weekends) when doing so is possible and best serves the needs of the American Job Center’s 
+customers. Centers not open outside of the regular business hours should have a plan for how 
+they will provide services to individuals who cannot visit a center during regular business hours.   
+It is important to note that “providing” career services in the comprehensive does not mean that 
+each required partner must provide these services directly on-site at the comprehensive American 
+Job Center. However, it does mean that some career services must be provided directly on-site.   
+ 
+Career services may be provided through access to one-stop partner programs and activities,  
+which, as described in 20 CFR 678.305(d), 34 CFR 361.305(d), and 34 CFR 463.305(d), may be 
+delivered in one of three ways: 
+• Option 1: Having a program staff member physically present at the American Job 
+Center;  
+• Option 2: Having a staff member from a different partner program physically present 
+at the American Job Center and appropriately trained to provide information to 
+customers about the programs, services, and activities available through all partner 
+programs; or  
+• Option 3: Making available a direct linkage through technology to a program staff 
+member who can provide meaningful information or services.  
+ 
+The options above offer a wide range of possibilities to partners. Option 2 could require varying 
+levels of assistance depending on the program’s needs, but this could be as simple as having an 
+adequately trained Wagner-Peyser ES staff member providing basic program information to a 
+one-stop customer regarding the Job Corps program. In this example, the partner staff member 
+has been trained by someone from the Job Corps program on basic eligibility requirements as 
+well as how to access and complete an enrollment application. Once the application is 
+completed, the partner staff member will connect the customer to a Job Corps representative who 
+can further assist the customer through the enrollment process. This option allows for the 
+customer to receive high-quality service through the American Job Center, in a timely manner.  
+In this example, it would be essential that the Wagner-Peyser Act ES staff person providing 
+information about the Job Corps program document his or her time and effort to ensure that the 
+charges to the appropriate program, namely the Job Corps program, for salaries and wages are 
+based on records, that accurately reflect the work performed consistent with Federal cost 
+principles in the Uniform Guidance at 2 CFR 200.430.
+
+7 
+Option 3, a direct linkage, can take many forms as well. As described in 20 CFR 678.305(d)(3), 
+34 CFR 361.305(d)(3), and 34 CFR 463.305(d)(3), a “direct linkage” means providing a direct 
+connection at the American Job Center within a reasonable time, by phone or through a real-time 
+Web-based communication, to a program staff member who can provide program information or 
+services, including career services, to the customer. Solely providing a phone number, Web site, 
+information, pamphlets, or materials does not constitute a “direct linkage”.  
+ 
+The flexibility provided through the three optional methods for assuring customer access to 
+required one-stop partner services and activities at the comprehensive centers, ensures that 
+dispersed programs, such as the National Farmworker Jobs Program, Job Corps, or Indian and 
+Native American programs, remain accessible through the American Job Center network. Local 
+WDBs, in conjunction with the partners and one-stop operator(s), must establish the method or 
+means of providing access to partner programs and document such means or methods in their 
+Memoranda of Understanding (MOUs).  
+ 
+All comprehensive American Job Centers must be physically and programmatically accessible to 
+individuals with disabilities, as described in section 188 of WIOA and its implementing 
+regulations at 29 CFR part 38 (Final Rule published at 81 FR 87130 (Dec. 2, 2016)). To ensure 
+meaningful access to all customers, American Job Centers should incorporate the principles of 
+universal and human-centered design. These principles include, for example, flexibility in space 
+usage; the use of pictorial, written, verbal, and tactile modes to present information for customers 
+with disabilities or English language learners; providing clear lines of sight to information for 
+seated or standing users; providing necessary accommodations; and providing adequate space for 
+the use of assistive devices or personal assistants. 
+ 
+Affiliated American Job Centers 
+ 
+Local WDBs may also choose to operate other access points to services in addition to 
+comprehensive American Job Centers. Such access points are called affiliate or specialized 
+American Job Centers, and are created to supplement and enhance customer access to American 
+Job Center services. These sites make one or more of the one-stop partners’ programs, services, 
+and activities available to job seekers and employers. 
+ 
+Public libraries are an example of an additional access point that Local WDBs can use as affiliate 
+American Job Centers. In addition to offering public computers and Internet access for job 
+seekers and individuals, many libraries also provide space for businesses to host career fairs and 
+networking events. As trusted institutions within their communities, libraries are often at the 
+frontline of employment and training related inquiries. Additionally, libraries also serve school-
+aged youth who can use public resources for career and education planning, along with the 
+traditional adult job seeker. 
+ 
+Every day, people in communities across the United States use libraries to access the Internet for 
+career development—boosting their skills through online learning, improving their English 
+literacy and digital literacy, and finding work. Public libraries can do even more with better 
+collaboration with State and Local WDBs. WIOA explicitly identifies public libraries as 
+potential partners of the American Job Center network (WIOA sec. 121(b)(2)(B)(vii)), which
+
+8 
+acknowledges a library’s ability to provide an expansive array of job search services, including a 
+remote location for filing for unemployment compensation. This also recognizes libraries as 
+important providers of Federally-supported training and employment for adult education and 
+literacy. (See Training and Employment Notice 35-15 - Encouraging Collaborations between the 
+Workforce Investment System and Public Libraries to Meet Career and Employment Needs, for 
+additional information.) 
+ 
+Affiliated sites, as described in 20 CFR 678.310, 34 CFR 361.310, and 34 CFR 463.310, allow 
+for more flexibility in terms of the services one-stop partner programs provide.  These sites do 
+not need to provide access to every required one-stop partner program. Just as is required of 
+comprehensive American Job Centers, affiliated sites must be physically and programmatically 
+accessible to individuals with disabilities, as required by section 188 of WIOA and its 
+implementing regulations at 29 CFR part 38. The frequency of program staff’s physical presence 
+in an affiliated site will be determined through partner MOU negotiations at the local level, 
+within the parameters of the Federal regulations at 20 CFR 678.310 through 678.320, 34 CFR 
+361.310 through 361.320, and 34 CFR 463.310 through 463.320.  
+ 
+Based on local workforce needs, the Local WDB, in conjunction with the partners and one-stop 
+operator(s), may determine that a specialized center, as described in 20 CFR 678.320, 34 CFR 
+361.320, and 34 CFR 463.320, is more appropriate to serve a particular population and may 
+choose to operate a specialized center(s). For example, a specialized center may be established to 
+serve a specific group of dislocated workers affected by a regional lay-off.  In this example, the 
+specialized center would provide a variety of services tailored to the needs of the dislocated 
+workers, including career coaching, networking opportunities, comprehensive assessment, and 
+employer meetings. The specialized center could also provide flexible office hours, such as 
+evenings and weekends, to support the job search needs of the dislocated workers served by that 
+specialized center. Other specialized centers may be established for youth, veterans, or other 
+specified groups as determined by the Local WDB.  
+ 
+Specialized centers do not need to provide access to every required partner, but should be 
+knowledgeable about, and prepared to make referrals to, American Job Center partners in the 
+comprehensive or affiliate American Job Centers. Partner services provided through specialized 
+one-stop centers must also be determined through partner negotiations at the local level and 
+incorporated into the MOU.  
+ 
+Co-location of Wagner-Peyser Act Employment Service (ES) Offices 
+ 
+WIOA recognizes the Wagner-Peyser Act ES program’s role in the American Job  
+Center network and, as a result, has made the Wagner-Peyser Act ES one of the six core 
+programs. Accordingly, the Departments recognize that Wagner-Peyser Act ES programs are 
+vital to the successful operation of American Job Centers and strongly encourage access to these 
+services throughout the workforce development system. 
+ 
+A major change to the American Job Center network under WIOA is the discontinuance of 
+separate, stand-alone Wagner-Peyser Act ES offices that were permitted under WIA (20 CFR 
+678.315, 34 CFR 361.315, and 34 CFR 463.315). Under WIOA, Wagner-Peyser Act ES
+
+9 
+programs must be co-located in comprehensive and/or affiliate American Job Centers.  If the 
+Wagner-Peyser Act ES is part of an affiliate American Job Center, the affiliate American Job 
+Center must include at least one or more other partners with a physical presence of combined 
+staff more than 50 percent of the time the center is open. In other words, if the Wagner-Peyser 
+Act ES is located in an affiliated site, there must be staff of at least one other partner in that 
+affiliated site that is physically present more than 50 percent of the time the center is open. 
+ 
+Additionally, 20 CFR 678.315(b), 34 CFR 361.315(b), and 34 CFR 463.315(b) specify that the 
+partner program administering local veterans’ employment representatives, disabled veterans’ 
+outreach program specialists, or unemployment compensation programs would not count as the 
+other partner for purposes of this requirement. Therefore, if Wagner-Peyser Act ES and any of 
+these three programs are provided at an affiliated site, an additional partner or partners must have 
+a presence of combined staff in the center of more than 50 percent of the time the center is open. 
+These and other Wagner-Peyser Act ES requirements will be addressed further in upcoming 
+DOL-administered program-specific guidance.  
+ 
+The Departments understand that States will need a reasonable amount of time to fully integrate 
+the delivery of the Wagner-Peyser Act ES programs into the American Job Center network.  
+However, States are required to co-locate Wagner-Peyser Act ES services as soon as reasonably 
+possible. In response to its program-specific WIOA Notice of Proposed Rulemaking, DOL 
+received several comments asking how to operationalize the co-location requirement. Given the 
+diversity of how States have previously structured their Wagner-Peyser Act ES, the Departments 
+are giving States discretion in determining how to operationalize the requirement for co-location. 
+However, States are required to include the steps they will take to co-locate the Wagner-Peyser 
+Act ES into their Unified or Combined State Plan.  
+ 
+Partner Roles and Responsibilities in the American Job Center Network 
+  
+One-Stop Partners 
+ 
+Section 121(b) of WIOA identifies the required and additional one-stop partner programs.  
+Generally, the entity that carries out the program serves as the one-stop partner.  This may be the 
+grant recipient, administrative entity, or organization responsible for administering the funds of 
+the specified program in a local area. In some local areas, the partner program may be carried out 
+by more than one grant recipient, contractor, or organization. If the Federal grant recipient has 
+issued or awarded part of or its entire program funds to a sub-recipient or subcontractor in 
+accordance with program requirements, the Federal grant recipient remains the entity responsible 
+for fulfilling the roles and responsibilities of a one-stop partner program. It is the responsibility 
+of the Federal grant recipient to ensure that the subrecipient, who is providing services in that 
+local area on its behalf, participates in the one-stop delivery system. If a program does not have a 
+local administrative entity, the responsible State agency is considered the one-stop partner. The 
+joint regulations at 20 CFR 678.415, 34 CFR 361.415, and 34 CFR 463.415 provide more 
+specific information on which entities are the one-stop partners for the VR and AEFLA programs 
+(two of the six WIOA core programs), as well as for certain other required partner programs.  
+ 
+A program becomes a one-stop partner when it begins carrying out the program or activity in a
+
+10 
+local area. As explained in 20 CFR 678.415, 34 CFR 361.415, and 34 CFR 463.415, if a partner 
+is not carrying out its program or activities in the local area, the requirements relating to a 
+required one-stop partner are not applicable to that partner program. Carrying out a program or 
+activity means that the partner is providing any of the services its grant, contract, or program 
+requires. One of the critical requirements that a one-stop partner must satisfy is signing the local 
+MOU, which describes the services to be provided, infrastructure and additional costs and 
+contributions, the duration of the agreement, and other elements described in section 6 of this 
+document and additionally outlined in section 121(c) of WIOA and 20 CFR 678.500, 34 CFR 
+361.500, and 34 CFR 463.500.     
+ 
+Required and Additional One-Stop Partner Programs 
+ 
+The list below identifies the required one-stop partner programs, followed by a section on the 
+additional partners. Attachment I of this TAC provides a brief description of the one-stop partner 
+programs, along with some options for aligning and integrating service delivery through the 
+American Job Center network. 
+ 
+Required DOL programs 
+• Adult (WIOA title I formula) 
+• Dislocated Worker (WIOA title I formula) 
+• Youth (WIOA title I formula) 
+• YouthBuild (WIOA title I) 
+• Indian and Native American Programs (WIOA title I) 
+• National Farmworker Jobs Programs (NFJP)/Migrant and Seasonal Farmworker 
+Programs (WIOA title I) 
+• Senior Community Service Employment Program (title V of the Older Americans Act 
+of 1965) 
+• Trade Adjustment Assistance activities (Trade Act of 1974, as amended) 
+• Jobs for Veterans State Grants (Chapter 41 of title 38) 
+• Unemployment Compensation programs  
+• Wagner-Peyser Act ES, as authorized under the Wagner-Peyser Act, as amended by 
+WIOA title III 
+• Reentry Employment Opportunities (REO)  program (formerly referred to as the 
+Reintegration of Ex-Offenders (ReXO) program) (Section 212 of the Second Chance 
+Act of 2007 and WIOA sec. 169) 
+ 
+Required ED programs 
+• AEFLA program (WIOA title II)  
+• State VR program, authorized under title I of the Rehabilitation Act of 1973, as 
+amended by WIOA title IV  
+• Career and technical  education programs at the postsecondary level, authorized under 
+the Carl D. Perkins  Career and Technical Education Act of 2006 
+ 
+Required HHS programs 
+• Programs authorized under the Social Security Act title IV, part A (TANF)
+
+11 
+• Community Services Block Grant Employment and Training activities (Community 
+Services Block Grant Act) 
+ 
+Required Department of Housing and Urban Development (HUD) programs 
+• Employment and training programs 
+ 
+Required one-stop partner programs have specific governance, operations, and service delivery 
+roles within the American Job Center network. In accordance with 20 CFR 678.420, 34 CFR 
+361.420, and 34 CFR 463.420, each required one-stop partner program must: 
+• Provide access to its programs or activities through the American Job Center network, 
+in addition to any other appropriate locations (i.e., affiliated or specialized sites);  
+• Use a portion of its funds, to the extent consistent with the relevant authorizing statute 
+and with the Uniform Guidance at 2 CFR parts 200, 2900, and 3474 (requiring, 
+among other things, that costs are allowable, reasonable, necessary, and allocable) to: 
+o Provide applicable career services; and 
+o Work collaboratively with the State and Local WDBs to establish and 
+maintain the one-stop delivery system. This includes jointly funding the one-
+stop infrastructure costs through partner contributions.   
+• Enter into an MOU that meets the requirements of 20 CFR 678.500(b), 34 CFR 
+361.500(b), and 34 CFR 463.500(b) with the Local WDB relating to the operation of 
+the American Job Center network;  
+• Participate in the operation of the American Job Center network consistent with the 
+terms of the MOU, requirements of authorizing laws and implementing regulations, 
+Federal cost principles, and all other applicable legal requirements; and 
+• Provide representation on the State WDB and Local WDBs as required, and 
+participate in Board committees, as needed. 
+ 
+The lead State official with primary responsibility for the core program partners must be 
+represented on both the State and Local WDBs. While these entities are not required to serve on 
+Local WDBs, the Departments encourage them to have a voice in key Local WDB activities and 
+notes that they are not precluded from serving on the Local WDB. For example, the State entity 
+for adult education and literacy activities may designate eligible providers to fulfill the roles and 
+responsibilities of the required partner. Federal regulations at 20 CFR 679.320(d)(1) require that 
+at least one eligible provider of adult education and literacy activities under title II be on the 
+Local WDB. A chief elected official (CEO) may consider an eligible provider that has been 
+designated to carry out roles and responsibilities of the one-stop partner from nominations for 
+adult education and literacy membership on the Local WDB. 
+  
+Additional one-stop partners may include, with the approval of the Local WDB and CEOs; 
+Social Security Administration employment and training programs (i.e., Ticket to Work and Self 
+Sufficiency programs); Department of Agriculture’s Supplemental Nutrition and Assistance 
+Program (SNAP) employment and training programs; the Client Assistance Program, authorized 
+under section 112 of the Rehabilitation Act of 1973, as amended by title IV of WIOA; National 
+and Community Service Act Programs; employment and training programs carried out by the 
+Small Business Administration; and other appropriate Federal, State or local programs, 
+including, but not limited to, employment, education, or training programs such as those
+
+12 
+operated by libraries, foundations, community-based organizations, or in the private sector.  
+Partnerships with the local mental health and transportation agencies also provide opportunities 
+to complement and streamline supportive services through the American Job Center network. 
+ 
+Career Services 
+ 
+The Joint WIOA Final Rule requires the provision of “career services” through the American Job 
+Center network, to support and empower customers in making informed decisions based on local 
+and regional economic demand and in achieving their personal employment and education goals 
+(20 CFR 678.430, 34 CFR 361.430, and 34 CFR 463.430). All applicable career services must be 
+made available (i.e., provided) in at least one comprehensive American Job Center in each local 
+area. As stated in section 4.C. of this guidance, these services also may be provided and accessed 
+through one of the aforementioned methods. Some or all of the career services may also be 
+available either at affiliated sites or specialized centers. 
+ 
+Career services provide local areas and service providers with flexibility to target services to the 
+needs of the customer. For example, a recently laid off customer may only require local labor 
+market information to prepare for a new job, whereas an entry level worker may need a 
+comprehensive assessment in order to establish a baseline for determining appropriate training 
+options. There are three types of career services: basic career services; individualized career 
+services; and follow-up career services. The distinction between basic career services and 
+individualized career services is not intended to imply that there is a sequence of services, which 
+was eliminated under WIOA. Rather, the distinction is to clarify that, while basic career services 
+are available to all participants, individualized career services are available to participants after 
+American Job Center staff have determined that such services are required to retain or obtain 
+employment.  
+ 
+Basic Career Services (20 CFR 678.430(a), 34 CFR 361.430(a), and 34 CFR 463.430(a)) 
+ 
+At a minimum, all of the basic career services described in WIOA secs. 134(c)(2)(A)(i)-(xi), and 
+20 CFR 678.430(a), 34 CFR 361.430(a), and 34 CFR 463.430(a), must be provided in each local 
+area through the one-stop delivery system. Basic career services must be made available and, at a 
+minimum, must include the following services: 
+• Determinations of whether the individual is eligible to receive assistance from the 
+adult, dislocated worker, or youth programs, including co-enrollment among these 
+programs; 
+• Outreach, intake (including identification through the state’s Worker Profiling and 
+Reemployment Services system of Unemployment Insurance (UI) claimants likely to 
+exhaust benefits), and orientation to information and other services available through 
+the one-stop delivery system. For the TANF program, States must provide individuals 
+with the opportunity to initiate an application for TANF assistance and non-assistance 
+benefits and services which could be implemented through the provision of paper 
+application forms or links to the application Web site; 
+• Initial assessment of skill levels, including literacy, numeracy, and English language 
+proficiency, as well as aptitudes, abilities (including skills gaps), and supportive 
+service needs;
+
+13 
+• Labor exchange services, including— 
+o Job search and placement assistance, and, when needed by an individual, 
+career counseling, including the provision of— 
+ information on in-demand industry sectors and occupations; 
+ information on nontraditional employment;  
+ information from career profiles and interest inventories, and 
+• Referrals to, and coordination of activities with, other programs and services, 
+including those within the American Job Center network and, when appropriate, other 
+workforce development programs; 
+• Workforce and labor market employment information, including accurate information 
+relating to local, regional, and national labor market areas, including— 
+o Job vacancy listings in labor market areas; 
+o Information on job skills necessary to obtain the vacant jobs listed;  
+o Information relating to local occupations in-demand; and the earnings, skill 
+requirements, and opportunities for advancement for occupations in demand; 
+• Provision of performance information and program cost information on eligible 
+providers of training services by program and type of providers and workforce 
+services by program and type of providers; 
+• Provision of information, in usable and understandable formats and languages, about 
+how the local area is performing on local performance accountability measures, as 
+well as any additional performance information relating to the area’s American Job 
+Center network; 
+• Provision of information, in usable and understandable formats and languages, 
+relating to the availability of supportive services or assistance, and appropriate 
+referrals to those services and assistance, including: child care; child support; medical 
+or child health assistance available through the State’s Medicaid program and 
+Children’s Health Insurance Program; benefits under SNAP; assistance through the 
+earned income tax credit; housing counseling and assistance services sponsored 
+through HUD
+1; and assistance under a State program for TANF, and other supportive 
+services and transportation provided through other programs or agencies; 
+• Assistance in establishing eligibility for financial aid assistance for training and 
+education programs not provided under WIOA; and   
+• Provision of information and assistance regarding filing claims under UI programs, 
+including meaningful assistance to individuals seeking assistance in filing a claim— 
+o “Meaningful assistance,” as described in Unemployment Insurance Program 
+Letter (UIPL) 20-15 and 20 CFR 678.430, 34 CFR 361.430, and 34 CFR 
+463.430, means providing assistance as follows: 
+ Only merit staff (State government employees) may, in person at one-
+stop centers or remotely, answer questions, provide advice, or make 
+decisions that could affect claimants’ UI eligibility. However, other 
+one-stop staff may assist in claims by acceptance of information from 
+claimants. 
+ If an individual in a one-stop center is referred to a telephone for UI 
+claims assistance, it must be a phone line dedicated to serving one-stop 
+                                                 
+1 HUD Approved Housing Counseling Agencies, http://www.hud.gov/offices/hsg/sfh/hcc/hcs.cfm
+
+14 
+customers in a timely manner. Individuals must not simply be referred 
+to a general information/dial-in line with the state UI agency contact 
+center where the individual is placed into a phone queue along with all 
+other claimants in the State. If the assistance is provided remotely 
+using technology, it must be a technology that enables trained staff to 
+provide the assistance. Examples of technology that enables remote 
+assistance include live Web chat applications, video conference 
+applications, or other similar technology. 
+ The costs associated in providing meaningful assistance may be paid 
+for by the State’s UI program, the WIOA Adult or Dislocated Worker 
+programs, the Wagner-Peyser Act ES, or some combination of these 
+programs. 
+ For purposes of the VR program, basic career services may encompass 
+some of the activities authorized under 34 CFR 361.48(b), which must 
+be provided under an individualized plan for employment for an 
+eligible individual with a disability (e.g., assessments for determining 
+VR needs).  
+ 
+Individualized Career Services (20 CFR 678.430(b), 34 CFR 361.430(b), and 34 CFR 
+463.430(b)) 
+ 
+If one-stop center staff, including designated partner program staff, determine that individualized 
+career services are necessary for an individual to obtain or retain employment, these services 
+must be made available to the individual. These services must be available in all comprehensive 
+one-stop centers. American Job Center staff may use recent previous assessments by partner 
+programs to determine if individualized career services are needed. 
+ 
+Individualized career services include: 
+• Comprehensive and specialized assessments of the skill levels and service needs of 
+adults and dislocated workers, which may include— 
+o Diagnostic testing and use of other assessment tools; and 
+o In-depth interviewing and evaluation to identify employment barriers and 
+appropriate employment goals;  
+• Development of an individual employment plan, to identify the employment goals, 
+achievement objectives, and the combination of services for the participant to achieve 
+his or her employment goals, including the list of, and information about, eligible 
+training providers; 
+• Group counseling, which involves two or more participants addressing certain issues, 
+problems, or situations that may be shared by the group members; 
+• Individual counseling, which is a one-on-one session that may go into greater detail 
+for a participant regarding certain issues, problems, or situations; 
+• Career planning (e.g. case management, see WIOA sec. 3(8)); 
+• Short-term pre-vocational services, including development of learning skills, 
+communication skills, interviewing skills, punctuality, personal maintenance skills, 
+and professional conduct services to prepare individuals for unsubsidized 
+employment or training;
+
+15 
+• Internships and work experiences (including transitional jobs) that are linked to 
+careers; 
+• Workforce preparation activities (see 34 CFR 463.34); 
+• Financial literacy services available through the WIOA title I youth program as 
+described in WIOA sec. 129(b)(2)(D) and 20 CFR part 681, including: 
+o Supporting the ability of participants to create household budgets, initiate 
+savings plans, and make informed financial decisions about education, 
+retirement, home ownership, wealth building, or other savings goals; 
+o Supporting the ability to manage spending, credit, and debt, including credit 
+card debt, effectively; 
+• Out-of-area job search assistance and relocation assistance; and  
+• English language acquisition programs (see 34 CFR 463.31) and integrated education 
+and training programs (see 34 CFR 463.35).  
+ 
+For purposes of the VR program and similar to basic career services, individualized career 
+services may encompass some of the activities authorized under 34 CFR 361.48(b), which must 
+be provided under an individualized plan for employment for an eligible individual with a 
+disability (e.g., vocational rehabilitation counseling and guidance, vocational and other training 
+services, and rehabilitation technology).     
+ 
+Follow-up Career Services (20 CFR 678.430(c), 34 CFR 361.430(c), and 34 CFR 463.430(c)) 
+ 
+Follow-up services must be provided, as appropriate, for Adult and Dislocated Worker program 
+participants who are placed in unsubsidized employment, for up to 12 months after the first day 
+of employment. Counseling about the work place is an appropriate type of follow-up service.  
+States and local areas should establish policies that define what are considered to be appropriate 
+follow-up services for the Adult and Dislocated Worker programs. Follow-up services do not 
+extend the date of exit in performance reporting.   
+ 
+For purposes of the VR program, follow-up career services are similar to post-employment 
+services, as defined in 34 CFR 361.5(c)(42), and are provided subsequent to an individual with a 
+disability achieving an employment outcome. Post-employment services, under the VR program, 
+are necessary in assisting an individual with a disability in maintaining, regaining, or advancing 
+in employment, consistent with the individual’s unique strengths, resources, priorities, concerns, 
+abilities, capabilities, interests, and informed choice.   
+ 
+Business Services (20 CFR 678.435, 34 CFR 361.435, and 34 CFR 463.435) 
+ 
+The Joint WIOA Final Rule requires the provision of “business services” through the American 
+Job Center network, to support a local workforce development system that meets the needs of 
+businesses in the local area (20 CFR 678.435, 34 CFR 361.435, and 34 CFR 463.435). Through 
+the American Job Centers, applicable one-stop partners develop, offer, and deliver quality 
+business services that assist businesses and industry sectors in overcoming the challenges of 
+recruiting, retaining, and developing talent for the regional economy. To support area employers 
+and industry sectors most effectively, American Job Center staff, including designated partner 
+program staff, must:
+
+16 
+• Have a clear understanding of industry skill needs;  
+• Identify appropriate strategies for assisting employers, and coordinate business 
+services activities across American Job Center partner programs, as appropriate; and 
+• Incorporate an integrated and aligned business services strategy among American Job 
+Center partners to present a unified voice for the American Job Center in its 
+communications with employers.  
+ 
+Certain career services must be made available to local employers, specifically labor exchange 
+activities and labor market information, as described in 20 CFR 678.430(a)(4)(ii) and (a)(6), 34 
+CFR 361.430(a)(4)(ii) and (a)(6), and 34 CFR 463.430(a)(4)(ii) and (a)(6). Local areas must 
+establish and develop relationships and networks with large and small employers and their 
+intermediaries. Local areas also must develop, convene, or implement industry or sector 
+partnerships.   
+ 
+Customized business services may be provided to employers, employer associations, and other 
+such organizations. These services are tailored for specific employers and may include:  
+• Customized screening and referral of qualified participants in career and training 
+services to employers; and 
+• Writing/reviewing job descriptions and employee handbooks. 
+ 
+Local areas may also provide other business services and implement strategies that meet the 
+workforce development needs of area employers, in accordance with partner programs’ statutory 
+and regulatory requirements and consistent with Federal cost principles. Allowable activities 
+include, but are not limited to, developing and implementing industry sector strategies (including 
+strategies involving industry partnerships, regional skills alliances, industry skill panels, and 
+sectoral skills partnerships). 
+ 
+WIOA also allows customized employer-related services to be provided on a fee-for-service 
+basis. The joint regulations at 20 CFR 678.440, 34 CFR 361.440, and 34 CFR 463.440 clarify 
+that there is no requirement that a fee-for-service be charged to employers, but there is no 
+prohibition against doing so either. However, no fee may be charged for the career services that 
+must be made available to local employers. The Local WDBs, however, should examine 
+available resources and assets to determine an appropriate cost structure for those services for 
+which it is permissible to charge a fee-for-service. The Departments consider any fees earned for 
+these services to be program income, and the one-stop partners must expend the program income 
+in accordance with the partner program’s authorizing statute, implementing regulations, and 
+Federal cost principles in the Uniform Guidance. 
+ 
+More detailed information regarding specific business engagement strategies, including Rapid 
+Response (strategies and activities necessary to plan for and respond as quickly as possible 
+following an announcement of a permanent closure, mass layoff, or natural or other disaster 
+which results in mass job loss) and work-based training options (i.e., incumbent worker training 
+and Registered Apprenticeship), will be further addressed in upcoming DOL program-specific 
+guidance. 
+ 
+(Note: This is not an exhaustive list of business services available through the American Job
+
+17 
+Center network, but is meant to illustrate some of WIOA’s flexibilities and services to improve 
+business and employment opportunities. For example, American Job Centers may offer rooms 
+for interviewing, provide human resource consultation services such as succession planning and 
+staffing and retention assistance for small businesses and start-ups, help employers develop 
+career ladders within their organizations, etc.) 
+ 
+Memorandum of Understanding (MOU) 
+ 
+The MOU is an agreement developed and executed by the Local WDB and the one-stop partners, 
+with the agreement of CEO and the one-stop partners, relating to the operation of the one-stop 
+delivery system (20 CFR 678.500, 34 CFR 361.500, and 34 CFR 463.500). As the management 
+of the American Job Center network is the shared responsibility of States, Local WDBs, elected 
+officials, the WIOA core programs, the required one-stop partners (as defined at 20 CFR 
+678.400, 34 CFR 361.400, and 34 CFR 463.400), other entities that may serve as additional one-
+stop partners (as defined at 20 CFR 678.410, 34 CFR 361.410, and 34 CFR 463.410), and 
+American Job Center operators, the Departments expect local areas to use a collaborative and 
+good-faith approach to negotiations and encourage all of these entities to work together in 
+developing an MOU that demonstrates the spirit and intent of WIOA, thereby ensuring the 
+successful integration and implementation of partner programs in American Job Centers.   
+ 
+Types of MOUs 
+ 
+To facilitate transparent and flexible agreements, the Departments encourage Local WDBs to 
+develop a single “umbrella” MOU that addresses issues related to the local American Job Center 
+network, its CEO, and all partners. Local WDBs, with the agreement of the CEO, may still enter 
+into separate agreements between each partner or groups of partners; however, the aim of the 
+“umbrella” MOU is to allow partner programs to focus on service delivery and not the process of 
+negotiating several MOUs (20 CFR 678.505(a), 34 CFR 361.505(a), and 34 CFR 463.505(a)).  
+ 
+Key Elements of a MOU 
+ 
+The MOU is the product of local discussion and negotiation. The Local WDB, with the 
+agreement of the CEO, develops and enters into a signed MOU with the one-stop partners, as 
+described above.  MOUs must, at a minimum, describe the services to be provided and contain 
+agreement on funding the costs of services and the operating costs of the system, as well as 
+several other elements outlined in section 121(c) of WIOA and 20 CFR 678.500, 34 CFR 
+361.500, and 34 CFR 463.500.  The MOU must include the following:  
+• Services – The MOU must include a description of the services provided through the 
+American Job Center network, which includes: the method or means of providing 
+partner access to those services; the frequency of program staff’s physical presence in 
+an affiliated site, and how specialized one-stop centers, as needed, will be 
+implemented. The MOU also must include a description of the coordinated delivery 
+of services in the system and methods for referring individuals between the one-stop 
+operators and partners for appropriate services and activities.  
+ 
+• One-Stop Operating Budget – The one-stop operating budget is the financial plan
+
+18 
+that the one-stop partners, and Local WDB agree will be used to achieve the MOU’s 
+goals of delivering services in a local area. The MOU must contain, among other 
+things, provisions describing how the costs of services provided by the one-stop 
+system (including career services and other shared services) and the operating costs of 
+such system will be funded, including the infrastructure costs for the one-stop system 
+(WIOA sec. 121(c)(2)(A)). The one-stop operating budget may be considered the 
+master budget that contains a set of individual budgets or components that consist of 
+two types of costs that are specifically outlined in the statute:  infrastructure costs, 
+defined in WIOA sec. 121(h)(4); and additional costs, which consist of shared 
+operating costs and shared services that are related to the operation of the one-stop 
+delivery system (but do not constitute infrastructure costs), described in WIOA sec. 
+121(i).The information required to be included in the infrastructure funding 
+agreement (IFA) is found in 20 CFR 678.755, 34 CFR 361.755, and 34 CFR 463.755; 
+and the information required for an interim IFA is described in 20 CFR 678.715(c), 
+34 CFR 361.715(c), and 34 CFR 463.715(c). The Departments will soon issue joint 
+guidance providing more detailed information on one-stop operating costs. 
+• Access – The MOU must include methods to ensure the needs of workers, youth, and 
+individuals with barriers to employment, including individuals with disabilities, are 
+addressed in providing access to services, including access to technology and 
+materials available through the one-stop system. 
+• Referral – The MOU must include methods for referral to appropriate services and 
+activities between one-stop operators and partner programs. 
+• Duration – The MOU must include provisions specifying its duration and the 
+procedures for amending it. The MOU must contain assurances that it will be 
+reviewed and, if substantial changes have occurred, be renewed. The MOU must be 
+renewed not less than once every three years.  
+• Other Contributors – The MOU must also include contributions made to the one-
+stop system through other avenues, such as donations made by a non-partner entity 
+(e.g., a local business donating computers for a learning lab). Third-party in-kind 
+contributions made to supplement the operation of the American Job Center must also 
+be documented. 
+• Modification process – The MOU must include a description of the process for 
+amending it. (See section C. below). 
+• Signatories – The MOU must contain signatures of the CEO, Local WDB director, 
+and authorized representatives of each partner program.   
+• Appeals – If a one-stop partner’s appeal to the State regarding infrastructure costs, 
+results in a change to the one-stop partner’s infrastructure cost contributions, the 
+MOU must be updated to reflect the final one-stop partner infrastructure cost 
+contributions. 
+   
+Modification of the Memorandum of Understanding 
+ 
+The joint regulations at 20 CFR 678.500(b)(5), 34 CFR 361.500(b)(5), and 34 CFR 
+463.500(b)(5) require the MOU to contain a description of the procedures for amending it.  
+Further, 20 CFR 678.500(b)(6), 34 CFR 361.500(b)(6), and 34 CFR 463.500(b)(6) require 
+renewal of the MOU in certain circumstances. Renewal of an MOU requires all parties to review
+
+19 
+and agree to all elements of the MOU and re-sign the MOU. Amendment or modification of the 
+MOU only requires the parties to review and agree to the elements of the MOU that changed. 
+Just as the Departments expect local areas to use a collaborative and good-faith approach with 
+respect to negotiating the development of the MOU, the same is expected with respect to its 
+modifications. Non-substantive changes to the MOU, such as minor revisions to the budget or 
+adjustments made due to the annual reconciliation of the budget, do not require renewal of the 
+MOU. These changes may occur through the local MOU amendment procedures established at 
+the local level (20 CFR 678.500(b)(5), 34 CFR 361.500(b)(5), and 34 CFR 463.500(b)(5)).  
+Substantial changes, such as changes in one-stop partners, or a change due to the election of a 
+new CEO, will require renewal of the MOU (20 CFR 678.500(b)(6), (d), and (e); 34 CFR 
+361.500(b)(6), (d), and (e); and 34 CFR 463.500(b)(6), (d), and (e)).     
+ 
+A change to the MOU due to the election of a new CEO would ensure that the newly-elected 
+official is aware of the local one-stop partners, as well as the terms and conditions of the MOU. 
+ 
+When the local area has created a new IFA, the MOU must be updated in accordance with 20 
+CFR 678.500(e), 34 CFR 361.500(e), and 34 CFR 463.500(e). For example, a partner’s appeal to 
+the State regarding infrastructure costs that results in a change to the one-stop partner’s 
+infrastructure cost contributions requires updating the MOU. Updating the MOU does not 
+require renewal of the MOU.   
+ 
+One-Stop Operator/Competition 
+ 
+A one-stop operator is the entity or consortium of entities that coordinates the service delivery of 
+required one-stop partners and service providers, and that is selected consistent with the 
+requirements of section 121(d) of WIOA (20 CFR 678.600 through 678.635, 34 CFR 361.600 
+through 361.635, 34 CFR 463.600 through 463.635). WIOA requires the selection of a one-stop 
+operator through a competitive process, consistent with the Uniform Guidance. Competition 
+provides the best method of ensuring that Local WDBs examine operator effectiveness on a 
+periodic basis. Additionally, regular competition allows Local WDBs to make improvements 
+based on their one-stop certification process, particularly in regards to the role of the operator 
+and other service delivery performance and performance metrics that may shift or change as one-
+stop partners and the Local WDBs update their MOUs.   
+ 
+The Joint WIOA Final Rule requires that States follow the same policies and procedures they use 
+for procurement with non-Federal funds, and requires Local WDBs to use a competitive process 
+consistent with the Uniform Guidance at 2 CFR part 200, including the DOL-specific 
+requirements at 2 CFR part 2900, and the Local WDBs’ local procurement policies and 
+procedures that are consistent with the Uniform Guidance. The Uniform Guidance may be found 
+here: http://www.ecfr.gov
+. Additionally, the Joint WIOA Final Rule requires that a competitive 
+process be conducted at least once every four years. The requirement to use a competitive 
+process for one-stop operator selection is found in section 121(d)(2)(A) of WIOA. While the 
+Local WDB must select the one-stop operator through a competitive process at least once every 
+four years, a State may require, or a Local WDB may choose to implement, a competitive 
+selection process more often than once every four years. DOL will soon issue guidance 
+providing more detailed information on the one-stop competition requirements.
+
+20 
+ 
+One-Stop Operating Costs 
+ 
+The one-stop operating budget consists of two types of costs -- infrastructure costs and additional 
+costs (which must include career services and may include other shared costs and shared 
+services). WIOA introduced mandatory funding agreements, with particularly detailed 
+requirements for the funding of infrastructure costs (20 CFR 678.700, 34 CFR 361.700, and 34 
+CFR 463.700). To help the local areas develop their infrastructure costs budgets, the Governor is 
+required to issue guidance on one-stop infrastructure funding. Infrastructure costs are defined as 
+non-personnel costs necessary for general American Job Center operations, including facility 
+rentals, utilities and maintenance, equipment (including assessment-related products and 
+assistive technology for individuals with disabilities), and technology to facilitate access to the 
+American Job Center (including planning and outreach), and may include costs associated with 
+the common identifier (i.e., American Job Center signage) and supplies, as defined in the 
+Uniform Guidance at 2 CFR 200.94, to support the general operation of the one-stop center.  
+This list is not exhaustive.   
+ 
+All one-stop partner programs are required to contribute to the infrastructure costs and certain 
+additional costs of the one-stop delivery system in proportion to their use and relative benefits 
+received, as required in 20 CFR 678.700 and 678.760, 34 CFR 361.700 and 361.760, and 34 
+CFR 463.700 and 463.760. The sharing and allocation of infrastructure costs between one-stop 
+partners is governed by WIOA sec. 121(h),   
+ 
+Native American programs are not required to contribute to infrastructure funding but, as 
+required one-stop partners, they are encouraged to contribute. Any agreement regarding the 
+contribution or non-contribution to infrastructure funding by Native American programs must be 
+recorded in the signed MOU (WIOA sec. 121(h)(2)(D)(iv)).  
+ 
+The Departments will soon issue joint guidance providing more detailed information on one-stop 
+operating costs.   
+ 
+American Job Center Certification 
+ 
+WIOA requires the State WDB, in consultation with CEOs and Local WDBs, to establish 
+objective criteria and procedures to use when certifying its American Job Centers (20 CFR 
+678.800, 34 CFR 361.800, and 34 CFR 463.800). The certification process establishes a 
+minimum level of quality and consistency of services in American Job Centers across a State.  
+The certification criteria allow States to set standard expectations for customer-focused seamless 
+services from a network of employment, training, and related services that help individuals 
+overcome barriers to obtaining and maintaining employment.  
+ 
+The State WDB must establish objective criteria and procedures for the Local WDBs to use in 
+evaluating the effectiveness, physical and programmatic accessibility, and continuous 
+improvement of American Job Centers. Local WDBs must follow procedures and criteria 
+established by the State WDB and certify its American Job Centers and its American Job Center 
+network at least once every three years (20 CFR 678.800, 34 CFR 361.800, and 34 CFR
+
+21 
+463.800); this includes comprehensive, as well as affiliate American Job Centers.  Local WDBs 
+may establish additional criteria relating to service coordination achieved by the one-stop 
+delivery system. For example, this may include establishing more flexible business hours to meet 
+the range of customer needs or increasing staff competencies to promote higher level service 
+coordination to more vulnerable populations. Both the State WDB and Local WDB must review 
+and update the criteria every two years as part of the review and modification of the State and 
+local planning process. The Departments expect that all local area core program partners will 
+complete the certification process using the State-developed criteria and procedures by the end of 
+Program Year (PY) 2016 (June 30, 2017). 
+ 
+Example of One-Stop/American Job Center Certification Criteria 
+ 
+The joint regulations at 20 CFR 678.800, 34 CFR 361.800, and 34 CFR 463.800 describe the 
+specific requirements for the certification process. The Departments will not issue further 
+requirements for certification and will not issue a single national certification checklist.  
+However, below are some previously-used criteria that might guide the development of WIOA 
+one-stop certification standards: 
+• The use of customer-focused processes such as integrated and expert welcoming and 
+intake for all customers who enter the American Job Center, that consider how front-
+desk staff and counselors provide seamless and coordinated customer-centered 
+services.  
+• The frequency and quality of cross-training from differing programs to share 
+expertise about integrated customer flow, needs of specific populations, business 
+engagement expertise, or understanding of different programs offered in the 
+American Job Center and in the community.  
+• The extent to which staff members can work together across programs on similar 
+functions. 
+• Regular processes for examining what processes are in place for identifying and 
+responding to technical assistance needs. 
+• Regular processes of continuing professional staff development to promote high 
+quality staffing. 
+• The extent to which systems are in place to capture and respond to specific customer 
+feedback.  
+ 
+Physical and Programmatic Accessibility  
+ 
+Evaluations of physical and programmatic accessibility must include how well the American Job 
+Center ensures equal opportunity for individuals with disabilities to participate in or benefit from 
+American Job Center services. 
+ 
+Physical accessibility refers to the extent to which facilities are designed, constructed, or 
+altered so they are accessible and usable by individuals with disabilities. Evaluations of 
+physical accessibility should take into account both external accessibility and internal 
+accessibility. For example, evaluations of external accessibility could include a review of 
+the availability of transportation to the American Job Center and access into the site 
+location via ramps consistent with the Americans with Disabilities Act’s (ADA)
+
+22 
+standards. On the other hand, an evaluation of internal accessibility could include a 
+review of the center’s access to bathrooms, adjustable work stations, and appropriate 
+signage, including signage to meet multilingual needs common to the specific region of 
+the State.   
+ 
+Programmatic accessibility refers to the extent to which the full range of services is 
+available to all one-stop customers regardless of disability or cultural background. The 
+implementing regulations of section 188 of WIOA require that American Job Centers 
+provide programmatic accessibility. As such, American Job Centers must provide 
+reasonable accommodations for individuals with disabilities, administer programs in the 
+most integrated setting appropriate, communicate with persons with disabilities as 
+effectively as with others, and provide appropriate auxiliary aids or services (29 CFR 
+38.7-38.9).  
+ 
+The evaluations of effectiveness must include criteria evaluating how well the centers and 
+delivery systems take actions to comply with disability-related regulations implementing WIOA 
+section 188. In addition to ensuring compliance with WIOA and the ADA, accessible American 
+Job Centers maximize usage by, and benefit, all customers. The use of universal design and 
+human-centered design often benefit all customers accessing services. For example, closed 
+captioning provides a critical link to information for individuals who are deaf or hard-of-hearing, 
+but can also be a link for those without deafness sitting in the same noisy lobby to get updates.  
+For additional exemplary customer service and service design principles and resources on 
+accessibility, see DOL’s Training and Employment Notice (TEN) No. 01-15, Promising 
+Practices in Achieving Universal Access and Equal Opportunity:  A Section 188 Disability 
+Reference Guide 
+2  and ETA’s Disability and Employment Community of Practice.3 Also see the 
+evaluation of American Job Center accessibility (20 CFR 678.800, 34 CFR 361.800, and 34 CFR 
+463.800).  
+ 
+Common Identifier  
+ 
+Section 121(e)(4) of WIOA requires each one-stop delivery system to use a common identifier 
+on all products, programs, activities, services, electronic resources, facilities, and related 
+property and new materials. States and local areas are also permitted to use any State- or locally-
+developed identifier.   
+ 
+The Departments established the “American Job Center” network, a unifying name and brand, 
+that identifies online and in-person workforce development services as part of a single network 
+of publicly-funded services (20 CFR 678.900, 34 CFR 361.900, and 34 CFR 463.900).   
+ 
+The one-stop delivery system must use either that common identifier as its name, or use the tag 
+                                                 
+2 For additional information, visit http://wdr.doleta.gov/directives/corr_doc.cfm?DOCN=3182.  The direct link to the 
+Disability Reference Guide is located at 
+https://www.dol.gov/oasam/programs/crc/Section188Guide.pdfhttps://www.dol.gov/oasam/programs/crc/Section188
+Guide.pdf.  
+ 
+3 For additional information, visit https://disability.workforcegps.org.
+
+23 
+line phrase “a proud partner of the American Job Center network.” Either the plain text or one of 
+the logos may be used. If a logo is used, it must be used in accordance with the guidelines 
+contained in the Graphics Style Guide for Partners, and with the terms of use for the logos, all of 
+which are available at https://www.dol.gov/ajc. 
+ 
+DOL provides a toolkit on the https://www.dol.gov/ajc
+ and on the Innovation and Opportunity 
+Network (ION) https://ion.workforcegps.org/resources/2016/09/30/12/11/AJC-  
+Common-Identifier-and-Branding so that states and local areas can proactively identify one- 
+stop centers as "American Job Centers" in outreach materials, Web sites, and other 
+communications. The toolkit can be used as an easy way for job seekers and employers to locate, 
+recognize and access workforce development services, and are appropriate for physical one-stop 
+centers or Web sites. DOL announced the American Job Center brand first in Training and 
+Employment Guidance Letter No. 36-11, available at 
+http://wdr.doleta.gov/directives/corr_doc.cfm?DOCN=7695
+, and DOL and ED required its use in 
+the Joint WIOA Final Rule (20 CFR 678.900, 34 CFR 361.900, and 34 CFR 463.900). 
+ 
+Key Dates 
+ 
+The timeframe for adopting the required rebranding varies depending on the type of material.  
+The Joint WIOA Final Rule at 20 CFR 678.900(b), 34 CFR 361.900(b), and 34 CFR 463.900(b) 
+requires: “As of November 17, 2016, each one-stop delivery system must include the “American 
+Job Center” identifier or “a proud partner of the American Job Center network” on all primary 
+electronic resources used by the one-stop delivery system, and on any newly printed, purchased, 
+or created materials. The Joint WIOA Final Rule at 20 CFR 678.900(c), 34 CFR 361.900(c), and 
+34 CFR 463.900(c) further requires:  “as of July 1, 2017, each one-stop delivery system must 
+include the “American Job Center” identifier or “a proud partner of the American Job Center 
+network” on all products, programs, activities, services, electronic resources, facilities, and 
+related property and new materials used in the one-stop delivery system.” Finally, as the 
+Departments stated in the Preamble to the Joint WIOA Final Rule, “[T]he Departments will not 
+object if the one-stop centers continue to use materials not using the ‘American Job Center’ 
+branding which are created before November 17, 2016 until those supplies are exhausted.” 
+ 
+State agencies, State WDBs, Local WDBs, and one-stop partner programs must follow the 
+requirements described in this guidance, consistent with the specific requirements of the partner 
+programs’ statutory authority, as they develop their policies and procedures related to the 
+operation of the one-stop service delivery system.   
+ 
+INQUIRIES:  
+ 
+Carol Dobak, Director, State Monitoring and Program Improvement Division 
+(202) 245-7325 
+Caro
+l.Dobak@ed.gov 
+ 
+CITATIONS:  
+ 
+Workforce Innovation and Opportunity Act, Pub. L. 113-128
+
+24 
+ 
+Workforce Innovation and Opportunity Act Joint Rule for United and Combined State Plans, 
+Performance Accountability, and the One-Stop System Joint Provisions, 81 Fed. Reg. 55791 
+(Aug. 19, 2016)  
+ 
+/s/ 
+Janet L. LaBreck 
+Commissioner   
+Attachment 
+ 
+cc: Council of State Administrators of Vocational Rehabilitation 
+National Council of State Agencies for the Blind
+
+Attachment 1 – Coordination with Partner Programs 
+ 
+WIOA places a strong emphasis on planning across multiple partner programs to ensure 
+alignment in service delivery. One key goal is to develop effective partnerships across programs 
+and community-based providers to provide individuals the employment, education, and training 
+services they need. Effective partnering is pivotal to maximize resources and to align services 
+with career pathways and sector strategies.  
+ 
+Career pathways allow for individuals to succeed in an environment that accounts for their 
+current abilities and skill levels and provides them with an appropriate service structure to 
+advance not just within an individual job but within an occupation or occupational cluster.  
+ 
+In order to effectively promote and develop career pathways and sector strategies, it is vital that 
+the WIOA core and one-stop partner programs work together to ensure a customer-centered 
+approach to service delivery. The chart below provides an overview of one-stop partner 
+programs along with possible collaborative activities for enhancing service delivery through the 
+American Job Center: 
+ 
+(Note: This is not an exhaustive list of ways to coordinate activities and service delivery, but is 
+meant to illustrate some examples of collaboration, which improve educational and employment 
+opportunities for all participants.) 
+ 
+WIOA Core Programs 
+ 
+Adult Formula Program (WIOA title I)  
+ 
+The WIOA Adult formula program provides career and training services through the American 
+Job Center to help job seekers who are at least 18-years old succeed in the labor market.  In the 
+provision of individualized career services and training services, WIOA establishes a priority for 
+serving low-income individuals, recipients of public assistance, as well as individuals who are 
+basic skills deficient.  
+ 
+The Adult program’s delivery of career and training services are tailored to the individual needs 
+of job-seekers of the American Job Center network. The Adult program is identified as a core 
+program under WIOA and, among other things, is responsible for combined planning, shared 
+performance indicators, and aligned service delivery with other core and one-stop partner 
+programs.   
+ 
+Youth Formula Program (WIOA title I) 
+ 
+WIOA provides a significant opportunity for coordination across all core and partner programs 
+including planning, reporting, and service delivery. This creates an opportunity for the WIOA 
+Adult program to work closely with the WIOA Youth program to ensure young adults receive 
+the services they need to succeed in education and the workforce. Individuals aged 18-24 may be 
+eligible for both the WIOA Youth and Adult programs and can be co-enrolled in the two 
+programs. ETA encourages the WIOA Adult and Dislocated Worker programs, along with the
+
+2 
+Employment Service, to coordinate closely with the WIOA Youth program to maximize 
+flexibility and service delivery to eligible populations. Some examples where enhanced 
+coordination could take place are as follows: 
+• Referring 18-24 year old individuals to youth formula program if they need more 
+intensive support around specific program elements; 
+• WIOA allows all Out of School (OSY), ages 16-24, access to Individual Training 
+Accounts (ITAs), which expands training options, increases program flexibility, enhances 
+customer choice, and reduces paperwork for all OSY.  
+• When using youth funds for ITAs, the Eligible Training Provider List (ETPL) must be 
+used. Accessing the ETPL allows the program to avoid further procurement processes. 
+ 
+ITAs are not available to In School Youth (ISY). However, ISY ages 18 or older may access 
+ITAs through the adult program. 
+• Utilizing work-based training opportunities for Youth program participants co-enrolled as 
+adults or dislocated workers, as identified in their Individual Service Strategy (ISS) as 
+part of a career pathway. 
+• Title I Youth program can partner with the VR program to coordinate the provision of 
+services to youth with disabilities transitioning from school to post-school life, including 
+postsecondary education and employment. 
+• Career pathway planning. 
+• The title I Youth program can partner with the title II Adult Education and Family 
+Literacy Act program by co-enrolling out of school youth in adult education and literacy 
+programs to expand educational services to those who are basic skills deficient. 
+• Engaging and/or participating in a standing youth committee (in a local area in which the 
+Local WDB has chosen to establish a standing committee) to provide information and to 
+assist with planning, operational, oversight, and other issues relating to the provision of 
+services to youth as described in 681.100 through 681.120. 
+ 
+Local program operators determine, for these individuals, the appropriate level and balance of 
+services under the Youth and Adult programs. Such determinations regarding the appropriate 
+program for the participant must be based on the service needs of the participant and if the 
+participant is career-ready. This determination is based on an assessment of their occupational 
+skills, prior work experience, employability, and the participant’s needs. An important difference 
+to note here is that while receiving an assessment from the Adult, DW, or Employment Service 
+(ES) programs does trigger participation and inclusion in the performance accountability 
+calculations, this is not the case for Youth. Local program operators must identify and track the 
+funding streams which pay the costs of services provided to individuals who are participating in 
+youth and adult programs concurrently, and ensure no duplication of services. This can be 
+documented through the Individual Service Strategy. 
+ 
+Dislocated Worker Formula Program (WIOA title I) 
+ 
+The WIOA Dislocated Worker formula program provides career and training services to help job 
+seekers who meet the definition of a dislocated worker. Additionally, separating service 
+members are eligible for dislocated worker services as they transition from military to civilian 
+careers if they meet the requirements of 20 CFR 680.660. The goal of the Dislocated Worker
+
+3 
+program is helping individuals return to the workforce with the skills they need to obtain quality 
+employment in in-demand industries. These career and training services are provided through the 
+one-stop delivery system at American Job Centers nationwide.   
+ 
+The Dislocated Worker program’s delivery of career and training services is tailored to the 
+individual needs of job-seekers. The Dislocated Worker program is identified as a core program 
+under WIOA and, among other things, is responsible for combined planning, shared performance 
+indicators, and aligned service delivery with other core and one-stop partner programs.   
+ 
+Adult Education and Family Literacy Act (WIOA title II) 
+ 
+Title II of WIOA reauthorizes the Adult Education and Family Literacy Act (AEFLA).  AEFLA, 
+administered by the U.S. Department of Education, is designed to create a partnership among the 
+Federal Government, States, and localities to provide, on a voluntary basis, adult education and 
+literacy activities.   
+ 
+These activities are designed to: 
+• Assist adults to become literate and obtain the knowledge and skills necessary for 
+employment and economic self-sufficiency; 
+• Assist adults who are parents or family members to obtain the education and skills that 
+are necessary to becoming full partners in the educational development of their children 
+and lead to sustainable improvements in the economic opportunities for their family; 
+• Assist adults in attaining a secondary school diploma and in the transition to 
+postsecondary education and training, including through career pathways; and 
+• Assist immigrants and other individuals who are English language learners in: 
+o Improving their reading, writing, speaking, and comprehension skills in English, 
+as well as mathematics skills; and 
+o Acquiring an understanding of the American system of Government, individual 
+freedom, and the responsibilities of citizenship. 
+  
+WIOA provides new opportunities for the title I Adult and Dislocated Worker programs and the 
+Employment Service to partner with title II AEFLA providers. WIOA sec. 134(c)(2) authorizes 
+career services to be provided with title I adult and dislocated worker funds. Some of these 
+services are activities that are also allowable under AEFLA, including workforce preparation 
+activities, English language acquisition programs, and integrated education and training 
+programs. In order to ensure consistency across the services for the benefit of participants and 
+service providers, ETA is aligning the definitions for these services with those used by the 
+AEFLA program. 
+ 
+This allows title I programs and the AEFLA program to coordinate in the development of career 
+pathways and to co-enroll participants so they receive the full spectrum of services for their 
+education and employment needs. 
+ 
+For example, an individual could receive adult education services while at the same time 
+receiving services from the OJT program funded by title I. If individuals are unable to receive
+
+4 
+services from the AEFLA program, but are determined to be in need of those services by the 
+career planner, then title I may provide those services the program is authorized to provide. 
+ 
+Wagner-Peyser Act Employment Service (WIOA title III) 
+ 
+The Wagner-Peyser Act of 1933 established the Employment Service (ES), which is a 
+nationwide public labor exchange that provides employment services.  The ES seeks to improve 
+the functioning of the nation’s labor markets by bringing together individuals seeking 
+employment with employers seeking workers. The Wagner-Peyser Act was amended in 1998 to 
+make ES part of the one-stop delivery system under WIA and has undergone further changes to 
+integrate services and require colocation under WIOA. The ES program is a critical component 
+of the one-stop delivery system, often serving as the “front door” to all of the services available 
+at American Job Centers. 
+ 
+The ES program provides “universal access” to job seekers seeking employment and career 
+services, provides referrals to partner programs, and provides reemployment services to 
+individuals receiving unemployment insurance. 
+ 
+WIOA provides new opportunities for coordination and referrals for the title I Adult and 
+Dislocated Worker programs, as well as the Wagner-Peyser Act ES, to partner with and enhance 
+service delivery to individuals with disabilities, including those served under the VR program.  
+Individuals with disabilities are included in the definition of an “individual with a barrier to 
+employment” at section 3(24) of WIOA and should receive any and all American Job Center 
+services that would typically be provided to any other job seeker. 
+ 
+Vocational Rehabilitation program (WIOA title IV) 
+ 
+Title IV of WIOA makes a number of significant changes to the Rehabilitation Act of 1973 
+(Rehabilitation Act), with some of the most extensive programmatic changes affecting the VR 
+program, authorized under title I of the Rehabilitation Act. Many of WIOA’s changes, including 
+those affecting the VR program which is one of the six core programs of the one-stop system, are 
+designed to improve and align core programs towards the goal of assisting individuals with 
+disabilities to maximize employment, economic self-sufficiency, independence, and inclusion 
+and integration into society. To implement these new statutory requirements, the Department of 
+Education published final regulations related to, among other things, the VR and State Supported 
+Employment Services (Supported Employment) programs and that impose new limitations on 
+the payment of subminimum wages to individuals with disabilities. These final regulations, most 
+of which took effect on September 19, 2016, were published at 81 FR 55629 (Aug. 19, 2016).   
+ 
+WIOA makes the following key changes to the VR program: 
+• Strengthens the alignment of the VR program with other core components of the 
+workforce development system by aligning requirements governing unified state 
+planning, performance accountability, and integration into the one-stop delivery system; 
+• Places heightened emphasis on coordination and collaboration at the Federal, State, and 
+local levels to ensure a streamlined and coordinated service delivery system for job-
+seekers, including those with disabilities, and employers;
+
+5 
+• Includes a new definition of “competitive integrated employment” that combines, 
+clarifies, and enhances the two separate regulatory definitions of “competitive 
+employment” and “integrated setting” for the purpose of employment under the VR 
+program, which had existed since at least 1997; 
+• Revises the definition of “employment outcome” in order to identify customized 
+employment as an employment outcome under the VR program; 
+• Places heightened emphasis on the provision of pre-employment transition services and 
+transition services to students and youth with disabilities, as applicable, to improve their 
+abilities to achieve competitive integrated employment; and 
+• Expands the scope of services that the VR agencies may provide to employers in order to 
+increase opportunities for individuals with disabilities to achieve competitive integrated 
+employment. 
+ 
+VR Counselors, who are employed by the state VR agency, are responsible for determining 
+whether an individual is eligible to receive VR services. In order to be eligible, an individual 
+with a disability must meet the following criteria: 
+• Must be an “individual with a disability,” as defined in section 7(20)(A) of the 
+Rehabilitation Act; and  
+• Require VR services to obtain, maintain, advance in, or regain employment.  
+ 
+While an individual may be determined eligible to receive VR services, the State VR agency 
+may not be able to provide services to all eligible individuals due to insufficient staff and/or 
+fiscal resources. In this instance, the State VR agency must implement an order of selection 
+(OOS) that establishes the priority categories by which individuals can be served based on the 
+severity of their disability, with individuals with the most significant disabilities given priority 
+under the OOS. For those individuals not in a priority category being served in the OOS, the 
+state VR agency must refer the individual to another program that may be able to meet their 
+needs. Therefore, effective partnering with the Adult, Dislocated Worker, Youth, and Wagner-
+Peyser Act ES programs is essential in order to ensure individuals with disabilities seeking 
+employment and training services receive the services they need for employment.   
+ 
+In order to align the core programs and create additional flexibility for the purposes of achieving 
+the goals under WIOA, funds allocated to a local area for adult and dislocated worker activities 
+may be used to improve coordination between employment and training programs carried out in 
+the local area for individuals with disabilities through the one-stop delivery system. ETA 
+encourages local areas to utilize this flexibility, consistent with the scope of a program’s 
+authorized activities, to ensure a highly coordinated service delivery in coordination with VR 
+program activities to ensure that individuals with disabilities receive the services they need for 
+their career needs, whether the allowable services are provided by the Adult, Dislocated Worker, 
+Youth, Wagner-Peyser ACT ES, or VR program, or some combination thereof, including other 
+community resources.   
+ 
+Additionally, ETA encourages local areas to coordinate with programs carried out by State 
+agencies relating to intellectual and developmental disabilities, as well as local agencies and 
+organizations serving individuals with significant disabilities, including the local network of 
+centers for independent living in each State.
+
+6 
+Required Partners 
+ 
+Job Corps 
+ 
+Job Corps is a national program that operates in partnership with States and communities, Local 
+WDBs, Youth Standing Committees where established, one-stop centers and partners, and other 
+youth programs to provide academic, career and technical education, service-learning, and social 
+opportunities primarily in a residential setting, for low-income young people.  
+ 
+The objective of Job Corps is to support responsible citizenship and provide young people, ages 
+16-24, with the skills that lead to successful careers that will result in economic self-sufficiency 
+and opportunities for advancement in in-demand occupations or the Armed Forces, or enrollment 
+in postsecondary education, including an apprenticeship program. 
+ 
+The major changes from the existing regulations reflect WIOA’s effort to enhance the Job Corps 
+program, provide access to high quality training and education, create incentives for strong 
+contractor performance, and promote accountability and transparency. 
+ 
+The Department selects eligible entities, Job Corps centers, to provide outreach and admission, 
+career transition, and operational services for Job Corps on a competitive basis. One-stop centers 
+and partners are eligible, among other entities, to compete to provide outreach and admission and 
+career transition services. Further, the American Job Center network must be used to the 
+maximum extent practicable in placing Job Corps graduates and former enrollees in jobs.  
+ 
+Beneficial examples of coordination between Job Corps and other workforce partners include: 
+• Cross referrals with other programs, such as the Formula Adult Program, Formula Youth 
+Program, and YouthBuild, that can increase the likelihood of successful performance 
+incomes by ensuring that individuals are referred to the program that best meets their 
+needs. 
+• Co-enrollment with partner programs to maximize the number of individuals served and 
+the level of service provided. 
+• Co-location of Job Corps Outreach and Admissions services in the American Job Center 
+to provide an opportunity for students completing other programs for further education 
+and training. 
+ 
+Job Corps students prepared to enter the workforce can and should enroll in labor exchange 
+services so the American Job Center can identify job leads or education and training 
+opportunities, including work-based training and apprenticeship opportunities. Job Corps 
+participants also can and should utilize the American Job Center for job preparation, 
+interviewing techniques, and job search strategies. 
+ 
+Indian and Native American Programs  
+(WIOA title I, section 166 program, Indian and Native American Programs) 
+ 
+The Indian and Native American (INA) Employment and Training Program helps qualifying 
+American Indians, Alaska Natives and Native Hawaiians (AI/AN/NH) obtain employment in
+
+7 
+occupations that provide a wage that leads to self-sufficiency and eventually into the middle 
+class.  These programs include more fully developing academic, occupational, and literacy skills, 
+making individuals more competitive in the workforce to equip them with entrepreneurial skills 
+necessary for successful self-employment, and promoting economic and social development in 
+accordance with the goals and values of the community.   
+ 
+The INA program also provides financial assistance for education, career and training services, 
+and other supportive services that will help individuals obtain occupational skills, industry 
+recognized credentials and postsecondary education that provide the knowledge and skills 
+necessary to compete for better paying jobs.   
+ 
+The INA program utilizes a network of 177 service providers throughout the United States 
+comprised of Federally Recognized Tribes, Native American non-profit organizations, Alaska 
+Native Tribes, Alaska Native entities, and Native Hawaiian organizations. There is a desperate 
+need for employment and training services for Native Americans which makes coordination and 
+sharing resources with partner programs critical.   
+ 
+The entity for the Native American program is the grantee of the respective program.  Some 
+examples of coordination between the INA program and other workforce partners are:  
+• Co-enrollment of INA participants with partner programs such as the title I, Adult, 
+Dislocated Worker and Youth programs, the VR program, and the AEFLA program. 
+• Co-location of INA employees in American Job Centers. 
+• AI/AN/NH individuals that seek services from the INA program should also be made 
+aware of the services that are available by other partner programs and conversely, partner 
+programs should make their AI/AN/NH clients aware of the INA program. 
+• Coordination with the AEFLA program to assist AI/AN/NH individuals to attain a 
+secondary school diploma and transition to postsecondary education and training. 
+• Sharing of resources with the VR program to better assist disabled AI/AN/NH 
+individuals.  
+ 
+National Farmworker Jobs Program (WIOA title I, section 167 Migrant and Season Farmworker 
+Program) 
+ 
+The National Farmworker Jobs Program (NFJP) is a nationally-directed, locally-administered 
+program of services for migrant and seasonal farmworkers (MSFWs). The program partners with 
+community organizations, state agencies, and State Monitor Advocates to provide appropriate 
+career and training services, youth services, housing assistance services, and related assistance 
+services, to eligible migrant farmworkers (including MSFW youth) and eligible seasonal 
+farmworkers (including eligible MSFW youth), and their dependents. NFJP grantees partner with 
+American Job Centers and State Monitor Advocates to support a comprehensive system that 
+seamlessly provides integrated services that are accessible to farmworkers and their families. 
+Monitor Advocates at the State, Regional, and National level facilitate outreach, monitoring, 
+advocacy, and the Employment Service (ES) and Employment-related Law Complaint System 
+4 
+                                                 
+4 The Employment Service (ES) and Employment-related Law Complaint System was established to ensure farm 
+workers would have a safe place to file complaints alleging employment-related violations.  For details on the 
+Complaint System, see 20 C.F.R. 651-654-and 658.
+
+8 
+to help MSFWs gain access to resources, ensure their voices are heard, and that they have a safe 
+place to file complaints alleging any violations of the ES regulations and/or other federal, State, 
+or local employment-related laws. To realize an enhanced coordination among programs, NFJP 
+grantees may partner with American Job Centers and other WIOA programs to: 
+• Leverage the AEFLA program as part of a career pathway strategy for program 
+participants co-enrolled in NFJP. 
+• Refer NFJP participants to WIOA adult and youth formula programs if they need more 
+intensive support around specific program elements. 
+• Leverage, and refer NFJP participants to, the VR program to assist farmworkers with 
+disabilities. 
+• Refer NFJP participants to the Senior Community Service Employment program for the 
+aging farmworkers. 
+• Refer NFJP participants to Veterans for State Grant operators for farmworkers identified 
+as Veterans. 
+• Refer NFJP participants to Temporary Assistance for Needy Families programs for 
+continued support for farmworker family nutrition. 
+• Coordinate resources to ensure customer-centered service delivery for all customers, 
+including individuals who are English language learners and individuals who are facing 
+substantial cultural barriers. 
+• Leverage, and refer NFJP participants to, Health and Human Services Head Start 
+programs colocated in American Job Centers to promote school readiness for farmworker 
+children by supporting their educational development. 
+ 
+YouthBuild (WIOA title I) 
+ 
+YouthBuild is a discretionary grant program that serves 16-24 year old youth who are high 
+school dropouts or those who have dropped out and subsequently re-enrolled. YouthBuild 
+participants also must be one of the following: member of a low-income family, in foster care, an 
+offender, an individual with a disability, the child of a current or formerly incarcerated parent, or 
+a migrant youth.  
+ 
+YouthBuild combines academics to support secondary diploma or equivalency receipt for 
+participants with hands-on occupational skills training in construction and/or other in-demand 
+industries, resulting in industry-recognized credentialing. The program also includes a strong 
+emphasis on leadership development, community service, and soft-skills competencies. 
+ 
+YouthBuild grantees may be a public or private non-profit agency or organization, including 
+community-based organizations, faith-based organizations, an entity carrying out activities under 
+title I of WIOA, such as a Local WDB, a community action agency, a State or local Housing 
+Development Agency, an Indian tribe or other agency primarily serving Indians, a community 
+development corporation, a state or local youth service or conservation corps, and any other 
+entity eligible to provide education or employment training under a federal program.  Depending 
+on the grantee, coordination with workforce partners may differ.  
+ 
+Some examples of where coordination between YouthBuild grantees and other workforce 
+partners may be beneficial are: Co-enrollment of YouthBuild participants aged 18 and older into
+
+9 
+the adult formula system for assessments, referrals, access to ITAs and other career training 
+opportunities; Co-enrollment of YouthBuild participants into the youth formula program for 
+access to additional resources including financial literacy, entrepreneurship training, and work 
+experience opportunities; Sharing of information related to partner services, especially as they 
+relate to AEFLA and VR services, TANF, and other supportive service programs; Access to 
+NFJP youth supportive services, such as housing assistance, if the individual meets the eligibility 
+requirements for the NFJP program; and Referrals of eligible youth to local YouthBuild 
+programs. 
+ 
+Senior Community Service Employment Program 
+ 
+The Senior Community Service Employment Program (SCSEP) is a community service and 
+work-based job training program for older Americans. Authorized by the Older Americans Act, 
+the program provides training for low-income, unemployed older Americans and supportive 
+services that allow them to participate in the training. Participants also have access to 
+employment assistance through American Job Centers.  
+ 
+SCSEP participants gain work experience in a variety of community service activities at local 
+non-profit and public facilities, including schools, hospitals, day-care centers, and senior centers.  
+The program provides over 40 million community service hours to public and non-profit 
+agencies, allowing them to enhance and provide needed services. These sites are referred to as 
+“host agencies”. Participants work an average of 20 hours a week, and are paid the highest of 
+federal, state or local minimum wage, or the comparable wage for similar employment. This 
+training serves as a bridge to unsubsidized employment opportunities for participants.  
+ 
+Participants must be at least 55 years old, unemployed, and have a family income of no more 
+than 125% of the federal poverty level. Enrollment priority is given to veterans and qualified 
+spouses, then to individuals who are over 65, have a disability, have low literacy skills or limited 
+English proficiency, reside in a rural area, are homeless or at risk of homelessness, have low 
+employment prospects, or have failed to find employment after using services through the 
+American Job Center system.  
+ 
+There are several strategies through which SCSEP and Local WDBs and American Job Centers 
+can coordinate.  
+• SCSEP services can be physically co-located in American Job Centers  
+• American Job Centers can serve as a SCSEP host agency. The American Job Center 
+supervisors can assign SCSEP participants tasks that free up career counselors time to 
+provide staff-assisted services.  Some American Job Centers have trained SCSEP 
+participants to provide computer assistance in resource rooms particularly to other 
+seniors. 
+• SCSEP and Local WDBs can develop comprehensive MOUs to streamline coordination 
+processes, and clarify when a jobseeker can be referred to SCSEP and when they might 
+best be served by the Adult or Dislocated Worker program. MOUs can also consider how 
+SCSEP will consider SCSEP participants’ community service hours as an in-kind 
+contribution for purposes of SCSEP’s contribution towards additional costs;
+
+10 
+• SCSEP can provide paid work experience with community service employment 
+assignments, while title I Adult funds can support individualized career services such as 
+working with an employment counselor. 
+• SCSEP can provide advice and training for American Job Center staff on adapting 
+services to meet the needs of older adult learners; American Job Center staff can provide 
+advice and training to SCSEP on effective use of labor market information and job 
+placement strategies. 
+ 
+Trade Adjustment Assistance 
+ 
+Trade Adjustment Assistance for Workers (TAA), Alternative Trade Adjustment Assistance 
+(ATAA), and Reemployment Trade Adjustment Assistance (RTAA), are collectively referred to 
+as the Trade Adjustment Assistance Program (TAA Program) and provide assistance to workers 
+who have been adversely affected by foreign trade.  The Trade Adjustment Assistance 
+Reauthorization Act of 2015 (TAARA 2015), (Pub. L. No. 114-27, Title IV), recently 
+reauthorized and reinstated changes to the Act. TAARA 2015 also revised reporting 
+requirements to align performance accountability for the TAA Program with that of other partner 
+programs in the workforce system under WIOA. The TAA program seeks to provide adversely 
+affected workers with opportunities to obtain the skills, credentials, resources, and support 
+necessary to become reemployed.   
+ 
+If a worker is a member of a worker group certified by DOL, that worker may be eligible to 
+receive the following benefits and services at a local American Job Center: 
+ 
+Employment and Case Management Services: 
+• Skills assessments, individual employment plans, career counseling, supportive services, 
+and information on training, labor markets, and more (through TAA or other American 
+Job Center programs). 
+Training: 
+• Classroom training, on the-job training, customized training designed to meet the needs 
+of a specific employer or group of employers, Registered Apprenticeship programs, 
+remedial training, pre-requisite training, and more. 
+ 
+Trade Readjustment Allowances (TRA): 
+• Income support available in the form of weekly cash payments to workers who are 
+enrolled in a full-time training course, have exhausted their unemployment insurance, and 
+meet additional requirements in Chapter 2 of title II of the Trade Act of 1974, as 
+amended. 
+Job Search Allowance: 
+• Reimbursement for a portion of the costs of seeking employment outside of the worker’s 
+commuting area. 
+Relocation Allowance: 
+• Reimbursement for a portion of relocation costs for employment outside of the worker’s 
+commuting area. 
+Alternative Trade Adjustment Assistance (ATAA) and Reemployment Trade Adjustment 
+Assistance (RTAA):
+
+11 
+• A wage supplement for up to two years that is available to eligible reemployed older 
+workers and covers a portion of the difference between a worker’s new wage and their 
+old wage (up to a specified maximum amount). 
+ 
+Jobs for Veterans State Grants (JVSG) 
+ 
+JVSG is a key partner in the workforce system providing Disabled Veterans’ Outreach Program 
+(DVOP) specialists who provide key services to veterans with significant barriers to 
+employment, and Local Veterans Employment Representatives (LVERs), who provide outreach 
+to employers to help veterans achieve employment. TEGL 19-13, TEGL 19-13 Change 1 and 
+Change 2, govern how JVSG is to be utilized in the public workforce system and WIOA does not 
+modify this guidance. Additionally, all JVSG participants must be co-enrolled and have a 
+common exit with the Wagner-Peyser Act ES.  
+ 
+Community Services Block Grant (CSBG) 
+ 
+The CSBG provides assistance to States and local communities, working through a network of 
+community action agencies and other neighborhood-based organizations, for the reduction of 
+poverty, the revitalization of low-income communities, and the empowerment of low-income 
+families and individuals in rural and urban areas to become fully self-sufficient. CSBG-funded 
+organizations (Community Action Agencies) can participate in the one-stop delivery system 
+through the following: 
+• Enrollment into CSBG supportive services (e.g. child care, transportation subsidies, 
+emergency food services, etc.) through CSBG-funded staff at the American Job Center, 
+other American Job Center staff, or direct linkage to CSBG-funded organizations through 
+technology. Technology linkages may be conducted remotely at the American Job Center 
+by phone or computer. 
+• Staff on a part-time or intermittent basis from the local CSBG-funded agency may be 
+physically present to enroll clients in supportive services or provide services directly. 
+• CSBG-funded agency staff may cross train with workforce staff: CSBG-funded staff may 
+train workforce staff about CSBG supportive services and learn about American Job 
+Center programs and services from their workforce colleagues. 
+• CSBG staff may coordinate employment and training services or other supportive 
+services activities on site at the American Job Center. 
+• The local American Job Center may be physically located at the local CSBG-funded 
+organization. 
+ 
+Some benefits for participating in the American Job Center network include: 
+• CSBG agency cost reductions due to sharing the resource center (e.g., shared space, 
+common intake, common recruitment/referral system). This sharing might include 
+locating CSBG staff full time or intermittently at the American Job Center to provide 
+direct CSBG services, enroll clients in CSBG services, and/or train workforce staff. 
+• CSBG may also benefit from arrangements where CSBG staff are not on-site.  For 
+example, a CSBG agency serving as an affiliate American Job Center referral location for 
+supportive services might receive savings in recruitment and enrollment costs.
+
+12 
+• A CSBG organization that refers CSBG participants to the one-stop for workforce 
+services and subsequent tracking of performance data may experience cost savings by not 
+having to provide direct employment and training services or do related data collection. 
+ 
+Unemployment Insurance 
+ 
+Individuals who have lost employment due to lack of suitable work and have earned sufficient 
+wage credits may receive Unemployment Insurance (UI) benefits if they meet initial and 
+continuing eligibility requirements. The American Job Center network must provide 
+reemployment services to UI claimants for whom such services are required as a condition for 
+receipt of UI benefits. Services must be appropriate to the needs of UI claimants who are referred 
+to reemployment services under any Federal or State UI law. 
+• Provision of information and assistance regarding filing claims under UI programs, 
+including meaningful assistance to individuals seeking assistance in filing a claim. 
+• The American Job Center has current labor market information and provides a wide array 
+of re-employment services free of charge. 
+• Employment Service staff can refer claimants to job openings in the local area, or in other 
+parts of the State or country if the claimant is willing to relocate. 
+• Referral to various training programs. 
+• Assistance in establishing eligibility for programs of financial aid assistance for training 
+and education programs not provided under WIOA. 
+• If job openings in current field are limited, can offer testing and counseling to determine 
+other appropriate .jobs for the claimant. 
+• Claimants who believe they have special needs or considerations, such as physical needs, 
+which may prevent them from getting a job, can be referred to other agencies for help 
+with those needs. 
+ 
+Temporary Assistance for Needy Families (TANF)  
+ 
+The local TANF program is a required partner in the American Job Center network. TANF 
+serves individuals who also may be served by WIOA programs and, through appropriate linkages 
+and referrals, these customers will have access to a broader range of services through the 
+cooperation of the TANF program in the one-stop delivery system. TANF participants, who are 
+determined to be WIOA eligible, and who need occupational skills training may be referred 
+through the American Job Center network to receive WIOA training, when TANF grant and 
+other grant funds are not available to the individual in accordance with 20 CFR 680.230(a). 
+ 
+TANF can participate in the American Job Center network through the following: 
+• Program staff are physically present in the centers and provide intake services and initial 
+eligibility determinations for TANF assistance and non-assistance benefits, including 
+employment services and related supports.  
+• Program staff are physically present in the centers and perform job readiness assessments 
+and assign or refer TANF clients to appropriate TANF work activities. 
+• Program staff are physically present in the centers and will assist work ready TANF 
+clients to co-enroll in other applicable workforce services.
+
+13 
+• Train partner staff physically present in centers to provide information about the TANF 
+program, including services, and required activities. 
+• Provision of TANF program information, eligibility requirements, available benefits and 
+services, including direct linkage to program staff via technology.    
+ 
+Some benefits for participating in the American Job Center network include: 
+• Shared building rent, maintenance costs, utilities, tenant improvements, or any other 
+similar costs up to the administrative cost limits of the program. 
+• Shared equipment, software, IT maintenance costs, Internet access, and other similar 
+costs up to the administrative cost limits of the program. 
+• Shared customer resource center. 
+• Streamlined, common intake data formats, preparation, and interview of customers. 
+• Reduced costs for staff and benefits, due to development of   common, simplified forms. 
+• Reduced costs for staff training and development on common program elements. 
+ 
+WIOA participants who also are determined TANF eligible may be referred to the TANF 
+program for assistance. 
+ 
+Carl D. Perkins Career and Technical Education Act (Perkins IV) 
+ 
+The Carl D. Perkins Career and Technical Education Act of 2006 (Perkins IV) is a principal 
+source of federal funding to states for the improvement of secondary and postsecondary career 
+and technical education (CTE) programs across the nation. The purpose of the Act is to develop 
+more fully the academic, career, and technical skills of secondary and postsecondary students 
+who elect to enroll in CTE programs. 
+ 
+States are awarded funds via formula prescribed in Title I, Section 111 (for the 50 States, District 
+of Columbia, and Puerto Rico) and Section 115 (for Guam and Palau) of Perkins IV. From its 
+title I funds, States must award no less than 85 percent to eligible recipients via formula also 
+prescribed in law. Eligible recipients are local educational agencies and postsecondary 
+institutions, community colleges, and other public and private nonprofit institutions, including 
+charter schools, that offer career and technical education programs that meet the requirements of 
+the law. States determine what share of their 85 percent of funds will be awarded to eligible 
+recipients at the secondary versus postsecondary level (the national split of funds hovers around 
+62/38). The remainder of Title I funds is spent on State administration activities (up to five 
+percent) and State leadership activities (up to ten percent) described in Sections 121(a) and 
+124(b)-(c) of Perkins IV, respectively. 
+ 
+Among the ways Perkins IV postsecondary recipients can engage with core partners in the one-
+stop system are:  using common labor market data to inform local CTE program development; 
+aligning education, training, and supportive services; streamlining efforts to engage and involve 
+employers in local program development; establishing common definitions and measures for 
+student performance; and making data on CTE students publicly available in training provider 
+reports.
+
+14 
+Additional Partners 
+ 
+Ticket-to-Work (TTW) 
+ 
+TTW is a free and voluntary program that can help Social Security beneficiaries go to work, get 
+a good job that may lead to a career, and become financially independent, while they keep their 
+Medicare or Medicaid.  As part of TTW, Employment Networks (ENs), with the Social Security 
+Administration (SSA), provide employment support services to beneficiaries, or “Ticket 
+holders.” After receiving these services and supports, the Ticket holder may return to work and 
+ultimately become self-sufficient, thereby saving significant costs to the Trust Fund.  Because 
+there has been an increasing trend of the number of people applying for disability benefits, there 
+is a significant role for American Job Centers to become ENs and help provide high quality 
+services resulting in employment for Ticket holders. ENs receive payments from SSA when 
+Ticket holders they serve work and achieve benchmark earnings levels. This funding provides an 
+avenue to EN sustainability.  
+ 
+Small Business Administration (SBA) Programs 
+ 
+WIOA provides a new opportunity to partner with economic development organizations and 
+emphasizes providing resources for aspiring entrepreneurs and self-employed individuals.  In 
+addition to entrepreneurship training being a type of training allowed under WIOA, partnering 
+with local entrepreneurial resources can help adults and dislocated workers see if starting a 
+business is right for them. ETA encourages Local WDBs and American Job Centers to partner 
+with SBA programs. Notably, there are Small Business Development Centers (SBDCs) located 
+in communities the nation which provide assistance to small businesses and aspiring 
+entrepreneurs. To learn across more about these programs and for a listing of SBDC’s in your 
+community, please visit: https://www.sba.gov/tools/local-assistance/sbdc
+.   
+ 
+Supplemental Nutrition Assistance Program (SNAP) 
+ 
+SNAP offers nutrition assistance to millions of eligible, low-income individuals and families and 
+provides economic benefits to communities. SNAP is the largest program in the domestic hunger 
+safety net. The Food and Nutrition Service (FNS) works with State agencies, nutrition educators, 
+and neighborhood and faith-based organizations to ensure that those eligible for nutrition 
+assistance can make informed decisions about applying for the program and can access benefits.  
+FNS also works with State partners and the retail community to improve program administration 
+and ensure program integrity. 
+ 
+The Employment & Training (E&T) program and its components assist SNAP participants in 
+gaining skills, training, work or experience that will increase their ability to obtain regular 
+employment. The components of an E&T program are designed to help SNAP clients move 
+promptly into employment. 
+ 
+This component includes job training services that are developed, managed, and administered by 
+State agencies, local governments, and the business community under WIOA. Activities include 
+basic skills training (GED, literacy), occupational skills training, on–the–job training, work
+
+15 
+experience, job search assistance, and basic readjustment services. All of these services can be 
+seamlessly integrated into the American Job Center network. 
+ 
+Client Assistance Program (CAP) (Rehabilitation Act of 1973, as amended by WIOA title IV) 
+ 
+The purpose of this program is to advise and inform clients, client applicants, and other 
+individuals with disabilities of all the available services and benefits under the Rehabilitation Act 
+of 1973, as amended by WIOA, and of the services and benefits available to them under title I of 
+the Americans with Disabilities Act (ADA). In addition, CAP grantees may assist and advocate 
+for clients and client applicants in relation to projects, programs, and services provided under the 
+Rehabilitation Act. In providing assistance and advocacy under title I of the Rehabilitation Act, a 
+CAP agency may provide assistance and advocacy with respect to services that are directly 
+related to employment for the client or client applicant. 
+ 
+Public Libraries  
+ 
+WIOA acknowledges the role public libraries play in workforce development. WIOA explicitly 
+identifies public libraries as potential partners of the American Job Center network, and 
+acknowledges libraries’ ability to provide an expansive array of job search services. It also 
+recognizes libraries as important providers of Federally-supported training and employment for 
+adult education and literacy.  
+ 
+Every day people in communities across the United States use libraries to access the Web for 
+career development—boosting their skills through online learning, improving their English 
+literacy and digital literacy, and finding work. Public libraries can do even more with better 
+collaboration with State and Local WDBs. 
+ 
+Many States and local areas are acting upon the mutual benefits of collaboration between the 
+workforce system and libraries, using Federal, State, and local funding to improve coordination 
+of employment and training and adult education and literacy services to the community. The 
+following are some ways public libraries can collaborate with the American Job Centers:  
+• Leveraging of digital literacy activities occurring in public libraries; 
+• Collaborating to train library staff about in-person and virtual employment and training 
+resources available through the public workforce system; 
+• Inclusion of libraries as a stop on the route of mobile American Job Centers;  
+• Using space available at a library to provide career assistance and employment services 
+to library patrons (e.g. familiarizing patrons with career resources available electronically 
+or in person at American Job Centers) or to host career events (e.g. job fairs); 
+• Sharing workforce and labor market information, including data on high-growth 
+industries and occupations from the public workforce system to libraries; 
+• Signing of memoranda of understanding or other formal agreements; and  
+• Co-locations between American Job Centers and libraries.  
+ 
+National Dislocated Worker Grants (WIOA title I)
+
+16 
+National Dislocated Worker Grants (DWGs) provide employment and training services for 
+dislocated workers and other eligible populations and disaster relief employment. Employment-
+recovery DWGs expand service capacity of the workforce system temporarily by providing time-
+limited funding assistance in response to major economic dislocations or other events that affect 
+the U.S. workforce that cannot be accommodated with WIOA formula funds or other existing 
+resources. Disaster Recovery DWGs allow for the creation of disaster relief employment to assist 
+with clean-up and recovery efforts from emergencies or major disasters and the provision of 
+employment and training activities.   
+ 
+Coordination strategies among Local WDB and American Job Centers with DWGs operating 
+their communities may include: 
+• Co-enrollment of DWG participants into the Dislocated Worker program for ongoing 
+career and training services, if needed upon completion of DWG services.  Local areas 
+must also coordinate dislocated worker service strategies with their DWG to ensure 
+alignment of supportive service policies. 
+• Referral to and co-enrollment of Disaster DWG grant participants into Adult or 
+Dislocated Worker programs for services such as assessments, career and training 
+services where these services are not part of the DWG project.   
+• Coordination with TAA where DWG participants are also TAA certified or awaiting 
+TAA certification.  Specific information about the allowable activities in coordination 
+with TAA is outlined in TEGL No.  2-15.  
+• Coordination between the American Job Center and veterans’ programs for DWGs 
+serving military service members. Additional information about this type of DWG is 
+outlined in TEGL No.  2-15. 
+ 
+Human Service Transportation Coordination 
+ 
+Transportation is a key asset for future workforce planning, business creation, and economic 
+development. On an individual level, however, transportation can sometimes be overlooked as a 
+critical service for job seekers, employees, or individuals needing training. 
+ 
+Transportation challenges are exacerbated by costs, and the increased geographic dispersion of 
+job sites to suburban areas with lower overhead costs, farther away from central cities where job 
+seekers reside combined with often limited public transit. In addition, people with multiple 
+challenges to employment – including individuals with disabilities; returning disabled veterans; 
+older workers who no longer drive; youth; workers earning low wages; ex-offenders; and those 
+who live in geographically isolated rural or tribal areas – may need additional support in securing 
+transportation access to work. Partnership activities between the American Job Center and local 
+transportation agencies may include:  
+• Designating a part- or full-time staff person as a transportation “navigator” for the 
+regional American Job Center network to expand its capacity to provide transportation 
+linkages for their customers. 
+• Collaborating shuttle service between the closest transit stop and the work site, providing 
+subsidized transit passes eligible for the Federal commuter tax benefit, linking employees 
+with disabilities who cannot use regularly scheduled transit services with paratransit 
+services, facilitating ridesharing, and encouraging the use of public transportation.
+
+17 
+• Identifying cross-jurisdiction commuting patterns and suggesting options for creative 
+transportation solutions. Local WDBs are also in a strategic position for finding regional 
+partners for projects from other local service delivery providers, adjacent workforce 
+development boards, county and local transportation providers, and businesses.  
+ 
+Mental Health Agencies  
+ 
+All customers, including those with disabilities, mental or substance use disorders, or other 
+barriers to employment, have the opportunity to receive skill-development guidance, career 
+planning and job placement services. Beneficial examples of coordination between local mental 
+health agencies and other American Job Center workforce partners include: 
+ 
+Supported employment services that include: 
+• Identifying individuals’ skills, interests, and career goals, to help match the person with a 
+suitable job. 
+• Helping individuals to conduct an individualized job search. 
+• Providing on-the-job assistance (including, for example, counseling and interpersonal 
+skills training) on a continuing basis to help people succeed in their jobs. 
+• Working with individuals and their employers to identify needed accommodations. 
+• Developing relationships with employers to understand their business needs and match 
+individuals with jobs. 
+• Working with employers and individuals to identify ways in which jobs might be 
+restructured or duties “carved” in order to facilitate employment of people with mental 
+illness while at the same time meeting employers’ needs.

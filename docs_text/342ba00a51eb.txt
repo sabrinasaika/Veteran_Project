@@ -1,0 +1,309 @@
+FILENAME: eta-9169-annualreport-py2024-nh-pdf-434c590f4df1.pdf
+PATH: _raw/rsa.ed.gov/eta-9169-annualreport-py2024-nh-pdf-434c590f4df1.pdf
+
+ETA-9169
+Expiration Date: 4-30-2028
+Statewide Performance Report
+PROGRAM/TITLE (select one): State: Title I Local Area:
+REPORTING 
+PERIOD 
+COVERED
+     Title I Adult 
+New Hampshire          [Local Area, if 
+Applicable]
+07/01/2024 - 
+06/30/2025
+Title I Dislocated Worker N/A N/A N/A
+Title I Youth N/A N/A N/A
+Title II Adult Education N/A N/A N/A
+Title III Wagner-Peyser N/A N/A N/A
+XTitle IV Vocational Rehabilitation N/A N/A N/A
+SUMMARY INFORMATION
+Grant Summary Item Career Services Training Services Additional 
+Information
+Participants Served 2,557 661 N/A
+Participants Exited 523 69 N/A
+Funds Expended $4,374,118 $2,036,801 N/A
+Cost Per Participant Served $1,711 $3,081 N/A
+Percent Training Related Employment1 N/A N/A N/A
+Percent Enrolled in More than One Program N/A N/A 7.0%
+Percent Admin Expended N/A N/A N/A
+BY PARTICIPANT CHARACTERISTICS - Total Statewide
+Performance Item
+Total Participants 
+Served
+(Cohort Period: 
+07/01/2024 - 
+06/30/2025)
+Total Participants 
+Exited
+(Cohort Period: 
+07/01/2024 - 
+06/30/2025)
+Employment 
+Rate (Q2)2 
+Num
+Employment 
+Rate (Q2)2 
+Denom
+Employment 
+Rate (Q2)2 
+Rate
+Employment 
+Rate (Q4)2 
+Num
+Employment 
+Rate (Q4)2 
+Denom
+Employment 
+Rate (Q4)2 
+Rate
+Median 
+Earnings
+Credential Rate3
+Num
+Credential Rate3
+Denom
+Credential Rate3
+Rate
+Measurable Skill 
+Gains3
+Num
+Measurable Skill 
+Gains3
+Denom
+Measurable Skill 
+Gains3
+Rate
+Total Statewide - Negotiated Target N/A N/A N/A N/A 62.0% N/A N/A 61.0% $4,200 N/A N/A 58.0% N/A N/A 59.0%
+Total Statewide - Actual 3,265 991 459 832 55.2% 445 787 56.5% $4,792 120 247 48.6% 443 694 63.8%
+BY PARTICIPANT CHARACTERISTICS - Sex
+Performance Item
+Total Participants 
+Served
+(Cohort Period: 
+07/01/2024 - 
+06/30/2025)
+Total Participants 
+Exited
+(Cohort Period: 
+07/01/2024 - 
+06/30/2025)
+Employment 
+Rate (Q2)2 
+Num
+Employment 
+Rate (Q2)2 
+Denom
+Employment 
+Rate (Q2)2 
+Rate
+Employment 
+Rate (Q4)2 
+Num
+Employment 
+Rate (Q4)2 
+Denom
+Employment 
+Rate (Q4)2 
+Rate
+Median 
+Earnings
+Credential Rate3
+Num
+Credential Rate3
+Denom
+Credential Rate3
+Rate
+Measurable Skill 
+Gains3
+Num
+Measurable Skill 
+Gains3
+Denom
+Measurable Skill 
+Gains3
+Rate
+Female 1,453 438 215 388 55.4% 211 382 55.2% $5,086 47 91 51.6% 182 291 62.5%
+Male 1,768 546 241 438 55.0% 232 400 58.0% $4,242 72 155 46.5% 254 392 64.8%
+Did Not Self Identify 44 7 - 6 - - 5 - $6,850 - - - 7 11 63.6%
+BY PARTICIPANT CHARACTERISTICS - Age
+Performance Item
+Total Participants 
+Served
+(Cohort Period: 
+07/01/2024 - 
+06/30/2025)
+Total Participants 
+Exited
+(Cohort Period: 
+07/01/2024 - 
+06/30/2025)
+Employment 
+Rate (Q2)2 
+Num
+Employment 
+Rate (Q2)2 
+Denom
+Employment 
+Rate (Q2)2 
+Rate
+Employment 
+Rate (Q4)2 
+Num
+Employment 
+Rate (Q4)2 
+Denom
+Employment 
+Rate (Q4)2 
+Rate
+Median 
+Earnings
+Credential Rate3
+Num
+Credential Rate3
+Denom
+Credential Rate3
+Rate
+Measurable Skill 
+Gains3
+Num
+Measurable Skill 
+Gains3
+Denom
+Measurable Skill 
+Gains3
+Rate
+< 16 70 5 - 8 - - 8 - $8,781 - 6 - 46 54 85.2%
+16 - 18 839 197 110 173 63.6% 119 202 58.9% $4,882 86 159 54.1% 265 370 71.6%
+19 - 24 620 190 82 163 50.3% 82 138 59.4% $2,807 17 44 38.6% 61 109 56.0%
+25 - 44 904 284 132 225 58.7% 126 206 61.2% $4,862 7 17 41.2% 54 106 50.9%
+45 - 54 362 130 64 113 56.6% 51 94 54.3% $9,487 5 16 31.3% 11 36 30.6%
+55 - 59 200 65 29 61 47.5% 25 52 48.1% $5,017 ---- 1 3 -
+60+ 270 120 41 89 46.1% 40 87 46.0% $6,284 - - - 4 6 66.7%
+BY PARTICIPANT CHARACTERISTICS - Ethnicity/Race
+Performance Item
+Total Participants 
+Served
+(Cohort Period: 
+07/01/2024 - 
+06/30/2025)
+Total Participants 
+Exited
+(Cohort Period: 
+07/01/2024 - 
+06/30/2025)
+Employment 
+Rate (Q2)2 
+Num
+Employment 
+Rate (Q2)2 
+Denom
+Employment 
+Rate (Q2)2 
+Rate
+Employment 
+Rate (Q4)2 
+Num
+Employment 
+Rate (Q4)2 
+Denom
+Employment 
+Rate (Q4)2 
+Rate
+Median 
+Earnings
+Credential Rate3
+Num
+Credential Rate3
+Denom
+Credential Rate3
+Rate
+Measurable Skill 
+Gains3
+Num
+Measurable Skill 
+Gains3
+Denom
+Measurable Skill 
+Gains3
+Rate
+American Indian / Alaska Native 70 21 8 9 88.9% 7 8 87.5% $3,220 - 4 - 5 14 35.7%
+Asian 77 20 5 10 50.0% 4 10 40.0% $6,850 - - - 15 24 62.5%
+Black / African American 132 40 21 30 70.0% 17 30 56.7% $3,608 9 16 56.3% 15 23 65.2%
+Hispanic / Latino 77 12 9 19 47.4% 9 17 52.9% $10,579 - 5 - 15 24 62.5%
+Native Hawaiian / Pacific Islander 10 4 5 7 71.4% - - - $2,811 0 - 0.0% - - -
+White 3,068 937 434 797 54.5% 425 753 56.4% $4,742 107 230 46.5% 415 650 63.8%
+More Than One Race 104 34 14 21 66.7% 9 16 56.3% $2,926 - 7 - 8 17 47.1%
+OMB Control Number 1205-0526
+
+BY EMPLOYMENT BARRIER4
+Performance Item
+Total Participants 
+Served
+(Cohort Period: 
+07/01/2024 - 
+06/30/2025)
+Total Participants 
+Exited
+(Cohort Period: 
+07/01/2024 - 
+06/30/2025)
+Employment 
+Rate (Q2)2 
+Num
+Employment 
+Rate (Q2)2 
+Denom
+Employment 
+Rate (Q2)2 
+Rate
+Employment 
+Rate (Q4)2 
+Num
+Employment 
+Rate (Q4)2 
+Denom
+Employment 
+Rate (Q4)2 
+Rate
+Median 
+Earnings
+Credential Rate3
+Num
+Credential Rate3
+Denom
+Credential Rate3
+Rate
+Measurable Skill 
+Gains3
+Num
+Measurable Skill 
+Gains3
+Denom
+Measurable Skill 
+Gains3
+Rate
+Displaced Homemakers 24 9 ----4- $10,880 0 0 0.0% - - -
+English Language Learners, Low Levels of Literacy, Cultural 
+Barriers 547 153 66 136 48.5% 64 119 53.8% $2,904 15 46 32.6% 78 117 66.7%
+Exhausting TANF within 2 years (Part A Title IV of the Social 
+Security Act) 88 31 14 25 56.0% 11 19 57.9% $6,797 0 4 0.0% 12 21 57.1%
+Ex-offenders 128 46 14 34 41.2% 19 39 48.7% $3,935 0 4 0.0% - 13 -
+Homeless Individuals / runaway youth 48 19 16 22 72.7% 10 22 45.5% $5,372 - - - 4 5 80.0%
+Long-term Unemployed 
+(27 or more consecutive weeks) 1,246 397 151 344 43.9% 145 313 46.3% $3,301 38 97 39.2% 196 305 64.3%
+Low-Income Individuals 1,319 429 193 377 51.2% 169 341 49.6% $4,161 34 80 42.5% 106 202 52.5%
+Migrant and Seasonal Farmworkers 4 - 0 - 0.0% - - - $0 0 0 0.0% 0 0 0.0%
+Individuals with Disabilities (incl. youth) 3,265 991 459 832 55.2% 445 787 56.5% 4,792 120 247 48.6% 443 694 63.8%
+Single Parents (Incl. single pregnant women) 166 45 26 43 60.5% 23 36 63.9% $7,872 - 8 - 16 33 48.5%
+Youth in foster care or aged out of system 76 20 12 18 66.7% 8 15 53.3% $2,074 6 15 40.0% 17 24 70.8%
+1Applies to Title I only. Individuals for whom it is unknown whether their employment in the 2nd quarter after exit was related to the training they received are included in this measure and are considered to be a negative outcome for the purposes of this calculation.
+2This indicator also includes those who entered into a training or education program for the Youth program.   
+3Credential Rate and Measurable Skill Gains do not apply to the Wagner-Peyser program.
+4Barriers to Employment are determined at the point of entry into the program. 
+*Cells are populated based on the combination of the corresponding specifications for that row and column. For example, the cell in the row "Sex: Female" and the column "Employment Rate (Q2) Num" will be the count of female participants in the Employment Rate (Q2) Numerator for that report period. 
+Public Burden Statement (1205-0526) 
+Persons are not required to respond to this collection of information unless it displays a currently valid OMB control number. Respondent’s reply to these reporting requirements is required to obtain or retain benefits (Workforce Innovation and Opportunity Act, Section 185(a)(2)). Public reporting burden for this collection of 
+information is estimated to range between 240 and 360 minutes which averages 300 minutes per response, including the time for reviewing instructions, searching existing data sources, gathering and maintaining the data needed, and completing and reviewing the collection of information. Send comments regarding this burden 
+estimate to the Office of Policy Development and Research ● U.S. Department of Labor ● Room N-5641 ● 200 Constitution Ave., NW, ● Washington, DC ● 20210. Do NOT send the completed 9169 application to this address.

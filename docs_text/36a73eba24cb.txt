@@ -1,0 +1,621 @@
+FILENAME: utah-20proposed-20rules-20approved-204-22-2022-docx-0282b5ca08ab.docx
+PATH: _raw/rsa.ed.gov/utah-20proposed-20rules-20approved-204-22-2022-docx-0282b5ca08ab.docx
+
+BUSINESS ENTERPRISE PROGRAM STATE OF UTAH
+RULES AND REGULATIONS
+Updated February 2020
+INDEX
+DEFINITION OF TERMS	1
+SECTION 1 - GENERAL PROVISIONS	3
+Purpose of the Business Enterprise Program	3
+Legal Authority for Operation of the Business Enterprise Program	3
+Policy of Nondiscrimination	3
+SECTION 2 - STATE LICENSING ORGANIZATION AND ADMINISTRATION	4
+Organization and Operation of State Licensing Agency	4
+Staff	4
+SECTION 3 - TRAINING AND LICENSING OF BEP FACILITY MANAGERS	5
+Prerequisites for Training	5
+Application Process	6
+Application Information Packet	7
+Processing the Application	7
+Training	7
+Licensing	9
+Vendor Committees Exit Interview	9
+Special Training Program	9
+SECTION 4 - LICENSING PROCEDURE	10
+Criteria	10
+Managers License and Facility License	10
+Agreement Between Licensed Manager and Division	10
+Contents of Facility License	10
+Display of Facility License	11
+Non-transferability	11
+Termination of License	11
+Revocation of License	12
+SECTION 5 - ASSIGNMENT AND TRANSFER OF LICENSED MANAGERS	13
+Assignment Process	13
+Criteria for Selection of licensed managers for Assignment	13
+Voluntary Resignation	14
+Eligibility of Inactive licensed managers to Re Enter Program	14
+SECTION 6 - EQUIPMENT AND FIXTURES	15
+Provision of Equipment and Fixtures	15
+Equipment Repair and Maintenance	15
+Repair Procedures	15
+Replacement of Equipment and Fixtures	17
+Leased Equipment	18
+SECTION 7 - RESALABLE MERCHANDISE STOCK	19
+Initial Inventory	19
+Increasing the Inventory	19
+Transfer of Resalable Merchandise Stock	19
+Restocking Merchandise	20
+Credit Purchases Prohibited	20
+Quality of Merchandise	21
+Inspection of Merchandise	21
+Replacement of Lost Merchandise	21
+Pricing of Merchandise	21
+Review of Prices	22
+Price Changes	22
+SECTION 8 - SALES AND EMPLOYEE TAX INFORMATION	23
+Tax Payments	23
+Failure to Meet Payment Schedule	23
+SECTION 9 - MONTHLY REPORTING/SET-ASIDE FEES	24
+Purpose of Set-Aside Fees	24
+Method of Computing Net Proceeds	24
+Method of Payment	26
+Audit Review of Funds	27
+Access to Financial Information	27
+Year-End Set-Aside Reconciliation	27
+SECTION 10 - DUTIES AND RESPONSIBILITIES OF LICENSED MANAGERS	28
+General Requirements	28
+Employee Hiring Practices	30
+Manager Hours at Facility	30
+SECTION 11 - MANAGEMENT SERVICES	32
+Supervisory Services	32
+Frequency of Supervisory Site Visits	32
+Specific Responsibilities of BEP Staff Regarding Supervisor	32
+Scope of Supervisory Visits	33
+SECTION 12 - STATE COMMITTEE OF BLIND VENDORS	34
+12.1 Responsibilities of Committee	34
+SECTION 13 - UNSATISFACTORY OPERATION OF A FACILITY	35
+Probation	35
+Probation Procedure	35
+Content of Probation Letter	35
+Length of Probation	35
+Consequences of Probation	36
+Documentation	36
+Revocation of Facility License	36
+Grounds for Revocation of Facility License	36
+Termination of Manager’s License	37
+Procedure Prior to Terminating License	37
+Procedure to Terminate License	38
+Appeal Procedure	38
+SECTION 14 - PROCEDURE FOR RESOLUTION OF MANAGER’S DISSATISFACTION	40
+Informal Administrative Review	40
+Full Evidentiary Hearing	41
+Arbitration	43
+SECTION 15 - LICENSED MANAGER BENEFITS	45
+Vacation Pay	45
+Retirement Benefits	45
+Training Reimbursement	45
+Emergency Payments
+SECTION 16 - CRITERIA TO ESTABLISH NEW FACILITIES	46
+General Criteria	46
+Establishment of Vending Routes	46
+Building Up of Existing Businesses	46
+Variance Permit	46
+State, County and Municipal Facilities	47
+DEFINITION OF TERMS
+BEP: The Business Enterprise Program for the state of Utah.
+Cafeteria: A food dispensing facility capable of providing a broad variety of prepared foods and beverages (including hot meals) primarily through the use of a line where the customer serves himself or herself from displayed selections. A cafeteria may be fully automatic, or some limited waiter or waitress service may be available. Table or booth seating facilities are always provided.
+Certificate:  Document showing completion of BEP training.
+Commissioner: The Commissioner of the Rehabilitation Services Administration.
+Division: The Division of Services for the Blind and Visually Impaired. See also, state licensing agency.
+Division director: The assistant division director who has operational responsibility for the Division of Services for the Blind and Visually Impaired under the Utah State Office of Rehabilitation.
+Legally blind: An individual who, after examination by a physician skilled in diseases of the eye or by an optometrist, whichever such person will select, has been determined to have:
+Not more than 20/200 central visual acuity in the better eye with correcting lenses, or
+An equally disabling loss of visual field as evidenced by a limitation to the field of vision in the better eye to such a degree that its widest diameter subtends an angle of no greater than 20 degrees.
+License: Approval issued by the state licensing agency to a blind person, authorizing such person to operate a vending facility on federal or other property.
+Licensed manager: A blind person licensed by the Division of Services for the Blind and Visually Impaired to operate a vending facility on federal or other property. Also referred to as, blind vendor or vendor.
+Net proceeds: The amount remaining from the sale of articles or services of vending facilities, and any vending machine or other income accruing to blind vendors after deducting the cost of such sale and other expenses (excluding set-aside charges required to be paid by such blind vendors).
+Operating agreement: The agreement between the division and the vendor which covers basic terms and conditions related to the operation of a vending facility.
+Permit: The official approval given a state licensing agency by a department, agency, or instrumentality in control of the maintenance, operation, and protection of federal
+property or person in control of other property, whereby the state licensing agency is authorized to establish a vending facility.
+Randolph-Sheppard Act: The federal law ensuring national programs of vending facilities for the blind are effectively implemented by providing blind persons with expanded opportunities for remunerative employment through the operation of an increased number of vending facilities on federal property. A related purpose is the provision of uniformity of treatment of blind vendors by both the state licensing agencies administering the state’s vending facility program and by the federal property manager departments on which the vending facilities are to be operated.
+Secretary: The US Secretary of Education.
+Set-aside funds: Funds that accrue to a state licensing agency from an assessment against the net proceeds of each vending facility in the state’s vending facility program and any income from vending machines on federal property that accrues to the state licensing agency.
+State vocational rehabilitation agency: The division that provides vocational rehabilitation services, approved pursuant to the provisions of the Rehabilitation Act of 1973, as amended. In Utah, this is the Utah State Office of Rehabilitation, which the Division of Services for the Blind and Visually Impaired is a subdivision of.
+State licensing agency: The Division of Services for the Blind and Visually Impaired, as designated by the Commissioner of RSA, to issue licenses to blind persons for the operation of vending facilities on federal and other property.
+Vending facility: Automatic vending machines, cafeterias, snack bars, cart service or shelters, counters and such other appropriate auxiliary equipment which may be operated by blind vendors and which is necessary for the sale of newspapers, periodicals, confections, food, beverages, and other articles or services dispensed automatically or manually and prepared on or off the premises in accordance with all applicable health laws.
+Vending machine: A coin or currency operated machine that dispenses articles or services, except those machines operated by the United States Postal Service for the sale of postage stamps or other postal products and services. Phones and machines providing services of a recreational nature are not considered vending machines.
+SECTION 1 - GENERAL PROVISIONS
+Purpose of the Business Enterprise Program (BEP)
+To provide employment opportunities for qualified persons who are legally blind to manage manual food services, automated vending locations and other BEP selected businesses on federal, state, and other public properties throughout the state.
+To administer a continuing process of career development for licensed managers to enable them to progressively improve their opportunities for upward mobility.
+Legal Authority for Operation of the BEP
+The Division of Services for the Blind and Visually Impaired, which is a subdivision of the Utah State Office of Rehabilitation, a division of the Department of Workforce Services, has the authority to promulgate rules and regulations for the BEP as contained within the Randolph Sheppard Act and through state of Utah Code Title 55.
+Policy of Nondiscrimination
+In accordance with State and Federal law, BEP and the division adhere to a policy of non-discrimination.
+Administration of BEP
+Every aspect of the division’s administration of the program is without discrimination based on the following: race; color; religion; sex (including pregnancy, childbirth and related medical conditions, sex stereotyping, transgender status and gender identity); national origin (including limited English proficiency); age; political affiliation or belief; or physical or mental disability of any individual who is participating or who may wish to participate in the program, insofar that such disability does not preclude the individual’s ability to perform the essential functions of the job with or without accommodations.
+Management of Particular Enterprise
+Every licensed manager of an enterprise must operate the enterprise without discrimination based on the following: race; color; religion; sex (including pregnancy, childbirth and related medical conditions, sex stereotyping, transgender status and gender identity); national origin (including limited English proficiency); age; political affiliation or belief; or physical or mental disability of any present or prospective supplier, customer, employee or any other individual who might come into contact with the enterprise, insofar that such disability does not preclude the individual’s ability to perform the essential functions of the job with or without accommodations.
+SECTION 2 - STATE LICENSING ORGANIZATION AND ADMINISTRATION
+Organization and Operation of State Licensing Agency
+The BEP is under the jurisdiction and control of the Utah Division of Services for the Blind and Visually Impaired. The BEP coordinator works closely with other division staff, and is dependent upon those activities for clients to be trained as licensed managers of various BEP Facilities.
+Staff
+The BEP coordinator, who reports directly to the director of the division, administers the program. Other staff assist the program coordinator, as needed.
+SECTION 3 - TRAINING AND LICENSING OF BEP FACILITY MANAGERS
+Individuals who successfully complete the BEP training program and become licensed managers will be eligible to bid on BEP facilities as they become available. Completion of the training does not guarantee placement in a BEP facility.
+Prerequisites for Training
+Before a vocational rehabilitation client may qualify as a BEP trainee, the counselor should be certain that the following prerequisites are met:
+General Requirements
+Legally blind, as required and defined by federal statute
+At least 18 years of age or older
+U.S. citizen and present and available for services in the State of Utah (birth certificate or other applicable documentation must be submitted with application.)
+Diagnostic and Evaluation Reports
+Current general physical examination
+Current eye examination
+Competent personal adjustment training
+Psychological evaluation
+Note: “Current” means within the past 12 months.
+Academic Achievements
+High school graduation or GED equivalent
+Successful completion of the BEP entrance test
+Physical Status
+Capable of performing all necessary aspects of the business with or without accommodations.
+Ability to work at a steady pace 10 hours a day, 5-1/2 days a week, without ill effects
+Mobility sufficient to travel independently and safely
+Personal Characteristics
+If there has been a history of any substance abuse (alcohol or drugs), the client must have been on a successful rehabilitation plan for a minimum of one year
+Current credit report
+Current background check
+Application Process
+The BEP coordinator and other division staff, as appropriate, will interview clients desiring a career in the BEP and meet the prerequisites for training. Prior to the selection committee interview, the BEP staff will review the client’s case file.
+The BEP staff will assess the client’s qualifications and report their recommendations to the counselor.
+The BEP staff will administer the BEP entrance test to the client. The client must pass the exam with 80% or higher. If the client does not pass the test, they must wait 30 days before retaking the test. If the client does not pass the second test, they will be required to take a course or have formal tutoring in basic business math. The counselor must show evidence of successful completion of the math coursework. At that time, the client may take a third and final BEP entrance test. If successfully completed, the client may be scheduled for a two-week work evaluation.
+Work Evaluation
+Upon successful completion of the initial interview and entrance test, BEP staff will schedule the client for a minimum of two weeks of work evaluation with one or more experienced licensed managers.
+The purpose of the work evaluation is to enable the client to decide if they are interested in becoming a licensed manager and enable the BEP staff to better determine the client’s potential for success as a licensed manager.
+The evaluating licensed manager will instruct, assist and observe the client in all phases of the facility’s operation, and will file the BEP weekly assessments of the client’s performance, utilizing the divisions’ standard form. For this service, the licensed manager will be paid an instructional and evaluation fee by vocational rehabilitation.
+More than one location and licensed manager may be used for the work evaluation, if necessary or desirable.
+The evaluation period may be terminated or extended after consultation with the counselor and approval from the program coordinator.
+Application Information Packet
+Upon successful completion of the work evaluation, the counselor will submit the following information to the BEP coordinator.
+Client’s work history
+Educational background
+Personal adjustment training
+Rehabilitation training and services received
+Counselor’s relevant observations of the client
+Desired training date
+Current eye examination
+Current physical examination
+Current psychological examination
+Reports from evaluating licensed manager(s)
+Client’s BEP entrance test results
+Birth certificate or naturalization papers
+Current credit check
+Current background check
+Processing the Application
+BEP staff must receive all applications six weeks prior to the desired class entry date.
+The BEP coordinator will present the application to a selection committee composed of themselves, a representative for vocational rehabilitation, a member of the vendor committee and other division staff as needed. This selection committee will interview applicants.
+After the committee has a determination of the client’s acceptability for training, the BEP staff will prepare a written reply to the client, with a copy to the counselor, of the decision regarding the application.
+Training
+Training will consist of both academic and on-the-job (OJT) training.
+Duration of training
+The normal duration of training is approximately 6 months. This training will consist of a combination of community college courses, specialized courses at the division facility, and OJT. Based on the training needs of the individual client,
+the training may be altered at the discretion of the program coordinator or other division staff, and agreement of the vendors committee.
+Evaluation
+An experienced and qualified licensed manager or an approved foodservice facility selected by the program coordinator, after consulting with the vendors committee and other division staff, will perform OJT. The trainee will receive an evaluation of their performance by the OJT training manager and the BEP specialist. The trainee will review and acknowledge the evaluation.  To  successfully complete the OJT, the trainee must receive a minimum score of 80.
+During academic training, the trainee will be tested periodically on materials covered. A final comprehensive exam will be given the last week of training. The trainee must have an overall minimum average of 80% in academics, from both the community college courses and any other academic training that is part of the program.
+Failure to complete training
+The Program will provide all accommodations.  If, during the course of training, it becomes evident that the trainee cannot satisfactorily complete training because of the lack of ability or interest, health reasons, failure to comply with rules and regulations, etc., the BEP coordinator will review the case, consult with appropriate division staff and vendor committee members, and if the situation warrants, terminate the trainee’s training. In such instances, the counselor will immediately meet with the client to develop a plan of service based upon a vocational objective more suitable for the client.
+If a trainee misses five days of training, whether consecutive or not, they will be considered for elimination from the class.  To maintain continuity of training for all clients, the training curriculum does not allow for make-up work for instruction missed. Any time taken from training diminishes the total instruction received by the client.
+Transfer of Prior Training and/or Experience
+A trainee may be eligible to substitute prior training and/or experience for all or part of the BEP training program. To do so, the trainee must meet the following requirements:
+Pass the written test as provided by the BEP staff or community college at 80% or better.
+Participate in an interview with BEP staff and the vendors committee, and be approved by a majority vote.
+Participate in a 30-day OJT review, and pass with 80% or better.
+If the trainee meets all criteria, they will be subject to a probationary period of 1 year. If the trainee does not meet all criteria, they will be required to fully participate in the BEP training program to become a licensed manager.
+Licensing
+Clients successfully completing the training program will be issued a certificate designating them as a licensed manager by the licensing agency. The client is then eligible to bid on a BEP facility. Upon successful bid of a facility, the licensing agency will issue an operating agreement for that location. If a newly licensed client is not awarded a facility within 12 months after receiving their certificate, at least 30 days prior to the end of the 12th  month, they must provide a written request to the BEP coordinator to have their certificate extended. The BEP coordinator, after consulting with the vendors committee and appropriate BEP staff, will determine the extent of retraining necessary for the client to be eligible for assignment to a facility. A licensed manager or BEP staff may conduct the retraining recommended in an operational facility.
+Vendor Committees Exit Interview
+Ninety days after a licensed manager is assigned to their initial facility, BEP staff will coordinate an exit interview with the appropriate vendor committee representative. The purpose of the exit interview is for the newly licensed manager to evaluate the training program and to provide recommendations to the BEP staff.
+Special Training Program
+The BEP staff may develop specialized training programs, which may be necessary to ensure the success of a licensed manager.
+BEP will conduct ongoing special training seminars for all licensed managers to inform them of new program developments and to provide instruction on relevant topics to enhance their success. These quarterly seminars will normally be conducted during non-business hours. There will be a minimum of four training sessions offered per fiscal year, with managers being required to attend at least three of these sessions to maintain their license. The BEP coordinator may make special exceptions, if warranted by circumstances.
+SECTION 4 - LICENSING PROCEDURE
+Criteria
+No person may be licensed to manage a facility until the division has determined that the person has the requisite abilities for operating a facility in a satisfactory manner. In all instances, certificates will be issued only to persons who meet the following requirements:
+Blind within the legal definition of blindness.
+Citizen of the United States and present and available for services in the State of Utah
+Determined by the division to be qualified to operate a BEP  facility.
+Managers License and Facility License
+Upon completion of the training program, individuals who have met all requirements will be issued a certificate designating them as a licensed manager in the State of Utah. Individual facility licenses will not be issued until a licensed manager has successfully bid on and been awarded a facility.
+Agreement Between Licensed Manager and Division
+A condition for assignment to a BEP facility is to enter into an agreement to operate the facility in compliance with the conditions and terms set forth by the division. The agreement grants the licensed manager the authority to operate a facility for an indefinite time at a described location with the understanding that such privilege may be terminated or otherwise controlled by the division based on these rules and regulations. The agreement must be signed by the licensed manager, executive director, or designee of the Department of Workforce Services, in accordance with state purchasing regulations, on or prior to the first day responsibility is assumed for operation of a facility. One copy of the completed agreement will be returned to the licensed manager, and one copy will be retained by the BEP coordinator and will become a part of the division’s file maintained on licensed managers.
+Transfer of a licensed manager to another facility will invalidate the agreement, and a new agreement must be executed before a manager can operate the new location.
+No agreement will be in effect until the licensed manager has obtained liability insurance coverage as required by the division.
+Contents of Facility License
+On behalf of the State of Utah, the division’s director and BEP  coordinator will issue the certificate.
+The license must show the name of the licensed manager, the name of the facility and the date the license was issued.
+Display of Facility License
+The facility license must be displayed prominently in the enterprise the licensed manager is assigned to manage.
+Non-transferability
+A facility license is specific to the individual licensed, and cannot be transferred. The issuance of a license does not confer the manager’s heirs or others with any rights of any nature regarding the enterprise to which the manager is assigned. A facility license is considered valid indefinitely, if the licensed manager remains in the program, unless it is terminated by mutual consent or revoked for just cause. A facility license may also be terminated if the permit or contract for the facility between BEP and building management is terminated or discontinued for any reason. Whenever a licensed manager is transferred to another enterprise, a new license will be issued.
+Termination of License
+The manager’s license automatically expires when a manager’s association with the program is terminated, whether because of dismissal, voluntary withdrawal, death, retirement, or any other valid reason. However, a license may also be terminated for the following reasons:
+Improvement of vision so that the licensed manager no longer meets the definition of legal blindness. The division retains the right to request a current eye examination by an approved professional, paid for by the division, at any time.
+Extended illness exceeding three months with medically documented diagnosis of prolonged incapacity of the licensed manager to operate the facility in a manner consistent with the needs of the location. A committee consisting of members of the BEP staff and the vendors committee, who will, after thorough evaluation, make their recommendation to the BEP coordinator. The BEP coordinator will provide the recommendation to the division director. The division director will make final determinations after reviewing appropriate recommendations.
+A terminated license may be restored at the discretion of the program coordinator, after consultation with the vendors committee, and approval from the division’s director. If a terminated manager’s license is restored, they will re- enter the program at the same level a new manager would enter in being considered for a facility.
+In all instances, the manager may request an administrative review and full evidentiary hearing to obtain a fair and impartial resolution of differences, as detailed in Section 14 of this document.
+Revocation of Facility License
+Every facility license granted by the division for managing a facility will be for an indefinite period, but will be subject, in accordance with the terms and conditions of this manual, to revocation by the BEP coordinator, as detailed in Section 13.8 of the rules and regulations.
+SECTION 5 - ASSIGNMENT AND TRANSFER OF LICENSED MANAGERS
+Assignment Process
+All assignments and transfers to vending facilities are dependent upon the availability of suitable facilities; consequently, as facilities become available, they will be announced to all licensed managers, who, if eligible, will be given an opportunity to apply in writing to BEP.  A location application form will be forwarded in accessible format to all licensed managers. Facility announcements will indicate the actual monthly sales of the facility during the past twelve months, building population, building location, approximate starting inventory figures, and any specific contract or permit information that may directly impact the facility’s daily operations and/or profit potential. Average monthly sales of new facilities will be estimated based on anticipated patronage. Announcements are only an approximation. No information provided in a facility announcement can be considered as a contractual obligation by the division, real or implied. Potential assignments will be announced to all licensed managers a minimum of 14 calendar days prior to the selection date to permit all licensed managers to apply prior to the deadline date established in the facility announcement.
+All applicants for a facility will be requested to attend a walk-through of the facility with the BEP coordinator or other division staff. The purpose of this walk-through is to provide the applicants with the opportunity to evaluate the facility and determine specific questions or concerns they may have. BEP representatives will attempt to answer clearly all facility-related questions at the time of the walk-through. In the event answers are not available at that time, BEP staff will research the question and provide the answer in an accessible format along with a transcript of all questions asked and answered during the walk- through. Managers will have three business days from the date of the walk through to address BEP in writing with any additional questions or requests for clarification. Any questions received after three business days will not be accepted. Transcripts and answers to all additional questions will be forwarded to all walk-through attendees within seven days of the date of the walk-through. It is the intent of BEP staff to provide the same information to all attendees to facilitate a clear and fair assignment process. BEP staff will provide at least seven days’ notice of the date and time of the walk-through to all interested applicants. To evaluate the facility, it is highly recommended that all bidders attend the walk-through.
+If a facility is not bid on by any licensed manager during the initial bid process, it may be put out for bid as a temporary satellite, if feasible, or a third-party vendor may be contracted by BEP staff to operate the facility on a temporary basis for a set amount of time with commissions being paid to BEP.
+Criteria for Selection of Licensed Managers for Assignment
+A bid committee will select the licensed manager for each facility. Considerations for selecting eligible licensed managers for various assignments include, but are not limited to:
+A licensed manager cannot be on probation.
+Nature of the available facility in terms of potential income, labor needs and food preparation skills required of the selected licensed manager compared to the managerial abilities demonstrated by the licensed managers under consideration.
+Previous record of licensed manager in terms of accuracy and timeliness of reports submitted, sanitation inspections, customer satisfaction, BEP evaluations and contributions towards the betterment of the program.
+A manager is not delinquent with respect to the filing of any reports or financial obligations to the State of Utah.
+Length of time eligible individuals have been in their present assignments when all other factors are equal.
+Education level attained in BEP training program.
+Additional eligibility criteria may apply to particular assignments when required by contract with the host organization. Such criteria will be specified in the facility announcement.
+Any bidding licensed manager must present certified current tax obligations for both State and Federal taxes.
+Voluntary Resignation
+Any licensed manager considering resigning or retiring from the program must give the BEP coordinator a minimum of 30 days’ written notice. Failure to provide such notice may be considered abandonment of the facility, which will result in immediate suspension and discontinuance of any benefits the licensed manager is eligible for (i.e., vacation, retirement, etc.). Note: Resignation from a location constitutes resignation from BEP.
+Eligibility of Inactive Licensed Managers to Re Enter Program
+Licensed managers who have not actively operated a facility within the past twelve months due to unavailability of a facility may be reinstated after being given an evaluation with an assigned licensed manager to determine the extent of training, if necessary, to again be eligible for an assignment. Absences from the program exceeding eighteen months will require reapplication.
+SECTION 6 - EQUIPMENT AND FIXTURES
+Provision of Equipment and Fixtures
+The division will provide each BEP facility with fixtures and equipment in such quantity and quality to give reasonable assurance of successful operation by the licensed manager.
+The division retains the right, title and interest to all program equipment and fixtures. The division has the authority to direct, control, transfer and dispose of such equipment, as necessary.
+The licensed manager will not make additions, deletions or modifications to the facility or its operation, in the form of equipment, fixtures or facilities, without first obtaining written authorization from the BEP coordinator.
+Upon termination of the operating agreement and/or license, the licensed manager must surrender the facility equipment to its lawful owner.
+Equipment Repair and Maintenance
+All equipment and fixtures in a facility must be maintained in good repair and condition. To ensure the continued successful operation of the facility, the division will replace worn out or obsolete equipment.
+Manager’s Responsibilities
+The licensed manager is responsible for maintaining equipment in a clean condition at all times. They must perform routine preventative maintenance tasks such as oiling moving parts, tightening loose screws, bolts, or other parts, keeping refrigeration compressor coils clean, making sure electrical equipment remains properly plugged in and switched on and other similar tasks. Maintenance schedule for each facility and/or vending route will be prepared by a licensed blind manager in writing and adhered to. The division may require yearly maintenance checks by a professional service provider if it is determined that the manager is not willing, able, or qualified to perform the required services. In this case, payment for services rendered will be handled in the same manner as repair costs.
+Failure to exercise proper routine preventive maintenance will result in financial liability on the part of the licensed manager.
+Repair Procedures
+The division is responsible for assuring that all state-owned equipment is functional and in a good state of repair. The licensed manager must pay the first $35 of the authorized repair cost and the division will pay the remainder out of program revenues. The $35 fee does not apply to installation of new equipment.
+Before a licensed manager determines a piece of equipment  needs  repair by a service technician, they must perform the following checks:
+Circuit breaker is not tripped,
+Unit is plugged in properly,
+Reset button is pushed in,
+On/off switch is in correct position,
+Condenser coils are clean,
+Moving parts are free of obstruction.
+When a piece of equipment malfunctions or is inoperable, the licensed manager will contact a repairman from the list of approved companies which can be obtained from BEP staff.  Repair companies on this list have previously agreed to follow division procedures.
+The licensed manager must obtain a repair estimate to ensure that charges will not exceed $500.
+If the estimated repair cost does not exceed $500, the licensed manager may give verbal approval to proceed with the necessary repairs.
+The licensed manager or their representative will sign the repair invoice to certify satisfactory completion of the repair. The repair invoice must include:
+The name and address of the facility where work was performed.
+State equipment number or serial number for repaired equipment.
+Make, model and description of equipment.
+Detailed description of work performed.
+Breakdown of charges.
+Date of service.
+Service person’s name and telephone contact number.
+Warranty information on work performed.
+Only one invoice for repair total can be submitted, even if work took more than one trip to complete.
+A repair will not be covered by the BEP and will result in payment being assigned as a manager’s personal expense (not allowable as a miscellaneous expense) when:
+The repair is attributed to negligent actions by the licensed manager,
+The licensed manager failed to perform an operation check of the equipment,
+The licensed manager failed to determine that the equipment repaired was under warranty, and the repair was a warrantied expense. Note: Upon assignment to a facility and when new equipment is purchased, the licensed manager will be provided
+with an accessible copy of the warranty that details how covered repairs/replacement are to be handled by the manufacturer.
+When there is a change of vending facilities between licensed managers, prior to that change, a quality control review will be done on all vending equipment by an authorized repair person. Any repairs required will be done at that time. The outgoing licensed manager will be required to pay the first $35 only, for repairs that are necessary, not for the quality control review. The incoming licensed manager will have 30 days from the date of possession to notify BEP staff of any additional repairs required. Any repairs determined to be necessary in that 30- day period will not require the $35 copayment by the licensed manager. After the 30 days, repairs at the facility will be handled in the same manner as all other repairs.
+Replacement of Equipment and Fixtures
+As a general policy and subject to the availability of funds, the division will furnish equipment and fixtures necessary for the proper operation of a facility and will replace, at no cost to the licensed manager, all items (except certain expendable equipment) if the old item is turned in and shows only normal wear and tear, and reflects no misuse or abuse.
+Non-Expendable Equipment:
+Non-expendable equipment includes all necessary equipment that requires a relatively large capital outlay and has a normal life expectancy of several years. Included is equipment such as counters, cabinets, tables and chairs, refrigeration units, cash registers, ranges, griddles, fryers, food-warming equipment etc.
+Expendable Equipment:
+Expendable equipment includes items having a relatively low cost per unit and a relatively short life expectancy, such as thermometers, china, glass, silverware, sugar and napkin dispensers, salt and pepper shakers, serving trays, mops, brooms, knives, spreaders, serving spoons, ladles, etc. The division will provide an initial stock of expendable items with the initial inventory sufficient to properly operate the enterprise. It is the manager’s responsibility thereafter to keep the supply of expendable equipment at least at the original level. In replacing lost or broken expendable equipment, the licensed manager is to replace it with equivalent equipment to that originally provided. A licensed manager who mixes additional expendable equipment with the furnished equipment (where the additional equipment is not to replace expendable equipment originally provided) does so at his or her own cost. If the commingled expendable equipment cannot be readily distinguished from that belonging to the state, the division may claim ownership of all expendable equipment in the facility. If the facility is either closed or transferred, it will be the outgoing manager’s responsibility to ensure that all expendable equipment
+originally issued is on hand and operable at the time inventory is taken. Licensed managers will be charged for any missing or unserviceable items. These costs are an allowable expense on the licensed manager’s monthly reports.
+Leased Equipment
+In some situations where it is in the best interest of the program, the licensed manager, with prior written approval of the BEP coordinator, may lease equipment. Note: If the equipment lease was approved by BEP staff, the lease expenses may be included as a miscellaneous expense on the monthly report.
+Note: Copayment amounts are subject to change upon approval by the division and the vendors committee.
+SECTION 7 - RESALABLE MERCHANDISE STOCK
+Initial Inventory
+The division will advance an initial stock of merchandise for resale, as well as cash, for opening of a facility by a new licensee. The licensed manager will maintain an inventory of stock and cash equal to or exceeding the value of the division’s initial stock and opening cash, as well as all small wares and expendable equipment initially provided.
+Merchandise considered unsalable by BEP staff will not be included in the value of the inventory. The division will retain title to all initial stock provided.
+Increasing the Inventory
+If it becomes necessary for a licensed manager to increase their inventory, the licensed manager will purchase the additional inventory. However, under certain circumstances and at the discretion of the BEP coordinator, the division may purchase the additional inventory that is added to the initial inventory amount.
+Transfer of Resalable Merchandise Stock
+When the duties and responsibilities of a facility are transferred from one licensed manager to another licensed manager, both incoming and outgoing licensed managers must be present or represented for the transfer of resalable merchandise, equipment, fixtures, and expendable items. In the absence of representation for either licensed manager, the BEP coordinator will appoint a representative to protect the licensed manager’s inventory interests.
+Both incoming and outgoing licensed managers or their representatives must agree on the identification, the number of units and wholesale cost of each unit to be considered as resalable merchandise. The outgoing licensed manager must make the current wholesale costs available at the time of inventory or the BEP staff will determine what the wholesale price is. In the event a particular cost cannot be determined, the BEP Coordinator will assign a fair price equitable to both parties. The BEP Coordinator will settle disagreements.
+The actual counting of inventory will be performed by a mutually agreed upon party of the incoming and outgoing managers and the BEP staff.
+Upon completion of inventory and assignment of cost values to each item, the BEP Coordinator will sign the inventory sheets certifying their accuracy. In addition, a statement will be placed on the inventory and signed by both licensed managers or their representatives, attesting that they  agree with both the counts and the prices assigned to those counts. This becomes the final agreed upon inventory. A copy of the original signature inventory will be given to both licensed managers.
+It will be the responsibility of the BEP staff to:
+Prepare a legible final inventory based on the inventory attested to by both outgoing and incoming licensed managers or their representatives as being true and correct.
+Within ten days, provide a copy of the final inventory to both the incoming and outgoing licensed managers; place a copy in each of their personnel files and the facility file.
+At times, final inventory amounts will substantially differ from starting inventory amounts. In the event the final inventory amount is lower than the starting inventory amount, BEP staff will prepare and forward to the outgoing licensed manager for payment to the BEP within 14 days from date of invoice, unless BEP staff agree upon other arrangements. In the event the final inventory amount is higher than the starting inventory, BEP staff will process appropriate paperwork within 14 days of final inventories being signed and request from the finance office a check issued for the difference to the outgoing manager.
+Restocking Merchandise
+After the division has provided the original stock of merchandise, it is the responsibility of the licensed manager to purchase and maintain a balanced stock of merchandise and supplies equal to at least that originally provided. The licensed manager should stock an adequate variety of merchandise to meet customer demand.
+Note: Licensed managers, after obtaining written approval from the BEP coordinator, will not be responsible to maintain initial inventory value if circumstances have caused the facility to change, i.e., population drop, closing a shift, etc. At the time written approval is obtained, it will be determined how to handle the cost involved in the inventory change.
+Credit Purchases Prohibited
+Normally, a licensed manager is not authorized to purchase merchandise or supplies on credit. In an unusual situation where the enterprise can only be conducted by purchasing merchandise or supplies on an open account, credit purchases may be made with prior written authorization from the BEP coordinator. Each licensed manager must have on file, at all times, a current list of open accounts showing credit limits. The division has no liability under such credit accounts.
+Quality of Merchandise
+All merchandise offered for sale in any facility must meet high standards of quality. Whether the merchandise is prepackaged or prepared in the facility, its quality must conform to reasonable, commercial standards. Stale, outdated, or damaged merchandise may not be offered for sale unless the merchandise is clearly shown to be stale, outdated, or damaged, and is sold at a reduced price.
+Inspection of Merchandise
+The BEP staff will periodically inspect all merchandise offered for sale through the facility for adequate stock levels, sufficient variety and quality, and will direct the licensed manager to take corrective action as required.
+Replacement of Lost Merchandise
+Merchandise and supplies lost, damaged or destroyed through natural disaster, such as flood, earthquake or other act of God, except where the licensed manager is clearly at fault in failing to protect merchandise or when merchandise replacement is covered by any insurance policy, will be replaced by the division subject to the availability of funds that are not federal funds or used to draw down federal funds. Mechanical failure of a freezer, refrigerator, or similar appliance, as well as loss of electricity resulting from  anything other than a natural disaster, is not considered an act of God, and will not be replaced by the division.
+Exclusions
+The manager is responsible for the first $100 of any loss.
+Cash will not be replaced regardless of the cause or amount of the loss.
+Procedure for Reimbursement of Loss
+Licensed managers must submit itemized inventory with current wholesale pricing of merchandise lost.
+Licensed manager must provide a written explanation of the loss.
+BEP staff must verify the loss.
+Reimbursement will be made in product of equal or greater value than the loss.
+Pricing of Merchandise
+As a general rule, the prices charged will be based on current fair market value. It will be the responsibility of the licensed manager to determine correct pricing for their facility.  If pricing established by the licensed manager is inappropriate, the BEP coordinator has final authority to establish pricing. If the licensed manager feels the established price is unreasonable, he/she may, without prejudice, appeal the disputed price to the program coordinator in writing. After consulting with the director and other BEP staff, the program coordinator will make a final determination.
+Review of Prices
+The BEP staff and licensed manager will review prices semi-annually, and on an emergency basis as the licensed manager requests. At that time, all necessary price adjustments will be made with a view toward maintaining fair and equitable prices as well as a just return for the licensed manager. In addition, changing trends and forecasted wholesale costs will be taken into consideration when making any price adjustments.
+Price Changes
+Prices should be changed according to good business practices or when there is a significant change in the cost of operation and/or products sold. The BEP staff and the host, as applicable, must approve price changes in advance. At least one week prior to any price increase, the licensed manager must post a notice in a conspicuous location advising of the pending price increase.
+SECTION 8 - SALES AND EMPLOYEE TAX INFORMATION
+It is the responsibility of each licensed manager to keep their sales tax and employee tax remittances current according to rules issued by the state tax commission, as well as any federal tax requirements.
+Tax Payments
+A copy of all tax payments and accompanying report forms must be forwarded to the division with the monthly facility report for the first twelve months of a manager’s initial assignment.
+Failure to Meet Payment Schedule
+Failure to comply with all tax payment requirements may result in a revocation of license.
+SECTION 9 - MONTHLY REPORTING/SET-ASIDE FEES
+A set-aside fee of 10% will be collected from the net proceeds of each facility. The fee schedule of funds to be set-aside will be reviewed by the division and the vendors committee periodically and may be revised if determined advisable and in the best interest of the program. All sales of product, including catering, book sales, gift shows, etc. that are generated from the BEP facility will be included in the sales amount on the monthly report.
+Note: The division strongly encourages the use of a professional accounting person or firm.
+Purpose of Set-Aside Fees
+The division will set-aside or cause to be set-aside from the net proceeds of the operation of the BEP facilities’ funds for the following purposes:
+Maintenance and replacement of equipment
+Purchase of new equipment
+Management services
+Retirement or pension benefits, health insurance contributions, and provision for paid sick leave and vacation time. Specific benefits must be determined by a majority vote of active licensed managers.
+Method of Computing Net Proceeds
+Costs, which may be deducted from net proceeds, are:  cost of merchandise sold, wages paid to employees, payroll taxes and miscellaneous operating expenses.
+The following are the only authorized miscellaneous operating expenses:
+Discretionary Miscellaneous Expenses - i.e., advertising, promotions, etc., not to exceed ½ of 1 percent of monthly net sales or $25, whichever is greater. In special circumstances, through prior negotiation with BEP staff, an increased amount for advertising may be allowed. All expenses must be documented with invoices and must be allowable business expenses in accordance with IRS regulations.
+Rent/Utilities - The total amount of rent/utilities for the report period. Only rent/utilities authorized in the permit or contract may be listed.
+Business Tax, License and Permits - The total amount paid during the report period.
+Telephone - The total amount expended for telephone services for the report period. Only telephone costs directly related to the operation of the facility are allowed.
+Facility Liability Insurance - The amount paid during the report period. Only deductions for liability, property damage, and fire insurance provided under the policy obtained for the BEP facility will be allowed. The division requires a copy of policy or certificate of coverage on file for expense to be allowed.
+Workers’ Compensation Insurance - The amount paid by the licensed manager for the report period. The division requires a copy of policy or certificate of coverage on file for expenses to be allowed.
+Employee Hospitalization/Health Insurance - The amount paid for all eligible employees during the report period.
+Employee Retirement Contributions - The amount paid during the report period. Must be IRS approved plans and not for managers or dependents.
+Cleaning Materials, Linen - The amount paid for laundry, linen, cleaning rags, soaps, cleaning compounds, brooms, mops, brushes, etc., during the report period.
+Janitorial Service - The amount paid during the report period.
+Bookkeeping/Accounting - The amount paid according to prevailing rates for accounting services relating to the vending facility operation for the report period. The BEP management will set the rate after consulting with the vendors committee representative.
+Trash Removal - The total amount paid for trash removal and disposal service during the report period.
+Repairs and Maintenance - Total amount paid for repairs and maintenance of equipment during the report period.
+Office Supplies - The amount paid for office supplies to be used at the facility.
+Bank Charges - Normal monthly bank charges for the business. Any charges related to insufficient funds on checks issued by the business are not an allowed deduction.
+Exterminator/Pest Control Services - The amount paid during the report period.
+Vehicle Costs - Vehicles used solely for the business may be itemized in deductions or may be deducted by mileage only. Personal vehicles used for business purposes will be deducted at the standard mileage rate as allowed by the IRS.
+Equipment Purchases - For equipment purchases to be allowed as a deduction, the licensed manager must receive approval from BEP staff prior to that purchase.
+Managers will be required to submit, along with their monthly report, copies of the related tax forms for sales tax and employee related payroll taxes due and paid during the reporting period for the first twelve months that they operate a business. BEP reserves the right to request copies of canceled checks or completed tax forms if any questions arise.
+Monthly reports will be completed as of the last business day of each month. The report must be postmarked by or delivered to the BEP no later than the 25th day of the next month. Reports will be reviewed, and any necessary error or omissions reports will be sent to the licensed manager within 10 business days of receipt of the report and must be acknowledged with a read receipt by the licensed manager within 24 hours. Amended reports must be returned to the BEP within five business days of receipt by the licensed manager.
+Licensed managers are not allowed to issue a payroll check to themselves, unless they are incorporated or are using a staffing company to issue payroll and are signed on as an employee of that staffing company. If a licensed manager does receive a paycheck, the amount of that check is not allowed to be deducted under payroll expenses, and is subject to set-aside as it is part of the net proceeds. If a licensed manager takes a draw, they must follow all IRS regulations and cannot deduct as any type of business expense.
+Financial information for locations or buildings that are temporarily assigned, or third party assigned will be completed on a separate monthly report form for the duration of the temporary status. This information will be available for review by the licensed managers only.
+Method of Payment
+The set-aside fee payment is to be included with the monthly report of facility operations and must be submitted to the BEP no later than the 25th day of the month. Other expenses such as equipment repair costs, back-payments or loan payments (based on a fully executed agreement between the program coordinator and the licensed manager), etc., will be paid at the same time by separate check or money order and will be clearly marked to show the purpose of payment. Payment may be made by cashier’s check, bank draft, money order or personal check made payable to the BEP. Cash payments will not be accepted. A manager’s personal check returned for insufficient funds must be replaced with a cashier’s check or money order within three working days after notification. A second occurrence of receiving a bad check within a six-month period will result in the division no longer accepting the manager’s personal checks. Instead, the division will require all payments to be made by either cashier’s check or money order for twelve months. Any licensed manager who fails to submit the set-aside fee payment by the 25th day of the month will be considered late. Monthly statements of facility operations and set-aside payments received after the 25th day of the month will require the payment of a penalty of 5 percent of the amount of the set- aside fee due in addition to the normally calculated amount of set-aside due. Any other expenses due, along with the monthly statement of facility operation such as equipment
+repair costs, back-payments or loan payments (based on a fully executed agreement between the program coordinator and the licensed manager), received after the 25th day of the month will be subject to an additional payment of a penalty of 5% of the amount due.
+Audit Review of Funds
+Detailed records will be kept by the division on all collections and expenditures made possible by the set-aside fees. These records are subject to regular review by state and federal auditors, as well as the vendors committee.
+Access to Financial Information
+Every licensed manager may request access to all relevant division financial data concerning the operation of the BEP, so long as such disclosure does not violate applicable federal or state laws pertaining to the disclosure of confidential information. Insofar as is practical, this information will be made available in an accessible format, and, upon request, an appropriate staff member will be available to interpret the financial data.
+Division staff and other authorized agencies (such as; the Internal Revenue Service, State Tax Commission and Labor Commission) will from time to time spot-audit licensed managers on a random basis, but at least once per fiscal year. All licensed managers’ record of sales, purchases, expenses, employees’ salaries, etc., will be made available to the division auditors upon request. All facility business transaction records, including receipts, vouchers, payroll, sales, and tax records, etc., will be maintained for a minimum of seven years from December 31 of the year they were created, to coincide with IRS regulations.
+Year-End Set-Aside Reconciliation
+Each Federal fiscal year, after all monthly reports and set-aside payments for the month of September are received and reviewed by the BEP; an audit of each facility’s set-aside payments for the fiscal year will be performed by BEP and division staff, as appropriate. If the amount paid for the year differs from the amount due, a notice detailing the difference will be issued to the licensed manager of the facility. If an overpayment has occurred, a check will be issued to the licensed manager refunding the amount overpaid. If underpayment has occurred, an invoice detailing the amount due to the BEP will be forwarded to the licensed manager. In either case, payment will be due within 30 days from the date of invoice.
+Note: Overpayment only becomes an issue when facilities are run at a loss periodically. It is the licensed manager’s responsibility to take all necessary steps to ensure that their facility runs at a profit.
+SECTION 10 - DUTIES AND RESPONSIBILITIES OF LICENSED MANAGERS
+General Requirements
+To perform to the best of their abilities, the necessary duties in connection with the operation of the BEP facility in accordance with the divisions’ rules and regulations, terms of the managers’ agreement, the policies and procedures of the BEP, and all applicable federal, state and local law.
+To cooperate with duly authorized representatives of the division in connection with their official responsibilities under the program.
+To operate the facility in accordance with all applicable health laws and regulations, safety regulations and other Federal, State, county and municipalities laws and regulations relevant to the facility.
+To make every possible effort to run the facility at a profit. If a facility is not making a profit and the licensed manager is unable to determine and implement the actions necessary to become profitable, it is the licensed manager’s responsibility to schedule a meeting with the BEP coordinator to review the circumstances. The BEP coordinator will work with the licensed manager to put together a 60-day plan of action to remedy the situation. If the licensed manager fails to follow the plan, they will be subject to disciplinary action. If it is determined that due to uncontrollable circumstances the facility is unable to be operated at a profit, the program coordinator will take into consideration terminating the facility as a BEP operation. If the facility is terminated, the licensed manager who was operating it will be eligible to apply for other facilities as they become available.
+To maintain and furnish such reports and records as this manual may require.
+Take no action that would jeopardize the right, title, and interest of the BEP facility, its equipment and the lease or agreement with the management of the property.
+To maintain a professional appearance, grooming and behavior in compliance with all health and safety regulations such as: Clean personal hygiene to prevent transmission of foodborne disease
+Effectively Washing hands and exposed portions of their arms before and after preparing foods
+Food employees shall wear clean outer clothing to prevent contamination of food, equipment, utensils, linens, and single service and single-use articles.
+To maintain a commercial business account and make business deposits to the bank in a timely manner to avoid maintaining large sums of money in the facility. To assure that these accounts are maintained in good order. That monthly statements are reconciled within a reasonable period to allow for correction of any errors, and sufficient funds are kept in the account to avoid checks being returned for insufficient funds. Exceptions must be approved in writing by the program coordinator.
+To pay on delivery for all merchandise and avoid overdue payments. A licensed manager may establish a 30-day deferred payment account under the following terms and conditions:
+The licensed manager must clearly state in writing to the supplier and the BEP staff that the 30-day account is the manager’s sole responsibility, and that it is to be established only upon their personal credit record and references.
+Any licensed manager failing to pay a supplier promptly when payment is due will be subject to disciplinary action.
+Any licensed manager rendering a worthless check will be subject to disciplinary action.
+Prior to leaving a facility or obtaining a new facility, the licensed manager must provide a list of debts owed, and proof of current payment for each account. A licensed manager will not be allowed to make facility additions or transfers until all debts are paid in full. Any exceptions to this must be approved in writing by the program coordinator.
+Obtain and maintain in force, as an expense to the facility, the division-required public liability and products liability insurance, with limits as required by the division.
+Such insurance will name the licensee and the state of Utah as insured and host.
+The licensed manager must report to the BEP staff any claims or suits, which may be brought against them due to any accident or incident at their facility as soon as the licensed manager becomes aware. This requirement is in addition to the manager’s duty to report such information to the insurance carrier.
+Employ  enough workers to ensure an efficient operation of the facility and to provide adequate service to the customers.
+Obtain and maintain in force, as required by state law, workers compensation insurance.
+Furnish the BEP with the current email and physical address to send correspondence and promptly advise the BEP of any changes in that address. The licensed manager must also provide their business telephone number.
+Apply to appropriate authority for required licenses, permits and other authorization. The licensed manager agrees to keep all such licenses, permits and other authorization current for their BEP facility, including all required
+health department inspections. The licensed manager will forward a copy of all health department inspections to the BEP staff for inclusion in the facility file.
+Sign and abide by the agreement between the division and the licensed manager for the operation of a vending facility.
+Take appropriate actions to promptly correct all deficiencies noted on the errors and omissions report prepared by the BEP staff after review of the previous month’s business operations report.
+Perform regular monthly inventories.
+Follow all terms of the contract.
+Employee Hiring Practices
+Licensed managers are required to follow employee hiring practices as required by State and Federal law and provide all necessary training for their staff.
+Employees will not be paid more than the standard pay rate according to fair market value for the job they were hired for and /or perform.
+Employees will only be paid for actual hours worked. In the event an employee is hired in a salaried position, they must work and be paid in accordance with program policies and procedures.
+Prior to hiring or promoting family members, licensed managers must request and receive written approval for the individual to work in a specific position from the program coordinator.
+Family members will be held to the same performance criteria as non-family member employees.
+If the licensed manager does not follow the rules and regulations regarding these issues, the program coordinator reserves the right to request release of employees, including family members, from BEP facility staff.
+Manager Hours at Facility
+Licensed managers are required to be present and working at their business locations five days per week for at least 20 hours to ensure excellent service, food quality, cleanliness, proper profit margins and to fulfill the intent of the Randolph Sheppard Act. The program coordinator, with a written explanation, may make exceptions in certain circumstances.
+If it is determined that a location/route is experiencing lower sales or profit due to lack of attention by the licensed manager, the licensed manager will be required to be present additional hours per week.
+Notify the BEP Coordinator when leaving the facility for extended periods in case of emergency.
+Long-term illness - In the event of long-term illness of more than 3 months, each situation will be evaluated on a case-by-case basis by the BEP coordinator, and the vendors committee.
+SECTION 11 - MANAGEMENT SERVICES
+The division recognizes that effective management services are contingent upon the establishment and maintenance of active working relationships between the BEP staff, licensed managers and all who are in any way connected to the program.
+Supervisory Services
+BEP personnel including will provide each licensed manager with regular and systematic supervisory services:
+Explanation of the BEP procedures, policies, and standards.
+Recommendations on ways in which the facility can be more profitable for the licensed manager.
+Techniques to develop positive relationships with customers, employees and building management.
+Possible solutions to specific problems recognized by the licensed manager or brought to the manager’s attention by BEP staff or facility building management.
+Additional education to enhance each licensed manager’s opportunities for upward mobility.
+Frequency of Supervisory Site Visits
+BEP Coordinator will perform a risk assessment on each licensed manager and conduct supervisory and inspection visits to at least one facility per licensed manager every year. Extra emphasis will be placed on assisting licensed managers where business shows marginal performance with net profits less than the facility’s potential. The length of the supervisory visit will be of adequate duration to determine any deficiencies which may exist in the operation of the facility and to advise the licensed manager of such deficiencies and of any operational changes which the BEP staff considers of benefit.
+When necessary, the BEP staff may participate in management of the facility for such time as may be required to obtain adequate insight into problems that are not readily evident in the facility. Each time the BEP staff visits a facility, a facility visitation report will be completed, summarizing a review of the visit, condition of equipment, quality of food and service, specific recommendations of the BEP representative and comments from the licensed manager. This form will be signed by the BEP representative and the licensed manager or their representative.  If the licensed manager or their representative are not available at the time of the visit, the form will be completed by the BEP representative and reviewed either by phone or in person with the licensed manager. A copy of the form will be provided to the licensed manager for their records, and the original will be placed in the facility file.
+Specific Responsibilities of BEP Staff Regarding Supervisory Visits
+During supervisory visits, the BEP staff is required to observe and to ensure the following for all BEP facilities:
+Enterprises are operated in compliance with all applicable laws.
+Any employees hired by the licensed manager have been employed in accordance with program policies and procedures.
+There is compliance with all conditions governing the issuance of the manager’s license.
+The merchandise sold is of acceptable quality and offered for sale at competitive prices.
+Personal appearance and grooming standards of all persons associated with the facility must meet the blind vendors company policies and all  required State and Federal health and safety regulations.
+The manner of serving customers is satisfactory.
+Housekeeping conditions are satisfactory, including sanitation, adequacy of stock, conditions of storage, display of merchandise and conditions of refrigerators and other equipment.
+In the case of vending machines, a satisfactory method of providing refunds has been implemented.
+Vending machines are clean, well-stocked, priced correctly, and in good operating condition.
+There is an understanding of and compliance with all rules and regulations of the program. The BEP staff will ascertain that the licensed manager has this understanding by periodically reviewing and discussing the policies and regulations of the program with the licensed manager and calling to their attention any practices that may be in violation of the policies and regulation.
+Scope of Supervisory Visits
+The BEP staff may inquire into any aspect relevant to the facility. The BEP staff may inventory or audit the facility without notice.
+SECTION 12 - STATE COMMITTEE OF BLIND VENDORS
+The division will provide for the biennial election of a state committee of blind vendors called the vendors committee, which, to the extent possible, will be fully representative of all blind licensed vendors in the state program based on geography and vending facility type. Blind vendors will not be charged a due or be required to pay a fee to participate on the committee.
+Responsibilities of Vendors Committee
+Actively participate with the division in major administrative, policy and program development decisions affecting the overall administration of the State’s vending facility program,
+Receive and transmit to the division grievances at the request of blind vendors and serve as advocates for such vendors in connection with such grievances,
+Actively participate with the division in the development and administration of a state system for the transfer and promotion of blind vendors,
+Actively participate with the division in the development of training and retraining programs for blind vendors,
+Sponsor, with the assistance of the division, meetings and instructional conferences for blind vendors within the State,
+Establish and operate within bylaws consistent with federal and state laws, which will include the following:
+The terms and conditions pertaining to the election and function of vendor delegates,
+The organization and operation of the vendors committee and subcommittees, including communication procedures,
+The role of the vendors committee in initiating matters for consideration by BEP,
+Statement that the division has the ultimate responsibility for the administration of the state vending facilities program,
+The number and place of regular meetings.
+SECTION 13 - UNSATISFACTORY OPERATION OF A FACILITY
+It is the responsibility of the division to protect from abuse the states’ interest, as well as the interests of all licensed managers throughout the State. The following disciplinary actions and procedures are in place to handle situations when a licensed manager refuses to follow rules, regulations, or specified procedures.
+Probation
+A licensed manager who is not meeting all of the requirements or qualifications set forth in these rules and regulations, or a licensed manager who is not operating their facility in a proper manner, but is not so flagrantly violating program rules and regulations that immediate removal from the facility is appropriate, may be placed on probation.
+Probation Procedure
+Any licensed manager who violates the program rules and regulations may be placed on probation. BEP staff will provide and read a probation letter to the licensed manager.
+The program coordinator and the licensed manager will then sign the letter. A copy will be provided to the licensed manager and the BEP coordinator will maintain a copy in the licensed manager’s file. The period of probation will be used to focus on the specific problem areas and improve the manager’s performance. If proper results are achieved, the licensed manager will be removed from probation. If improvement is not achieved, revocation of the managers’ facility license may become necessary. A copy of the probation letter will be mailed to the vendors committee.
+Content of Probation Letter
+The letter will clarify by reference to specific sections of the manual, the violation(s) which prompted the probation.
+The letter will clearly state the terms of the probation including the length of the probationary period, the remedial action required and the consequences of failure to take remedial action.
+The letter provided in the accessible format of the vendor’s choice, will end with a statement indicating the letter has been read and understood by the licensed manager, followed by a space for their signature, the BEP staff’s signature, and the date. This acknowledgment does not imply that the licensed manager agrees with the charges, but that they understand the terms of their probation. Refusal to sign does not invalidate the letter or the probation.
+Length of Probation
+Probationary periods will usually be 30 to 90 days, at the discretion of the BEP coordinator, but may be longer or shorter as circumstances warrant. The exact period of probation will be specified in the probationary letter.
+Consequences of Probation
+If satisfactory remedial action has been taken, the BEP coordinator can lift the probation.
+If remedial actions are unsatisfactory, insufficient, or lacking entirely, the BEP coordinator may take one of more of the following actions:
+Extend the probationary period,
+Removal the manager from the existing facility and, under certain conditions, suggest the manager apply for a more suitable facility,
+Revoke the managers’ facility license.
+Documentation
+All actions involving probation of a licensed manager will be carefully recorded and a copy filed with the BEP coordinator.
+Revocation of Facility License
+Revocation will usually be preceded by a probationary period during which every effort will be made to encourage the licensed manager to correct noted deficiencies; however, in extenuating circumstances, the facility license may be revoked without probation. If a facility license is revoked, the licensed manager will no longer be allowed to operate the facility. The facility will then go into the bid pool, and the licensed manager will be barred from bidding on any facility until the corrective action plan of retraining has been completed satisfactorily.
+Grounds for Revocation of Facility License
+A managers’ facility license may be revoked in accordance with the terms and conditions of this document, for one or more of the following reasons:
+The licensed manager is operating the facility in such a manner that the BEP’s contract, license, or agreement with building management for that facility is endangered.
+The licensed manager has defrauded any agency of the government, including the division, or any supplier, of money due.
+The licensed manager operates the facility at a loss for three consecutive months; after all possible avenues have been taken by the BEP staff working with the manager to correct the situation.
+The licensed manager refuses to follow instructions given to them by the BEP coordinator, or the licensed manager deliberately operates the facility in flagrant violation of any of the rules and regulations of the program.
+The licensed manager indulges in or operates the facility under the influence of alcohol or illegal drugs.
+The licensed manager fails to open their facility, according to the facility agreement without prior approval of BEP staff at any time.
+The licensed manager is 30 days delinquent in making payments of their set- aside, or other amounts due to the BEP.
+The licensed manager is delinquent in the payment of any taxes, fees, or assessments to any governmental agency as required by law.
+The licensed manager is delinquent in the payment of regularly scheduled payroll.
+The licensed manager initiates a physical confrontation with any customer, employee, BEP staff member, or any other individual.
+The licensed manager is verbally abusive with any customer, employee, BEP staff member, or any other individual.
+The licensed manager fails to comply with ongoing training requirements.
+The licensed manager fails to keep adequate business records as required by program policies and procedures.
+Should the licensed manager be dissatisfied with any actions arising from the operation or administration of the BEP, they have the right to request an administrative review and fair hearing as detailed in Section 14.
+Termination of Manager’s License
+If a licensed manager has had their facility license removed and fails to satisfactorily complete the correction action plan, they may be subject to termination of their manager’s license resulting in removal from BEP.
+Procedure Prior to Terminating License
+When the BEP coordinator has made an initial determination, after consultation with the vendors committee and other division staff, that cause may exist for the termination of a manager’s license, the coordinator will notify the licensed manager. If oral
+notification is given, written notice will follow immediately. The letter will give at least the following information:
+Specific reasons for the proposed termination, citing appropriate section(s) of the rules and regulation.
+Instructions that the licensed manager has three business days to discuss the proposed termination with the program coordinator and present any information that may have bearing on the allegations. This meeting or conversation between the licensed manager and the BEP coordinator is an informal review of the allegations, and is to ensure that the program coordinator is fully informed before deciding to begin the process to terminate a manager’s license.
+The letter will be provided in the accessible format preferred by the vendor, hand delivered by BEP staff or sent by certified mail, return receipt requested. A copy of the letter will be placed in the licensed manager’s permanent file.
+Procedure to Terminate License
+If it is determined after a meeting with the licensed manager that the termination of a managers’ license is in the best interest of the program, the BEP coordinator will recommend termination to the division director. If the director concurs with the recommendation, the BEP coordinator will notify the licensed manager. If oral notification is given, written notification will follow immediately. The letter will give at least the following information:
+Date of termination, which will be determined after all due process is completed.
+Specific reasons for the termination, citing appropriate sections of the rules and regulations,
+Any action required of the licensed manager,
+Appeal procedures, and
+Procedure to apply for division services for which the manager may be eligible.
+A copy of the letter will be placed in the manager’s file. The termination of the license dismisses the licensed manager from any facility to which they may be assigned. It does not relieve the licensed manager of any financial obligations incurred by them in the operation of that facility. It does not in any way affect the individual’s eligibility for other division services.
+Appeal Procedure
+Any participant in the BEP whose license has been terminated has the right to appeal such action, as prescribed by procedures in Section 14.
+SECTION 14 - PROCEDURE FOR RESOLUTION OF MANAGER’S DISSATISFACTION
+If a licensed manager is dissatisfied in any way with the divisions’ actions arising from the operation or administration of the BEP, the procedures and mechanisms contained in this section exist and should be utilized to obtain a fair and impartial resolution of differences.
+Informal Administrative Review
+The purpose of an administrative review is to provide an informal procedure through which the division provides a licensed manager or their representative an opportunity to express and seek remedy for dissatisfactions with the BEP. The division will make every effort to resolve licensed managers’ complaints at the informal administrative review level, since the resolution of disputes at the earliest possible time is mutually advantageous to all parties concerned. Such efforts should not, however, discourage or interfere with licensed managers exercising their rights to pursue the formal full evidentiary hearing process.
+The division has adopted the following administrative review procedures, which will afford licensed managers and the division an informal mechanism for resolving issues of dispute:
+A licensed manager and their designee (who may be a member of the vendors committee) may request in writing, within 15 working days of the occurrence of the disputed action, administrative review of the division’s action against them arising out of the operation or administration of the BEP. The division’s director will appoint a member of the staff of the division who has not participated in the division action in question. This individual will preside as the review/hearing officer.
+The administrative review will be held at a time and place convenient to the licensed manager requesting such review. The administrative review will be held during regular division working hours. An administrative review will be conducted within 15 working days of receipt by the division of such written request.
+Upon request of the manager, the division will arrange for transportation, reader, or other communication services, if needed.
+The staff member conducting the informal administrative review will determine whether the action arising out of the operation or administration of the BEP against the licensed manager was an action the BEP staff was authorized to take, and whether the taking of the action violated any rule or regulation. The administrative review is not conducted so the staff member will substitute his discretion for that of the BEP. It is conducted to determine whether the BEP has violated a rule, regulation, or law.
+The staff member will prepare a brief finding of fact, including conclusions based upon those findings and a recommendation. The conclusion will be
+whether the BEP has violated a rule, regulation, or law. The recommendation will be either that no action should be taken because no rule, regulation or law has been violated, or that a particular action should be taken because a rule, regulation or law has been violated. This recommendation will be sent to the division director who will review the recommendation and make their own determination of the situation. The division director will then inform the licensed manager of their decision within 15 working days of receipt of the recommendation.
+Documentation as to written requests for administrative review and actions and decisions resulting from that review will be maintained as a part of the official records of the administrative review process.
+When an informal administrative review does not resolve a dispute to the satisfaction of a licensed manager, such licensed manager may request a full evidentiary hearing.
+Full Evidentiary Hearing
+When a licensed manager is dissatisfied with division actions arising from the operation or administration of the BEP, such licensed manager may file a complaint with the division requesting a full evidentiary hearing. Such a complaint should identify all  disputed issues of fact to be resolved in an evidentiary hearing. Adherence of the division to its own policy as set forth in the application for designation as a state licensing agency and consistency of the application and the division’s rules and regulations are example of issues of fact which, if disputed, can be resolved through the introduction of documents and examination and cross-examination of witnesses at an evidentiary hearing. The division has adopted the following procedures to provide an aggrieved licensed manager with a full evidentiary hearing.
+Licensed managers will be informed in writing of their rights and the procedures to be followed in obtaining a full evidentiary hearing when they are licensed to operate a facility.
+If a licensed manager requests a full evidentiary hearing, such request must be made within 15 working days after an adverse decision based on an administrative review, or in the absence of an administrative review, within 15 working days of the occurrence of the action with which the licensed manager is dissatisfied.
+A licensed manager must request a full evidentiary hearing directly to the division director in writing either delivered personally, by certified mail, return receipt requested, email, or through the vendors committee.
+A licensed manager is entitled to legal counsel or other representation in a full evidentiary hearing. A licensed manager may wish to obtain their own counsel at their own expense or to take advantage of any legal services available in the community at little or no cost, such as legal aid society, neighborhood legal
+services, or any other sources able and willing to provide representation for such licensed managers. If a licensed manager is unable to obtain legal counsel at their own expense, the division may elect, subject to availability of non-match funds, to pay part or all  the costs of such legal  service.
+Upon request of the manager, the division will arrange for reader or other communication services, if needed. Transportation costs and travel expenses reimbursable in accordance with state employee travel procedures will be provided to the licensed manager during the evidentiary hearing if the location is in a city other than the legal residence of the licensed manager.
+The hearing will be held at a time and place convenient and accessible to the licensed manager during the evidentiary hearing. A hearing will be held during regular division working hours at the division offices. The division, within 15 working days of its receipt of the request, will schedule the hearing, unless the division and the licensed manager mutually, in writing, agree to some other time. The licensed manager will be notified in writing of the time and place for the hearing and of their right to be represented by legal or other counsel. The licensed manager will be provided a copy of the hearing procedures and other relevant information necessary to prepare their case for the hearing.
+The presiding officer at the hearing will be an impartial and qualified official who is not involved either with the division action which is at issue in the hearing or with the administration or operation of the BEP. The division director will appoint the presiding officer. Note: This will usually be an administrative law judge within the Department of Workforce Services legal division.
+The presiding officer will conduct a full evidentiary hearing, avoid delay, maintain order, and make sufficient record of the proceedings for a full and true disclosure of the facts and issues. To accomplish these ends, the presiding officer will have all powers authorized by law and may make all procedural and evidentiary rulings necessary for the conduct of the hearing. The hearing will be open to the public, unless the presiding officer, for good cause shown, determines otherwise.
+Both the licensed manager and the division are entitled to represent their case by oral or documented evidence, to submit rebuttal evidence, and to conduct such examination and cross-examination of witnesses as may be required for a full and true disclosure of all facts bearing on the issue.
+All papers and documents introduced into evidence at the hearing will be filed with the presiding officer and provided to the other party. All such documents and other evidence submitted will be open to examination by the parties and opportunities will be given to refute facts and arguments advanced on either side of the issues.
+A transcript will be made of the oral evidence and will be made available to the parties. The division will pay all transcript costs and will provide the licensed manager with a copy of the transcript.
+The transcript of testimony, exhibits, and all papers and documents filed in the hearing will constitute the exclusive record for decision.
+The decision of the presiding officer will address the issue of whether the BEP properly took the action of which the licensed manager complains. The presiding officer is not to substitute his discretion for that of the BEP; but is to determine whether the actions taken by the BEP were in violation of the agency policy, rule, regulation, or law. The recommendation of the presiding officer will contain findings of fact and conclusions with respect to each of the allegations raised by the licensed manager. The findings of fact should be sufficient to support the conclusion. The conclusion in each instance should be whether, based upon those facts found by the presiding officer, the division followed policies, rules, regulations, and law.
+Should the presiding officer find that actions taken by the division were outside of agency policy, rules, regulations or law, the decision will also set forth any remedial action necessary to correct the situation.
+The recommendation will be made within fifteen working days after the receipt of the official transcript. The recommendation will be delivered promptly to the director of the division.
+The director will review the recommendation of the presiding officer and the official transcript in making their decision. The director will mail their final decision in an accessible format preferred by the vendor to the licensed manager within fifteen days of receipt of the presiding officer’s recommendation.
+If a licensed manager is dissatisfied with the decision rendered after a full evidentiary hearing, they may request that an arbitration panel be convened by filing a complaint with the Secretary of Education.
+Arbitration
+A licensed manager dissatisfied with the decision rendered by the  Director who files a complaint with the Secretary will indicate consent by the licensed manager for the release of such information as is necessary to conduct the hearing of an ad hoc arbitration panel.
+The complaint must be filed in writing and will contain the following:
+The activity or portion of the operation of the BEP that was the original source of dispute. This should be the same as the complaint, which was the focus of the full evidentiary hearing.
+The date and place of the full evidentiary hearing.
+Decision rendered after the hearing, and any actions taken (a copy of the decision will be attached to the complaint.)
+The part of the decision or action that is causing the dissatisfaction and the reasons for the dissatisfaction.
+A statement from the licensed manager as to what remedy they would like.
+Upon receipt of a complaint filed by a licensed manager which meets the requirements established by the Secretary, the Secretary will convene an ad hoc arbitration panel which will give notice, conduct a hearing and render its decision which will be final and binding on the parties, except that such decision will be subject to appeal and review as a final agency action for the purpose of the provisions of 5 U.S. Code, Chapter 7.
+The arbitration panel convened by the Secretary to hear the grievance of the licensed manager will be composed of three members appointed as follows:
+One individual designated by the division,
+One individual designated by the licensed manager,
+One individual not employed by the division, who will be jointly designated by the other members of the panel, and who will serve as the chairperson of the panel.
+If either the division or the manager fails to designate a member of an arbitration panel, the Secretary will designate such a member on behalf of such party.
+The decision of an arbitration panel convened by the Secretary under this procedure will be a matter of public record and published in the federal register.
+The secretary will pay all reasonable costs of arbitration under this provision in accordance with a schedule of fees and expenses, which will be published in the federal register.
+SECTION 15 - LICENSED MANAGER BENEFITS
+Vacation Pay
+At the close of the fiscal Federal year, after receipt and review of the final monthly report for that fiscal year, licensed managers will be paid vacation benefits. The BEP coordinator, in conjunction with the vendors committee will set the yearly vacation benefit amount. If a licensed manager has not been active for the entire year, the amount of vacation pay will be prorated for the time they have been active.
+Retirement Benefits
+At the close of the federal fiscal year, after receipt and review of the final monthly report for that fiscal year, licensed managers will be paid a percentage of their total profits per year for retirement benefits. The BEP coordinator, in conjunction with the vendors committee will set the yearly retirement benefit percentage. This will be a lump sum payment directly to the licensed manager.
+Training Reimbursement
+A BEP licensed manager may receive reimbursement for BEP business-related training. The reimbursement can be given for items such as airfare, accommodations, conference fees, etc.  Reimbursement will not be given for food or entertainment expenses. The BEP coordinator, in conjunction with the vendors committee will set the yearly cap on the amount available for reimbursement. To receive reimbursement, the licensed manager must provide the BEP coordinator with a copy of the conference registration with a conference agenda or other documentation verifying attendance, along with receipts for any other related expenses being requested for reimbursement.
+Emergency Payments
+In an emergency  DSBVI may provide payments to licensed managers in the form of     reimbursement for operational expenses or product.  An emergency situation is defined as a natural disaster, a pandemic, or another situation in which the president of the United States has issued an order declaring a national emergency and/or the governor of the State of Utah has issued an executive order declaring a state of emergency.  The process to determine the amount provided is based on an inventory of outdated products, outstanding business expenses, and available funding.  All such payments will be made from state funds not used as match for Federal funds.
+SECTION 16 - CRITERIA TO ESTABLISH NEW FACILITIES
+General Criteria
+The BEP staff will conduct a thorough study of all potential new facilities. A report will be prepared on the facility for review by BEP staff and the vendors committee. The BEP coordinator will determine whether a facility will be economically feasible and in the best interest of the program. If it is determined that the facility will be an asset to the program, the BEP coordinator will proceed with negotiations with the property manager to establish a vending facility on that property. The BEP coordinator will maintain active communication with the vendors committee during the process to keep them advised of the status of the facility and any decisions made or action taken regarding that facility.
+The BEP staff will initiate requests for service, equipment, and initial merchandise stock as soon as it is mutually agreeable to all concerned parties that the facility will open on a predetermined date. A budget will be prepared to establish the new facility; any deviation from the budget must be approved in writing by the BEP coordinator.
+Establishment of Vending Routes
+It will be the responsibility of the BEP coordinator, in conjunction with BEP staff, to develop vending routes consisting of two or more vending locations, which have been found to meet the general criteria for establishment of a new facility. When building vending routes, BEP staff will  consider potential profitability and location. Upon completion of a potential route, it will be brought before the vendors committee for approval.
+A vending route may be set up temporarily as a third-party vending location to accrue funding to procure vending equipment for that facility. At such time that state- owned equipment is placed, the route will be put out to bid.
+Building Up of Existing Businesses
+It will be the responsibility of the BEP coordinator, in conjunction with other division staff, to determine if existing BEP businesses have sufficient opportunities for profitability. If it is determined that a facility does not have sufficient opportunity, it falls upon the BEP coordinator and staff to find additional facilities to attach to that business in order to provide the opportunity for a profitable business to the licensed manager of that facility/business. Prior to assignment, it will be brought before the vendors committee for approval.
+If it is determined that a business is not meeting the optimum profitability due to improper management, and/or is running at a loss, additional facilities will not be attached to compensate for the lack of income or that loss.
+Variance Permit
+Upon completion of the feasibility study on a potential BEP facility, if it is determined that the facility does not meet the minimum requirements for profitability or location, the BEP coordinator will issue a variance permit to that facility. The variance permit will be issued for the term of 1 year. Prior to the expiration date, the division will again review the facility. If the review shows that the installation of a licensed manager would be feasible and advantageous, the BEP staff will proceed with negotiations for the facility. If not feasible, the variance permit may be extended for another 1-year term.
+Should there be a material change in conditions before the expiration of the variance permit, the permit may be revoked by mutual consent of the state agency and the division.
+State, County and Municipal Facilities
+The establishment of state, county or municipal facilities will follow Utah Code Title 55 and state procurement policy.

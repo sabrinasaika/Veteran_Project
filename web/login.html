@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sign in · Veterans Employment Pathways Agent</title>
+  <link rel="stylesheet" href="/static/style.css">
+  <script src="/static/login.js" defer></script>
+</head>
+<body>
+  <main class="login">
+    <h1>Veterans Employment Pathways Agent</h1>
+    <p>Please sign in.</p>
+    <p id="login-error" class="error" role="alert" hidden></p>
+    <form method="post" action="/login" class="login-form">
+      <label for="username">Username</label>
+      <input id="username" name="username" type="text" autocomplete="username" required autofocus>
+      <label for="password">Password</label>
+      <input id="password" name="password" type="password" autocomplete="current-password" required>
+      <button type="submit" class="btn btn-primary">Sign in</button>
+    </form>
+  </main>
+</body>
+</html>

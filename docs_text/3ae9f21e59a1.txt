@@ -1,0 +1,1034 @@
+FILENAME: rsa-tac-24-05-pdf-084f5af8340b.pdf
+PATH: _raw/rsa.ed.gov/rsa-tac-24-05-pdf-084f5af8340b.pdf
+
+UNITED STATES DEPARTMENT OF EDUCATION 
+OFFICE OF SPECIAL EDUCATION AND REHABILITATIVE SERVICES 
+REHABILITATION SERVICES ADMINISTRATION 
+WASHINGTON, DC 20202-2800 
+ 
+TECHNICAL ASSISTANCE CIRCULAR 
+  RSA-TAC-24-05 
+DATE: August 9, 2024 
+ 
+ADDRESSEES: STATE VOCATIONAL REHABILITATION AGENCIES 
+ STATE REHABILITATION COUNCILS 
+AMERICAN INDIAN VOCATIONAL REHABILITATION SERVICES  
+  PROJECTS 
+ CLIENT ASSISTANCE PROGRAMS 
+ STATE DIRECTORS OF SPECIAL EDUCATION 
+ TECHNICAL ASSISTANCE CENTERS  
+ 
+SUBJECT:  Using Third-Party Cooperative Arrangements with Local Educational 
+Agencies for Providing Pre-Employment Transition Services to Students with 
+Disabilities under the VR Program  
+ 
+PURPOSE: 
+ 
+Since the 1960s, State vocational rehabilitation (VR) agencies and other State and local public 
+agencies serving individuals with disabilities have used “third party funding agreements,”
+1 
+currently referred to as “third-party cooperative arrangements” (TPCAs) under the VR program, 
+as a means of expanding the provision of VR services, establishing cooperation, improving 
+understanding between agencies, and financially expanding the VR program by providing 
+matching funds that otherwise might not be available. In addition, since the amendments to the 
+Rehabilitation Act of 1973 (Rehabilitation Act) made by the Workforce Innovation and 
+Opportunity Act, VR agencies have used such arrangements to expand and improve, in 
+coordination with local educational agencies (LEA),
+2 the provision, or arrangement, of pre-
+employment transition services to students with disabilities statewide.  
+ 
+TPCAs entered into with LEAs provide VR agencies the opportunity to expand and improve the 
+provision of pre-employment transition services for students with disabilities and enhance the 
+potential for using all of the State’s VR program funds by generating additional non-Federal 
+share from the public cooperating agencies. TPCAs for the provision of pre-employment 
+transition services provide students with disabilities with the information and opportunities 
+necessary to: (1) engage in early career exploration that empowers them to choose career 
+pathways consistent with their interests; (2) consider additional academic training during high 
+school, including career and technical education; pursue postsecondary education and vocational 
+ 
+1 The term “third party funding agreements” was used in the Comptroller General of the United States’ Report to the 
+Congress, dated April 4, 1978, “Third Party Funding Agreements: No Longer Appropriate for Serving the 
+Handicapped Through the Vocational Rehabilitation Program.”   
+2 VR agencies may enter into TPCAs with a variety of State or local public agencies (e.g., LEAs, county mental 
+health departments, community colleges or universities) to provide or arrange for the provision of VR services, 
+including pre-employment transition services (34 C.F.R. § 361.28(a)). While the general requirements for TPCAs 
+included in this Technical Assistance Circular are relevant to all such arrangements  with any State or local public 
+agency, this TAC focuses on those TPCAs with LEAs that provide pre-employment transition services to students 
+with disabilities. VR agencies interested in developing TPCAs for the provision of other purposes or with other State 
+or local agencies could contact their Rehabilitation Services Administration ( RSA) State liaison for further technical 
+assistance.
+
+2 
+training; and (3) ultimately achieve high-quality competitive integrated employment outcomes. 
+Furthermore, these arrangements can benefit VR agencies, LEAs, and students with disabilities 
+by: 
+ 
+• Assisting in the identification of students potentially eligible for the VR program in need 
+of pre-employment transition services through closer coordination; 
+• Identifying through collaboration the new or expanded VR services that would best meet 
+the pre-employment transition services needs of students with disabilities (i.e., both 
+students with disabilities eligible and potentially eligible for the VR program) served by 
+the VR agencies and LEAs; 
+• Using staff already familiar to the students to provide the services; 
+• Encouraging student participation by coordinating the best times and places to provide 
+services; and 
+• Coordinating the pre-employment transition services provided to the student with school 
+supports and other educational needs. 
+ 
+Because the statutory and regulatory requirements pertaining to the provision of pre-employment 
+transition services and the regulatory requirements for engaging in TPCAs are complex, the 
+Rehabilitation Services Administration (RSA) provides this technical assistance circular (TAC) 
+to assist VR agencies and LEAs in developing and implementing these cooperative arrangements 
+for the provision of the five pre-employment transition services to students with disabilities, 
+required by Section 113 of the Rehabilitation Act and 34 C.F.R. § 361.48(a).
+3 This TAC brings 
+together the technical assistance RSA has provided to individual VR agencies during monitoring 
+of the VR program and in response to specific inquiries, as well as that offered by RSA during 
+presentations at various conferences, for the benefit of all VR agencies and the LEAs with whom 
+they collaborate. 
+ 
+For reference purposes throughout this TAC, the LEA with whom the VR agency has entered 
+into a TPCA will be referred to as the “cooperating agency.” Additionally, the term third-party 
+cooperative arrangement will be referred to as either TPCA or “cooperative arrangement.” 
+ 
+TECHNICAL ASSISTANCE: 
+ 
+The regulations outlining the requirements for TPCAs are in 34 C.F.R. § 361.28.
+ A VR agency 
+may enter into a TPCA when providing or contracting for the provision of VR services, 
+including pre-employment transition services, with another State or local public agency4 that is 
+ 
+3 Although the pre-employment transition services identified in Section 113(d)(1) and (4) of the Rehabilitation Act 
+and 34 C.F.R. § 361.48(a)(4)(i) and (iv) (i.e., attending Individualized Education Program (IEP) meetings and 
+person-centered planning meetings with a student with a disability) could be provided by State or local public 
+agencies through TPCAs in accordance with 34 C.F.R. § 361.28(a) (because they are VR services provided to VR 
+program recipients), such services would not be appropriate to be provided by the LEA itself when it is providing 
+the pre-employment transition services under the TPCA on behalf of the VR agency. To be clear, under a TPCA, a 
+cooperating agency must provide VR services that are not ordinarily provided by the cooperating agency (34 C.F.R. 
+§ 361.28(a)(1)). IEP and person-centered planning meetings with students with disabilities are customarily provided 
+by LEAs and, thus, not services that can be provided by a LEA under a TPCA.  Because this TAC focuses solely on 
+those TPCAs with LEAs that provide pre-employment transition services, this TAC describes only the five 
+“required” pre-employment transition service activities as being allowable under the TPCA.  
+4 State agencies are those that are part of the organizational structure of a “State,” as defined in Section 7(34) of the 
+Rehabilitation Act and 34 C.F.R. § 361.5(c)(48); local public agencies are those that are part of “local government,” 
+as defined in 2 C.F.R. § 200.1.
+
+3 
+providing part or all of the non-Federal share (34 C.F.R. § 361.28(a)). In general, when a VR 
+agency enters into a TPCA, it must ensure— 
+ 
+1. The services provided by the cooperating agency are not the customary or typical 
+services provided by that agency but are new services that have a VR focus or existing 
+services that have been modified, adapted, expanded, or reconfigured to have a VR focus 
+(34 C.F.R. § 361.28(a)(1)
+); 
+2. The services provided by the cooperating agency are only available to applicants for, or 
+recipients of, VR services from the VR agency (34 C.F.R. § 361.28(a)(2))
+; 
+3. Program expenditures and staff providing services under the TPCA are under the 
+administrative supervision of the VR agency (34 C.F.R. § 361.28(a)(3)
+);  
+4. All requirements of the VR services portion of the Unified or Combined State Plan, 
+including a VR agency’s order of selection, apply to all services provided under the 
+TPCA (34 C.F.R. § 361.28(a)(4)
+);  
+5. A waiver of statewideness in accordance with 34 C.F.R. § 361.26  is obtained if the 
+services provided under the TPCA do not comply with the statewideness requirement in 
+34 C.F.R. § 361.25;  
+6. The non-Federal share meets the requirements in 34 C.F.R. § 361.28(c), which specifies 
+the types of non-Federal expenditures that VR agencies may use when implementing 
+TPCAs; and 
+7. Written policies and procedures governing the administration and provision of services 
+under a TPCA, as well as procedures for determining allowability of costs are 
+implemented (34 C.F.R. § 361.50 and 2 C.F.R. § 200.302(b)(7)). 
+ 
+The requirements above, like most of the core requirements described in this TAC, are relevant 
+to all TPCAs regardless of whether pre-employment transition services are among the VR 
+services provided through the cooperative arrangement. However, because many State VR 
+agencies have entered into TPCAs with LEAs to provide, or arrange for the provision of, pre-
+employment transition services to students with disabilities to expand the provision of these 
+services, thereby increasing the potential for satisfying the States’ Federal requirement to reserve 
+and expend at least 15 percent of their VR grant amounts
+5 for the provision of those services 
+pursuant to Section 110(d)(1) of the Rehabilitation Act, RSA highlights the use of TPCAs for 
+this purpose throughout this TAC. The following sections of this TAC explain how VR agencies 
+may ensure they satisfy the requirements of 34 C.F.R. § 361.28
+ for TPCAs, as well as statutory 
+and regulatory requirements specific to the provision of pre-employment transition services,6 
+when providing these services to students with disabilities and generating non-Federal share 
+through TPCAs. For organizational purposes, this information is presented in two topical areas – 
+Programmatic Considerations and Fiscal Considerations. The Programmatic and Fiscal 
+Considerations are subdivided by TPCA requirement and include questions for VR agencies to 
+consider and practical examples for use when assessing whether a TPCA satisfies the 
+requirements prior to engaging in such an arrangement. 
+ 
+ 
+5 For purposes of determining compliance with the percentage of funds required to be reserved for pre -employment 
+transition services, the State’s allotment is the lesser of – 1) the total Federal expenditures charged to the Federal 
+fiscal year (FFY) VR award(s); or 2) the total amount of Federal funds matched by the State. 
+6 The pre-employment transition services requirements described in this TAC for TPCAs are only applicable if the 
+TPCA is for the provision of these services. If the TPCA is for the provision of other VR services, certain 
+requirements described herein (e.g., those governing potentially eligible students and administrative costs) do not 
+apply to those TPCAs as they are requirements specific to the provision of pre -employment transition services.
+
+4 
+I. Programmatic Considerations: 
+ 
+A.  New or Modified Services with a VR Focus 
+ 
+Under 34 C.F.R. § 361.28(a)(1), the services provided through a TPCA by the cooperating 
+agency are not the customary or typical services provided by that cooperating agency, 
+thereby ensuring that VR funds do not supplant what the State is already required to provide. 
+In other words, the cooperating agency cannot use VR funds to pay for the cooperating 
+agency’s current program responsibilities. Instead, the cooperating agency must provide 
+services under a TPCA that are new services with a VR focus or existing services that have 
+been modified, adapted, expanded, or reconfigured to have a VR focus (34 C.F.R. § 
+361.28(a)(1)). For example, an LEA, as the cooperating agency under a TPCA, must provide 
+pre-employment transition services, e.g., work-based learning experiences, that it is not 
+offering already, or that represent modifications, adaptations, expansions, or reconfigurations 
+of an existing service it already offers for students with disabilities.  
+  
+Prior to entering into a TPCA with a State or local public agency, the VR agency should do 
+its own assessment of the services currently provided by the anticipated cooperating agency 
+and the services it will provide under the TPCA to determine whether they are new or 
+modified, adapted, expanded, or reconfigured, as required by 34 C.F.R. § 361.28(a)(1). The 
+VR agency should similarly assess existing TPCAs in the event such an assessment was not 
+done prior to implementation. To perform such an assessment, a VR agency would start with 
+an assessment of the scope of services (customary or typical) the cooperating agency 
+provides prior to the implementation of a TPCA and what new or modified, adapted, 
+expanded, or reconfigured services with a VR focus would benefit recipients served by the 
+cooperating agency under a TPCA. Although there is no requirement that this assessment be 
+done in writing, such documentation
+7 could benefit a State VR agency in the event questions 
+arise about whether any of the services provided under a TPCA are new or modified, 
+adapted, expanded, or reconfigured, thereby raising questions of allowability and allocability 
+of costs under the Federal cost principles in 2 C.F.R. §§ 200.403 through 200.405.  
+ 
+Questions: 
+ 
+The following questions may be helpful in determining whether a service is “new” or 
+“modified, adapted, expanded, or reconfigured” when considering entering into or reviewing 
+an existing TPCA for the provision of required pre-employment transition services. 
+ 
+1. What distinguishes the proposed required pre-employment transition services activities 
+under the TPCA from existing services provided by the LEA? Are the services new, 
+modified, expanded, adapted, or reconfigured to have a VR focus? 
+2. Does the TPCA specify the required pre-employment transition services activities to be 
+provided and ensure the LEA is responsible for providing the new, modified, expanded, 
+adapted, or reconfigured services as required by 34 C.F.R. § 361.28(a)? A TPCA that 
+clearly specifies the required pre-employment transition services activities to be provided 
+and the responsibility of the LEA for providing them will help to ensure the TPCA is 
+properly implemented. 
+3. Would the LEA staff perform the same job functions under the TPCA as they currently 
+perform, or, for an existing TPCA, are the LEA staff performing the same job functions 
+ 
+7 If a State VR agency documents its assessment of a TPCA, the VR agency should retain those records  in 
+accordance with 2 C.F.R. § 200.334.
+
+5 
+under the TPCA as they did prior to the TPCA? If so, that could indicate that the services 
+to be provided or that are currently provided under the TPCA do not meet the 
+requirement in 34 C.F.R. 361.28(a)(1) that the services be new or that existing services 
+have been or will be modified, adapted, expanded, or reconfigured to have a VR focus. 
+4. If the TPCA were discontinued, would the services provided through the TPCA still be 
+available to individuals? If so, this could suggest that the services provided through the 
+TPCA are not new, modified, expanded, adapted, or reconfigured to have a VR focus and 
+could raise questions of allowability of costs. 
+5. Is there a substantive difference between existing services and “new” or “modified, 
+adapted, expanded, or reconfigured” services, rather than just a name change? If only a 
+name change, this arrangement would likely not meet the requirements for a TPCA. 
+ 
+As explained in greater detail in the next section of this TAC, VR agencies may use TPCAs 
+to provide services only to applicants and recipients of VR services. Therefore, VR agencies 
+may use TPCAs with LEAs for pre-employment transition services to make available only 
+the five required activities described in Section 113(b) of the Rehabilitation Act and 34 
+C.F.R. § 361.48(a)(2). Unlike those required pre-employment transition services activities, 
+all of the authorized services and two of the coordination activities
+8 in Section 113(c) and (d) 
+of the Rehabilitation Act and 34 C.F.R. § 361.48(a)(3) and (4) are provided to or for the 
+benefit of VR and other agencies, as well as their staff, not to the students with disabilities 
+themselves. Instead, these activities are designed to improve or coordinate the transition of 
+students with disabilities from school to postsecondary education and competitive integrated 
+employment generally. In addition to those pre-employment transition services that can be 
+provided directly to students with disabilities, a VR agency also may use a TPCA to provide 
+those VR services listed in 34 C.F.R. § 361.48(b), such as transportation, needed by an 
+eligible student with a disability to benefit from the required activities, provided in 
+accordance with Section 113(b) of the Rehabilitation Act and 34 C.F.R. § 361.48(a)(2), under 
+an individualized plan for employment (IPE).
+9 Specifically, the required activities include— 
+ 
+1. Job exploration counseling; 
+2. Work-based learning experiences, which may include in-school or after school 
+opportunities, or an experience outside the traditional school setting (including 
+internships), that is provided in an integrated environment in the community to the 
+maximum extent possible; 
+3. Counseling on opportunities for enrollment in comprehensive transition or postsecondary 
+educational programs; 
+4. Workplace readiness training to develop social skills and independent living; and 
+5. Instruction in self-advocacy, which may include peer mentoring. 
+ 
+Examples: 
+ 
+Examples of TPCAs that provide new, modified, adapted, expanded, or reconfigured pre-
+employment transition services include, but are not limited to—  
+ 
+ 
+8 See Section 113(d)(2) and (3) of the Rehabilitation Act and 34 C.F.R. § 361.48(a)(4)(ii) and (iii).  
+9 March 21, 2022 – Final Notice of Interpretation regarding the use of VR funds reserved for pre-employment 
+transition services, restating, following public notice and comment, February 28, 2020 - Final N otice of 
+Interpretation p ertain ing to the use of Federal VR funds reserved for pre-employment transition services.
+
+6 
+1. The LEA does not currently provide work-based learning experiences for any students 
+and, in cooperation with the VR agency through the TPCA, implements new work-based 
+learning experiences for students with disabilities; and 
+2. The LEA provides general instruction in self-advocacy to students and modifies this 
+instruction through the TPCA to include instruction for students with disabilities on how 
+to advocate for accommodations and supports in postsecondary education under Section 
+504 of the Rehabilitation Act and Title II of the Americans with Disabilities Act (ADA), 
+and reasonable accommodations in employment under Title I of the ADA. 
+ 
+Example: 
+ 
+Examples of TPCAs that highlight the requirement that TPCA services must be provided to 
+applicants or recipients of the VR program in accordance with 34 C.F.R. § 361.28(a)(2). 
+ 
+1. A VR agency enters into a TPCA with an LEA to develop a program in the school district 
+that provides work-based learning experiences to potentially eligible students who have 
+not been determined eligible for VR services and do not have IPEs. In addition to the 
+work experience, the cooperative arrangement includes a few other services into the 
+TPCA, including work readiness, job exploration counseling, and travel for the students’ 
+work experience. In this example, the costs associated with directly providing the 
+required pre-employment transition services activities (work experiences, work readiness 
+training, and job exploration counseling) are considered part of the cooperative 
+arrangement and may be paid using funds reserved for pre-employment transition 
+services. Because the TPCA serves only students potentially eligible for the VR program, 
+neither determined eligible nor under an approved IPE, the transportation cost for the 
+students is not an allowable pre-employment transition service cost.  
+ 
+2. A VR agency entered a TPCA with an LEA to provide required pre-employment 
+transition service activities to potentially eligible students with disabilities, as well as 
+provide case management services on behalf of VR agency staff such as assisting with 
+VR applications for those potentially eligible students with disabilities interested in 
+receiving other VR services from the VR agency. Among its case management services 
+responsibilities, the LEA staff complete VR applications for potentially eligible students 
+with disabilities, provide assessments to expedite eligibility determination, and assist in 
+developing draft IPEs for those students with disabilities determined eligible for VR 
+services. In this example, the provision of the required pre-employment services activities 
+to potentially eligible students with disabilities is an allowable TPCA activity under 34 
+C.F.R. § 361.28(a) because it is a VR service provided to a VR program applicant or 
+recipient as required by 34 C.F.R. § 361.28(a)(2). However, the case management 
+services are not allowable TPCA activities because they are not “VR services,” as that 
+term is defined at 34 C.F.R. § 361.5(c)(57); rather, they are administrative services 
+provided by LEA staff on behalf of VR agency staff. As such, the case management 
+services may be paid with VR funds as administrative costs but may neither be charged 
+as a cost under the TPCA nor charged to the Federal funds reserved for the provision of 
+pre-employment transition services. Unlike VR services that are provided directly to VR 
+program applicants and recipients (including students with disabilities), such as the 
+required pre-employment transition services activities, case management activities (e.g., 
+the opening of a referral for an applicant, gathering information to document an 
+applicant’s disability, developing an IPE, authorizing services, and developing a 
+justification for case closure) are activities that primarily benefit the VR agency and its
+
+7 
+staff since they ordinarily would do these administrative tasks; while the student with a 
+disability ultimately benefits from these activities, they are not “VR services” provided to 
+them as required by 34 C.F.R. § 361.28(a)(2). 
+ 
+ RSA is aware that some VR agencies contract with entities to perform case management 
+services on their behalf separately. While such contracts are allowable administrative 
+costs contracts, they are not TPCAs under 34 C.F.R. § 361.28. Similarly, outreach 
+activities engaged in by LEAs that do not constitute the provision of VR services, such as 
+participation in information fairs, through which the LEA provides information about the 
+VR program and the services offered under the TPCA would not be allowable services 
+under a TPCA. Rather, the VR agency may contract with the LEA separately to provide 
+this outreach service and pay the costs as “administrative costs,” as that term is defined at 
+34 C.F.R. § 361.5(c)(2). 
+ 
+RSA recommends that VR agencies seek technical assistance before developing and 
+implementing TPCAs with LEAs that include the provision of both pre-employment transition 
+services and other VR services (e.g., vocational assessment and job development) beyond 
+those that may be charged to the funds reserved for the provision of pre-employment 
+transition services,
+10 due to the complexities in administering such TPCAs. When a VR 
+agency enters into a TPCA, it should be able to: (1) clearly delineate the pre-employment 
+transition services and other VR services that it may count toward the reserve from those VR 
+services that it cannot; and (2) through supporting documentation, identify and verify the 
+costs of services, when provided, it may use toward the reserve and those that it cannot. 
+ 
+B. Recipients of Services 
+ 
+The services provided by the LEA (or any other State or local public cooperating agency) 
+under a TPCA are only available to applicants for, or recipients of, services from the 
+designated State unit (34 C.F.R. § 361.28(a)(2)). It is important that the TPCA contains 
+language that clearly identifies who the program will serve. Rather than stating that the 
+program only serves “VR individuals” generally, the TPCA should be more explicit to ensure 
+proper implementation. For example, it would not be appropriate to identify a TPCA, for the 
+provision of pre-employment transition services, as serving “VR participants” because this 
+could include students, youth, and adults with disabilities whereas only students with 
+disabilities may receive such services under the VR program.  
+ 
+If the cooperating agencies want to serve individuals who are neither applicants nor 
+recipients of VR services, the cooperating agencies may do so, but such services are not part 
+of the TPCA, meaning the time and costs associated with providing such services are not 
+paid with Federal funds or counted as part of the non-Federal share under the cooperative 
+arrangement (34 C.F.R. § 361.60). In other words, these individuals would be served outside 
+the scope of the TPCA.  
+ 
+Because the VR agency must use its VR funds for providing VR services and administering 
+the VR program (Section 111(a)(1) of the Rehabilitation Act and 34 C.F.R. § 361.3), for 
+purposes of TPCAs entered into for the provision of pre-employment transition services, a 
+VR agency must be able to verify that all recipients of those services are “students with 
+disabilities”
+ 11 because only students with disabilities may receive such services. Therefore, a 
+ 
+10 See footnote 5.  
+11 “Student with a disability” is defined in Section 7(37) of the Rehabilitation Act and 34 C.F.R. § 361.5(c)(51).
+
+8 
+VR agency must verify that individuals receiving pre-employment transition services, 
+including those receiving such services under a TPCA, are potentially eligible or eligible 
+students with disabilities and maintain the necessary supporting documentation in a case file 
+in accordance with the requirements of 34 C.F.R. § 361.47. When implementing a TPCA, the 
+VR agency must receive from the LEA documentation that any individuals served under the 
+TPCA meet the definition of “student with a disability,” along with any other supporting 
+documentation that enables the VR agency to report required data on the VR program Case 
+Service Report (RSA-911) regarding these students, the services they receive, and the costs 
+of these services (Section 101(a)(10) of the Rehabilitation Act).
+12  
+ 
+The TPCA should specify when the cooperating agency will provide this documentation to 
+the VR agency. For example, the TPCA may require that the LEA provide this 
+documentation to the VR agency prior to delivering pre-employment transition services to 
+any students with disabilities and doing so may be a best practice. However, there is no 
+requirement that the VR agency receive documentation about a student with a disability 
+potentially eligible for the VR program prior to their receipt of pre-employment transition 
+services under a TPCA, particularly if doing so would delay unreasonably the provision of 
+the services by the LEA. In this instance, the TPCA could specify that the LEA will provide 
+the documentation, for example, monthly throughout the duration of the cooperative 
+arrangement. At whichever point the LEA provides the documentation under the terms of the 
+TPCA, it is incumbent upon the VR agency to promptly review the documentation and verify 
+that the individuals receiving the pre-employment transition services are students with 
+disabilities. Any services provided by the LEA that were, upon review, determined to be 
+unallowable could not be charged to the TPCA and would be the responsibility of the LEA. 
+ 
+Questions: 
+ 
+The following questions may be helpful in determining whether the services are provided to 
+applicants for, or recipients of, VR services: 
+ 
+1. If the TPCA is for pre-employment transition services, does the TPCA specify who 
+determines (e.g., the LEA, service provider) which students receive services and how and 
+when the VR agency is notified?  
+2. If the TPCA provides VR services in addition to pre-employment transition services, 
+does the TPCA specify when eligibility for VR services is determined or when students 
+with disabilities potentially eligible for the VR program are referred for VR eligibility? If 
+the TPCA provides services to students with disabilities eligible for VR services, when is 
+eligibility for these students determined by the VR agency? Including this information in 
+the TPCA will help to ensure that the arrangement meets the requirements in 34 C.F.R. 
+§§ 361.28(a)(2) and 361.42(a) governing eligibility since only those individuals 
+determined eligible for the VR program may receive VR services (except for pre-
+employment transition services for students with disabilities).  
+3. How does the VR agency monitor the TPCA to ensure only applicants or recipients of 
+VR services, including students with disabilities potentially eligible or eligible for the VR 
+program, are served through the TPCA as required by 34 C.F.R. § 361.28(a)(2)? 
+ 
+ 
+ 
+12 For further information on the data reporting requirements related to students with disabilities and pre -
+employment transition services, see RSA PD 19-03 https://rsa.ed.gov/sites/default/files/subregulatory/pd-19-03.pdf.
+
+9 
+ 
+Examples: 
+1. The LEA provides only pre-employment transition services under a TPCA to students 
+with disabilities. The TPCA contract requires the LEA to notify the VR agency on the 
+30th of each month of the names of all students with disabilities who received pre-
+employment transition services that month and the pre-employment transition services 
+they received that month. 
+2. The LEA provides both pre-employment transition services and transition services under 
+a TPCA. The VR agency must authorize the transition services prior to the LEA 
+providing those services to the eligible students with disabilities. The LEA will notify the 
+VR agency on the 30th of the month of each student with a disability who received pre-
+employment transition services that month and the pre-employment transition services 
+they received.  
+C. Administrative Supervision 
+ 
+Under 34 C.F.R. § 361.28(a)(3), a VR agency must maintain administrative supervision over 
+the program expenditures and cooperating agency staff providing VR services under the 
+TPCA. In addition, as is true with all VR services regardless of how they are provided 
+(including by TPCAs), the VR agency remains solely responsible for all decisions affecting 
+the nature, scope, and provision of VR services and the allocation and expenditure of VR 
+funds (34 C.F.R. §§ 361.13(c)(1)(i) and (iv) and 361.13(c)(2)). This means it is the VR 
+agency’s sole responsibility to identify the services provided under the TPCA, the population 
+served, the number of individuals served, and the duration of each of those services.  
+ 
+In addition to including a budget, the TPCA should clearly specify the responsibility of each 
+party related to supervision of staff, performance goals, and how the VR agency will monitor 
+progress toward the goals. The TPCA should also contain provisions to ensure that the VR 
+agency is involved in any changes in the arrangement to ensure it remains in compliance with 
+the non-delegable functions requirement in 34 C.F.R. § 361.13(c).  
+ 
+In accordance with 2 C.F.R. § 200.329(a), a VR agency must conduct monitoring and 
+oversight activities of all its grant-supported activities, which would include TPCAs, to 
+ensure compliance with Federal requirements. In so doing, a VR agency would exercise its 
+administrative supervision over the program expenditures and cooperating agency staff 
+providing services under the TPCA, as required by 34 C.F.R. § 361.28(a)(3). 
+ 
+In TPCAs established under 34 C.F.R. § 361.28, the LEA is the entity providing or 
+subcontracting for the provision of the VR services to VR eligible individuals and/or the 
+provision of pre-employment transition services to students with disabilities, and the VR 
+agency has the responsibility to administer and monitor the cooperating agencies to ensure 
+that individuals receive VR services in accordance with the Rehabilitation Act and its 
+implementing regulations, the VR agency’s approved VR services portion of the Unified or 
+Combined State plan, and the terms of the TPCA.  
+ 
+In some instances, services provided under TPCAs are not provided directly by the 
+cooperating agency. Rather, the services are provided by another party, usually a Community 
+Rehabilitation Program (CRP), through a subcontract with the cooperating agency. In these 
+situations, all requirements related to TPCAs must continue to be met, and this method of
+
+10 
+providing services should be clearly described in the TPCA. The entity administering the 
+contract should be considered the entity that is providing the services under the cooperative 
+arrangement.  
+ 
+If the VR agency provides the pre-employment transition services or the VR agency 
+administers contracts directly with other entities such as a CRP to provide some or all of the 
+pre-employment transition services, then the arrangement is not a TPCA. To be clear, to be a 
+TPCA, the VR agency must enter into an agreement with another State or local public agency 
+to provide the VR services (34 C.F.R. § 361.28(a)). When LEAs are subcontracting with 
+CRPs for the provision of pre-employment transition services under the cooperative 
+arrangement, the TPCA should clearly identify the relationship between the VR agency, LEA, 
+and any subcontractors to ensure there is no direct contractual relationship between the VR 
+agency and CRP; rather, the TPCA relationship is between the VR agency and the LEA only. 
+ 
+Questions:  
+ 
+The following questions may be helpful in determining whether the VR agency is 
+maintaining “administrative supervision”: 
+ 
+1. Is there a signed agreement that clearly demonstrates how the rate or costs paid under the 
+TPCA are necessary and allowable costs to the VR program?  Did the VR agency 
+document how the rate was determined to be reasonable and in proportion to the benefit 
+received by the VR program? Is the average cost per service consistent with other TPCA 
+and VR service costs?  
+2. Who supervises the program staff and the funds under the TPCA? Is the process 
+consistent with the administrative supervision requirement at 34 C.F.R. § 361.28(a)(3)? 
+3. What role do VR counselors play in identifying and/or authorizing services for students 
+served under the TPCA? 
+4. What type of performance evaluation is in place and by which agency is it conducted? 
+The VR agency must monitor TPCAs and ensure they are cost effective and benefit the 
+students served.  
+5. Who/what agency maintains control of the expenditures of the program?  
+6. What agency issues paychecks for LEA staff administering the TPCA? 
+7. Does the TPCA specify how the VR agency performs the non-delegable responsibilities 
+outlined in 34 C.F.R. § 361.13? Doing so will help to ensure the TPCA is implemented in 
+a manner consistent with these requirements. 
+8. How does the VR agency monitor the TPCA and its activities to ensure oversight of the 
+activities in accordance with 2 C.F.R. § 200.329, thereby demonstrating administrative 
+supervision of the TPCA in accordance with 34 C.F.R. § 361.28(a)(3)?
+
+11 
+Example:  
+ 
+Under a TPCA, LEA employees provide the pre-employment transition services, and the 
+LEA does the hiring and firing, issues the paychecks, etc. However, the VR agency- 
+ 
+• Maintains control of expenditures; 
+• Is involved with the interview process; 
+• Develops performance standards, in cooperation with the LEA, for TPCA staff; 
+• Performs continuous reviews of the LEA’s progress; 
+• Conducts annual reviews of performance expectations; and  
+• Maintains control of the non-delegable functions of the VR program.  
+ 
+This would generally meet the requirement of “administrative supervision.”  
+ 
+D.  State Plan Requirements 
+ 
+Under a TPCA, all State plan requirements, including a VR agency’s order of selection, will 
+apply to all services provided under the cooperative arrangement (34 C.F.R. § 361.28(a)(4)). 
+If an agency is on an order of selection, the TPCA must also adhere to the order of selection 
+for the individuals that it serves.  
+ 
+To be consistent with this Federal requirement, a TPCA for the provision of pre-employment 
+transition services should specify how students with disabilities who are potentially eligible 
+and eligible for VR services are assigned to priority categories for the provision of VR 
+services under the VR agency’s order of selection, and how services are affected for those 
+students assigned to a closed priority category and waiting list. 
+ 
+Questions: 
+ 
+VR agencies may find the following questions helpful. 
+ 
+1. Is the VR agency on an order of selection? If so, the individuals served through the 
+TPCA must be selected based on that order of selection. 
+2. Are there any requirements within the VR agency’s approved VR services portion of the 
+State Plan, such as informed choice, that are not adhered to by the TPCA? If so, the VR 
+agency and LEA must modify the TPCA to include these State plan requirements.  
+ 
+E. Statewideness 
+ 
+Through this TAC, RSA wants to make clear that TPCAs are a framework through which 
+cooperating agencies provide VR services and contribute to the State’s non-Federal share 
+under the VR program. Therefore, TPCAs are part of the VR program
+13 and, as such, all VR 
+program requirements must be satisfied, including those for statewideness. Under 34 C.F.R. 
+ 
+13 TPCAs are distinguishable from joint programs. Pursuant to 34 C.F.R. § 361.27, joint programs are those through 
+which the VR agency and another public agency share administrative functions and funding for the services 
+provided. Under a TPCA, the VR agency is responsible for the administrative supervision of the expenditures 
+incurred and the staff providing the services (34 C.F.R. § 361.28(a)(3)) .
+
+12 
+§ 361.28(b), if the TPCA does not comply with 34 C.F.R. § 361.25, the VR agency must seek 
+a waiver of statewideness pursuant to 34 C.F.R. § 361.26.  
+ 
+To understand the statewideness requirement in the context of a TPCA, RSA first wants to 
+clarify those requirements in general. Specifically, Section 101(a)(4) of the Rehabilitation 
+Act and 34 C.F.R. § 361.25 require that the VR services portion of the Unified or Combined 
+State Plan must assure that all VR services are available in all political subdivisions of the 
+State unless a waiver of statewideness is requested and approved by RSA in accordance with 
+34 C.F.R. § 361.26. In other words, if a VR agency wants to increase VR services or expand 
+the scope of VR services available in one or more political subdivisions of the State, then the 
+agency must obtain a waiver of statewideness in accordance with Section 101(a)(4)(A) of the 
+Rehabilitation Act and 34 C.F.R. § 361.26(a). A TPCA, however, is not necessarily a 
+mechanism through which a VR agency increases VR services or expands the scope of 
+services provided by the agency; rather, it is a framework through which a VR agency works 
+with a cooperating agency in a local area, such as an LEA, to provide VR services and that 
+local agency provides some or all of the non-Federal share for those services. While the 
+services must be different from those ordinarily provided by the cooperating agency, they 
+need not be different from those ordinarily provided by the VR agency. In other words, the 
+TPCA is not required to increase services or expand the scope of VR services. If it does, it 
+must satisfy the statewideness requirement of Section 101(a)(4) of the Rehabilitation Act and 
+34 C.F.R. § 361.25. This means the services under that particular TPCA must be available in 
+all political subdivisions of the State unless a waiver is requested and approved by RSA. 
+ 
+If the TPCA is one through which a LEA will provide, for example, pre-employment 
+transition services to students with disabilities in a particular school district, the VR agency 
+need not obtain a waiver of statewideness if pre-employment transition services are available 
+in all other school districts within the State via another mechanism. It is possible that the VR 
+agency contracts with a CRP to provide the services in some districts, contracts with another 
+public agency in other districts, and provides the services in-house in the remaining districts. 
+So long as the pre-employment transition services are available statewide, there is no need 
+for the State to obtain a waiver of statewideness simply because the TPCA only provides pre-
+employment transition services to one school district. On the other hand, if that same TPCA 
+wanted to experiment and expand the scope of pre-employment transition services in such a 
+way that the expanded scope was available only in that one school district and nowhere else 
+in the State, then the VR agency would need to request a waiver of statewideness from RSA 
+in accordance with Section 101(a)(4)(A) of the Rehabilitation Act and 34 C.F.R. § 361.26 
+(b). 
+ 
+To obtain a waiver from RSA of the responsibility for providing services statewide, VR 
+agencies must submit the request in the VR services portion of the State Plan.  The waiver of 
+statewideness request must— 
+ 
+1. Identify the types of services to be provided;  
+2. Include a written assurance that the cooperating agency will make available the non-
+Federal share of funds required for the arrangement; 
+3. Include a written assurance that the VR agency approval will be obtained for each service 
+before that service is put into effect under the TPCA; and 
+4. Include a written assurance that all other State Plan requirements will apply to all services 
+approved under the waiver (34 C.F.R. § 361.26(b)).
+
+13 
+ 
+Questions: 
+ 
+When entering into TPCAs, VR agencies should consider the following questions. 
+ 
+1. Do one or more TPCAs in the State provide pre-employment transition services that are 
+available throughout the State to all students with disabilities? If so, statewideness is met.  
+2. Does the TPCA provide pre-employment transition services in only two counties of the 
+State? If so, statewideness would be met if pre-employment transition services are 
+available through other means in all other areas of the State. If not, statewideness is not 
+met and a waiver is required. 
+3. Does the TPCA offer expanded pre-employment transition services, for example, geared 
+to students with intellectual disabilities in one school district?  This would require a 
+waiver of statewideness because the expanded scope of pre-employment transition 
+services is not available throughout the State.  
+ 
+Example: 
+ 
+The State contains 30 LEAs. The VR agency offers all 30 LEAs the opportunity to 
+participate in a TPCA for pre-employment transition services, but only 20 of the 30 LEAs 
+agree to engage in the TPCA. Because pre-employment transition services must be available 
+to all students with disabilities in need of such services in the State, pursuant to Section 
+113(a) of the Rehabilitation Act and 34 C.F.R. § 361.48(a), the VR agency must ensure that 
+these services are available in the remaining 10 school districts. The VR agency may make 
+these services available by any means, such as contracting with a CRP, another public 
+agency, or providing them in-house. If, for some reason, pre-employment transition services 
+will not be available in any of the remaining 10 school districts, the VR agency must request 
+a waiver of statewideness from RSA. 
+ 
+II.  Fiscal Considerations14: 
+ 
+A.  Administrative Costs 
+ 
+Section 110(d)(2) of the Rehabilitation Act prohibits administrative costs from being paid 
+with funds reserved for the provision of pre-employment transition services. This means the 
+VR agency may not use funds reserved for pre-employment transition services to pay for any 
+of its administrative activities, as defined in Section 7(1) of the Rehabilitation Act and 34 
+C.F.R. §361.5(c)(2).  
+ 
+Because the definition of “administrative costs” in 34 C.F.R. § 361.5(c)(2) is specific to the 
+designated State unit, fee-for-service contracts or TPCAs paid on a fee-for-service basis for 
+the provision of or arranging for the provision of pre-employment transition services do not 
+need to disaggregate the service cost to exclude administrative costs. Therefore, 
+administrative costs incurred by cooperating agencies, including those incurred by LEAs, 
+under a TPCA for the provision of pre-employment transition services may be charged to the 
+funds reserved for the provision of pre-employment transition services. However, the VR 
+agency must ensure that the fee-for-service cost is reasonable, necessary, and proportionate 
+ 
+14 For a general discussion of TPCAs as a source of match for the VR program, see RSA TAC 23 -01.
+
+14 
+to the benefit received by the VR program in accordance with 2 C.F.R. §§ 200.403 through 
+200.405.  
+ 
+The VR agency, on the other hand, may not charge its own administrative costs to the funds 
+reserved for the provision of pre-employment transition services pursuant to Section 
+110(d)(2) of the Rehabilitation Act.  
+ 
+As a reminder, LEAs must report the cost of each required pre-employment transition 
+services activity provided on the RSA-911 in accordance with Section 101(a)(10) of the 
+Rehabilitation Act. Therefore, even if the fee is a bundled rate, the providers must still report 
+to the VR agency the specific service(s) being provided to each individual under the TPCA 
+along with the cost per service provided. 
+ 
+B.  Non-Federal Share: 
+ 
+To meet the requirements for a TPCA and to receive match via a TPCA, the cooperating 
+agency must be a State or local public agency that furnishes all or part of the non-Federal 
+share
+15 (34 C.F.R. § 361.28(a)). “Public,” as applied to an agency, organization, or 
+institution, means that the agency, organization, or institution is under the administrative 
+supervision or control of a government other than the Federal Government (34 C.F.R. § 
+77.1). TPCAs cannot be entered into with private non-profit or for-profit entities.  
+ 
+By providing match, some LEAs may erroneously believe the Federal funds matched are 
+under the control of the LEA or can only be used under the TPCA. The cooperating agency is 
+not securing a “pool of Federal funds” for its “consumers.” For example, if at the end of a 
+TPCA contract period the expected number of students with disabilities was not served, the 
+LEA would not receive a “credit” or “refund” for unused costs under the cooperative 
+arrangement. If an LEA did not participate in a pre-employment transition service TPCA and 
+referred all its students with disabilities potentially eligible for the program to VR, the VR 
+agency would be responsible for ensuring the provision of pre-employment transition 
+services in accordance with the VR agency’s processes, procedures, and Federal 
+requirements.  
+ 
+Under 34 C.F.R. § 361.28(c), the types of non-Federal expenditures that VR agencies may 
+use to satisfy the non-Federal share requirements when implementing TPCAs are as follows: 
+ 
+(1) Cash transfers to the VR agency; 
+(2) Certified personnel expenditures for the time cooperating agency staff spent providing 
+direct VR services pursuant to a TPCA. Certified personnel expenditures may include the 
+allocable portion of staff salary and fringe benefits based upon the amount of time 
+cooperating agency staff directly spent providing services under the arrangement; and 
+(3) Other direct expenditures incurred by the cooperating agency for the sole purpose of 
+providing services under this section pursuant to a TPCA that— 
+(i) Meets the requirements of this section; 
+ 
+15 Although VR agencies may use TPCAs for the provision of pre-employment transition services as a source of 
+non-Federal share for the VR program, they must use only Federal VR funds budgeted and expended under these 
+TPCAs when calculating at least 15 percent of the agency’s Federal allotment required to be reserved for the 
+provision of pre-employment transition services (Sections 110(d)(1) and 113(a) of the Rehabilitation Act; 34 C.F.R. 
+§§ 361.48(a)  and 361.65(a)(3)).
+
+15 
+(ii) Are verifiable as being incurred under the TPCA; and 
+(iii) Do not meet the definition of third-party in-kind contributions under 2 C.F.R. 
+§ 200.96 [2 C.F.R. § 200.1]. 
+ 
+Under 34 C.F.R. § 361.60, the non-Federal share for matching requirements is 21.3 percent 
+of the total expenditures made by the State, under the VR services portion of the State plan, 
+for the VR program. As stated throughout this TAC, a TPCA is an arrangement through 
+which the VR agency contracts with another State or local public agency for the provision of 
+VR services and for which that cooperating agency provides all or part of the non-Federal 
+share requirement for the VR program (34 C.F.R. § 361.28(a)). This means there is no 
+requirement that the cooperating agency provide the entire 21.3 percent of the total costs of 
+the expenditures that will be incurred under the TPCA, but it must provide at least part of that 
+amount and could provide more if the parties agree. Depending on the amount of non-Federal 
+share paid by the cooperating agency, the VR agency may pay more than 78.7 percent, but 
+must pay less than 100 percent, of the allowable TPCA pre-employment transition services 
+costs with Federal VR funds. In the event the cooperating agency pays less than the full 21.3 
+percent non-Federal share, the VR agency must provide matching funds from other allowable 
+non-Federal sources. If the cooperating agency pays more than 21.3 percent of the TPCA 
+budget as match, the VR agency may use the Federal funds, drawn down in excess of what is 
+required under the TPCA, to pay for other allowable VR costs elsewhere in the VR program. 
+The cooperating agency and VR agency must agree on the appropriate non-Federal share 
+amount and that amount must be documented in the TPCA. However, the sum of the non-
+Federal and Federal contributions cannot exceed the total costs to be incurred under the 
+TPCA because to do so would not be consistent with the requirements of the Federal cost 
+principles at 2 C.F.R. §§ 200.403 through 200.405. 
+ 
+As a reminder, expenditures, even if certified, for costs incurred by the cooperating agency 
+not directly for the provision of VR services, such as indirect costs, depreciation, existing 
+utilities, space, and supplies, are not an allowable source of match because they are third 
+party in-kind contributions as defined at 2 C.F.R. § 200.1. Third-party in-kind contributions 
+are not an allowable source of match under the VR program pursuant to 34 C.F.R. § 
+361.60(b)(2); this is true for VR expenditures incurred under TPCAs as well. 
+ 
+Questions: 
+ 
+Regardless of whether VR agencies use cash transfers, certified expenditures, or other 
+verifiable direct expenditures to meet the match requirement, it must be clear in the written 
+agreement implementing the TPCA how the match will be obtained and that Federal 
+requirements are met. VR agencies may find the following questions helpful when ensuring 
+that these requirements are satisfied. 
+ 
+1. What is/are the source(s) of non-Federal share that the cooperating agency will provide 
+under the TPCA in accordance with 34 C.F.R. § 361.28 (i.e., cash, certified personnel 
+expenditures, other direct expenditures)?  
+2. If cash is provided as non-Federal share, is it deposited directly into the account of the 
+VR agency and reserved for VR purposes? Has the VR agency explored whether an 
+interagency transfer of funds agreement is a better fit to meet both agencies’ needs, as 
+opposed to a TPCA? 
+3. Does the TPCA identify the supporting documentation to be maintained by the 
+cooperating agency and accessed by the VR agency for monitoring purposes?
+
+16 
+4. Does the TPCA clearly specify the direct services for which personnel expenditures are 
+to be certified? How do the personnel track this effort to ensure only allowable time is 
+reported? TPCAs should clearly indicate that only the time spent directly providing the 
+VR services identified in the TPCA can be certified.  
+5. Do certified personnel expenditures submitted by the cooperating agency include 
+supporting documentation (e.g., detailed timesheets, logs or personnel activity reports 
+accounting for 100 percent of an individual’s time) to demonstrate proper allocation of 
+the direct time worked on allowable pre-employment transition services provided under 
+the TPCA? 
+6. Do direct expenditures submitted by the cooperating agency include supporting 
+documentation (e.g., receipts) that ensures the expenditures were incurred when the 
+TPCA was in effect, for the sole purpose of providing allowable services to applicants 
+and recipients of VR services under the TPCA? 
+7. Is there a budget within the TPCA that specifically identifies the portion of allowable 
+costs that meet the 34 C.F.R. § 361.28 provisions, including those incurred as non-
+Federal share for the direct provision of VR services and those incurred with Federal VR 
+funds? 
+ 
+C.  Sources of Match for TPCAs: 
+ 
+1. Cash Transfers  
+ 
+Cash transfers from the cooperating agency to the VR agency may be used to satisfy the 
+match requirements under a TPCA so long as-- 
+a) Such funds are deposited into the account of the VR agency; are verifiable from the 
+cooperating agency’s records; and are not used as match for any other grant award; 
+and 
+b) The expenditures paid with such funds are necessary for accomplishing the objectives 
+of the VR program; are not paid by the Federal government under another Federal 
+award, unless specifically authorized by Federal statute; and conform to applicable 
+requirements of 2 C.F.R. part 200, including the Federal cost principles.  
+Once deposited, the funds may be used for any allowable VR expenditure on behalf 
+of the VR agency. The funds received are not restricted to expenditures under the 
+TPCA because, once deposited into the account of the VR agency, the VR agency 
+controls the funds in accordance with the non-delegable requirements under 34 C.F.R. § 
+361.13(c)(1)(iv). Consequently, VR agencies may use Federal VR funds to pay for only 
+the Federal portion of the TPCA budget, and cooperating agencies should not expect a 
+“refund” of cash transfers in the event fewer services than anticipated are provided under 
+the cooperative arrangement. Once deposited into the account of the VR agency, the 
+funds may only be used for allowable VR purposes. Returning such funds to the 
+cooperating agency would not benefit the VR program or its participants; therefore, it 
+would not be an allowable expenditure with Federal funds or non-Federal funds used for 
+match purposes.  
+ 
+Because the cash received from the cooperating agency is part of the TPCA and in 
+support of VR services provided under the VR services portion of the State Plan, such 
+funds must be used to support the VR program. VR agencies are encouraged to make this 
+clear in their TPCA language to avoid potential confusion regarding the cooperating
+
+17 
+agency’s access to cash transfers once they have been deposited into the account of the 
+VR agency. 
+ 
+If a cash transfer is the only source of non-Federal share from the cooperating agency, the 
+VR agency may want to reconsider whether a TPCA is the best mechanism to accomplish 
+the provision of needed services. Instead of a TPCA, VR agencies may wish to consider 
+contracting directly with the public agency using a contractor/vendor relationship. The 
+non-Federal share could still be provided by the public agency as an interagency transfer 
+and neither the VR agency nor the public agency would be subject to many of the TPCA 
+requirements. For example, under a contract, the VR services provided by the LEA would 
+not be limited to new or expanded services.   
+   
+2. Certified Personnel Expenditures 
+ 
+Cooperating agencies may include the allocable portion of personnel salary and fringe 
+benefits for the time staff of the cooperating agency provide direct VR services under the 
+cooperative arrangement. When using certified personnel expenditures as a source of 
+non-Federal share under TPCAs, VR agencies must use only the certified time of 
+cooperating agency personnel directly providing, or arranging for, the provision of pre-
+employment transition services to students with disabilities under the TPCA (34 C.F.R. § 
+361.28(c)(2)). Thus, VR agencies may not use the time of cooperating agency program 
+directors, administrative staff, supervisors, or other personnel who are not delivering the 
+pre-employment transition services to students with disabilities under the TPCA. Just 
+because a personnel function is described in a TPCA does not mean the activities 
+performed can be certified as match (see example 3 below).  
+ 
+Records for salaries and wages must support the distribution of the employee’s salary or 
+wages among specific activities or cost objectives if the employee works on more than 
+one Federal award, a Federal award and a non-Federal award, an unallowable activity and 
+a direct cost activity, etc. (2 C.F.R. § 200.430(i)(1)(vii)). The time personnel spend 
+providing services that are not allowable VR services under the TPCA (e.g., general bus 
+or recess duty and school district trainings), if any, are not allocable to the VR program 
+and may not be certified as match or reimbursed with Federal VR funds. Therefore, it is 
+important the records reasonably reflect the total activity for which the employee is 
+compensated by the non-Federal entity, including costs allocable to the TPCA and costs 
+that are not allocable to the TPCA (2 C.F.R. § 200.430(i)(1)(iii)). Furthermore, while 
+cooperating agencies may contract with other vendors to deliver the services specified in 
+the TPCA, the VR agency may only certify the time of cooperating agency staff, not that 
+of the service vendor, to meet the matching requirement under a TPCA. Supporting 
+documentation must demonstrate the certified time was for time and effort in which the 
+personnel worked with individuals specified in the TPCA (i.e., VR applicants and 
+recipients receiving VR services outlined in the TPCA). 
+ 
+Personnel expenditures associated with time certified under a TPCA are not reported as 
+non-Federal expenditures until after the time has been worked, verified, paid for, and 
+reported to the VR agency. It is only after personnel time has gone through these 
+processes that it can be considered “certified,” for purposes of a TPCA. Additionally, the 
+VR agency may not reimburse the cooperating agency for the cost of certified personnel 
+expenditures recorded as non-Federal share for the VR award. To do so would negate
+
+18 
+the cooperating agency’s outlay for the service under the TPCA and, therefore, invalidate 
+any match provided based on that certified personnel cost. 
+ 
+Examples: 
+ 
+a) Three teachers provide direct services detailed in a TPCA to students receiving pre-
+employment transition services. However, as part of every teacher’s responsibility at the 
+school, teachers must cover one period of bus duty and one period of recess daily. Only 
+the time the teachers spent providing direct pre-employment transition services to 
+students receiving such services under the TPCA would be eligible to be certified as 
+match. The time the teachers spent conducting other activities (such as bus or recess 
+duty) would not be allocable to the TPCA and may not be certified expenditures under 
+the TPCA or counted as match or reimbursed with Federal VR funds.  
+ 
+The VR agency must ensure the teachers maintain adequate supporting documentation of 
+time spent providing direct services under the TPCA as the VR agency will need to 
+periodically monitor that documentation, in accordance with 2 C.F.R. § 200.329, to 
+ensure only allowable costs are certified as match. The VR agency will also need 
+processes to ensure personnel fringe benefit costs are allocated proportionately according 
+to the benefit received by the VR program to satisfy Federal requirements for allocability 
+at 2 C.F.R. § 200.405. For example, any certified fringe benefit costs must reflect only 
+the salary costs associated with the provision of VR services under the TPCA. To be 
+certified, any fringe benefit costs would have to be reduced proportionately by the 
+amount of time the teachers spent conducting other duties. 
+ 
+b) A signed TPCA states the cooperating agency will contribute 500 hours of direct 
+personnel time, providing pre-employment transition services, in support of the TPCA 
+each year. The estimated amount of salary and fringe benefit costs for the 500 hours is 
+$50,000. The $50,000 in the TPCA is just a projected estimate. The non-Federal portion 
+is not counted as match until — 
+ 
+1) The teachers have provided the pre-employment transition services to students and 
+documented it appropriately; 
+2) The time worked has been verified and paid by the cooperating agency; 
+3) Payment for the allowable salary and fringe benefit costs is reported to the VR 
+agency; and 
+4) The VR agency confirms costs are valid TPCA personnel expenditures and records 
+the amount as VR non-Federal share.  
+ 
+c) Building upon the example above, the allowable services described in the TPCA  include 
+conducting group meetings with other district schools to teach them about the VR 
+program and pre-employment transition services. The cooperating agency indicates a 
+teacher spent 3 hours conducting such trainings in the last pay period and wants to certify 
+those personnel costs as match under the TPCA. The VR agency correctly informs the 
+cooperating agency that such costs are not eligible to be certified because the time was 
+not spent directly providing a VR service to a student. To avoid certifying unallowable 
+time as match, VR agencies should ensure the TPCA clearly specifies the services that, 
+when performed, count toward certified personnel time.
+
+19 
+3. Other Verifiable Direct Expenditures  
+ 
+Other direct expenditures incurred by the cooperating agency solely for the direct 
+provision of services under the TPCA may be an allowable source of match. These 
+expenditures are distinguished from third-party in-kind contributions because the 
+expenditures were incurred specifically for the purpose of the TPCA in accordance with 
+the terms and conditions of the TPCA and within the TPCA period, all of which the VR 
+agency can verify through supporting documentation from the cooperating agency. These 
+expenditures may not include those costs that the State or local public agency would 
+otherwise normally incur, regardless of the cooperative arrangement.  
+ 
+Examples: 
+ 
+a) School District A enters into a TPCA with the VR Agency. School District A needs to 
+purchase instructional materials to provide new or expanded pre-employment 
+transition services specifically authorized under the TPCA. The needed materials are 
+not already available to School District A. 
+ 
+If School District A purchases the instructional materials and provides documentation 
+of the expenditure to the VR agency, the costs incurred by School District A for the 
+materials may be allowable as match, as verifiable expenditures. Like certified 
+personnel expenditures, the cost must have been incurred by the cooperating agency 
+and it may not be reimbursed by the VR agency under the TPCA. The expenditures 
+may be an allowable source of match if purchased within the TPCA period and used 
+solely to provide new or expanded services with a VR focus that are not customarily 
+provided by School District A. 
+ 
+VR agencies should make clear in the TPCA that when cooperative agencies purchase 
+supplies and then, those supplies are verified as match for the VR program, the 
+supplies must be used only for VR program purposes. They essentially become VR 
+supplies that can be used for program purposes.  
+ 
+b) School District A asks if a monthly amount for having to maintain a telephone in the 
+classroom where pre-employment transition services are provided can be verified as 
+match. School District A maintains a phone in each classroom for safety purposes and 
+the phone was available in the classroom prior to its use for pre-employment 
+transition services. As such, the monthly cost for the phone would be considered an 
+in-kind expense and could not be verified as match.  
+ 
+SUMMARY: 
+ 
+VR agencies may enter into TPCAs with LEAs to improve pre-employment transition services 
+for students with disabilities leading to expanded opportunities for postsecondary education and 
+vocational training, including career and technical education, and high-quality competitive 
+integrated employment, as well as use the non-Federal share generated through such 
+arrangements to enhance the expenditure of Federal VR program funds. RSA has provided this 
+technical assistance to clarify the specific statutory and regulatory requirements pertaining to the 
+provision of pre-employment transition services through TPCAs, including information on match 
+requirements, the nature of the services that may be provided under TPCAs, the applicants and 
+recipients of services under a TPCA, the VR agency’s administrative supervision requirements,
+
+20 
+and the State Plan requirements. Given the complex requirements described in this TAC, RSA 
+encourages VR agencies to seek technical assistance from their State Liaisons when developing 
+new, or reviewing existing, TPCAs used for providing pre-employment transition services.   
+ 
+EFFECTIVE DATE: Immediately upon issuance. 
+ 
+INQUIRIES: 
+ 
+Suzanne Mitchell, Chief  
+Vocational Rehabilitation Program Unit  
+Suzanne.Mitchell@ed.gov
+  
+ 
+CITATIONS:  
+ 
+• Rehabilitation Act of 1973
+, Sections 7(1), 101(a)(10), 110(d), 113, 504 
+• State Vocational Rehabilitation Services Program Regulations at part 361, 34 C.F.R.  
+• §§ 361.3, 361.5(c)(2) and 51), 361.13(c)(1)(i) and (iv), 361.13(c)(2), 361.25, 361.26, 
+361.28, 361.42(a)(1), 361.45, 361.46, 361.47, 361.48(a), 361.48(b), 361.50, 361.60, and 
+361.65(a)(3) 
+• The Americans with Disabilities Act, Titles I and II 
+• Education Department General Administrative Regulations, 34 C.F.R. §§ 76.707 and 
+77.1 
+• Uniform Administrative Requirements, Cost Principles, and Audit Requirements for 
+Federal Awards Regulations at part 200, 2 C.F.R. §§ 200.1, 200.302(b)(7), 200.306
+, 
+200.329(a), 200.403 through 200.405, and 200.430(i)(1)(vii) 
+ 
+ 
+ 
+   
+Danté Q. Allen 
+Commissioner 
+ 
+ 
+cc:  Counsel of State Administrators of Vocational Rehabilitation  
+ National Council of State Agencies for the Blind 
+ National Disability Rights Network 
+ National Coalition of State Rehabilitation Councils 
+ National Association of State Directors of Special Education

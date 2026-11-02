@@ -1,0 +1,151 @@
+Date: December 14, 2023 
+       DCL-24-01 
+ 
+Dear Colleagues: 
+ 
+When the Rehabilitation Services Administration (RSA) receives questions from VR agencies 
+related to the Case Service Report (RSA-911), it typically answers them individually. 
+Occasionally, questions and answers have enough relevance to all VR agencies that RSA 
+distributes them broadly. On June 9, 2023, RSA shared V10 of the Edit Checks that it is using 
+for Program Year 2023 RSA-911 reporting and received some questions related to the Edit 
+Checks.  
+ 
+This Dear Colleague Letter provides technical assistance related to Federal reporting 
+requirements concerning “students with disabilities” and pre-employment transition services. 
+ 
+Q1: May a VR agency close the case of a “student with a disability” who has applied and been 
+determined eligible for VR services if the individual still meets the definition of a “student with a 
+disability” at the time of closure?  
+ 
+In most circumstances, the answer is “no.” VR agencies should make pre-employment transition 
+services available to both potentially eligible and eligible “students with disabilities” until they 
+no longer meet the definition of a “student with a disability.”  
+ 
+If a “student with a disability” is receiving pre-employment transition services under an 
+individualized plan for employment (IPE) and determines that they are not interested in receiving 
+other VR services – in support of a general projected postschool employment outcome or a 
+specific employment goal identified on the IPE – the VR agency should not close the case and 
+continue to provide pre-employment transition services to them so long as they are a “student 
+with a disability.” The VR agency should only close the case when the “student with a disability” 
+specifically requests case closure or the individual no longer meets the definition of a “student 
+with a disability” and chooses to discontinue receiving VR services to meet a projected or 
+specific employment outcome.  
+ 
+Note: Eligible “students with disabilities” may receive any other VR services needed to 
+participate in pre-employment transition services as well as other VR services that are unrelated 
+to pre-employment transition services to meet their identified employment goal. Section 
+102(b)(4)(A) of the Rehabilitation Act and 34 CFR 361.46(a)(1) make clear that the IPE for a 
+student with a disability need only contain a “description of the student's projected postschool 
+employment outcome,” as opposed to a description of a specific employment outcome. Because 
+VR agencies develop initial IPEs for eligible students with disabilities that are more general in 
+nature, they are able to provide additional supports and services to eligible students, as 
+necessary, so they may benefit from pre-employment transition services and explore their career 
+interests and, subsequently, refine the IPEs, through the amendment process under Section 
+102(b)(3)(E) of the Rehabilitation Act and 34 CFR 361.45(a)(6), to include a specific 
+employment goal and the VR services necessary to achieve that goal, as appropriate.  
+Q2: If a potentially eligible student with a disability applies for VR services and the VR agency 
+determines the individual ineligible, may the individual continue to receive pre-employment 
+transition services as a potentially eligible student with a disability? 
+ 
+No, the VR agency may not consider an individual, who has been determined ineligible for VR 
+services, a potentially eligible student with a disability for the purpose of providing pre-
+employment transition services.
+
+Q3: In the quarter that the potentially eligible student with a disability becomes ineligible to 
+receive pre-employment transition services (e.g., no longer meets the State’s definition of a 
+“student with a disability”), does the VR agency report 0 in Data Element (DE) 22 for that 
+quarter?  
+ 
+No, the below example outlines how VR agencies should report the provision of pre-employment 
+transition services and other RSA-911 DEs over the course of four quarters.   
+ 
+• In Q1, the potentially eligible “student with a disability” received  pre-employment 
+transition services, so the VR agency reported DE 22 as 1, 2, or 3 and the pre-
+employment transition services it provided.   
+• Late in Q2, the potentially eligible “student with a disability” no longer met the definition 
+of a “student with a disability” and the VR agency reported DE 22 as 0 in its Q2 report. 
+Will the Edit Checks allow DE 22 to be reported as 0 and for pre-employment transition 
+services provided earlier in Q2 to be reported? No, the VR agency should report DE 22 as 
+1, 2, or 3 and report the pre-employment transition services provided to the “student with 
+a disability” during Q2.  
+• In Q3, the VR agency reported DE 22 as 0 and no further pre-employment transition 
+services are reported. Is this the point where the VR agency may stop reporting the 
+potentially eligible case? Yes, when all pre-employment transition services have been 
+reported and DE 22 is reported as 0, VR agencies may discontinue reporting the 
+potentially eligible “student with a disability” in the following quarter.  
+• In this example, it is not until Q4 that the case is no longer reported on the RSA-911.  
+ 
+Q4: For eligible “students with disabilities” who become ineligible for pre-employment 
+transition services because they no longer meet the definition of a “student with a disability,” can 
+VR agencies still report, through the RSA-911, other VR services provided during the quarter?  
+ 
+Yes, eligible individuals, who no longer meet the definition of a “student with a disability,” 
+remain eligible for other VR services and, if the eligible individual received other VR services, 
+the VR agency must report them on quarterly RSA-911 reports.  
+ 
+Q5: When a potentially eligible student with a disability applies for VR services, should VR 
+agencies stop reporting the potentially eligible case in the quarter the application occurs? Should 
+the VR agency merge the potentially eligible case data with the new VR case? 
+ 
+Yes, when a potentially eligible student with a disability becomes an applicant, VR agencies 
+should report an application date in DE 7 and continue reporting on the individual within the 
+same record, updating other data elements as permitted and as necessary. In this circumstance, 
+the VR agency should keep the same date reported in Data Element 96: Start Date of Pre-
+Employment Transition Services within the potentially eligible case. 
+ 
+Q6: What does the following Edit Check error mean “Expected potentially eligible case Unique 
+ID and Data Element 96: Start Date of Pre-Employment Transition Services Date from previous 
+report missing when Data Element 22: Student with a Disability not 0?”  
+ 
+This error means that the VR agency reported a record in the previous quarter where DE 5 and 
+DE 96 were populated and DE 22 was populated with 1, 2, or 3. This edit check will trigger an 
+error if DE 22 is not reported as 0 and there is no record in the current quarter with the same 
+Unique ID and Start Date of pre-employment transition services.
+
+Q7: How should VR agencies report the age range of students with disabilities in Data Element 
+74: State Definition for Age of Students with Disabilities? 
+ 
+VR agencies should report the State’s age range, using the minimum age determined by the VR 
+agency(ies), which may be lower than the State’s minimum age under IDEA, and the State’s 
+determined maximum age as defined under IDEA, and as it is articulated in the VR services 
+portion of the Unified or Combined State Plan. For example, if the age range is 14 through 21, 
+the VR agency should report “14;21” in Data Element 74.   
+ 
+Age ranges vary across States. For the minimum age, a State may define it as “14 or younger as 
+determined by the IEP team” or “9th grade.” For the maximum age, a State may define it as 
+“cannot be beyond 21 prior to the start of the school year but can continue their education 
+through the end of the year even if they turned 22” or “ages out on August 31 of the year in 
+which they turn 22.” Due to these variations, the RSA-911 Edit Checks are flexible and permit 
+VR agencies to report a year of age below and/or a year of age above the age range based on 
+whether the student’s age changes to meet the minimum age during the reported quarter or the 
+student’s age changes but meets the State’s definition that allows for the student to continue to 
+meet the maximum age through the end of the year.     
+ 
+For example, if the age range is 14 through 21, a VR agency may report a case as a student with 
+a disability who was 21 during the quarter and later turns 22 during the same quarter. In addition, 
+a VR agency may report a case as a student with a disability who was 13 during the quarter and 
+later turns 14 during the same quarter. In either case, the RSA-911 Edit Checks will not produce 
+an error based on the student’s age at the beginning or end of the quarter.  
+ 
+Note: When a State has a General VR agency and a Blind VR agency, both VR agencies must 
+agree on the minimum age they will use to define a “student with a disability” and report this 
+consistently in Data Element 74. 
+ 
+Technical Assistance  
+ 
+• VR agencies may email questions related to the RSA-911 and the WIOA performance 
+accountability system to their assigned Data Collection and Analysis Unit representative
+ 
+or RSAData@ed.gov.  
+• VR agencies may email questions related to financial reports to their assigned Financial 
+Management Specialist or RSAFiscal@ed.gov.  
+ 
+ 
+Sincerely, 
+ 
+     /s/    
+ 
+Carol L. Dobak 
+Deputy Commissioner, 
+delegated the authority to perform  
+the functions and duties of the Commissioner

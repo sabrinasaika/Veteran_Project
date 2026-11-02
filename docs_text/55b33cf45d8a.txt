@@ -1,0 +1,309 @@
+FILENAME: eta-9169-annualreport-py2024-va-pdf-bfc583bd95ca.pdf
+PATH: _raw/rsa.ed.gov/eta-9169-annualreport-py2024-va-pdf-bfc583bd95ca.pdf
+
+ETA-9169
+Expiration Date: 4-30-2028
+Statewide Performance Report
+PROGRAM/TITLE (select one): State: Title I Local Area:
+REPORTING 
+PERIOD 
+COVERED
+     Title I Adult 
+Virginia                        [Local Area, if 
+Applicable]
+07/01/2024 - 
+06/30/2025
+Title I Dislocated Worker N/A N/A N/A
+Title I Youth N/A N/A N/A
+Title II Adult Education N/A N/A N/A
+Title III Wagner-Peyser N/A N/A N/A
+XTitle IV Vocational Rehabilitation N/A N/A N/A
+SUMMARY INFORMATION
+Grant Summary Item Career Services Training Services Additional 
+Information
+Participants Served 21,318 3,472 N/A
+Participants Exited 7,370 268 N/A
+Funds Expended $32,429,495 $10,413,517 N/A
+Cost Per Participant Served $1,521 $2,999 N/A
+Percent Training Related Employment1 N/A N/A N/A
+Percent Enrolled in More than One Program N/A N/A 1.3%
+Percent Admin Expended N/A N/A N/A
+BY PARTICIPANT CHARACTERISTICS - Total Statewide
+Performance Item
+Total Participants 
+Served
+(Cohort Period: 
+07/01/2024 - 
+06/30/2025)
+Total Participants 
+Exited
+(Cohort Period: 
+07/01/2024 - 
+06/30/2025)
+Employment 
+Rate (Q2)2 
+Num
+Employment 
+Rate (Q2)2 
+Denom
+Employment 
+Rate (Q2)2 
+Rate
+Employment 
+Rate (Q4)2 
+Num
+Employment 
+Rate (Q4)2 
+Denom
+Employment 
+Rate (Q4)2 
+Rate
+Median 
+Earnings
+Credential Rate3
+Num
+Credential Rate3
+Denom
+Credential Rate3
+Rate
+Measurable Skill 
+Gains3
+Num
+Measurable Skill 
+Gains3
+Denom
+Measurable Skill 
+Gains3
+Rate
+Total Statewide - Negotiated Target N/A N/A N/A N/A 59.0% N/A N/A 57.0% $4,173 N/A N/A 63.0% N/A N/A 89.0%
+Total Statewide - Actual 21,425 7,472 3,378 6,203 54.5% 3,045 5,647 53.9% $4,366 859 1,511 56.8% 3,485 4,477 77.8%
+BY PARTICIPANT CHARACTERISTICS - Sex
+Performance Item
+Total Participants 
+Served
+(Cohort Period: 
+07/01/2024 - 
+06/30/2025)
+Total Participants 
+Exited
+(Cohort Period: 
+07/01/2024 - 
+06/30/2025)
+Employment 
+Rate (Q2)2 
+Num
+Employment 
+Rate (Q2)2 
+Denom
+Employment 
+Rate (Q2)2 
+Rate
+Employment 
+Rate (Q4)2 
+Num
+Employment 
+Rate (Q4)2 
+Denom
+Employment 
+Rate (Q4)2 
+Rate
+Median 
+Earnings
+Credential Rate3
+Num
+Credential Rate3
+Denom
+Credential Rate3
+Rate
+Measurable Skill 
+Gains3
+Num
+Measurable Skill 
+Gains3
+Denom
+Measurable Skill 
+Gains3
+Rate
+Female 8,367 3,012 1,362 2,430 56.0% 1,219 2,208 55.2% $4,572 278 503 55.3% 1,203 1,541 78.1%
+Male 12,138 4,167 1,913 3,547 53.9% 1,742 3,266 53.3% $4,268 573 985 58.2% 2,174 2,791 77.9%
+Did Not Self Identify 920 293 103 226 45.6% 84 173 48.6% $4,964 10 29 34.5% 108 145 74.5%
+BY PARTICIPANT CHARACTERISTICS - Age
+Performance Item
+Total Participants 
+Served
+(Cohort Period: 
+07/01/2024 - 
+06/30/2025)
+Total Participants 
+Exited
+(Cohort Period: 
+07/01/2024 - 
+06/30/2025)
+Employment 
+Rate (Q2)2 
+Num
+Employment 
+Rate (Q2)2 
+Denom
+Employment 
+Rate (Q2)2 
+Rate
+Employment 
+Rate (Q4)2 
+Num
+Employment 
+Rate (Q4)2 
+Denom
+Employment 
+Rate (Q4)2 
+Rate
+Median 
+Earnings
+Credential Rate3
+Num
+Credential Rate3
+Denom
+Credential Rate3
+Rate
+Measurable Skill 
+Gains3
+Num
+Measurable Skill 
+Gains3
+Denom
+Measurable Skill 
+Gains3
+Rate
+< 16 307 33 12 25 48.0% 11 20 55.0% $6,648 16 20 80.0% 226 247 91.5%
+16 - 18 5,717 1,555 725 1,295 56.0% 745 1,343 55.5% $4,242 618 1,028 60.1% 2,420 3,025 80.0%
+19 - 24 4,665 1,660 835 1,477 56.5% 724 1,301 55.6% $3,925 169 361 46.8% 631 882 71.5%
+25 - 44 6,268 2,388 1,125 2,004 56.1% 1,001 1,789 56.0% $4,546 43 80 53.8% 165 255 64.7%
+45 - 54 2,060 842 371 664 55.9% 321 600 53.5% $5,508 10 19 52.6% 26 39 66.7%
+55 - 59 1,077 445 154 345 44.6% 124 280 44.3% $4,329 - 4 - 10 18 55.6%
+60+ 1,331 549 156 393 39.7% 119 314 37.9% $4,418 - - - 7 11 63.6%
+BY PARTICIPANT CHARACTERISTICS - Ethnicity/Race
+Performance Item
+Total Participants 
+Served
+(Cohort Period: 
+07/01/2024 - 
+06/30/2025)
+Total Participants 
+Exited
+(Cohort Period: 
+07/01/2024 - 
+06/30/2025)
+Employment 
+Rate (Q2)2 
+Num
+Employment 
+Rate (Q2)2 
+Denom
+Employment 
+Rate (Q2)2 
+Rate
+Employment 
+Rate (Q4)2 
+Num
+Employment 
+Rate (Q4)2 
+Denom
+Employment 
+Rate (Q4)2 
+Rate
+Median 
+Earnings
+Credential Rate3
+Num
+Credential Rate3
+Denom
+Credential Rate3
+Rate
+Measurable Skill 
+Gains3
+Num
+Measurable Skill 
+Gains3
+Denom
+Measurable Skill 
+Gains3
+Rate
+American Indian / Alaska Native 178 61 28 49 57.1% 23 40 57.5% $5,168 4 11 36.4% 37 44 84.1%
+Asian 931 274 121 220 55.0% 95 180 52.8% $4,194 33 62 53.2% 202 257 78.6%
+Black / African American 7,480 2,645 1,108 2,153 51.5% 1,020 1,956 52.1% $4,339 229 421 54.4% 938 1,213 77.3%
+Hispanic / Latino 1,462 479 221 394 56.1% 184 324 56.8% $5,502 67 119 56.3% 315 415 75.9%
+Native Hawaiian / Pacific Islander 86 28 13 24 54.2% 12 25 48.0% $5,040 6 7 85.7% 13 21 61.9%
+White 13,210 4,565 2,171 3,873 56.1% 1,946 3,560 54.7% $4,361 616 1,063 57.9% 2,423 3,101 78.1%
+More Than One Race 653 187 87 169 51.5% 73 155 47.1% $3,868 28 52 53.8% 136 172 79.1%
+OMB Control Number 1205-0526
+
+BY EMPLOYMENT BARRIER4
+Performance Item
+Total Participants 
+Served
+(Cohort Period: 
+07/01/2024 - 
+06/30/2025)
+Total Participants 
+Exited
+(Cohort Period: 
+07/01/2024 - 
+06/30/2025)
+Employment 
+Rate (Q2)2 
+Num
+Employment 
+Rate (Q2)2 
+Denom
+Employment 
+Rate (Q2)2 
+Rate
+Employment 
+Rate (Q4)2 
+Num
+Employment 
+Rate (Q4)2 
+Denom
+Employment 
+Rate (Q4)2 
+Rate
+Median 
+Earnings
+Credential Rate3
+Num
+Credential Rate3
+Denom
+Credential Rate3
+Rate
+Measurable Skill 
+Gains3
+Num
+Measurable Skill 
+Gains3
+Denom
+Measurable Skill 
+Gains3
+Rate
+Displaced Homemakers 171 84 48 94 51.1% 63 114 55.3% $5,499 49 75 65.3% 11 13 84.6%
+English Language Learners, Low Levels of Literacy, Cultural 
+Barriers 4,383 1,600 732 1,375 53.2% 678 1,269 53.4% $3,929 263 471 55.8% 756 963 78.5%
+Exhausting TANF within 2 years (Part A Title IV of the Social 
+Security Act) 300 112 47 92 51.1% 43 78 55.1% $5,447 154 276 55.8% 35 42 83.3%
+Ex-offenders 2,305 1,049 403 862 46.8% 351 783 44.8% $5,371 20 37 54.1% 54 85 63.5%
+Homeless Individuals / runaway youth 446 196 67 152 44.1% 66 151 43.7% $3,503 - 6 - 15 25 60.0%
+Long-term Unemployed 
+(27 or more consecutive weeks) 10,758 3,804 1,334 3,020 44.2% 1,190 2,699 44.1% $3,800 340 663 51.3% 1,817 2,326 78.1%
+Low-Income Individuals 10,592 3,995 1,564 3,049 51.3% 1,395 2,780 50.2% $4,120 276 489 56.4% 1,114 1,470 75.8%
+Migrant and Seasonal Farmworkers 133 46 17 31 54.8% 16 32 50.0% $5,403 0 0 0.0% 21 25 84.0%
+Individuals with Disabilities (incl. youth) 21,425 7,472 3,378 6,203 54.5% 3,045 5,647 53.9% 4,366 859 1,511 56.8% 3,485 4,477 77.8%
+Single Parents (Incl. single pregnant women) 827 360 162 284 57.0% 150 259 57.9% $6,185 7 14 50.0% 29 43 67.4%
+Youth in foster care or aged out of system 221 76 43 72 59.7% 28 59 47.5% $4,272 18 34 52.9% 59 76 77.6%
+1Applies to Title I only. Individuals for whom it is unknown whether their employment in the 2nd quarter after exit was related to the training they received are included in this measure and are considered to be a negative outcome for the purposes of this calculation.
+2This indicator also includes those who entered into a training or education program for the Youth program.   
+3Credential Rate and Measurable Skill Gains do not apply to the Wagner-Peyser program.
+4Barriers to Employment are determined at the point of entry into the program. 
+*Cells are populated based on the combination of the corresponding specifications for that row and column. For example, the cell in the row "Sex: Female" and the column "Employment Rate (Q2) Num" will be the count of female participants in the Employment Rate (Q2) Numerator for that report period. 
+Public Burden Statement (1205-0526) 
+Persons are not required to respond to this collection of information unless it displays a currently valid OMB control number. Respondent’s reply to these reporting requirements is required to obtain or retain benefits (Workforce Innovation and Opportunity Act, Section 185(a)(2)). Public reporting burden for this collection of 
+information is estimated to range between 240 and 360 minutes which averages 300 minutes per response, including the time for reviewing instructions, searching existing data sources, gathering and maintaining the data needed, and completing and reviewing the collection of information. Send comments regarding this burden 
+estimate to the Office of Policy Development and Research ● U.S. Department of Labor ● Room N-5641 ● 200 Constitution Ave., NW, ● Washington, DC ● 20210. Do NOT send the completed 9169 application to this address.

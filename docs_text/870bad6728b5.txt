@@ -1,0 +1,919 @@
+FILENAME: r-s-15-19-pdf-986930ec3d12.pdf
+PATH: _raw/rsa.ed.gov/r-s-15-19-pdf-986930ec3d12.pdf
+
+1 
+ 
+UNITED STATES DEPARTMENT OF EDUCATION 
+REHABILITATION SERVICES ADMINISTRATION 
+IN THE MATTER OF ARBITRATION 
+ 
+Case No. R-S/15-19 
+Opinion and Award 
+ 
+NEW JERSEY COMMISSION FOR 
+THE BLIND AND VISUALLY IMPAIRED, 
+ 
+Complainant, 
+ 
+v. 
+ 
+DEPARTMENT OF THE AIR FORCE, 
+JOINT BASE MCGUIRE DIX-LAKEHURST, 
+ 
+Respondent. 
+ 
+Appearances: 
+For Complainant: Gregory J. Sullivan, Deputy Attorney General, State of New Jersey 
+For Respondent: Joseph P. Loman, Department of the Air Force, Laura B. Bauza, Captain, U.S. Air Force 
+ 
+Arbitration Panel: David J. Weisenfeld, Chair and Neutral Arbitrator, Steven R. Fuscher, Peter A. Nolan 
+ 
+Pursuant to Regulations issued pursuant to the Randolph-Sheppard Act (“R-SA”), and the Policies and 
+Procedures for Convening and Conducting Arbitration Pursuant to the R-SA, an arbitration panel consisting of 
+David J. Weisenfeld (Chair), Steven R. Fuscher, and Peter A. Nolan, was selected to hear and decide this matter.  
+The Chair was first informed of his potential selection on December 8, 2016, and agreed to serve by contract 
+signed on April 13, 2017. 
+Prior to the hearing, on December 7, 2017, Respondent submitted to the U.S. Department of Education 
+(“DoED”) a motion to dismiss the matter.  On December 15, 2017, the DoED deferred that motion to the 
+Panel. 
+Both parties submitted pre-hearing briefs.   
+A hearing was held on January 10, 2018, in Newark, NJ.  During the course of the hearing, both parties were 
+afforded a full opportunity to present evidence, examine and cross-examine witnesses, and make oral 
+argument.  A transcript of the hearing was taken and provided to the Parties and the Arbitrators.   
+On February 23, 2018, both parties submitted post-hearing briefs in lieu of closing arguments at the hearing.
+
+2 
+ 
+By agreement prior to the hearing between the Chair and the DoED, ratified by the parties prior to and at the 
+hearing, the Panel’s time to submit this Opinion and Award (by email or deposit with the U.S. Postal Service or 
+other delivery service) was set at April 24, 2018. 
+STIPULATED FACTS 
+ 
+At the hearing, the parties stipulated to certain facts, as follows.  (Joint Exhibit 10) (The Chair has modified the 
+parties’ stipulated facts only so far as to conform certain of the defined terms established in those stipulated 
+facts to those used elsewhere in this Opinion and Award.) 
+ 
+1. Joint Base McGuire Dix-Lakehurst (“JBMDL”) provides installation management support for 
+3,933 facilities with an approximate value of $9.3 billion in physical infrastructure.  In addition to tens of 
+thousands of service members that train at JBMDL throughout the year for overseas contingency operations, 
+JBMDL is home to more than 44,000 Airmen, Soldiers, Sailors, Marines, Coast Guardsmen, civilians and their 
+family members living and working on and around JBMDL. 
+2. Solicitation No. FA4484-15-R-0005 (“the Solicitation”) was posted to the Federal Business 
+Opportunities (“FBO”) website, www.fbo.gov., on November 17th, 2014. 
+3. The Solicitation required the contractor to provide all personnel, supervision, and any items and 
+services necessary to perform full food services for the seven (7) dining facilities at JBMDL. 
+4. All proposals were due on December 30th, 2014 at 3:00 PM EST. 
+5. The Solicitation informed potential offerors of a site visit on December 2nd, 2014.  On 
+December 2nd, 2014, Complainant attended a site visit.  
+6. Prior to the Solicitation closing on December 30th, 2014, all offerors had the opportunity to ask 
+questions.  Complainant submitted the following questions which were answered and posted to FBO as part of 
+the solicitation package: 
+I am the Randolph Sheppard Manager for the NJ Commission for Blind.  
+Regarding Dix Full Food Service, solicitation # FA4484 -15-R-0005, we have 
+received initial inquiries from some of our Randolph Sheppard clients. 
+ 
+So that my office can advise our clients appropriately, can  you please provide 
+answers to the following? 
+ 
+First, can you confirm that the following acronyms are correct? 
+FFP - firm fixed price 
+PWS - performance work statement 
+OCO FUNDS 
+FOB - forward operating base 
+CLIN - contract line item number 
+COL - Contingency Operating Location
+
+3 
+ 
+O & M - Operations & Maintenance 
+SLIN - secondary contract line item number  
+IAW - in agreement with  
+QCP - quality control plan  
+DFAC - dining facility 
+ 
+Next, are you able to advise as to how many troops are on the base currently? 
+Are all troops across the entire country required to pass through Ft Dix? 
+ 
+Also, the pre -solicitation notice mentioned $35,500,000. What exactly does this 
+refer to? 
+ 
+In addition, when will a walk- through / site visit be held, how many individuals 
+will be permitted to be present at the walk- through / site visit, and what steps 
+are to be completed to visit Ft Dix? 
+ 
+7. The Solicitation included FAR 52.212-1.  Subparagraph (g) of this FAR provision states that the 
+“Government intends to evaluate offers and award a contract without discussions with offerors.  Therefore, 
+the offeror’s initial offer should contain the offeror’s best terms from a price and technical standpoint.” 
+8. The Solicitation included, Addenda to 52.212-2 - Evaluation Factors for Award.  Paragraph H of 
+this section states that “[t]he government intends to award a contract without discussions with respective 
+offerors.”  Paragraph I of this section states “[t]his solicitation is subject to the priorities afforded under the R-
+SA.” 
+9. The Solicitation included Addenda to 52.212-2 – Evaluation Factors for Award, which informed 
+all offerors that “[b]y submission of its offer in accordance with the instructions provided in clause FAR 52.212-
+1, Instructions to Offerors – Commercial Items, the offeror accedes to the terms and conditions of this model 
+contract.” 
+10. On or about December 18th, 2014, Complainant submitted a timely offer in response to the 
+Solicitation. 
+11. On or about April 30th, 2015, the contract in question was awarded to Cantu Services Inc. 
+(“Cantu”).  The contract was funded with Federal funds appropriated by Congress. 
+12. Complainant requested and received a post award debriefing. 
+13. Following the debriefing, Complainant filed an Agency Protest with Respondent.  Shortly 
+thereafter, Respondent responded to Complainant’s Agency protest. 
+14. On August 18th, 2015, Mr. Jesse Hartle, Program Specialist with the DoED notified Respondent 
+that that the Rehabilitation Services Administration had received a request from Complainant to convene an 
+arbitration panel.  The case was assigned number R-S/15-19. 
+15. On January 6th, 2016, the DoED convened this arbitration panel.
+
+4 
+ 
+ISSUES PRESENTED 
+The parties argued three issues to the Panel: 
+1. Should the Panel dismiss the matter because Complainant waived its right to complain about 
+the terms of the Solicitation when it submitted its offer and by not protesting the terms of the Solicitation 
+before the end of the bid period? 
+2. If not, did Respondent violate the R-SA when it did not establish a competitive range with 
+respect to offerors for the food service contract at JBMDL and instead awarded the contract to Cantu? 
+3.  If so, what is the appropriate remedy? 
+THE MOTION TO DISMISS 
+For the reasons stated below, Respondent’s motion to dismiss is denied. 
+ADDITIONAL FINDINGS OF FACT 
+1. The Solicitation did not make any explicit reference to a competitive range, either to say that 
+one would be established with respect to offerors for the JBMDL food service contract or that one would not 
+be established. 
+2. Prior to submitting an offer in response to the Solicitation, Complainant did not question or 
+protest to Respondent regarding the absence from that Solicitation of any reference to a competitive range, or 
+any intention by Respondent regarding establishing a competitive range. 
+3. Prior to awarding the JBMDL food service contract to Cantu, Respondent did not establish a 
+competitive range with respect to offers submitted pursuant to the Solicitation. 
+4. Prior to Respondent awarding the JBMDL food service contract to Cantu, Complainant did not 
+question or protest to Respondent regarding the absence from that Solicitation of any reference to a 
+competitive range, or any intention by Respondent regarding establishing a competitive range. 
+5. Complainant did not make any protest regarding the Solicitation or Respondent’s treatment of 
+Complainant or its offer until after Respondent had awarded the JBMDL food services contract to Cantu. 
+CONCLUSIONS OF LAW 
+1. When a solicitation is flawed on its face with respect to application of the R-SA priority to the 
+contract bidding process, a State Licensing Agency (“SLA”) waives its right to assert a later claim based on such 
+flaws if it waits until after the contract is awarded to assert that claim.  Blue & Gold Fleet, L.P. v. U.S., 492 F.3d 
+1308 (Fed. Cir. 2007); North Carolina Div. of Svcs. for the Blind v. U.S., 53 Fed. Cl. 147 (Fed. Cl. 2002).  
+2. There was no flaw on the face of the Solicitation such as the courts found in Blue & Gold and 
+North Carolina.  The Solicitation said that Respondent would apply the R-SA priority.  Complainant cannot be 
+said to have known, or even that it should have known, that Respondent would backtrack, or that the
+
+5 
+ 
+reference in the Solicitation to “no discussion” meant that there would be no competitive range and no R-SA 
+priority.  
+3. Complainant’s protest was not waived and is properly before the Panel.   
+4. Complainant bears the burden of proof with respect to establishing that Respondent violated 
+the R-SA or its implementing regulations by its actions with respect to Complainant, Cantu, and the JBMDL 
+food services contract which was the subject of the Solicitation. 
+5. Respondent is not entitled to Chevron deference with respect to its interpretations or 
+application of the R-SA and its implementing regulations.  The agency charged with interpreting and enforcing 
+the R-SA and its implementing regulations is the DoED, acting through the Secretary of Education (the 
+“Secretary”).  Kentucky, Education Cabinet, Dep’t for the Blind v. U.S., 62 Fed. Cl. 445 (Fed. Cl. 2004). 
+6. When a State Licensing Agency (“SLA”) is among the timely offerors, the R-SA and its 
+implementing regulations, most particularly 34 C.F.R. 395.33(b), require the federal contracting agency 
+soliciting offers for a contract subject to R-SA priority to establish a competitive range with respect to the 
+timely offerors. 
+7. Given the timely offer submitted by Complainant, Respondent’s awarding of the JBMDL food 
+services contract to Cantu without establishing a competitive range violated the R-SA and 34 C.F.R. 395.33(b). 
+8. The Panel generally lacks the power to grant relief beyond declaring Respondent to have 
+violated the R-SA or its implementing regulations, and specifically lacks the power to grant the affirmative 
+relief sought by Complainant – that the Panel order Respondent to begin direct negotiations with Complainant 
+regarding the contract.  Georgia Dep’t of Human Resources v. Nash, 915 F.2d 1482 (11th Cir. 1990). 
+ANALYSIS 
+Waiver 
+Simply put, Respondent asserts that Complainant slept on its rights with respect to the substance of its claims 
+and that, as a result, has waived those claims, and that, as a further result, the Panel should dismiss the 
+Complaint.   
+For this proposition, Respondent cites Blue & Gold Fleet, L.P. v. U.S., 492 F.3d 1308 (Fed. Cir. 2007), which 
+states,  
+Therefore, while it is true that the jurisdictional grant of 28 U.S.C. §1491(b) contains no time 
+limit requiring a solicitation to be challenged before the close of bidding, the statutory mandate 
+of §1491(b)(3) for courts to “give due regard to the need for expeditious resolution of the 
+action” . . . favor[s] recognition of a waiver rule. Recognition of this rule finds further support in 
+the GAO's bid protest regulations and in our analogous doctrines. Accordingly, a party who has 
+the opportunity to object to the terms of a government solicitation containing a patent error 
+and fails to do so prior to the close of the bidding process waives its ability to raise the same 
+objection afterwards in a §1491(b) action in the Court of Federal Claims.  (Id. at 1316) 
+(Emphasis supplied).
+
+6 
+ 
+ The court also addressed the issue of potential ambiguity, stating, 
+[W]here a government solicitation contains a patent ambiguity, the government contractor has 
+“a duty to seek clarification from the government, and its failure to do so precludes acceptance 
+of its interpretation” in a subsequent action against the government. [Citations omitted.] This 
+doctrine was established to prevent contractors from taking advantage of the government, 
+protect other bidders by assuring that all bidders bid on the same specifications, and materially 
+aid the administration of government contracts by requiring that ambiguities be raised before 
+the contract is bid, thus avoiding costly litigation after the fact. (Id. at 1315). 
+Blue & Gold was, of course, not decided under or with respect to the R-SA.  The same general principle has, 
+however, also been applied in the R-SA context in North Carolina Div. of Svcs. for the Blind v. U.S., 53 Fed. Cl. 
+147 (Fed. Cl. 2002), where the Court of Federal Claims stated,  
+[The SLA] could not wait to see whether or not it won the contract before challenging the 
+perceived problems with the solicitation.  Acceptance of such a practice would be disruptive, 
+unfair to the other offerors, and would serve to undermine the soundness of the federal 
+procurement system.  [Citations omitted.]  Accordingly, where an offeror declines to raise an 
+objection and obtain a determination on the matter, the court may find that the offeror has 
+waived its right to protest.  (Id. at 165). 
+On that basis, Respondent argues that Complainant waived its rights in this matter because it waited until four 
+months after Respondent awarded the JBMDL food services contract to Cantu to file its R-SA-based complaint 
+with the DoED. 
+Respondent further argues that Complainant waived its right to protest regarding the Solicitation and contract 
+award when it submitted its offer in response to the Solicitation because the Solicitation stated that 
+Respondent would go forward without conducting discussions (and, impliedly) that it would not establish a 
+competitive range. 
+By submitting its offer, [Complainant] acceded to the terms and conditions in the solicitation 
+and therefore has waived its right to now complain to this panel. . . .   Instead, despite having 
+the opportunity to ask questions, [Complainant] incorrectly “assumed” that the Air Force was 
+going to set a competitive range and failed to clarify whether the Air Force “actually” intended 
+to establish a competitive range.  [Testimony of Daniel Frye] Tr. at 65 – 66.  (Respondent Post-
+Hearing Brief at 12). 
+By neither questioning nor protesting what Respondent says was its clearly stated intention not to establish a 
+competitive range, and by submitting its offer nevertheless, Respondent asserts that Complainant acceded to 
+those terms.  (See Stipulated Fact #9). 
+Citing Blue & Gold, Respondent asserts that, both by virtue of Complainant’s delay in questioning or protesting 
+the terms of the Solicitation, and by acceding to those terms by submitting its offer, Complainant waived its 
+rights and that the Panel should, as a result, dismiss the Complaint.
+
+7 
+ 
+While correctly acknowledging that they are not precedential, Respondent further directs the Panel’s 
+attention to R-SA arbitration panel decisions in two cases (Colorado Dep’t of Human Svcs, Div. of Vocational 
+Rehabilitation v. Department of the Air Force, Case No. R-S/10-06; and Florida Dep’t of Educ., Div. of Blind 
+Services v. Department of the Air Force, Elgin Air Force Base, Case No. R-S/15-13) for the proposition that a SLA 
+waives its right to protest a bid and award process under the R-SA if it fails to assert those rights until after the 
+bid period closes. 
+For a variety of reasons, the Panel does not find Respondent’s waiver arguments to be persuasive with respect 
+to this matter. 
+There is, of course, a sound policy reason for the timely protest/waiver principle set forth in Blue & Gold and 
+applied in the R-SA context in North Carolina.  The Panel treats that principle as settled law.  Doing so does not 
+end the inquiry, however, but merely shifts it to an examination as to whether it is properly applied to the 
+facts of this case. 
+In North Carolina, the problem later protested by the SLA was apparent on the face of the solicitation, which 
+stated that the process would be treated as a small business set-aside, with the R-SA not applicable.  Similarly, 
+in Colorado, the solicitation defined the competitive range as those offers that were within 5% of the low 
+bidder, which standard the SLA did not achieve.  In both cases, the SLA’s later-raised claim based on the 
+solicitation deficiency was rejected as untimely. 
+Since (as discussed below), Complainant’s substantive claim relates to Respondent’s failure to establish a 
+competitive range, the issues are: 
+Was it clear on the fact of the Solicitation that Respondent was not going to establish a competitive range 
+such that Complainant was required under Blue & Gold and North Carolina to assert its rights prior to the end 
+of the bid period, or at least prior to the contract being awarded to Cantu? 
+Alternatively, was the Solicitation patently ambiguous such as to trigger the second leg of Blue & Gold, leading 
+to the same result? 
+The answers to those questions are potentially determinative of the matter, since, while not specifically 
+stipulated, it is uncontested that Complainant did not assert any of its claims until after the JBMDL food 
+services contract was awarded to Cantu in April 2015. 
+The facts are clear.  The only question is how to interpret and apply them.  Respondent plainly stated in the 
+Solicitation its intention “to award the contract without discussions with respective offerors.”  (Stipulated Fact 
+#7).  But Respondent also plainly stated in the Solicitation that, “This solicitation is subject to the priorities 
+afforded under the R-SA.”  (Stipulated Fact #8).  And, while not stipulated, it is clearly the case that the 
+Solicitation did not make any explicit reference to a competitive range, either to say that one would be 
+established with respect to offerors for the JBMDL food services contract or that one would not be 
+established.  
+In context, what does that mean and where does it leave us with regard to Respondent’s waiver argument?  
+Was the Solicitation’s reference to “no discussions” sufficiently clear as to Respondent’s intention not to
+
+8 
+ 
+establish a competitive range as to require Complainant to protest – or at least to raise a question which 
+might have clarified the situation – during the bid period? 
+The only case seemingly on point is the (non-precedential) arbitration decision in Florida.  The facts there were 
+somewhat similar to those here:  the solicitation stated “no discussions”; the solicitation stated that the R-SA 
+would apply; the solicitation was silent regarding competitive range; but, in a significant departure from our 
+facts, the solicitation set forth a detailed, alternative process involving assessing and comparing offerors’ 
+price.  The contracting officer determined that the SLA’s price (25% above that of the awardee) was not 
+reasonable.  No competitive range was ever set.  As here, the SLA protested and sought arbitration post-
+award, but not before. 
+On a theory similar to that advanced here by Respondent (relying on Blue & Gold and North Carolina), the 
+Florida arbitration panel determined that the SLA had waived its rights.  The panel did not significantly discuss 
+the issue except by extensive quotation from Blue & Gold. 
+As often happens in R-SA arbitrations, one panel member dissented in Florida, saying with respect to waiver,  
+The [SLA] did not waive its rights to challenge the terms of the solicitation by submitting its 
+proposal.  Since the solicitation itself said the [R-SA] applied to the procurement, the [SLA] had 
+no reason to challenge the award.  It wasn’t until after the award that the [SLA] learned that a 
+violation of the [R-SA] had occurred.  In regard to Respondent’s claim that [the SLA] knew no 
+competitive range was going to be established because the solicitation made it clear the award 
+would be made ‘without discussion’, the intent not to establish a competitive range was not 
+clear. . . .  The Panel Minority is convinced that [the SLA] did not sit on its rights waiting to see if 
+it was awarded the contract.  [The SLA] believed the contract would be awarded pursuant to 
+the [R-SA], and it was not until after the award that it discovered the alleged violation of the [R-
+SA]. 
+The dissenter went on to discuss the general principle, somewhat at odds with the patent ambiguity theory in 
+Blue & Gold, that a waiver is not effective unless made knowingly. 
+The Panel majority here respectfully disagrees with the panel majority in Florida and believes that the 
+dissenting panel member there was correct. 
+As will be discussed below with respect to the merits, the Federal Acquisition Regulation (“FAR”) and the R-SA 
+are not in conflict.  There was no flaw on the face of the Solicitation such as the courts found in Blue & Gold and 
+North Carolina.  The Solicitation said that Respondent would apply the R-SA priority.  Complainant cannot be 
+said to have known, or even that it should have known, that Respondent would backtrack. 
+Respondent argues that the reference in the Solicitation to “no discussion” necessarily meant “no competitive 
+range”.  The substance of that proposition is addressed below.  As to waiver, however, that connection is not 
+at all clear, especially given the additional assurance in the Solicitation that the R-SA priority would apply. 
+It is not necessary for the Panel to decide (and it does not do so) whether the correct standard for assessing a 
+waiver argument in the R-SA arbitration context is Knowing Waiver or Patent Ambiguity.  Given the clear 
+statement in the Solicitation that the R-SA priority would apply, coupled with the absence of any statement
+
+9 
+ 
+that a competitive range would not be established, the reference in the Solicitation to “no discussions” does 
+not even rise to the level of establishing a patent ambiguity. 
+The problem here was not in the wording of the Solicitation, but in a fundamental legal disagreement 
+regarding the application of the R-SA regulations and of the relationship between the FAR and the R-SA. 
+Complainant’s protest was not waived and is properly before the Panel. 
+There is another argument to be made on behalf of Respondent to the effect that Complainant could and 
+should have sought arbitration during the bid process.  Presupposing, for the sake of argument, that the terms 
+of the Solicitation put Complainant sufficiently on notice to require it to do so (a concept rejected above), the 
+effect of such a requirement (or even allowing arbitration at that stage of the process) would wreak havoc on 
+the federal contracting process that it purports to protect.  In this case, for example, 16 months separated 
+Complainant’s request to the DoED for arbitration and the Chair even being approached regarding serving.  
+What could or would Respondent have done if its contracting process had been frozen all that time by an 
+arbitration demand? 
+Moreover, such an early arbitration demand would seem to be unripe.  (As a matter of law, it would be unripe 
+with respect to the Court of Federal Claims.  (See Texas v. United States, 134 Fed. Cl. 8 (Fed. Cl. 2017).  In the 
+absence at that stage of any final agency action, what could an arbitration panel effectively do?  Inserting the 
+R-SA arbitration process into a pending federal contracting decision would be unworkable. 
+Merits 
+ 
+Moving forward to address the merits of the matter, the material facts are largely uncontested.  As stipulated 
+by the parties, the Solicitation indicated clearly that Respondent intended to award the contract without 
+conducting discussions.  (Stipulated Fact #7).  Respondent also reserved the right to conduct discussions if it 
+later determined them to be necessary.  It also stated that the Solicitation was subject to R-SA priorities.  
+(Stipulated Fact #8). 
+While not specifically stipulated, it is also uncontested that, prior to awarding the contract to Cantu, 
+Respondent did not establish a competitive range.  (Tr. 91, 93 – 94, 96, 112 – 114) (Respondent Post-Hearing 
+Brief at 6). 
+Rather, on those uncontested facts, Respondent maintains that neither the R-SA nor its implementing 
+regulations require it to set a competitive range (and that, therefore, it did not violate the R-SA or the 
+regulations when it elected not to do so.) 
+Respondent’s Contracting Officer with respect to the Solicitation, Karen Thorngren, testified clearly and 
+cogently on this topic.  Discussions – as that term is used in the federal acquisitions context – are 
+communications between a contracting agency and offerors within the competitive range in which the agency 
+identifies weaknesses or deficiencies (or both) and allows offerors the opportunity to modify their proposals.  
+(Tr. 93 – 94) (Respondent Post-Hearing Brief at 9).  The subject of the Solicitation – provision of food services – 
+was not a complex topic, was well defined, and was of a nature that was widely available on the commercial 
+market.  (Tr. 91 – 94) (Respondent Post-Hearing Brief at 9).
+
+10 
+ 
+Accordingly, while reserving the right to change course if events so dictated, Ms. Thorngren felt that 
+discussions would not be necessary with respect to assessing the offers and determining which offer to 
+accept. (Tr. 91, 93, 96, 112 – 114) (Respondent Post-Hearing Brief at 9).  If, upon analyzing the offers, she had 
+determined that discussions were necessary, then she would have established a competitive range.  But since 
+her review of the offers indicated that discussions were not needed, she did not establish a competitive range 
+before awarding the contract to Cantu.  (Tr. 112 – 114) (Respondent Post-Hearing Brief at 9). 
+As a result of this clear record, the merits of this matter reduce to a single, simple legal question: 
+Complainant asserts that once it submitted its timely offer, Respondent was required under the R-SA and its 
+implementing regulations to establish a competitive range. 
+Respondent counters that neither the R-SA nor its implementing regulations require the Contracting Officer to 
+set a competitive range and that the decision to set a competitive range is at the Contracting Officer’s 
+discretion.  (Respondent Post-Hearing Brief at 8, 10).  
+Respondent correctly points out that the text of the R-SA makes no mention of competitive range.  Both 
+parties cite to, quote from, and make extensive reference to 34 C.F.R. 395.33(a) and (b).  Accordingly, it is 
+useful and appropriate to set out the entire text of those two regulatory provisions from within the larger 
+§395.33, which is entitled “Operation of cafeterias by blind vendors”. 
+a. Priority in the operation of cafeterias by blind vendors on Federal property shall be afforded when the 
+Secretary determines, on an individual basis, and after consultation with the appropriate property 
+managing department, agency, or instrumentality, that such operation can be provided at a reasonable 
+cost, with food of a high quality comparable to that currently provided employees, whether by contract 
+or otherwise. Such operation shall be expected to provide maximum employment opportunities to blind 
+vendors to the greatest extent possible.  
+b. In order to establish the ability of blind vendors to operate a cafeteria in such a manner as to 
+provide food service at comparable cost and of comparable high quality as that available from 
+other providers of cafeteria services, the appropriate State licensing agency shall be invited to 
+respond to solicitations for offers when a cafeteria contract is contemplated by the appropriate 
+property managing department, agency, or instrumentality. Such solicitations for offers shall 
+establish criteria under which all responses will be judged. Such criteria may include sanitation 
+practices, personnel, staffing, menu pricing and portion sizes, menu variety, budget and 
+accounting practices. If the proposal received from the State licensing agency is judged to be 
+within a competitive range and has been ranked among those proposals which have a 
+reasonable chance of being selected for final award, the property managing department, 
+agency, or instrumentality shall consult with the Secretary as required under paragraph (a) of 
+this section. If the State licensing agency is dissatisfied with an action taken relative to its 
+proposal, it may file a complaint with the Secretary under the provisions of § 395.37.  (Emphasis 
+Supplied). 
+Suffice to say, the parties to this arbitration propose diametrically opposing interpretations of that regulatory 
+language.
+
+11 
+ 
+Respondent focuses on the first word of the highlighted sentence (which it points out is the only one within all 
+of the R-SA regulations which references competitive range).  Respondent argues that use of “if” at the start of 
+the sentence means that it (and other similar contracting agencies not before this Panel) are not required to 
+set a competitive range, even if an SLA submits an offer.  Application of SLA priority rights under the R-SA are 
+subject to the agency’s discretionary decision whether (or not) to establish “a” competitive range.  
+(Respondent Post-Hearing Brief at 7). 
+Respondent compares that soft language (“if” and “a”) regarding competitive ranges to the more muscular 
+phrasing in the first sentence of §395.33(b) to the effect that SLAs “shall” be invited to respond to 
+solicitations.  (Respondent Post-Hearing Brief at 6 & 7) (“34 C.F.R. § 395.33(b) only dictates what must follow if 
+a competitive range is established, but this portion of the regulation itself does not require a competitive 
+range to be established.  If the SLA’s proposal is not in a competitive range, then this section does not apply 
+and the SLA does not have priority rights.”) (Emphasis in Original). 
+Respondent also argues that, since neither the R-SA nor its regulations define competitive range, that term 
+should be interpreted consistently with its use as a term of art under more general federal contracting 
+principles as expressed in the FAR. Further, Respondent argues that “Contracting officers have wide discretion 
+under federal procurement regulations to apply and interpret procurement regulations.  North Carolina, 
+supra.”  (Respondent Post-Hearing Brief at 8) (Citation edited for form).  
+In contrast, Complainant points to the (asserted) purpose and intent of the R-SA as expressed in, and by the 
+language of, its implementing regulations.  (Notably, Complainant relies on the same regulatory provisions as 
+put forward by Respondent.) 
+In Complainant’s view, the R-SA requires contracting agencies such as Respondent, acting in concert with the 
+Secretary, to provide blind and visually impaired vendors with a priority with respect to food services contracts 
+such as those at JBMDL.  The R-SA priority is not an option to be granted or withheld at contracting agency 
+whim.  The vehicle by which to balance the government’s legitimate interest in securing quality goods and 
+services at reasonable prices with its interest and public policy goal of assisting blind and visually impaired 
+persons to earn a living – is the competitive range.  If the SLA can provide a bid that is reasonably close to 
+other bids (within a competitive range), and otherwise has a reasonable chance of success, then the priority 
+applies and the contracting agency must consult with the Secretary. 
+By Complainant’s reading, the “if” at the top of §395.33(b) refers to whether (or not) the SLA can produce a 
+bid that is competitive with the other bidders.  It does not refer to granting contracting agencies the discretion 
+to avoid applying R-SA priority by the vehicle of simply deciding not to establish a competitive range.  
+Complainant relies on a previous R-SA arbitration decision, Maryland Dep’t of Educ. v. General Svcs. Admin., 
+Case No. R-S/13-06, in which the panel found an agency obligation to establish a competitive range such as it 
+seeks here. 
+Respondent addresses Maryland in several respects.  First, it points out that previous R-SA arbitration 
+decisions are non-precedential with respect to later-sitting arbitration panels.  Respondent is correct in that 
+regard.  Previous R-SA arbitration decisions are merely advisory rather than precedential.
+
+12 
+ 
+Respondent also distinguishes Maryland, pointing out that the solicitation involved in that case was very 
+specific with respect to the R-SA and competitive range. 
+In Maryland the solicitation expressly stated that if the SLA submitted an offer which is 
+determined to be in the competitive range, the SLA will be awarded the contract in accordance 
+with the Randolph-Sheppard Act.  Maryland at 3.  The solicitation in this case did not include 
+such language and did not promise the establishment of a competitive range.  The solicitation 
+in Maryland also included a statement that if the State licensing agency submits an offer that is 
+determined to be in the final competitive range, the Government will award the contract to the 
+SLA.  Maryland at 4.  Again, no such promise of establishing a competitive range appears in the 
+solicitation in this case.  (Respondent Post-Hearing Brief at 10). 
+Respondent also criticizes the Maryland panel for what Respondent describes as a misapplication of and faulty 
+reliance on a Federal Circuit bid protest case, Southfork Sys. v. U.S., 141 F.3d 1124 (Fed. Cir. 1998), in which 
+the solicitation affirmatively stated that a competitive range would be established.  (Respondent Post-Hearing 
+Brief at 11).  
+Respondent’s criticisms of and distinctions from the specifics of the Maryland panel’s determination appear to 
+be justified.  But those criticisms and distinctions neither address nor detract from the panel’s underlying 
+premise that the R-SA priority requires the contracting agency to implement the R-SA by establishing a 
+competitive range when there is a bid by an SLA. 
+Also notably missing from Respondent’s critique of the Maryland panel determination (and from its 
+substantive argument here) is any citation to any case law – whether judicial or arbitral – supporting its 
+proposed interpretation of the R-SA and 34 C.F.R. 395.33(b).   
+Based on the arguments presented to the Panel by the parties before, during, and after the hearing, this 
+appears to be a novel question of law – save only for the non-precedential Maryland arbitration decision. 
+On an elemental level, of course, Respondent does not need any such case law support since it correctly 
+places the burden of proof on Complainant.  But that still leaves this Panel with the need to choose between 
+two starkly different readings and interpretations of the R-SA and 34 C.F.R. 395.33(b).  Only one of them can 
+be correct.  So, despite carrying the burden of proof, Complainant prevails on this issue if it convinces the 
+Panel that the R-SA and its regulations required Respondent to have established a competitive range with 
+respect to offers submitted to it in respect of the Solicitation, given that Complainant was one of those 
+offerors.  It has done so. 
+As a preliminary matter, there was much discussion by the Parties regarding the relative weight of the FAR and 
+the R-SA (and its regulations).  The Panel does not accept the premise that those two sources of law are 
+inherently in conflict or that we need to choose one as being superior to the other.  It seems elemental to the 
+point of being a truism that Respondent must comply with both the FAR and the R-SA (and its regulations).  
+That one permits something (or at least does not ban it) does not then mean that that thing must also be 
+permitted under the other or preclude application of the other. 
+In theory, if the FAR and the R-SA specifically and irretrievably contradicted each other, then we would have to 
+address and decide the question of precedence.  But they do not, so we do not.
+
+13 
+ 
+Here, rather, while seemingly consistent with the FAR (this Panel specifically disclaims any right, power, or 
+expertise to comment on such matters), Respondent’s interpretation of the R-SA and its regulations, and its 
+actions premised on that interpretation, appear to be antithetical to the clear purpose and intent of the R-SA. 
+In reaching this conclusion, the Panel has taken note of and guidance from the U.S. Court of Federal Claims in 
+Kentucky, Education Cabinet, Dep’t for the Blind v. U.S., 62 Fed. Cl. 445 (Fed. Cl. 2004).  The case is not directly 
+on point here because the issue specifically arising in Kentucky was whether a disappointed SLA (which had 
+failed to secure an Army food services contract) could bypass the R-SA arbitration process and go directly to 
+suing the Army in court.  (The Court ruled that the R-SA arbitration process is mandatory.)   
+For our purposes, the Kentucky decision is notable in several respects. 
+First, Respondent relies in part on its right to apply its discretion within the contracting process (citing North 
+Carolina, supra, and other general law to that effect).  But the Court made clear in Kentucky that, in applying 
+the R-SA regulations at issue there (and here), it is the DoED, acting through the Secretary, rather than the 
+Army (here the Respondent) that is responsible for and accorded discretion regarding administering those 
+regulations.  (Kentucky, 62 Fed. Cl. at 454 – 455). 
+Second, the Court in Kentucky stressed the need – in interpreting and applying the R-SA and its regulations – 
+to be mindful of its purpose and underlying policy goals.  (Id. at 453) (“The purpose of a statue and its 
+underlying policy construed from the statutory text may be highly relevant to both the interpretation of words 
+and the application of the statute to the facts at hand.  See, e.g., Crandon v. U.S., 494 U.S. 152, 158 (1990).”) 
+Here, based on the Panel’s reading of the R-SA, and aided by the Court of Federal Claims’ lengthy discussion in 
+Kentucky, the plain purpose of the R-SA is to afford opportunities and priority to blind and visually impaired 
+vendors.  Nothing about the R-SA reads as optional – to leave it to the contracting agency to decide whether 
+or not – for otherwise valid cost or administrative reasons which would otherwise control – the R-SA priority 
+will apply. 
+This is not a bid protest by a disappointed commercial vendor.  Respondent was well within its rights under 
+the FAR to say in the Solicitation that it planned and expected not to conduct discussions.  And, if Complainant 
+had not submitted an offer, none of the other private commercial vendors who had made offers would have 
+had a basis to protest the award of the contract to Cantu without either discussions or the establishment of a 
+competitive range.  The FAR does not require either discussions or a competitive range. 
+But once Complainant did enter an offer, the R-SA and its regulations also then applied to Respondent and the 
+bid evaluation and award process.  Respondent was then required to establish a competitive range.  Then, if 
+Complainant was within that competitive range and otherwise had a reasonable chance of being awarded the 
+contract, Respondent was required to consult with the Secretary.  Respondent was not entitled – for 
+otherwise generally and ordinarily valid financial and administrative reasons – to elect to ignore the R-SA and 
+award the contract to Cantu without establishing a competitive range.  In not establishing a competitive range, 
+Respondent violated the R-SA as expressed through 34 C.F.R. 395.33(b). 
+Respondent suggests that a decision favorable to Complainant would entail the Panel impermissibly adding to 
+34 C.F.R. 395.33(b) a requirement (to establish a competitive range) that does not exist, and that doing so is
+
+14 
+ 
+beyond the Panel’s power.  The Panel is not adding to or otherwise amending the regulation.  It is merely 
+interpreting and applying the regulation consistently with its and the R-SA’s underlying purpose. 
+There is a further argument to be made – relating to but different from Respondent’s argument about panel 
+action and regulatory interpretation and application.  The argument is to the effect that Respondent was 
+required by applicable federal acquisition law to comply with the terms of the Solicitation with respect to 
+evaluating offerors and awarding the JBMDL food services contract.  (See Texas, supra).  By itself, that 
+statement is correct.  Respondent was barred from diverging from the process it had set forth in the 
+Solicitation. 
+So, the argument goes, Complainant (and by analogy the Panel majority) must be mistaken since Respondent 
+could not have set a competitive range with respect to the Solicitation without unlawfully diverging from the 
+lawful process it had set forth in the Solicitation. 
+The argument would have merit if (a) raised in an appropriate forum with respect to general bid protests 
+rather than before an arbitration panel specifically charged (only) with enforcing the R-SA, and more 
+importantly (b) the Solicitation had stated specifically that the R-SA priority would not apply or that a 
+competitive range would not be established.  Neither condition is met here.  The Solicitation clearly stated 
+that “[t]his solicitation is subject to the priorities afforded under the R-SA.”  (Stipulated Fact #8).  In 
+establishing a competitive range as required by the R-SA, Respondent would have been acting consistently 
+with the terms of the Solicitation. 
+Remedy 
+ 
+Complainant seeks an order from the Panel requiring Respondent to engage Complainant in direct 
+negotiations regarding the food services at JBMDL that are the subject of the Solicitation. 
+In support of that request, Complainant argues that, by virtue of its having received a rating of “Substantial 
+Confidence” with respect to the Solicitation, it was within a “de facto” competitive range, and therefore had a 
+reasonable chance of being selected for the contract.  As a result, Respondent was required to consult with 
+the Secretary concerning implementing the R-SA priority with respect to its offer and the Solicitation. 
+In further support for its request for such relief, Complainant asserts that Cantu, the successful bidder, should 
+not have received a “Substantial Confidence” rating because of what Complainant asserts are performance 
+failures by Cantu with respect to other federal food service contracts.  To support that assertion, Complainant 
+relies on a 2011 report by the Oklahoma State Auditor & Inspector (Complainant Exhibit 1) and a 2017 report 
+by the Department of the Army (Complainant Exhibit 2). 
+Respondent objects on multiple grounds.  First, the matter of Cantu’s past performance and its “Substantial 
+Confidence” rating were not listed as issues in Complainant’s initial request for arbitration (Joint Exhibit 3). 
+Second, the issue of Cantu’s rating is not properly before the Panel because it is not an issue relating to 
+compliance with or violation of the R-SA or its implementing regulations but is merely a disguised bid protest 
+properly asserted before the General Accounting Office or the Court of Federal Claims rather than in an R-SA 
+arbitration.
+
+15 
+ 
+Third, the evidence with respect to Cantu’s past performance is insufficient to support any finding as to error 
+by Respondent with respect to Cantu’s rating with respect to the Solicitation. 
+Fourth, and more globally, Respondent asserts that the Panel lacks authority to issue any relief beyond a 
+declaration that Respondent has violated the R-SA or its implementing regulations. 
+For multiple reasons, Respondent is correct with respect to remedy and Complainant’s arguments fail. 
+For purposes of the discussion that follows, the Panel assumes (but does not decide) that Complainant’s 
+arguments with respect to Cantu are properly before it. 
+As to the scope of the Panel’s authority generally with respect to remedy, while Complainant cites to non-
+precedential decisions by other arbitration panels to the contrary, the law on this issue appears to be clear. 
+Both the 11th Circuit in Georgia Dep’t of Human Resources v. Nash, 915 F.2d 1482, 1492 (11th Cir. 1990), and 
+the 4th Circuit in Maryland State Dep’t of Education, Div. of Rehabilitative Svcs. v. U.S. Dep’t of Veterans Affairs, 
+98 F.3d 165, 169 – 171 (4th Cir. 1996), have been completely clear as to the limitations on this, or any R-SA 
+arbitration panel’s power with respect to remedy.  That power is limited to declaring the agency to be in 
+violation of the R-SA or its implementing regulations.  R-SA arbitration panels are not empowered to order the 
+subject contracting agency to take any particular remedial action.  “The responsibility for correcting the 
+violation lies with the federal entity head.”  Id. 
+Accordingly, Complainant’s request for relief beyond a declaration that Respondent violated the R-SA 
+regulations must fail. 
+The Panel notes that, even if it had the power to consider Complainant’s request for affirmative relief, 
+Complainant’s arguments for such relief would still fail.   
+Complainant has provided no support for the existence of the concept of a “de facto” competitive range.  
+Having argued convincingly that Respondent failed in its obligation to establish a competitive range, pivoting 
+to urge the Panel to find that Respondent really did establish such a range seems inappropriate at best. 
+As to Cantu’s “Substantial Confidence” rating, Respondent is correct that overseeing the bid evaluation 
+process to the point of second-guessing Respondent’s substantive evaluation of offers and offerors for the 
+JBMDL food service contact at issue in the Solicitation would go far beyond the Panel’s purview of evaluating 
+Respondent’s actions with respect to the R-SA and its implementing regulations.  We do not presume to 
+intrude on others’ jurisdiction by opining as to the nature or sufficiency of evidence that would be necessary 
+for Complainant to establish that Cantu was undeserving of its “Substantial Confidence” rating, but the 
+documents proffered for that purpose (Complainant Exhibits 1 and 2) seem not up to the task. 
+Finally, while not strictly necessary to consider given the applicable general limitations on the Panel’s power 
+with respect to remedy, Complainant’s specific request that the Panel order Respondent to enter into direct 
+negotiations with it also runs afoul of the Court of Federal Claims’ more specific guidance in Texas, supra.  The 
+SLA there, having been found to be within a competitive range, sought to be declared entitled to be awarded 
+the contract at issue.  Rather, the Court declared that finding an SLA bid to be within a competitive range, and 
+finding the SLA bid to have a reasonable chance of success, are not the same thing and are separate predicate
+
+16 
+ 
+steps before the required consultations with the Secretary necessary to determine if the SLA is able to provide 
+food of high quality at reasonable cost.  The R-SA arbitration process does not substitute either for final 
+agency action or those consultations.  Id. 
+AWARD 
+1. The matter was not untimely filed and is properly before the Panel. 
+2. Respondent’s awarding of the JBMDL food services contract to Cantu Services, Inc. without 
+establishing a competitive range violated the R-SA and 34 C.F.R. 395.33(b). 
+3. Respondent shall take further action as necessary to remedy the violation. 
+ 
+Dated: April 24, 2018 
+David J. Weisenfeld, Panel Chair 
+Peter A. Nolan, Panel Member 
+ 
+For the reasons and to the extent stated below, Panel Member Steven R. Fuscher dissents from the Award and 
+portions of the Opinion.
+
+17 
+ 
+Steven Fuscher concurring in part and dissenting in part. 
+ 
+I concur in the majority’s finding that the panel lacks authority to order the relief requested by the SLA and 
+that the panel’s authority is limited to determining whether or not the Respondent has violated the R-SA or is 
+implementing regulations. I dissent as regards to the panel’s finding on waiver. 
+The majority’s analysis demonstrates the need for the DoED to clarify its regulations regarding the interaction 
+of the RSA and the FAR.  There is no dispute as to the facts.  The SLA was on notice of the clear language in the 
+solicitation.  The SLA was given the opportunity to object to the terms of the solicitation and did not.   
+Mr. Frye, the Executive Director of the New Jersey Commission for the Blind and Visually Impaired, testified 
+before the panel that his office administers the RSA Program for the State of New Jersey.1 He testified that the 
+SLA was the prime contractor for dining hall services at JBMDL for approximately 25 years until the SLA lost 
+the contract to Cantu in 2014.2  He took a particular interest in this contract because of its size and worked 
+with JBMDL to cultivate good relations.  He also worked with the SLA’s teaming partner in the preparation the 
+SLA’s proposal in response to the solicitation. 3  Mr. Frye explained his understanding of the competitive range 
+in a federal source selection as follows: 
+[T]he concept of a competitive range applies primarily in the instances when a state licensing 
+agency is engaged in the competitive bid process to secure a cafeteria. In most other instances, 
+competitive ranges under the Randolph-Sheppard program are not a factor where there is no 
+competition and a permit is issued to operate on federal property. But in the context of cafeteria 
+awards in the military environment, there is an obligation to participate in a competitive 
+exercise.4 
+The majority’s analysis can be summarized as follows:  The SLA cannot waive its RSA right to the establishment 
+of a competitive range even when a solicitation clearly states that an award can be made to the low 
+responsive, responsible offeror without discussions. The majority position is that a competitive range must be 
+established even though the clear language of the solicitation states that an award can be made without 
+discussions.  This interpretation of the RSA would create a legal and regulatory modification to the terms of 
+the solicitation that is not stated in the solicitation and would create ambiguity in the procurement process.  
+The SLA, in this case, has 25 years of experience managing dining hall service contracts subject to the FAR and 
+was involved in the preparation of the proposal.  The SLA was an experienced government contractor and 
+should be held to the standard of all offerors who competed for the award of this contract.  The result of the 
+majority’s decision would be the establishment of a “right that cannot be waived” and the creation of an 
+ambiguity in the agency’s procurement process that is a violation of basic government contracting principles.   
+The U.S. Court of Appeals for the Federal Circuit in The Blue & Gold Fleet, L.P. v. United States, 492 F.3d 1308 
+                                                 
+1 Transcript at pg. 28. 
+2 Transcript at pg. 31. 
+3 Transcript at pg. 32. 
+4 Transcript at pg. 41.
+
+18 
+ 
+(Fed. Cir. 2007) affirmed the waiver rule, stating: 
+Therefore, while it is true that the jurisdictional grant of 28 U.S.C. §1491(b) contains no time 
+limit requiring a solicitation to be challenged before the close of bidding, the statutory mandate 
+of §1491(b)(3) for courts to “give due regard to the need for expeditious resolution of the 
+action” and the rationale underlying the patent ambiguity doctrine favor recognition of a 
+waiver rule. Recognition of this rule finds further support in the GAO's bid protest regulations 
+and in our analogous doctrines. Accordingly, a party who has the opportunity to object to the 
+terms of a government solicitation containing a patent error and fails to do so prior to the close 
+of the bidding process waives its ability to raise the same objection afterwards in a §1491(b) 
+action in the Court of Federal Claims.5 
+ The court also addressed the issue of patent ambiguity, stating: 
+Similarly, we have recognized the doctrine of patent ambiguity where the party challenging the 
+government is a party to the government contract. “The doctrine of patent ambiguity is an 
+exception to the general rule of contra proferentem, which courts use to construe ambiguities 
+against the drafter.” E.L. Hamm & Assocs., Inc. v. England, 379 F.3d 1334, 1342 (Fed.Cir.2004). 
+We have applied the doctrine of patent ambiguity in cases where, as here, a disappointed bidder 
+challenges the terms of a solicitation after the selection of another contractor. See Stratos Mobile 
+Networks USA, LLC v. United States, 213 F.3d 1375, 1381 (Fed.Cir.2000); Statistica, Inc. v. 
+Christopher, 102 F.3d 1577, 1582 (Fed.Cir.1996). Under the doctrine, where a government 
+solicitation contains a patent ambiguity, the government contractor has “a duty to seek 
+clarification from the government, and its failure to do so precludes acceptance of its 
+interpretation” in a subsequent action against the government. Stratos, 213 F.3d at 1381 
+(quoting Statistica, 102 F.3d at 1582). This doctrine was established to prevent contractors from 
+taking advantage of the government, protect other bidders by assuring that all bidders bid on the 
+same specifications, and materially aid the administration of government contracts by requiring 
+that ambiguities be raised before the contract is bid, thus avoiding costly litigation after the fact.6 
+ The court explained that:  
+These reasons underlying the patent ambiguity doctrine apply with equal force in the bid protest 
+context. In the absence of a waiver rule, a contractor with knowledge of a solicitation defect could 
+choose to stay silent when submitting its first proposal. If its first proposal loses to another bidder, the 
+contractor could then come forward with the defect to restart the bidding process, perhaps with 
+increased knowledge of its competitors. A waiver rule thus prevents contractors from taking advantage 
+of the government and other bidders, and avoids costly after-the-fact litigation. Accordingly, the same 
+reasons underlying application of the patent ambiguity doctrine against parties to a government 
+                                                 
+5 Id. at 492 F.3d 1316. 
+6 Id at 492 F.3d 1315.
+
+19 
+ 
+contract speak to recognizing a waiver rule against parties challenging the terms of a government 
+solicitation.7 
+The GAO has adopted a similar rule under 4 C.F.R. § 21.2(a)(1) where protests must be made prior to receipt 
+of initial proposals where alleged improprieties are apparent prior to bid opening.8  Several decisions of the 
+Court of Federal Claims have also recognized the value of the waiver rule to prevent the inefficient and costly 
+expenditure time and effort to re-submit or re-evaluate proposals.  Examples of the cases sited by the court 
+include: N.C. Div. of Servs. for the Blind v. United States, 53 Fed.Cl. 147, 165 (2002); Argencord Mach. & Equip., 
+Inc. v. United States, 68 Fed.Cl.167, 175 n. 14 (2005); MVM, Inc. v. United States, 46 Fed.Cl. 126, 130 (2000); 
+Allied Tech. Group, Inc. v. United States, 39 Fed.Cl. 125, 146 (1997); Aerolease Long Beach v. United States, 31 
+Fed.Cl. 342, 358 (1994). 
+The court sited . A.C. Aukerman Co. v. R.L. Chaides Constr. Co., 960 F.2d 1020, 1032 (Fed.Cir.1992) to support 
+the principle of laches and equitable estoppel.  The court referenced decisions by the Court of Federal Claims 
+that support this principle to avoid delays in the procurement process citing Transatlantic Lines LLC v. United 
+States, 68 Fed.Cl. 48, 52, 57 (2005) and CW Gov't Travel, Inc. v. United States, 61 Fed.Cl. 559, 568-69 (2004) for 
+the principle of considering delays as part of the laches analysis.   
+North Carolina Division of Services for the Blind v. United States, 53 Fed. Cl. 147, 165 (Fed. Cl. 2002) also 
+stands for the proposition that the proper procedure to follow when an offeror identifies a problem 
+with a solicitation is to make a timely objection rather than waiting to see if the offeror is the 
+successful awardee under the solicitation.  
+There is an argument that GAO protests and actions before the Court of Federal Claims are not ripe for 
+adjudication until the issue before the Court of Federal Claims is addressed through a RSA arbitration.  The 
+majority argues that this is not a timely remedy since RSA arbitrations may take several months to reach a 
+decision.  This is an issue of timely administration and does not provide the justification for a legal exception 
+to the normal timeliness standards applied to government contracting procurements.  
+The RSA regulations state that a decision by the RSA arbitration panel is a final agency decision.  The RSA 
+regulations do not define when a SLA can request arbitration before an RSA arbitration panel. 34 CFR §395.37 
+Arbitration of State Licensing Agency Complaints subparagraph (a) and (b) state: 
+a. Whenever any State licensing agency determines that any department, agency, or instrumentality of the United 
+States which has control of the maintenance, operation, and protection of Federal property is failing to comply 
+                                                 
+7 Id at 592 F.3d 1316. 
+1. 8 4 C.F.R. § 21.2(a)(1) states: “Protests based upon alleged improprieties in a solicitation which are 
+apparent prior to bid opening or the time set for receipt of initial proposals shall be filed prior to bid 
+opening or the time set for receipt of initial proposals. In procurements where proposals are 
+requested, alleged improprieties which do not exist in the initial solicitation but which are 
+subsequently incorporated into the solicitation must be protested not later than the next closing time 
+for receipt of proposals following the incorporation.”
+
+20 
+ 
+with the provisions of the Act or of this part and all informal attempts to resolve the issues have been 
+unsuccessful, such licensing agency may file a complaint with the Secretary. 
+b. Upon receipt of a complaint filed under paragraph (a) of this section, the Secretary shall convene an ad 
+hoc arbitration panel which shall, in accordance with the provisions of 5 U.S.C. ch. 5, subchapter II, give 
+notice, conduct a hearing and render its decision which shall be final and binding on the parties 
+except that such decision shall be subject to appeal and review as a final agency action for purposes 
+of the provisions of 5 U.S.C. ch. 7[emphasis added]. The arbitration panel convened by the Secretary 
+to hear complaints filed by a State licensing agency. . . 
+The SLA had the right to request arbitration under 34 CFR §395.37 but did not.  There is nothing in the RSA 
+regulations that requires the SLA to wait until the end of a source selection to request arbitration on a specific 
+issue impacting the SLA in a particular competitive source selection that is required to accommodate the RSA 
+priority.  If the SLA makes a timely request for arbitration, the result is an arbitration decision. The 
+administrative remedies are exhausted and the Court of Federal Claims has jurisdiction.  The SLA has a 
+remedy.  The result is an opportunity to address the concerns of the SLA in a timely manner.   
+The government has the authority to extend the current contract until the arbitration issue is resolved.  Once 
+the arbitration decision is final, the issue is ripe for litigation and/or negotiation between the parties.  As 
+expressed by the court in The Blue & Gold Fleet, L.P. v. United States, the establishment of clarity, so all parties 
+to the competitive source selection process have a clear understanding of the procurement rules, is 
+fundamental to basic government contracting principles of fairness and equity. 
+ COMPLIANCE WITH SOURCE SELECTION TERMS 
+ 
+ I concur with the majority that both the RSA and the FAR apply to a source selection that obligates federal 
+funds to pay a SLA for providing dining hall services.  However, neither the RSA and its implementing 
+regulations nor the FAR address the interaction between the two sets of regulations during a competitive 
+source selection subject to the RSA.  The Court of Federal Claims in Texas v. US, No. 17-847C, November 7, 
+2017, addressed a broad range of RSA issues, including the requirement for the government to comply with 
+the terms of the solicitation in evaluating offers.  The court stated: 
+The court further notes that protestors’ argument that the State of Texas was entitled to an 
+immediate priority contract right as soon as it was included in the competitive range is also not 
+consistent with the Randolph- Sheppard Act, the implementing regulations at 34 C.F.R. § 395.33, 
+and the established principle in this court that an agency cannot deviate from the terms of its 
+solicitation when conducting its evaluation of proposals. Relevant to this bid protest, the 
+solicitation set forth evaluation criteria for determining whether and when to afford the priority 
+to the SLA, which are consistent with the Randolph- Sheppard Act and the implementing 
+regulations. Agencies are required to evaluate proposals and make contract awards based on the 
+criteria set forth in the solicitation. See NEQ, LLC v. United States, 88 Fed. Cl. 38, 47–48 (2009) (“It 
+is hornbook law that agencies must evaluate proposals and make awards based on the criteria 
+stated in the solicitation.”). It is equally well -established that agencies cannot evaluate proposals
+
+21 
+ 
+based on criteria that are not disclosed in the solicitation. See NVE, Inc. v. United States, 121 Fed. 
+Cl. 169, 180 (2015).9  
+The court continues: 
+This court in Banknote Corp. of America, Inc. v. United States stated:  
+It is hornbook law that agencies must evaluate proposals and make awards based on the criteria 
+stated in the solicitation. This requirement is firmly rooted in the Competition in Contracting Act 
+(CICA) . . . which indicate[s] that an agency shall evaluate competitive proposals and assess their 
+qualities solely on the factors and subfactors specified in the solicitation. See 10 U.S.C. §§ 
+2305(a)(2)(A), 2305(a)(3)(A) (2000) . . . . It thus is beyond peradventure that the government may 
+not rely upon undisclosed evaluation criteria in evaluating proposals, Acra, Inc. v. United States, 
+44 Fed. Cl. 288, 293 (1999), and, where appropriate, must disclose the factors' relative 
+importance, Isratex, Inc. v. United States, 25 Cl. Ct. 223, 230 (1992). See also Cube Corp. v. United 
+States, 46 Fed. Cl. 368, 377 (2000); Dubinsky v. United States, 43 Fed. Cl. 243, 266 (1999). That 
+said, an agency still has “great discretion in determining the scope of an evaluation factor.” 
+Forestry Surveys & Data v. United States, 44 Fed. Cl. 493, 499 (1999). Consistent with these 
+precepts, in a case such as this, a protester must show that: (i) the procuring agency used a 
+significantly different basis in evaluating the proposals than was disclosed; and (ii) the protester 
+was prejudiced as a result—that it had a substantial chance to receive the contract award but for 
+that error. 10 
+There is strong legal precedent that JBMDL was required to comply with the terms of the solicitation.  As the 
+Court in Texas v. US reaffirms, basic government contracting procedure requires the government comply with 
+the terms of the solicitation when evaluating offers.  This basic principle re -enforces the obligation of the SLA 
+to make timely objection through RSA arbitrations of RSA issues that impact a source selection early in the 
+source selection process.  This requirement supports the need for timely objection by the RSA. The following 
+analysis addresses timeliness. 
+ 
+TIMELINESS 
+ 
+While it may seem harsh to apply the waiver rule to the SLA, the SLA has not been without remedies.  Timely 
+requests for arbitration resolve the “ripeness” of an issue for adjudication.  While the Court of Federal Claims 
+will not hear an RSA case until after the arbitration is complete, the fact that the RSA arbitration decision is a 
+final agency action addresses the jurisdictional issue.  Timely arbitrations also address issues regarding the 
+adequacy of the terms of the solicitation to address the RSA priority.  For example, the SLA could have made a 
+timely challenge to the competition for the award of the contract by requesting an arbitration to determine if 
+                                                 
+9 Texas v. US, No. 17-847C at 19. 
+10 Id.
+
+22 
+ 
+JBMDL and the SLA could negotiate a sole source contract under the authority of 34 CFR §395.33 (d)11.  The 
+SLA had been providing dining hall services at JBMDL on a sole source basis for a approximately 25 years.12   If 
+the SLA and JBMDL were able to negotiate a contract that demonstrated the SLA could continue to provide for 
+the operation of the dining facilities at a reasonable cost, with food of a high quality to that currently provided 
+employees, JBMDL would need to take the position that not awarding the contract would adversely affect the 
+interests of the United States. This position would need to be made to the Secretary of the DoED.  By taking 
+this timely action before the initiation of the competition, the SLA would have retained the rights granted the 
+SLA under the RSA.13  
+The SLA could have also immediately requested an arbitration objecting to the inclusion of FAR 52.212-1 
+subparagraph (g) that would have put JBMDL on notice that the SLA objected to JBMDL’s intent to award 
+without discussions. Similarly, the SLA was put on notice by JBMDL that the Solicitation included, Addenda to 
+52.212-2 - Evaluation Factors for Award. Paragraph H that states  “[t]he government intends to award a 
+contract without discussions with respective offerors.” Paragraph I of this section states “[t]his solicitation is 
+subject to the priorities afforded under the Randolph-Sheppard Act.”14 
+ A timely objection to the terms of the solicitation would have allowed an arbitration panel to determine if the 
+terms of the solicitation complied with 34 CFR §395.33(a)15 that grants the SLA a “[p]riority in the operation of 
+cafeterias by blind vendors on Federal property.” This priority “shall be afforded when the Secretary 
+determines, on an individual basis, and after consultation with the appropriate property managing 
+department, agency, or instrumentality, that such operation can be provided at a reasonable cost, with food 
+of a high quality comparable to that currently provided employees, whether by contract or otherwise. Such 
+operation shall be expected to provide maximum employment opportunities to blind vendors to the greatest 
+extent possible.”16 
+                                                 
+11 34 CFR §395.33(d) Notwithstanding the requirements of paragraphs (a) and (b) of this section, Federal property managing 
+departments, agencies, and instrumentalities may afford priority in the operation of cafeterias by blind vendors on Federal property 
+through direct negotiations with State licensing agencies whenever such department, agency, or instrumentality determines, on an 
+individual basis, that such operation can be provided at a reasonable cost, with food of a high quality comparable to that currently 
+provided employees: Provided, however, That the provisions of paragraphs (a) and (b) of this section shall apply in the event that the 
+negotiations authorized by this paragraph do not result in a contract. 
+12 Transcript at pg. 37. Testimony of Mr. Frye. 
+13 CFR 395.30(b) states:  “Any limitation on the location or operation of a vending facility for blind vendors by a department, agency 
+or instrumentality of the United States based on a finding that such location or operation or type of location or operation would 
+adversely affect the interests of the United States shall be fully justified in writing to the Secretary who shall determine whether 
+such limitation is warranted. A determination made by the Secretary concerning such limitation shall be binding on any department, 
+agency or instrumentality of the United States affected by such determination.   The Secretary shall publish such determination in 
+the Federal Register along with support documents directly relating to the determination. 
+14 Findings of Fact 7. “Government intends to evaluate offers and award a contract without discussions with offerors. Therefore, the 
+offeror’s initial offer should contain the offeror’s best terms from a price and technical standpoint.”  See also Findings of Fact 8. 
+15 34 CFR §395.33(a) Priority in the operation of cafeterias by blind vendors on Federal property shall be afforded when the 
+Secretary determines, on an individual basis, and after consultation with the appropriate property managing department, agency, or 
+instrumentality, that such operation can be provided at a reasonable cost, with food of a high quality comparable to that currently 
+provided employees, whether by contract or otherwise. Such operation shall be expected to provide maximum employment 
+opportunities to blind vendors to the greatest extent possible. 
+16 In addition to 34 CFR §395.33(a), the RSA supports the regulation stating: 20 USC 107(a) Authorization: For the purposes of 
+providing blind persons with remunerative employment, enlarging the economic opportunities of the blind, and stimulating the blind
+
+23 
+ 
+By waiting until after the notice of award to raise their objection to the terms of the solicitation, the SLA is in 
+the position of using the knowledge gained from the competition to strengthen its negotiation position at the 
+expense of its competitors and forces the government to incur the expense of after-the-fact arbitration and 
+potential litigation expense.  This is the exact result addressed by the United States Court of Appeals, Federal 
+Circuit in The Blue & Gold Fleet, L.P. v. United States. 
+Mr. Frye’s testimony highlights a fundamental difference between the non-competitive process for the 
+placement of vending machines on a federal facility under a permitting process and a competitive 
+procurement that obligates federal funds for the provision of dining hall services subject to the FAR and 
+numerous federal appropriation statutes.  Mr. Frye continued saying: “The language of the regulation clearly 
+anticipates the existence of the creation of a competitive range.”17 The majority agrees with Mr. Frye.  
+However, it is my position that the SLA can waive this right and the SLA had the obligation seek clarification 
+and/or modification of the language.  As Mr. Frye testified: “We did not seek clarification of the no discussion 
+language.  Honestly, it struck us as throw away language that really had little significance except we assumed 
+it meant what it said sort of on its face. We didn't assume that it had some significant term of art of legal 
+standard.”18 
+Mr. Frye’s testimony supports the basic reason for the waiver rule set forth by the U.S. Court of Appeals 
+for the Federal Circuit in The Blue & Gold Fleet, L.P. v. United States, where the court stated: “Under the 
+doctrine, where a government solicitation contains a patent ambiguity, the government contractor has ‘a 
+duty to seek clarification from the government, and its failure to do so precludes acceptance of its 
+interpretation’ in a subsequent action against the government.’”19   
+It is clear from Mr. Frye’s testimony that the SLA was aware of the source selection process included in the 
+solicitation but simply ignored the language.  It is also clear that the SLA was given the opportunity to seek 
+clarification from JBMDL and did seek clarification from JBMDL on a number of issues, but chose not to 
+raise the issue of award without discussions.  The SLA simply failed its duty to seek clarification in a timely 
+manner and has therefore waived its right to raise this issue after award.  
+ 
+                                                                                                                                                                                     
+to greater efforts in striving to make themselves self-supporting, blind persons licensed under the provisions of this chapter shall be 
+authorized to operate vending facilities on any Federal property. (b)Preferences regulations; justification for limitation on operation: In 
+authorizing the operation of vending facilities on Federal property, priority shall be given to blind persons licensed by a State agency 
+as provided in this chapter; and the Secretary, through the Commissioner, shall, after consultation with the Administrator of General 
+Services and other heads of departments, agencies, or instrumentalities of the United States in control of the maintenance, operation, 
+and protection of Federal property, prescribe regulations designed to assure that—(1) the priority under this subsection is given to such 
+licensed blind persons (including assignment of vending machine income pursuant to section 107d–3 of this title to achieve and 
+protect such priority), and (2)wherever feasible, one or more vending facilities are established on all Federal property to the extent that 
+any such facility or facilities would not adversely affect the interests of the United States. Any limitation on the placement or 
+operation of a vending facility based on a finding that such placement or operation would adversely affect the interests of the United 
+States shall be fully justified in writing to the Secretary, who shall determine whether such limitation is justified. A determination 
+made by the Secretary pursuant to this provision shall be binding on any department, agency, or instrumentality of the United States 
+affected by such determination. The Secretary shall publish such determination, along with supporting documentation, in the Federal 
+Register. 
+17 Id. 
+18 Transcript at pg. 66. 
+19 Excerpt from The Blue & Gold Fleet, L.P. v. United States, Supra where the court cited Statistica, 102 F.3d at 1582.
+
+24 
+ 
+April 23, 2018 
+Steven R Fuscher, Concurring in part and dissenting in part to the Majority Decision 
+Panel Member

@@ -1,0 +1,720 @@
+FILENAME: tac-17-04-pdf-9307b22f0287.pdf
+PATH: _raw/rsa.ed.gov/tac-17-04-pdf-9307b22f0287.pdf
+
+UNITED STATES DEPARTMENT OF EDUCATION 
+OFFICE OF SPECIAL EDUCATION AND REHABILITATIVE SERVICES 
+REHABILITATION SERVICES ADMINISTRATION 
+WASHINGTON, DC 20202-2800 
+ 
+TECHNICAL ASSISTANCE CIRCULAR 
+  RSA-TAC-17-04 
+DATE: June 1, 2017 
+ 
+ADDRESSEES: STATE VOCATIONAL REHABILITATION AGENCIES  
+STATE REHABILITATION COUNCILS 
+TECHNICAL ASSISTANCE CENTERS  
+AMERICAN INDIAN VOCATIONAL REHABILITATION SERVICE 
+PROJECTS 
+CLIENT ASSISTANCE PROGRAMS 
+ 
+SUBJECT:  Guidance on the Use of Supplemental Wage Information to Implement the 
+Performance Accountability Requirements under the Workforce 
+Innovation and Opportunity Act 
+ 
+PURPOSE: 
+ 
+The purpose of this Technical Assistance Circular (TAC) is to provide sub-regulatory guidance 
+on the requirements established by the Workforce Innovation and Opportunity Act (WIOA) and 
+its implementing regulations regarding the use of supplemental wage information, when 
+appropriate, to assist in carrying out the performance accountability requirements under section 
+116 of WIOA.   
+ 
+TECHNICAL ASSISTANCE: 
+ 
+Background 
+ 
+Section 116 of WIOA establishes performance accountability indicators and performance 
+reporting requirements to assess the effectiveness of States and local areas in achieving positive 
+outcomes for the individuals served by each of the six core WIOA programs.  The core programs 
+are: the Adult, Dislocated Worker, and Youth programs authorized under WIOA title I and 
+administered by the U.S. Department of Labor (DOL); the Adult Education and Family Literacy 
+Act (AEFLA) program authorized under WIOA title II and administered by the U.S. Department 
+of Education (ED); the Employment Service (ES) program authorized under the Wagner-Peyser 
+Act, as amended by WIOA title III and administered by DOL; and the Vocational Rehabilitation 
+(VR) program authorized under title I of the Rehabilitation Act of 1973, as amended by WIOA 
+title IV and administered by ED. 
+ 
+On August 19, 2016, DOL and ED (the Departments) published in the Federal Register the 
+WIOA Joint Rule for Unified and Combined State Plans, Performance Accountability, and the 
+One-Stop System Joint Provisions (Joint WIOA Final Rule) at 81 FR 55791, which took effect
+
+2 
+ 
+on October 18, 2016.  On December 19, 2016, the Departments released Performance 
+Accountability Guidance for WIOA Title I, Title II, Title III and Title IV Core Programs to 
+further clarify the requirements of the performance accountability system and assist States in 
+understanding the methodologies for calculating levels of performance for the six primary 
+indicators of performance, the operational parameters for each of the indicators, and the 
+application of each of the indicators to each core program. 
+ 
+This guidance provides clarification to States on the use of supplemental wage information 
+(described in detail on page 6 in the section titled “Supplemental Wage Information Methods and 
+Procedures”), when reliance on such information is necessary for verifying and reporting on the 
+employment-related performance indicators: employment rate during the second quarter after 
+exit from the program; employment rate during the fourth quarter after exit from the program; 
+and median earnings during the second quarter after exit from the program.   The guidance also 
+applies to the employment-related portion of the credential attainment indicator.   
+ 
+Primary Indicators of Performance 
+ 
+Under section 116(b)(2)(A) of WIOA, the performance accountability indicators that apply 
+across the six core programs are: 
+ 
+1. Employment Rate – 2nd Quarter After Exit: The percentage of participants who are in 
+unsubsidized employment during the second quarter after exit from the program (for title 
+I Youth, the indicator is the percentage of participants in education or training activities, 
+or in unsubsidized employment during the second quarter after exit). 
+ 
+2. Employment Rate – 4th Quarter After Exit: The percentage of participants who are in 
+unsubsidized employment during the fourth quarter after exit from the program (for title I 
+Youth, the indicator is the percentage of participants in education or training activities, or 
+in unsubsidized employment during the fourth quarter after exit). 
+ 
+3. Median Earnings – 2nd Quarter After Exit: The median earnings of participants who are 
+in unsubsidized employment during the second quarter after exit from the program. 
+ 
+4. Credential Attainment: The percentage of those participants enrolled in an education or 
+training program (excluding those in on-the-job training (OJT) and customized training) 
+who attain a recognized postsecondary credential or a secondary school diploma, or its 
+recognized equivalent, during participation in or within one year after exit from the 
+program.  A participant who has attained a secondary school diploma or its recognized 
+equivalent is included in the percentage of participants who have attained a secondary 
+school diploma or its recognized equivalent only if the participant is also employed or is 
+enrolled in an education or training program leading to a recognized postsecondary 
+credential within one year after exit from the program. 
+ 
+5. Measurable Skill Gains: The percentage of program participants who, during a program 
+year, are in an education or training program that leads to a recognized postsecondary 
+credential or employment and who are achieving measurable skill gains, defined as
+
+3 
+ 
+documented academic, technical, occupational, or other forms of progress, towards such 
+a credential or employment.  
+ 
+6. Effectiveness in Serving Employers: WIOA section 116(b)(2)(A)(i)(VI) requires the 
+Departments to establish a primary indicator of performance for effectiveness in serving 
+employers.  The Departments are piloting three approaches designed to gauge how well 
+the workforce system is meeting critical workforce needs of the business community. 
+ 
+Availability of Social Security Numbers (SSNs) and Wage Records to Collect Employment 
+Information 
+ 
+Section 116(i)(2) of WIOA requires States to use quarterly wage records, consistent with State 
+law, to measure their progress on satisfying State and local performance accountability 
+indicators.  The Joint WIOA Final Rule implements these requirements in 20 CFR 677.175, 34 
+CFR 463.175, and 34 CFR 361.175 by requiring States to use, consistent with State law, 
+quarterly wage record information such as intrastate and interstate wages paid to an individual, 
+an individual’s SSN, and the Federal employer identification number of the employer paying the 
+wages to the individual.   
+ 
+However, the Departments recognize that in particular circumstances (further described below) 
+there are challenges the core programs face in tracking the progress of individuals for whom 
+obtaining a quarterly wage record match may not be possible. In order to ensure that programs 
+may track the participants for performance accountability purposes even if their information is 
+not contained in the State’s quarterly wage record system, the Joint WIOA Final Rule permits 
+States to use “other information as is necessary to measure the progress of those participants 
+through methods other than quarterly wage record information” if quarterly wage records are not 
+available for a participant (20 CFR 677.175(a)(3), 34 CFR 463.175(a)(3), and 34 CFR 
+361.175(a)(3)). 
+ 
+Matching a participant’s SSN against quarterly wage record information is the most effective 
+means for determining employment status and earnings for a program participant. However, a 
+quarterly wage record match will not be possible in all circumstances.  Eligibility to participate 
+in any of the programs under WIOA is not contingent upon the individual providing an SSN.
+1  
+More broadly, since the performance indicators require reporting on all participants,2 States are 
+encouraged to develop a method for quantifying the performance outcomes of participants who 
+                                                 
+1 See 81 FR at 55838. 
+2 Although the definition of “participant” is consistent across the core programs, there are some slight differences to 
+account for programmatic requirements.  For the WIOA title I Adult, title I Dislocated Worker, title II AEFLA, and 
+title III Wagner-Peyser Act ES programs, a participant is a reportable individual who has received services other 
+than the services described in 20 CFR 677.150(a)(3), 34 CFR 463.150(a)(3), and 34 CFR 361.150(a)(3), after 
+satisfying all applicable programmatic requirements for the provision of services, such as eligibility determination. 
+For the title I Youth program, a participant is a reportable individual who has satisfied all applicable program 
+requirements for the provision of services, including eligibility determination, an objective assessment, and 
+development of an individual service strategy, and received one or more of the 14 WIOA Youth program elements 
+identified in section 129(c)(2) of WIOA. For the VR program, a participant is a reportable individual who has 
+applied and been determined eligible for VR services, has an approved and signed Individualized Plan for 
+Employment, and has begun to receive services. See 20 CFR 677.150(a); 34 CFR 463.150(a); 34 CFR 361.150(a); 
+and OCTAE Program Memorandum 17-2; DOL TEGL 10-16; and RSA TAC 17-1 issued December 19, 2016.
+
+4 
+ 
+do not provide SSNs or for whom wage records are not available in order to include them in the 
+calculation of levels of performance for each of the core programs. 
+ 
+Circumstances for Collecting Employment-Related Data Using Supplemental  
+Methods for Performance Reporting Purposes  
+ 
+For purposes of the employment-related performance indicators, a participant’s status in 
+unsubsidized employment and quarterly earnings may be determined by a variety of data 
+sources.  To the extent it is consistent with State law, direct Unemployment Insurance (UI) wage 
+match, obtained through either State UI data or  the out-of-State wage record data exchange, via 
+appropriate agreement,
+3 will be the primary data source for verifying participant outcomes for 
+purposes of calculating levels of performance for the employment-related indicators and will be 
+used when available.  UI wage records include private sector and government employer wage 
+reports, such as: 
+ 
+• State government employment records; 
+• Local government employment records; 
+• Judicial employment records; and 
+• Public school employment records.  
+ 
+While most forms of employment in a State’s workforce will be reported via employer tax filings 
+in the UI wage records system as noted above, certain types of employers and employees are 
+excluded from coverage under Federal and State UI laws.  For program participants engaged in 
+these types of employment, and for participants for whom the State does not have an SSN on 
+record, States may use supplemental wage information and wage data from other reliable sources 
+to collect employment-related data necessary for calculating levels of performance. 
+ 
+Individuals for whom a quarterly wage record match would not be available through the State UI 
+data system include but are not limited to: 
+ 
+• Federal employees; 
+• Military employees; or 
+• Individuals who are self-employed. 
+ 
+States that are not signatories to the Wage Record Interchange System (WRIS) cannot access 
+State UI wage records through the WRIS.  Furthermore, performance reporting for the AEFLA 
+                                                 
+3 The Wage Record Interchange System (WRIS) is a data sharing agreement used to exchange wage record 
+information for performance reporting purposes between States that are party to the data sharing agreement.  WRI S, 
+and WRIS2, were established under the Workforce Investment Act of 1998 ( WIA); the successor system under 
+WIOA will be known as the State Wage Interchange System (SWIS).  Section 116(i)(2) of WIOA continues the 
+requirement that States use wage records to assess performance and the Secretary of Labor’s authority to facilitate the 
+exchange of wage data across states.  Additionally, section 116 of WIOA identifies core programs administered by 
+the Departments and their performance accountability responsibilities, which include the use of UI wage records for 
+performance accountability purposes.  As of the date of this guidance, the Departments are working with States to 
+establish the new SWIS Data Sharing Agreement that builds on the established protocols, permissions, and 
+protections under the WRIS and WRIS2 and will help to facilitate States’ compliance with WIOA’s performance 
+reporting requirements.
+
+5 
+ 
+and VR programs is not a permissible query of the WRIS, and the WRIS cannot be used to 
+obtain UI wage records to carry out performance reporting for the AEFLA and VR programs.  
+However, performance reporting for the AEFLA and VR programs will be a permissible query 
+of the State Wage Interchange System (SWIS).  That is, the SWIS can be used to obtain UI wage 
+records to carry out performance reporting for the AEFLA and VR programs.  As has been true 
+with the WRIS, States that are not signatories to the SWIS will not be able to access State UI 
+wage records through the SWIS. 
+ 
+Sources of supplemental wage information for the types of employees described above include: 
+ 
+• Federal employment records, such as military employment records, or records from the 
+U.S. Department of Defense, U.S. Postal Service, and U.S. Office of Personnel 
+Management;  
+• State New Hires Registry; 
+• State Department of Revenue or Taxation;  
+• Railroad Retirement System; and  
+• Other forms of supplemental wage information (see description in the next section). 
+ 
+It is important for States to consider the following when deciding to voluntarily collect 
+supplemental information for purposes of calculating levels of performance for the employment-
+related indicators: 
+ 
+1. States are required to report a participant’s status in unsubsidized employment during 
+the second quarter and fourth quarter after exit.  In addition, a participant’s quarterly 
+earnings may only be reported for calculation of median earnings during the second 
+quarter after exit, upon direct wage record match or collection of supplemental wage 
+information.  While median earnings are not reported for the fourth quarter after exit, 
+either a direct wage record match or supplemental wage information is required to 
+determine a participant’s employment status in the fourth quarter after exit.   
+ 
+2. Within each quarter after exit for which wages are required pursuant to the 
+performance accountability indicators, if a direct wage match is used to determine 
+both employment status and wages for the period, then the same direct wage match 
+record must be used for both wages and employment status.  Likewise, if 
+supplemental wage information is used to determine both employment status and 
+wages within the same reporting period, then the same supplemental wage 
+information must be used for both wages and employment status.  There is no 
+requirement that the same direct wage record match or supplemental wage 
+information be used across multiple reporting periods, particularly in the event that 
+the individual’s employment status changes making the employment and wage 
+verification method initially used not practicable or ideal.  The Departments 
+recommend that States use direct wage record matches whenever possible because 
+such method yields the most reliable data.
+
+6 
+ 
+3. When calculating levels of performance, States that elect not to use supplemental 
+wage information are still expected to include participants who do not have the 
+necessary data to complete a wage record match in the denominator.  In so doing, 
+those individuals would be counted as negatives (0 in the numerator) when 
+calculating levels of performance for the 2nd and 4th quarter employment status 
+indicators. Participants will be excluded from the median earnings indicator 
+calculation if the employment rate second quarter after exit is a negative (0)). 
+ 
+4. For States that elect to use supplemental wage information, States must ensure that a 
+participant’s quarterly earnings used for reporting the median earnings indicator 
+(second quarter after exit) only reflect those wages that are actually paid to the 
+participant during the quarter. 
+ 
+Supplemental Wage Information Methods and Procedures 
+ 
+For States that determine the need to collect supplemental wage information for the employment-
+related indicators, acceptable forms of supplemental wage information, relevant to the core 
+program, include, but are not limited to, the following: 
+ 
+Tax documents, payroll records, and employer records such as: 
+ 
+• Copies of quarterly tax payment forms to the Internal Revenue Service, such as a Form 
+941 (Employer’s Quarterly Tax Return);   
+• Copies of pay stubs (minimum of two pay stubs); or 
+• Signed letter or other information from employer on company letterhead attesting to an 
+individual’s employment status and earnings. 
+ 
+Other supplemental wage records: 
+ 
+• Follow-up survey (self-reported) from program participants; 
+• Income earned from commission in sales or other similar positions; 
+• Detailed case notes verified by employer and signed by the counselor, if appropriate to 
+the program; 
+• Automated database systems or data matching with other partners with whom data 
+sharing agreements exist; 
+• One-Stop operating systems’ administrative records, such as current records of eligibility 
+for programs with income-based eligibility (e.g., Temporary Assistance for Needy 
+Families (TANF) or Supplemental Nutrition Assistance Program (SNAP)); or 
+• Self-employment worksheets signed and attested to by program participants.4 
+ 
+The Departments recommend the following procedures when a State determines the need to 
+collect supplemental wage information:  
+                                                 
+4 Earnings (or net profit) can be calculated by subtracting total expenses from gross receipts.  Not all self-employed 
+individuals receive a salary, but the funds that represent income over expenses that are available to be invested back 
+into the business are considered earnings.
+
+7 
+ 
+Time Period for Collecting Supplemental Wage Information 
+ 
+As described above, for purposes of calculating levels of performance for the employment rate 
+indicators, States must collect data on participants’ employment status during the second and 
+fourth quarters after the participant exits the program
+5 and, for purposes of calculating levels of 
+performance for the median earnings indicator, States must collect data on participants’ wages 
+during the second quarter after exit from the program.  Follow-up to collect supplemental wage 
+information may be conducted by the State, local programs, or a third-party contractor.  The 
+timing for collecting supplemental wage information may vary based on whether the agency 
+knows or expects that UI wage data will not be available for a participant following the exit from 
+a program.  
+ 
+The need for supplemental wage information for some individuals may not become apparent 
+until no match is found in direct UI wage records, or in federal or military employment records, 
+which become available on a time-lagged basis. UI wage data for the employment rate and the 
+median earnings indicators during the second quarter will not become available until the latter 
+part of the third quarter after exit, and UI wage data for the education or employment rate during 
+the fourth quarter after exit will not become available until the latter part of the fifth quarter after 
+exit.   
+ 
+However, when the agency knows or predicts that UI wage data will not be available for 
+individuals (such as those participants who did not provide an SSN, or for participants not 
+covered by UI wage data, such as those who received entrepreneurial or self-employment 
+training), States do not need to wait two quarters after the close of the second and fourth full 
+quarters after exit to formally document that UI wage data are not available and begin collection 
+of supplemental wage information.  The optimal time to collect supplemental wage information 
+is as soon as possible following the close of the second and fourth full quarters after exit. In 
+general, the Departments recommend the programs remind participants, before program exit, that 
+they or their employers may be contacted to obtain confirmation of employment status and 
+earnings, and to explain the expected timeframe for those follow-up contacts.  While this 
+reminder is applicable to all participants, it is especially important for those participants for 
+whom UI wage data are not available.  
+ 
+  
+                                                 
+5 For the purpose of the employment portion of the credential rate indicator, States must collect data on participants’ 
+employment status each quarter after exit within one year after exiting the program. (See Table 1: Timeline for 
+Commencing Data Collection for Employment-Related Performance Indicators).
+
+8 
+ 
+Table 1, below, summarizes the times when data match or supplemental wage data are to be 
+collected. 
+ 
+Table 1: Timeline for Commencing Data Collection for Employment-Related Performance 
+Indicators 
+ 
+Performance Indicatora 
+ 
+UI Wage Data Becomes 
+Available 
+Collection of Supplemental 
+Wage Information May Beginb 
+Employment Rate – 2nd 
+Quarter after Exit  
+(including Title I 
+Youth)  
+During 3rd or 4th quarter after 
+exit Beginning 3rd quarter after exit 
+Employment Rate – 4th 
+Quarter after Exit  
+(including Title I 
+Youth) 
+During 5th or 6th quarter after 
+exit (1st or 2nd quarter, next 
+program year) 
+Beginning 5th quarter after exit 
+Median Earnings – 2nd 
+Quarter after Exit 
+During 3rd or 4th quarter after 
+exit Beginning 3rd quarter after exit 
+Credential Attainment 
+– within 1 Year after 
+Exit 
+During 2nd or 3rd quarter after 
+exit Beginning 2nd quarter after exit 
+ 
+a For all performance indicators, exit is the point after which a participant who has received services through any 
+program meets the criteria for exit from that program, or meets the criteria for exit under an applicable common exit 
+policy (20 CFR 677.150(c), 34 CFR 463.150(c), and 34 CFR 361.150(c)). 
+b For individuals for whom the agency knows or predicts UI wage data will not be available (such as those 
+participants who do not provide an SSN), or for participants receiving entrepreneurial or self-employment training), 
+States should begin collecting supplemental wage information as close to the reference period as poss ible. 
+ 
+Participants who provide an SSN and have exited a program, but for whom information is not yet 
+available, are not included in performance calculations until such data subsequently become 
+available.  The Departments expect that UI employer tax record data for these indicators will 
+generally be available, since there is a two-quarter lag built into the reporting periods to allow 
+time for reporting participant exit and direct UI wage record match, and for obtaining 
+supplemental wage information if a direct UI wage record match, or Federal or military 
+employment record, is not yet available.
+6  In order to ensure data are available and reported 
+consistently for all participants, UI data should be reported four quarters after exit for second 
+quarter wage and employment information, and six quarters after exit for fourth quarter 
+information.  This allows for a one-quarter lag in the reporting of UI wages by employers and an 
+additional one-quarter lag for reporting by the core programs. 
+                                                 
+6 After the two-quarter lag concludes, if the information is still not available, wages will be converted to $0 
+permanently and employment status will be reported as not employed.  Wages reported as $0 will indicate that the 
+participant was unemployed in the second quarter after exit, counting as a negative outcome for purposes of 
+calculating levels of performance for the Employment Rate 2nd Quarter after Exit indicator and excluding that 
+participant from the calculations of levels of performance for the Median Earnings 2nd Quarter after Exit indicator.  
+Likewise, if neither a wage record match nor supplemental wage information is available following a two -quarter 
+lag after the end of the fourth quarter following program exit, the participant will be reported as unemployed in the 
+fourth quarter after exit.
+
+9 
+ 
+ 
+Example: If a participant exits the program between July 1, 2016 and September 30, 
+2016 (first quarter of program year (PY) 2016), the participant will not be included in the 
+Employment Rate – Second Quarter After Exit until the quarterly report for the quarter 
+ending September 30, 2017 (first quarter of PY 2017) and the annual report for PY 2017 
+for the period ending June 30, 2018. 
+ 
+Quarterly data reporting is required for all core programs except for the AEFLA program (i.e., 
+the Adult, Dislocated Worker, Youth, Wagner-Peyser Act ES, and VR programs) (20 CFR 
+677.235(a), 34 CFR 463.235(a), and 34 CFR 361.235(a)). States must report AEFLA data on an 
+annual basis, but are required to collect data on a quarterly basis.  To ensure data are collected to 
+satisfy required reporting timelines, particularly for those programs reporting on a quarterly 
+basis, States may decide to conduct supplemental wage information follow-up more frequently 
+than quarterly, as more frequent follow-up may be more convenient or cost efficient.  For 
+example, the program could conduct continuous, ongoing, or monthly follow-up activities.  
+Therefore, the Departments recommend that programs ensure the time lag to contact participants 
+after they exit the program be as short as possible to ensure follow-up activities are successful.  
+The longer a program waits to contact participants after they exit the program, the greater 
+likelihood of a lower response rate which could result in less valid data. The timeframes when 
+employment-related information must be reported are shown in Table 2 below: 
+ 
+Table 2: Deadlines for Timely Collection of Data for Employment-Related Performance 
+Indicators 
+ 
+Exit Quarter Report 
+Employment 
+Rate – 2nd 
+Quarter 
+(including Title I 
+Youth) by End 
+of: 
+Report 
+Employment Rate 
+– 4th Quarter 
+(including Title I 
+Youth) by End of: 
+Report Median 
+Earnings by 
+End of: 
+Report 
+Credential 
+Attainment 
+(Employment) – 
+within 1 Year 
+after Exit by 
+End of: 
+First Quarter 
+(Q1) 
+(July 1 – 
+September 30) 
+Q1,  
+Next Program 
+Year (four 
+quarters later) 
+Q3, 
+Next Program Year 
+(six quarters later) 
+Q1,  
+Next Program 
+Year 
+(four quarters 
+later) 
+Q3, 
+Next Program 
+Year 
+(six quarters 
+later) 
+Second 
+Quarter (Q2) 
+(October 1 – 
+December 31) 
+Q2,  
+Next Program 
+Year (four 
+quarters later) 
+Q4, 
+Next Program Year 
+(six quarters later) 
+Q2,  
+Next Program 
+Year 
+(four quarters 
+later) 
+Q4, 
+Next Program 
+Year 
+(six quarters 
+later) 
+Third Quarter 
+(Q3) 
+(January 1 – 
+March 31) 
+Q3, 
+Next Program 
+Year (four 
+quarters later) 
+Q1, 
+Second Program 
+Year After Exit 
+(six quarters later) 
+Q3,  
+Next Program 
+Year 
+(four quarters 
+later) 
+Q1, 
+Second Program 
+Year After Exit 
+(six quarters 
+later)
+
+10 
+ 
+Exit Quarter Report 
+Employment 
+Rate – 2nd 
+Quarter 
+(including Title I 
+Youth) by End 
+of: 
+Report 
+Employment Rate 
+– 4th Quarter 
+(including Title I 
+Youth) by End of: 
+Report Median 
+Earnings by 
+End of: 
+Report 
+Credential 
+Attainment 
+(Employment) – 
+within 1 Year 
+after Exit by 
+End of: 
+Fourth Quarter 
+(Q4) 
+(April 1 – 
+June 30) 
+Q4, 
+Next Program 
+Year (four 
+quarters later) 
+Q2, 
+Second Program 
+Year After Exit  
+(six quarters later) 
+Q4,  
+Next Program 
+Year 
+(four quarters 
+later) 
+Q2, 
+Second Program 
+Year After Exit 
+(six quarters 
+later) 
+ 
+ 
+ 
+ 
+Method for Identifying Participants Needing Follow-Up for Wage Information Collection 
+Purposes 
+ 
+In order to effectively identify individuals with whom the agency will need to follow up to 
+collect supplemental wage information, the State’s or local area’s case management database 
+needs to be capable of identifying participants who should be followed using supplemental 
+methods, i.e., all participants for whom direct UI wage record match, Federal, or military 
+employment records are not or were not yet available for data matching.  Programs must also 
+determine the appropriate information to collect from participants to assist in, and during, 
+follow-up, such as: (1) participants’ SSN (if available) and contact information; and (2) 
+supplemental wage information related to all of the employment-related performance indicators.  
+This information needs to be retrievable quarterly or according to the time when States determine 
+supplemental wage information follow-up is to be implemented.   
+ 
+If a program uses supplemental wage information follow-up to retrieve data on any of the 
+employment-related performance indicators, data must be collected on all of these indicators, or 
+missing and incomplete data points will be counted as a negative when calculating levels of 
+performance for the indicator(s). 
+ 
+Staff Training on Supplemental Wage Information Follow-Up Methods 
+ 
+When conducting supplemental wage information follow-up, the Departments recommend that 
+staff follow a uniform set of written procedures to collect data in a valid and reliable manner.  
+Therefore, staff conducting the supplemental wage information follow-up should be trained in 
+the implementation of the follow-up procedures, including what to say to former participants or 
+their employers to encourage their cooperation, ways to encourage voluntary and truthful 
+disclosure, how to document the information received, and how to respond to questions related to 
+the supplemental wage information follow-up process.  Staff should be thoroughly familiar with 
+all procedures before beginning the process.
+
+11 
+ 
+The Departments recognize that programs and States may consider supplemental wage 
+information to be a very difficult aspect of data collection, particularly since it is sometimes 
+difficult to follow up in a way that produces valid and reliable results (e.g., conducting follow-up 
+surveys or other forms of self-reporting).  The process includes determining which individuals 
+should be included in the supplemental wage information follow-up; locating the individual, 
+employer or case manager; securing his/her cooperation; and conducting the follow-up 
+procedure.  Maintaining contact with, or finding, these former participants and getting them to 
+cooperate in the supplemental wage information follow-up process is critical to its success since 
+the response rate largely determines the validity of the information.  Locating such individuals 
+can be difficult, given the transient nature of some core program participants.  The procedures 
+described below will assist States in collecting valid supplemental wage information in a timely 
+manner. 
+ 
+The validity of the follow-up process depends largely on the acceptable forms of supplemental 
+wage information received from participants.  To help improve this aspect of the follow-up 
+process, it is very important that participants know how they may be contacted later and asked 
+about their employment outcomes.  Therefore, programs should inform participants at program 
+entry about the supplemental wage information follow-up process and collect extensive contact 
+information about them, such as addresses and phone numbers of relatives or others who may 
+know the participants’ whereabouts over time, and employment information, if applicable.  In 
+addition, participants should be encouraged to provide new addresses and phone numbers when 
+they move, and programs should implement procedures to update this information periodically 
+while the participant remains enrolled in the program.  These procedures can greatly assist in 
+locating former participants months later when the supplemental wage information may need to 
+be collected.  States should provide local programs with additional guidance to improve the level 
+of response.  
+ 
+Summary of Supplemental Wage Information Follow-Up Guidelines 
+ 
+1. Develop a method for identifying participants to contact for follow-up.  
+Best practice tip: Have staff follow a uniform set of written procedures to collect data in a 
+valid and reliable (i.e., accurate and repeatable) manner.  
+2. Ensure that the State has a uniform way to conduct the follow-up. 
+3. Conduct the follow-up as close to the reference period as possible. 
+4. Train staff to conduct the follow-up. 
+5. Identify local resources available to conduct the follow-up. 
+6. Implement procedures to improve the quantity and quality of participant responses. 
+Best practice tip: Inform participants at program entry about the supplemental wage 
+information follow-up process and collect extensive contact information about them, such 
+as addresses and phone numbers of relatives or others who may know the participants’ 
+whereabouts over time, and employment information, if applicable. 
+7. Ensure that the State has a database and procedures for supplemental wage information 
+reporting. 
+ 
+INQUIRIES:
+
+12 
+ 
+Carol Dobak, Director, State Monitoring and Program Improvement Division  
+(202) 245-7325 
+Carol.Dobak@ed.gov  
+ 
+CITATIONS:  
+ 
+Workforce Innovation and Opportunity Act, Pub. L. 113-128 
+ 
+Workforce Innovation and Opportunity Act Joint Rule for United and Combined State Plans, 
+Performance Accountability, and the One-Stop System Joint Provisions, 81 Fed. Reg. 55791 
+(Aug. 19, 2016)  
+ 
+ 
+/s/ 
+Edward Anthony 
+Acting Commissioner   
+Attachment 
+ 
+cc: Council of State Administrators of Vocational Rehabilitation 
+National Council of State Agencies for the Blind
+
+13 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Attachment 
+Additional Considerations when Using Supplemental Wage Information for the Core 
+Programs 
+ 
+When collecting supplemental wage information for the core programs, the Departments 
+recommend that States consider the following: 
+  
+1. The varying intervals of pay schedules mean that not every quarter reflects 13 weeks’ 
+wages and the agency may need to make adjustments. The wage conversion chart in 
+Attachment 3 to OCTAE Program Memorandum 17-2; DOL TEGL No. 10-16; and RSA 
+TAC 17-01 provides a conversion tool.  It is important to note that when collecting 
+supplemental wage information for the median earnings indicator, programs must only 
+report those wages that are actually paid to the participant during the quarter, not 
+projected amounts based on the wage conversion chart. 
+ 
+2. Core programs must ensure that information gathered is representative of the 
+participant’s regular hours and earnings.  This information can be acquired in an 
+interview by program staff with the individual or the employer if the information 
+obtained addressed the following information:  
+ 
+o Average hours scheduled per week 
+o Average hours actually worked per week 
+o Wage per hour 
+o Availability of paid leave 
+o Start and end dates of employment (or start date and still employed).  
+ 
+In the case of the VR program, this detailed information would be included in the case 
+notes from the meeting. 
+ 
+3. Activities related to acquiring supplemental wage and earnings information must conform 
+to an agency’s policies and procedures.  Supplemental information reported to the core 
+program must be consistent with the core program’s reporting requirements.

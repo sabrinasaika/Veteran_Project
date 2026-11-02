@@ -1,0 +1,916 @@
+UNITED STATES DEPARTMENT OF EDUCATION 
+OFFICE OF SPECIAL EDUCATION AND REHABILITATIVE SERVICES 
+REHABILITATION SERVICES ADMINISTRATION 
+WASHINGTON, DC 20202-2800 
+ 
+TECHNICAL ASSISTANCE CIRCULAR 
+  RSA-TAC-20-01 
+DATE: February 3, 2020 
+ 
+ADDRESSEES: STATE VOCATIONAL REHABILITATION AGENCIES  
+STATE REHABILITATION COUNCILS 
+TECHNICAL ASSISTANCE CENTERS  
+ 
+SUBJECT: Technical Assistance regarding the Submission Deadline for the Unified 
+and Combined State Plans under the Workforce Innovation and 
+Opportunity Act (WIOA) for Program Years (PYs) 2020-2023 and Other 
+Related Requirements 
+ 
+PURPOSE: 
+ 
+To provide an update on technical assistance to states, territories, and outlying areas related to 
+the requirements for submitting PYs 2020-2023 Unified and Combined State Plans under 
+sections 102 and 103 of WIOA1.  The PYs 2020-2023 Unified and Combined State Plans will 
+cover the four-year period from July 1, 2020, through June 30, 2024.   
+ 
+ACTION REQUESTED: 
+ 
+As described in an email to States on November 6, 2019, to encourage implementation and 
+integration of workforce development services, WIOA requires States2 to submit a four-year 
+Unified or Combined State Plan that covers, at a minimum, the six core programs of the 
+workforce development system.  In order to satisfy the submission requirements of sections 
+102(c)(1)(B) and 103(b)(1) of WIOA for these State Plans, each State’s Governor must submit a 
+Unified or Combined State Plan for the four-year period covering PYs 2020-2023 by March 2, 
+20203.  The Unified or Combined State Plan covering the six core programs of the workforce 
+development system will be considered approved 90 days after the date the Plan is submitted, 
+ 
+ 
+1 This is a statement of the Departments’ policy regarding the Workforce Innovation and Opportunity Act.  Other 
+than statutory and regulatory requirements included in this document, the contents of this guidance do not have the 
+force and effect of law.  This document is intended only to provide clarity regarding existing requirements under the 
+applicable law or agency policies. 
+ 
+2 In this technical assistance, for purposes of both the Unified and Combined Plans, the term “State” refers to the 50 
+States, the District of Columbia, Puerto Rico, American Samoa, Guam, the U.S. Virgin Islands, the Northern 
+Mariana Islands and, as appropriate for certain programs, the Republic of Palau. 
+ 
+3 The Departments determined this due date based on a calendar calculation of the statutory requirements of sections 
+102(c)(1)(B) and 103(b)(1) of WIOA.
+
+2 
+ 
+ 
+ 
+unless the Secretaries of Labor and Education inform the State in writing within that time period 
+that the Plan is inconsistent with the State Plan requirements or the provisions authorizing the 
+core programs, as appropriate (sections 102(c)(2)(B) and 103(c)(3)(A) of WIOA).   
+ 
+While WIOA imposes no statutory penalties for submissions after March 2, 2020, for those 
+States submitting Unified or Combined State Plans for the core programs after April 1, 2020, the 
+Secretaries of Labor and Education, as well as the Commissioner of the Rehabilitation Services 
+Administration, will do their best to approve the Unified or Combined State Plans prior to July 1, 
+2020, which is the start of PY 2020.  However, because Plans submitted after April 1, 2020, will 
+not give the Secretaries the full 90 days allowed by law to review and approve the Plans, the 
+awarding of core program funds for those States could be delayed.4  
+ 
+Section 103(a)(1) of WIOA permits States to submit a Combined State Plan that includes the six 
+core programs  and one or more programs identified in section 103(a)(2).  At least two of those 
+partner programs — the Carl D. Perkins Career and Technical Education Act of 2006, as 
+amended by the Strengthening Career and Technical Education Act for the 21st Century Act 
+(Perkins V), and the Supplemental Nutrition Assistance Program Employment and Training 
+(SNAP E&T) — were recently reauthorized.  The U.S. Departments of Labor (DOL) and 
+Education (ED) (collectively, Departments) encourage the inclusion of Perkins V and SNAP 
+E&T in strategic planning, and are available to provide technical assistance on plan submission 
+and timing to ease inclusion. Under these circumstances, States should contact the appropriate 
+Employment and Training Administration (ETA) Regional Office and federal program contact in 
+writing to discuss the timing of state submission and the potential core program funding 
+implications for plans that may not be approved until after the commencement of PY 2020. 
+ 
+States are expected to submit Plans via the State Plan Portal described in Section 4e of this 
+technical assistance. 
+ 
+SUMMARY AND BACKGROUND:  
+ 
+Summary: This updated technical assistance – developed jointly by DOL, ED, the U.S. 
+Departments of Health and Human Services (HHS), Agriculture (USDA), and Housing and 
+Urban Development (HUD) – provides information and instructions to states on the WIOA 
+planning requirements for the required four-year state plan, explains technical adjustments to the 
+planning requirements, and instructs states regarding submission deadlines and procedures, 
+particularly with respect to the newly developed State Plan Portal.  The technical assistance is 
+similar to that which the Departments provided prior to the submission of the PYs 2016-2019 
+ 
+ 
+4 The Departments award grant funds to five of the six core programs at the start of each PY on July 1:  the Adult, 
+Dislocated Worker, and Youth programs authorized under title I of WIOA and administered by DOL; the Adult 
+Education and Family Literacy Act (AEFLA) program, authorized under title II of WIOA and administered by ED; 
+and the Employment Service (ES) program, authorized under the Wagner-Peyser Act as amended by title III of 
+WIOA and administered by DOL.  The Vocational Rehabilitation (VR) program, authorized under title I of the 
+Rehabilitation Act of 1973 as amended by title IV of WIOA and administered by ED, receives its funding at the start 
+of each Federal Fiscal Year.
+
+3 
+ 
+ 
+ 
+Unified or Combined State Plans (ETA TEGL 14-15, OCTAE PM 16-1, and RSA PD 16-03) 
+and the submission of the PY 2018 modifications to those Unified or Combined State Plans 
+(ETA TEGL 6-17, OCTAE PM 18-1, and RSA TAC 18-01), but has been updated to reflect the 
+facts that States now have experience in developing these Plans and that there will be a new State 
+Plan portal for submitting the PYs 2020-2023 State Plans.  
+ 
+Background: WIOA requires the Governor of each state to submit a Unified or Combined State 
+Plan that includes a four-year strategy and operational plan for the continuing implementation of 
+the state’s workforce development system.  States must have federally approved state plans to 
+receive funding under the six core programs (Adult, Dislocated Worker, Youth, AEFLA, 
+Wagner-Peyser, and the VR programs).  The Office of Management and Budget approved the 
+joint WIOA State Plan information collection request (ICR) on September 5, 2019 (OMB No. 
+1205-0522)5. Subsequently, OMB approved changes to the ICR to implement the Wagner-Peyser 
+Act Staffing Flexibility final rule, released on January 6, 2020. 
+ 
+Under WIOA, the Unified and Combined State Plans communicate the state’s vision for the state 
+workforce system and serve as a vehicle for alignment and integration across federal programs.  
+WIOA planning requirements aim to foster better alignment of federal investments in job 
+training and education, to integrate service delivery across programs, to improve efficiency in 
+service delivery, and to ensure that the workforce system matches job creators with skilled 
+individuals.  Cross-program planning promotes a shared understanding of the workforce needs 
+within each state.  Such planning cultivates development of more comprehensive and integrated 
+approaches, such as career pathways and sector strategies, for addressing the needs of job 
+creators and workers.  Additionally, it enables the system to provide a wider range of 
+coordinated and streamlined services to their shared customers. 
+ 
+PLANNING REQUIREMENTS AND SUBMISSION INSTRUCTIONS 
+ 
+a. Plan Options.  States must submit, at minimum, a Unified State Plan encompassing the six 
+WIOA core programs (See Section 102 of WIOA).  Alternatively, states may submit a 
+Combined State Plan that includes the six core programs plus one or more of the partner 
+programs listed below.  States that developed and implemented a Unified State Plan for PYs 
+2016-2019 may elect to submit a Combined State Plan for the next four-year planning period, 
+drawing on the improved alignment and coordination with partner programs during the past 
+few years.  The Combined State Plan partner programs are: 
+ 
+• Career and technical education programs authorized under Perkins V (20 U.S.C. § 
+2301 et seq.);  
+ 
+ 
+5 DOL, which manages this joint ICR, published a 60-day Notice for the draft State Plan ICR on January 2, 2019, at 
+84 FR 19.  On July 31, 2019, DOL published a 30-day Notice for the State Plan ICR in the Federal Register at 84 FR 
+37349.  The Office of Management and Budget approved the ICR without change on September 5, 2019; the 
+approval expires September 30, 2022.  The Departments informed the States of the newly approved State Plan ICR 
+via email on October 10, 2019.
+
+4 
+ 
+ 
+ 
+• Temporary Assistance for Needy Families program (42 U.S.C. § 601 et seq.);  
+• Employment and training programs under the Supplemental Nutrition Assistance 
+Program (programs authorized under Section 6(d)(4) of the Food and Nutrition Act of 
+2008 (7 U.S.C. § 2015(d)(4));  
+• Work programs authorized under Section 6(o) of the Food and Nutrition Act of 2008 
+(7 U.S.C. § 2015(o));  
+• Trade Adjustment Assistance for Workers programs (Activities authorized under 
+chapter 2 of Title II of the Trade Act of 1974 (19 U.S.C. § 2271 et seq.));  
+• Jobs for Veterans State Grants program (programs authorized under 38 U.S.C. § 4100 
+et. seq.);  
+• Unemployment Insurance (UI) programs (UI Federal-State programs administered 
+under State unemployment compensation laws in accordance with applicable Federal 
+law);  
+• Employment and training activities carried out by HUD (See section 103(a)(2)(I) of 
+WIOA);  
+• Community Services Block Grant (CSBG) (employment and training activities 
+carried out under the Community Services Block Grant Act (42 U.S.C. § 9901 et 
+seq.)); and  
+• Senior Community Service Employment Program (programs authorized under title V 
+of the Older Americans Act of 1965 (42 U.S.C. § 3056 et seq.)). Reauthorized by the 
+OAA Reauthorization Act of 2016, Pub. L. No. 114-144 (April 19, 2016). 
+ 
+b. WIOA Planning Priorities.  States have accumulated four years of WIOA implementation 
+experience since the first WIOA State Plans were developed, and as such, have worked 
+through challenges to find what works best for their state’s workforce development system.  
+As states think about goals and specific implementation milestones for the next four years of 
+WIOA, the Departments request that planning advance some or all of these key priorities:  
+ 
+• Engaging partners to align workforce investment, economic development, and 
+education systems, particularly with community colleges, to maximize services to 
+customers and eliminate redundant services; 
+• Investing in workforce development strategies grounded in sound economic and labor 
+market analysis with program and other funds, consistent with authorizing statutes; 
+• Promoting opportunity for economic mobility, especially by implementing human 
+services programs to increase work participation; 
+• Using flexibility within WIOA to better serve those most in need by advancing the 
+use of evidence-based strategies such as apprenticeship, work-based learning, 
+customized training, and the full array of employment and training options;  
+• Providing multiple career pathways, skill-building, and stackable credential 
+opportunities for labor market entry and advancement to both youth participants and 
+new labor force participants; 
+• Informing job-seekers and learners of the skills, credentials, and jobs in demand;  
+• Increasing the competitiveness of employers through the provision of quality labor 
+market information, sector-based approaches, and a well-trained talent pipeline; and
+
+5 
+ 
+ 
+ 
+• Measuring effectiveness through performance reporting, evaluation, and data systems 
+that support these activities.  
+ 
+c. State Plan Information Collection Request (ICR) and Technical Changes to Requirements.  
+States must use the ICR Required Elements for Submission of  the Unified or Combined State 
+Plan and Plan Modifications Under the Workforce Innovation and Opportunity Act, 
+approved under Office of Management and Budget (OMB) control number 1205-0522, to 
+develop and submit the four-year State Plan.  A copy of the ICR, which complies with 
+Sections 102 and 103 of WIOA, is available on ETA’s website at 
+https://www.doleta.gov/wioa/docs/State-Plan-ICR.pdf.  
+ 
+OMB approved a three-year ICR extension through September 30, 2022, that includes a 
+small number of changes to the requirements.  These changes include removal of references 
+to past dates, correction of typographical errors, introduction of an optional data element to 
+provide an executive summary, updating title II Section 243 narrative and assurance 
+requirements, and updating instructions for Appendix I of the ICR. The Wagner-Peyser Act 
+Staffing Flexibility final rule, published on January 6, 2020 and effective beginning February 
+5, 2020, makes additional changes to the requirements, specifically to requirements regarding 
+staffing for Wagner-Peyser Act programs. 
+ 
+The ICR contains both strategic and operational elements that support integration and 
+alignment of the workforce system.  The Strategic and Operational Planning Elements 
+constitute the “common elements” of the Plan – elements that apply to all programs that 
+states include in their plan.  The Strategic Elements must include an analysis of the state’s 
+current economic environment and identification of the state’s overall vision for its 
+workforce development system, including an analysis of the economy and workforce 
+development activities (See Section 102(b)(1) of WIOA).  The Operational Elements must 
+identify the state’s planned actions to implement the state’s strategic vision and goals 
+identified in the Strategic Elements.  This section requires description of the policy, 
+infrastructure, and program integration and alignment activities the state will undertake, as 
+well as planning elements specific to each of the core programs and any required one-stop 
+partner programs (See Section 102(b)(2) of WIOA). 
+ 
+d. Stakeholder Collaboration and Comment.  Stakeholder collaboration, review, and comment 
+are key requirements of the four-year planning process.  In accordance with section 101 of 
+WIOA, State Workforce Development Boards (State Boards) must assist the Governor in the 
+development, implementation, and modification of the State Plan, and ensure that all relevant 
+core programs, required partners, and stakeholders contribute to the plan.  The Departments 
+encourage inclusion of the state labor market information and evaluation offices (or their 
+equivalent) during plan development to obtain assistance with labor market data, evidence, 
+and analysis.  The State Plan must be developed with the assistance of the State Board, as 
+required by Section 101(d) of WIOA, and in coordination with administrators that have 
+optimal policymaking authority for the core programs and required one-stop partner 
+programs.  For Combined State Plans, the portions of the plan that cover partner programs
+
+6 
+ 
+ 
+ 
+other than the core programs are subject to any public comment requirements applicable to 
+those partner programs.6  
+ 
+States must provide the opportunity for public comment and input, which allows interested 
+stakeholders to participate actively, effectively, and transparently in the development of the 
+plan.  The Governor must ensure that the State Plan is developed with an opportunity for 
+input from representatives of:  
+ 
+• Local Workforce Development Boards and chief elected officials;  
+• businesses;  
+• representatives of labor organizations;  
+• community-based organizations;  
+• adult education providers;  
+• institutions of higher education;  
+• other stakeholders with an interest in the services provided by the six core programs; 
+and  
+• the general public, including individuals with disabilities.7   
+ 
+The State Board also must make information regarding the State Plan and planning process 
+available to the public through electronic means and by holding regularly-occurring open 
+meetings in accordance with state law prior to the submission of the plan.8 
+ 
+e. Instructions for Plan Submission Using the WIOA State Plan Portal.  States must submit 
+their state plans via the State Plan Portal (https://wioaplans.ed.gov), which has been 
+developed for the purpose of cross-program collaboration in states and to facilitate the 
+simultaneous receipt and review of plans across multiple federal agencies.  The State Plan 
+Portal has been redesigned to improve the user experience.  While multiple individuals in 
+states may enter content into the portal, only one individual from the state may submit to the 
+Departments the entire plan on behalf of all included programs.  The State Plan Portal 
+includes a certification that the official state “submitter” has the authority to do so on behalf 
+of the Governor.   
+ 
+The Departments will provide in separate communications details regarding designation of 
+plan submitters, obtaining user accounts, requesting permission levels, and user training.  
+Previously approved WIOA State Plans will be available in PDF format in the State Plan 
+Portal; however, content from prior plans will not be available in the data entry fields.  After 
+approved plans are in place for PY 2020-2023, the portal will remain available to state users 
+for submission of off-cycle modifications.   
+ 
+ 
+ 
+6 See 20 C.F.R. § 676.143(c)(3), 34 C.F.R. § 361.143(c)(3), and 34 C.F.R. § 463.143(c)(3). 
+7 See 20 C.F.R. § 676.130(d)(1), 34 C.F.R. § 361.130(d)(1), and 34 C.F.R. § 463.130(d)(1) 
+8 See WIOA Section 101(g) and 20 C.F.R. § 676.130(d), 34 C.F.R. § 361.130(d), and 34 C.F.R. § 463.130(d).
+
+7 
+ 
+ 
+ 
+f. Considerations for Combined State Plan partner programs.  Combined State Plan partner    
+programs’ state plan requirements will continue to exist under specific ICRs for those 
+programs.  Note that some of the other programs that a state may include in the Combined 
+State Plan currently fulfill their program-specific state planning requirements through a 
+separate information collection process maintained by the federal government agency that 
+administers the Combined State Plan partner program.  For example, Section 103(b)(2) of 
+WIOA specifically allows a state to include the employment and training activities, rather 
+than the full program carried out under the CSBG Act administered by HHS and employment 
+and training activities funded by HUD in a WIOA Combined State Plan.  Therefore, if states 
+choose to include programs such as these in the Combined State Plan, only the portion of the 
+existing planning requirements that address the employment and training activities may be 
+included in the Combined State Plan.  States still must submit all other required elements of a 
+complete State Plan for those programs directly to the Department that administers the 
+program. 
+ 
+Portions of the Combined State Plan covering a program or activity, excluding those related 
+to the core programs, are subject to approval by the head of the federal agency that 
+administers that program.9  The portions of the Combined State Plan related to the core 
+programs are subject to the same approval requirements applicable to the Unified State 
+Plan.10  
+ 
+States that include UI in their Combined State Plan, carried out under Title III, Section 302, 
+of the Social Security Act, including Sections 303(a)(8) and (9), which govern the 
+expenditure of funds, should submit their UI State Quality Service Plan (SQSP) following the 
+cycle as outlined in the current Employment & Training Handbook No. 336, UI SQSP 
+Planning and Reporting Guidelines.  
+ 
+The Jobs for Veterans State Grants (JVSG) program, carried out under Chapter 41 of Title 38 
+of the U.S. Code, require both a JVSG State Plan and a separate annual application for 
+funding. States may include the JVSG Plan in a Combined WIOA State Plan. For JVSG, the 
+annual application for funding will continue to be required by current Veterans’ Employment 
+and Training Service (VETS) guidance. 
+ 
+For DOL or ED-administered programs in a Combined State Plan, the portions of the plan 
+covering the core programs, and the common elements for all programs included in the State 
+Plan, will be approved ninety (90) days after submission unless the Secretary of either 
+Department informs the state in writing during the 90-day period that the plan is inconsistent 
+with WIOA's State Plan requirements or the requirements authorizing the core program.  
+HUD, USDA, and HHS must approve or disapprove the portions of the plan covering 
+programs administered by those Departments within 120 days of submission.  For the six 
+core programs, DOL and ED may make decisions regarding approval, disapproval, or 
+ 
+ 
+9 See WIOA Section 103(c)(1) and (d)(2). 
+10 See WIOA Section 103(c) and 102(c).
+
+8 
+ 
+ 
+ 
+funding status separately from the determination of approval, disapproval, or completeness of 
+the program-specific requirements of Combined State Plan partner programs and activities 
+described in the Combined State Plan.  For example, if a State Plan meets all the common 
+planning elements and program specific requirements for the core programs, approval and 
+funding may proceed regardless of specific issues that may be identified in the program-
+specific sections for any Combined State Plan partner programs. 
+ 
+States that include Perkins V as part of their Combined State Plans will submit the narrative 
+descriptions required for the Perkins V program-specific portion of their Combined State 
+Plan as outlined in the Perkins V State Plan Guide, OMB Control Number 1830-0029, to the 
+State Plan Portal for WIOA.  States will then submit to the Perkins State Plan Portal the 
+remaining items required for the Perkins V program-specific portion of their Combined State 
+Plan: (1) cover page, including a letter providing joint signatory authority from the Governor; 
+(2) assurances, certifications, and other forms required by statute and/or applicable Federal 
+regulations, including the Education Department General Administrative Regulations 
+(EDGAR) at 34 C.F.R. Part 76; (3) budget for the upcoming year; and (4) state-determined 
+performance levels (SDPLs).  ED will provide State Career and Technical Education (CTE) 
+directors and staff with training, passwords, and technical support to input their information 
+into the WIOA State Plan Portal and the Perkins State Plan Portal. 
+ 
+States that include SNAP E&T as part of their Combined State Plan will submit their SNAP 
+E&T specific state plans into the State Plan Portal for WIOA, but must submit annually to 
+their Food and Nutrition Service (FNS) Regional offices a complete SNAP E&T plan that 
+includes component details, participant levels, and annual operating budget. 
+ 
+g. Performance Negotiations for Core Programs.  The Departments will issue separate 
+technical assistance to outline the requirements for reaching agreement on the negotiated 
+levels of performance for the states outlined in Section 116 of WIOA.  The Departments will 
+continue to use a “phase-in” approach to establish negotiated and adjusted levels of 
+performance for certain indicators for specific programs.  The appendix in the Unified and 
+Combined State Plan ICR discussed in this section, and in Appendix 111 of this technical 
+assistance, reflect which indicators/programs the Departments will negotiate for PYs 2020 
+and 2021.  See Attachment I of this technical assistance for more instructions on establishing 
+performance levels and acceptable baseline indicators. 
+ 
+h. Special Instructions for Single-Area States.  Single-area states must complete and submit    
+any information required in the local plan as part of their State Plan submission.  Item V1.d 
+in the Title I portion of the WIOA State Plan ICR specifies these requirements.  
+ 
+i. WIOA Title I and Wagner-Peyser Act Waivers.  As discussed in TEGL 08-18, Workforce 
+Innovation and Opportunity Act (WIOA) Title I and Wagner-Peyser Act Waiver 
+ 
+ 
+11 The content of Appendix 1 is identical to that published in the Federal Register for public comment on January 2, 
+2019, at 84 FR 19 and on July 31, 2019, at 84 FR 37349, and as approved by OMB on September 5, 2019.
+
+9 
+ 
+ 
+ 
+Requirements and Request Process, the Secretary of Labor may grant states additional 
+flexibility through the waiver authority for portions of WIOA Title I and Wagner-Peyser Act 
+requirements when permitted.  Waivers are a tool for reducing barriers to WIOA 
+implementation and spurring innovative programming options.  States may submit waiver 
+requests as part of their State Plan or as a separate waiver plan. 
+ 
+All currently approved waivers expire on June 30, 2020.  Therefore, states should submit 
+new waiver requests as part of the PY 2020-2023 State Plan submission if they wish to 
+continue implementing particular waivers that had been approved previously (See Section 
+189(i)(3) of WIOA).  As articulated in waiver approval letters, states agreed to meet certain 
+performance or other program performance measures resulting from the waiver.  States 
+requesting a waiver renewal beyond June 30, 2020, must provide the most recent data 
+available about the outcomes of the waiver in the renewal request.12  DOL will consider this 
+information as part of its decision to approve the requested waiver. 
+ 
+j. Modifications.  Given the multiyear nature of the State Plan, states must revisit State Plan 
+strategies regularly, reassess their effectiveness and labor market relevance, and when 
+needed, adjust these strategies to respond to the changing economic conditions and 
+workforce needs of the state.  At a minimum, states must submit a modification to the 
+Unified or Combined State Plan at the end of the first two-year period of any four-year plan, 
+and under specific circumstances.13  However, states may submit off-cycle modifications to 
+the Unified or Combined State Plan to reflect major changes or revisions in state strategies, 
+organizational structures, and implementation.   
+ 
+The Departments have determined that for any Combined State Plan program included in the 
+plan with a different planning cycle from that required by Title I of WIOA, states should 
+submit program-specific modifications to the Combined State Plan that align with the 
+planning cycles for those specific programs, unless the two-year WIOA modification cycle 
+can accommodate programs' planning and modification cycle.  For example, if a state 
+chooses to include career and technical education programs under the Perkins V Act as a part 
+of its Combined State Plan, the state would submit program-specific plan modifications 
+annually to align with the Perkins V Act's state plan cycle, as necessary.  These changes 
+would not necessitate a modification to the Combined State Plan, as a whole, unless the 
+revisions triggered a required State Plan modification pursuant to section 103(b)(1) of 
+WIOA.  Such modifications must be submitted to the Secretary of the appropriate department 
+for that program directly, in addition to DOL and ED via the WIOA State Plan Portal, as 
+necessary.  For example, the TANF law requires a state to submit a plan within 27 months of 
+the end of the first fiscal quarter in order to receive TANF funds for that fiscal year.  
+Therefore, adopting the more frequent two-year WIOA cycle for modifications should 
+accommodate TANF's cycle, allowing a state to make all changes to each portion of the 
+ 
+ 
+12 See 20 C.F.R. § 679.620(d)(7). 
+13 See Section 102(c)(3)(A) of WIOA; 20 C.F.R. §§ 676.135 and 676.145; 34 C.F.R. §§ 361.135 and 361.145; and 
+34 C.F.R. §§ 463.135 and 463.145.
+
+10 
+ 
+ 
+ 
+Combined State Plan concurrently.  These modifications must be submitted to the Secretary 
+of the appropriate department for that program directly, in addition to the Secretaries of DOL 
+and ED via the State Plan Portal.  
+ 
+INQUIRIES:  
+ 
+Suzanne Mitchell, Chief 
+Vocational Rehabilitation Program Unit 
+(202) 245-7454 
+Suzanne.Mitchell@ed.gov 
+ 
+ 
+/s/       
+Mark Schultz 
+Delegated the authority to perform the functions 
+and duties of the Assistant Secretary for the Office 
+of Special Education and Rehabilitative Services 
+ 
+ 
+cc: Council of State Administrators of Vocational Rehabilitation  
+National Council of State Agencies for the Blind  
+ 
+ 
+Appendix 1: Performance Goals and Instructions for the Core Programs Consistent with Section 
+116(b)(3) of WIOA
+
+Appendix 1: Performance Goals and Instructions for the Core Programs Consistent with 
+Section 116(b)(3) of WIOA 
+ 
+Each state submitting a Unified or Combined State Plan is required to identify expected levels of 
+performance for each of the primary indicators of performance for the first two years covered by 
+the plan.  The state is required to reach agreement with the Secretary of Labor, in conjunction 
+with the Secretary of Education, on state-negotiated levels of performance for the indicators for 
+each of the first two years of the plan.   
+ 
+For PY 2016-2019 plans, the Departments used the transition authority under section 503(a) of 
+WIOA to designate certain primary indicators of performance as “baseline” indicators to ensure 
+an orderly transition from the requirements of the Workforce Investment Act of 1998 to those 
+under WIOA.  A “baseline” indicator was one for which states did not propose an expected level 
+of performance and did not come to agreement with the Departments on negotiated levels of 
+performance because sufficient data were not available to establish such performance levels.  As 
+a result, “baseline” indicators were not used in the end of the year adjustment of performance 
+levels and were not used to determine failure to meet adjusted levels of performance for purposes 
+of sanctions.  The Departments designated indicators as “baseline” based on the likelihood of a 
+State having insufficient data with which to make a reasonable determination of an expected 
+level of performance.  
+ 
+For PYs 2020-2023 State Plans, the Adult, Dislocated Worker, Youth, and AEFLA programs  
+will have two full years of data available to make reasonable determinations of expected levels 
+of performance for the following indicators for PY 2020 and PY 2021:  
+• Employment (Second Quarter after Exit); 
+• Employment (Fourth Quarter after Exit); 
+• Median Earnings (Second Quarter after Exit); 
+• Credential Attainment Rate; and  
+• Measurable Skill Gains. 
+ 
+The Wagner-Peyser program will have two full years of data available to make a reasonable 
+determination of expected levels of performance for the following indicators for PY 2020 and 
+PY 2021:  
+• Employment (Second Quarter after Exit); 
+• Employment (Fourth Quarter after Exit); and 
+• Median Earnings (Second Quarter after Exit). 
+ 
+The Credential Attainment Rate and Measurable Skill Gains indicators do not apply to the 
+Wagner-Peyser Act ES program; therefore, this program will not submit expected levels of 
+performance for these indicators.  
+ 
+For the first two years of PYs 2020-2023 State Plans, the VR program will have two full years of 
+data available for the Measurable Skill Gains indicator only.  Therefore, the Departments will 
+designate the following indicators as “baseline” for the VR program for PY 2020 and PY 2021:   
+• Employment (Second Quarter after Exit); 
+• Employment (Fourth Quarter after Exit);
+
+2 
+ 
+ 
+ 
+• Median Earnings (Second Quarter after Exit); and 
+• Credential Attainment Rate.  
+ 
+VR agencies must continue to collect and report on all indicators, including those that have been 
+designated as “baseline, pursuant to section 116(d) of WIOA.”  The actual performance data 
+reported by these programs for indicators designated as “baseline” for PY 2020 and PY 2021 
+will serve as baseline data in future years.  The Departments will require VR agencies to submit 
+expected levels of performance for these indicators for PY 2022 and PY 2023.  
+ 
+The Departments determined that the Effectiveness in Serving Employers indicator will be 
+measured as a shared outcome across all six core programs within each state to ensure a holistic 
+approach to serving employers.  The Departments will continue piloting approaches for 
+measuring this indicator for the first two years of PY 2020-2023 plans.  Therefore, states are not 
+required to submit an expected level of performance for the Effectiveness in Serving Employers 
+indicator for PY 2020 and PY 2021.  However, core programs are expected to collect data and 
+report on this indicator for PY 2020 and PY 2021 as they did for PYs 2016-2019 plans.  
+ 
+Each core program must submit an expected level of performance for all of the other indicators, 
+as applicable, with the exception of the four indicators designated as “baseline” for the VR 
+program in PY 2020 and PY 2021.  The Departments will work with states during the 
+negotiation process to establish negotiated levels of performance for each of the primary 
+indicators for the core programs not listed as “baseline.”  Each state must update its plan to 
+include the agreed-upon negotiated levels of performance before the Departments approve a 
+state’s plan.  
+ 
+States may identify additional indicators in the plan, including additional approaches to 
+measuring Effectiveness in Serving Employers, and may establish levels of performance for each 
+of the state indicators.  Please identify any such state indicators under Additional Indicators of 
+Performance.
+
+3 
+ 
+ 
+ 
+Include the state's expected levels of performance relating to the performance accountability 
+indicators based on primary indicators of performance described in section 116(b)(2)(A) of 
+WIOA. 
+ 
+Title I – Adult Program 
+ 
+ Program Year: 
+Expected 
+Level  
+Program Year: 
+Negotiated 
+Level 
+ 
+Program Year: 
+Expected 
+Level  
+Program Year: 
+Negotiated 
+Level  
+Employment 
+(Second 
+Quarter after 
+Exit) 
+    
+Employment 
+(Fourth 
+Quarter after 
+Exit) 
+ 
+ 
+  
+Median 
+Earnings 
+(Second 
+Quarter after 
+Exit)  
+ 
+ 
+ 
+ 
+Credential 
+Attainment 
+Rate 
+ 
+ 
+ 
+ 
+Measurable 
+Skill Gains
+
+4 
+ 
+ 
+ 
+Title I – Dislocated Worker Program 
+ 
+ Program Year: 
+Expected 
+Level  
+Program Year: 
+Negotiated 
+Level 
+ 
+Program Year: 
+Expected 
+Level  
+Program Year: 
+Negotiated 
+Level  
+Employment 
+(Second 
+Quarter after 
+Exit) 
+    
+Employment 
+(Fourth 
+Quarter after 
+Exit) 
+ 
+ 
+  
+Median 
+Earnings 
+(Second 
+Quarter after 
+Exit)  
+ 
+ 
+ 
+ 
+Credential 
+Attainment 
+Rate 
+ 
+ 
+ 
+ 
+Measurable 
+Skill Gains
+
+5 
+ 
+ 
+ 
+Title I – Youth Program  
+ 
+ Program Year: 
+Expected 
+Level  
+Program Year: 
+Negotiated 
+Level 
+ 
+Program Year: 
+Expected 
+Level  
+Program Year: 
+Negotiated 
+Level  
+Employment 
+(Second 
+Quarter after 
+Exit)14 
+    
+Employment 
+(Fourth 
+Quarter after 
+Exit)14 
+ 
+ 
+  
+Median 
+Earnings 
+(Second 
+Quarter after 
+Exit)  
+ 
+ 
+ 
+ 
+Credential 
+Attainment 
+Rate 
+ 
+ 
+ 
+ 
+Measurable 
+Skill Gains 
+ 
+ 
+ 
+ 
+ 
+ 
+14 For Title I Youth programs, employment, education or training.
+
+6 
+ 
+ 
+ 
+Title II – Adult Education and Family Literacy Act Program 
+ 
+ Program Year: 
+Expected 
+Level  
+Program Year: 
+Negotiated 
+Level 
+ 
+Program Year: 
+Expected 
+Level  
+Program Year: 
+Negotiated 
+Level  
+Employment 
+(Second 
+Quarter after 
+Exit) 
+    
+Employment 
+(Fourth 
+Quarter after 
+Exit) 
+ 
+ 
+  
+Median 
+Earnings 
+(Second 
+Quarter after 
+Exit)  
+ 
+ 
+ 
+ 
+Credential 
+Attainment 
+Rate 
+ 
+ 
+ 
+ 
+Measurable 
+Skill Gains
+
+7 
+ 
+ 
+ 
+Wagner-Peyser Act Employment Service Program 
+ 
+ Program Year: 
+Expected 
+Level  
+Program Year: 
+Negotiated 
+Level 
+ 
+Program Year: 
+Expected 
+Level  
+Program Year: 
+Negotiated 
+Level  
+Employment 
+(Second 
+Quarter after 
+Exit) 
+    
+Employment 
+(Fourth 
+Quarter after 
+Exit) 
+ 
+ 
+  
+Median 
+Earnings 
+(Second 
+Quarter after 
+Exit)  
+ 
+ 
+ 
+ 
+Credential 
+Attainment 
+Rate 
+Not 
+Applicable 
+Not 
+Applicable 
+Not 
+Applicable 
+Not 
+Applicable 
+Measurable 
+Skill Gains 
+Not 
+Applicable 
+Not 
+Applicable 
+Not 
+Applicable 
+Not 
+Applicable
+
+8 
+ 
+ 
+ 
+Vocational Rehabilitation Program 
+ 
+ Program Year: 
+Expected 
+Level  
+Program Year: 
+Negotiated 
+Level 
+ 
+Program Year: 
+Expected 
+Level  
+Program Year: 
+Negotiated 
+Level  
+Employment 
+(Second 
+Quarter after 
+Exit)15 
+Baseline  Baseline Baseline Baseline 
+Employment 
+(Fourth 
+Quarter after 
+Exit)15 
+Baseline Baseline Baseline Baseline 
+Median 
+Earnings 
+(Second 
+Quarter after 
+Exit15  
+Baseline Baseline Baseline Baseline 
+Credential 
+Attainment 
+Rate15 
+Baseline Baseline Baseline Baseline 
+Measurable 
+Skill Gains 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+15 For the VR program, these indicators are Not Applicable for PY 2020 and PY  2021; however, they will be 
+applicable for PY 2022 and PY 2023.
+
+9 
+ 
+ 
+ 
+All WIOA Core Programs 
+ 
+ Program Year: 
+Expected 
+Level 
+ 
+Program Year: 
+Negotiated 
+Level 
+ 
+Program Year: 
+Expected Level 
+ 
+Program Year: 
+Negotiated 
+Level 
+ 
+Effectiveness 
+in Serving 
+Employers 
+Not applicable Not applicable Not applicable Not applicable 
+ 
+ 
+Additional Indicators of Performance  
+1. 
+2. 
+3. 
+4. 
+5. 
+6.

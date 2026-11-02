@@ -1,0 +1,1485 @@
+{
+  "source_type": "jvr_pdf_candidate",
+  "doi": "10.1177/10522263251394326",
+  "doi_url": "https://doi.org/10.1177/10522263251394326",
+  "source_url": "https://journals.sagepub.com/doi/10.1177/10522263251394326",
+  "attempted_pdf_urls": [
+    "https://journals.sagepub.com/doi/pdf/10.1177/10522263251394326",
+    "https://journals.sagepub.com/doi/10.1177/10522263251394326",
+    "https://doi.org/10.1177/10522263251394326",
+    "https://content.iospress.com/download?id=10.1177/10522263251394326"
+  ],
+  "selected_pdf_url": "",
+  "selected_final_url": "",
+  "download_status": "unavailable",
+  "match": {
+    "veteran_hits": [
+      "va "
+    ],
+    "pathway_hits": [
+      "employment",
+      "employed",
+      "job",
+      "jobs",
+      "work",
+      "employment pathway",
+      "employment pathways"
+    ],
+    "disability_hits": []
+  },
+  "openalex": {
+    "id": "https://openalex.org/W4416148713",
+    "doi": "https://doi.org/10.1177/10522263251394326",
+    "title": "A Portrait of Paid Employment Pathways for High School Students with Extensive Support Needs",
+    "display_name": "A Portrait of Paid Employment Pathways for High School Students with Extensive Support Needs",
+    "publication_year": 2025,
+    "publication_date": "2025-11-12",
+    "ids": {
+      "openalex": "https://openalex.org/W4416148713",
+      "doi": "https://doi.org/10.1177/10522263251394326"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/10522263251394326",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/10522263251394326",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S190353498",
+        "display_name": "Journal of Vocational Rehabilitation",
+        "issn_l": "1052-2263",
+        "issn": [
+          "1052-2263",
+          "1878-6316"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310318577",
+        "host_organization_name": "IOS Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310318577"
+        ],
+        "host_organization_lineage_names": [
+          "IOS Press"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Vocational Rehabilitation",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5060746350",
+          "display_name": "Michele A. Schutz",
+          "orcid": "https://orcid.org/0000-0001-8300-0599"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I200719446",
+            "display_name": "Vanderbilt University",
+            "ror": "https://ror.org/02vm5rt34",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I200719446"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Michele A. Schutz",
+        "raw_affiliation_strings": [
+          "Vanderbilt University",
+          "Department of Special Education, Vanderbilt University, Nashville, TN, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Vanderbilt University",
+            "institution_ids": [
+              "https://openalex.org/I200719446"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Special Education, Vanderbilt University, Nashville, TN, USA",
+            "institution_ids": [
+              "https://openalex.org/I200719446"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5090327661",
+          "display_name": "Jessica M. Awsumb",
+          "orcid": "https://orcid.org/0000-0002-7104-3687"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I200719446",
+            "display_name": "Vanderbilt University",
+            "ror": "https://ror.org/02vm5rt34",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I200719446"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Jessica M. Awsumb",
+        "raw_affiliation_strings": [
+          "Vanderbilt University",
+          "Department of Special Education, Vanderbilt University, Nashville, TN, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Vanderbilt University",
+            "institution_ids": [
+              "https://openalex.org/I200719446"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Special Education, Vanderbilt University, Nashville, TN, USA",
+            "institution_ids": [
+              "https://openalex.org/I200719446"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5108260186",
+          "display_name": "Leah Burgess",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I200719446",
+            "display_name": "Vanderbilt University",
+            "ror": "https://ror.org/02vm5rt34",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I200719446"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Leah Burgess",
+        "raw_affiliation_strings": [
+          "Vanderbilt University",
+          "Department of Special Education, Vanderbilt University, Nashville, TN, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Vanderbilt University",
+            "institution_ids": [
+              "https://openalex.org/I200719446"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Special Education, Vanderbilt University, Nashville, TN, USA",
+            "institution_ids": [
+              "https://openalex.org/I200719446"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5095699306",
+          "display_name": "Justine Hrvatin",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I200719446",
+            "display_name": "Vanderbilt University",
+            "ror": "https://ror.org/02vm5rt34",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I200719446"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Justine Hrvatin",
+        "raw_affiliation_strings": [
+          "Vanderbilt University",
+          "Department of Special Education, Vanderbilt University, Nashville, TN, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Vanderbilt University",
+            "institution_ids": [
+              "https://openalex.org/I200719446"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Special Education, Vanderbilt University, Nashville, TN, USA",
+            "institution_ids": [
+              "https://openalex.org/I200719446"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5039294872",
+          "display_name": "Erik W. Carter",
+          "orcid": "https://orcid.org/0000-0001-7153-2782"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I200719446",
+            "display_name": "Vanderbilt University",
+            "ror": "https://ror.org/02vm5rt34",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I200719446"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Erik W. Carter",
+        "raw_affiliation_strings": [
+          "Vanderbilt University",
+          "Department of Special Education, Vanderbilt University, Nashville, TN, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Vanderbilt University",
+            "institution_ids": [
+              "https://openalex.org/I200719446"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Special Education, Vanderbilt University, Nashville, TN, USA",
+            "institution_ids": [
+              "https://openalex.org/I200719446"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 5,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5060746350"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I200719446"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.35645824,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": "64",
+      "issue": "1",
+      "first_page": "26",
+      "last_page": "38"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11514",
+      "display_name": "Disability Education and Employment",
+      "score": 0.8647000193595886,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3311",
+        "display_name": "Safety Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11514",
+        "display_name": "Disability Education and Employment",
+        "score": 0.8647000193595886,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3311",
+          "display_name": "Safety Research"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10726",
+        "display_name": "Career Development and Diversity",
+        "score": 0.026200000196695328,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3311",
+          "display_name": "Safety Research"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10589",
+        "display_name": "Early Childhood Education and Development",
+        "score": 0.008700000122189522,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3304",
+          "display_name": "Education"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/leverage",
+        "display_name": "Leverage (statistics)",
+        "score": 0.6948999762535095
+      },
+      {
+        "id": "https://openalex.org/keywords/school-to-work-transition",
+        "display_name": "School-to-work transition",
+        "score": 0.5059999823570251
+      },
+      {
+        "id": "https://openalex.org/keywords/work",
+        "display_name": "Work (physics)",
+        "score": 0.5001000165939331
+      },
+      {
+        "id": "https://openalex.org/keywords/portrait",
+        "display_name": "Portrait",
+        "score": 0.46790000796318054
+      },
+      {
+        "id": "https://openalex.org/keywords/transition",
+        "display_name": "Transition (genetics)",
+        "score": 0.41040000319480896
+      },
+      {
+        "id": "https://openalex.org/keywords/part-time-employment",
+        "display_name": "Part-time employment",
+        "score": 0.3871000111103058
+      },
+      {
+        "id": "https://openalex.org/keywords/job-placement",
+        "display_name": "Job placement",
+        "score": 0.3596000075340271
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C153083717",
+        "wikidata": "https://www.wikidata.org/wiki/Q6535263",
+        "display_name": "Leverage (statistics)",
+        "level": 2,
+        "score": 0.6948999762535095
+      },
+      {
+        "id": "https://openalex.org/C2779687131",
+        "wikidata": "https://www.wikidata.org/wiki/Q7432131",
+        "display_name": "School-to-work transition",
+        "level": 3,
+        "score": 0.5059999823570251
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.5016000270843506
+      },
+      {
+        "id": "https://openalex.org/C18762648",
+        "wikidata": "https://www.wikidata.org/wiki/Q42213",
+        "display_name": "Work (physics)",
+        "level": 2,
+        "score": 0.5001000165939331
+      },
+      {
+        "id": "https://openalex.org/C162462552",
+        "wikidata": "https://www.wikidata.org/wiki/Q134307",
+        "display_name": "Portrait",
+        "level": 2,
+        "score": 0.46790000796318054
+      },
+      {
+        "id": "https://openalex.org/C194232998",
+        "wikidata": "https://www.wikidata.org/wiki/Q1606712",
+        "display_name": "Transition (genetics)",
+        "level": 3,
+        "score": 0.41040000319480896
+      },
+      {
+        "id": "https://openalex.org/C39549134",
+        "wikidata": "https://www.wikidata.org/wiki/Q133080",
+        "display_name": "Public relations",
+        "level": 1,
+        "score": 0.39329999685287476
+      },
+      {
+        "id": "https://openalex.org/C509550671",
+        "wikidata": "https://www.wikidata.org/wiki/Q126945",
+        "display_name": "Medical education",
+        "level": 1,
+        "score": 0.3919999897480011
+      },
+      {
+        "id": "https://openalex.org/C2909356555",
+        "wikidata": "https://www.wikidata.org/wiki/Q587972",
+        "display_name": "Part-time employment",
+        "level": 3,
+        "score": 0.3871000111103058
+      },
+      {
+        "id": "https://openalex.org/C19417346",
+        "wikidata": "https://www.wikidata.org/wiki/Q7922",
+        "display_name": "Pedagogy",
+        "level": 1,
+        "score": 0.37070000171661377
+      },
+      {
+        "id": "https://openalex.org/C2992911641",
+        "wikidata": "https://www.wikidata.org/wiki/Q261362",
+        "display_name": "Job placement",
+        "level": 3,
+        "score": 0.3596000075340271
+      },
+      {
+        "id": "https://openalex.org/C144024400",
+        "wikidata": "https://www.wikidata.org/wiki/Q21201",
+        "display_name": "Sociology",
+        "level": 0,
+        "score": 0.33329999446868896
+      },
+      {
+        "id": "https://openalex.org/C2778965245",
+        "wikidata": "https://www.wikidata.org/wiki/Q2499074",
+        "display_name": "Supported employment",
+        "level": 3,
+        "score": 0.33149999380111694
+      },
+      {
+        "id": "https://openalex.org/C144133560",
+        "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+        "display_name": "Business",
+        "level": 0,
+        "score": 0.30410000681877136
+      },
+      {
+        "id": "https://openalex.org/C198477413",
+        "wikidata": "https://www.wikidata.org/wiki/Q7647069",
+        "display_name": "Survey data collection",
+        "level": 2,
+        "score": 0.29739999771118164
+      },
+      {
+        "id": "https://openalex.org/C1691868",
+        "wikidata": "https://www.wikidata.org/wiki/Q1811049",
+        "display_name": "Life course approach",
+        "level": 2,
+        "score": 0.2825999855995178
+      },
+      {
+        "id": "https://openalex.org/C39896193",
+        "wikidata": "https://www.wikidata.org/wiki/Q380344",
+        "display_name": "Descriptive statistics",
+        "level": 2,
+        "score": 0.2782000005245209
+      },
+      {
+        "id": "https://openalex.org/C2776999362",
+        "wikidata": "https://www.wikidata.org/wiki/Q2349274",
+        "display_name": "Planner",
+        "level": 2,
+        "score": 0.27399998903274536
+      },
+      {
+        "id": "https://openalex.org/C2989521464",
+        "wikidata": "https://www.wikidata.org/wiki/Q3761395",
+        "display_name": "Career planning",
+        "level": 2,
+        "score": 0.26739999651908875
+      },
+      {
+        "id": "https://openalex.org/C2778000738",
+        "wikidata": "https://www.wikidata.org/wiki/Q1005490",
+        "display_name": "Self-employment",
+        "level": 3,
+        "score": 0.26570001244544983
+      },
+      {
+        "id": "https://openalex.org/C91034043",
+        "wikidata": "https://www.wikidata.org/wiki/Q223642",
+        "display_name": "Interpersonal relationship",
+        "level": 2,
+        "score": 0.25429999828338623
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1177/10522263251394326",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1177/10522263251394326",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S190353498",
+          "display_name": "Journal of Vocational Rehabilitation",
+          "issn_l": "1052-2263",
+          "issn": [
+            "1052-2263",
+            "1878-6316"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310318577",
+          "host_organization_name": "IOS Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310318577"
+          ],
+          "host_organization_lineage_names": [
+            "IOS Press"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Vocational Rehabilitation",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "content_urls": null,
+    "referenced_works_count": 18,
+    "referenced_works": [
+      "https://openalex.org/W2006097851",
+      "https://openalex.org/W2010615693",
+      "https://openalex.org/W2111050910",
+      "https://openalex.org/W2590047176",
+      "https://openalex.org/W2760977149",
+      "https://openalex.org/W3002941098",
+      "https://openalex.org/W3041391437",
+      "https://openalex.org/W4210849918",
+      "https://openalex.org/W4231262222",
+      "https://openalex.org/W4282843685",
+      "https://openalex.org/W4312010477",
+      "https://openalex.org/W4366983163",
+      "https://openalex.org/W4389649036",
+      "https://openalex.org/W4390143042",
+      "https://openalex.org/W4394838162",
+      "https://openalex.org/W4405387451",
+      "https://openalex.org/W4411737182",
+      "https://openalex.org/W4413112238"
+    ],
+    "related_works": [],
+    "abstract_inverted_index": {
+      "Background": [
+        0
+      ],
+      "Early": [
+        1
+      ],
+      "paid": [
+        2,
+        31,
+        65,
+        100
+      ],
+      "jobs": [
+        3,
+        32,
+        101
+      ],
+      "can": [
+        4,
+        36
+      ],
+      "equip": [
+        5
+      ],
+      "students": [
+        6,
+        28,
+        59,
+        116
+      ],
+      "with": [
+        7,
+        60,
+        132
+      ],
+      "extensive": [
+        8
+      ],
+      "support": [
+        9,
+        110
+      ],
+      "needs": [
+        10
+      ],
+      "(ESN)": [
+        11
+      ],
+      "for": [
+        12,
+        155
+      ],
+      "postsecondary": [
+        13
+      ],
+      "employment,": [
+        14
+      ],
+      "but": [
+        15
+      ],
+      "they": [
+        16
+      ],
+      "rarely": [
+        17
+      ],
+      "receive": [
+        18
+      ],
+      "these": [
+        19,
+        146
+      ],
+      "opportunities.": [
+        20
+      ],
+      "An": [
+        21
+      ],
+      "in-depth": [
+        22
+      ],
+      "examination": [
+        23
+      ],
+      "of": [
+        24,
+        27,
+        55,
+        71,
+        87,
+        111,
+        145,
+        167,
+        175
+      ],
+      "the": [
+        25,
+        51,
+        85,
+        109,
+        135,
+        143,
+        172
+      ],
+      "experiences": [
+        26,
+        54
+      ],
+      "who": [
+        29,
+        62
+      ],
+      "obtain": [
+        30
+      ],
+      "during": [
+        33,
+        67,
+        102
+      ],
+      "high": [
+        34,
+        57,
+        72
+      ],
+      "school": [
+        35,
+        58
+      ],
+      "illuminate": [
+        37
+      ],
+      "successful": [
+        38
+      ],
+      "pathways": [
+        39,
+        98
+      ],
+      "to": [
+        40,
+        83,
+        99,
+        120,
+        134
+      ],
+      "obtaining": [
+        41
+      ],
+      "and": [
+        42,
+        91,
+        95,
+        126,
+        141,
+        158,
+        170
+      ],
+      "sustaining": [
+        43
+      ],
+      "employment.": [
+        44
+      ],
+      "Objective": [
+        45
+      ],
+      "In": [
+        46
+      ],
+      "this": [
+        47
+      ],
+      "study,": [
+        48
+      ],
+      "we": [
+        49
+      ],
+      "describe": [
+        50
+      ],
+      "early": [
+        52,
+        147
+      ],
+      "work": [
+        53
+      ],
+      "15": [
+        56
+      ],
+      "ESN": [
+        61
+      ],
+      "obtained": [
+        63
+      ],
+      "a": [
+        64,
+        103
+      ],
+      "job": [
+        66
+      ],
+      "their": [
+        68,
+        112,
+        123
+      ],
+      "final": [
+        69
+      ],
+      "year": [
+        70
+      ],
+      "school.": [
+        73
+      ],
+      "Method": [
+        74
+      ],
+      "We": [
+        75
+      ],
+      "employed": [
+        76
+      ],
+      "descriptive": [
+        77
+      ],
+      "analyses": [
+        78
+      ],
+      "using": [
+        79
+      ],
+      "multiple": [
+        80
+      ],
+      "data": [
+        81
+      ],
+      "sources": [
+        82
+      ],
+      "characterize": [
+        84
+      ],
+      "perspectives": [
+        86
+      ],
+      "special": [
+        88
+      ],
+      "educators,": [
+        89
+      ],
+      "families,": [
+        90
+      ],
+      "workplace": [
+        92
+      ],
+      "supervisors": [
+        93
+      ],
+      "within": [
+        94
+      ],
+      "across": [
+        96
+      ],
+      "students’": [
+        97
+      ],
+      "school-based": [
+        104
+      ],
+      "intervention.": [
+        105
+      ],
+      "Results": [
+        106
+      ],
+      "Drawing": [
+        107
+      ],
+      "upon": [
+        108
+      ],
+      "employment": [
+        113,
+        148,
+        163
+      ],
+      "planning": [
+        114,
+        164,
+        181
+      ],
+      "teams,": [
+        115
+      ],
+      "pursued": [
+        117
+      ],
+      "varied": [
+        118
+      ],
+      "routes": [
+        119
+      ],
+      "work.": [
+        121
+      ],
+      "Although": [
+        122
+      ],
+      "acquired": [
+        124
+      ],
+      "positions": [
+        125
+      ],
+      "utilized": [
+        127
+      ],
+      "supports": [
+        128
+      ],
+      "differed,": [
+        129
+      ],
+      "patterns": [
+        130
+      ],
+      "emerged": [
+        131
+      ],
+      "respect": [
+        133
+      ],
+      "factors": [
+        136
+      ],
+      "that": [
+        137,
+        160
+      ],
+      "led": [
+        138
+      ],
+      "to,": [
+        139
+      ],
+      "supported,": [
+        140
+      ],
+      "hindered": [
+        142
+      ],
+      "longevity": [
+        144
+      ],
+      "experiences.": [
+        149
+      ],
+      "Conclusion": [
+        150
+      ],
+      "Our": [
+        151
+      ],
+      "findings": [
+        152
+      ],
+      "have": [
+        153
+      ],
+      "implications": [
+        154
+      ],
+      "future": [
+        156
+      ],
+      "research": [
+        157
+      ],
+      "practice": [
+        159
+      ],
+      "emphasize": [
+        161
+      ],
+      "person-centered": [
+        162
+      ],
+      "as": [
+        165
+      ],
+      "part": [
+        166
+      ],
+      "transition": [
+        168,
+        180
+      ],
+      "services": [
+        169
+      ],
+      "leverage": [
+        171
+      ],
+      "full": [
+        173
+      ],
+      "spectrum": [
+        174
+      ],
+      "resources": [
+        176
+      ],
+      "available": [
+        177
+      ],
+      "through": [
+        178
+      ],
+      "interdisciplinary": [
+        179
+      ],
+      "teams.": [
+        182
+      ]
+    },
+    "counts_by_year": [],
+    "updated_date": "2026-03-07T16:01:11.037858",
+    "created_date": "2025-11-12T00:00:00"
+  },
+  "crossref": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          20
+        ]
+      ],
+      "date-time": "2026-01-20T20:37:12Z",
+      "timestamp": 1768941432716,
+      "version": "3.49.0"
+    },
+    "reference-count": 24,
+    "publisher": "SAGE Publications",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              11,
+              12
+            ]
+          ],
+          "date-time": "2025-11-12T00:00:00Z",
+          "timestamp": 1762905600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100009157",
+        "name": "National Institute on Disability, Independent Living, and Rehabilitation Research",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/100009157",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.sagepub.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Journal of Vocational Rehabilitation"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          1
+        ]
+      ]
+    },
+    "abstract": "<jats:sec>\n                    <jats:title>Background</jats:title>\n                    <jats:p>Early paid jobs can equip students with extensive support needs (ESN) for postsecondary employment, but they rarely receive these opportunities. An in-depth examination of the experiences of students who obtain paid jobs during high school can illuminate successful pathways to obtaining and sustaining employment.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Objective</jats:title>\n                    <jats:p>In this study, we describe the early work experiences of 15 high school students with ESN who obtained a paid job during their final year of high school.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Method</jats:title>\n                    <jats:p>We employed descriptive analyses using multiple data sources to characterize the perspectives of special educators, families, and workplace supervisors within and across students’ pathways to paid jobs during a school-based intervention.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>Drawing upon the support of their employment planning teams, students pursued varied routes to work. Although their acquired positions and utilized supports differed, patterns emerged with respect to the factors that led to, supported, and hindered the longevity of these early employment experiences.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusion</jats:title>\n                    <jats:p>Our findings have implications for future research and practice that emphasize person-centered employment planning as part of transition services and leverage the full spectrum of resources available through interdisciplinary transition planning teams.</jats:p>\n                  </jats:sec>",
+    "DOI": "10.1177/10522263251394326",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          12
+        ]
+      ],
+      "date-time": "2025-11-12T17:49:58Z",
+      "timestamp": 1762969798000
+    },
+    "page": "26-38",
+    "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "A Portrait of Paid Employment Pathways for High School Students with Extensive Support Needs"
+    ],
+    "prefix": "10.1177",
+    "volume": "64",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-8300-0599",
+        "authenticated-orcid": false,
+        "given": "Michele A.",
+        "family": "Schutz",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Vanderbilt University"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7104-3687",
+        "authenticated-orcid": false,
+        "given": "Jessica M.",
+        "family": "Awsumb",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Vanderbilt University"
+          }
+        ]
+      },
+      {
+        "given": "Leah",
+        "family": "Burgess",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Vanderbilt University"
+          }
+        ]
+      },
+      {
+        "given": "Justine",
+        "family": "Hrvatin",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Vanderbilt University"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7153-2782",
+        "authenticated-orcid": false,
+        "given": "Erik W.",
+        "family": "Carter",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Vanderbilt University"
+          }
+        ]
+      }
+    ],
+    "member": "179",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          12
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_3_2_1",
+        "volume-title": "Support Intensity Scale",
+        "author": "American Association on Intellectual and Developmental Disabilities",
+        "year": "2004",
+        "unstructured": "American Association on Intellectual and Developmental Disabilities. (2004). Support Intensity Scale. AAIDD."
+      },
+      {
+        "issue": "4",
+        "key": "e_1_3_3_3_1",
+        "first-page": "1",
+        "article-title": "Natural supports in competitive integrated employment: A scoping review",
+        "volume": "60",
+        "author": "Athamanah L. S.",
+        "year": "2024",
+        "unstructured": "Athamanah L. S., Cushing L. A., Fastzkie E. M., Brown E. R. (2024). Natural supports in competitive integrated employment: A scoping review. Journal of Vocational Rehabilitation, 60(4), 1–13. https://doi.org/10.3233/JVR-240017",
+        "journal-title": "Journal of Vocational Rehabilitation"
+      },
+      {
+        "key": "e_1_3_3_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/15407969221075629"
+      },
+      {
+        "key": "e_1_3_3_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/27324745241242090"
+      },
+      {
+        "key": "e_1_3_3_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/21651434231218708"
+      },
+      {
+        "key": "e_1_3_3_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1044207311414680"
+      },
+      {
+        "key": "e_1_3_3_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/2165143420938663"
+      },
+      {
+        "key": "e_1_3_3_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/001440291007600204"
+      },
+      {
+        "key": "e_1_3_3_10_1",
+        "unstructured": "Individuals with Disabilities Education Improvement Act of 2004. 20 U.S.C. 1400 et seq. (2004)."
+      },
+      {
+        "key": "e_1_3_3_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0885728811419167"
+      },
+      {
+        "key": "e_1_3_3_12_1",
+        "volume-title": "Preparing for life after high school: The characteristics and experiences of youth in special education. (Vol. 2)",
+        "author": "Lipscomb S.",
+        "year": "2017",
+        "unstructured": "Lipscomb S., Haimson J., Liu A. Y., Burghardt J., Johnson D. R., Thurlow M. L. (2017). Preparing for life after high school: The characteristics and experiences of youth in special education. (Vol. 2). U.S. Department of Education. https://ies.ed.gov/ncee/pubs/20184011/"
+      },
+      {
+        "key": "e_1_3_3_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1540796916686564"
+      },
+      {
+        "key": "e_1_3_3_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/21651434231214161"
+      },
+      {
+        "key": "e_1_3_3_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1352/1934-9556-63.4.329"
+      },
+      {
+        "key": "e_1_3_3_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-221194"
+      },
+      {
+        "key": "e_1_3_3_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/21651434251347520"
+      },
+      {
+        "key": "e_1_3_3_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-221221"
+      },
+      {
+        "key": "e_1_3_3_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1362361319894827"
+      },
+      {
+        "key": "e_1_3_3_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1362361317699585"
+      },
+      {
+        "key": "e_1_3_3_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/00224669241301732"
+      },
+      {
+        "key": "e_1_3_3_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-191019"
+      },
+      {
+        "key": "e_1_3_3_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-230022"
+      },
+      {
+        "key": "e_1_3_3_24_1",
+        "unstructured": "Workforce Innovation and Opportunity Act 29 U.S.C. § 3101 (2014)."
+      },
+      {
+        "key": "e_1_3_3_25_1",
+        "first-page": "126",
+        "volume-title": "Case study research: Design and methods",
+        "author": "Yin R. K.",
+        "year": "2009",
+        "unstructured": "Yin R. K. (2009). Analyzing case study evidence: How to start your analysis, your analytic choices, and how they work. In Yin R. (Ed.), Case study research: Design and methods (4th ed, pp. 126–163). Sage. https://doi.org/10.33524/cjar.v14i1.73",
+        "edition": "4"
+      }
+    ],
+    "container-title": [
+      "Journal of Vocational Rehabilitation"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/10522263251394326",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/10522263251394326",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/10522263251394326",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          20
+        ]
+      ],
+      "date-time": "2026-01-20T07:17:01Z",
+      "timestamp": 1768893421000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/10.1177/10522263251394326"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          12
+        ]
+      ]
+    },
+    "references-count": 24,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            1
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1177/10522263251394326"
+    ],
+    "URL": "https://doi.org/10.1177/10522263251394326",
+    "relation": {},
+    "ISSN": [
+      "1052-2263",
+      "1878-6316"
+    ],
+    "issn-type": [
+      {
+        "value": "1052-2263",
+        "type": "print"
+      },
+      {
+        "value": "1878-6316",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          12
+        ]
+      ]
+    }
+  }
+}

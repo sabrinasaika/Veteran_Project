@@ -1,0 +1,63 @@
+FILENAME: rsa-faq-22-04-pdf-37ff5774b9d3.pdf
+PATH: _raw/rsa.ed.gov/rsa-faq-22-04-pdf-37ff5774b9d3.pdf
+
+U.S. DEPARTMENT OF EDUCATION 
+ OFFICE OF SPECIAL EDUCATION AND REHABILITATIVE SERVICES 
+ REHABILITATION SERVICES ADMINISTRATION 
+April 1, 2022 
+FAQ 22-04 
+ 
+Frequently Asked Questions 
+ 
+Reporting Financial Relief and Restoration Payments on the RSA-15 
+ 
+Q: How should State licensing agencies (SLAs) report Financial Relief and Restoration 
+Payments (FRRP) funds on the RSA-15? 
+ 
+SLAs that obligated FRRP funds prior to October 1, 2021, must include FRRP funds in the FFY 
+2021 RSA-15 report, Sections I and IV, to report payments to vendors and if FRRP funds were 
+used for set-aside purposes.  
+ 
+The RSA-15 is a comprehensive program report for the Randolph-Sheppard Vending Facilities 
+Program (RSVFP) that collects information about all funds supporting the program, including 
+but not limited to the FRRP and all costs incurred under the program. To that end, SLAs must 
+report FRRP payments made to vendors to compensate for their losses incurred during calendar 
+year 2020 on the RSA-15 report under “Section I. Earnings and Employment,” line 8, which 
+requests “Vending Machine and Other Income,” because the FRRP funds compensated a 
+business loss in the RSVFP.     
+ 
+Congress also authorized SLAs to set aside FRRP funds to the extent not needed to compensate 
+vendor losses, allowing the funds to be used for any purpose consistent with the RSVFP set-aside 
+funds under 34 C.F.R. § 395.9(b). For those SLAs that administer set-aside accounts, once FRRP 
+funds are deposited into the set-aside account, they take on the character and purpose of those 
+funds and must be reported on the RSA-15 along with other set-aside funds under the RSVFP. 
+For example, if vendors received Fair Minimum Return (FMR) payments from the set-aside 
+account, the FMR income in Section I, line 13, must be reported as the total amount of FMR 
+received, meaning any FRRP funds designated for FMR plus other funds from the set-aside 
+account. The same analysis applies to any of the other allowable purposes for set-aside under 34 
+C.F.R. § 395.9(b), such as retirement and other benefits in Section I, line 9. 
+ 
+Similarly, in “Section IV. Program Expenditures By Source of Funds,”1 SLAs must report all 
+expenditures incurred under the RSVFP on the RSA-15. Those expenditures include ones SLAs 
+made from any set-aside account, which would also include FRRP funds deposited there. For 
+example, when reporting FMR expenditures on Section IV, line 5, SLAs must report the total 
+amount of set-aside funds paid for FMR, meaning any FRRP funds designated for FMR plus 
+other funds from the set-aside account. SLAs also must report FRRP funds spent along with 
+other set-aside funds for all other applicable categories listed in Section IV, such as lines 1, 2, 4, 
+6, 7, and 8. In other words, SLAs do not report FRRP expenditures separately from the set-aside 
+expenditures. Rather, SLAs must include the FRRP expenditures in the total amount of set-aside 
+expenditures reported for each of these purposes. 
+ 
+1 We recognize the RSA-15 instructions for “set aside” in Section IV do not specifically include FRRP funds; 
+however, the RSA-15 was developed and issued prior to Congress appropriating FRRP funds for and authorizing 
+them to be used for set-aside purposes.
+
+In RSA-FAQ-21-04, RSA indicated each SLA would need to submit an SF-425 at the end of 
+Federal fiscal year (FFY) 2021 and again at the end of FFY 2022 if the agency was still 
+distributing FRRP funds in FFY 2022. The purpose of the SF-425 is for each SLA to report the 
+total amount of FRRP funds the agency received and the total amount of FRRP funds distributed 
+by the agency in FFY 2021 and, as applicable, in FFY 2022. However, the purpose of the RSA-
+15 is to provide a comprehensive report on the RSVFP. Because each report serves a separate 
+and distinct purpose, the funds must be accounted for in both places. Therefore, an SLA must 
+include FRRP funds in the RSA-15 for each year the SLA obligates FRRP funds, consistent with 
+the SLA’s submission of its SF-425 for that year.

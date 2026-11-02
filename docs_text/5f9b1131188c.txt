@@ -1,0 +1,1942 @@
+FILENAME: fy2024-ut-c-pdf-0aa88a91e468.pdf
+PATH: _raw/rsa.ed.gov/fy2024-ut-c-pdf-0aa88a91e468.pdf
+
+FEDERAL FISCAL YEAR 2024 
+MONITORING REPORT ON THE 
+UTAH STATE OFFICE OF 
+REHABILITATION 
+VOCATIONAL REHABILITATION 
+AND 
+SUPPORTED EMPLOYMENT PROGRAMS 
+ 
+U.S. Department of Education 
+Office of Special Education and 
+Rehabilitative Services 
+Rehabilitation Services Administration 
+June 12, 2025
+
+TABLE OF CONTENTS 
+Page 
+Section 1: The Scope of the Review ............................................................................................... 1 
+Section 2: Focus Area – Performance of the State Vocational Rehabilitation Services and State 
+Supported Employment Services Programs.................................................................................... 3 
+Section 3: Focus Area – Financial Management of the State Vocational Rehabilitation Services 
+and State Supported Employment Services Programs .................................................................. 18 
+Appendix A: State Vocational Rehabilitation Services and State Supported Employment Services 
+Programs Performance Tables ...................................................................................................... 30 
+Appendix B: Fiscal Data Tables ................................................................................................... 40
+
+1 
+SECTION 1: THE SCOPE OF THE REVIEW 
+A. BACKGROUND 
+Section 107 of the Rehabilitation Act of 1973 (Rehabilitation Act), as amended by Title IV of the 
+Workforce Innovation and Opportunity Act (WIOA), requires the Commissioner of the 
+Rehabilitation Services Administration (RSA) to conduct annual reviews and periodic on-site 
+monitoring of programs authorized under Title I of the Rehabilitation Act to determine whether a 
+vocational rehabilitation (VR) agency is complying substantially with the provisions of its State 
+Plan under Section 101 of the Rehabilitation Act and with the evaluation standards and 
+performance indicators established under Section 106 of the Rehabilitation Act subject to the 
+performance accountability provisions described in Section 116(b) of WIOA. In addition, the 
+Commissioner must assess the degree to which VR agencies are complying with the assurances 
+made in the State Plan Supplement for Supported Employment Services under Title VI of the 
+Rehabilitation Act. In conducting the annual reviews, RSA must consider, at a minimum, budget 
+and financial management data (Section 107(a)(2)(I) of the Rehabilitation Act); and, pursuant to 
+Section 107(a)(4)(B) of the Rehabilitation Act, RSA must examine the provision of services, 
+including pre-employment transition services. 
+RSA works closely with its Federal partners at the U.S. Department of Labor’s Employment and 
+Training Administration (ETA) and the U.S. Department of Education’s Office of Career, 
+Technical, and Adult Education (OCTAE) to share monitoring and technical assistance activities, 
+especially as they relate to the joint provisions under WIOA. Although the VR program is one of 
+the six core programs in the workforce development system, it is unique in that State VR 
+agencies provide services directly to individuals with disabilities. Thus, the nature and scope of 
+RSA’s monitoring process and report may appear different from the monitoring ETA and 
+OCTAE conduct with their grantees.  
+In Federal fiscal year (FFY) 2024, RSA conducted an on-site monitoring review of the State 
+Vocational Rehabilitation Services program (VR program) and the State Supported Employment 
+Services program (Supported Employment program) administered by the Utah State Office of 
+Rehabilitation (USOR). The nature, scope, and focus of this review and the process by which 
+RSA carried out its activities from August 13, 2024, through August 15, 2024, was defined by 
+information regarding the VR agency’s use and expenditure of Federal funds, documents, and 
+data submitted by USOR, taking into account the goals, unique circumstances, and technical 
+assistance needs of the VR agency.  
+RSA—  
+● Assessed the performance of the VR and Supported Employment programs, including 
+how the VR agency is implementing strategies and practices to achieve continuous 
+improvement in the delivery of VR services, including pre-employment transition 
+services, leading to quality competitive integrated employment and supported 
+employment outcomes for individuals with disabilities; 
+● Reviewed the VR agency’s financial management of the VR and Supported Employment 
+programs, which supports and maximizes the use of Federal funds and resources to
+
+2 
+achieve continuous improvement in assisting individuals with disabilities to achieve 
+quality employment outcomes; 
+● Identified strategies, including innovative practices, the VR agency uses or may employ 
+to improve competitive integrated employment outcomes for individuals with disabilities, 
+including students and youth with disabilities; 
+● Provided recommendations leading to continuous improvement in the number and quality 
+of outcomes achieved by individuals with disabilities through the VR and Supported 
+Employment programs and recommendations leading to continuous improvement in the 
+VR agency’s financial management of fiscal resources and strategies for maximizing the 
+use of Federal grant funds;  
+● Identified compliance findings and corrective actions to improve processes and 
+procedures, including the development or revision of policies and internal controls 
+supporting effective and efficient program operations, service delivery, and data-based 
+decision making; and  
+● Provided technical assistance to assist and support the VR agency in developing strategic 
+actions to improve and maximize program and fiscal performance and the use of Federal 
+funds. 
+B. Review Team Participants 
+Members of the RSA review team included Michele Mulhern (VR Program Unit); Lisa Burton, 
+Joe Doney, and Shaton Edwards (Technical Assistance Unit); Jolene Hamm and Arseni Popov 
+(Fiscal Unit); and Andrew Kerns (Data Collection and Analysis Unit). Although not all team 
+members participated in all aspects of the on-site monitoring review, each contributed to the 
+gathering and analysis of information, along with the development of this report. 
+C. Acknowledgements 
+RSA wishes to express appreciation to the representatives of USOR for the cooperation and 
+assistance extended throughout the review process. RSA also appreciates the participation of 
+others, such as the State Rehabilitation Council (SRC), the Client Assistance Program, and other 
+stakeholders during the review process.
+
+3 
+SECTION 2: FOCUS AREA – PERFORMANCE OF THE STATE 
+VOCATIONAL REHABILITATION SERVICES AND STATE SUPPORTED 
+EMPLOYMENT SERVICES PROGRAMS  
+A. PURPOSE 
+Through this focus area, RSA assessed the VR agency’s VR and Supported Employment 
+programs’ performance in assisting individuals with disabilities, including those with the most 
+significant disabilities, with the necessary services and supports to achieve quality competitive 
+integrated employment. During this focused review, RSA analyzed VR program data, policies 
+and internal controls, and agency practices in implementing VR services within the context of 
+maximizing the use and expenditure of funds to improve program performance. Where 
+appropriate, RSA provided technical assistance and identified findings requiring corrective 
+actions. RSA also provided recommendations, which the agency may consider as it develops 
+strategic actions to improve performance and maximize the use and expenditure of Federal funds 
+to achieve quality employment outcomes.  
+B. ANALYSIS OF PERFORMANCE
+  
+RSA’s analysis of the VR agency’s performance of the VR and Supported Employment 
+programs incorporated a review of data reported by USOR on the Case Service Report (RSA-
+911) and the WIOA Statewide Performance Report (ETA-9169) for program years (PYs) 2020, 
+2021, and 2022, as well as the review and discussion of internal controls and policies and 
+requested documents. A review of the VR agency profile and data related to the VR process, VR 
+services, quality of employment outcomes, and pre-employment transition services, as well as 
+discussions with USOR of potential factors influencing program performance informed the 
+analysis and helped to identify technical assistance needs and recommendations to improve the 
+performance and management of the VR and Supported Employment programs.  
+Summary of Factors Influencing Performance 
+ 
+Through the analysis of data and documents provided by the VR agency, information from 
+related sources, and discussions with USOR during the review, RSA identified various factors, 
+which may be contributing either positively or negatively to USOR’s performance leading to 
+employment outcomes for individuals with disabilities and the use and expenditure of Federal 
+funds. In addition to providing technical assistance, as appropriate and in response to USOR’s 
+requests, RSA also developed recommendations for consideration by the VR agency as it 
+develops strategic actions to ensure continuous improvement in program performance and to 
+maximize the use and expenditure of available Federal funds to assist individuals with 
+disabilities in achieving quality employment outcomes. 
+ 
+Supported Employment: Provision of Extended Services 
+ 
+As described in 34 C.F.R. § 363.22, a State that receives an allotment under the State Supported 
+Employment Services program must reserve and expend 50 percent of such allotment for the 
+provision of supported employment services, including extended services, to youth with the most
+
+4 
+significant disabilities to assist those youth in achieving an employment outcome in supported 
+employment. Although USOR stated it provided extended services to youth with the most 
+significant disabilities, it did not report any extended services to youth with the most significant 
+disabilities, as described and defined in 34 C.F.R. §§ 363.4(a)(2) and 361.5(c)(19)(v), in any 
+years of the review period. Extended services are coordinated with the Utah Department of 
+Health and Human Services (DHHS) through the Services for People with Disabilities and 
+Integrated Health partners.  
+ 
+The Client Services Manual, Chapter 30 Supported Employment Services, last updated in June 
+2024, along with policies, describe extended services, but USOR was unable to verify the 
+delivery of these services during the three-year review period. Ensuring these services are 
+delivered may help USOR improve the percentage of participants employed at exit in supported 
+employment, which was eight percent in PY 2022, eight percentage points below the national 
+average of 16 percent. 
+ 
+Technical Assistance  
+ 
+● RSA provided technical assistance regarding the need to revise language in policy 30.2 to 
+align with 34 C.F.R. § 361.5(c)(19)(v) and ensure extended services are provided to a 
+youth with a most significant disability by USOR in accordance with requirements set 
+forth in 34 C.F.R. part 361 and part 363 for a period not to exceed four years, or at such 
+time that a youth reaches age 25 and no longer meets the definition of a youth with a 
+disability under 34 C.F.R. § 361.5(c)(58), whichever occurs first. USOR may not provide 
+extended services to an individual with a most significant disability who is not a youth 
+with a most significant disability. 
+● RSA provided technical assistance regarding the need to revise policy language to ensure 
+that when providing extended services to youth with the most significant disabilities, 
+USOR follows a process similar to those receiving non-VR funded extended services and 
+begins providing extended services after stabilization in supported employment, thus 
+eliminating the need to exhaust all 24 months of ongoing services.  
+ 
+Recommendation 
+ 
+● To improve the performance and management of the Supported Employment program, 
+USOR should train its staff in the requirements of 34 C.F.R. § 363.4(a)(2) and the 
+appropriate methods for providing and tracking extended services to ensure it is 
+accurately reporting extended services on the RSA-911. 
+ 
+Data Accuracy: Case Service Record Review Process 
+ 
+RSA reviewed a small sample of case service records and identified instances in which there was 
+no evidence of supporting documentation for credential attainment and discrepancies between 
+the dates entered in the record and those reported for measurable skill gains (MSG).  
+ 
+USOR’s performance related to MSG and credential attainment may not be accurately portrayed 
+due to a less rigorous case service record review process. USOR conducts a monthly review of
+
+5 
+one case per counselor for eight months for data validation purposes, and for quality assurance, 
+USOR conducts an annual statewide case review of two cases per reviewer (supervisors and 
+district directors). USOR conducts a full day of training on the statewide case review instrument 
+and reviewers complete the reviews in a half-day session. USOR reported that 67 cases were 
+reviewed during the most recent statewide case review, which may underrepresent the caseloads 
+carried by its 132 VR counselors. Implementing a comprehensive case service record review 
+helps to ensure that training needs are adequately identified and data are accurately verified and 
+reported.  
+ 
+Technical Assistance 
+ 
+● RSA discussed the benefits of accurate reporting of data on performance and reviewing 
+and revising USOR’s internal controls manual documentation in order to align its 
+processes more accurately with the requirements under Sections 12(c) and 101(a)(6) and 
+(a)(10)(A) of the Rehabilitation Act and 34 C.F.R. § 361.12.  
+ 
+Recommendations 
+ 
+● USOR should consider establishing a more robust monthly case service record review 
+process that emphasizes reviewing indicators of high-quality employment outcomes, such 
+as MSG and credential attainment.  
+● Additionally, RSA recommends the sample size for the annual statewide case review be 
+based on the number of caseloads along with the types of cases reviewed, rather than the 
+number of reviewers. With approximately 132 VR counselors, this would result in a 
+higher number of cases being reviewed and a more representative sample size.  
+ 
+USOR Policies 
+ 
+RSA identified several policies in the USOR Client Service Manual that may influence the 
+performance of the VR and Supported Employment programs and the expenditure of funds. In 
+accordance with 34 C.F.R. § 361.12, VR agencies must implement policies and procedures that 
+ensure the proper and efficient administration of the VR program, including those necessary to 
+carry out all functions for which the State is responsible. RSA noted 40 percent of the policies in 
+the manual have effective dates between 2012 and 2016, and although some policies have more 
+recent effective dates, they do not fully reflect accurate and up-to-date information consistent 
+with the Rehabilitation Act and implementing regulations. With the enactment of WIOA, VR 
+agencies were responsible for reviewing, revising, and updating policies and procedures to 
+ensure alignment with regulations.  
+ 
+In accordance with 34 C.F.R. § 361.50, State VR agencies must develop and maintain written 
+policies covering the nature and scope of each of the VR services specified in 34 C.F.R. § 361.48 
+and the criteria under which each service is provided. USOR reported recently updating some 
+policies; however, those updates generally do not reflect revising outdated information or 
+correcting misinterpreted regulations, but rather are related to changes in fees or newly 
+implemented services. USOR leadership confirmed it has no policy review cycle and welcomed 
+RSA’s technical assistance.
+
+6 
+Periodically reviewing and revising policies has the potential to significantly improve both the 
+program and fiscal performance of the agency. Through regular assessments of—and updates 
+to—policies, procedures, and practices, USOR could ensure its policies  are aligned with 
+regulation and that it has not imposed barriers or limitations, but rather is implementing policies 
+that support the receipt of services that maximize employment outcomes and career 
+advancement.  
+ 
+For example, during the review period, USOR reported low instances of graduate and bachelor’s 
+degree training with the highest occurring in PY 2022. In PY 2022, the agency reported the 
+largest number of individuals who received VR services (13,009); however, 0.3 percent received 
+graduate degree training and 7.6 percent received bachelor’s degree training. USOR’s policies 
+related to the pursuit of goals requiring postsecondary and graduate level education are discussed 
+later in this section and may be contributing factors to USOR’s performance. 
+ 
+Aligning VR agency policies with Federal regulations and RSA’s sub-regulatory guidance 
+allows for the provision of a full continuum of permissible VR services and flexibility in the use 
+of funds to support individuals with disabilities in achieving their highest possible employment 
+goals. Maintaining accurate and up to date policies can further support a VR agency’s efforts to 
+maximize the use of funds and resources to provide VR services that lead to competitive 
+integrated employment and improve fiscal and program performance. 
+ 
+Technical Assistance 
+ 
+● RSA provided USOR technical assistance on a range of policy areas, including but not 
+limited to—  
+o Inaccurate or currently non-existent regulations cited in USOR policy (i.e., in policy 
+4.2, the agency cites outdated regulations from 2 C.F.R. part 200, in policy 26.5, the 
+agency inaccurately cites regulation related to informed choice, and in policy 
+29.3.B.3, the agency inaccurately includes lodging and per diem as a transportation 
+service); 
+o RSA clarified that food, shelter, and clothing are examples of maintenance services, 
+but maintenance services are not limited to those specific examples, and USOR’s. 
+narrow definition of services potentially limits services to participants and inaccurate 
+data reporting, if those services that meet the definition of maintenance are provided 
+as other services; and 
+o USOR’s definition of “personal assistance services” in policy and the inaccurate 
+inclusion of reader services, interpreter services, and personal attendant services 
+under personal assistance services. In addition, the description of personal attendant 
+services in USOR policy is how personal assistance services is defined in 34 C.F.R. § 
+361.5(c)(38). RSA cited this as an example of how an inaccurate definition of a VR 
+service could lead to inaccurate IPE services and reporting.
+
+7 
+Recommendations 
+ 
+● USOR should implement a formal policy review cycle to ensure policies are up to date 
+and reflect accurate and current VR award requirements. USOR’s inaccurate policies will 
+be addressed in the findings section of this report.  
+● USOR should review, revise, or eliminate policies and practices that may limit or 
+discourage individuals with disabilities in their choice to access VR services or in the 
+selection of career goals, or deter individuals with disabilities from obtaining education 
+or training to advance in their career in current or future employment. 
+● USOR should review and revise any policies or procedures related to limitations on the 
+type, degree, and costs of support provided to individuals attending both in-State and out-
+of-State postsecondary institutions of higher education.  
+● RSA recommends that USOR ensure that agency policy fully supports the effort to 
+mitigate and remove the substantial barriers experienced by individuals with disabilities 
+in achieving or advancing in quality employment by maximizing services and providing 
+the necessary resources to expand opportunities for meaningful careers. 
+ 
+Agency Imposed Document Requirements: Application and IPE Development  
+ 
+USOR’s policy 3.9 and policy 10.4 require applicants to provide a Social Security number (SSN) 
+at application and a photo identification (ID) prior to the development of an Individualized Plan 
+for Employment (IPE).  
+ 
+● Policy 3.9 Legal Status to Engage in Employment states, “Applicants with a Social 
+Security Number are assumed to meet the criteria for employment.” Policy 10.4 
+Identification Verification for IPE Implementation states, “Prior to the implementation of 
+an IPE all clients eligible for Vocational Rehabilitation Services must provide picture 
+documentation that verifies their identity. Clients must provide a document from the 
+following list of acceptable forms of picture identification.”  
+● Policy 10.4, Section D. Lack of Acceptable Picture Identification states, “Until the client 
+provides the acceptable form of picture identification the IPE cannot be implemented. If 
+the client does not provide the required picture identification and does not collaborate 
+with the VR Counselor in efforts to obtain the required verification of identity, the client 
+record will be closed prior to IPE implementation.”  
+ 
+Requiring a picture ID to verify identity prior to an IPE presents a potential burden to individuals 
+with disabilities who may not have obtained photo identification prior to applying for VR 
+services. Federal regulations at 34 C.F.R. § 361.42 do not require a specific type of identification 
+to apply for or be determined eligible for VR services. Similarly, an SSN is not required for an 
+individual to receive services through the VR program and, thus, individuals are not required to 
+provide one. If an individual does not have an SSN or chooses not to provide an SSN, the agency 
+can assign and report a unique identifier. 
+ 
+Furthermore, as described in Social Security Administration Publication No. 05-10096, Social 
+Security Numbers for Noncitizens, there are SSNs assigned to individuals for nonwork purposes, 
+(e.g., when persons are lawfully admitted to the United States without work authorization from
+
+8 
+the U.S. Department of Homeland Security, but have a valid non-work reason for needing a 
+SSN; or need a number because of a Federal, State or local law requiring a SSN to get a benefit 
+or service.) It is not appropriate to assume that by providing an SSN an individual meets the 
+criteria for employment. A State VR agency, per 34 C.F.R. § 361.42(a)(2), must presume that an 
+applicant who meets the eligibility requirements in 34 C.F.R. § 361.42 (a)(1)(i) and (ii) can 
+benefit in terms of an employment outcome.  
+ 
+Providing appropriate types of acceptable documents for the purposes of employment eligibility 
+verification, including identity and employment authorization, are standard practices when an 
+individual is hired for employment and the types of documents a person may submit to an 
+employer varies depending on whether the document establishes identity or employment 
+authorization or both. USOR may wish to use the lists of acceptable documents on the U.S. 
+Citizenship and Immigration Services I-9 Form to ensure the documents meet the requirements 
+that would be accepted by an employer within three business days after the first day of 
+employment. 
+ 
+Technical Assistance 
+ 
+● RSA provided technical assistance regarding USOR’s policy 3.9 Legal Status to Engage 
+in Employment and discussed the reasons an SSN could be assigned for nonwork 
+purposes. 
+● RSA provided technical assistance regarding the types of acceptable documents a person 
+may submit to an employer to complete the hiring process in the U.S. and clarified there 
+is no requirement to submit a photo identification in order to receive VR services. 
+● RSA provided technical assistance regarding the agency’s interpretation and 
+implementation of Section (17) and 101(a)(12) of the Rehabilitation Act and 34 C.F.R. §§ 
+361.42(c)(1) Prohibited Factors and 361.39 State-imposed requirements. 
+ 
+Recommendations 
+ 
+● USOR informed RSA during onsite discussions that it is implementing an online 
+application. RSA strongly recommends USOR reduce the amount of information 
+collected at the time of application, ensure all versions of available applications are 
+consistent, and consider creating an intake tool. 
+● USOR should eliminate burdensome documentation requirements an individual must 
+present at application and prior to IPE development. 
+ 
+Use of Interim IPE Goals and “Step Off” Points  
+ 
+VR agencies must provide needed VR services consistent with the requirements under 34 C.F.R. 
+§§ 361.45 and 361.46 specific to an individual’s stated vocational goal (except in the case of an 
+eligible individual who is a student or a youth with a disability, for whom, a goal may be a 
+description of the individual's projected post-school employment outcome). Pursuant to Section 
+102(b)(4)(A) of the Rehabilitation Act and 34 C.F.R. § 361.46(a)(1), an IPE must include a 
+description of the specific employment outcome, as defined in § 361.5(c)(15), that is chosen by
+
+9 
+the eligible individual and is consistent with the individual's unique strengths, resources, 
+priorities, concerns, abilities, capabilities, career interests, and informed choice. 
+ 
+USOR Training Service Policy, 19.14 Definitions and Types of Training Programs, section f. 
+states, “Career Pathways means a training plan that includes progressive levels of credentialing 
+with associated levels of employment advancement within that career field. Individuals 
+following a career pathway may obtain employment at designated "step off" points and/or 
+continue along a progressive training pathway.” The option to obtain employment at designated 
+“step off” points may inadvertently influence or alter the IPE goal and VR services a participant 
+needs to achieve their specific chosen goal and serve to discourage the pursuit of graduate or 
+advanced level training that might maximize an employment outcome.  
+ 
+USOR’s policy in Section 19.9 VR Support for Graduate Degree Programs, encourages support 
+of establishing interim goals on an IPE. The section states—  
+ 
+“Graduate training and employment goals that require graduate training must be 
+approved by the Field Service Director….,” and  
+ 
+“Prior to granting VR approval for graduate training and the associated employment the 
+client must complete the following:  
+● Successful completion of a bachelor’s degree program. 
+● Acceptance at an institution and graduate program that corresponds to the 
+proposed employment goal.  
+In cases where a client wishes to pursue an employment goal that requires graduate level 
+training but the client does not yet meet the criteria above, the VR counselor and client 
+should explore the request and discuss career pathways that may lead to the graduate 
+level goal. During the discussion about career pathways the VR Counselor and client 
+should identify an undergraduate level employment goal that may serve as an interim 
+goal until the client meets the criteria listed above. The career pathway exploration, 
+identification of an interim goal, and the preliminary request for graduate level education 
+should be documented in the client record.” 
+ 
+As stated, the language appears to discourage pursuit of graduate degrees and encourages 
+counselors to tailor a discussion around career pathways that will result in a pre-determined “step 
+off point” resulting in a provisional employment goal on the IPE rather than the specific 
+employment goal desired by the eligible individual requiring more advanced education. 
+ 
+There is no language in the Rehabilitation Act that suggests an interim goal is an acceptable IPE 
+goal. USOR must ensure its policies regarding support for graduate degrees fully provides 
+individuals with disabilities, including those with the most significant disabilities, with the 
+necessary services and supports to maximize their fullest potential and achieve high quality 
+competitive integrated employment. The provision of services, which are not aligned with a 
+specific employment outcome, as defined in 34 C.F.R. § 361.5(c)(15), on an IPE will be further 
+discussed below.
+
+10 
+USOR leadership indicated the employment sectors in the State of Utah do not rely on four-year 
+degrees, while staff indicated that, in general, the agency does not support customers in the 
+pursuit of a graduate degree. While Utah’s economy may have employment sectors that do not 
+rely on bachelor and graduate degrees (e.g., manufacturing, mining, and tourism) the State’s 
+economy is made up of multiple sectors and includes employment opportunities in healthcare, 
+finance, law, education, and information technology. For the period in review, USOR reported a 
+43 percent increase in the number of individuals who received Graduate Degree Training (from 
+28 in PY 2020 to 43 in PY 2022) and a 14 percent increase in the number of individuals who 
+received Bachelor’s Degree Training (from 872 in PY 2020 to 983 in PY 2022). 
+ 
+During onsite discussions, the agency indicated its focus on skills-based training is aligned with 
+the Utah Governor’s skills-first hiring initiative. RSA acknowledges that skills-based training 
+and skills-first hiring are distinctively different and may not require graduate and bachelor level 
+education. However, from PY 2020 through PY 2022, USOR reported decreases in the number 
+of individuals receiving occupational or vocational training, on-the-job training, and 
+apprenticeship training for all three years. 
+ 
+Technical Assistance 
+ 
+● RSA provided technical assistance regarding Section 102(b)(4)(A) of the Rehabilitation 
+Act and 34 C.F.R. § 361.46(a)(1) requiring on the IPE a description of the individual’s 
+specific employment goal consistent with the definition in § 361.5(c)(15). 
+● RSA provided technical assistance regarding the agency’s use of interim goals and "step 
+off” points versus the highest possible employment goal on an IPE. 
+ 
+Recommendations 
+ 
+● RSA recommends the agency remove restrictive approval processes or policies that place 
+limitations on the type, degree, and costs of support provided to individuals that may 
+deter pursuit of the highest possible employment goal. The low number of individuals 
+receiving support for advanced degrees as well as low instances of agency purchased job 
+search and job placement assistance may suggest that participants are not receiving 
+required services and may no longer see the value of the agency and seek supports 
+elsewhere. 
+● As described in RSA-TAC-23-03 Maximizing Services and the Use of Funds to Support 
+Quality Employment Outcomes for Individuals with Disabilities through the Vocational 
+Rehabilitation and Supported Employment Programs, RSA recommends USOR evaluate 
+its current service delivery model and ensure it is fully assisting individuals with 
+disabilities to compete for high-paying careers in science, technology, engineering, or 
+math (STEM), green industries, critical infrastructure fields, and other expanding 
+industries and provide advanced training, when needed and appropriate. 
+● Section 103(a)(18) of the Rehabilitation Act specifically permits VR agencies to provide 
+VR services that encourage qualified eligible individuals to pursue advanced training in 
+the STEM fields, medicine, law, or business. RSA recommends that USOR ensure policy 
+and practices reflect the requirement of informed choice and when developing an IPE 
+goal, eligible individuals are made aware of the availability of in-State and out-of-State
+
+11 
+services related to career, training, and other support services without regard to labor 
+market conditions, (if the individual is willing to relocate), or complexity of coordination 
+for services. 
+ 
+Job Search and Job Placement Services 
+ 
+USOR’s employment rate increased from 46.2 percent in PY 2020, to 49.5 percent in PY 2021, 
+and 50.9 percent in PY 2022. The PY 2022 WIOA performance results for VR programs place 
+the agency in the third quartile and slightly under the national average for employment in the 
+second and fourth quarters after exit. In PY 2022, the agency reported the highest percentage of 
+job search assistance and job placement assistance for all three years in review. Of the number of 
+individuals who received VR services in PY 2022, only 19 percent were reported as receiving 
+job search assistance and 17.1 percent were reported as receiving job placement assistance. 
+USOR leadership attributed the low percentage of job search assistance and job placement 
+services to the strong relationship with workforce system partners and indicated that many 
+participants conduct a self-directed job search and are referred to American Job Centers for 
+assistance. 
+ 
+The PY 2022 WIOA performance results reflect the co-enrollment efforts in Utah and indicate 
+the VR agency has the highest percentage (58.4 percent) of co-enrolled participants nationally. 
+RSA encourages USOR to carefully consider the quality and type of supports participants require 
+to be successful in their job search. Coordination of services with the workforce system partners 
+can be advantageous for some customers, and although the job search assistance services that are 
+available at a local one-stop center may be helpful, they may not completely meet the unique 
+needs of an individual with a disability. Job search assistance and job placement services are 
+exempt from a determination of the availability of comparable services and benefits as described 
+in 34 C.F.R. § 361.53(b)(4). Maximizing the job search and job placement services available to 
+individuals with disabilities, from USOR itself, could result in an increase in the number of 
+participants exiting in competitive integrated employment. 
+ 
+RSA’s review of USOR’s policy 22 CRP Fee for Services - Supported Job Based Training & 
+Life Skills, section 22.14 Temporary Work Experiences prompted discussion regarding how the 
+agency provides the services as outlined in the policy. The policy states—  
+ 
+“In order to provide a client with work hardening, industry skills, and a work history, 
+prior to securing a permanent employment, the VR Counselor and client may determine it 
+to be necessary for the client to engage in a Temporary Work Experience (TWE). 
+Temporary Work Experiences should be conducted prior to job development services. 
+TWE includes paid internships, paid seasonal employment, and paid temporary 
+employment.”  
+ 
+USOR leadership confirmed temporary work is provided and reported as a job placement 
+service. As worded, the temporary work experience appears to be a work-based learning 
+experience that supports skill-building related to an agreed upon IPE goal through short-term 
+employment or other work-based learning experiences not elsewhere classified. Work-based 
+learning experiences are provided in an integrated environment in the community, to the
+
+12 
+maximum extent possible, and may be paid or unpaid. Services on the IPE must be those needed 
+to achieve the employment goal. The miscoding of TWE as a job placement service results in an 
+inflated report of this already minimally provided service. 
+ 
+Technical Assistance 
+ 
+● RSA provided technical assistance regarding USOR’s inaccurate reporting of work-based 
+learning experiences as job placement services as outlined in its policy and emphasized 
+the importance of using the appropriate service category when providing and reporting a 
+service to avoid misrepresenting the performance of the agency. 
+● RSA provided technical assistance on the need to ensure the services provided align with 
+the IPE and the appropriate use of a work-based learning experience as a necessary 
+service to achieve the employment goal. 
+ 
+Recommendations 
+ 
+● RSA recommends USOR ensure policies and service contracts are updated to reflect 
+accurate service categories. USOR’s inaccurate policies will be addressed in the findings 
+section of this report. 
+● RSA recommends USOR evaluate the referral process to the one-stop system to ensure 
+referrals are appropriate and meet the needs of participants and increase VR agency 
+provided job placement services to support participants’ individualized needs in 
+achieving competitive integrated employment. 
+ 
+Attrition and Engagement  
+ 
+USOR reported significant attrition of eligible individuals with disabilities at various stages in 
+the VR process for all program years reviewed. An average of 20.9 percent of individuals exited 
+after eligibility, but prior to an IPE and an average of 34.1 percent exited after an IPE without an 
+employment outcome. Approximately one quarter of exit reasons reported each year was the 
+inability to locate or contact the individual. Those reported as no longer interested in receiving 
+services or further services decreased each year of the period in review (25.9 percent or in PY 
+2020, 23.3 percent in PY 2021, and 20.5 percent in PY 2022). When an individual exits after 
+eligibility determination or after an IPE has been developed, the agency has made a notable 
+investment of financial and staff resources. Despite initial frequent engagement during eligibility 
+determination and development of the IPE, these percentages represent an area of improvement 
+with ongoing engagement of eligible individuals and participants. 
+ 
+USOR’s policies require contact every 90 days with individuals while participating in VR with 
+an increase in frequency of 30 days when participating in job search activities. During onsite 
+discussions, USOR indicated that when individuals are participating in services, other than job 
+search assistance, the required frequency of contact is every 90 days with check points in the 
+process. Communication between the VR counselor and the participant is vital to sustaining 
+engagement and interest in completing services that will lead to a successful employment 
+outcome. If an eligible individual or participant is awaiting receipt of a VR service or is required 
+to respond to a request from the VR counselor related to their receipt of VR services or is
+
+13 
+participating in a training or education program, frequent communication reinforces the 
+availability of USOR to provide support, mitigate challenges, and celebrate successful 
+achievements during the entire VR process. Additionally, frequent engagement can reduce 
+USOR’s attrition and improve its performance in assisting participants to achieve successful 
+employment outcomes.  
+ 
+Technical Assistance 
+ 
+● RSA provided technical assistance regarding strategies for meaningful and sustained 
+engagement with VR program participants, including alternative means of 
+communication and the importance of establishing a requirement of more frequent 
+contact throughout the VR process (e.g., 30 days). 
+ 
+Recommendation 
+ 
+● RSA recommends that USOR establish policies or procedures outlining the minimum 
+frequency of contact with individuals that allows for meaningful and sustained 
+engagement, as described in RSA-TAC-24-01. 
+ 
+C. FINDINGS AND CORRECTIVE ACTIONS 
+ 
+RSA’s review of the performance of USOR identified the following findings and the 
+corresponding corrective actions regarding inconsistencies and areas of non-compliance with 
+Federal requirements within the scope of this targeted focus area. RSA did not conduct an 
+exhaustive review of all potential areas of non-compliance outside the scope of this focused 
+review. Within 45 days of issuance of the final monitoring report, USOR will submit to RSA for 
+approval a corrective action plan (CAP), including specific action steps, timelines, and evidence 
+to demonstrate resolution of the finding. If USOR fails to take the necessary corrective actions 
+specified in the approved CAP, RSA reserves the right to take additional enforcement actions 
+pursuant to 34 C.F.R. Part 81 and 2 C.F.R. § 200.339. 
+ 
+Finding 2.1 Non-Compliant VR Program Policies 
+ 
+Issue: Did USOR maintain accurate written policies compliant with the Rehabilitation Act and 
+VR program regulations. 
+ 
+Requirement: Pursuant to 34 C.F.R. § 361.12, VR agencies must implement policies and 
+procedures that ensure the proper and efficient administration of the VR program, including 
+those necessary to carry out all functions for which the State is responsible. Pursuant to 34 
+C.F.R. § 361.50, VR agencies are required to develop and maintain written policies covering the 
+nature and scope of each of the vocational rehabilitation services specified in 34 C.F.R. § 361.48 
+and the criteria under which each service is provided. The policies must ensure that the provision 
+of services is based on the rehabilitation needs of each individual as identified in that individual's 
+IPE, as required at 34 C.F.R. §§ 361.45 and 361.46 and consistent with the individual's informed 
+choice pursuant to 34 C.F.R. § 361.52. The written policies may not establish any arbitrary limits
+
+14 
+on the nature and scope of vocational rehabilitation services to be provided to the individual to 
+achieve an employment outcome. 
+ 
+Analysis: RSA’s review and analysis of the USOR Client Service Manual identified references 
+to non-existent/outdated regulations, inaccurate definitions, and non-compliant policies. RSA 
+concluded that approximately 40 percent of the policies in the Client Services Manual had not 
+been updated since 2016 or earlier. In addition, there are multiple references to currently non-
+existent regulations (e.g., 2 C.F.R. §§ 200.79, 200.82, and 200.333; 34 C.F.R. § 361.48(e)); and 
+references to eliminated language in the amendments to the Rehabilitation Act (i.e., extended 
+evaluation). RSA identified examples of insufficient or inaccurate definitions including 
+“maintenance,” “transportation,” “individual with a disability,” “personal assistance services,” 
+“physical and mental restoration,” and “comparable benefits” specific to merit-based 
+scholarships. RSA confirmed that USOR has not established a policy review cycle to ensure 
+regular review and compliance with the Rehabilitation Act and VR program requirements.  
+ 
+Conclusion: RSA found that USOR has not maintained accurate written policies, including 
+those covering the nature and scope of each of the VR services, in accordance with 34 C.F.R. § 
+361.50, and the criteria under which VR services are provided, as specified in 34 C.F.R. § 
+361.48; and definitions consistent with the Rehabilitation Act and regulations.  
+ 
+Corrective Actions 2.1 RSA requires that USOR—  
+ 
+2.1.1 Update and revise the Client Service Manual to address the issues included in the analysis 
+of Finding 2.1 within 120 days following the publication of the final report and submit a 
+listing of changes made with an assurance that staff have been trained on updates and 
+revisions; and 
+2.1.2 Develop and implement internal control processes that ensure agency policies and 
+procedures are reviewed regularly and updated based upon current RSA guidance or 
+program requirement changes. 
+ 
+VR Agency Response: The Utah State Office of Rehabilitation understands the requirement to 
+update policies and citations, as well as to implement an internal control process to ensure 
+policies are regularly reviewed and updated. USOR is actively working on making these 
+changes. 
+ 
+RSA Response: RSA appreciates the agency’s efforts to develop internal control processes that 
+ensure USOR policies and procedures are in compliance with statutory and regulatory 
+requirements. RSA looks forward to working with USOR to resolve the finding through the 
+corrective action plan.  
+ 
+VR Agency Request for Technical Assistance: USOR would appreciate Technical Assistance 
+in the form of a detailed list of any definitions and regulatory citations that RSA has identified as 
+incorrect or insufficient.
+
+15 
+Finding 2.2 Non-Compliance with Requirements of the Individualized Plan for 
+Employment 
+ 
+Issue: Does USOR provide needed VR services consistent with the requirements under 34 
+C.F.R. §§ 361.45 and 361.46 specific to an individual’s stated vocational goal. 
+ 
+Requirement: In accordance with 34 C.F.R. §§ 361.45 and 361.46, each IPE must include a 
+description of the specific employment outcome that is chosen by the eligible individual and is 
+consistent with the individuals' unique strengths, resources, priorities, concerns, abilities, 
+capabilities, interests, and informed choice. The IPE must also include a description of the 
+specific VR services needed to achieve the employment outcome, and in the case of a plan for an 
+eligible individual that is a student or youth with a disability, the specific transition services and 
+supports needed to achieve the individual's employment outcome or projected post-school 
+employment outcome. 
+ 
+Analysis: The USOR Client Service Manual contains language that encourages VR counselors 
+to tailor a discussion around career pathways that will result in a pre-determined “step off point” 
+resulting in a lower employment goal on the IPE rather than the specific employment goal 
+desired by the client and requiring a graduate degree. It requires a client to identify an 
+undergraduate level employment goal that may serve as an interim goal until the client 
+successfully completes a bachelor’s degree program and is accepted at an institution and 
+graduate program. Interim IPE goals are not within the requirements for an IPE and the use of 
+interim goals does not align with assisting individuals with disabilities in achieving employment 
+consistent with the individuals' unique strengths, resources, priorities, concerns, abilities, 
+capabilities, interests, and informed choice as required in 34 C.F.R. §§ 361.45 and 361.46. 
+USOR is not ensuring that each IPE includes the specific employment outcome that is chosen by 
+the eligible individual. USOR must ensure its policies regarding support for graduate degrees 
+fully provides individuals with disabilities, including those with the most significant disabilities, 
+with the necessary services and supports to maximize their fullest potential and achieve high 
+quality competitive integrated employment.  
+ 
+In terms of USOR’s policy CRP Fee for Services - Supported Job Based Training & Life Skills, 
+section 22.14 Temporary Work Experiences, USOR leadership confirmed temporary work 
+experiences are provided and reported as a job placement service. As described, the agency is 
+providing these services as an opportunity for learning and skill development rather than job 
+placement services directly related to the specific IPE goal. VR agencies must provide needed 
+VR services consistent with the requirements under 34 C.F.R. §§ 361.45 and 361.46 specific to 
+an individual’s stated vocational goal. As worded, TWEs provided by the agency constitute 
+work-based learning experiences that supports skill-building through short-term employment or 
+other work-based learning experiences not elsewhere classified and must be related to an agreed 
+upon IPE goal. The agency may not provide VR services that are not directly aligned and needed 
+to achieve a specific employment goal. Furthermore, USOR must ensure its use and expenditure 
+of Federal funds is allowable (i.e., VR services identified on the IPE) and the service categories 
+are accurately reported on the RSA-911.
+
+16 
+Conclusion: RSA found that USOR develops IPEs with interim goals resulting in employment 
+goals that may be lower than the highest desired and specific employment of eligible individuals. 
+Interim goals are not permitted in the Rehabilitation Act nor in VR program requirements. 
+Additionally, the agency provides temporary work experiences, as job placement services, that 
+are not directly aligned with participant’s specific employment goal on the IPE. 
+ 
+Corrective Actions 2.2 RSA requires that USOR— 
+  
+2.2.1  Provide an assurance that it has ceased using interim employment goals on the IPE and 
+ceased providing Job Placement Services not directly aligned with the goal on the IPE;  
+2.2.2 Update and revise the Client Service Manual to address the issues included in the analysis 
+of Finding 2.2 within 120 days following the publication of the final report and submit a 
+listing of changes made with an assurance that USOR staff and contractors, as 
+appropriate, have been trained on updates and revisions; and 
+2.2.3 Develop and implement internal control processes that ensure IPEs are developed 
+consistent with the requirements under 34 C.F.R. §§ 361.45 and 361.46. 
+ 
+VR Agency Response: The Utah State Office of Rehabilitation would like to clarify that the 
+provision of Temporary Work-Based Learning Experiences (TWEs) aligns with clients' 
+vocational goals. The purpose of a TWE is to equip clients with the skills, abilities, and 
+experience needed to achieve their vocational goals. TWEs include paid internships, paid work-
+based learning experiences, and temporary employment. 
+ 
+USOR acknowledges that TWEs were incorrectly coded for RSA-911 reporting. This error has 
+already been corrected, and USOR can confirm that TWEs are now reported as Work Based 
+Learning Experiences (code 402-407). 
+ 
+USOR will discontinue the use of interim employment goals in the IPE. The necessary policy 
+updates will be made, and staff will receive appropriate training. Additionally, USOR will 
+implement an internal review process to ensure IPEs are developed in compliance with 34 C.F.R. 
+§§ 361.45 and 361.46. 
+ 
+RSA Response: RSA appreciates USOR’s commitment to discontinue the use of interim 
+employment goals on the IPE and the development and implementation of internal control 
+processes that ensure IPEs are developed consistent with the requirements under 34 C.F.R. §§ 
+361.45 and 361.46. RSA looks forward to working with USOR to resolve the finding through the 
+corrective action plan. 
+ 
+RSA reminds USOR that it must ensure the appropriate use of work-based learning experiences. 
+Work-based learning experiences include apprenticeships, internships, short-term employment, 
+and other work-based learning experiences not elsewhere classified. USOR must ensure that 
+when providing work-based learning experiences, they are provided to eligible individuals on an 
+IPE and it reports both the service at the time it was provided (DEs 402-404 and 406-407) and 
+the amount of VR funds expended for the service (Title I) (DE 405). Expenditures may include 
+non-Federal share and VR program Federal funds, including program income, used to purchase 
+the service. Expenditures do not include unliquidated obligations or encumbrances. Report
+
+17 
+Registered Apprenticeships in DEs 164-169, On the Job Training in DEs 158-163, and Work 
+Based Learning Experience, as a Pre-Employment Transition Service for students with 
+disabilities, in DEs 103-106. 
+ 
+VR Agency Request for Technical Assistance: USOR is not requesting Technical Assistance 
+for this item.
+
+18 
+SECTION 3: FOCUS AREA – FINANCIAL MANAGEMENT OF THE STATE 
+VOCATIONAL REHABILITATION SERVICES AND STATE SUPPORTED 
+EMPLOYMENT SERVICES PROGRAMS  
+A. PURPOSE 
+Through this focus area RSA assessed the financial management and fiscal accountability of the 
+VR and Supported Employment programs to ensure that: funds were being used only for 
+intended purposes; there were sound internal controls and reliable reporting systems; that 
+available resources were maximized for program needs; and funds supported the achievement of 
+competitive integrated employment for individuals with disabilities, including those with the 
+most significant disabilities, and the needs of students with disabilities for pre-employment 
+transition services.  
+B. SCOPE OF FINANCIAL MANAGEMENT REVIEW AND PERFORMANCE 
+ANALYSIS 
+The effective and efficient fiscal administration of the VR and Supported Employment programs 
+is essential to the ability of a VR agency to maximize the funds available for attainment of 
+employment outcomes for individuals with disabilities. RSA reviewed components of USOR’s 
+financial management system and assessed the fiscal accountability of the programs to—  
+ 
+● Ensure funds are obligated and expended in accordance with State and Federal 
+requirements and used only for allowable purposes;  
+● Ensure programs have sound internal controls and reliable reporting systems;  
+● Identify needed improvements in fiscal policy, processes, and procedures to maximize 
+the use of Federal funds to benefit VR participants and students with disabilities; and,  
+● Ensure a relative benefit to the VR system is proportional to the expenditure (e.g., 
+contracts, one-stops, indirect cost rates, cost allocation plans, etc.). 
+ 
+RSA reviewed the use and expenditure of Federal funds to assist USOR in minimizing the return 
+of funds for reallotment and/or the return of unused funds at the end of the period of performance 
+for the award. Therefore, the scope of this focus area is primarily on the financial management 
+and operations that impact the use of or return of Federal funds. 
+ 
+The attached fiscal tables document the extent to which USOR was unable to use its full formula 
+award in each of the reviewed FFYs. At closeout, USOR returned $9,149,417.76 in FFY 2020, 
+$8,377,721.02 in FFY 2021, and $2,200,223.81 in FFY 2022 in unused Federal VR award funds. 
+In total, this amounts to $19,727,362.59 in unused Federal VR award awards for the three-year 
+period. In addition, USOR acknowledged that it will return unused FFY 2023 award funds due to 
+its inability to meet the pre-employment transition services reserve requirement.  
+  
+RSA had extensive discussions with the agency about relinquishing funds during the reallotment 
+period to allow the funds to be redistributed for use by other States. Additionally, relinquishment
+
+19 
+will reduce the amount of their required 15 percent pre-employment transition services reserve 
+which they have challenges expending.  
+ 
+RSA reviewed USOR’s external draw reports and found that the agency expends most of their 
+formula allocation in the carryover year. In FFY 2021, USOR expended only 0.03 percent of its 
+Federal funds by the end of the year of appropriation, largely due to receiving and expending 
+program income. RSA suggested USOR consider transferring program income to other eligible 
+programs to allow the VR program to spend formula funds earlier in the grant period. 
+ 
+RSA reviewed the following areas related to financial management and accountability: 
+Period of Performance  
+Period of performance is the time during which the non-Federal entity (grantee) may incur new 
+obligations to carry out the work authorized under the Federal award (2 C.F.R. § 200.1). To 
+accurately account for Federal and non-Federal funds, the VR agency must ensure that allowable 
+non-Federal and Federal obligations and expenditures are assigned to the correct FFY award. 
+RSA uses the financial information reported by the grantee to determine each VR agency’s 
+compliance with fiscal requirements (e.g., carryover, reservation of funds, matching, etc.).  
+RSA assessed USOR’s performance in meeting the period of performance requirements related 
+to the proper assignment of obligations and expenditures to the correct grant award(s). RSA 
+reviewed documentation submitted by USOR in support of managing the period of performance, 
+for obligations, and liquidations in compliance with Education Department General 
+Administrative Regulations (EDGAR) cited at 34 C.F.R. § 76.707, the Uniform Administrative 
+Guidance at 2 C.F.R. § 200.1, 34 C.F.R. § 361.64 and in the grant award notifications.  
+USOR designates a start date for its contracts that does not always align with the date the 
+contract is signed.  
+Technical Assistance 
+ 
+● RSA reviewed 34 C.F.R. § 76.707 with USOR to confirm the agency’s understanding of 
+when obligations are made.
+ 
+ 
+VR Program Match  
+ 
+VR program regulations require the State to incur a portion of expenditures under the VR 
+services portion of the Unified or Combined State Plan from non-Federal funds to meet its cost 
+sharing requirements (34 C.F.R. § 361.60). The required Federal share for expenditures made by 
+the State, including expenditures for the provision of VR services and the administration of the 
+VR services portion of the Unified or Combined State Plan, is 78.7 percent. The State’s share is 
+21.3 percent. RSA assessed USOR’s performance in meeting the matching requirements for the 
+VR program, including the extent to which the matching level was met, and the Federal funds 
+matched were expended, as well as whether the sources of match were consistent with Federal 
+requirements and any applicable maintenance of effort (MOE) issues.
+
+20 
+RSA addressed requirements pertaining to State appropriations as the primary source of non-
+Federal share used by USOR as VR program match. RSA noted no instances of non-compliance 
+with respect to match or MOE expenditure requirements as USOR significantly overmatches its 
+VR award. However, USOR indicated it is concerned that future annual increases to USOR’s 
+Federal awards may not be met with corresponding increases in match funding.  
+  
+Pre-Employment Transition Services Reservation and Expenditure of Funds 
+ 
+Section 101(a)(25) of the Rehabilitation Act requires State VR agencies to assure in their Unified 
+or Combined State Plan, with respect to students with disabilities, that the State has developed 
+and implemented strategies to— 
+ 
+● Address the needs identified in the assessments described in Section 101(a)(15) of the 
+Rehabilitation Act; and
+ 
+● Achieve the goals and priorities identified by the State in accordance with section 
+101(a)(15) of the Rehabilitation Act to improve and expand VR services for students with 
+disabilities on a statewide basis; and provide pre-employment transition services.
+ 
+“Pre-employment transition services,” as defined at Section 7(30) of the Rehabilitation Act, 
+“means services provided in accordance with Section 113.” Section 113(a) of the Rehabilitation 
+Act requires the State to ensure it will use the funds reserved under Section 110(d)(1) of the 
+Rehabilitation Act to provide, or arrange for the provision of, pre-employment transition services 
+to students with disabilities. Section 110(d)(1) of the Rehabilitation Act establishes the 15 
+percent minimum reservation requirement for the State from its VR allotment. Together, 
+Sections 7(30), 101(a)(25), 110(d)(1), and 113 of the Rehabilitation Act create the statutory basis 
+for the State Plan provisions governing pre-employment transition services.  
+Early career exploration through pre-employment transition services increases the likelihood of 
+students with disabilities achieving high-quality competitive integrated employment. RSA 
+explored the use of funds for the provision of pre-employment transition services and the extent 
+to which USOR is meeting the State required reservation and expenditure of at least 15 percent 
+of its matched Federal VR grant funds. 
+ 
+The agency did not meet the pre-employment transition services reserve and expenditure 
+requirements for all FFYs included in the monitoring review. The percentage of Federal funds 
+expended for pre-employment transition services was 7.6 percent in FFY 2020, with an increase 
+to 8.3 percent in FFY 2021, and 9.2 percent in FFY 2022. This represented an improvement as 
+the pre-employment transition services expenditures were 6.7 percent in FFY 2018. In addition, 
+USOR informed RSA that the pre-employment transition services reserve will not be met in FFY 
+2023. USOR intends to hire additional pre-employment transition staff and expand the number of 
+pre-employment transition services contracts.  
+ 
+Recommendation 
+ 
+● RSA recommends USOR implement additional pre-employment transition services 
+contracts to increase the number of pre-employment transition services provided and, as a 
+result, increase the expenditure of funds reserved for pre-employment transition services.
+
+21 
+Internal Controls and Policies 
+ 
+Internal controls mean a process, implemented by the grantee, designed to provide reasonable 
+assurance regarding the achievement of objectives in the effectiveness and efficiency of 
+operations, reliability of reporting for internal and external use, and compliance with applicable 
+laws and regulations. Internal controls serve to safeguard assets and prevent fraud, waste, abuse, 
+improper payments, and mismanagement. They include methods and procedures the grantee uses 
+to manage the day-to-day operations of grant-supported activities to ensure compliance with 
+applicable Federal requirements and that performance goals are being achieved. The VR 
+agency’s internal controls for ensuring compliance with fiscal requirements will be a core 
+component of the financial management system review, particularly as they relate to the VR 
+agency’s use of Federal funds, including the required reservation of funds for pre-employment 
+transition services, and the requirements for non-Federal match. The Federal fiscal requirements 
+referenced during the review include—  
+ 
+● Rehabilitation Act and VR and Supported Employment program implementing 
+regulations in 34 C.F.R. part 361 and 34 C.F.R. part 363, respectively; 
+ 
+● Uniform Administrative Requirements, Cost Principles, and Audit Requirements for 
+Federal Awards (Uniform Guidance) located in 2 C.F.R. part 200; 
+ 
+● Education Department General Administrative Regulations (EDGAR) in 34 C.F.R. part 
+76; 
+ 
+● Departmental and RSA guidance, including Policy Directives (PDs), Technical 
+Assistance Circulars (TACs), Grant Bulletins, Frequently Asked Questions (FAQ), etc.; 
+and 
+ 
+● Grant Award terms and conditions. 
+RSA reviewed internal controls, policies, and practices related to the financial management of 
+the VR and Supported Employment programs. The Findings and Corrective Actions section 
+below identifies several USOR internal control deficiencies RSA observed during its review of 
+documents and discussions.  
+  
+Technical Assistance 
+ 
+● RSA provided technical assistance to USOR regarding the need to update its internal 
+controls manual and fiscal policies and procedures. 
+ 
+C. FINDINGS AND CORRECTIVE ACTIONS 
+ 
+RSA’s review of the performance of USOR identified the following findings and the 
+corresponding corrective actions regarding inconsistencies and areas of non-compliance with 
+Federal requirements within the scope of this targeted focus area. RSA did not conduct an 
+exhaustive review of all potential areas of non-compliance outside the scope of this focused 
+review. Within 45 days of issuance of the final monitoring report, USOR will submit to RSA for 
+approval a corrective action plan (CAP), including specific action steps, timelines, and evidence 
+to demonstrate resolution of the finding. If USOR fails to take the necessary corrective actions 
+specified in the approved CAP, RSA reserves the right to take additional enforcement actions 
+pursuant to 34 C.F.R. Part 81 and 2 C.F.R. § 200.339.
+
+22 
+Finding 3.1 Insufficient Policies and Procedures 
+ 
+Issue: Do USOR and DWS maintain written policies and procedures and effective internal 
+control over the Federal award to provide reasonable assurance that the agency is managing the 
+Federal award in compliance with Federal statutes, regulations, and the terms and conditions of 
+the award.  
+ 
+Requirement: In accordance with 2 C.F.R. § 200.302 (b)(6), agencies must provide for written 
+procedure to implement financial management system requirements. A State VR agency must 
+assure, in the VR services portion of the Unified or Combined State Plan, that it will employ 
+methods of administration that ensure the proper and efficient administration of the VR program. 
+These methods of administration (i.e., the agency’s internal controls) must include procedures to 
+ensure accurate data collection and financial accountability (34 C.F.R. § 361.12). 
+ 
+“Internal control” means a processes, designed and implemented by a non-Federal entity, to 
+provide reasonable assurance regarding the achievement of objectives in the following 
+categories:  
+ 
+● Effectiveness and efficiency of operations;  
+● Reliability of reporting for internal and external use; and  
+● Compliance with applicable laws and regulations. 
+  
+Additionally, 2 C.F.R. § 200.303, requires a non-Federal entity to—  
+ 
+● Establish, document, and maintain effective internal control over the Federal award that 
+provides reasonable assurance that the non-Federal entity is managing the Federal award 
+in compliance with Federal statutes, regulations, and the terms and conditions of the 
+Federal award…; and
+ 
+● Take prompt action when instances of noncompliance are identified, including 
+noncompliance identified in audit findings. 
+ 
+  
+In accordance with the Uniform Guidance (2 C.F.R. § 200.302(a)), a State’s financial 
+management systems, including records documenting compliance with Federal statutes, 
+regulations, and the terms and conditions of the award, must be sufficient to permit the—  
+ 
+● Preparation of reports required by terms and conditions; and  
+● Tracking expenditures adequate to establish that such funds have been used according to 
+the Federal statutes, regulations, and the terms and conditions of the Federal award. 
+ 
+  
+Furthermore, provisions at 2 C.F.R. § 200.302(b)(4) require that the financial management 
+system of the recipient must provide for effective control over and accountability for all funds, 
+property, and other assets. The recipient must safeguard all assets and ensure they are used solely 
+for authorized purposes. An internal control deficiency occurs when the design or functioning of 
+a control does not enable management or employees to prevent actions resulting in 
+noncompliance with Federal and State requirements during their routine performance of duties.
+
+23 
+Analysis: RSA identified internal control weaknesses in USOR’s Federal financial reports, 
+period of performance, and contract agreements. USOR submitted their Federal Financial 
+Reporting Policy and Procedure, Contract Agreements, Period of Performance for Federal 
+Awards Procedure, and VR Internal Controls Manual which RSA reviewed and discussed on-
+site.  
+ 
+DWS manages Federal grant awards for multiple departments across the State government. RSA 
+discovered that DWS uses template policies and procedures for most of its Federal grants and 
+contracts. The Federal Financial Reporting Policy references Utah’s Office of Homeless Services 
+and a U.S. Department of Housing and Urban Development program’s match requirement which 
+is different from the mandated VR non-Federal share.  
+ 
+The Federal Financial Reporting Procedure and Period of Performance Procedure do not provide 
+details necessary to ensure that RSA financial reports are accurate, current, and complete  
+(2 C.F.R. § 200.302(b)(2)). These documents do not include an internal process for submitting 
+the financial reports RSA-17 (VR) and SF-425 (Supported Employment) to guarantee accuracy 
+and timely submission of reports to RSA. Additionally, the change in the liquidation period from 
+90 days to 120 days is not reflected in the documents as specified in the Uniform Guidance  
+(2 C.F.R. § 200.344(c)). As a result, adjustments were made in the RSA Grants Management 
+System (GMS) due to the agency following outdated and incorrect procedures. DWS relies 
+heavily on staff knowledge, but as mandated by 2 C.F.R. § 200.302(b)(6), DWS must also have 
+written procedures to ensure consistent and accurate reporting.  
+ 
+Additionally, DWS uses a standard template for its pre-employment transition services contracts 
+which identifies the agreements as grants and its vendors as subrecipients. DWS acknowledged 
+that the use of a template misrepresents the VR contracts with vendors. RSA maintained that the 
+VR program was unique to other Federal awards and requires program-specific policies, 
+procedures, and contracts. 
+ 
+Lastly, USOR provided a VR Internal Controls Manual that contained additional policies. The 
+manual cites Federal regulations incorrectly. For example, a requirement under Education 
+Department General Administrative Regulations (EDGAR) is cited as 34 C.F.R. § 80.22(a) and 
+equipment regulations are incorrectly cited as 2 C.F.R. § 200.33. 
+ 
+Conclusion: RSA found that USOR did not have sufficient internal controls to ensure 
+compliance with Federal statutes, regulations, and the terms and conditions of the award. 
+Specifically, USOR does not have sufficient written policies, procedures, and internal controls to 
+support compliance with rules pertaining to Federal financial reporting, period of performance 
+and contract management. 
+ 
+Corrective Actions 3.1: RSA requires that USOR—  
+ 
+3.1.1 Update its Internal Controls Manual to ensure the procedures are current, accurate, 
+address the unique requirements of the respective award and correct the issues noted 
+above. Internal control processes must include a monitoring component that regularly
+
+24 
+checks to ensure processes are being implemented correctly. Submit a copy of the 
+updated Internal Controls Manual to RSA for review;  
+3.1.2 Provide RSA with verification of ongoing monitoring using revised internal controls 
+processes; 
+3.1.3 Develop and implement a process to ensure all policies and procedures are updated 
+regularly based on current RSA guidance or program requirement changes; and 
+3.1.4 Revise Contract Agreements and the template to remove incorrect references to 
+subrecipients and subgranting of funds which is not permitted for the VR or SE 
+programs. 
+ 
+VR Agency Response: DWS has an established system of internal controls which is designed to 
+provide reasonable assurance that the department will comply with Federal statutes, regulations, 
+and the terms and conditions of the federal awards the department administers. DWS 
+acknowledges, however, that written policies and procedures do not contain the unique 
+requirements of each respective award. DWS will revise its written policies and procedures to 
+include greater detail specific to program requirements. A periodic review of such policies and 
+procedures will also be established to ensure that any changes to the program requirements are 
+included. In addition, going forward DWS will ensure subrecipient verbiage is not included in 
+pre-employment transition services contracts. 
+ 
+RSA Response: RSA appreciates DWS’ acknowledgement of its need to update policies and 
+procedures to ensure the policies and procedures are current, accurate, address the unique 
+requirements of the respective award and correct the issues noted in Finding 3.1. RSA looks 
+forward to working with DWS and USOR through its corrective action plan to ensure it 
+implements and maintains effective ongoing monitoring using revised internal controls. DWS 
+and USOR must ensure Contract Agreements and the template are revised to remove incorrect 
+references to subrecipients and subgranting of funds which is not permitted for the VR or SE 
+programs, including contracts for pre-employment transition services. 
+ 
+VR Agency Request for Technical Assistance:  
+USOR is not requesting Technical Assistance for this item at this time. 
+ 
+Finding 3.2 Insufficient Contract Monitoring 
+ 
+Issue: Do USOR and DWS implement internal controls sufficient to evaluate and monitor 
+compliance with statutes, regulations, and the terms and conditions of Federal awards and take 
+prompt action when instances of noncompliance are identified, specifically regarding controls 
+related to contract monitoring. 
+ 
+Requirement: Monitoring by the recipient must cover each program, function, or activity (2 
+C.F.R. § 200.329(a)). The Uniform Guidance at 2 C.F.R. § 200.303 requires the recipient to 
+implement internal controls sufficient to evaluate and monitor compliance with statutes, 
+regulations, and the terms and conditions of Federal awards and take prompt action when 
+instances of noncompliance are identified.
+
+25 
+The VR program implementing regulations at 34 C.F.R. § 361.12 mandates that USOR utilize 
+administrative methods essential for the proper and efficient administration of the State plan and 
+for carrying out all functions for which the State is responsible for under the plan. These methods 
+include procedures to ensure accurate financial accountability. As such, USOR must monitor and 
+evaluate grant-supported activities to ensure compliance with all activities performed under the 
+VR program. 
+ 
+Analysis: USOR submitted their VR Internal Controls Manual, Contract Monitoring Policy, 
+Contract Monitoring Procedure, and several contract monitoring worksheets which RSA 
+reviewed and discussed on-site. The Internal Controls Manual and Monitoring Procedure states 
+the Fiscal Grant Manager is responsible for fiscal monitoring and that monitoring results are 
+documented; however, during the onsite review, DWS did not produce evidence of fiscal 
+monitoring activities, by the Fiscal Grant Manager, for vendor contracts. In addition, the on-site 
+monitoring worksheets, from several of USOR’s monitoring visits, did not contain information 
+regarding an assessment of vendors’ fiscal operations or procedures. RSA did not receive any 
+supporting documentation reflecting monitoring of the fiscal components of vendor contracts.  
+  
+DWS acknowledged that the fiscal team has not conducted monitoring activities and quality 
+control reviews, as outlined in their policies and procedures, to ensure vendors follow the terms 
+and conditions of the vendor agreements. USOR had planned to review and update its Contract 
+Monitoring Policy in July 2020; however, the agency did not provide an updated version of the 
+policy.  
+ 
+Conclusion: RSA found that USOR did not have sufficient internal controls to ensure 
+compliance with the financial monitoring requirement pursuant to the Uniform Guidance (2 
+C.F.R. § 200.329). The agency lacks a fiscal monitoring review assessment and documented 
+results of a financial review of its vendors assuring compliance with applicable Federal 
+requirements and performance expectations are being achieved. 
+ 
+Corrective Actions 3.2: RSA requires that USOR— 
+ 
+3.2.1 Review and update VR Internal Controls Manual, Contract Monitoring Policy, and 
+Contract Monitoring Procedure to ensure contractors are performing in accordance with 
+contract and VR program and fiscal requirements.  
+3.2.2 Implement a contract monitoring process that includes fiscal and program requirements 
+and provide a copy of the process to RSA for review.  
+3.2.3 Provide copies of completed contract monitoring to RSA until such time as RSA can 
+confirm the contract monitoring process is sufficient to meet requirements. 
+ 
+VR Agency Response: DWS has established a risk-based contract monitoring process that 
+encompasses programmatic and fiscal requirements. The DWS Contract Monitoring Policies and 
+Procedures states, “Not every contract will require the same level of monitoring. All contracts 
+should be reviewed periodically, taking into account risk, size or contract value, sensitivity and 
+type of contract and services to be provided in order to determine the monitoring methods to be 
+conducted or if monitoring is needed” (see attached Vocational Rehabilitation Internal Controls 
+Manual, p. 26). In addition, the Contract Monitoring Policies and Procedures describes different
+
+26 
+types of monitoring activities that are available depending upon the type and scope of the 
+contract (see pp. 27-28). 
+ 
+For the two fee-for-service contract payments reviewed by RSA, DWS determined that an 
+invoice review by the fiscal grant manager was sufficient to meet the monitoring requirements. 
+The fiscal grant manager’s review for each fee-for-service contract payment was documented by 
+the fiscal grant manager’s approval included with each invoice when sent to the accounts payable 
+team for processing. 
+ 
+The DWS Contract Monitoring Policies and Procedures also indicates that, “Invoices and 
+associated supporting documents are stored in the State’s centralized accounting system 
+(FINET), not the centralized repository” (see p. 30). The fiscal grant manager approval of these 
+invoices was not previously included with the documentation provided to RSA for these 
+contracts but has been retrieved from the FINET system.  
+ 
+RSA Response: RSA maintains Finding 3.2. The DWS Contract Monitoring Policies and 
+Procedures are insufficient. The supporting documentation submitted by DWS pertaining to the 
+fiscal grant manager’s review for each fee-for-service contract payment is reflective of the 
+review of invoices prior to approval for payment and does not serve as evidence of fiscal 
+monitoring to determine whether a contractor is performing in accordance with the contract as 
+well as VR program and fiscal requirements. USOR and DWS must ensure the VR Internal 
+Controls Manual, Contract Monitoring Policy, and Contract Monitoring Procedure include the 
+tools used to perform the risk assessment for determining the monitoring methods and the 
+frequency of monitoring (e.g., risk rubric, decision tree, risk matrix, etc.). RSA looks forward to 
+working with DWS and USOR through its corrective action plan to ensure sufficient financial 
+monitoring requirement are implemented pursuant to the Uniform Guidance 
+(2 C.F.R. § 200.329). 
+ 
+VR Agency Request for Technical Assistance: USOR is not requesting Technical Assistance 
+for this item. 
+ 
+Finding 3.3 Period of Performance Policies and Procedures  
+ 
+Issue: Do USOR and DWS meet obligation and expenditure requirements in 2 C.F.R. § 200.1 
+and 34 C.F.R. § 76.707. Does DWS assign obligations and expenditures align to the correct 
+Federal award in accordance with 34 C.F.R. § 361.12, 2 C.F.R. §§ 200.1, 200.302, 200.303(a), 
+200.309, and 34 C.F.R. § 76.702.  
+ 
+Requirement: As a recipient of Federal VR and Supported Employment program funds, USOR 
+must have procedures that ensure the proper and efficient administration of its VR and Supported 
+Employment programs and enable USOR to carry out all required functions, including financial 
+reporting (34 C.F.R. § 361.12). In accordance with the Uniform Guidance in 
+2 C.F.R. § 200.302(a), a State’s financial management systems, including records documenting 
+compliance with Federal statutes, regulations, and the terms and conditions of the award, must be 
+sufficient to permit the preparation of reports required by general and program specific terms and 
+conditions; and the tracing of funds to a level of expenditures adequate to establish that such
+
+27 
+funds have been used according to the Federal statutes, regulations, and the terms and conditions 
+of the Federal award. The Uniform Guidance requires the financial management system of each 
+non-Federal entity to provide for the identification, in its accounts, of all Federal awards received 
+and expended and the Federal programs under which they were received (2 C.F.R. § 200.302(b)). 
+In addition, Education Department General Administrative Regulations (EDGAR) at 
+34 C.F.R. § 76.702 require States to use fiscal control and fund accounting procedures that 
+ensure proper disbursement of and accounting for Federal funds.  
+ 
+Each grant award has a defined “period of performance” that is the time during which the non-
+Federal entity may incur new obligations to carry out the work authorized under the Federal 
+award (2 C.F.R. § 200.1). A non-Federal entity may only charge to the Federal award allowable 
+costs incurred during the period of performance (2 C.F.R. § 200.309, see also EDGAR 34 C.F.R. 
+§§ 76.703 and 76.709). Grantees must implement internal controls necessary to ensure 
+obligations and expenditures for a Federal award are assigned, tracked, recorded, and reported 
+within the applicable period of performance for that Federal award, thereby ensuring the grantees 
+are managing the award in compliance with Federal requirements (2 C.F.R. § 200.303(a)). The 
+proper assignment of Federal and non-Federal funds to the correct period of performance is 
+necessary for USOR to correctly account for VR and Supported Employment program funds so 
+that RSA can be assured the agency has satisfied requirements for, among other things, match 
+(34 C.F.R. § 361.60), MOE (34 C.F.R. § 361.62), and the reservation and expenditure of VR 
+funds for the provision of pre-employment transition services (34 C.F.R. § 361.65(a)(3)). 
+ 
+A financial obligation means “orders placed for property and services, contracts and subawards 
+made, and similar transactions during a given period that require payment by the non-Federal 
+entity during the same or a future period" (2 C.F.R. § 200.1). For expenditures to be allowable 
+under the Federal award, agencies must demonstrate that the obligation occurred within the 
+period of performance of the Federal award. EDGAR regulations at 34 C.F.R. § 76.707 explain 
+when a State incurs an obligation for various kinds of services and property. Expenditures must 
+be for payment of actual obligations. Obligations must be charged to a Federal award and must 
+occur within the appropriate period of performance. Therefore, to properly account for and 
+liquidate expenditures, grantees must be able to assign an obligation to a Federal award based 
+upon the date the obligation was made (34 C.F.R. §§ 76.703 and 76.709).  
+ 
+Analysis: RSA, USOR, and DWS discussed the agency’s ability to track and report obligations 
+and liquidations in its systems and account for the expenditures on Federal financial reports. 
+Through a review of USOR’s vendor contracts and on-site discussions, RSA found that the 
+agency does not obligate funds in accordance with the Uniform Guidance requirements of 34 
+C.F.R. § 76.707. The agency obligated funds on dates other than the dates on which the State 
+made a binding written commitment to obtain work. Additionally, DWS’ period of performance 
+policies, procedures, and related documentation do not include the level of detail necessary to 
+ensure all obligations are assigned, tracked, liquidated, and reported accurately on Federal 
+reports.  
+ 
+RSA discussed with USOR and DWS obligations recording requirements and the need for 
+formalized, comprehensive written policies, and procedures for period of performance and 
+Federal reporting to ensure the agency makes obligations on the correct date and submits
+
+28 
+accurate Federal financial reports. RSA discussed the requirement of accurate Federal reporting 
+of obligations, expenditures, and unobligated Federal and non-Federal funds, as this information 
+is necessary for RSA to determine the extent to which USOR is complying with the non-Federal 
+share requirements of match and MOE, as well as determining whether Federal awards qualify 
+for carryover.  
+ 
+Conclusion: RSA found that USOR is not in compliance with Federal regulations at 34 C.F.R. § 
+361.12, 34 C.F.R. § 76.702, and 2 C.F.R. § 200.302 to ensure non-Federal and Federal 
+obligations and expenditures are assigned, tracked, paid, and reported from the correct Federal 
+award. The agency did not have sufficient internal controls to ensure that—  
+ 
+1) A comprehensive written policy regarding period of performance has been developed to 
+outline the steps and procedures to assign, track and report obligations and expenditures 
+in systems for all cost categories identified in EDGAR 34 C.F.R. § 76.707, to ensure they 
+are for allowable costs under the agency’s approved State Plan during the period of 
+performance of the award; and 
+2) All non-Federal and Federal obligations and expenditures are accurately assigned to 
+specific fund sources, and tracked, paid, and reported on the appropriate Federal 
+Financial Reports for the appropriate awards. 
+ 
+As a recipient of Federal VR program funds, USOR must have procedures in place that ensure 
+proper and efficient administration of its VR program, and that enable USOR to carry out all 
+required functions. The methods of administration must ensure accurate data collection and 
+financial accountability (34 C.F.R. § 361.12 and 2 C.F.R. § 200.302).  
+ 
+Corrective Actions 3.3: RSA requires that USOR—  
+ 
+3.3.1 Make requisite revisions to its financial data collection, analysis and reporting processes 
+to ensure compliance so that DWS can—  
+● Account for, track, and accurately liquidate all non-Federal and Federal expenditures 
+from the correct fund sources within their defined periods of performance, 
+commensurate with the period of performance for the corresponding obligations 
+based on the correct obligation date assigned; and  
+● Accurately report non-Federal and Federal obligations and liquidations on the RSA-
+17 report for the corresponding period of performance for Federal awards.  
+3.3.2  Develop/update and implement period of performance policies and procedures to 
+accurately account for and report all obligations and expenditures for the cost categories 
+identified in 34 C.F.R. § 76.707 to the correct FFY award period of performance, 
+ensuring the policies address the—  
+● Assignment of non-Federal and Federal obligations to the appropriate and specific 
+fund sources within their defined periods of performance, and the liquidation of such 
+funds based upon the assignment of the obligations; and  
+● Accurate reporting of unliquidated obligations, expenditures, and unobligated Federal 
+non-Federal funds on the quarterly RSA-17 reports;
+
+29 
+3.3.3  Develop and implement a written internal control process, including a monitoring 
+component, to ensure ongoing compliance with Federal requirements for the areas 
+mentioned in corrective actions 3.3.1 and 3.3.2. 
+VR Agency Response: DWS has an established system of internal controls which is designed to 
+provide reasonable assurance that all non-Federal and Federal obligations and expenditures are 
+accurately assigned to specific fund sources, and are tracked, paid, and reported on the 
+appropriate Federal financial reports for the appropriate awards. DWS acknowledges, however, 
+that written policies and procedures do not outline the specific steps and procedures to assign, 
+track, and report obligations and expenditures in systems for all cost categories identified in 
+EDGAR 34 C.F.R. § 76.707. DWS will revise written policies and procedures to include a 
+specific reference to 34 C.F.R. § 76.707. A periodic review of such policies and procedures will 
+also be established to ensure that any changes to the program requirements are also updated in 
+the corresponding policies and procedures.  
+ 
+RSA Response: RSA appreciates DWS’ acknowledgement of its need to update policies and 
+procedures to ensure the policies and procedures are current, accurate, address the unique 
+requirements of the respective award and correct the issues noted in Finding 3.3. RSA will work 
+with DWS and USOR through its corrective action plan to ensure it develops/updates and 
+implements period of performance policies and procedures to accurately account for and report 
+all obligations and expenditures for the cost categories identified in 34 C.F.R. § 76.707 to the 
+correct FFY award period of performance. 
+ 
+VR Agency Request for Technical Assistance: USOR is not requesting Technical Assistance 
+for this item at this time.
+
+30 
+APPENDIX A: STATE VOCATIONAL REHABILITATION SERVICES AND 
+STATE SUPPORTED EMPLOYMENT SERVICES PROGRAMS 
+PERFORMANCE TABLES 
+Table 1—UT -C Performance Profile  
+ 
+Table 2—UT -C Types of Exit  
+ 
+Table 3—UT -C Reasons for Exit  
+ 
+Table 4—UT -C VR Service Provision  
+ 
+Table 5—UT -C Measurable Skill Gains and Credentials  
+ 
+Table 6—UT -C Competitive Integrated Employment and Supported Employment Outcomes  
+ 
+Table 7—UT -C Students with Disabilities 
+ 
+Table 8—UT -C Pre-Employment Transition Service Provision
+
+31 
+Table 1—UT -C Performance Profile 
+VR Program Performance PY20 PY21 PY22 
+Employment Rate 46.2% 49.5% 50.9% 
+Number of Participants Exiting in Competitive Integrated 
+Employment or Supported Employment 
+1,739 2,008 2,165 
+Percentage of Timely Eligibility Determinations 97.6% 98.6% 98.8% 
+Percentage of Eligibility Determinations Extensions 8.2% 8.4% 7.4% 
+Percentage of Timely IPE Development 93.9% 95.5% 95.4% 
+Percentage of Initial IPE Extensions 9.5% 9.0% 6.6% 
+Number of Applicants 5,624 5,605 6,599 
+Number of Individuals Determined Eligible 5,505 5,680 6,419 
+Number of Individuals with an IPE and No VR Services Provided 3 1 - 
+Number of Participants (with an IPE and VR Services Provided) 12,380 12,406 12,661 
+WIOA Performance Indicators PY20 PY21 PY22 
+Measurable Skill Gains Rate 51.6% 52.6% 55.2% 
+Employment Rate in 2nd Qtr After Exit 50.9% 53.2% 53.7% 
+Median Earnings in 2nd Qtr After Exit $3,989 $4,569 $4,726 
+Employment Rate in 4th Qtr After Exit 48.6% 49.5% 52.7% 
+Credential Attainment Rate 29.9% 31.8% 37.5%
+
+32 
+Table 2—UT -C Types of Exits 
+Individuals Who Exited the VR Program PY20 PY21 PY22 
+Number of Individuals Who Exited the VR Program 5,881 6,123 6,074 
+ 
+Exit Type 
+PY20 
+Number of 
+Individuals 
+ 
+PY20 
+Percent 
+PY21 
+Number of 
+Individuals 
+ 
+PY21 
+Percent 
+PY22 
+Number of 
+Individuals 
+ 
+PY22 
+Percent 
+Individual exited as an 
+applicant, prior to eligibility 
+determination or trial work 
+experience 
+167 2.84% 9 0.15% 14 0.23% 
+Individual exited during or 
+after a trial work experience - 0.00% - 0.00% - 0.00% 
+Individual exited after 
+eligibility, but from an order of 
+selection waiting list - 0.0% - 0.0% - 0.0% 
+Individual exited after 
+eligibility, but prior to a signed 
+IPE 
+1,251 21.3% 1,347 22.0% 1,180 19.4% 
+Individual exited after an IPE 
+without an employment 
+outcome 
+2,028 34.5% 2,052 33.5% 2,087 34.4% 
+Individual exited after an IPE 
+in noncompetitive and/or 
+nonintegrated employment 
+- 0.0% - 0.0% - 0.0% 
+Individual exited after an IPE 
+in competitive and integrated 
+employment or supported 
+employment 
+1,739 29.6% 2,008 32.8% 2,165 35.6% 
+Individual exited as an 
+applicant after being 
+determined ineligible for VR 
+services 
+696 11.8% 707 11.5% 628 10.3% 
+ 
+Supported Employment 
+PY20 
+Number of 
+Participants 
+PY21 
+Number of 
+Participants 
+PY22 
+Number of 
+Participants 
+Number of Participants Who Exited with a Supported Employment 
+Outcome in Competitive Integrated Employment 98 131 174 
+Number of Participants Who Exited with a Supported Employment 
+Outcome in Noncompetitive and/or Nonintegrated Employment - - -
+
+33 
+Table 3—UT -C Reasons for Exit 
+Reason for Exit 
+PY20 
+Number of 
+Individuals 
+ 
+PY20 
+Percent 
+PY21 
+Number of 
+Individuals 
+ 
+PY21 
+Percent 
+PY22 
+Number of 
+Individuals 
+ 
+PY22 
+Percent 
+Health/Medical 14 0.2% 29 0.5% 34 0.6% 
+Death of Individual 59 1.0% 73 1.2% 36 0.6% 
+Reserve Forces 
+Called to Active 
+Duty 
+- 0.0% - 0.0% - 0.0% 
+Ineligible after 
+determined eligible 
+87 1.5% 117 1.9% 133 2.2% 
+Criminal Offender 109 1.9% 124 2.0% 120 2.0% 
+No Disabling 
+Condition 
+813 13.8% 687 11.2% 651 10.7% 
+Transferred to 
+Another Agency 
+6 0.1% 19 0.3% 14 0.2% 
+Achieved 
+Competitive 
+Integrated 
+Employment 
+Outcome 
+1,739 29.6% 2,008 32.8% 2,165 35.6% 
+Extended 
+Employment 
+- 0.0% - 0.0% - 0.0% 
+Extended Services 
+Not Available 
+- 0.0% - 0.0% - 0.0% 
+Unable to Locate or 
+Contact 
+1,395 23.7% 1,487 24.3% 1,550 25.5% 
+No Longer Interested 
+in Receiving Services 
+or Further Services 
+1,523 25.9% 1,425 23.3% 1,247 20.5% 
+All Other Reasons 136 2.3% 154 2.5% 123 2.0% 
+Short-Term Basis 
+Period 
+- 0.0% - 0.0% - 0.0% 
+Ineligible: Pursuant 
+to 511 
+- 0.0% - 0.0% 1 0.0% 
+Ineligible: 
+Following Trial 
+Work 
+- 0.0% - 0.0% - 0.0% 
+Number of 
+Individuals Who 
+Exited the VR 
+Program 
+5,881  6,123  6,074
+
+34 
+Table 4—UT -C VR Service Provision 
+ 
+ 
+VR Service Provision PY20 PY21 PY22 
+Total Number of Individuals Who Received VR Services 12,809 12,630 13,009 
+ 
+Training Services 
+PY20 
+Number of 
+Individuals 
+ 
+PY20 
+Percent 
+PY21 
+Number of 
+Individuals 
+ 
+PY21 
+Percent 
+PY22 
+Number of 
+Individuals 
+ 
+PY22 
+Percent 
+Graduate Degree Training 28 0.2% 40 0.3% 43 0.3% 
+Bachelor’s Degree Training 872 6.8% 939 7.4% 983 7.6% 
+Junior or Community College 
+Training 598 4.7% 526 4.2% 464 3.6% 
+Occupational or Vocational 
+Training 935 7.3% 804 6.4% 858 6.6% 
+On-the-Job Training 36 0.3% 25 0.2% 19 0.1% 
+Apprenticeship Training 14 0.1% 7 0.1% 12 0.1% 
+Basic Academic Remedial or 
+Literacy Training 391 3.1% 366 2.9% 327 2.5% 
+Job Readiness Training 506 4.0% 622 4.9% 721 5.5% 
+Disability Related Skills 
+Training* 378 3.0% 361 2.9% 251 1.9% 
+Miscellaneous Training 357 2.8% 303 2.4% 359 2.8% 
+Randolph-Sheppard 
+Entrepreneurial Training - 0.0% - 0.0% - 0.0% 
+Customized Training 2 0.0% 2 0.0% - 0.0% 
+Work-Based Learning 
+Experience 4 0.0% 4 0.0% 5 0.0% 
+ 
+Career Services PY20 
+Number of 
+Individuals 
+ 
+PY20 
+Percent 
+PY21 
+Number of 
+Individuals 
+ 
+PY21 
+Percent 
+PY22 
+Number of 
+Individuals 
+ 
+PY22 
+Percent 
+Assessment* 4,934 38.5% 4,621 36.6% 4,927 37.9% 
+Diagnosis and Treatment of 
+Impairment 6,150 48.0% 6,386 50.6% 6,314 48.5% 
+Vocational Rehabilitation 
+Counseling and Guidance* 11,497 89.8% 11,426 90.5% 11,889 91.4% 
+Job Search Assistance 2,127 16.6% 2,324 18.4% 2,478 19.0% 
+Job Placement Assistance 1,974 15.4% 1,954 15.5% 2,221 17.1% 
+Short-Term Job Supports 1,108 8.7% 1,163 9.2% 1,231 9.5% 
+Supported Employment 
+Services 782 6.1% 879 7.0% 1,006 7.7%
+
+35 
+Information and Referral 
+Services* 1,193 9.3% 1,392 11.0% 1,721 13.2% 
+Benefits Counseling* 428 3.3% 456 3.6% 456 3.5% 
+Customized Employment 
+Services 61 0.5% 70 0.6% 74 0.6% 
+Extended Services (for youth 
+with the most significant 
+disabilities) 
+- 0.0% - 0.0% - 0.0% 
+ 
+Other Services 
+PY20 
+Number of 
+Individuals 
+ 
+PY20 
+Percent 
+PY21 
+Number of 
+Individuals 
+ 
+PY21 
+Percent 
+PY22 
+Number of 
+Individuals 
+ 
+PY22 
+Percent 
+Transportation* 1,779 13.9% 1,564 12.4% 1,884 14.5% 
+Maintenance* 776 6.1% 806 6.4% 954 7.3% 
+Rehabilitation 
+Technology* 
+929 7.3% 916 7.3% 995 7.6% 
+Personal Attendant 
+Services* 
+12 0.1% 9 0.1% 15 0.1% 
+Technical 
+Assistance Services 
+10 0.1% 15 0.1% 17 0.1% 
+Reader Services* - 0.0% - 0.0% - 0.0% 
+Interpreter 
+Services* 
+52 0.4% 52 0.4% 44 0.3% 
+Other Services 877 6.8% 854 6.8% 1,007 7.7% 
+* Indicates RSA-911 Service Categories that do not require an individualized plan for employment (IPE)
+
+36 
+Table 5—UT -C Measurable Skill Gains and Credentials 
+Type of Measurable Skill Gains Earned PY20 
+Number 
+PY21 
+Number 
+PY22 
+Number 
+Educational Functioning Level 20 22 29 
+Secondary Diploma 227 241 259 
+Postsecondary Transcript/Report Card 1,166 1,138 1,145 
+Training Milestone 8 15 8 
+Skills Progression 334 290 323 
+Total 1,755 1,706 1,764 
+Participants Who Earned Measurable 
+Skill Gains 
+PY20 
+Number/Percent 
+PY21 
+Number/Percent 
+PY22 
+Number/Percent 
+Number of Participants Who Earned 
+Measurable Skill Gains 
+1,509 1,445 1,485 
+Percent of Participants Eligible to Earned 
+Measurable Skill Gains 
+23.6% 22.1% 21.3% 
+ 
+Type of Credentials Earned 
+PY20 
+Number 
+PY21 
+Number 
+PY22 
+Number 
+Secondary 25 55 131 
+Postsecondary 91 121 148 
+Total 116 176 279 
+Participants Who Earned Credentials PY20 
+Number/Percent 
+PY21 
+Number/Percent 
+PY22 
+Number/Percent 
+Number of Participants Who Earned 
+Credentials 
+116 175 277 
+Percent of Participants Eligible to Earn 
+Credentials 
+9.0% 16.0% 19.5%
+
+37 
+Table 6—UT -C Competitive Integrated Employment and Supported Employment Outcomes  
+Participants Who Exited in Competitive Integrated 
+Employment or Supported Employment PY20 PY21 PY22 
+Number of Participants Who Exited in Competitive Integrated 
+Employment or Supported Employment 1,739 2,008 2,165 
+Median Hourly Earnings at Exit $12.50 $13.57 $15.00 
+Median Hours Worked per Week at Exit 40 40 35 
+ 
+ 
+ 
+Public Support at Exit 
+PY20 
+Number of 
+Participants 
+ 
+PY20 
+Percent 
+PY21 
+Number of 
+Participants 
+ 
+PY21 
+Percent 
+PY22 
+Number of 
+Participants 
+ 
+PY22 
+Percent 
+Social Security Disability Insurance 
+at Exit 214 12.3% 276 13.7% 268 12.4% 
+Supplemental Security Income 
+for the Aged, Blind, or Disabled at 
+Exit 
+158 9.1% 217 10.8% 266 12.3% 
+Temporary Assistance for Needy 
+Families at Exit 1 0.1% 7 0.3% 3 0.1% 
+Other Public Support at Exit 
+28 1.6% 27 1.3% 41 1.9% 
+ 
+ 
+Medical Insurance Coverage at 
+Exit 
+PY20 
+Number of 
+Participants 
+ 
+PY20 
+Percent 
+PY21 
+Number of 
+Participants 
+ 
+PY21 
+Percent 
+PY22 
+Number of 
+Participants 
+ 
+PY22 
+Percent 
+Medicaid at Exit 561 32.3% 826 41.1% 974 45.0% 
+Medicare at Exit 145 8.3% 186 9.3% 183 8.5% 
+State or Federal Affordable Care 
+Act Exchange at Exit 10 0.6% 8 0.4% 6 0.3% 
+Public Insurance from Other Sources 
+at Exit 30 1.7% 24 1.2% 30 1.4% 
+Private Insurance Through Employer 
+at Exit 464 26.7% 451 22.5% 452 20.9% 
+Not Yet Eligible for Private 
+Insurance Through Employer at Exit 90 5.2% 91 4.5% 78 3.6% 
+Private Insurance Through Other 
+Means at Exit 404 23.2% 447 22.3% 479 22.1%
+
+38 
+Table 7—UT -C Students with Disabilities 
+Students with Disabilities 
+PY20 
+Number/ 
+Percentage 
+of 
+Students 
+PY21 
+Number/ 
+Percentage 
+of 
+Students 
+PY22 
+Number/ 
+Percentage 
+of 
+Students 
+Total Students with Disabilities Reported 4,455 5,258 6,245 
+Students with Disabilities Reported with 504 
+Accommodation 
+57 81 120 
+Students with Disabilities Reported with the 
+Individualized Education Program (IEP) 
+1,427 2,205 3,236 
+Students with Disabilities Reported without 504 
+Accommodation or IEP 
+3,008 3,055 2,963 
+Total Students with Disabilities Who Received a 
+Pre-Employment Transition Service 
+1,912 1,933 2,307 
+Potentially Eligible Students with Disabilities 
+Who Received a Pre- Employment Transition 
+Service 
+1,479 1,414 1,713 
+Students with Disabilities, Who Applied for 
+VR Services, and Received a Pre-Employment 
+Transition Service 
+433 519 594 
+Percentage of Students with Disabilities 
+Reported Who Received a Pre-Employment 
+Transition Service 
+42.9% 36.8% 36.9%
+
+39 
+Table 8—UT -C Pre-Employment Transition Service Provision 
+ 
+Pre-Employment 
+Transition Services 
+PY20 
+Number 
+Provided 
+PY20 
+Percent of 
+Total 
+PY21 
+Number 
+Provided 
+PY21 
+Percent of 
+Total 
+PY22 
+Number 
+Provided 
+PY22 
+Percent of 
+Total 
+Total Pre-Employment 
+Transition Services 
+Provided 9,087  11,302  17,029  
+Job Exploration 
+Counseling 1,258 13.8% 2,605 23.0% 4,011 23.6% 
+Work-Based Learning 
+Experiences 569 6.3% 878 7.8% 1,176 6.9% 
+Counseling on 
+Enrollment 
+Opportunities 
+690 7.6% 1,906 16.9% 3,174 18.6% 
+Workplace Readiness 
+Training 3,174 34.9% 2,709 24.0% 3,981 23.4% 
+Instruction in Self- 
+Advocacy 3,396 37.4% 3,204 28.3% 4,687 27.5%
+
+40 
+APPENDIX B: FISCAL DATA TABLES 
+Fiscal data tables current as of August 11, 2024. 
+Table 3.1: VR Federal Resources and Expenditures 
+Federal Resources and 
+Expenditures 2020 2021 2022* 2023* 
+FAIN H126A200094 H126A210094 H126A220094 H126A230094 
+Formula Award Amount 35,396,411.00 36,436,206.00  36,643,917.00  39,831,760.00  
+MOE Reduction Amount 0.00 0.00  0.00  0.00 
+Relinquished-Reallotment 0.00 0.00  0.00 0.00 
+Received-Reallotment 0.00 0.00  0.00  0.00  
+Adjustments 0.00 0.00  0.00  0.00  
+Net Award Amount  35,396,411.00 36,436,206.00  36,643,917.00  39,831,760.00  
+Net Award Funds Unused** 9,149,417.76 8,377,721.00 2,200,224.00  7,496,443.00 
+Matched Net Award Funds 
+Unused*** 
+9,149,417.76 8,377,721.00 2,200,224.00  (32,335,317.00)  
+Award Funds Expended 26,246,993.24 28,058,485.00 34,443,693.00  32,335.317.00  
+Percent of Net Award Expended 70.9% 77.0% 94.0% 81.2% 
+Percent of Formula Award Expended 70.9% 77.0% 94.0% 81.2% 
+Carryover Met  Yes Yes Yes Yes 
+Grant Award Closed Yes Yes No No 
+* Indicates the award is currently in an open status; therefore, data are either not currently available or not final.  
+**If award is closed, represents amount of funds deobligated at closeout. If award is not closed, represents balance 
+in G5. 
+*** Negative number indicates funds expended that were not matched.
+
+41 
+Table 3.2: VR Non-Federal Share 
+ 
+Non-Federal Share (Match) 2020 2021 2022 2023* 
+Federal Expenditures Matched Yes  Yes   Yes  No 
+Non-Federal Share-4th 11,174,328.00 11,017,095.00  11,161,292.00  11,021,315.00 
+Non-Federal Share-Final 11,161,292.00 11,017,095.00  11,161,292.00  0.00  
+Federal Funds Required to be Matched 26,246,993.24 28,058,485.00  34,443,693.00 32,335,317.00 
+Federal Funds Matched 41,239,139.92 40,06,355.702  41,239,139.92 0.00 
+Non-Federal Share Required 7,103,697.03 7,593,973.70 9,322,117.67 8,751,489.86 
+Federal Funds Match Difference 14,992,146.68 12,647,870.70  6,795,446.92  (32,335,317.00)  
+Percent of Net Federal Funds Matched 116.5% 111.7% 112.5% 0.0% 
+Percent of Federal Formula Award 
+Matched 
+116.5% 111.7% 112.5% 0.0% 
+Matching Requirement Met-State Yes Yes Yes No 
+Required Non-Federal Share-State 7,103,697.03 7,593,973.70 9,322,117.67 8,751,489.86 
+Federal Funds Required to be Matched-
+State 
+26,246,993.92 28,058,485.00  34,443,693.00 32,335,317.00 
+Federal Funds Matched-State 41,239,139.92 40,06,355.702  41,239,139.92 0.00 
+Federal Funds Match Difference-State 14,992,146.68 12,647,870.70  6,795,446.92  (32,335,317.00) 
+* Indicates the award is currently in an open status; therefore, data are either not currently available or not final.  
+ 
+Table 3.3: VR Maintenance of Effort 
+ 
+Maintenance of Effort (MOE) 2020 2021 2022* 2023* 
+Amount of Non-Federal Share 
+Maintained => 2 years prior 
+ Yes   Yes  Yes No 
+Non-Federal Share 11,161,292.00  11,017,095.00  11,161,292.00  0.00  
+Construction Expenditures-4th 0.00  0.00  0.00  0.00  
+Construction Expenditures-Final 0.00  0.00  0.00  0.00  
+Unadjusted MOE Base 11,161,292.00  11,017,095.00  11,161,292.00  0.00  
+Adjusted MOE Base 11,161,292.00  11,017,095.00  11,161,292.00  0.00  
+MOE Difference 0.00  0.00  0.00  (11,017,095.00) 
+Adjusted MOE Base-State 11,161,292.00 11,017,095.00  11,161,292.00  0.00  
+MOE Difference-State 0.00  0.00  0.00  (11,017,095.00) 
+* Indicates the award is currently in an open status; therefore, data are either not currently available or not final.
+
+42 
+Table 3.4: Pre-Employment Transition Services 
+ 
+Pre-Employment Transition Services 
+(Pre-ETS) 2020 2021 2022 2023* 
+Pre-ETS Target Met No No No No 
+Percent of Matched Federal Funds 
+Expended on Pre-ETS 
+7.6% 8.3% 9.2% 0.0% 
+Pre-ETS Federal Expenditures-Final 2,689,717.00 3,010,183.00  3,384,075.00  0.00  
+Pre-ETS Calculation Base 35,396,411.00 36,436,206.00  36,643,917.00  0.00 
+Pre-ETS Target 5,309,461,65 5,465,430.90 5,496,587.55  0 
+Pre-ETS Difference (2,619,744.65) (2,455,247.90) (2,112,512.55)  0 
+Pre-ETS Requirement Met-State No No No No 
+Percent of Matched VR Funds Spent on 
+Pre-ETS-State 
+7.6% 8.3% 9.2% 0.0% 
+Pre-ETS Calculation Base-State 35,396,411.00 36,436,206.00  36,643,917.00  0.00  
+Pre-ETS-Target-State 5,309,461,65 5,465,430.90 5,496,587.55 0.00  
+Pre-ETS Federal Expenditures-Final-
+State 
+2,689,717.00 3,010,183.00  3,384,075.00  0.00  
+Pre-ETS Difference-State (2,619,744.65) (2,455,247.90) (2,112,512.55) 0.00  
+Negative is Amount of Reserve Spent on 
+Non-Pre-ETS 
+6,529,673.11 5,922,473.10  87,711.45 (32,335,317.00) 
+* Indicates the award is currently in an open status; therefore, data are either not currently available or not final.
+
+43 
+Table 3.5: Program Income-Agency 
+ 
+Program Income 2020 2021 2022* 2023* 
+Program Income Received-4th 2,688,132.00 1,958,466.00  2,780,561.00  2,217,439.00  
+Program Income Received-Final 2,688,132.00 1,958,466.00  2,780,561.00  0.00 
+Program Income Difference-4th/Final  0.00  0.00  2,217,439.00  
+Total Program Income Expended-4th 2,688,132.00 1,958,466.00  2,780,561.00  2,217,439.00  
+Total Program Income Expended-Final 2,688,132.00 1,958,466.00  2,780,561.00  0.00 
+Program Income Expended-4th/Final 0.00  0.00 0.00  2,217,439.00 
+Program Income Transferred to the State 
+Independent Living Services (SILS) Program 
+0.00  0.00  0.00  0.00  
+Program Income Transferred to OIB Program 0.00  0.00  0.00  0.00  
+Program Income Transferred to CAP Program 0.00  0.00  0.00  0.00  
+Program Income Transferred to SE Program 0.00  0.00  0.00  0.00  
+Total Program Income Transferred 0.00  0.00  0.00 0.00  
+Program Income Used for VR Program 2,688,132.00 1,958,466.00  2,780,561.00  0.00 
+* Indicates the award is currently in an open status; therefore, data are either not currently available or not final.

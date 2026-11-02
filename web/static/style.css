@@ -1,0 +1,131 @@
+:root {
+  --bg: #f6f7f9;
+  --surface: #ffffff;
+  --text: #1c2430;
+  --muted: #5b6676;
+  --border: #d9dee6;
+  --primary: #1f5fbf;
+  --primary-text: #ffffff;
+  --user-bg: #e8f0fc;
+  --error: #b42318;
+  --radius: 10px;
+  color-scheme: light dark;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #14181f;
+    --surface: #1c222b;
+    --text: #e6e9ee;
+    --muted: #9aa4b2;
+    --border: #2e3642;
+    --primary: #5b9bf0;
+    --primary-text: #0b1220;
+    --user-bg: #1f3048;
+    --error: #f97066;
+  }
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font: 16px/1.55 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+
+.page { max-width: 920px; margin: 0 auto; padding: 24px 16px 40px; }
+
+h1 { font-size: 1.5rem; margin: 0; }
+
+.intro { margin-bottom: 20px; }
+.intro-top { display: flex; justify-content: space-between; align-items: center; gap: 12px; margin-bottom: 8px; }
+.intro p { margin: 6px 0; color: var(--muted); }
+.example { border-left: 3px solid var(--border); padding-left: 12px; }
+
+.chat {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  min-height: 320px;
+  max-height: 65vh;
+  overflow-y: auto;
+}
+.messages { padding: 16px; display: flex; flex-direction: column; gap: 14px; }
+.empty { color: var(--muted); text-align: center; margin: 120px 0; }
+
+.msg { border-radius: var(--radius); padding: 12px 14px; }
+.msg-user { background: var(--user-bg); align-self: flex-end; max-width: 85%; }
+.msg-assistant { border: 1px solid var(--border); }
+.msg-label { font-size: 0.8rem; font-weight: 600; color: var(--muted); margin-bottom: 4px; }
+.msg-user .msg-body { white-space: pre-wrap; }
+.msg-body { overflow-wrap: anywhere; }
+.msg-body > :first-child { margin-top: 0; }
+.msg-body > :last-child { margin-bottom: 0; }
+.msg-body h1, .msg-body h2, .msg-body h3 { font-size: 1.05rem; margin: 16px 0 6px; }
+.msg-body table { border-collapse: collapse; display: block; overflow-x: auto; }
+.msg-body th, .msg-body td { border: 1px solid var(--border); padding: 4px 8px; text-align: left; }
+.msg-body pre { overflow-x: auto; background: var(--bg); padding: 8px; border-radius: 6px; }
+.msg-body a { color: var(--primary); }
+.pending { color: var(--muted); font-style: italic; }
+.failed { color: var(--error); }
+
+.ask { display: flex; gap: 10px; margin-top: 16px; }
+.ask textarea {
+  flex: 1;
+  resize: vertical;
+  font: inherit;
+  padding: 10px 12px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--surface);
+  color: var(--text);
+}
+.hint { font-size: 0.85rem; color: var(--muted); margin: 6px 0 0; }
+
+.actions { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin-top: 14px; }
+.session { font-size: 0.85rem; color: var(--muted); margin-left: auto; }
+
+.btn {
+  font: inherit;
+  padding: 8px 14px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text);
+  cursor: pointer;
+}
+.btn:hover:not(:disabled) { border-color: var(--primary); }
+.btn:disabled { opacity: 0.55; cursor: not-allowed; }
+.btn-primary { background: var(--primary); border-color: var(--primary); color: var(--primary-text); font-weight: 600; }
+.btn-quiet { font-size: 0.9rem; padding: 6px 10px; }
+.btn:focus-visible, textarea:focus-visible, input:focus-visible { outline: 2px solid var(--primary); outline-offset: 2px; }
+
+.tips { margin-top: 20px; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 10px 14px; }
+.tips summary { cursor: pointer; font-weight: 600; }
+
+.footer { margin-top: 24px; font-size: 0.85rem; color: var(--muted); font-style: italic; }
+
+.login { max-width: 380px; margin: 12vh auto; padding: 0 16px; }
+.login h1 { font-size: 1.3rem; }
+.login > p { color: var(--muted); }
+.login-form { display: flex; flex-direction: column; gap: 8px; margin-top: 16px; }
+.login-form input {
+  font: inherit;
+  padding: 9px 12px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--surface);
+  color: var(--text);
+}
+.login-form button { margin-top: 10px; }
+.error { color: var(--error); }
+
+.visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+@media (max-width: 600px) {
+  .ask { flex-direction: column; }
+  .msg-user { max-width: 100%; }
+  .session { margin-left: 0; width: 100%; }
+}

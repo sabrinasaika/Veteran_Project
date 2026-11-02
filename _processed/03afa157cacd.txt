@@ -1,0 +1,2819 @@
+FEDERAL FISCAL YEAR 2024 
+MONITORING REPORT ON 
+NEW JERSEY DIVISION OF VOCATIONAL 
+REHABILITATION SERVICES 
+VOCATIONAL REHABILITATION 
+AND 
+SUPPORTED EMPLOYMENT PROGRAMS 
+U.S. Department of Education 
+Office of Special Education and 
+Rehabilitative Services 
+Rehabilitation Services Administration 
+March 24, 2025
+
+TABLE OF CONTENTS
+Page 
+Section 1: The Scope of the Review ................................................................................................ 2 
+Section 2: Focus Area – Performance of the State Vocational Rehabilitation Services and State 
+Supported Employment Services Programs .................................................................................... 4 
+Section 3: Focus Area – Financial Management of the State Vocational Rehabilitation Services and 
+State Supported Employment Services Programs ......................................................................... 24 
+Appendix A: State Vocational Rehabilitation Services and State Supported Employment Services 
+Programs Performance Tables ....................................................................................................... 49 
+Appendix B: Fiscal Data Tables .................................................................................................... 58
+
+2 
+SECTION 1: THE SCOPE OF THE REVIEW 
+A. BACKGROUND
+Section 107 of the Rehabilitation Act of 1973 (Rehabilitation Act), as amended by Title IV of the 
+Workforce Innovation and Opportunity Act (WIOA), requires the Commissioner of the 
+Rehabilitation Services Administration (RSA) to conduct annual reviews and periodic on-site 
+monitoring of programs authorized under Title I of the Rehabilitation Act to determine whether a 
+vocational rehabilitation (VR) agency is complying substantially with the provisions of its State 
+Plan under Section 101 of the Rehabilitation Act and with the evaluation standards and performance 
+indicators established under Section 106 of the Rehabilitation Act subject to the performance 
+accountability provisions described in Section 116(b) of WIOA. In addition, the Commissioner 
+must assess the degree to which VR agencies are complying with the assurances made in the State 
+Plan Supplement for Supported Employment Services under Title VI of the Rehabilitation Act. In 
+conducting the annual reviews, RSA must consider, at a minimum, budget and financial 
+management data (section 107(a)(2)(I) of the Rehabilitation Act); and, pursuant to section 
+107(a)(4)(B) of the Rehabilitation Act, RSA must examine the provision of services, including pre-
+employment transition services. 
+RSA works closely with its Federal partners at the U.S. Department of Labor’s Employment and 
+Training Administration (ETA) and the U.S. Department of Education’s Office of Career, 
+Technical, and Adult Education (OCTAE) to share monitoring and technical assistance activities, 
+especially as they relate to the joint provisions under WIOA. Although the VR program is one of 
+the six core programs in the workforce development system, it is unique in that State VR agencies 
+provide services directly to individuals with disabilities. Thus, the nature and scope of RSA’s 
+monitoring process and report may appear different from the monitoring ETA and OCTAE conduct 
+with their grantees.  
+In Federal fiscal year (FFY) 2024, RSA conducted an on-site monitoring review of the State 
+Vocational Rehabilitation Services program (VR program) and the State Supported Employment 
+Services program (Supported Employment program) administered by New Jersey Division of 
+Vocational Rehabilitation Services (DVRS). The nature, scope, and focus of this review and the 
+process by which RSA carried out its activities from January 29, 2024, through February 2, 2024, 
+was defined by information regarding the VR agency’s use and expenditure of Federal funds, 
+documents, and data submitted by DVRS, taking into account the goals, unique circumstances, and 
+technical assistance needs of the VR agency.  
+RSA—  
+• Assessed the performance of the VR and Supported Employment programs, including how
+the VR agency is implementing strategies and practices to achieve continuous improvement
+in the delivery of VR services, including pre-employment transition services, leading to
+quality competitive integrated employment and supported employment outcomes for
+individuals with disabilities;
+
+3 
+ 
+• Reviewed the VR agency’s financial management of the VR and Supported Employment 
+programs, which supports and maximizes the use of Federal funds and resources to achieve 
+continuous improvement in assisting individuals with disabilities to achieve quality 
+employment outcomes; 
+• Identified strategies, including innovative practices, the VR agency uses or may employ to 
+improve competitive integrated employment outcomes for individuals with disabilities, 
+including students and youth with disabilities; 
+• Provided recommendations leading to continuous improvement in the number and quality of 
+outcomes achieved by individuals with disabilities through the VR and Supported 
+Employment programs and recommendations leading to continuous improvement in the VR 
+agency’s financial management of fiscal resources and strategies for maximizing the use of 
+Federal grant funds;  
+• Identified compliance findings and corrective actions to improve processes and procedures, 
+including the development or revision of policies and internal controls supporting effective 
+and efficient program operations, service delivery, and data-based decision making; and  
+• Provided technical assistance to assist and support the VR agency in developing strategic 
+action plans to improve and maximize program and fiscal performance and the use of 
+Federal funds. 
+B. REVIEW TEAM PARTICIPANTS 
+Members of the RSA review team included Jessica Davis, Jim Doyle, and Zunaira Wasif 
+(Vocational Rehabilitation Program Unit), Craig McManus and Jennifer Finch (Fiscal Unit), 
+Michael Quinn (Data Collection and Analysis Unit), and Jason Hunter (Technical Assistance Unit). 
+Although not all team members participated in all aspects of the on-site monitoring review, each 
+contributed to the gathering and analysis of information, along with the development of this report. 
+C. ACKNOWLEDGEMENTS 
+RSA wishes to express appreciation to the representatives of DVRS for the cooperation and 
+assistance extended throughout the review process. RSA also appreciates the participation of others, 
+such as the State Rehabilitation Council (SRC), the Client Assistance Program, advocates, 
+representatives from several Technical Assistance Centers and other stakeholders during the review 
+process.
+
+4 
+ 
+SECTION 2: FOCUS AREA – PERFORMANCE OF THE STATE VOCATIONAL 
+REHABILITATION SERVICES AND STATE SUPPORTED EMPLOYMENT 
+SERVICES PROGRAMS  
+A. PURPOSE 
+Through this focus area, RSA assessed the VR agency’s VR and Supported Employment programs’ 
+performance in assisting individuals with disabilities, including those with the most significant 
+disabilities, with the necessary services and supports to achieve quality competitive integrated 
+employment. During this focused review, RSA analyzed VR program data, policies and internal 
+controls, and agency practices in implementing VR services within the context of maximizing the 
+use and expenditure of funds to improve program performance. Where appropriate, RSA provided 
+technical assistance and identified findings requiring corrective actions. RSA also provided 
+recommendations, which the agency may consider as it develops a strategic action plan to improve 
+performance and maximize the use and expenditure of Federal funds to achieve quality employment 
+outcomes.  
+B. ANALYSIS OF PERFORMANCE  
+RSA’s analysis of the VR agency’s performance of the VR and Supported Employment programs 
+incorporated a review of data reported by DVRS on the Case Service Report (RSA-911) and the 
+WIOA Statewide Performance Report (ETA-9169) for program years (PYs) 2020, 2021, and 2022, 
+as well as the review and discussion of internal controls and policies and requested documents. A 
+review of the VR agency profile and data related to the VR process, VR services, quality of 
+employment outcomes, and pre-employment transition services, as well as discussions with DVRS 
+of potential factors influencing program performance informed the analysis and helped to identify 
+technical assistance needs and recommendations to improve the performance and management of 
+the VR and Supported Employment programs.  
+Summary of Factors Influencing Performance 
+Through the analysis of data and documents provided by the VR agency, information from related 
+sources, and discussions with DVRS during the review, RSA identified various factors that may be 
+contributing either positively or negatively to the VR agency’s performance leading to employment 
+outcomes for individuals with disabilities and the use and expenditure of Federal funds. In addition 
+to providing technical assistance, as appropriate and in response to DVRS’ requests, RSA also 
+developed recommendations for consideration by the VR agency as it develops strategic actions to 
+ensure continuous improvement in program performance and to maximize the use and expenditure 
+of available Federal funds to assist individuals with disabilities in achieving quality employment 
+outcomes. 
+ 
+Staffing Capacity 
+ 
+Staffing capacity impacts the effectiveness, efficiency, and overall performance of the VR program. 
+Adequate staffing increases the likelihood that the VR agency can deliver needed services promptly
+
+5 
+ 
+and more satisfactorily to the individuals it serves, reduce staff burden, decrease staff turnover, and 
+increase staff retention and satisfaction. At the time of the on-site review, DVRS reported 37 
+vacancies (25 percent) in its 151 VR counselor positions. The average number of cases carried by 
+VR counselors was approximately 126 individuals (including potentially eligible students with 
+disabilities), which varied based on office location, vacancies, and service demands. DVRS reported 
+that offices in south New Jersey and those in rural areas of the State generally experience a higher 
+number of VR counselor vacancies compared to other VR offices in the State.  
+ 
+DVRS attributed its VR counselor vacancies to a combination of factors including several 
+resignations during the COVID-19 pandemic, staff retirements, the availability of positions in less 
+desirably located offices in rural areas, and perceived barriers to career advancement. DVRS 
+explained that qualified VR counselors have limited opportunities for career growth and 
+advancement because of the State’s requirement that the applicant pass a New Jersey Civil Service 
+Commission exam, described by DVRS as an exam that does not appropriately assess candidates’ 
+ability to perform the duties within the VR field. In addition to the need to fill VR counselor 
+positions, DVRS expressed a need for additional support staff to handle administrative tasks to free 
+up VR counselors’ time to focus on their more specialized professional roles, ultimately improving 
+their effectiveness and productivity in serving VR program participants.  
+ 
+VR counselor vacancies require existing staff to manage larger caseloads resulting in fewer 
+opportunities for engagement, potential delays in the provision of services, and inadequate follow-
+up and support, all of which may contribute to individuals prematurely exiting the VR program. For 
+example, in PY 2022, the reasons for exit for more than 50 percent of individuals who exited the 
+VR program without an employment outcome were reported as “unable to locate” and “no longer 
+interested in services.” Lack of engagement is correlated with high rates of premature exits and 
+unsuccessful outcomes. DVRS has attempted to manage its VR counselor deficit by assigning a 
+supervising rehabilitation counselor or manager to cover vacant caseloads until VR counselor 
+positions can be filled. DVRS reported having 16 supervising rehabilitation counselors who have 
+been covering 68 vacant caseloads, as well as 13 managers who have stepped in to assist with 
+overseeing 31 vacant caseloads.  
+ 
+Due to the projected need to replace a large number of management, supervisory, and VR counselor 
+positions over the next five years, DVRS incorporated a substitution clause in the original Civil 
+Service requirements to allow for a bachelor’s degree with the requisite experience. However, 
+DVRS has been in the process of working with the New Jersey Civil Service Commission to change 
+the educational requirement back to a master’s degree as it had been in the past. DVRS has also 
+developed and implemented a recruitment strategy to minimize the length of time it takes to fill 
+vacancies. As VR counselors leave the agency or are promoted into higher positions within the 
+agency, DVRS posts positions 60 days prior to anticipated vacancies, which limits the length of 
+time positions remain vacant. Additionally, the agency believes that current salaries, employment 
+benefits, staff training, development opportunities, and telework options are factors that have 
+assisted in promoting staff retention in recent years.  
+ 
+DVRS continues to explore viable mechanisms to recruit staff for the agency working in 
+conjunction with the Division of Human Capital Strategies within the New Jersey Department of
+
+6 
+ 
+Labor and Workforce Development (NJLWD). DVRS advertises positions on an online platform 
+and has developed targeted recruitment for VR counselors by expanding outreach to master’s 
+degree programs beyond New Jersey to surrounding states. As DVRS continues to recruit additional 
+full-time positions, the agency is also exploring the use of temporary employees to fill in current 
+staffing gaps. DVRS offers an unpaid intern program; however, based upon the recommendation of 
+its SRC, DVRS will be exploring the use of paid internship opportunities in its field offices for 
+master’s program students. 
+ 
+Technical Assistance 
+ 
+• In order to help State VR agencies address the challenges related to the recruitment and 
+retention of staff, RSA shared that the Vocational Rehabilitation Technical Assistance 
+Center for Quality Management (VRTAC-QM) has created an assessment tool to help 
+agency leadership perform an in-depth analysis of their current operating environments in 
+order to understand the factors in their agency that are contributing to attrition of key staff. 
+• RSA shared information from RSA Technical Assistance Circular (TAC) 24-01, Promoting 
+Meaningful and Sustained Engagement of Individuals with Disabilities in the State 
+Vocational Rehabilitation Services Program, that assists VR agencies with strategies to 
+address multiple challenges such as balancing quality service delivery with staffing 
+limitations and rebuilding performance and capacity of both agency staff and service 
+providers.  
+  
+Recommendations 
+ 
+• RSA recommends that DVRS analyze data related to caseload size, number of referrals 
+received, applications submitted, number of individualized plans for employment created, 
+and training and employment outcomes at individual, district, regional and statewide levels. 
+This analysis can inform the number of positions designated to each geographic area and the 
+design and delivery of services. 
+• RSA recommends that DVRS support and provide opportunities for ongoing staff training, 
+particularly for counselors interested in obtaining and maintaining their certification as 
+rehabilitation counselors. 
+• Because DVRS’ positions are approved through the agency’s designated State agency 
+(DSA), the NJLWD, Division of Human Capital Strategies it is recommended that the 
+agency work with the DSA to address support staff shortages.  
+• To maintain continuity and to minimize disruptions in organizational leadership it is 
+recommended that DVRS develop strategic planning processes and tools to ensure a smooth 
+transition when key roles become vacant due to retirements, promotions, and unforeseen 
+circumstances, particularly for management positions.  
+• RSA recommends that DVRS use resources provided by the Vocational Rehabilitation 
+Technical Assistance Center for Quality Employment (VRTAC-QE) to explore strategies to 
+increase retention of State VR counselors, as well as the major barriers confronting the VR 
+program in recruiting and retaining qualified VR counselors.
+
+7 
+ 
+Referral and Application Process Exceeds Statutory and Regulatory Requirements, Creating 
+Undue Burden 
+ 
+During the period under review, DVRS showed a 37 percent increase in the number of individuals 
+applying for the VR program (5,198 applicants in PY 2020 to 7,140 applicants in PY 2022). DVRS 
+attributed the growth in applicants to increased outreach and marketing efforts and a recently 
+implemented online referral form meant to improve accessibility to the VR program. RSA reviewed 
+DVRS’ new online referral form, which contains 35 questions and 14 required responses before the 
+form can be submitted electronically. A majority of the responses requested on the form exceed 
+what is necessary or required for a referral. Additionally, the referral form cannot be submitted 
+online if, for example, a telephone number, disability information and a veteran status has not been 
+indicated. Because referrals to the VR program can be made by multiple sources such as community 
+organizations, employers, family members, healthcare providers and educational professionals, all 
+information required on the referral form may not be known to the referral source. A streamlined or 
+simplified referral form and process could enhance agency efficiency and reduce unnecessary 
+barriers in the referral process for individuals self-referring or others making referrals. Timely 
+engagement of individuals during referral and application are essential early in the VR process and 
+is best achieved if VR agencies streamline procedures and remove any unnecessary barriers and 
+requirements. 
+ 
+DVRS shared that in addition to its online process it also accepts referrals by phone, email, walk-
+ins, from schools, family and friends, local agencies, and local workforce development offices. 
+Although DVRS uses the same 35 questions/data points for referrals made in person or by phone, 
+the lack of information, unlike in the online referral form, does not preclude or delay the agency’s 
+ability to accept the referral. DVRS reported it has since reduced its referral form to 25 data 
+questions. 
+ 
+DVRS requires its staff to contact individuals within 14 days of receiving the referrals to schedule 
+an “Survey Interview” appointment, during which the VR counselor explains DVRS’ process, 
+services and eligibility requirements, and provides the DVRS Consumer Handbook. The individual 
+discusses their specific needs and is made aware of their rights and responsibilities as outlined in the 
+handbook. If an individual decides during the survey interview to pursue VR services, the 
+individual will complete, sign and date the application form. An individual must apply for VR 
+services either in person by appointment at a local DVRS office, by printing or scanning the 
+Application Form when they meet counselors for virtual appointment, or at a local one-stop as a 
+walk-in without an appointment. DVRS does not offer the option to apply for VR services online, 
+by phone, at an employer location, including an entity holding a certificate issued under Section 
+14(c) of the Fair Labor Standards Act), or a mutually convenient location in the community such as 
+a library or an individual’s home. Limiting the various avenues to apply for VR services can impose 
+unnecessary barriers and delay the application process or unintentionally discourage some 
+individuals from applying for services.
+
+8 
+ 
+Technical Assistance  
+ 
+• RSA reviewed DVRS’ extensive online referral form and application process with the 
+agency and clarified that the Rehabilitation Act and the VR program regulations (34 C.F.R. 
+§ 361.41(a)) require standards for the prompt and equitable handling of referrals of 
+individuals for VR services, including referrals of individuals made through the one-stop 
+delivery system under Section 121 of WIOA, and that the agency must include timelines for 
+making good faith efforts to inform individuals of application requirements and to gather 
+information necessary to begin an assessment for determining eligibility and priority for 
+services (34 C.F.R. § 361.41(a)).  
+ 
+Recommendations 
+ 
+• RSA recommends that DVRS revise the online referral form to only include essential 
+information needed to contact the individual being referred. Ease and timely engagement of 
+individuals during referral and application are essential at this early stage in the VR process 
+and is best achieved if VR agencies streamline procedures and remove any unnecessary 
+barriers and requirements.  
+• RSA recommends DVRS revise its policies and procedures governing the application 
+process to be consistent with 34 C.F.R. § 361.41(b)(2) for what constitutes the submission of 
+an application and not add additional burden. Specifically, an individual is considered to 
+have applied for VR services: once an individual has completed and signed an application 
+form, has completed a common intake form at a one-stop center, or has otherwise requested 
+services from the VR agency; has provided the agency sufficient information to initiate an 
+assessment to determine eligibility; and is available to complete the assessment process, 
+when necessary.  
+• RSA recommends that DVRS develop methods and approaches to encourage, inform, and 
+inspire the development of strategies for optimizing VR program visibility, easing 
+application and eligibility processes, and recognizing and incentivizing VR program 
+successes and achievements. 
+• RSA recommends that DVRS develop additional and more comprehensive strategies for 
+coordinating referrals across the WIOA programs. Both the WIOA Youth and VR programs 
+may take advantage of the strengths of each other’s program and make cross-agency 
+referrals. For example, VR agencies can refer youth with disabilities, particularly those who 
+are out of school, to the WIOA Youth program for training and work experience services. 
+Likewise, WIOA Youth programs can refer students or out-of-school youth with disabilities 
+to the VR program for pre-employment transition services, as applicable, transition services, 
+and VR services. 
+ 
+ 
+Attrition  
+ 
+Although DVRS reported increasing the number of applicants and eligible individuals in the VR 
+program, a large percentage of individuals are exiting prematurely or without an employment 
+outcome. In PY 2022, 14.96 percent of individuals exited the VR program as an applicant, prior to 
+eligibility determination or trial work experience. During the same period, 15 percent of individuals
+
+9 
+ 
+exited the VR program after an eligibility determination, but prior to an individualized plan for 
+employment (IPE), and the percentage of individuals who exited the program after an IPE without 
+an employment outcome was 37 percent. When reviewing the reported reasons for exit during the 
+period under review, an average of 28 percent of individuals were reported as exiting the program 
+because they were unable to be located or contacted, 24 percent exited because they were no longer 
+interested in receiving VR services, and 11 percent exited for all other reasons, accounting for more 
+than 60 percent of all exits.  
+ 
+DVRS conducts a financial needs assessment of each individual prior to or at the IPE conference to 
+establish how much financial participation, if any, the individual will provide toward the cost of 
+services. While onsite, RSA discussed with DVRS the impact that a financial participation 
+requirement may have on the agency’s attrition due to its burdensome process. Prior to the IPE 
+conference, eligible individuals must provide supporting documentation that includes Social 
+Security number, liquid assets of family, gross family income, extraordinary medical expenses of 
+each family member, and disability related expenses of the individual and family unit, among other 
+items. RSA reviewed portions of its financial policy with DVRS for clarification; however, DVRS 
+was unable to explain the application of its financial policy. RSA suggested that the agency assess 
+whether its financial participation policy is contributing to client attrition through a combination of 
+data analysis, client feedback, and targeted evaluation to identify trends and look for correlations 
+between financial participation requirements and points at which individuals disengage from VR 
+services.  
+ 
+Although DVRS demonstrated timely eligibility determinations (98.5 percent in PY 2022) and 
+timely IPE development (98.6 percent in PY 2022), the attrition rate and reasons for exit may 
+indicate a lack of engagement as well as inadequate or delayed services needed by participants to 
+achieve employment goals. Continuous engagement contributes to the quality of the VR counselor-
+client relationship, improves communication, fosters participation in VR services, and increases the 
+likelihood of successful employment outcomes. High rates of attrition can impact the effectiveness 
+of the VR program and impact DVRS’ ability to expend funds and also pose challenges in 
+accurately assessing the program’s overall success and outcomes. DVRS reported initiating 
+discussions prior to the on-site portion of the review to coordinate training with consultants from the 
+VRTAC-QM directed to field staff, specifically VR counselors, who determine eligibility and 
+initiate services necessary to achieve a successful employment outcome.  
+ 
+Technical Assistance 
+ 
+• RSA and DVRS discussed the need to review agency guidelines to promote and sustain 
+engagement. DVRS’ Case Services Policy Manual, Chapter “IPE Development” indicates 
+there must be a minimum contact made every 60 days for participants in an IPE; however, 
+there is no guidance for the engagement of those individuals prior to the development of an 
+IPE. RSA recommended that DVRS establish a frequency of contact/communication for 
+individuals prior to the development of an IPE to reduce premature exits from the VR 
+program and include the criteria in its quality assurance (QA) case reviews when assessing 
+VR counselor performance.
+
+10 
+ 
+• RSA provided technical assistance related to the accurate reporting of reasons for exit. 
+DVRS is inaccurately reporting individuals who exit the VR program using “all other 
+reasons” when other code values more accurately reflect exit reasons. 
+• RSA provided technical assistance related to RSA-TAC-24-01, Promoting Meaningful and 
+Sustained Engagement of Individuals with Disabilities in the State Vocational Rehabilitation 
+Services Program, which provides information to support State VR agencies in their efforts 
+to make changes that will promote meaningful and sustained engagement with individuals 
+with disabilities throughout the VR process. 
+• RSA reviewed DVRS’ financial participation policy with the agency, and although there is 
+no Federal requirement that the financial need of individuals with disabilities be considered 
+in the provision of VR services (34 C.F.R. §361.54(a)), the New Jersey Administrative Code 
+(NJAC) § 12:45-1.14 requires a financial needs assessment prior to the implementation of 
+VR services. DVRS is considering eliminating its financial needs requirements for 
+participants in the provision of VR services. RSA provided technical assistance to DVRS on 
+conducting a financial analysis of the types of services and amounts paid by participants and 
+consider the long-term sustainability of the decision to eliminate financial participation. 
+DVRS should evaluate whether it can continue to provide quality services without relying 
+on participants’ contributions in the future and ensure that removing financial participation 
+does not inadvertently create other barriers to accessing services or create the need to 
+implement an order of selection. DVRS should seek the input of the SRC, the Client 
+Assistance Program, and other stakeholders when making decisions about revising the 
+statutory requirement to eliminate financial participation. DVRS may wish to consider 
+whether there is flexibility to adjust the financial participation levels or apply financial 
+participation towards specific VR services or equipment rather than eliminating it entirely. 
+ 
+Recommendations 
+ 
+• RSA recommends once DVRS determines appropriate level of communication, the agency 
+should develop procedures and conduct training for its VR counselors that prescribe the 
+frequency of contact/communication for individuals prior to the development of an IPE to 
+reduce premature exits from the VR program and include the criteria in its quality assurance 
+(QA) case reviews when assessing VR counselor performance. 
+• When assessing its performance, DVRS should consider evaluating the reasons for attrition 
+of participants before and after receiving services to determine why this is occurring and 
+identify strategies such as frequent counselor contact and conducting surveys to assess 
+participant satisfaction. RSA recommends that DVRS move forward with requesting 
+technical assistance from the VRTAC-QM in identifying and addressing factors contributing 
+to attrition, and methods to improve engagement and timely delivery of VR services that 
+fully meet the needs of participants to achieve their intended employment outcomes.   
+• Should DVRS move forward with the elimination of the financial needs assessment, it is 
+recommended that DVRS establish mechanisms for monitoring and evaluating the impact of 
+removing the requirement over time, including financial performance and stakeholder 
+satisfaction. RSA supports DVRS’ effort to remove or, at minimum, reduce the impact of its 
+financial needs policy by decreasing the portion its participants would need to contribute 
+towards certain VR services, such as education and training services that would help prepare
+
+11 
+ 
+participants for higher quality employment. RSA recommends that DVRS begin reducing 
+the amount participants would need to contribute for specific VR services while exploring 
+its ability to further reduce or eliminate participants’ contribution as it continues to conduct 
+a thorough financial analysis to understand the agency’s current financial situation and the 
+potential consequences of removing the requirement. 
+• RSA suggested DVRS use existing information to identify the extent that its financial needs 
+policies have reduced the amount of costs paid towards college and university program, 
+technical or other vocational training programs, medical costs, etc. to determine if the 
+elimination or reduction of the specific costs for different service types would be 
+sustainable.
+ 
+ 
+Postsecondary Readiness Assessment 
+ 
+To evaluate an individual’s readiness to complete an educational program, DVRS requires a core 
+academic skills assessment and/or a vocational assessment be completed, and the results must 
+support the student’s ability to succeed in postsecondary training prior to providing financial 
+sponsorship. DVRS’ policy indicates that if a review of school achievement, academic background 
+or placement testing indicates postsecondary education is not a realistic goal, the individual will be 
+required to attend a trial semester/grading period at the individual’s expense. DVRS financial 
+assistance for a subsequent semester/grading period will depend on the progress achieved.   
+ 
+Using assessments and trial semesters to determine whether DVRS will fund postsecondary 
+education for an individual who has already been admitted into a school program, thus 
+demonstrating that the individual meets the institution's standards for academic and vocational 
+potential, represents an unnecessary burden for the individual and agency expenditure. VR agency 
+policies requiring core or vocational assessments as a pre-requisite for supporting participants in 
+postsecondary education, particularly if existing academic performance information and/or 
+acceptance into a postsecondary program or institution exists, may result in an undue delay in 
+services. Additionally, requiring an individual to engage in a trial semester at the individual’s 
+expense also places an undue burden, particularly if the supports needed by the individual to 
+succeed are not provided by the VR agency. Furthermore, through this policy, DVRS may be 
+restricting the participation of individuals with intellectual disabilities to engage in Comprehensive 
+Transition and Postsecondary (CTP) Programs or educational programs designed to address the 
+needs of neurodiverse learners. 
+ 
+Technical Assistance 
+ 
+• RSA provided technical assistance on policies that restrict or place limitations on the type, 
+degree, and costs of support provided to individuals attending both in-State and out-of-State 
+postsecondary Institutions of higher education (IHE), indicating that it can deter 
+opportunities for individuals with disabilities to maximize their employment and careers. In 
+accordance with 34 C.F.R. § 361.50(a), VR agencies must develop and maintain written 
+policies covering the nature and scope of each of the VR services specified in 34 C.F.R. § 
+361.48(b) and the criteria under which each service is provided. While not establishing any 
+arbitrary limits on the nature and scope of VR services to be provided to the individual, the
+
+12 
+ 
+policies must ensure that the provision of services is based on the rehabilitation needs of 
+each individual as identified in that individual's IPE and be consistent with the individual's 
+informed choice.
+ 
+ 
+Recommendations 
+ 
+• RSA recommends that DVRS re-evaluate the circumstances under which an individual is 
+required to complete a core academic skills assessment and a vocational assessment to 
+evaluate an individual’s readiness to complete an educational program. While these 
+assessments can provide insights, they should not be the determining factor of an 
+individual’s readiness for postsecondary education, particularly if an individual has been 
+accepted into a postsecondary program or could benefit from a CTP or a program serving 
+neurodiverse students in pursuit of a vocational goal.  
+• DVRS should eliminate the use of trial semesters when determining the appropriateness for 
+an individual to participate in training or education if the service has been determined 
+necessary to achieve an agreed upon employment goal and the individual has been accepted 
+into a school or training program.  
+ 
+Provision of Services and Effect on Employment Outcomes 
+The RSA review team examined data reported by DVRS to determine how the VR agency is 
+maximizing the provision of VR services leading to quality employment and self-sufficiency for 
+participants with disabilities. In PY 2022, 5,747 individuals exited the VR program. Of these, 1,899 
+individuals exited after an IPE in competitive integrated employment, including supported 
+employment. When comparing the number of individuals who exited the VR program with an 
+employment outcome after receiving services to the total number of individuals who exited after 
+receiving services, DVRS had an employment rate of 47.2 percent in PY 2022, a slight 
+improvement from PY 2021 at 46.1 percent.   
+  
+Prior to the on-site review, DVRS’ Client Assistance Program raised concerns regarding complaints 
+that individual’s employment goals were not mutually determined through collaboration between 
+the individual and their VR counselor and represented limited available options during the 
+development of the IPE. DVRS disagreed with this assertion and maintained individuals are always 
+afforded informed choice throughout the VR process. Nevertheless, according to Case Service 
+Report (RSA-911) data, the top ten most frequent employment outcomes using the Standard 
+Occupational Classification (SOC) titles for the four quarters in PY 2022 primarily consisted of 
+entry-level types of employment, such as production workers, laborers, and customer service 
+representatives, stock and order fillers, and fast-food workers, accounting for 46 to 48 percent of all 
+employment outcomes. DVRS primarily attributed these outcomes to mostly serving individuals 
+with the most significant disabilities and individuals pursuing supported employment.  
+  
+Of the participants in PY 2022 exiting the VR program in competitive integrated employment, 
+including supported employment, 422 participants (22.2 percent) received private health insurance 
+through their employer and an additional 25.8 percent received private insurance through other 
+means at exit. The median hourly wage increased from $12.75 in PY 2020 to $15.00 in PY 2022,
+
+13 
+ 
+surpassing New Jersey’s minimum wage of $14.00 (effective January 2023); however, the median 
+hours worked per week remained constant at 30 hours per week from PY 2020 to PY 2022.   
+  
+In PY 2022, of the 13,535 individuals provided VR services, only five individuals were reported to 
+have received apprenticeship training, down from seven individuals for PY 2020, and no individuals 
+were reported to have received customized training or work-based learning experiences (for adults). 
+In addition, from PY 2020 to PY 2022, the number of customized employment services declined 
+from six individuals to one individual, and on-the-job training opportunities decreased from 210 
+individuals (1.5 percent) to 159 individuals (1.2 percent). DVRS staff acknowledged the importance 
+of developing training opportunities directly with employers to provide unique training for specific 
+skilled and semi-skilled positions that may not be offered through standard training and education 
+programs and often lead to direct employment upon successful completion of training. To maximize 
+training and services, DVRS has developed contracts with approximately 65 community 
+rehabilitation providers (CRPs) to expand service coverage and deliver a variety of employment 
+services to individuals with disabilities who require support to obtain and maintain employment. 
+DVRS has approximately 56 CRPs that are actively providing job placement services, supported 
+employment services, pre-employment transition services and long term follow along (LTFA) 
+services. DVRS had identified the need to increase the number of CRPs who can deliver specialized 
+services, such as Community Based Work Evaluations, Internship Development and Supports, and 
+Customized Employment (CE).   
+  
+While DVRS recognizes the benefits of postsecondary education and training, the agency 
+experienced a steady decline in the number and percentage of participants receiving bachelor’s 
+degree training, junior or community college, and occupational or vocational training programs 
+from PY 2020 to PY 2022. Most notably, when comparing PY 2020 to PY 2022, the number of 
+participants reported in junior or community college decreased by half from 516 participants (3.7 
+percent) to 256 participants (1.9 percent). Similarly, the number of participants who received 
+bachelor’s degree training decreased from 880 participants (6.4 percent) to 717 participants (5.3 
+percent), and those who attended an occupational or vocational training program decreased from 
+210 participants (1.5 percent) to 159 participants (1.2 percent) during the same period. However, the 
+number of individuals receiving graduate degree training increased from 44 participants to 66 
+participants. DVRS suggested the RSA-911 data it reported to RSA are inaccurate due to non-
+reporting of some postsecondary training services paid through comparable services and benefits or 
+another source, such as Pell grants, scholarships, and self-payments.   
+ 
+In PY 2022, DVRS reported 1,499 individuals (11.1 percent) received supported employment 
+services, a slight increase from 1,473 (10.7 percent) and 1,371 (10.6 percent) in PY 2020 and PY 
+2021, respectively. No extended services for youth with the most significant disabilities were 
+reported for the period under review. DVRS categorized slightly more than 90 percent of eligible 
+individuals as most significantly disabled and at least 40 percent of participants with an approved 
+IPE required supported employment services. DVRS suggested that these data may not be accurate 
+due to an issue with its case management system (CMS) that classifies individuals receiving job 
+search and job coaching as supported employment cases.
+
+14 
+ 
+ Technical Assistance   
+ 
+• RSA and DVRS discussed strategies DVRS can use to maximize the use of funds to provide 
+services that will strengthen quality employment outcomes through investments in 
+postsecondary training. Postsecondary training services also assist individuals with 
+obtaining both measurable skill gains (MSG) and credentials. To support attainment of a 
+postsecondary credential, DVRS could provide a higher level of support for graduate-level 
+education, as appropriate for the individual, if necessary to achieve the advancement in 
+employment specified in the vocational goal on the individual’s approved IPE or when such 
+advanced career and technical training is required to compete for STEM careers, green 
+industries, critical infrastructure fields, and other expanding industries. 
+ 
+• RSA clarified that in accordance with 34 C.F.R. § 361.5(c)(34), maintenance can be 
+provided to an individual for expenses, such as food, shelter and clothing, that are in excess 
+of the normal expenses of the individual and that are necessitated by the individual’s 
+participation in an assessment for determining eligibility and vocational rehabilitation (VR) 
+needs or the individual’s receipt of VR services under an IPE. 
+ 
+• RSA also clarified that as defined in 34 C.F.R. § 361.5(c)(56), transportation means travel 
+and related expenses that are necessary to enable an applicant or eligible individual to 
+participate in a vocational rehabilitation service, including expenses for training in the use of 
+public transportation vehicles and systems. 
+ 
+• RSA provided technical assistance to DVRS on the definition of supported employment and 
+supported employment services as defined in 34 C.F.R. § 361.5(c)(53) and (54) and as 
+outlined in 34 C.F.R. part 363, clarifying that not all cases requiring job search, job 
+development and job coaching services are supported employment cases. Supported 
+employment services are for individuals with the most significant disabilities, who because 
+of the nature of their disabilities need intensive supported employment services. 
+ 
+  
+Recommendations 
+ 
+• DVRS should examine potential barriers to VR program participants' pursuing training 
+services leading to quality employment outcomes in credentialed fields or career 
+advancement such as policies involving financial needs assessment and required cost 
+participation, statewide availability of services and CRPs, including approved rates, to meet 
+specialized training needs, and pre-requisites for participation in postsecondary training.  
+• RSA recommends that DVRS provide staff training on the appropriate use of maintenance 
+and transportation services consistent with 34 C.F.R. § 361.5(c)(34) and (56). By providing 
+support services such as transportation and maintenance, DVRS can increase successful 
+participation for assessments and deliver the supports necessary for an individual to continue 
+pursuing and completing the VR program without interruption. 
+ 
+• RSA recommends that DVRS provide training to its staff related to the definitions of 
+“supported employment” and “supported employment services” to include appropriate 
+identification of supported employment goals on the IPE and coding of supported 
+employment services on the IPE and the case closure page in the case management system. 
+DVRS should ensure that its case management system is updated to appropriately identify 
+and designate only applicable cases as being supported employment. RSA also recommends
+
+15 
+ 
+that DVRS ensure a referral for supported employment is appropriate and meets the 
+definition as having a most significant disability and related impediments to employment 
+that require a high level of intervention and long-term support.
+ 
+• To increase the quality of employment outcomes for individuals with disabilities, RSA 
+recommends that DVRS promote opportunities for work-based learning experiences and 
+support eligible individuals in pre-apprenticeships and registered apprenticeships. 
+ 
+• DVRS should identify emerging occupations that provide options for individuals with 
+disabilities to achieve high quality employment opportunities, including individuals with the 
+most significant disabilities and develop opportunities with the employers that are mutually 
+beneficial, such as on-the-job training (OJT), paid or unpaid internships and customized 
+training programs that also would meet the employer’s needs.  
+ 
+ 
+Inaccurate Reporting and Insufficient Provision of Pre-Employment Transition Services 
+Pre-employment transition services must be made available statewide to students with disabilities. 
+When low numbers of students are being served coupled with inaccurate reporting and tracking of 
+those who are being served either through DVRS staff or providers, the VR agency’s performance 
+in meeting the 15 percent reserve requirement and the provision of pre-employment transition 
+services results in poor performance and the need for corrective actions.  
+DVRS provides pre-employment transition services through a combination of its staff and 
+community providers to both eligible and potentially eligible students with disabilities aged 14 
+through 21 across New Jersey’s 21 counties. The total number of students with disabilities reported 
+by DVRS more than doubled from PY 2020 to PY 2022 (2,221 to 4,825 students). However, 
+according to the U.S. Department of Education OSERS PY 2022 data, the number of students who 
+receive services through IDEA-Part B in New Jersey was approximately 80,000 students aged 14 to 
+21 years. Thus, DVRS reported serving only about two percent of the students eligible to receive 
+pre-employment transition services. The number of students with disabilities who received pre-
+employment transition services doubled from PY 2020 to PY 2022, from 589 students to 1,176. 
+However, the percentage of students with disabilities reported who received pre-employment 
+transition services slightly decreased during the same period, from 26.5 percent to 24.4 percent. The 
+majority of students who received pre-employment transition services were potentially eligible for 
+services with 38 percent of students with disabilities applying for VR services. 
+DVRS primarily provides pre-employment transition services through its fee-for-service agreements 
+using both milestone payments and hourly rates for different providers. DVRS identified 
+approximately 35 CRPs that provide all five required activities across the State and continues 
+efforts to expand the number of providers for pre-employment transition services, particularly in 
+rural parts of the State to ensure access for all students eligible and potentially eligible for services. 
+To meet the required 15 percent reservation of Federal VR funds for pre-employment transition 
+services, DVRS has increased its efforts and resources to expand services and now has two part-
+time program managers to identify students with disabilities who could benefit from services.  
+DVRS also reported providing the five required pre-employment transition services through its VR 
+counselors. During its interviews with VR counselors RSA learned that most of the counselors do 
+not provide all five required activities; rather, they provide a few, such as counseling on
+
+16 
+ 
+postsecondary education opportunities and job exploration counseling. They rely on area providers 
+to offer workplace readiness, self-advocacy and work-based learning activities. However, other VR 
+counselors indicated providing all five activities directly to the students. DVRS requires its staff to 
+identify the time allocated for the provision of required and coordination pre-employment transition 
+activities through the agency’s electronic timekeeping system though DVRS did not report any 
+staff-provided pre-employment transition services during the time of the review. DVRS 
+acknowledged VR counselors were told to include case notes when providing services to students 
+and did not recognize the need to develop service authorizations for the RSA-911 reporting 
+purposes. DVRS has failed to accurately report pre-employment transition services provided to 
+students with disabilities by both its staff and contracted providers. In general, VR counselors 
+reported having little time to provide pre-employment transition services and they rely primarily on 
+service providers, including Centers for Independent Living, to provide these services and would 
+like to see additional providers approved to increase options for the students.  
+DVRS reported making changes in PY 2022 to increase available resources and prioritized its 
+efforts to increase the VR counselor’s focus to identify students with disabilities and expand the 
+provision of services. Prior to the monitoring review, RSA issued DVRS its annual review finding, 
+in accordance with section 107 of the Rehabilitation Act, identifying the State was out of 
+compliance for failing to meet the 15 percent reserve requirement for FFY 2021 and  FFY 2022, 
+reporting 6.4 percent and 10.0 percent, respectively, despite the New Jersey Commission for the 
+Blind and Visually Impaired (CBVI) meeting or exceeding 15 percent for both fiscal years. As a 
+result, DVRS developed a corrective action plan requiring the agency to develop and implement a 
+plan to expend no less than 15 percent of its Federal VR award no later than the end of the 
+carryover year for FFY 2023 (September 30, 2024). 
+Technical Assistance 
+ 
+• RSA reviewed DVRS’ policies and procedures related to pre-employment transition services 
+and provided technical assistance to assist DVRS in identifying the root causes of its 
+inability to meet the required 15 percent reservation of Federal VR funds for pre-
+employment transition services reserve. RSA acknowledged the staffing shortages and 
+assisted the agency in addressing these and developing and implementing internal controls 
+that provide ongoing monitoring of pre-employment transition services and expenditures.  
+• DVRS has 20 contracts that provide pre-employment transition services, primarily focused 
+on internships (WBLEs) with students with disabilities that provide $100 checks for 
+participation in activities in addition to paying students $18 per hour for WBLEs for 150 
+hours. RSA clarified that DVRS must cease the payment of the $100 participation stipends 
+and only reimburse students for actual costs for transportation and applicable maintenance 
+costs incurred when the student has been determined eligible for VR services and is under an 
+IPE.
+ 
+ 
+Recommendations 
+ 
+• RSA recommends DVRS revise its fee schedule and streamline the number of different 
+options used for all providers. During the review, RSA noted the use of hourly fees, along
+
+17 
+ 
+with group hourly fees that were based on a minimum number of students and sessions. For 
+example, one DVRS Memo issued milestone payments for a minimum of six and maximum 
+of eight students to achieve each milestone and to consist of 12 or 16 sessions for each 
+required activity. This option did not include how a session should be handled if less than 
+six students were in attendance for one or more of the minimum sessions provided or 
+whether rates could be prorated. Other milestone payments included one to six sessions, 
+seven to 12 sessions, 13 to 16 sessions, but still required six to eight students and did not 
+account for some students missing one or more of the sessions. RSA recommends that a 
+uniform fee be used for all five required activities and group rates are adjusted for group 
+services to make invoicing and tracking easier for providers.   
+ 
+Effects of Inadequate Internal Controls on Performance 
+VR agencies must implement policies and procedures that ensure the proper and efficient 
+administration of the VR program, including those necessary to carry out all functions for which the 
+State is responsible under the program. These methods must include procedures to ensure accurate 
+data collection and financial accountability. It is incumbent on VR agencies to establish policies and 
+procedures that ensure the accurate collection, retention, and timely reporting of all data. The 
+requirements in 34 C.F.R. § 361.47 and 34 C.F.R. § 361.56, taken together, also require VR 
+agencies to maintain supporting documentation in an individual’s case file, particularly regarding 
+eligibility determinations, development of the IPE, VR services provided, and case closure. 
+Furthermore, on December 19, 2018, the U.S. Department of Labor and the U.S. Department of 
+Education (Departments) issued joint guidance titled, “Guidance for Validating Jointly Required 
+Performance Data Submitted under WIOA” (RSA-TAC-19-01). This guidance provides States with 
+a general framework for data validation. Specifically, the Departments developed the joint guidance 
+pursuant to Section 116(d)(5) of WIOA, which requires the Departments to establish data validation 
+guidelines to ensure the information contained in program reports is valid and reliable. Lastly, VR 
+agencies must remember that compliance with RSA’s edit checks is but one component of the VR 
+agency’s internal controls system necessary to ensure the integrity of RSA-911 data. VR agencies 
+should not imply the correctness or completeness of data submissions from compliance with the 
+RSA’s edit checks alone. 
+Inaccurate Service Reporting 
+The DVRS case management system requires updates and modification to allow for accurate and 
+complete recording of VR services, in accordance with statutory requirements. The user interface 
+should allow counselors and support staff to specify and record the full range of VR services, 
+whether the service is provided through a contract, purchased via a fee-for-service arrangement, 
+obtained through a comparable benefit, or if VR staff themselves provided the service. Furthermore, 
+maintenance is required on the system’s back-end reporting mechanisms to accurately sort and 
+characterize system values and nomenclature into those defined by the RSA-911. DVRS would 
+benefit from enhancing agency roles and functions aimed at identifying and correcting these issues 
+in an ongoing manner. 
+When reviewing Table 4, DVRS leadership acknowledged that service reporting as reflected on the 
+RSA-911 was quite different than what was expected. Numerous reporting categories were entirely
+
+18 
+ 
+blank or much lower than anticipated. Blank service categories over the three-year review period 
+included commonly provided VR services, such as job search assistance, job placement assistance, 
+short-term job supports, information and referral services, extended services for youth, and work-
+based learning experiences. Service categories minimally reported included transportation, 
+maintenance, diagnosis and treatment of impairments, and interpreter services. DVRS also 
+acknowledge that other services reported were, in fact, reported incorrectly, including bachelor’s 
+degree, junior or community college and occupational or vocational training services, due to the 
+agency not reporting services provided through comparable benefits. In addition, DVRS failed to 
+capture VR and pre-employment transition services provided through its staff or through its 
+contracts. DVRS leadership acknowledges the only pre-employment transition services reliably 
+reported are those purchased through a fee-for-service arrangement. DVRS also acknowledged 
+inaccurate reporting of supported employment services. With about 40 percent of all participants 
+having supported employment indicated on the IPE, the agency reported between 10 and 11 percent 
+of its participants received supported employment services during the review period, per RSA-911 
+reporting. Agency leadership expressed some confidence in the percentage of supported 
+employment plans in the caseload and suggested that some supported employment activities are not 
+being reported accurately when funded through another provider. DVRS further indicated that the 
+reported data includes any type of job search, job development, and short-term job support services 
+because the agency considers these services to be supported employment services.   
+In addition to failing to report the services mentioned above, DVRS acknowledged that it recently 
+found that some reported services may have been mischaracterized and that it incorrectly reported 
+other VR service data elements on the RSA-911. For example, when an eligible individual requires 
+transportation or maintenance to participate in an assessment or a training service, the service (e.g., 
+transportation) may have been characterized as an assessment or training service. Another example 
+recently investigated by the agency is the classification of paid internships as registered 
+apprenticeships, as opposed to work-based learning experiences. These mischaracterizations and 
+grouping of services further obscure DVRS’s actual performance. Without an accurate 
+understanding of the services it provides, DVRS cannot determine what services have been 
+beneficial for participants in terms of achieving employment and the actual cost of each service 
+type. 
+A strong system of internal controls would include the capacity to catch and correct these issues 
+before inaccurate reporting persists. To correct systemic errors and omissions in the reporting of 
+services provided, DVRS will need to address known issues, such as the reporting of staff provided 
+services and comparable benefits, and strengthen ongoing processes for program evaluation, 
+enabling the agency to identify, prioritize, and correct these issues as they occur.  
+Insufficient Data Validation and Quality Assurance 
+DVRS lacks adequate internal control roles and functions that would validate key elements of 
+casework that are reported through the RSA-911. As a result, DVRS cannot provide reasonable 
+assurances that the data reported through the RSA-911 are accurate and supported. While DVRS 
+has some elements of internal controls in place, it was apparent during the review that the agency 
+lacks an effective system of managerial checks on compliance and the validation of reported data.
+
+19 
+ 
+RSA determined functions related to program evaluation and quality assurance were under-staffed, 
+under-resourced, and not well defined, creating lapses in the internal control processes.  
+DVRS has a quality assurance manager in place and has developed a quality assurance tool within 
+its case management system. However, this tool has only been used once since its development in 
+2019 and has not been documented within agency policy and procedures, nor has it been 
+operationalized within job roles or responsibilities. Furthermore, DVRS does not engage in topic-
+focused/ad hoc case reviews of any kind. For example, DVRS has not yet conducted a review of 
+agency documentation provided in support of education enrollment when determining measurable 
+skill gains (MSG) earned or credentials attained. While DVRS relies upon supervisors to review 
+casework on an ongoing basis, there appeared to be no centralized evaluation criteria regarding 
+casework expectations. Supervisory oversight regarding casework did not focus on expectations for 
+production, timeliness, the scrutiny of authorizations, and the review of IPEs. Once supervisory 
+reviews are completed, the results of the reviews are not aggregated or analyzed for patterns that 
+would inform agency training development. 
+During the onsite review of case records, RSA reviewed ten case service records randomly chosen 
+based on the attainment of one or more MSG during PY 2022. Of the ten service records reviewed, 
+only three of 10 of the service records contained adequate supporting documentation. DVRS 
+management informed RSA it developed training to address the agency’s low performance in MSG. 
+While it does appear that this training had a positive effect (the agency improved from 11.5 percent 
+to 56.1 percent in its MSG Rate) it appears that the changes applied to coding cases affirmatively 
+but did not necessarily verify the presence of supporting documentation. Several other cases 
+reported to RSA with credential attainments were also problematic and lacked documentation of 
+diplomas or certificates. DVRS was informed during the review that educational enrollment data 
+reported by the agency present as an outlier among agencies. This is apparent when comparing 
+RSA’s quarterly dashboard to end of year outcomes for credential attainment. For most agencies, 
+quarterly progress on the credential attainment measure will closely match end of year calculations 
+when the program year is complete. This is not the case for DVRS and suggests that the agency may 
+be reporting data elements 78, 84, 400, or perhaps others, in a manner that is inconsistent with 
+requirements, or perhaps changed often throughout the life of the case. With WIOA performance 
+assessments entering their seventh year, agencies must have the capacity to accurately report data 
+that determine performance after reviewing the veracity of their data and ensuring that the data are 
+accompanied by supporting documentation when necessary. The agency should advise staff when 
+data are not accurate and how to avoid future errors.  
+Comprehensive, Coordinated System of Internal Controls 
+DVRS has not yet developed a comprehensive set of policies and procedures that operationalize and 
+document its internal control functions for data collection, validation, and reporting. The goal of 
+articulating the agency’s various approaches to internal control is that roles and responsibilities are 
+then clearly defined, and expectations broadly communicated. The responsibilities of producing 
+valid and reliable information are thereby shared across the organization. While DVRS is not 
+without certain components of a system of internal controls, it has yet to organize these components 
+into a well-functioning system. Existing components DVRS had in place at the time of the review 
+included the following:
+
+20 
+ 
+• System controls and protocols that designate roles and functions within the case 
+management system. These controls allow management to limit access to case details to 
+those who are assigned in primary or support roles. Role based assignments also limit what 
+actions individuals may take within a case.  
+• Through its case management system, DVRS enacts a range of software business rules that 
+are aimed at preventing anomalous, incomplete, or illogical data entries. Software restricts 
+editing of certain records and places limits upon backdating.  
+• DVRS has a documented procedure for acquiring Unemployment Insurance and State Wage 
+Interchange System data.  
+• DVRS has assigned roles and responsibilities for RSA-911 reporting and maintaining 
+compliance with the RSA-911 edit check, yet it has not documented the procedure.  
+• DVRS has reports and layouts within the case management system and has used these to 
+manage and resolve a portion of its prior Corrective Action Plan, such as statutory timeline 
+for eligibility and the development of IPEs.  
+ 
+Technical Assistance 
+ 
+• RSA clarified the requirements for the reporting of MSGs and Credentials as supported by 
+appropriate documentation at the time credential or gain was achieved. RSA further 
+requested DVRS develop training to ensure all field staff are aware of this requirement, what 
+is appropriate documentation and what would not be considered appropriate.  
+• RSA provided DVRS guidance regarding the inaccuracy of the services provided and 
+reported to RSA through the RSA-911 report despite the availability of these tables for 
+several years. DVRS, at a minimum, should review the data tables and other reports it can 
+generate to cross check its data across different regions, field offices, and statewide.  
+• RSA provided extensive guidance involving missing data from post-exit reports that must be 
+addressed immediately to improve its performance on its performance indicators.  
+• RSA clarified the case management system used by DVRS requires maintenance on the 
+system’s back-end reporting mechanisms to accurately sort and characterize system values 
+and nomenclature into those prescribed within the RSA-911. 
+• RSA clarified DVRS lacks structured internal control roles and functions that would validate 
+key elements of casework that is reported through the RSA-911. As a result, DVRS cannot 
+provide reasonable assurances that the data reported through the RSA-911 is accurate and 
+supported. 
+ 
+Recommendations 
+ 
+• RSA recommends that DVRS develop and implement a functioning system of quality 
+assurance, including case reviews. This would provide DVRS the means of discovering data 
+quality or validity issues before data has been reported to RSA.   
+• DVRS should further enhance its reporting capabilities and implement the necessary 
+reporting tools in a proactive manner to diagnose and address deficiencies. 
+• DVRS should develop program evaluation roles and functions that would use agency 
+reporting to examine areas of potential risk and weakness.
+
+21 
+ 
+• DVRS should develop a comprehensive internal controls process that enables the agency to 
+review reports at a micro level and through a macro level using aggregated data and unique 
+and targeted areas of the State   for data collection, validation, and reporting, and identify 
+training topics.  
+C. Findings and Corrective Actions 
+RSA’s review of the performance of DVRS identified the following finding and the corresponding 
+corrective actions regarding non-compliance with Federal requirements within the scope of this 
+targeted focus area. Within 45 days of issuance of the final monitoring report, DVRS will submit to 
+RSA for approval a corrective action plan (CAP), including specific action steps, timelines, and 
+evidence to demonstrate resolution of the finding. If DVRS fails to take the necessary corrective 
+actions specified in the approved CAP, RSA reserves the right to take additional enforcement 
+actions pursuant to 34 C.F.R. Part 81 and 2 C.F.R. § 200.339. 
+ 
+Finding 2.1 Deficiencies in the Management of the Federal Award 
+ 
+Issue: Did DVRS maintain effective internal controls over the Federal award to provide a 
+reasonable assurance that it was managing the Federal award in compliance with Federal statutes, 
+regulations, and the terms and conditions of the award in accordance with 2 C.F.R. § 200.303 and 
+the requirements at 34 C.F.R. § 361.40(a). 
+ 
+Requirement: Pursuant to 2 C.F.R. § 200.303, VR agencies are required to develop internal control 
+processes to provide reasonable assurances regarding the effectiveness and efficiency of operations, 
+reliability of reporting for internal and external use, and implemented as a measure of checks and 
+balances to ensure proper expenditure of funds, including the evaluation, and monitoring of 
+compliance with statutes, regulations, and the terms and conditions of Federal awards. Furthermore, 
+a State VR agency must assure, in the VR services portion of the Unified or Combined State Plan, 
+that it will employ methods of administration that ensure the proper and efficient administration of 
+the VR program. Additionally, 2 C.F.R. § 200.303 requires, among other things, a non-Federal 
+entity to— 
+  
+• Establish and maintain effective internal control over the Federal award that provides 
+reasonable assurance that the non-Federal entity is managing the Federal award in 
+compliance with Federal statutes, regulations, and the terms and conditions of the Federal 
+award. These internal controls should follow guidance in Standards for Internal Control in 
+the Federal Government issued by the Comptroller General of the United States and the 
+Internal Control-Integrated Framework, issued by the Committee of Sponsoring 
+Organizations of the Treadway Commission;  
+• Comply with Federal statutes, regulations, and the terms and conditions of the Federal 
+awards;  
+• Evaluate and monitor the non-Federal entity’s compliance with statutes, regulations, and the 
+terms and conditions of Federal awards; and  
+• Take prompt action when instances of noncompliance are identified, including 
+noncompliance identified in audit findings.
+
+22 
+ 
+ 
+An internal control deficiency exists when the design or operation of a control does not allow 
+management or employees, in the normal course of performing their assigned functions, to prevent 
+or correct processes that might lead to noncompliance with Federal and State requirements.  
+ 
+Pursuant to 34 C.F.R. § 361.47(a), VR agencies must maintain for each applicant and eligible 
+individual a record of services that includes, to the extent pertinent, documentation including, but 
+not limited to, the individual’s application for VR services, the individual’s IPE, and information 
+related to closing the service record of an individual who achieves an employment outcome. The 
+record of service must allow for accurate and timely data reports pursuant to 34 C.F.R. § 361.40 and 
+meet the performance accountability provisions described in Section 116(b) of WIOA. 
+ 
+Analysis: As detailed above in the discussion of factors influencing performance, RSA’s 
+examination of DVRS’ internal controls for data collection and reporting found many areas to be 
+incomplete or lacking altogether. For example, DVRS’s continued failure to implement a structured 
+case review process limits the agency’s ability to detect instances of non-compliance, particularly 
+with respect to the verification of supporting documentation. The lack of verification efforts was 
+evident when RSA reviewed cases reported to have achieved measurable skill gains and/or 
+credentials. Furthermore, through the review, RSA made DVRS aware of several areas of service 
+reporting that were either absent altogether or missing entire categories of served individuals. A 
+functioning system of internal controls would be capable of detecting, and acting upon, non-
+compliance with supporting documentation and missing accounts of agency activity. While DVRS 
+maintains some components of an internal control system for data collection and reporting, lacking 
+features, such as ongoing quality assurance and administrative oversight through program 
+evaluation, are clearly contributing to factual inaccuracies and omissions in Federal reporting.  
+     
+Conclusion: RSA determined that, at the time of the review, DVRS had not established and 
+maintained effective internal control over its Federal award that provided reasonable assurance that 
+the non-Federal entity was managing the Federal award in compliance with Federal statutes, 
+regulations, and the terms and conditions of the Federal award. RSA determined that DVRS’ 
+internal controls did not ensure the reporting requirements specified in 34 C.F.R. § 361.40, which 
+requires the VR agency to submit reports, including reports required under sections 13, 14, and 
+101(a)(10) of the Rehabilitation Act, in the form and level of detail and at the time required by the 
+Secretary regarding applicants for and eligible individuals receiving services in a manner that 
+provides a complete count (other than the information obtained through sampling consistent with 
+Section 101(a)(10)(E) of the Rehabilitation Act) of the applicants and eligible individuals to permit 
+the greatest possible cross-classification of data; and protect the confidentiality of the identity of 
+each individual. In addition, the designated State agency must comply with any requirements 
+necessary to ensure the accuracy and verification of those reports, pursuant to the requirements 
+described at RSA PD-19-03. Because DVRS is not accurately collecting or reporting data related to 
+measurable skill gains and credentials, and under-reporting counseling and guidance, information 
+and referral, and services delivered through comparable benefits, DVRS has not met the 
+requirements set forth in 34 C.F.R. § 361.40 and is not in compliance with the requirements at 2 
+C.F.R. § 200.303.
+
+23 
+ 
+Corrective Action 2.1 RSA requires that DVRS— 
+  
+2.1.1  Implement methods for the accurate collection and reporting of measurable skill gains and 
+credential data, counseling and guidance and information and referral services, and all VR 
+services delivered by agency staff and through comparable benefits in its policies and case 
+management system to ensure that the provisions of 34 C.F.R. § 361.40 and DCL 23-04 for 
+the accurate reporting of data are met; and 
+ 
+2.1.2  Conduct staff training on revised policies related to the collection and reporting of 
+measurable skill gains and credential data, counseling and guidance, and information and 
+referral services, and all VR services delivered by agency staff and through comparable 
+benefits and conduct case reviews to ensure accurate reporting of this data on the RSA-911. 
+ 
+VR Agency Response:   
+DVRS Response 2.1.1: DVRS accepts the findings and the requirements outlined in Corrective 
+Action 2.1.1. DVRS is committed to implementing system and data collection methods to promote 
+accurate reporting of measurable skill gains and credential attainment, counseling and guidance, and 
+information and referral services, and all VR services delivered by agency staff and through 
+comparable benefits. Revisions to the policies and updates to case management system will promote 
+data accuracy and reporting and ensure compliance with the provisions of 34 C.F.R. § 361.40 and 
+DCL 23-04. 
+DVRS Response 2.1.2: DVRS accepts the proposed corrective action in 2.1.2. DVRS will conduct 
+staff training on the revised policies related to the collection and reporting of measurable skill gains 
+and credential data, counseling and guidance, and information and referral services, and all VR 
+services delivered by agency staff and through comparable benefits. Furthermore, DVRS is 
+committed to routinely implementing case reviews to ensure accurate reporting of the data on the 
+RSA-911 and compliance with Federal requirements. 
+ 
+VR Agency Request for Technical Assistance: DVRS requests continued technical assistance to 
+support the enhancement of data collection procedures and systems, training to enhance staff 
+capacity in supporting ongoing reporting accuracy and the full implementation of comprehensive 
+and sustainable case review processes.
+
+24 
+ 
+SECTION 3: FOCUS AREA – FINANCIAL MANAGEMENT OF THE STATE 
+VOCATIONAL REHABILITATION SERVICES AND STATE SUPPORTED 
+EMPLOYMENT SERVICES PROGRAMS  
+A. PURPOSE 
+Through this focus area RSA assessed the financial management and fiscal accountability of the VR 
+and Supported Employment programs to ensure that: funds were being used only for intended 
+purposes; there were sound internal controls and reliable reporting systems; that available resources 
+were maximized for program needs; and funds supported the achievement of competitive integrated 
+employment for individuals with disabilities, including those with the most significant disabilities, 
+and the needs of students with disabilities for pre-employment transition services.  
+B. SCOPE OF FINANCIAL MANAGEMENT REVIEW AND PERFORMANCE   
+    ANALYSIS 
+The effective and efficient fiscal administration of the VR and Supported Employment programs is 
+essential to the ability of a VR agency to maximize the funds available for attainment of 
+employment outcomes for individuals with disabilities. RSA reviewed components of DVRS’ 
+financial management system and assessed the fiscal accountability of the programs to—  
+• Ensure funds are obligated and expended in accordance with State and Federal requirements 
+and used only for allowable purposes;  
+• Ensure programs have sound internal controls and reliable reporting systems;  
+• Identify needed improvements in fiscal policy, processes, and procedures to maximize the 
+use of Federal funds to benefit VR participants and students with disabilities; and  
+• Ensure a relative benefit to the VR system is proportional to the expenditure (e.g., contracts, 
+one-stops, indirect cost rates, cost allocation plans, etc.). 
+RSA reviewed the use and expenditure of Federal funds to assist DVRS in minimizing the return of 
+funds for reallotment and/or the return of unused funds at the end of the period of performance for 
+the award. Therefore, the scope of this focus area is primarily on the financial management and 
+operations that impact the use of or return of Federal funds. 
+During FFYs 2018 through 2023, DVRS’ VR formula award increased from $48,645,642 to 
+$56,013,181, representing a 15.1 percent increase in Federal VR funds. Over the same period, 
+DVRS provided a steady increase of non-Federal funds to match the increase in the Federal award. 
+However, the amount of matched Federal VR award funds that DVRS expended, expressed as a 
+percentage of the VR formula award, varied over the period. DVRS expended 93.1 percent of its 
+FFY 2019 VR formula award but did not spend $3,414,362 of matched VR award funds that were 
+returned at grant closeout. DVRS expended a low of 41.2 percent of its FFY 2020 VR formula 
+award, allowing $29,441,044 of unused matched funds to return at grant closeout. DVRS expended 
+90.3 percent of its FFY 2022 VR formula award, relinquishing $5,000,000 through the reallotment 
+process. Overall, the available Federal VR formula award and non-Federal share steadily increased 
+since FFY 2018, but the amount of matched VR funds DVRS expended was inconsistent and
+
+25 
+ 
+Federal resources went unused by the agency, including a total $32,857,300.59 of unused matched 
+funds during FFYs 2019 through 2022. 
+Purchased VR services represent a significant portion of DVRS’ grant award expenditures. RSA 
+learned during the review that DVRS implements budgets for each of the VR field offices. RSA and 
+DVRS discussed the efficacy of managing costs in such a manner, and RSA recommended DVRS 
+review the process to determine if administrative efficiencies or burdens result from the practice, 
+and to consider revising the process as appropriate.   
+During the review, RSA noted a sharp decline in program income earned by DVRS in FFY 2022. 
+Further discussion with NJLWD and DVRS staff indicated that because of staff turnover, there were 
+no individuals responsible for tracking and submitting cost reimbursements to the Social Security 
+Administration during that time. However, NJLWD fiscal staff discovered a windfall of program 
+income received by the agency in March and April 2023, amounting to $3,563,433. RSA worked 
+with the agency to ensure prompt disbursement and reporting of the program income subsequent to 
+the on-site visit.  
+RSA reviewed the following areas related to financial management and accountability. 
+Period of Performance  
+Period of performance is the time during which the non-Federal entity (grantee) may incur new 
+obligations to carry out the work authorized under the Federal award (2 C.F.R. § 200.1). To 
+accurately account for Federal and non-Federal funds, the VR agency must ensure that allowable 
+non-Federal and Federal obligations and expenditures are assigned to the correct Federal fiscal year 
+award. RSA uses the financial information reported by the grantee to determine each VR agency’s 
+compliance with fiscal requirements (e.g., carryover, reservation of funds, matching, maintenance 
+of effort, etc.).  
+ 
+The RSA review team assessed DVRS’ performance in meeting the period of performance 
+requirements related to the proper assignment of obligations and expenditures to the correct grant 
+awards and fund sources.  
+ 
+DVRS and NJLWD described the systems used in managing period of performance. DVRS’ CMS 
+includes fund source coding related to Federal awards and cost objectives, including VR (01), the 
+pre-employment transition services reserve (13), and the Supported Employment awards, Supported 
+Employment-A (SE-A) award (06), and Supported Employment-B (SE-B) award (07). New Jersey 
+staff confirmed non-Federal funds are not typically used for CMS obligations. In the field, VR 
+counselors use authorization input forms to identify data, including a fund source, that the data entry 
+operator (DEO) enters into the CMS. An authorization and invoice (A&I) document (authorization) 
+is generated in PDF form. The binding written commitment identifying the date of obligation occurs 
+when the VR counselor signs the printed authorization.  
+ 
+The CMS defaults the authorization fund source selected by the VR counselor to the current FFY of 
+appropriation and includes an authorization end date of September 30 of the same year. The 
+authorization doubles as the invoice, signed by the CRPs and vendors, which is sent back to field
+
+26 
+ 
+offices for payment processing review. When the authorization is returned to the VR counselor at 
+the completion of the service, the counselor will ensure the file contains sufficient written 
+documentation that the service has been provided. Documentation may include reports, contracts, 
+receipts, etc. The VR counselor then signs the document to certify approval for payment. The DEO 
+uses the information to prepare a final payoff selection. NJLWD finance and accounting (F&A) 
+staff retrieve imported batch payments ready for processing from the financial module. Final payoff 
+is sent by the New Jersey Department of Treasury (NJ Treasury) and the payment is created in the 
+New Jersey Comprehensive Financial System (NJ CFS). The payment data are recorded in both NJ 
+CFS and the CMS. With an authorization end date of September 30, or due to cancellations of 
+authorizations, DVRS indicated in rare instances an authorization may be cancelled but services 
+begun. However, a new authorization may be generated in a subsequent period of performance with 
+funds not available when the original authorization and services occurred. RSA stressed that the 
+obligation, services, and fund source availability must always coincide with the same period of 
+performance. Consistent with the findings described below, DVRS must review its authorization 
+management process to ensure period of performance requirements are met in all circumstances.  
+ 
+During the on-site review, RSA learned of several limitations in the various New Jersey systems 
+that create challenges in managing the VR and other Federal programs. While the NJ Treasury 
+provides budget authority for DVRS/NJLWD to initially use advanced State funds to pay invoices, 
+etc., the budget authority is based on each grant award notification (GAN) the State receives. 
+During FFYs with multiple continuing resolutions (CRs), since budget authority is limited to each 
+GAN issued by RSA, NJLWD’s F&A staff must create a Federal Module (FM) document in NJ 
+CFS for each GAN and increase budget authority each time until the final GAN is received. The 
+FM is reviewed and approved by NJ Treasury before the budget authority to use the State funds are 
+available in NJ CFS.  
+ 
+Neither State funds nor carryover fund sources are used consistently within the CMS, and these 
+funds are typically spent down via chargebacks at the NJLWD (DSA) F&A office level. Due to the 
+assignment of fund source in the CMS to the FFY of appropriation, the fund source in the NJ CFS 
+general ledger also identifies the fund source as the FFY of appropriation award. While NJLWD 
+F&A staff can “apply” other funds such as carryover year funds or non-Federal funds through a 
+User Agency Payment Voucher (UA) document, to move funds around at high levels, it will not 
+change the default accounting fund source for transactions in the general ledger. This affects New 
+Jersey’s ability to effectively manage carryover, non-Federal share and the Federal awards with 
+respect to aligning the accounting records with the Federal financial date reported to RSA.  
+ 
+RSA further learned NJLWD is not permitted to employ accounting adjustments such as journal 
+vouchers, which are only permitted by NJ Treasury. Therefore, the transactions will always reflect 
+FFY of appropriation Federal funds. Additionally, since NJ Treasury provides budget authority to 
+use State funds advanced to the agency to pay for initial transactions, despite the coding in NJ CFS, 
+at some point F&A must draw down Federal award funds from G6 to reimburse itself. Historically, 
+New Jersey has not drawn down funds in an efficient and timely manner, resulting in a disconnect 
+between Federal expenditures reported on SF-425 and RSA-17 reports for the VR program and the
+
+27 
+ 
+amount of Federal funds drawn down from G6. 
+RSA clarified that period of performance requirements must ensure alignment of the obligation date 
+with the same period services are provided and the availability of the fund source. During the 
+review, New Jersey asked if it could access funds based on a budget. RSA described the difference 
+between discretionary awards with budgets and formula awards like the VR and SE awards, which 
+do not have budgets. RSA reviewed the DVRS internal controls manual and recommended the 
+agency clarify and expand its practices, as well as the detailed actions it was taking at the time of 
+the on-stie review, to account for period of performance activities. Due to the restriction in making 
+accounting adjustments in NJ CFS, RSA recommends the agency explore expanding the availability 
+of fund sources in the CMS to permit obligation and expenditure beyond current FFY of 
+appropriation funds, to potentially include carryover funds and non-Federal funds. 
+VR Program Match  
+VR program regulations require the State to incur a portion of expenditures under the VR services 
+portion of the Unified or Combined State Plan from non-Federal funds to meet its cost sharing 
+requirements (34 C.F.R. § 361.60). The required Federal share for expenditures made by the State, 
+including expenditures for the provision of VR services and the administration of the VR services 
+portion of the Unified or Combined State Plan, is 78.7 percent. The State’s share is 21.3 percent. 
+The RSA review team assessed DVRS’ performance in meeting the matching requirements for the 
+VR program, including the extent to which the matching level was met, and the Federal funds 
+matched were expended, as well as whether the sources of match were consistent with Federal 
+requirements and any applicable maintenance of effort (MOE) issues.
+ 
+The RSA review team addressed requirements pertaining to the sources of non-Federal share used 
+by the State as match for the VR program, which includes State appropriations and reimbursements. 
+ 
+During the on-site review, NJLWD F&A staff described the VR match as solely coming from State 
+appropriations dedicated to the VR program, or other State funds the agency is authorized to use. 
+While the agency uses advanced State funds from the NJ Treasury to initially pay bills, these funds 
+are not the source of matching funds. RSA learned the dedicated State appropriation for the VR 
+program has been approximately $7.1 million over the past few years. The VR program is also 
+reimbursed the State’s share of fringe benefits from the New Jersey Office of Management and 
+Budget (OMB). Additionally, DVRS administers a sheltered workshop program, funded by the 
+State of New Jersey with State aid and grants. However, uncommitted non-Federal funds not used 
+in the sheltered workshop program are available for NJLWD F&A to use for DVRS VR non-
+Federal share, using the UA transfer process described above to apply the non-Federal funds to 
+existing VR expenditures in NJ CFS, which does not affect the nature of the fund source at the 
+transactional level in the NJ CFS State accounting system. RSA learned that DVRS’ match is not 
+based on obligation to a non-Federal fund source. Typically, in May or June, NJLWD F&A will 
+assess if sufficient expenditures have been made such that the UA process is used to apply non-
+Federal funds to existing expenditures. 
+ 
+In FFY 2023, there was an excess of uncommitted sheltered workshop program funds available for 
+VR program match that resulted in DVRS reporting $16,204,797 in non-Federal share. This amount
+
+28 
+ 
+is notably higher than prior FFY non-Federal share amounts and increased the FFY 2023 non-
+Federal share by approximately $2 million more than typically reported for prior FFY awards.  
+ 
+As described earlier in this section, DVRS historically has fully matched its VR formula award. 
+However, in FFYs 2019, 2020 and 2022 the agency did not expend all the Federal VR award funds 
+that it matched, because it relinquished funds during reallotment or did not expend all matched 
+Federal funds during the period of performance of the VR awards. 
+During the on-site review, RSA clarified that there are certain fiscal requirements, including match, 
+MOE and the pre-employment transition services 15 percent reserve requirement, that must be met 
+at the State level when there are two VR agencies in a State. While both agencies separately may 
+meet the requirements, RSA assesses compliance at the State level. RSA confirmed that, for the VR 
+program, one VR agency’s overage in one required area can offset the other VR agency’s deficit. 
+However, if the deficit for one agency brings the State VR total below the required non-Federal or 
+Federal threshold, this may affect both agencies, including the ability to meet carryover 
+requirements. 
+ 
+RSA provided technical assistance explaining that compliance with MOE is based on a comparison 
+of non-Federal share in a given FFY to the State’s non-Federal share from two FFYs prior, in 
+accordance with the statutory requirements. RSA used the example that DVRS’ non-Federal share 
+for the FFY 2025 MOE level will be higher than past years, due to the increase in FFY 2023 that 
+established the base, which is about $2 million higher than DVRS’ typical MOE level. DVRS 
+should monitor its FFY 2025 non-Federal expenditures and communicate with CBVI about its non-
+Federal expenditures, as a FFY 2025 MOE deficit may result in an MOE reduction to a future FFY 
+VR award. 
+Supported Employment Program Match 
+Supported Employment program regulations require that the VR agency expend 50 percent of its 
+total Supported Employment program allotment for the provision of supported employment 
+services, including extended services, to youth with the most significant disabilities. The Supported 
+Employment program funds required to be reserved and expended for services to youth with the 
+most significant disabilities are awarded through the SE-B grant award. The Federal share for 
+expenditures from the VR agency’s SE-B grant award is 90 percent. The statutorily required 10 
+percent match requirement applies to the costs of carrying out the provision of supported 
+employment services, including extended services, to youth with the most significant disabilities. 
+This means that the 10 percent is applied to total expenditures, including both the Federal and non-
+Federal shares, incurred for this purpose, and that the non-Federal share must also be spent on the 
+provision of supported employment services, including extended services, to youth with the most 
+significant disabilities. 
+The RSA review team assessed the matching requirements for the Supported Employment program, 
+including an assessment of whether the matching level was met, as well as whether the sources of 
+the match were consistent with Federal requirements. 
+DVRS has experienced challenges in managing the SE-A and SE-B awards. In FFYs 2020 and
+
+29 
+ 
+2022, DVRS reported insufficient match for the SE-B award expenditures, affecting the amount that 
+could be spent from both the SE-A and SE-B awards. In FFY 2021, DVRS did not use any of the 
+Federal SE-A and SE-B award funds, despite reporting match sufficient to fully expend both 
+awards. All the unused grant funds from both FFY 2021 SE-A and SE-B awards returned to the 
+Treasury upon deobligation at grant closeout. 
+RSA provided clarification that, when two VR agencies exist in a State, compliance with non-
+Federal share for SE-B and proportionality requirements between SE-A expenditures and matched 
+SE-B expenditures are met at the DSU level, not the State level like the VR program’s 
+requirements, because of statutory differences in Title VI of the Rehabilitation Act. 
+Pre-Employment Transition Services Reservation and Expenditure of Funds 
+Section 101(a)(25) of the Rehabilitation Act requires State VR agencies to assure in their Unified or 
+Combined State Plan, with respect to students with disabilities, that the State has developed and 
+implemented strategies to—   
+• Address the needs identified in the assessments described in Section 101(a)(15) of the 
+Rehabilitation Act; and 
+• Achieve the goals and priorities identified by the State in accordance with Section 
+101(a)(15) of the Rehabilitation Act to improve and expand VR services for students with 
+disabilities on a statewide basis; and provide pre-employment transition services. 
+“Pre-employment transition services,” as defined at Section 7(30) of the Rehabilitation Act, “means 
+services provided in accordance with Section 113.” Section 113(a) of the Rehabilitation Act 
+requires the State to ensure it will use the funds reserved under Section 110(d)(1) of the 
+Rehabilitation Act to provide, or arrange for the provision of, pre-employment transition services to 
+students with disabilities. Section 110(d)(1) of the Rehabilitation Act establishes the 15 percent 
+minimum reservation requirement for the State from its VR allotment. Together, Sections 7(30), 
+101(a)(25), 110(d)(1), and 113 of the Rehabilitation Act create the statutory basis for the State Plan 
+provisions governing pre-employment transition services.  
+Early career exploration through pre-employment transition services increases the likelihood of 
+students with disabilities achieving high-quality competitive integrated employment. RSA explored 
+the use of funds for the provision of pre-employment transition services and the extent to which 
+DVRS is meeting the State required reservation and expenditure of at least 15 percent of its 
+matched Federal VR grant funds. 
+Since the enactment of WIOA in FFY 2014, DVRS and the New Jersey Commission for the Blind 
+and Visually Impaired, collectively as the State, have not expended sufficient Federal reserve funds 
+on pre-employment transition services to meet the 15 percent reservation requirement. In recent 
+FFYs, DVRS expended a low of 4.1 percent of matched FFY 2021 VR award funds on pre-
+employment transition services. However, the highest percentage of matched Federal award funds 
+spent on pre-employment transition services occurred with the FFY 2022 award, from which DVRS
+
+30 
+ 
+expended 8.4 percent toward the reserve. 
+DVRS spends VR award funds on pre-employment transition services on personnel costs of DVRS 
+staff, but primarily expends funds through approximately 20 vendors approved for not-to-exceed 
+contracts to provide summer internships. While the total amount let across all contracts would far 
+exceed the 15 percent reserve target (e.g., approximately $7,000,000 required for the FFY 2022 VR 
+award), the actual amount that is expended under the contracts is not sufficient to meet the reserve. 
+In recent years, DVRS has continued to increase the overall capacity of such contracts, which span 
+a State fiscal year (SFY) term of July 1 through June 30, from a total of about $5,000,000 for 2021-
+2022, to $9,697,424 for 2022-2023, and recently in 2023-2024 increasing the total capacity of the 
+contracts to $13,697,424. 
+DVRS identified IGX as the system of record used for managing certain contracts, including those 
+with New Jersey Department of Education agencies, for the provision of pre-employment transition 
+services. However, the IGX system includes contracts for NJLWD agencies other than DVRS. One 
+concern that developed during the review was the identification of over $2 million of contract 
+expenditures that were allocable to pre-employment transition services, but the system identified the 
+costs as allocable to a non-VR workforce development program. During the review, NJLWD F&A 
+staff rectified the issue so that RSA-17 reporting including pre-employment transition services 
+expenditures could be finalized. However, RSA recommends the implementation of additional 
+internal controls to ensure that all contract costs allocable to programs administered by DVRS are 
+accurately tracked and managed.  
+In FFY 2023, RSA implemented a VR program-wide comprehensive effort to identify areas of 
+persistent need among grantees that have been unable to meet the 15 percent reservation and 
+expenditure of Federal funds WIOA requires grantees to expend for pre-employment transition 
+services. In August 2023, DVRS submitted a Section 107 Corrective Action Plan (CAP) to RSA, 
+which it developed in response to a finding of Noncompliance with Pre-Employment Transition 
+Services Requirements RSA issued to the agency, including corrective actions. Thereafter, RSA 
+approved DVRS’ plan. RSA will continue to address pre-employment transition services 
+noncompliance for FFYs 2020 through 2022 (the most recent years under review for which RSA 
+has complete data) through the Section 107 CAP that DVRS developed in response to the letter.  
+RSA will continue to follow-up with DVRS regarding findings for pre-employment transition 
+services reserve shortfalls through the approved corrective actions separately from this report and 
+will track progress through use of the separate CAP specifically addressing compliance with the 
+pre-employment transition services reserve. 
+During the review, RSA provided technical assistance regarding the calculation of the 15 percent 
+reserve clarifying it is not simply 15 percent of the VR award amount. RSA referenced the Pre-
+Employment Transition Services: Reserve Set-Aside Determination Guide, collaboratively 
+developed with RSA, the VRTAC-QM and NTACT-C. RSA noted when determining compliance 
+with the percentage of funds required to be reserved for pre-employment transition services, the 
+State’s allotment is the lessor of 1) the maximum amount of Federal VR award funds matched; or 2) 
+the amount of the net Federal VR award (at the end of the period of performance). This means 
+States must monitor expenditures throughout the lifecycle of the VR grant award since the 15
+
+31 
+ 
+percent reserve is not a fixed number and may fluctuate based on a State’s ability to match its VR 
+award funds, MOE reductions, and participation in reallotment. Additionally, DVRS expressed 
+interest in exploring the expenditure of pre-employment reserve funds on authorized services, which 
+require a set-aside determination. RSA reminded DVRS that a process for determining if sufficient 
+reserve funds are available for the provision of required and coordination activities so that grantees 
+may move to spending reserve funds on authorized activities is included in the Reserve Set-Aside 
+Determination Guide.  
+Additionally, RSA noted compliance with the reserve is a State requirement, and that collaboration 
+with the New Jersey Commission for the Blind and Visually Impaired is necessary when calculating 
+the reserve using the above formula, as well as monitoring progress toward meeting the 15 percent 
+requirement. 
+Internal Controls and Policies 
+Internal controls means a process, implemented by the grantee, designed to provide reasonable 
+assurance regarding the achievement of objectives in the effectiveness and efficiency of operations, 
+reliability of reporting for internal and external use, and compliance with applicable laws and 
+regulations. Internal controls serve to safeguard assets and prevent fraud, waste, abuse, improper 
+payments, and mismanagement. They include methods and procedures the grantee uses to manage 
+the day-to-day operations of grant-supported activities to assure compliance with applicable Federal 
+requirements and that performance goals are being achieved. The VR agency’s internal controls for 
+ensuring compliance with fiscal requirements will be a core component of the financial 
+management system review, particularly as they relate to the VR agency’s use of Federal funds, 
+including the required reservation of funds for pre-employment transition services, and the 
+requirements for non-Federal match. The Federal fiscal requirements referenced during the review 
+include—  
+• Rehabilitation Act and VR and Supported Employment program implementing regulations 
+in 34 C.F.R. part 361 and 34 C.F.R. part 363, respectively;  
+• Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal 
+Awards (Uniform Guidance) located in 2 C.F.R. part 200;  
+• Education Department General Administrative Regulations (EDGAR) in 34 C.F.R. part 76;  
+• Departmental and RSA guidance, including Policy Directives (PDs), Technical Assistance 
+Circulars (TACs), Dear Colleague Letters (DCLs), Grant Bulletins, Frequently Asked 
+Questions (FAQ), etc.; and  
+• Grant Award terms and conditions. 
+RSA reviewed internal controls, policies, and practices related to the financial management of the 
+VR and Supported Employment programs. 
+During this review, RSA reviewed the various policies, procedures and activities conducted by 
+NJLWD F&A and DVRS staff members, noting the agency has experienced significant turnover of 
+staff conducting fiscal activities in both the DSA and DSU. As a result, it became evident the way 
+such policies were developed, compared to the activities carried out, demonstrates, at times, a 
+disconnect between the two, and, at other times, a misunderstanding of the requirements of the VR
+
+32 
+ 
+and Supported Employment programs. However, RSA appreciates the commitment new staff in the 
+DSA and DSU have taken to learn the statutory and regulatory provisions governing the programs 
+and revisit practices, policies, and procedures to ensure they are aligned with programmatic and 
+fiscal requirements.  
+Federal Reporting:  
+RSA, NJLWD F&A and DVRS reviewed supporting documentation and the procedures that staff 
+members perform to prepare and submit Federal financial reports, including the RSA-17 and SF-
+425 reports. The discussion identified steps in the reporting process, individuals involved, and 
+included a review of the policy and instructions. RSA, NJLWD F&A and DVRS staff reviewed the 
+RSA-17 data elements in detail, and several areas of technical assistance were provided throughout 
+the discussion, as described below.  
+RSA noted a disconnect between the amount of Federal VR award funds drawn down from G5 and 
+the amount of Federal expenditures reported on RSA-17 reports. RSA discussed the RSA-17 
+reporting requirements, clarifying that the data are specific to the activity associated with the 
+Federal Award Identification Number (FAIN) identified on the RSA-17. The FAIN (e.g., 
+H126A230043) is the unique identifier within a Federal agency for each financial assistance award 
+issued. RSA clarified Federal expenditures on Federal financial reports must relate, based on State 
+accounting data, to the Federal award funds drawn down from G6, not on coding assignments to 
+FFY of appropriation funds paid with State Treasury funds. As described in the compliance findings 
+below, policies and procedures must include detailed steps that the DSA and DSU perform to 
+ensure all Federal cash management and reporting requirements are met.  
+NJLWD and DVRS staff described a process that identifies information from the reporting period 
+based on CMS and NJ CFS data, organized in a Monthly Financial Report (MFR). Since the MFR is 
+based on report coding in the general ledger, RSA learned that staff were not using the net award 
+data from the G6 External Award Activity History Report as required in reporting instructions for 
+the RSA-17 and SF-425 reports. RSA clarified the net drawdown data, not total drawdowns, are 
+used for Federal cash receipts on reports because the net award includes not only drawdowns, but 
+refunds, offsets, and adjustments to the award, resulting in accurate data related to all Federal grant 
+funds debited from, or credited to, the Federal award. Use of the net award data is required for 
+accurate reporting of Federal Cash Receipts (Line B.11), Federal Cash Disbursements (Line B.12) 
+and Federal Cash on Hand (Line B.13) on VR RSA-17 reports, and Cash Receipts (Line 10a), Cash 
+Disbursements (Line 10b), and Cash on Hand (Line 10c) on SF-425 reports. Additionally, the 
+Federal expenditure data on both RSA-17 and SF-425 reports should be based on the fund source 
+used to pay for transactions, which should be reflected accurately in the State accounting system. 
+ 
+RSA recommends New Jersey review the instructions to generate a G6 External Award Activity 
+Report (consistent with Policy Directive (PD) 18-01 and PD-18-02 for supported employment SF-
+425 instructions, and Dear Colleague Letter (DCL) 20-02
+1 for VR RSA-17 instructions) to avoid 
+ 
+1 Prior to the on-site review of DVRS, RSA published DCL-23-03, revised Instructions for VR Financial Report (RSA-
+17), fo r  implementation beginning with FFY 2024 VR awards.
+
+33 
+ 
+drawdown reporting discrepancies between Federal award information in G6 and data reported on 
+Federal financial reports.  
+ 
+NJLWD F&A staff described that quarterly fringe rates are applied after a given Federal reporting 
+period is over. For example, the fringe rate for expenditures associated with time worked in 
+September (the fourth quarter) are calculated after the end of the fourth quarter, or September 30. 
+DVRS asked how to account for the costs as the fringe costs are charged to non-Federal share. RSA 
+provided technical assistance that costs associated with personnel are obligated when the staff work 
+the time. Therefore, on the RSA-17 reports, including the fourth quarter report when non-Federal 
+expenditures and obligations must be incurred, the non-Federal charges for fringe should be 
+reported on Line D.29 as a non-Federal obligation through the end of the reporting period, or if 
+charged to Federal funds on Line B.18 for Federal unliquidated obligations. Such obligations can be 
+reported as liquidated on subsequent reports.  
+ 
+RSA’s review of the RSA-17 indicated that indirect costs were not included in Section F, Line 36 of 
+the report. RSA clarified that while costs allocated pursuant to a cost allocation plan approved by 
+the Federal cognizant agency are not required in Section F, indirect costs charged based on an 
+approved indirect cost rate must be reported in Section F of the RSA-17 report. Additionally, RSA 
+confirmed that regardless of whether charged via a cost allocation plan or indirect cost rate, all 
+direct and indirect administrative costs must be reported in Section G, Line 37 (Administrative 
+Expenditures) on the RSA-17 report. 
+ 
+NJLWD F&A and DVRS should include the above technical assistance elements described above 
+into their Federal reporting policies to incorporate these detailed steps and describe how the agency 
+extracts, maps, synthesizes, and reports all fiscal data for Federal financial reports. 
+ 
+Program Income: 
+ 
+RSA noted in the fiscal tables prepared for the review that DVRS reported between $1,939,659 and 
+$2,650,593.00 of program income earned in the year of appropriation on SF-425 and RSA-17 
+reports for the FFYs 2018 through 2021 VR awards. As described earlier in this section, the amount 
+of reported program income dropped to $20,916 in FFY 2022 and, at the time of the on-site review, 
+no program income had been reported for FFY 2023. While onsite, RSA learned that staff turnover 
+during the timeframe of the program income reduction left the agency without an individual to 
+submit for program income reimbursement. RSA determined that a staff member resumed the duties 
+at some point and a large batch of program income was received by NJLWD in March 2023, but it 
+had not been identified for DVRS’ use in the VR program and had not been disbursed or reported as 
+of the time of the on-site review.  
+Regarding the treatment of program income, RSA acknowledged Uniform Guidance provides for 
+both the addition and deduction alternatives for managing program income, meaning funds may be 
+added to or subtracted from the Federal award, respectively. However, the U.S. Department of 
+Education determined, in 2016, that the deduction alternative is no longer an option for Department 
+grantees, requiring the use of the addition alternative for disbursing program income. This 
+requirement is included in the terms and conditions of the GAN.
+
+34 
+ 
+While the $3,563,433 of program income was subsequently disbursed and reported after the on-site 
+visit, RSA recommends that DVRS build into policies and procedures internal controls to ensure 
+there are individuals responsible to track, submit and ensure program income data are available for 
+disbursement and reporting in accordance with Federal requirements. Such policies should include 
+succession planning, training, and availability of back up staff to take over such responsibilities 
+should future turnover, reassignment of duties, or other activity disrupt the management of program 
+income.  
+RSA provided further technical assistance that program income is earned when it is received. RSA’s 
+review of FFYs 2019 through 2021 Federal financial report data identified an increase in program 
+income reported after the fourth quarter of each year, including $25,761 in FFY 2019, $230,784 in 
+FFY 2020, and $8,161 in FFY 2021. RSA clarified that applying the earned-when-received element 
+of program income means earned program income should only be reported during the FFY of 
+appropriation on Federal reports, and such program income should not be reported as earned during 
+fifth quarter through final report periods in the carryover year of Federal awards. RSA also 
+indicated that this clarification may be included in DVRS’ and NJLWD F&A’s policies and 
+procedures to assist with managing VR program income. 
+Establishment: 
+DVRS requested technical assistance regarding the feasibility of providing training to CRPs. During 
+the on-site visit, the RSA team provided verbal technical assistance that training costs related to VR 
+processes (e.g., VR authorizations, billing, use of VR systems to enter case notes or submit 
+supporting documentation) may be appropriate administrative costs under the VR award. However, 
+training designed to assist CRP staff with improved VR service provision (e.g., the Supported 
+Employment Association of Community Rehabilitation Educators (ACRE) curriculum), is not an 
+allowable administrative cost and must be approved through the Establishment authority provisions. 
+After the on-site visit, RSA discussed with DVRS the potential for using innovation and expansion 
+funds if the training functions more as a pilot program for CRPs. However, any longer-term CRP 
+training efforts DVRS intends to provide for similar purposes would require the use of the 
+Establishment authority.  
+C. Findings and Corrective Actions 
+ 
+RSA’s review of the performance of DVRS identified the following findings and the corresponding 
+corrective actions regarding non-compliance with Federal requirements within the scope of this 
+targeted focus area. Within 45 days of issuance of the final monitoring report, DVRS will submit to 
+RSA for approval a corrective action plan (CAP), including specific action steps, timelines, and 
+evidence to demonstrate resolution of the findings. If DVRS fails to take the necessary corrective 
+actions specified in the approved CAP, RSA reserves the right to take additional enforcement 
+actions pursuant to 34 C.F.R. Part 81 and 2 C.F.R. § 200.339.
+
+35 
+ 
+Finding 3.1 Insufficient Policies and Procedures and Non-Compliance with Period of 
+Performance Requirements  
+Issue: Does DVRS meet obligation and expenditure requirements in 2 C.F.R. § 200.1 and 34 C.F.R. 
+§ 76.707. Does DVRS assign and liquidate obligations such that expenditures align with the correct 
+fund source and Federal award in accordance with 34 C.F.R. § 361.12, 2 C.F.R. §§ 200.1, 200.302, 
+200.303(a), 200.309, and 34 C.F.R. § 76.702. 
+Requirement: As a recipient of Federal VR and Supported Employment program funds, DVRS 
+must have procedures that ensure the proper and efficient administration of its VR and Supported 
+Employment programs and enable DVRS to carry out all required functions, including financial 
+reporting (34 C.F.R. § 361.12). In accordance with the Uniform Guidance in 2 C.F.R. § 200.302(a), 
+a State’s financial management systems, including records documenting compliance with Federal 
+statutes, regulations, and the terms and conditions of the award, must be sufficient to permit the 
+preparation of reports required by general and program specific terms and conditions; and the 
+tracing of funds to a level of expenditures adequate to establish that such funds have been used 
+according to the Federal statutes, regulations, and the terms and conditions of the Federal award. 
+The Uniform Guidance requires the financial management system of each non-Federal entity to 
+provide for the identification, in its accounts, of all Federal awards received and expended and the 
+Federal programs under which they were received (2 C.F.R. § 200.302(b)). In addition, Education 
+Department General Administrative Regulations (EDGAR) at 34 C.F.R. § 76.702 require States to 
+use fiscal control and fund accounting procedures that ensure proper disbursement of and 
+accounting for Federal funds.  
+Each grant award has a defined “period of performance” that is the time during which the non-
+Federal entity may incur new obligations to carry out the work authorized under the Federal award 
+(2 C.F.R. § 200.1). A non-Federal entity may only charge to the Federal award allowable costs 
+incurred during the period of performance (2 C.F.R. § 200.309, see also 34 C.F.R. §§ 76.703 and 
+76.709). Grantees must implement internal controls necessary to ensure obligations and 
+expenditures for a Federal award are assigned, tracked, recorded, and reported within the applicable 
+period of performance for that Federal award, thereby ensuring the grantees are managing the award 
+in compliance with Federal requirements (2 C.F.R. § 200.303(a)). The proper assignment of Federal 
+and non-Federal funds to the correct period of performance is necessary for DVRS to correctly 
+account for VR and Supported Employment program funds so that RSA can be assured the agency 
+has satisfied requirements for, among other things, match (34 C.F.R. § 361.60), MOE (34 C.F.R. § 
+361.62), and the reservation and expenditure of VR funds for the provision of pre-employment 
+transition services (34 C.F.R. § 361.65(a)(3)).  
+A financial obligation means “orders placed for property and services, contracts and subawards 
+made, and similar transactions during a given period that require payment by the non-Federal entity 
+during the same or a future period" (2 C.F.R. § 200.1). For expenditures to be allowable under the 
+Federal award, agencies must demonstrate that the obligation occurred within the period of 
+performance of the Federal award. EDGAR regulations at 34 C.F.R. § 76.707 explain when a State 
+incurs an obligation for various kinds of services and property. Expenditures must be for payment 
+of actual obligations. Obligations must be charged to a fund source (e.g., Federal award funds, State 
+appropriations, etc.) and must occur within the appropriate period of performance. Therefore, to
+
+36 
+ 
+properly account for and liquidate expenditures, grantees must be able to assign an obligation to 
+fund sources including the specific Federal award based upon the date the obligation was made (34 
+C.F.R. §§ 76.703 and 76.709). 
+Analysis: During the review, RSA and DVRS/NJLWD F&A discussed the agency’s ability to track 
+and report obligations and liquidations in their systems and account for expenditures on Federal 
+reports. In preparation for the review, RSA transmitted a document request to learn more about the 
+agencies’ policies and procedures for the topic areas identified in the MTAG. A review of the 
+documentation submitted in response to the period of performance topic area included an Internal 
+Controls Manual divided into: Section 1, titled Contracts-Providers-Wages-Case Review; and 
+Section 2, titled Finance and Accounting, which is where the information on period of performance 
+is located. Within Section 2 is subsection X, Process Memo – NJDVRS Allowable Costs that 
+describes various fiscal processes including the use of the Authorization and Invoice (A&I) 
+document for VR Counselors to purchase VR and supported employment services for applicants 
+and recipients of services from the programs. The process memo describes the authorization steps 
+but includes some conflicting information about obligations including when the obligation date 
+occurs. For example, the language states at one part that the obligation date rule is the date 
+following the authorization invoice date and is confirmed by the vendor upon receipt of the invoice. 
+Later in the same paragraph, it states the obligation date begins on the date the A&I is authorized 
+and signed. Such language requires review and revision for clarification. 
+Additionally, there is a space on the A&I document that notates the fund source selected by the VR 
+Counselor so that the Data Entry Operator (DEO) knows which fund is to be designated for the 
+service. As an example, New Jersey indicated fund source “2023 – 01 Funds for 2023” on a sample 
+A&I refers to Federal VR funds for FFY 2023. While not specifically linked to a FAIN (e.g., 
+H126A230043) NJ described this fund source as the FFY of appropriation VR funds for 2023. The 
+DEO enters the A&I information into the case management system (CMS), which generates a hard 
+copy document reviewed and signed by the VR Counselor and sent to CRPs and vendors. RSA 
+inquired about the scope of the fund sources available in the CMS for authorizations, and NJ 
+informed RSA the system is not programmed to regularly assign obligations to eligible carryover 
+funds or non-Federal funds. Rather, the system will assign obligations to FFY of appropriation fund 
+sources with corresponding account numbers (e.g., 01 for VR, 06 (SE-A), 07 (SE-B), and 13 (Pre-
+Employment Transition Services). 
+During the on-site visit, RSA learned that the A&I document also functions as the invoice, which is 
+signed by the vendor and submitted back to DVRS with supporting documentation after completion 
+of a service. After DVRS approves the payment, NJLWD F&A retrieve imported batch payments 
+ready for processing from the financial module, review them and release them for payment. As 
+described earlier in this section, DVRS and NJLWD F&A have been provided budget authority by 
+NJ Treasury to initially pay invoices using advanced State funds. Final payout is sent by NJ 
+Treasury and the payment is created in NJ CFS. At some point after initial payment, DVRS and 
+NJLWD F&A will draw down Federal funds from G6 to reimburse itself.  
+The concern regarding the payment and accounting process is that all the period of performance 
+requirements are not met throughout this process. While the FFY of appropriation fund source 
+identified on the A&I document will correspond with the coding in the NJ CFS general ledger, the
+
+37 
+ 
+funds that initially pay for such costs are State Treasury funds. Historically, there has been a long 
+delay between payments and Federal drawdown reimbursements, with the delay often spanning 
+multiple Federal RSA-17 reporting periods, resulting in RSA-17 reports that identify Federal 
+expenditures have been incurred yet no Federal funds were drawn down from G6.  
+Additionally, the CMS does not include options to regularly assign obligations to Federal carryover 
+fund sources or non-Federal fund sources, so there are no direct transactional expenditures assigned 
+to either source. Since NJLWD is not permitted to execute accounting adjustments such as journal 
+vouchers within NJ CFS, a practice reserved only for NJ Treasury, F&A must use the 
+aforementioned User Agency Payment Voucher (UA) process to “apply” funds at high levels in 
+batches, which does not change the default fund source for individual transactions in the general 
+ledger. As a result, transactions in the general ledger continue to reflect FFY of appropriation 
+Federal funds, regardless of the UA practice of applying carryover or non-Federal fund sources at 
+higher levels in bulk.  
+While this affects DVRS’ ability to effectively manage carryover, non-Federal share and the 
+Federal awards, it is also not in compliance with period of performance requirements to ensure 
+obligations, liquidations, fund source accounting codes, and Federal reporting are aligned.  
+Regarding policies, RSA notes that DVRS’ period of performance policies, procedures, and related 
+documentation do not include the level of detail necessary to ensure all obligations for purchased 
+VR services and other cost categories in 34 C.F.R. § 76.707 are assigned, tracked, liquidated, and 
+reported accurately on Federal reports, and that a more descriptive internal control narrative should 
+be incorporated to ensure DVRS procedures completely align with the requirements of 34 C.F.R. 
+§ 76.707 as described above.  
+RSA discussed with DVRS the need to review and potentially reconfigure the fund sources 
+available in its CMS for obligations, based on the limitations of NJ CFS, so that it can manage all 
+fund source obligations in accordance with period of performance requirements. DVRS must also 
+revise its written policies and procedures for period of performance and Federal reporting to ensure 
+that unliquidated obligations are assigned and tracked in accordance with EDGAR and Uniform 
+Guidance requirements, liquidated from the same fund source assigned to the obligation, and 
+reported accurately on Federal financial reports. RSA discussed the requirement to accurately report 
+unliquidated obligations, expenditures, and unobligated Federal and non-Federal funds, as this 
+information is necessary for RSA to determine the extent to which DVRS met the non-Federal share 
+requirements for match and MOE, as well as determine whether Federal awards qualify for a 
+carryover year and an extension of the period of performance. Without the submission of complete 
+and accurate fiscal data on RSA-17 and SF-425 reports based on accurate and reliable accounting 
+data, RSA is unable to determine with certainty whether these requirements have been met.  
+Conclusion: RSA has determined that DVRS is not in compliance with the Federal requirements in 
+34 C.F.R. § 361.12, 34 C.F.R. § 76.702, and 2 C.F.R. § 200.302 to ensure non-Federal and Federal 
+obligations and expenditures are assigned, tracked, paid, and reported from the correct Federal 
+award based on fund source.
+
+38 
+ 
+RSA is concerned that the DVRS financial management system does not meet the following Federal 
+requirements: 
+ 
+• DVRS does not ensure all unliquidated obligations are assigned to a specific Federal Award 
+Identification Number (FAIN), or other non-Federal fund source, and DVRS does not 
+reconcile all expenditures and cannot make appropriate accounting adjustments to identify 
+the source of funds used to account for all obligations and Federal expenditure transactions 
+after the fact, resulting in an internal control deficit for accounting support documentation; 
+• DVRS’ financial management systems prevent the agency from tracing funds to a level of 
+expenditures at the transactional level necessary to establish that such funds have been used 
+in accordance with Federal requirements, as required by 2 C.F.R. §§ 200.302, 200.303, and 
+200.328, including Federal reporting requirements of the RSA-17 report; and  
+• DVRS’ written policies regarding period of performance have not been fully developed to 
+ensure procedures result in its ability to accurately assign, track, and report obligations and 
+expenditures in systems for all cost categories identified in EDGAR 34 C.F.R. § 76.707, 
+based on fund source. Without such detailed procedures, as required by 34 C.F.R. § 361.12 
+and 2 C.F.R. §§ 200.302, 200.303, and 200.328, DVRS is unable to submit accurate 
+financial reports (i.e., RSA-17 and SF-425 reports) that will permit RSA to accurately assess 
+match, MOE (for VR), and carryover eligibility of VR and Supported Employment awards. 
+ 
+As a recipient of Federal VR program funds, DVRS must have internal controls and written 
+procedures in place that ensure proper and efficient administration of its VR program, and that 
+enable DVRS to carry out all required functions. The methods of administration must ensure 
+accurate data collection and financial accountability (34 C.F.R. § 361.12 and 2 C.F.R. §§ 200.302 
+and 200.303). 
+Corrective Actions 3.1: RSA requires that DVRS—  
+3.1.1  Make requisite revisions to its financial data collection and analysis process, including 
+system reconfigurations, to bring it into compliance so that DVRS can—  
+• Assign in its case management system, including the State accounting system, the 
+specific fund sources to individual direct purchase obligations, ensuring liquidations are 
+charged to the fund sources assigned at obligation, to accurately account for, track, and 
+report all non-Federal, program income and FFY of appropriation and carryover year 
+award obligations and expenditures, consistent with the period of performance 
+requirements; and  
+• Run reports that identify which obligation and expenditure transactions are assigned to 
+fund sources, such as non-Federal and specific Federal sources (FAINs), to support 
+tracing of expenditures to a level consistent with the terms and conditions of the VR 
+award, to accurately report non-Federal and Federal liquidations on the RSA-17 reports 
+for the corresponding period of performance for specific Federal awards (FAINs); 
+3.1.2  Consistent with 3.1.1, update and implement period of performance policies and procedures 
+to accurately account for and report all obligations and expenditures for the cost categories
+
+39 
+ 
+identified in 34 C.F.R. § 76.707 to a specific fund source (e.g., FAIN) and corresponding 
+FFY award period of performance, ensuring the policies address the—  
+• Assignment of non-Federal and Federal obligations to the appropriate and specific fund 
+sources within their defined periods of performance, and the liquidation of such funds 
+based upon the assignment of the obligations; and  
+• Accurate reporting of unliquidated obligations, expenditures, and unobligated Federal 
+non-Federal funds on the quarterly RSA-17 reports based upon the fund source assigned 
+at obligation; and   
+3.1.3  Develop and implement a written internal control process, including a monitoring 
+component, to ensure ongoing compliance with Federal requirements for the areas 
+mentioned in corrective actions 3.1.1 and 3.1.2. 
+VR Agency Response:   
+DVRS Response 3.1.1: DVRS accepts the findings and the requirements outlined in Corrective 
+Action 3.1.1. DVRS is making significant efforts to ensure that financial management and reporting 
+processes align with Federal requirements and State laws. DVRS will leverage the guidelines from 
+EDGAR (Education Department General Administrative Regulations) 34 C.F.R. § 76.707 and make 
+requisite revisions to its financial data collection and analysis process to ensure that all obligations 
+and expenditures are correctly assigned in the case management system, including the State 
+accounting system, to the specific fund sources to individual direct purchase obligations.  
+ 
+DVRS will work to ensure liquidations are charged to the fund sources assigned at obligation, to 
+accurately account for, track, and report all non-Federal, program income and FFY of appropriation 
+and carryover year award obligations and expenditures, consistent with the period of performance 
+requirements.  
+DVRS will provide Federal reporting submissions and ensure accurate tracking and reporting that 
+identifies the assignments of obligation and expenditure transactions to fund sources. The reporting 
+procedure will comply with the terms and conditions of the VR award and accurately report non-
+Federal and Federal liquidations on the RSA-17 reports for the corresponding period of 
+performance for specific Federal awards.  
+DVRS Response 3.1.2: DVRS accepts the findings and the proposed Corrective Action 3.1.2. 
+DVRS will update and implement period of performance policies and procedures to accurately 
+account for and report all obligations and expenditures for the cost categories identified in 34 C.F.R. 
+§ 76.707 to a specific fund source and corresponding FFY award and period of performance. DVRS 
+will ensure the policies address the assignment of non-Federal and Federal obligations to the 
+appropriate and specific fund sources within their defined periods of performance. DVRS will 
+ensure that procedures are in place to safeguard the liquidation of such funds based upon the 
+assignment of the obligations and will validate accurate reporting of unliquidated obligations, 
+expenditures, and unobligated Federal and non-Federal funds when submitting the RSA-17. 
+DVRS Response 3.1.3: DVRS accepts the finding and correction action requirements outlined in 
+3.1.3. DVRS is taking a comprehensive approach to enhance its financial management systems and
+
+40 
+ 
+internal controls, which will improve compliance, accuracy, and efficiency in reporting and 
+managing funds. DVRS will develop a detailed revision of the internal controls manual, including a 
+monitoring component, to cover all fiscal processes, including those related to both Federal and 
+non-Federal obligations, expenditures, periods of performance, fund liquidations, and Federal 
+reporting submissions. DVRS will also ensure accurate tracking and reporting of unliquidated 
+obligations, expenditures, and unobligated funds in the RSA-17 reports using existing software 
+tools. 
+VR Agency Request for Technical Assistance:  DVRS requests continued technical assistance to 
+enhance the revision of our internal controls’ manual, improved data management, and accurate 
+tracking and reporting. 
+Finding 3.2 Federal Financial Reporting Deficiencies 
+ 
+Issue: Does DVRS maintain effective internal control over the Federal award to provide reasonable 
+assurance that the agency is managing the Federal award in compliance with Federal statutes, 
+regulations, and the terms and conditions of the award, including controls related to financial 
+reporting.  
+ 
+Requirements: A State VR agency must assure, in the VR services portion of the Unified or 
+Combined State Plan, that it will employ methods of administration that ensure the proper and 
+efficient administration of the VR program. These methods of administration (i.e., the agency’s 
+internal controls) must include procedures to ensure accurate data collection and financial 
+accountability (34 C.F.R. § 361.12).  
+ 
+“Internal controls” means a process, implemented by a non-Federal entity, designed to provide 
+reasonable assurance regarding the achievement of objectives in the following categories: 
+  
+• Effectiveness and efficiency of operations;  
+• Reliability of reporting for internal and external use; and  
+• Compliance with applicable laws and regulations (2 C.F.R. § 200.1).  
+ 
+In accordance with the Uniform Guidance, 2 C.F.R. § 200.303, among other things, a non-Federal 
+entity must—  
+ 
+• Establish and maintain effective internal control over the Federal award that provides 
+reasonable assurance that the non-Federal entity is managing the Federal award in 
+compliance with Federal statutes, regulations, and the terms and conditions of the Federal 
+award. These internal controls should follow guidance in Standards for Internal Control in 
+the Federal Government issued by the Comptroller General of the United States and the 
+Internal Control Integrated Framework, issued by the Committee of Sponsoring 
+Organizations of the Treadway Commission;  
+• Comply with Federal statutes, regulations, and the terms and conditions of the Federal 
+awards;
+
+41 
+ 
+• Evaluate and monitor the non-Federal entity’s compliance with statutes, regulations, and the 
+terms and conditions of Federal awards; and  
+• Take prompt action when instances of noncompliance are identified, including 
+noncompliance identified in audit findings.  
+ 
+In its guidance, The Role of Internal Control, Documenting Internal Control, and Determining 
+Allowability & Use of Funds, the Department made clear to grantees that internal controls represent 
+those processes by which an organization assures operational objectives are achieved efficiently, 
+effectively, and with reliable, compliant reporting. Therefore, an internal control deficiency would 
+exist when the design or operation of a control does not allow management or employees, in the 
+normal course of performing their assigned functions, to prevent or correct processes that might 
+lead to noncompliance with Federal and State requirements.  
+ 
+Analysis: RSA requested documentation from DVRS as part of its review activities, including those 
+for various policies and procedures. As described in Finding 3.1, RSA received several documents, 
+including the agency’s Internal Controls Manual with subsections including process memos for 
+allowable costs, case management, and Federal reporting of the RSA-17.  
+ 
+The agency described pulling data from the NJ CFS accounting system and the use of a Monthly 
+Fiscal Report (MFR), which is a spreadsheet used to manipulate the data in preparation for 
+reporting the RSA-17 data elements. The RSA-17 process memo is laid out to mirror the DCL-20-
+02 RSA-17 instructions, with some additional narrative added under data elements generally 
+describing where the data are obtained. For example, unliquidated obligations are described as 
+“obtained from NJLWD/DVRS’ Monthly Fiscal Report (MFR) reflected as total expenditures less 
+the non-Federal share of allowable expenditures. This net amount is linked to a specific reporting 
+cell within the MFR.” While the process memo is organized to have a foundational structure that 
+could address all the RSA-17 data elements, the written policy is not sufficient to describe in detail 
+how the agency will extract and synthesize data from the case management system and State 
+accounting system, then synthesize and map the data to generate reports, including the RSA-17 and 
+SF-425 reports.  
+ 
+During the review RSA discussed the importance of developing specific VR reporting policies and 
+procedures necessary to operationalize how data from the VR agency’s CMS, State accounting 
+system, and other relevant sources are systematically identified, analyzed, synthesized, and mapped 
+to reports to meet the requirements of the data elements in the VR RSA-17 report. Such procedures 
+are necessary for all Federal reports (e.g., SF-425, RSA-17, RSA-911) to ensure DVRS meets 
+Federal requirements consistent with RSA reporting guidance, Uniform Guidance, and terms and 
+conditions of the award. Additionally, such policies will not only ensure accuracy of reporting, but 
+also assist DVRS with training new staff and conducting succession planning activities.  
+ 
+The RSA-17 reports are based on specific grant award numbers, such as H126A230043 for DVRS’ 
+FFY 2023 Federal VR fund award, and H126A240043 for DVRS’ FFY 2024 Federal VR fund 
+award. The reporting requirements of these reports mandate agencies identify and report the 
+drawdowns from each Federal VR award (based on its Federal Award Identification Number 
+(FAIN)), the disbursements from those drawdowns, and the Federal expenditures resulting from the
+
+42 
+ 
+funds drawn out of the specific grant award (FAIN). To meet these requirements, the supporting 
+documentation from a grantee’s financial management systems must be sufficient to permit the 
+preparation of reports required by the Federal program’s terms and conditions and trace funds to a 
+level of expenditures adequate to establish that such funds have been used according to the Federal 
+statutes, regulations, and the terms and conditions of the Federal award, as required by 2 C.F.R. § 
+200.302(a). The financial management system must provide for identification, including the Federal 
+program and Federal award identification, including, as applicable, the Assistance Listings title and 
+number, FAIN and year, and name of the Federal agency (2 C.F.R. § 200.302(b)(1)). The financial 
+management system must provide for records that identify adequately the source and application of 
+funds for Federally funded activities. These records must contain information pertaining to Federal 
+awards, authorizations, financial obligations, unobligated balances, assets, expenditures, income, 
+and interest and be supported by source documentation (2 C.F.R. § 200.302(b)(3)). Without such 
+detailed accounting, including the assignment, tracking, and reporting of obligations and 
+expenditures for direct costs specifically to a fund source(s) within the allowable period(s) of 
+performance, DVRS cannot meet these requirements. 
+ 
+Further related to Federal reporting, DVRS documentation and discussions during the review 
+indicated that data elements had not been accurately reported. RSA and DVRS/NJLWD F&A staff 
+discussed the following data elements:  
+ 
+• While the agency indicated it intends to drawdown Federal VR and SE funding from G6 to 
+reimburse itself for payments initially incurred with State Treasury funds, it has not done so 
+timely, at times not drawing down until the liquidation period after the end of the carryover 
+year. As a result, RSA-17 reports submitted indicate Federal expenditures have been made 
+based on obligation assignment in the CMS and Federal accounting codes in NJ CFS, yet no 
+Federal funds are typically drawn down across multiple subsequent RSA-17 reporting 
+quarters. This creates inaccuracies between G6 data, RSA-17 and State accounting data in 
+NJ CFS, as well as the Total Federal Share and Unobligated Balance of Federal Funds on 
+the RSA-17 report. 
+• As described earlier, program income received by NJLWD in March and April 2023 was not 
+identified and reported on RSA-17 reports for quarters two through four of FFY 2023. The 
+program income was not disbursed efficiently or prior to Federal cash draws from 
+H126A230043. 
+• RSA-17 reports for FFY 2023 did not include any Indirect Costs in Section F, Line 36, 
+despite DVRS’ inclusion in an indirect cost rate approved by the Federal cognizant agency 
+for NJLWD.  
+• Funds for innovation and expansion activities were not reported on Line 41 of the RSA-17 
+reports.  
+ 
+During the on-site review, RSA learned that certain costs (e.g., fringe costs based on personnel 
+time) may not be finalized until after a reporting period ends. RSA is clarifying that those costs 
+must be accounted for during the year in which the original obligation and expenditure occurred, 
+and the obligation for fringe costs based on work performed in the FFY of appropriation should be 
+reported as an obligation on the fourth quarter RSA-17 report through September 30.
+
+43 
+ 
+As described above, DVRS cannot assure that it is administering the VR program in a proper and 
+efficient manner and ensuring financial accountability. For these reasons, DVRS has not complied 
+with the VR program provisions and internal control requirements set forth in 34 C.F.R. §§ 361.3(a) 
+and 361.12, and 2 C.F.R. §§ 200.302(a) and (b)(4), and 200.303.  
+ 
+Conclusion: DVRS does not maintain effective internal controls over the Federal awards necessary 
+to provide reasonable assurances that it is managing the Federal award in compliance with Federal 
+statutes, regulations, and the terms and conditions of the award, as required by 34 C.F.R. §§ 
+361.3(a) and 361.12, and 2 C.F.R. §§ 200.302 and 200.303. DVRS did not satisfy the requirements 
+in 34 C.F.R. §§ 361.3 and 361.12, and 2 C.F.R. § 200.303 that require the VR agency to establish 
+and maintain effective internal control over the Federal award that provides reasonable assurance 
+that the non-Federal entity is managing the Federal award in compliance with Federal statutes, 
+regulations, and the terms and conditions of the Federal award. 
+ 
+Internal control deficiencies exist for developing and maintaining written policies and procedures to 
+ensure that DVRS’s administration of the VR and Supported Employment programs is aligned with 
+VR and Uniform Guidance requirements. Specifically, the following internal controls are needed—   
+ 
+• Federal reporting including the RSA-17 and SF-425; and 
+• Period of performance policies and procedures (also referenced in Finding 3.1). 
+ 
+Corrective Action 3.2 RSA requires that DVRS—  
+ 
+3.2.1  In the first quarterly update after approval of the Corrective Action Plan, further develop and 
+implement written policies and procedures (in addition to those identified in Finding 3.1) 
+related to Federal financial reporting that identify and outline the specific processes 
+describing how DVRS—    
+o Collects data from the case management system, State accounting system, and personnel 
+system; 
+o Analyzes, synthesizes, and maps program and fiscal data to data elements on Federal 
+Financial and performance reports, specifically including the RSA-17 and SF-425 
+reports; and  
+o Develops, monitors and reviews for accuracy, and submits Federal reports. 
+VR Agency Response: DVRS accepts the findings and the requirements outlined in Corrective 
+Action 3.2.1. DVRS is committed to strengthening written policies related to Federal financial 
+reporting that provide detailed descriptions of how DVRS collects data from the program case 
+management, State accounting and personnel systems. DVRS will provide detailed descriptions of 
+how we analyze, review, and map program and fiscal data to data elements on the RSA-17, SF-425 
+and other required Federal Financial and performance reports. DVRS will develop, monitor 
+accuracy and submit Federal reports. By implementing these measures in the first quarterly update 
+after approval of the Corrective Action Plan, NJDVRS aims to enhance its financial reporting 
+processes and ensure compliance with Federal requirements.  
+VR Agency Request for Technical Assistance: DVRS requests continued technical assistance to
+
+44 
+ 
+enhance written policies and procedure related to Federal financial reporting.  
+Finding 3.3 Unallowable Costs  
+ 
+Issue: Whether DVRS met the Federal requirements including internal controls for determining 
+allowability and allocability of costs in pre-employment internship contracts (2 C.F.R. §§ 200.403 
+through 200.405).  
+ 
+Requirements: Regulations at 34 C.F.R. § 361.3 limit authorized activities under the VR program 
+to VR services and administrative costs under the State Plan. Except where otherwise authorized by 
+statute or implementing regulations, costs are allowable with Federal program funds only if they are 
+necessary and reasonable for the performance of the Federal award and allocable to that award in 
+accordance with Federal cost principles at 2 C.F.R. §§ 200.403 through 200.405 (2 C.F.R. § 
+200.403(a)). In accordance with Uniform Guidance at 2 C.F.R. § 200.405(a), a cost is allocable to a 
+Federal award or cost objective if the goods or services involved are chargeable to that cost 
+objective in accordance with the relative benefit received. 
+ 
+Analysis: During the review, RSA reviewed a New Jersey Notice of Contract Opportunity for Paid 
+Internship Contracts for FFY 2023, designed to provide pre-employment transition services to 
+students with disabilities. RSA’s review of Section C. Available Funding identified the following 
+statement:  
+ 
+“Following successful completion of workplace readiness training, job exploration counseling and 
+instruction on self-advocacy during the first three weeks, the student intern will receive a $100.00 
+stipend per completed week. During the following weeks in which the student is actively 
+participating in a 150-hour work-based learning experience paid internship, student intern will 
+receive $18 per hour. Lastly, during the final three weeks of workplace readiness training wrap-up 
+the student intern will receive a $100.00 stipend for successful participation and completion of the 
+week. The stipend will be paid through payroll of the agency.”  
+ 
+A review of the scope of work, duration of services provided, and amount of the stipend further 
+demonstrates students with disabilities may participate in up to six weeks of services in which the 
+paid stipend is applicable, including the—   
+ 
+• First three weeks of workplace readiness training, job exploration counseling and instruction 
+on self-advocacy; and  
+• Final three weeks of workplace readiness training wrap up.  
+ 
+Therefore, this amounts to a potential total payment of stipends up to $600 per student. The NCO 
+requires a minimum of 60 students per year, with a maximum of 80 students. This means each 
+contract could result in $36,000 - $48,000 of training stipends per FFY. RSA understands there are 
+up to 20 contracts in place, increasing the potential FFY stipend total range between $720,000 - 
+$960,000 per year. Each contract covers a one-year period with the option for annual renewal.
+
+45 
+ 
+DVRS may provide VR services, including maintenance and transportation, to assist applicants or 
+recipients of VR services on an individual basis to participate in those services. Participants must be 
+determined eligible for the VR program and the approved IPE should include the necessary 
+services, such as maintenance and transportation, that would support the individual’s participation 
+in all VR services necessary to achieve the employment goal.  
+ 
+However, costs to participate in VR services must be based on the needs of the individual. In the 
+case of an IPE for an eligible individual that is a student or youth with a disability, the IPE must 
+include the specific transition services and supports needed to achieve the individual’s employment 
+outcome or projected post-school employment outcome (34 C.F.R. § 361.46(a)(2)(ii)). Additionally, 
+the term stipend typically refers to a fixed regular sum paid as a salary or allowance, often as an 
+alternative to a salary or wage. While a stipend may be appropriate for a work-based learning 
+experience, it is not reasonable, necessary, or allocable to the VR program when used as an 
+incentive for the participation and completion of the other required pre-employment transition 
+services.  
+ 
+To the extent that DVRS paid students stipends, gift cards, or any form of honorarium as an 
+incentive for the participant to complete VR services, including pre-employment transition services, 
+the amount paid would represent questioned VR costs. DVRS has a responsibility to ensure that 
+costs paid are allowable, reasonable, and necessary for the provision of VR services, including pre-
+employment transition services.  
+ 
+Conclusion: Incentive payments or honorariums, including the use of gift cards, made with Federal 
+funds are not considered allowable, necessary, reasonable, or allocable and should not be used. 
+Uniform Guidance further clarifies that costs must meet the following general criteria in order to be 
+allowable under Federal awards. DVRS did not ensure the costs were allowable with Federal 
+program funds in accordance with Federal cost principles at 2 C.F.R. §§ 200.403 through 200.405 
+(2 C.F.R. § 200.403(a)). 
+ 
+Corrective Actions 3.3 RSA requires that DVRS —  
+ 
+3.3.1  Cease payment of any form of honorarium or stipends to students with disabilities for the 
+participation and completion of pre-employment transition services; 
+ 
+3.3.2  Develop and implement internal controls necessary to ensure the accuracy of contract 
+language, including fees or costs paid for services, do not include unallowable costs; and 
+ 
+3.3.3  Terminate or revise existing pre-employment transition service internship contracts to 
+remove unallowable costs and ensure the proper payment for services is provided. 
+ 
+VR Agency Response:  
+ 
+DVRS Response 3.3.1: DVRS accepts the findings, and the requirements outlined in the Corrective 
+Action 3.3.1. DVRS is taking immediate proactive steps to address and cease these unallowable 
+payments to students.
+
+46 
+ 
+ 
+DVRS Response 3.3.2: DVRS accepts the findings, and the requirements outlined in Corrective 
+Action 3.3.2. DVRS will implement internal controls to ensure accurate contract language does not 
+include unallowable costs. DVRS will ensure that all staff members are aware of and adhere to 
+Federal and state regulations regarding allowable and unallowable costs. 
+ 
+DVRS Response 3.3.3: DVRS accepts the findings, and the requirements outlined in the Corrective 
+Action 3.3.3. DVRS will revise all current pre-employment contracts to eliminate any language 
+related to unallowable costs, ensure that proper payment for services is provided and that all parties 
+are knowledgeable about permissibility of expenses. 
+ 
+VR Agency Request for Technical Assistance: DVRS requests continued technical assistance to 
+provide training opportunities for staff to ensure awareness of allowable and unallowable costs and 
+clarity related to factors that affect the allowability of costs.
+ 
+Finding 3.4 Supported Employment Program Matching, Drawdown and Reporting 
+Requirements Not Met 
+ 
+Issue: Whether DVRS meets the matching, drawdown and reporting requirements of the Supported 
+Employment program cited at 34 C.F.R. § 363.23(a)(2)(i). 
+ 
+Requirements: In accordance with Section 603 of the Rehabilitation Act, the VR agency must 
+reserve and expend 50 percent of its Supported Employment allotment for the provision of 
+supported employment services to youth with the most significant disabilities. While RSA has 
+divided the Supported Employment allotment into separate grants each constituting 50 percent of 
+the allotment, i.e. Supported Employment-A and Supported Employment-B (SE-A and SE-B), the 
+VR agency’s Supported Employment allotment is considered the total of both those grants, and the 
+VR agency’s obligation to reserve and expend half of its grant on youth with the most significant 
+disabilities continues regardless of whether the size of the total allotment increases or decreases. A 
+VR agency must expend its SE-B grant on youth with the most significant disabilities and match at 
+least 10 percent of the total combined Federal and non-Federal expenditures associated with the SE-
+B grant. 
+ 
+Because the SE-B component of the Supported Employment program has a matching requirement, 
+VR agencies must obligate and/or expend the non-Federal share to be used as match for the SE-B 
+award by the end of the year of appropriation. To carry over unobligated SE-A and/or SE-B Federal 
+funds to a subsequent Federal fiscal year, grantees must obligate the non-Federal share to be used as 
+match for the SE-B award by the end of the year of appropriation. A VR agency may carry over 
+unobligated SE-A funds proportionate to the amount of SE-B funds matched in the year of 
+appropriation. 
+ 
+VR agencies may not expend more in SE-A Federal funds than are matched and expended in SE-B 
+Federal funds by the end of the period of performance. This means that at the end of the period of 
+performance for the SE-A and SE-B awards, a grantee must ensure the amount of Federal SE-A 
+funds obligated and expended is equal to the amount of Federal SE-B funds matched by the end of 
+the year of appropriation and expended at the end of the SE-B award’s period of performance. If a
+
+47 
+ 
+grantee includes obligations as non-Federal share on its SE-B fourth quarter SF-425 (Federal 
+Financial Report) and those obligations are not subsequently liquidated, the amount of SE-A and 
+SE-B funds available for obligation and liquidation is reduced accordingly. 
+ 
+As a recipient of Federal Supported Employment funds, DVRS must have internal controls and 
+procedures that ensure the proper and efficient administration of its Supported Employment 
+program and enable DVRS to carry out all required functions, including meeting the non-Federal 
+share requirement (34 C.F.R. § 361.12 and 2 C.F.R. §§ 302 and 303). 
+ 
+Analysis: As part of the monitoring effort, RSA reviewed SF-425 financial reports submitted by 
+DVRS for the monitoring period for the Supported Employment program. RSA’s review indicated 
+that both the matching, drawdown, proportionate spending, and reporting requirements were unmet 
+for the FFY 2022 SE-B and SE-A awards. 
+ 
+For H187B220044, DVRS must first have met its matching requirement to spend any Federal award 
+funds. While the fourth quarter SF-425 report identifies $19,960.00 in non-Federal share, the Final 
+SF-425 report indicates $0 reported as match. RSA determines match for the SE-B award based on 
+a comparison of the fourth quarter and final non-Federal share, taking the lower of the two. Based 
+on the reports, $0 is the match for H187B220044. The amount of Federal expenditures reported on 
+the Final SF-425 report is $64,442.00. However, the amount of Federal grant funds drawn down 
+from the Department of Education’s Grants Management System (GMS) is only $1,798.00. This 
+Federal expenditure discrepancy demonstrates a lack of internal controls to ensure Federal reports 
+are accurate. Additionally, the $0 reported as non-Federal share on the Final SF-425 report means 
+the $1,798 drawn down and expended from the GMS was not matched as required.  
+ 
+As stated in the requirements, DVRS may not expend more in SE-A Federal funds than are matched 
+and expended in SE-B Federal funds by the end of the period of performance. A review of the Final 
+SF-425 report for H187A220044 demonstrates $62,333.00 reported as Federal expenditures. 
+However, the amount of Federal grant funds drawn down from the GMS is only $23,170.51. This 
+Federal expenditure discrepancy demonstrates a lack of internal controls to ensure Federal reports 
+are accurate. Additionally, since $0 was the final match determination for the SE-B award, this 
+means the $23,170.51 drawn down and expended from the GMS for the SE-A award was not 
+allowable.  
+ 
+Because DVRS reported no non-Federal SE-B expenditures in FFY 2022, DVRS was not permitted 
+to draw down and expend any SE-B or SE-A funds. Despite this, DVRS drew down and expended 
+$1,798.00 in SE-B funds and $23,170.51 in SE-A funds, considered unallowable expenditures for 
+H187B220044 and H187A220044, respectively. 
+ 
+Given the period of performance issues identified earlier in this report, RSA has additional concerns 
+regarding DVRS’ ability to accurately track the proper supported employment expenditures to the 
+program. Therefore, RSA questions the validity of the costs DVRS is charging to the Supported 
+Employment program. DVRS must ensure all Supported Employment expenditures, including non-
+Federal expenditures incurred for the provision of services to youth with the most significant
+
+48 
+ 
+disabilities, are accurately reported, and that a monitoring protocol is implemented to ensure 
+ongoing agency compliance with Supported Employment matching and reporting requirements.  
+ 
+Conclusion: DVRS is not ensuring the accuracy of expenditures charged to the Supported  
+Employment program. The SF-425 reports submitted by DVRS for award H187B220044 do not 
+reconcile with the draw down information identified in the GMS. Thus, RSA is unable to rely on the 
+accuracy of the financial data reported. Additionally, DVRS failed to ensure the drawdown 
+requirements related to meeting the non-Federal share and proportionality requirements were met 
+prior to drawing down and expending Supported Employment award funds.  
+ 
+Corrective Actions 3.4 RSA requires that DVRS— 
+ 
+3.4.1  Within two quarters after the issuance of the final monitoring report, develop and implement 
+policies and procedures, including a monitoring component, that ensure only allowable non-
+Federal and Federal Supported Employment expenditures are charged to the SE-A and SE-B 
+awards, in accordance with 2 C.F.R. § 200.328(a); and 
+ 
+3.4.2  Within two quarters after the issuance of the final monitoring report, develop and implement 
+policies and procedures that ensure only allowable Supported Employment expenditures, 
+including non-Federal share, are reported accurately on SF-425 reports for the SE-A and SE-
+B awards, including a process describing how fiscal data are extracted from systems, then 
+synthesized, mapped and accurately reported in the SF-425 data elements for each report. 
+ 
+VR Agency Response:  
+ 
+DVRS Response 3.4.1: DVRS accepts the findings and the requirements outlined in Corrective 
+Action 3.4.1. DVRS will develop and implement policies and procedures, including a monitoring 
+component, that will ensure only allowable non-Federal and Federal Supported Employment 
+expenditures are charged to the SE-A and SE-B awards, in accordance with 2 C.F.R. § 200.328(a). 
+These policies and monitoring procedures will be implemented within two quarters after the 
+issuance of the final monitoring report.
+ 
+ 
+DVRS Response 3.4.2: DVRS accepts the findings and the requirements outlined in Corrective 
+Action 3.4.2. DVRS will ensure that the data used in SF-425 report is accurate and complies with 
+Federal requirements to ensure only allowable Supported Employment expenditures, including non-
+Federal share, are reported accurately on SF-425 reports for the SE-A and SE-B awards. The 
+procedures will outline the process for how fiscal data are extracted from systems, then synthesized, 
+mapped and accurately reported for each of the data elements in the SF-425 report. These steps will 
+be implemented within the first two quarters of issuance of the final monitoring report. 
+ 
+VR Agency Request for Technical Assistance: DVRS requests continued technical assistance to 
+support the development of policies and procedures due to the complexity and funding structure 
+between Supported Employment (A) & Supported Employment (B) awards.
+
+49 
+ 
+APPENDIX A: STATE VOCATIONAL REHABILITATION SERVICES AND 
+STATE SUPPORTED EMPLOYMENT SERVICES PROGRAMS 
+PERFORMANCE TABLES 
+Table 1—NJ -G Performance Profile 
+ 
+VR Program Performance PY 20 PY 21 PY 22 
+Employment Rate 39.3% 46.1% 47.2% 
+Number of Participants Exiting in Competitive Integrated  Employment or 
+Supported Employment 1,958 2,282 1,899 
+Percentage of Timely Eligibility Determinations 92.2% 96.8% 98.5% 
+Percentage of Eligibility Determinations Extensions 10.1% 5.9% 4.2% 
+Percentage of Timely IPE Development 72.1% 94.7% 98.6% 
+Percentage of Initial IPE Extensions 0.0% 1.0% 3.1% 
+Number of Applicants 5,198 6,031 7,140 
+Number of Individuals Determined Eligible 4,066 5,101 6,190 
+Number of Individuals with an IPE and No VR Services Provided 61 40 50 
+Number of Participants (with an IPE and VR Services Provided) 14,781 14,137 14,249  
+WIOA Performance Indicators (General VR agency) PY 20 PY 21 PY 22 
+Measurable Skill Gains Rate 23.6% 11.8% 59.1% 
+Employment Rate in 2nd Qtr After Exit 24.1% 50.1% 55.1% 
+Median Earnings in 2nd Qtr After Exit $5,290 $6,177 $6,274 
+Employment Rate in 4th Qtr After Exit 7.8% 44.7% 47.2% 
+Credential Attainment Rate 29.0% 32.2% 43.1%  
+WIOA Performance Indicators (State) PY 20 PY 21 PY 22 
+Measurable Skill Gains Rate 26.6% 11.5% 56.1% 
+Employment Rate in 2nd Qtr After Exit 25.6% 49.2% 54.1% 
+Median Earnings in 2nd Qtr After Exit $5,435  $6,210  $6,330  
+Employment Rate in 4th Qtr After Exit 9.7% 43.9% 46.4% 
+Credential Attainment Rate 27.9% 29.6% 42.4%
+
+50 
+ 
+Table 2—NJ -G Types of Exit 
+ 
+Individuals Who Exited the VR Program PY 20 PY 21 PY 22 
+Number of Individuals Who Exited the VR Program 8,149 6,677 5,747 
+ 
+ 
+ 
+Exit Type 
+PY 20 
+Number of 
+Individuals 
+ 
+PY 20 
+Percent 
+PY 21 
+Number of 
+Individuals 
+ 
+PY 21 
+Percent 
+PY 22 
+Number of 
+Individuals 
+ 
+PY 22 
+Percent 
+Individual exited as an 
+applicant, prior to eligibility 
+determination or trial work.  
+experience 
+1,105 13.56% 952 14.26% 860 14.96% 
+Individual exited during or 
+after a trial work experience 57 0.70% 30 0.45% - 0.00% 
+Individual exited after 
+eligibility, but from an order of 
+selection waiting list 
+- 0.0% - 0.0% - 0.0% 
+Individual exited after 
+eligibility, but prior to a signed 
+IPE 
+2,004 24.6% 748 11.2% 861 15.0% 
+Individual exited after an IPE 
+without an employment 
+outcome 
+3,025 37.1% 2,665 39.9% 2,127 37.0% 
+Individual exited after an IPE 
+in noncompetitive and/or 
+nonintegrated employment 
+- 0.0% - 0.0% - 0.0% 
+Individual exited after an IPE 
+in competitive and integrated 
+employment or supported 
+employment 
+1,958 24.0% 2,282 34.2% 1,899 33.0% 
+Individual exited as an 
+applicant after being 
+determined ineligible for VR 
+services 
+- 0.0% - 0.0% - 0.0% 
+ 
+ 
+ 
+Supported Employment 
+PY 20 
+Number of 
+Participants 
+PY21 
+Number of 
+Participants 
+PY 22 
+Number of 
+Participants 
+Number of Participants Who Exited with a Supported Employment 
+Outcome in Competitive Integrated Employment 398 428 382 
+Number of Participants Who Exited with a Supported Employment 
+Outcome in Noncompetitive and/or Nonintegrated Employment - - -
+
+51 
+ 
+Table 3—NJ -G Reasons for Exit 
+ 
+ 
+ 
+Reason for Exit 
+PY 20 
+Number of 
+Individuals 
+ 
+PY 20 
+Percent 
+PY 21 
+Number of 
+Individuals 
+ 
+PY 21 
+Percent 
+PY 22 
+Number of 
+Individuals 
+ 
+PY 22 
+Percent 
+Health/Medical 82 1.0% 94 1.4% 106 1.8% 
+Death of Individual 30 0.4% 25 0.4% 12 0.2% 
+Reserve Forces Called to 
+Active Duty - 0.0% - 0.0% - 0.0% 
+Ineligible after determined 
+eligible 10 0.1% 14 0.2% 12 0.2% 
+Criminal Offender 5 0.1% 8 0.1% 12 0.2% 
+No Disabling Condition 60 0.7% 51 0.8% 60 1.0% 
+Transferred to Another Agency 46 0.6% 42 0.6% 62 1.1% 
+Achieved Competitive 
+Integrated Employment 
+Outcome 
+1,958 24.0% 2,282 34.2% 1,899 33.0% 
+Extended Employment 28 0.3% 52 0.8% 44 0.8% 
+Extended Services Not 
+Available - 0.0% 1 0.0% 7 0.1% 
+Unable to Locate or Contact 2,623 32.2% 1,739 26.0% 1,632 28.4% 
+No Longer Interested in 
+Receiving Services or Further 
+Services 
+2,304 28.3% 1,534 23.0% 1,302 22.7% 
+All Other Reasons 1,003 12.3% 835 12.5% 599 10.4% 
+Short-Term Basis Period - 0.0% - 0.0% - 0.0% 
+Ineligible: Pursuant to 511 - 0.0% - 0.0% - 0.0% 
+Ineligible: Following Trial 
+Work - 0.0% - 0.0% - 0.0% 
+Number of Individuals Who 
+Exited the VR Program 8,149  6,677  5,747
+
+52 
+ 
+Table 4 NJ-G VR Service Provision 
+ 
+VR Service Provision PY 20 PY 21 PY 22 
+Total Number of Individuals Who Received VR Services 13,808 12,965 13,535 
+ 
+ 
+Training Services 
+PY 20 
+Number of 
+Individuals 
+ 
+PY 20 
+Percent 
+PY 21 
+Number of 
+Individuals 
+ 
+PY 21 
+Percent 
+PY 22 
+Number of 
+Individuals 
+ 
+PY 22 
+Percent 
+Graduate Degree Training 44 0.3% 49 0.4% 66 0.5% 
+Bachelor’s Degree Training 880 6.4% 747 5.8% 717 5.3% 
+Junior or Community College 
+Training 
+516 3.7% 318 2.5% 256 1.9% 
+Occupational or Vocational 
+Training 
+784 5.7% 530 4.1% 611 4.5% 
+On-the-Job Training 210 1.5% 146 1.1% 159 1.2% 
+Apprenticeship Training 7 0.1% 4 0.0% 5 0.0% 
+Basic Academic Remedial or 
+Literacy Training 
+- 0.0% - 0.0% - 0.0% 
+Job Readiness Training - 0.0% - 0.0% - 0.0% 
+Disability Related Skills 
+Training* 
+8 0.1% 41 0.3% 58 0.4% 
+Miscellaneous Training 212 1.5% 14 0.1% 18 0.1% 
+Randolph-Sheppard 
+Entrepreneurial Training 
+- 0.0% - 0.0% - 0.0% 
+Customized Training - 0.0% - 0.0% - 0.0% 
+Work-Based Learning 
+Experience 
+- 0.0% - 0.0% - 0.0% 
+ 
+ 
+ 
+Career Services 
+PY 20 
+Number of 
+Individuals 
+ 
+PY 20 
+Percent 
+PY 21 
+Number of 
+Individuals 
+ 
+PY 21 
+Percent 
+PY 22 
+Number of 
+Individuals 
+ 
+PY 22 
+Percent 
+Assessment* 5,253 38.0% 3,838 29.6% 4,599 34.0% 
+Diagnosis and Treatment of 
+Impairment 
+91 0.7% 42 0.3% 53 0.4% 
+Vocational Rehabilitation 
+Counseling and Guidance* 
+11,481 83.1% 11,559 89.2% 12,056 89.1% 
+Job Search Assistance - 0.0% - 0.0% - 0.0% 
+Job Placement Assistance - 0.0% - 0.0% - 0.0% 
+Short-Term Job Supports - 0.0% - 0.0% - 0.0% 
+Supported Employment Services 1,473 10.7% 1,371 10.6% 1,499 11.1%
+
+53 
+ 
+Information and Referral 
+Services* - 0.0% - 0.0% - 0.0% 
+Benefits Counseling* - 0.0% 160 1.2% 591 4.4% 
+Customized Employment 
+Services 6 0.0% 2 0.0% 1 0.0% 
+Extended Services (for youth 
+with the most significant 
+disabilities) 
+- 0.0% - 0.0% - 0.0% 
+ 
+ 
+ 
+ 
+Other Services 
+PY 20 
+Number of 
+Individuals 
+ 
+PY 20 
+Percent 
+PY 21 
+Number of 
+Individuals 
+ 
+PY 21 
+Percent 
+PY 22 
+Number of 
+Individuals 
+ 
+PY 22 
+Percent 
+Transportation* 333 2.4% 126 1.0% 188 1.4% 
+Maintenance* 51 0.4% 35 0.3% 43 0.3% 
+Rehabilitation Technology* 815 5.9% 707 5.5% 675 5.0% 
+Personal Attendant Services* 2 0.0% 3 0.0% 4 0.0% 
+Technical Assistance Services - 0.0% 2 0.0% 2 0.0% 
+Reader Services* - 0.0% - 0.0% - 0.0% 
+Interpreter Services* 27 0.2% 10 0.1% 14 0.1% 
+Other Services 139 1.0% 253 2.0% 375 2.8% 
+*Indicates RSA-911 Service Categories that do not require an individualized plan for employment (IPE)
+
+54 
+ 
+Table 5— NJ-G Measurable Skill Gains and Credentials 
+ 
+ 
+Type of Measurable Skill Gains Earned 
+PY 20 
+Number 
+PY 21 
+Number 
+PY 22 
+Number 
+Educational Functioning Level 2 9 7 
+Secondary Diploma 485 339 630 
+Postsecondary Transcript/Report Card 368 329 1,444 
+Training Milestone 7 - 14 
+Skills Progression 116 - 288 
+Total 978 677 2,383  
+Participants Who Earned Measurable Skill 
+Gains 
+PY 20 
+Number/Percent 
+PY 21 
+Number/Percent 
+PY 22 
+Number/Percent 
+Number of Participants Who Earned Measurable Skill 
+Gains 
+485 339 1,745 
+Percent of Participants Eligible to Earn Measurable 
+Skill Gains 
+13.9% 20.4% 20.7% 
+ 
+ 
+Type of Credentials Earned 
+PY 20 
+Number 
+PY 21 
+Number 
+PY 22 
+Number 
+Secondary 6 27 48 
+Postsecondary 30 30 225 
+Total 36 57 273  
+ 
+Participants Who Earned Credentials 
+PY 20 
+Number/Percent 
+PY 21 
+Number/Percent 
+PY 22 
+Number/Percent 
+Number of Participants Who Earned Credentials 36 56 272 
+Percent of Participants Eligible to Earn Credentials 2.0% 4.0% 12.5%
+
+55 
+ 
+Table 6— NJ-G Competitive Integrated Employment and Supported Employment Outcomes 
+ 
+Participants Who Exited in Competitive Integrated 
+Employment or Supported Employment 
+ 
+PY 20 
+ 
+PY 21 
+ 
+PY 22 
+Number of Participants Who Exited in Competitive Integrated 
+Employment or Supported Employment 1,958 2,282 1,899 
+Median Hourly Earnings at Exit $12.75 $14.00 $15.00 
+Median Hours Worked per Week at Exit 30 30 30  
+ 
+ 
+Public Support at Exit 
+PY 20 
+Number of 
+Participants 
+ 
+PY 20 
+Percent 
+PY 21 
+Number of 
+Participants 
+ 
+PY 21 
+Percent 
+PY 22 
+Number of 
+Participants 
+ 
+PY 22 
+Percent 
+Social Security Disability Insurance at 
+Exit 193 9.9% 238 10.4% 190 10.0% 
+Supplemental Security Income 
+for the Aged, Blind, or Disabled at 
+Exit 
+266 13.6% 349 15.3% 333 17.5% 
+Temporary Assistance for Needy 
+Families at Exit 12 0.6% 7 0.3% 8 0.4% 
+Other Public Support at Exit 48 2.5% 37 1.6% 27 1.4% 
+*  
+ 
+Medical Insurance Coverage at Exit 
+      PY 20 
+Number of 
+Participants 
+ 
+PY 20 
+Percent 
+      PY 21 
+Number of 
+Participants 
+ 
+PY 21 
+Percent 
+      PY 22 
+Number of 
+Participants 
+ 
+PY 22 
+Percent 
+Medicaid at Exit 484 24.7% 659 28.9% 568 29.9% 
+Medicare at Exit 189 9.7% 200 8.8% 186 9.8% 
+State or Federal Affordable Care Act 
+Exchange at Exit 5 0.3% 14 0.6% 7 0.4% 
+Public Insurance from Other Sources 
+at Exit 7 0.4% 14 0.6% 18 0.9% 
+Private Insurance Through Employer 
+at Exit 503 25.7% 505 22.1% 422 22.2% 
+Not Yet Eligible for Private Insurance 
+Through Employer at Exit 16 0.8% 7 0.3% 9 0.5% 
+Private Insurance Through Other 
+Means at Exit 585 29.9% 683 29.9% 490 25.8%
+
+56 
+ 
+Table 7— NJ-G Students with Disabilities 
+ 
+ 
+ 
+ 
+Students with Disabilities 
+   PY 20 
+Number/ 
+Percentage of 
+Students 
+    PY 21 
+Number/ 
+Percentage of 
+Students 
+    PY 22 
+Number/ 
+Percentage of 
+Students 
+Total Students with Disabilities Reported 2,221 3,623 4,825 
+Students with Disabilities Reported with 504 
+Accommodation 9 19 12 
+Students with Disabilities Reported with the 
+Individualized Education Program (IEP) 112 121 105 
+Students with Disabilities Reported without 504 
+Accommodation or IEP 2,128 3,499 4,724 
+Total Students with Disabilities Who Received a Pre-
+Employment Transition Service 589 647 1,176 
+Potentially Eligible Students with Disabilities Who 
+Received a Pre-Employment Transition Service 422 444 854 
+Students with Disabilities, Who Applied for VR 
+Services, and Received a Pre-Employment 
+Transition Service 
+167 203 322 
+Percentage of Students with Disabilities Reported 
+Who Received a Pre-Employment Transition 
+Service 
+26.5% 17.9% 24.4%
+
+57 
+ 
+Table 8—NJ -G Pre-Employment Transition Service Provision 
+ 
+ 
+Pre-Employment 
+Transition Services 
+PY 20 
+Number 
+Provided 
+PY 20 
+Percent of 
+Total 
+PY 21 
+Number 
+Provided 
+PY 21 
+Percent of 
+Total 
+PY 22 
+Number 
+Provided 
+PY 22 
+Percent of 
+Total 
+Total Pre-Employment 
+Transition Services 
+Provided 
+1,886  1,867  3,694  
+Job Exploration 
+Counseling 636 33.7% 617 33.0% 1,277 34.6% 
+Work-Based Learning 
+Experiences 240 12.7% 214 11.5% 487 13.2% 
+Counseling on 
+Enrollment 
+Opportunities 
+150 8.0% 165 8.8% 326 8.8% 
+Workplace Readiness 
+Training 459 24.3% 478 25.6% 880 23.8% 
+Instruction in Self- 
+Advocacy 401 21.3% 393 21.0% 724 19.6%
+
+58 
+ 
+ APPENDIX B: FISCAL DATA TABLES 
+Fiscal data tables current as of March 19, 2024. 
+Table 3.1: VR Federal Resources and Expenditures 
+Federal Resources and 
+Expenditures 2017 2018 2019 2020 2021 2022 2023* 
+FAIN H126A170043 H126A180043 H126A190043 H126A200043 H126A210043 H126A220043 H126A230043 
+Formula Award Amount 47,800,748.00  48,645,642.00  49,674,931.00  50,065,538.00  50,680,422.00  51,584,174.00  56,013,181.00  
+MOE Reduction Amount 0.00  0.00  0.00  0.00  0.00  0.00  0.00  
+Relinquished-Reallotment 0.00  0.00  0.00  0.00  0.00  (5,000,000.00) 0.00  
+Received-Reallotment 0.00  0.00  0.00  0.00  0.00  0.00  0.00  
+Adjustments 0.00  0.00  0.00  0.00  0.00  0.00  0.00  
+Net Award Amount  47,800,748.00  48,645,642.00  49,674,931.00  50,065,538.00  50,680,422.00  46,584,174.00  56,013,181.00  
+Net Award Funds Unused** 0.00  0.00  3,414,362.00  29,441,044.42  0.00  1,896.00  1,896.00  
+Matched Net Award Funds 
+Unused*** 
+0.00  0.00  3,414,361.11  29,441,043.48  (1.47) 1,896.00  (13,838,243.00) 
+Award Funds Expended 47,800,748.00  48,645,642.00  46,260,569.00  20,624,493.58  50,680,422.00  46,582,278.00  13,838,243.00  
+Percent of Net Award 
+Expended 
+100.0% 100.0% 93.1% 41.2% 100.0% 100.0% 24.7% 
+Percent of Formula Award 
+Expended 
+100.0% 100.0% 93.1% 41.2% 100.0% 90.3% 24.7% 
+Carryover Met  Yes Yes Yes Yes Yes Yes Yes 
+Grant Award Closed Yes No Yes Yes No No No 
+*Indicates the award is currently in an open status; therefore, data are either not currently available or not final.  
+**If award is closed, represents amount of funds deobligated at closeout. If award is not closed, represents balance in G6.  
+***Negative number indicates funds expended that were not matched.
+
+59 
+ 
+Table 3.2: VR Non-Federal Share 
+Non-Federal Share (Match) 2017 2018 2019 2020 2021 2022 2023* 
+Federal Expenditures Matched Yes  Yes  Yes Yes  Yes   Yes  No 
+Non-Federal Share-4th 13,186,884.00  13,242,635.00  13,444,422.00  13,550,139.00  13,716,556.00  14,024,664.00  16,204,797.00  
+Non-Federal Share-Final 13,258,285.00  13,210,335.00  13,444,422.00  13,550,139.00  13,716,556.00  14,024,664.00  0.00  
+Federal Funds Required to be Matched 47,800,748.00  48,645,642.00  46,260,569.00  20,624,493.58  50,680,422.00  46,582,278.00  28,181,718  
+Federal Funds Matched 48,723,369.52  48,810,017.11  49,674,930.11  50,065,537.06  50,680,420.53  51,818,828.96  0.00  
+Non-Federal Share Required 12,937,178.30  13,165,847.20  12,520,331.89  5,581,978.57  13,716,556.40  12,607,401.80  7,627,326  
+Federal Funds Match Difference 922,621.52  48,645,642.00  3,414,361.11  29,441,043.48  (1.47) 5,236,550.96  (13,838,243) 
+Percent of Net Federal Funds Matched 101.9% 100.3% 100.0% 100.0% 100.0% 111.2% 0.0% 
+Percent of Federal Formula Award 
+Matched 
+101.9% 100.3% 100.0% 100.0% 100.0% 100.5% 0.0% 
+Matching Requirement Met-State Yes Yes Yes Yes Yes Yes No 
+Required Non-Federal Share-State 16,712,768.94  16,998,605.20  16,558,057.59  9,240,161.28  17,416,343.39  16,503,662.75  7,627,326.47  
+Federal Funds Required to be 
+Matched-State 
+61,750,935.00  62,807,053.00  61,179,302.00  34,140,877.58  64,350,527.00  60,978,322.00  28,181,718.00  
+Federal Funds Matched-State 65,543,218.50  67,228,451.53  69,007,145.43  68,358,284.25  70,781,571.79  76,669,946.43  0.00  
+Federal Funds Match Difference-State 3,792,283.50  4,421,398.53  7,827,843.43  34,217,406.67  6,431,044.79  15,691,624.43  (28,181,718) 
+*Indicates the award is currently in an open status; therefore, data are either not currently available or not final.
+
+60 
+ 
+Table 3.3: VR Maintenance of Effort 
+Maintenance of Effort 
+(MOE) 2017 2018 2019 2020 2021 2022 
+Amount of Non-Federal Share 
+Maintained => 2 years prior 
+Yes Yes Yes Yes  Yes  Yes 
+Non-Federal Share 13,186,884.00  13,210,335.00  13,444,422.00  13,550,139.00  13,716,556.00  14,024,664.00  
+Construction Expenditures-4th 0.00  0.00  0.00  0.00  0.00  0.00  
+Construction Expenditures-
+Final 
+0.00  0.00  0.00  0.00  0.00  0.00  
+Unadjusted MOE Base 13,186,884.00  13,210,335.00  13,444,422.00  13,550,139.00  13,716,556.00  14,024,664.00  
+Adjusted MOE Base 13,208,184.00  13,281,736.00  13,444,422.00  13,550,139.00  13,716,556.00  14,024,664.00  
+MOE Difference 0.00  285,090.00  236,238.00  268,403.00  272,134.00  474,525.00  
+Adjusted MOE Base-State 17,760,443.00  18,266,649.00  18,676,648.00  18,501,035.00  19,156,893.00  20,865,625.00  
+MOE Difference-State 0.00  1,096,052.00  916,205.00  234,386.00  480,245.00  2,364,590.00
+
+61 
+ 
+Table 3.4: Pre-Employment Transition Services 
+Pre-Employment 
+Transition Services 
+(Pre-ETS) 
+2017 2018 2019 2020 2021 2022 
+Pre-ETS Target Met No No No No No No 
+Percent of Matched 
+Federal Funds 
+Expended on Pre-ETS 
+5.1% 6.3% 8.0% 4.6% 4.1% 8.4% 
+Pre-ETS Federal 
+Expenditures-Final 
+2,447,146.00  3,042,016.00  3,984,697.00  2,310,898.00  2,056,742.00  3,898,188.00  
+Pre-ETS Calculation 
+Base 
+47,800,748.00  48,645,642.00  49,674,930.11  50,065,537.06  50,680,420.53  46,584,174.00  
+Pre-ETS Target 7,170,112.20  7,296,846.30  7,451,239.52  7,509,830.56  7,602,063.08  6,987,626.10  
+Pre-ETS Difference (4,722,966.20) (4,254,830.30) (3,466,542.52) (5,198,932.56) (5,545,321.08) (3,089,438.10) 
+Pre-ETS Requirement 
+Met-State 
+No No No No No No 
+Percent of Matched VR 
+Funds Spent on Pre-
+ETS-State 
+6.7% 8.3% 8.7% 6.7% 6.4% 10.0% 
+Pre-ETS Calculation 
+Base-State 
+61,750,935.00  62,807,053.00  64,593,664.00  63,581,922.00  64,350,527.00  60,980,218.00  
+Pre-ETS-Target-State 9,262,640.25  9,421,057.95  9,689,049.60  9,537,288.30  9,652,579.05  9,147,032.70  
+Pre-ETS Federal 
+Expenditures-Final-
+State 
+7,170,112.20  7,296,846.30  5,590,118.00  4,280,435.00  4,128,737.00  6,114,116.00  
+Pre-ETS Difference-
+State 
+(2,092,528.05) (2,124,211.65) (4,098,931.60) (5,256,853.30) (5,523,842.05) (3,032,916.70) 
+Negative is Amount of 
+Reserve Spent on Non-
+Pre-ETS 
+(5,137,491.25) (4,235,952.95) (684,569.60) 24,184,191.12  (5,523,842.05) (3,031,020.70) 
+*Indicates the award is currently in an open status; therefore, data are either not currently available or not final.
+
+62 
+ 
+Table 3.5: Program Income-Agency 
+Program Income 2017 2018 2019 2020 2021 2022 2023* 
+Program Income 
+Received-4th 
+466,386.00  2,249,062.00  1,963,479.00  2,650,593.00  1,939,659.00  20,916.00  3,563,433.00  
+Program Income 
+Received-Final 
+671,392.00  2,231,493.00  1,989,240.00  2,881,377.00  1,947,820.00  0.00  0.00  
+Program Income 
+Difference- 4th/Final 
+(205,006.00) 17,569.00  (25,761.00) (230,784.00) (8,161.00) 20,916.00  3,563,433.00  
+Total Program Income 
+Expended-4th 
+464,038.00  652,121.00  1,963,479.00  0.00  0.00  0.00  0.00  
+Total Program Income 
+Expended-Final 
+671,392.00  2,231,493.00  1,989,240.00  2,881,377.00  1,947,820.00  0.00  0.00  
+Program Income 
+Expended- 4th/Final 
+(207,354.00) (1,579,372.00) (25,761.00) (2,881,377.00) (1,947,820.00) 0.00  0.00  
+Program Income 
+Transferred to the State 
+Independent Living 
+Services (SILS) Program-
+Final 
+0.00  638,405.00  0.00  0.00  0.00  0.00  0.00  
+Program Income 
+Transferred to OIB 
+Program-Final 
+0.00  0.00  0.00  0.00  0.00  0.00  0.00  
+Program Income 
+Transferred to CAP 
+Program-Final 
+0.00  1,593,088.00  0.00  0.00  0.00  0.00  0.00  
+Program Income 
+Transferred to SE 
+Program-Final 
+0.00  0.00  0.00  0.00  0.00  0.00  0.00  
+Total Program Income 
+Transferred 
+0.00  2,231,493.00  0.00  0.00  0.00  0.00  0.00  
+Program Income Used for 
+VR Program 
+671,392.00  0.00  1,989,240.00  2,881,377.00  1,947,820.00  0.00  0.00  
+*Indicates the award is currently in an open status; therefore, data are either not currently available or not final.

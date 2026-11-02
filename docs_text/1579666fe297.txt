@@ -1,0 +1,1555 @@
+FILENAME: d16a9f771933-Understanding_the_Provision_of_Self-Employment_in_the_United_States.pdf
+PATH: _raw/tacqe.com/d16a9f771933-Understanding_the_Provision_of_Self-Employment_in_the_United_States.pdf
+
+UNDERSTANDING THE PROVISION 
+OF SELF -EMPLOYMENT 
+FOR PEOPLE WITH  DISABILITIES  IN THE UNITED  STATES  
+OVERVIEW 
+Joseph Jones, PhD, MPA, Executive Director 
+Kathryn Hansen, Juris Doctorate Candidate, Legal Research Assistant 
+The Harkin Institute for Pub lic Policy & Citizen Engagement 
+Drake University 
+March 2022 
+The contents of this paper were funded by the U.S. Department of Education, Rehabilitation 
+Services Administration (Grant#H263E200005). The ideas, opinions, and conclusions expressed do 
+not represent recommendations, endorsements, or policies of the U.S. Department of Education
+
+This project is a collaboration between Griffin-Hammis 
+Associates and The Harkin Institute for Public Policy & Citizen 
+Engagement at Drake University. 
+Griffin-Hammis Associates (GHA) is a considered one of the 
+leading international expert organizations in offering training 
+and technical assistance around employment for people with 
+disabilities including self-employment, social security benefits 
+planning, job development, and customized employment. The 
+organization is considered a pioneer of microenterprises for 
+people with disabilities, having assisted approximately five 
+hundred successful small businesses to date. GHA shares from 
+a rich history of supporting providers of employment services 
+to build capacity and achieve high-level employment outcomes. 
+GHA is the primary and “go-to” source of information on self- 
+employment. They have been instrumental in developing best 
+practices, essential resources, and widely utilized policy that 
+has advanced the development of self-employment 
+opportunities for individuals with disabilities. 
+The Harkin Institute for Public Policy & Citizen Engagement 
+is a venue and catalyst for dynamic non-partisan research, 
+learning, and outreach to promote understanding of the policy 
+issues to which Senator Harkin devoted his career. During his 
+career and since, Senator Harkin was instrumental in increasing 
+opportunities for individuals with disabilities to live healthy and 
+productive lives in the community through legislation including 
+the Americans with Disabilities Act. 
+UNDERSTANDING  THE PROVISION  OF SELF -EMPLOYMENT  
+FOR PEOPLE WITH  DISABILITIES IN THE UNITED  STATES 2
+
+Introduction 
+On October 1, 2020, Griffin-Hammis Associates (GHA) launched the National Center on Self- 
+Employment, Business Ownership, and Telecommuting (The Center), a five-year Innovative 
+Rehabilitation Training Program funded by the Rehabilitation Services Administration (RSA). 
+To better understand the challenges and opportunities Vocational Rehabilitation (VR) 
+professionals and participants (VR service recipients) face when pursuing self-employment 
+or telecommuting outcomes, GHA partnered with The Harkin Institute (THI) to conduct a 
+broad review and analysis of state VR self-employment policies, identify barriers that impede 
+equitable access to self-employment services, and provide recommendations on how to 
+address these nationally. 
+To collect policy data, The Center researched and summarized self-employment policies for 
+the 50 States plus the District of Columbia. In total, 73 State VR Agencies were included in 
+this research: 29 Combined VR Agencies, 22 General VR Agencies, and 22 Blind VR Agencies. 
+VR Directors were asked to review, edit, and approve these summaries for posting on the 
+policy page of The Center’s website (https://centeronselfemployment.org/policy/map.cfm). 
+The Harkin Institute reviewed all policy data as well as the data on VR self-employment and 
+telecommuting training needs and challenges collected via The Center’s focus groups, a 
+national self-employment and telecommuting needs assessment, and a review and analysis 
+of the 2017-2019 RSA 911 self-employment data. Appendix A contains tables summarizing 
+key data points included in this analysis for both the General/Combined VR Agencies and the 
+Blind Services Agencies. 
+This paper represents the
+  background and impetus behind the policy review, summarizes the 
+findings, and offers initial considerations and recommendations for state VR policy makers. 
+ 
+Problem 
+According to 2020 data from the Small Business Administration Office of Advocacy, 99.9% of 
+all businesses are small business. Small businesses support just over sixty million employees 
+and account for 46.8% of all jobs (Small Business Administration, 2021, p. 1). By design, they 
+are flexible and adaptable. Most grow around the skills and contributions of their founders 
+and are designed to align with the owner’s lifestyle and goals. Business activities that the 
+owner cannot or does not want to do can be outsourced or delegated. This flexibility can 
+make self-employment a powerful option for individuals with disabilities, offering the 
+opportunity to maximize financial return while accommodating their unique conditions 
+of employment. Recent U.S. Department of Labor statistics show that individuals with 
+disabilities are self-employed at almost double the rate (10.3%) of those without disabilities 
+(6.1%) (Bureau of Labor Statistics, 2021, pp. 2-3). Despite the disproportionately higher
+
+rate of self-employed individuals with disabilities in the 
+general population statistics, self-employment remains 
+an infrequent outcome for VR participants. In fact, the 
+PY 2018-2019 RSA 911 data shows that only 1.7% of VR 
+participants for all VR Agencies (General, Combined, and 
+Blind VR) achieved a competitive, integrated employment 
+outcome in self-employment (Cimera et al., 2021, p. 4). 
+Additionally, there is significant disparity among those 
+who were able to exit from services in self-employment. 
+Of the 1.7% who exited in self-employment in PY 2018- 
+2019, most were male (63.4%), white (85%), with a primary 
+disability of either “cause unknown” or “physical disorder 
+not listed elsewhere” (46.4%), and a mean age at IPE 
+development of just over 50 (52.1%). 
+Efforts to increase equitable access to self-employment 
+services as well as the number of self-employment 
+recipients that exit in Competitive Integrated Employment 
+(CIE) must include an analysis of federal and VR Agency 
+self-employment policies. Programs and services for 
+people with disabilities are understood and administered 
+differently across the United States. Just as public 
+policy impacts the lives of people with disabilities and 
+can determine their levels of success, the variation in 
+interpretation of policies and their application can impact 
+an individual’s access to needed services and support 
+mechanisms. Because legislation and administrative 
+rules may be written broadly, each state may interpret 
+federal law, rules, and regulations differently, creating for 
+broad disparities in access to self-employment. In some 
+instances, self-employment may not be considered or 
+encouraged due to lack of information or resources. 
+Three broad areas of influence on the inclusion of self- 
+employment are self-employment assessments, market 
+analysis or business planning requirements, and the 
+self-employment funding and financing guidelines. These 
+three areas provide examples of how each agency has 
+developed its own interpretation of the federal regulations 
+with a net result of over seventy different policies, 
+ 
+ 
+FOR PEOPLE WITH  DISABILITIES IN THE UNITED  STATES 4 
+UNDERSTANDING  THE PROVISION  OF SELF -EMPLOYMENT  
+PY 2018-2019 RSA 911 
+data shows that only 
+1.7% of VR participants 
+achieved a competitive, 
+integrated employment 
+outcome in self- 
+employment. 
+Of the 1.7% who exited 
+in self-employment 
+in PY 2018-2019, most 
+were male (63.4%), 
+white (85%), with a 
+primary disability 
+of either “cause 
+unknown” or “physical 
+disorder not listed 
+elsewhere” (46.4%), 
+and a mean age at IPE 
+development of just 
+over 50 (52.1%). 
+Because legislation 
+and administrative 
+rules may be written 
+broadly, each state 
+may interpret federal 
+law, rules, and 
+regulations differently, 
+creating for broad 
+disparities in access to 
+self-employment.
+
+each with its own restrictions and limitations. The intent of these restrictions is meant 
+to maximize the likelihood of success for self-employment candidates while minimizing 
+investment risks for the VR Agencies. However, it can also limit access to all but the few 
+individuals who fit the traditional profile of an entrepreneur. This restricts a wide range of 
+other ventures that could prove to be the best avenue for successful and sustainable CIE for 
+some participants. 
+Why is this being reviewed and why is it important? 
+Self-employment is one the most customizable employment strategies to employing 
+people with disabilities. It is well aligned with current U.S. economic trends, including the 
+gig economy, and offers VR Agencies a creative and flexible mechanism to increase the 
+employment of individuals with disabilities, including those categorized as having the 
+most significant disabilities. Nationally, however, VR Agency policies and implementation 
+strategies differ broadly across the United States, causing unequal barriers to access to 
+critical services needed to create economic self-sufficiency for people with disabilities. 
+Self-employment represents only 1.7% of successful closures nationally, and many VR 
+Counselors reported that they are unfamiliar with self-employment policies and processes 
+or have difficulty applying those policies and processes to the benefit of participants with 
+more significant impact of disability (Cimera et al., 2021, p. 4; Inge et. al., 2021a). Because 
+the Workforce Innovation and Opportunity Act (WIOA) definition of competitive integrated 
+employment includes self-employment, by extension, self-employment is a mandated 
+option within both supported and customized employment services as well (34 C.F.R. § 
+361.5(c)(9)(i)). Only sixteen of the 73 VR Agencies researched for this paper specifically 
+enumerate supported or customized self-employment in their rules, regulations, or laws, 
+however. In some instances, policy language may be interpreted to exclude individuals who 
+require additional support to research their business or write their business plans or who 
+need long-term services and supports to maintain them. Furthermore, VR policies may 
+unintentionally prevent participants from accessing self-employment support by requiring 
+upfront business plans, financial contributions, or additional criteria that has not been 
+applied to wage employment. 
+These policies were reviewed to better understand what can be done to increase the 
+number of people with disabilities who are self-employed. This review identifies potential 
+policy issues/barriers as well as opportunities to ensure and increase access to vocational 
+rehabilitation programs for people with disabilities. The target of this paper is to support VR 
+Agencies in designing clear yet flexible policy that (1) ensures access for all VR participants, 
+(2) allows for the necessary services and supports to explore self-employment, and (3) 
+makes funding determinations on reasonable and consistent criteria, just as it would for 
+wage employment.
+
+Review of these areas of concern will provide baseline information to inform policy changes. 
+Relevant state policy data is highlighted in each section. Data cited throughout the remainder 
+of this report stems from The Center’s state policy research. Tables 1 and 2 provided in 
+Appendix A summarize all key data points referenced throughout this paper. 
+UNDERSTANDING  THE PROVISION  OF SELF -EMPLOYMENT  
+FOR PEOPLE WITH  DISABILITIES IN THE UNITED  STATES 6 
+Overview of Areas for Study 
+The following research questions for this study relate to three broad areas of influence 
+for self-employment: self-employment assessments, market analysis or business plan 
+requirements, VR self-employment funding limits and restrictions including financial 
+participation requirements and explore what each might predict or allude to regarding 
+barriers to service access. 
+1.
+2.
+3.
+What VR policies may create barriers to individuals with disabilities, 
+including those determined to have the most significant disabilities, 
+who want self-employment services?
+What self-employment assessments, market analysis or business plan 
+requirements may limit access to self-employment services?
+What funding limits and restrictions including financial 
+participation requirements limit access to self-employment 
+services?
+
+Self-Employment Areas of Influence 
+ 
+1. Assessments for Self-Employment – 
+Developing the Vocational Goal 
+34 C.F.R. (Code of Federal Regulations) 361.45 Development of the Individualized Plan 
+for Employment allows for the use of a comprehensive assessment to prepare the IPE “If 
+additional data are needed to determine the employment outcome and the nature and scope 
+of services to be included in the individualized plan for employment of the eligible individual… ” 
+(34 C.F.R. § 361.45(f)(2)(i)). Under these circumstances, “… the State unit must conduct a 
+comprehensive assessment of the [eligible individual’s] unique strengths, resources, priorities, 
+concerns, abilities, capabilities, interests, and informed choice...” (34 C.F.R. § 361.45(f)(2)(i)). 
+For self-employment, one interpretation of this policy might be to use a comprehensive 
+assessment to evaluate the VR participant’s capacity to launch and operate a business. In 
+fact, of the 73 VR Agencies researched for this paper, only three do not require a pre-IPE 
+self-employment assessment, and another ten do not reference required self-employment 
+assessments in their policy (see Table 1a). Policies for the remaining 60 VR Agencies 
+researched require pre-IPE evaluative self-employment questionnaires or assessments. These 
+tools are intended to help a vocational rehabilitation counselor gain information regarding 
+a participant’s related experiences, educational background, skills, and “entrepreneurial” 
+capacity. Assessments such as these have not been validated for use with prospective 
+business owners with disabilities, however, and functionally, may serve as a barrier to 
+accessing self-employment supports.
+
+The following list of questions were pulled from a random 
+selection of self-employment assessment tools and are 
+reflective of those included in these types of assessments: 
+1. Traits or personality characteristics that may make self- 
+employment success questionable 
+a. Lack of persistence/follow through 
+b. Demonstrated unreliability 
+c. Poor problem-solving skills 
+d. Unclear vision of business idea 
+e. Lack of stability (related to income, physical/medical 
+condition, etc.) 
+2. What is your formal education and/or training in your 
+business operation of choice? 
+3. Describe your experience hiring or managing people. 
+4. Are you familiar with financial reports? Do you know how 
+to analyze the data they contain? 
+5. Describe any bookkeeping experience you have. 
+6. What accommodations, if any, are needed for your disability? 
+7. If family or friends engage in the operation of this business, 
+how will you address conflicts that may arise? 
+8. Do you know your credit score? Do you feel your disability 
+has affected your personal credit? 
+9. 
+Have you filed federal and state tax returns for the 
+most recent 3 years? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+UNDERSTANDING  THE PROVISION  OF SELF -EMPLOYMENT  
+FOR PEOPLE WITH  DISABILITIES IN THE UNITED  STATES 8
+
+Questions related to formal education or training, experience hiring or managing people, 
+or knowledge of financial reports and bookkeeping (#2, 3, 4, and 5 above) may bias VR 
+Counselors in favor of participants with prior experience and education and select out those 
+who have not had these opportunities or whose impact of disabilities preclude them from 
+successfully navigating formal education or training. These questions also suggest that 
+experiences and education are precursors to self-employment success. Questions related to 
+credit scores and tax filings (#8 and #9) may restrict access to only individuals with disabilities 
+who have been financially successful in previous experiences. This is a particularly concerning 
+criteria given the long and well-documented correlation between disability and poverty 
+(Boston et al., 2017; Harkin, 2014; Institute for Research on Poverty, 2019). 
+“Trait” or personality-based assessments pose 
+barriers to those whose personal attributes or skill 
+sets do not appear to clearly align with conventional 
+wisdom about what it takes to successfully run a 
+business. Characteristics such as “lack of persistence,” 
+“lack of stability,” and “demonstrated unreliability” 
+are deficit-based and subjective in nature, and 
+often reflect a critical lack of access to necessary 
+supports, not a stable personality trait. Including 
+these assessments may rule people out for the 
+disability-related considerations that VR is designed 
+to address and can close the door to one of the 
+most flexible employment outcomes. “Unclear 
+business idea” concerns may rule out participants 
+who need VR support to identify their business 
+concept, trapping them in a “catch 22”, where they 
+must present a feasible business idea to access VR 
+self-employment supports, but require VR support to 
+identify that concept in the first place. Criteria related 
+to characteristics such as “poor problem-solving 
+skills” can be highly subjective and may exclude a 
+substantial number of potential self-employment 
+candidates, including those with intellectual or other 
+significant disabilities, even though there is evidence 
+that given the right support and the right business 
+concept, any person has the potential to succeed as 
+a business owner
+, regardless of disability (Arnold & 
+Ipsen, 2014; Hall et al., 2018; Ouimette & Rammler, 
+2017). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Characteristics such as 
+“lack of persistence,” 
+“lack of stability,” 
+and “demonstrated 
+unreliability” are deficit- 
+based and subjective in 
+nature, and often reflect 
+a critical lack of access to 
+necessary supports, not 
+a stable personality trait.
+
+Assessments rooted in traditional business expectations typically do not account for the self- 
+employment candidates who may require long term services and supports to operate their 
+businesses. These assessments also may not account for the way in which accommodations 
+and support may offset some of the business owner’s responsibilities. Joe Steffy, a business 
+owner with a Developmental Disability, for example, has successfully operated Poppin’ Joes 
+Kettle Korn since 2005, working his way off cash benefits, even though he does not read, 
+drive, or manage money (www.poppinjoes.org). Support and accommodation requirements 
+are relative not only to the individual business owner but also to the specific business. 
+Poppin’ Joe would need support and accommodation to run any popcorn business, but the 
+nature and type of the supports va
+ry significantly between running a street corner popcorn 
+stand or an online retail business. Questions related to needed accommodations and 
+available supports are therefore better and more effectively addressed via the business plan 
+after the self-employment candidate has had the opportunity to fully research and develop 
+the concept and the operational plan. 
+ 
+Although pre-IPE assessments are intended to evaluate the likelihood of self-employment 
+success, questions remain as to the accuracy, efficacy, and universality of personality or 
+trait-based tools when it comes to predicting success for a diverse range of entrepreneurs 
+(Gartner, 1988). In 2017, Kerr et. al. conducted an extensive literature review on personality 
+traits and entrepreneurship and determined that the “literature shows common results and 
+many points of disagreement, reflective of the heterogeneous nature of entrepreneurship” 
+(Kerr et. al., 2017, pg. 1). For VR Agencies, the critical determination comes down to an 
+individualized decision. In other words, can this participant operate one specifically 
+identified business, with all necessary supports and accommodations, and generate 
+sufficient income to meet their own financial needs and goals? This is precisely the question 
+addressed and answered in a comprehensive business plan; however, many participants 
+who could successfully own and operate the right business with the right supports lack the 
+background experience, education, financial history, or personality traits to “pass” a standard 
+entrepreneurial assessment or to identify a potentially viable business concept in the first 
+place. 
+If the goal is to achieve parity of access to self-employment services, the criteria of these self- 
+employment assessments and questionnaires is of critical importance. 
+ 
+ 
+ 
+ 
+UNDERSTANDING  THE PROVISION  OF SELF -EMPLOYMENT  
+FOR PEOPLE WITH  DISABILITIES IN THE UNITED  STATES 10 
+ 
+ 
+Assessments for Self-Employment: Policy Considerations
+
+The following steps may allow a larger and more diverse group of VR participants to explore 
+business ownership: 
+• Frame pre-IPE self-employment considerations to focus on the process, 
+advantages, and disadvantages of self-employment. 
+• Remove restrictions based on previous education, experience, or financial 
+success. 
+• Neutralize deficit-based “trait” or “personality evaluations by acknowledging the 
+transformative impact of accommodations and support. 
+• Develop and incorporate supported self-employment policies and processes 
+for VR participants who qualify for supported or customized employment. 
+Currently, only thirteen of the 51 State VR General or Combined Agencies and 
+three of the 22 Blind Services Agencies have confirmed supported self-
+employment policies (see Tables 1a and 1b). 
+These steps may allow many individuals with disabilities to be recognized as self-employment 
+candidates and provide a framework for VR Counselors who need to support them effectively 
+and efficiently. 
+ 
+2. Market Analysis/Feasibility Assessment or Business Plan Requirements 
+Assessing feasibility and developing business plans are often considered important 
+predictors of business success. Business plans remain the most common tool for making 
+funding and financing determinations, whether by the VR Agency or a community lender. 
+Given the unique considerations faced by prospective business owners with disabilities, 
+many VR self-employment candidates, would benefit from individualized assistance to 
+complete core self-employment activities, such as identifying a business concept; conducting 
+a market analysis to determine feasibility; or developing a business plan. Challenges related 
+to market analysis and business plan requirements tend to fall into three broad areas: 
+access to specialized self-employment resources; access to support with business concept 
+development; and pre-IPE market analysis or business plan requirements. Federal policy 
+recognized these challenges when including technical assistance and other consultation 
+services within the VR scope of services. 
+ 
+ 
+ 
+11 
+“[t]echnical assistance and other consultation services to conduct market analyses, 
+develo
+p business plans, and otherwise provide resources…  to eligible individuals who 
+are pursuing self-employment or telecommuting or establishing a small business 
+operation as an employment outcome” (34 C.F.R § 361.48(b)(19)).
+
+A 2021 national self-employment needs assessment conducted by The Center underscored 
+the need for these supports. Of the 264 VR professionals who completed the assessment, 
+82.9% identified the need for training on “making referrals for technical assistance for the VR 
+client such as support with marketing research, writing a business plan, etc.” as “important” or 
+“absolutely essential” (Inge et al., 2021). 
+Access to Specialized Sel f-Employment Resources 
+Although 34 C.F.R. 361.48 mandates access to technical assistance with market analyses 
+and business plan development, not all states offer specialized resources for these services. 
+More than one-quarter of the 73 State VR Agencies (27.3%) do not reference these resources 
+in their policies (see Appendix A, Table 1a and 1b). Fifty-three (72.6%) of the VR Agencies 
+offer specialized self-employment supports, either through internal Subject Matter Experts 
+(SMEs) or self-employment consultants/providers, but there may be significant variation in 
+their roles and responsibilities, including with the level of support available to help identify 
+business concepts or research or write the business plan. 
+In some instances, VR Counselors may direct participants to generic community business 
+resources, su
+ch as the Small Business Development Centers (SBDC) or Service Corps of 
+Retired Executives (SCORE), for assistance with market analyses and business plans. These 
+generic business resources serve all prospective community business owners, including 
+those who experience disabilities. However, their services are not designed to specifically 
+address the unique opportunities and barriers prospective business owners with disabilities 
+face, nor are they extensive enough to address individualized support needs. SBDC 
+Counselors, for example, can provide guidance or feedback on business concepts, feasibility, 
+and business plans, but most cannot provide individualized support to implement their 
+recommendations. Even with the best SBDC input on how to conduct the market analysis or 
+write a business plan, some, or even most, VR participants may require support to actually 
+gather the information and write the business plan. Though it may seem logical to assume 
+that participants should write (or largely write) their own business plans to prove they have 
+the capacity to run the business, the reality is that writing a business plan requires very 
+different skills than delivering a product or service. A wedding cake designer may excel at 
+producing exquisite and highly marketable cakes without being able to “run the numbers” 
+and develop the business financials. This should not preclude the participant from starting a 
+cake business, provided the necessary supports, or bookkeepers, to handle the accounting 
+are available. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+UND
+FOR PEOPLE WITH  DISABILITIES IN THE UNITED  STATES 12 
+ERSTANDING  THE PROVIS ION OF SELF -EMPLOYMENT
+
+Access to Business Concept Development Support 
+Self-employment offers VR participants with disabilities 
+a unique opportunity to identify business concepts 
+that align with their strengths and capacities while 
+accommodating disability-related needs. Providing 
+support to identify the business concept that offers the 
+best possible fit is critical and seemingly in alignment 
+with the stated purpose of state VR programs: “…to 
+assess, plan, develop, and provide vocational rehabilitation 
+services for individuals with disabilities, consistent with 
+their unique strengths, resources, priorities, concerns, 
+abilities, capabilities, interests, and informed choice so that 
+they may prepare for and engage in competitive integrated 
+employment and achieve economic self-sufficiency” (34 
+C.F.R § 361.1(b)). Few state policies reviewed for this
+paper provide targeted supports with business concept
+development, however, and VR professionals identify
+this as a critical training need. Approximately 58% of
+the VR professionals participating in the 2021 self- 
+employment needs assessment rated their own need
+for training when “working with a VR client that has
+not developed their business concept (e.g., products or
+services)” as “important” or “absolutely essential” (Inge
+et. al., 2021).
+VR participants who are attracted to the flexibility of 
+self-employment may approach VR requesting support 
+with figuring out what kind of a business they could 
+start. Participants who have previously been served 
+in segregated programs may have limited experiences 
+on which to base potential business concepts and rely 
+heavily on VR services to explore the possibilities. Even 
+those participants who approach VR with an identified 
+business concept may need to refine their original 
+ideas. Most community business resources focus 
+primarily on what happens after the business concept 
+has been identified, i.e., market research, business plan 
+development, and business launch. As such, VR remains 
+the only viable resource to fill this critical gap. 
+Approximately 58% of 
+the VR professionals 
+participating in the 
+2021 self-employment 
+needs assessment 
+rated their own 
+need for training 
+when “working with 
+a VR client that has 
+not developed their 
+business concept (e.g., 
+products or services)” 
+as “important” or 
+“absolutely essential”. 
+13
+
+Market Analysis and Business Plan Submission 
+Timelines 
+Access to critical self-employment supports may be 
+particularly challenging for VR participants served by 
+State VR Agencies that require the market analysis and/ 
+or the business to be completed prior to IPE development. 
+A large majority of the agencies (86.3%) researched for 
+this paper include pre-IPE submission of one or both of 
+these documents before an IPE for self-employment can 
+be developed (See Appendix A, Table 1a and 1b). Requiring 
+VR participants interested in self-employment to produce 
+the market research or business plans pre-IPE prevents 
+them from receiving the technical assistance mandated by 
+34 C.F.R. 361 and creates a bias in favor of those who have 
+the capacity to research and develop their business plan 
+independently, or with a nominal amount of assistance. 
+Self-employment is included in the definition of 
+Competitive Integrated Employment, and by extension 
+is an allowable outcome for those receiving supported 
+or customized employment services (34 C.F.R 361.5(c) 
+(9)). However, participants that require more intensive 
+supports, including those designated most in need of VR 
+services, are highly unlikely to successfully research or 
+develop business plans without the appropriate level of 
+support, thus perpetuating the chronically low percentage 
+of self-employment closures for all but a select few. 
+Many VR participants will require some level of specialized assistance to identify, design, and 
+develop businesses that not only meet a market need but also accommodate their disability. 
+Generic community business resources offer guidance and input on business-related issues, 
+but self-employment candidates with disabilities can only receive the services and supports 
+necessary to address disability-related considerations through the implementation of an 
+approved IPE. When more intensive supports for wage employment are necessary, VR 
+UNDERSTANDING  THE PROVISION  OF SELF -EMPLOYMENT  
+FOR PEOPLE WITH  DISABILITIES IN THE UNITED  STATES 14 
+Requiring VR 
+participants 
+interested in 
+self-employment 
+to produce the 
+market research or 
+business plans pre- 
+IPE prevents them 
+from receiving the 
+technical assistance 
+mandated by 34 
+C.F.R. 361 an
+d
+c
+reates a bias in
+fa
+vor of those who
+ha
+ve the capacity
+to research and
+develop their
+business pla
+n
+i
+ndependently,
+or with a nominal
+amount of
+a
+ssistance.
+Business Feasibility or Business Plan Requirements: Policy Considerations
+
+Counselors refer participants to specialized employment vendors or contractors, not to the 
+generic staffing agencies that serve most communities. This same network of specialized 
+supports for self-employment does not exist in every state, however, leaving both VR 
+Counselors and participants without the referrals or resources necessary to advance an 
+interest in self-employment into a legitimate business proposition. 
+Agencies without internal self-employment SMEs or established self-employment providers, 
+vendors, or consultants rely on VR Counselors, many with minimal training in business 
+development, responsible for guiding through the business research and development 
+process or relying exclusively on other community business resources. Because they serve 
+a related, but different target market, however, these community business resource 
+services generally are not specialized or extensive enough to be “commensurate to the 
+services that the individual would otherwise receive from the designated State vocational 
+rehabilitation agency” or to meet the criteria for comparable benefits and services in as 
+defined by VR Regulations (34 C.F.R. § 361.5(c)(8)). As such, State VR Agencies remain the 
+best, and often the only, available resource to ensure self-employment candidates have 
+access to critical, qualified supports when carrying out self-employment related activities, 
+including identifying the business concept, conducting the market analysis, and writing the 
+business plan. 
+The following steps may help State VR Agencies to address gaps and promote equitable 
+access to self-employment services: 
+1. Expand the pool of available self-employment supports to include specialized self- 
+employment resources within the VR system (internal SMEs, external business
+consultants, vendors, providers, etc.).
+2. Facilitate cross-training between State VR Agencies and community business resources to
+clarify roles and opportunities for collaborations and to identify potential service gaps.
+3. Revise VR Agency policies to support business feasibility and business plan development
+as a component of a self-employment IPE, not a requirement to develop a self- 
+employment IPE to ensure that eligible participants have access to the technical
+assistance mandated by 34 C.F.R. 361.48 without sacrificing the feasibility or business plan
+requirements.
+4. Identify business concept development as a targeted self-employment activity to be
+supported by specialized internal or external resources.
+5. Provide self-employment training and technical assistance to VR professionals. VR
+Counselors often need help with reviewing business plans and guiding candidates through
+the self-employment process (Inge et al., 2021).
+15
+
+3. Self-Employment Funding Policies
+Self-Employment Funding Limits and Financial Participation Requirements
+The amount of funding VR Agencies can contribute to a participant’s business startup varies
+between agencies. Per the policy information collected on the 73 VR Agencies as of the
+writing of this report, 24 states identify no funding limits in their policies; eight identify a
+limit with possible exceptions; and the remainder either specify maximum funding amounts
+ranging from $1500 to $40,000 or do not specify any funding amounts at all (see Appendix A,
+Table 2a and 2b). Thirty-two agencies require individual financial participation to fund their
+self-employment ventures. The amount of this financial participation can be substantial and
+the interplay between required financial participation percentages complex. One agency, for
+example, requires 100% financial participation for a maximum funding amount of $10,000,
+meaning participants must contribute $10,000 to the business (money or in-kind) to receive
+$10,000 in VR funding, while another requires financial participation of 20% ($4,000) to
+receive a maximum of $20,000 in VR funding.
+Often, the amount of required financial participation varies depending on the total amount
+of self-employment funding provided, making these policies read like convoluted word
+problems. Several agencies, for example, require participants to contribute 0% of the first
+$5000, 50% of costs from $5001-$10,000, and 75% of costs over $10,001. At least one agency’s
+self-employment funding policy includes five different participant contribution percentages
+to access $10,000 in VR funding: 5% for up to $2,500; 10% of $2,501-$3,500; 15% for $3,501-
+$4,000; 20% for $4,001-$10,000; and 50% for any funding over $10,001. Policies such as
+these make calculating the actual amount of required financial participation challenging
+and may unnecessarily confuse VR participants or the VR professionals supporting them.
+Most agencies allow for a combination of cash or in-kind contributions to meet the
+financial participation requirements, though there may be limitations on allowable in-kind
+contributions.
+The variation in funding policies make comparative analysis difficult, therefore Tables 2a
+and 2b show the projected costs VR participants and each of the 73 state agencies
+researched for this paper would pay to cover $20,000 in start-up costs. (See Appendix A)
+The amount VR participants would need to fund ranged from 0% ($0) to 87.5% (17,500),
+an enormous differential controlled simply by where the participant lives. These
+calculations are for reference only. The complexity of self-employment funding policy
+makes accurately calculating specific amounts impossible, however, and the various
+policy caveats- e.g., some agencies require an exception to policy to provide $20,000 in
+funding- prevent definitive analysis of the amount a specific VR participant would pay.
+However, because the results captured in Table 2a and 2b are calculated based on
+existing policy, they help provide a
+UNDERSTANDING  THE PROVISION  OF SELF -EMPLOYMENT  
+FOR PEOPLE WITH  DISABILITIES IN THE UNITED  STATES 16
+
+clearer picture of the funding inconsistencies between 
+agencies as well as the immensity of the financial 
+hurdle some VR participants must clear to pursue self- 
+employment. 
+VR Agencies that require financial participation for self- 
+employment funding generally do so across the board, 
+despite the federal prohibition on requiring financial 
+participation “as a condition for furnishing any vocational 
+rehabilitation service if the individual in need of the 
+service has been determined eligible for Social Security 
+benefits under titles II or XVI of the Social Security Act…” 
+or implementing policies where the financial participation 
+amounts are “…so high as to effectively deny the individual 
+a necessary service” (34 C.F.R. § 361.54(b)(3)). The 
+justification often given for these financial participation 
+requirements is that self-employment candidates need 
+to demonstrate their commitment to the business. As 
+a focus group participant stated, participants need to 
+have some “skin in the game” (Inge et al., 2021a). Though 
+commitment to the business is indeed critical, policies 
+that primarily or exclusively rely on commitment through 
+monetary contributions bias access in favor of participants 
+with higher economic opportunities, advantages, and 
+resources. Requiring financial participation of 50% or 
+greater or the contribution of thousands of dollars in 
+start-up costs effectively denies many interested VR 
+participants access to self-employment services, a factor 
+that is particularly concerning given the well documented 
+and deeply rooted correlation between disability and 
+poverty, regardless of whether they receive SSI or SSDI 
+benefits (Boston et al., 2017; Harkin, 2014; Institute for 
+Research on Poverty, 2019). 
+Tiered Self-Employme
+ nt Funding 
+Additionally, many VR Agencies use a tiered funding 
+system, with varying business plan requirements and 
+funding amounts associated with each tier. Criteria 
+associated with these tiers vary between agencies. One 
+VR Agencies that require 
+financial participation for 
+self-employment funding 
+generally do so across the 
+board, despite the Federal 
+prohibition on requiring 
+financial participation 
+“as a condition for 
+furnishing any vocational 
+rehabilitation service if 
+the individual in need 
+of the service has been 
+determined eligible for 
+Social Security benefits 
+under titles II or XVI of 
+the Social Security Act…” 
+or implementing policies 
+where the financial 
+participation amounts are 
+“…so  high as to effectively 
+deny the individual a 
+necessary service”. 
+Though commitment to 
+the business is indeed 
+critical, policies that 
+primarily or exclusively 
+rely on commitment 
+through monetary 
+contributions bias access 
+in favor of participants 
+with higher economic 
+opportunities, advantages, 
+and resources. 
+17
+
+agency offers two tiers, for example: Tier 1 has a funding limit of $2,500 for businesses 
+that will not achieve self-sufficiency; Tier 2 offers up to $7,500 in funding for businesses 
+that will allow the potential business owner to be financial self-sufficient and eliminate 
+the need for public benefits. Another agency offers three tiers: Tier 1 provides up to 
+$3,000 in start-up costs and requires a one-page business plan; Tier 2 provides $3,000- 
+$6,500 in funds and requires a “reduced scope business plan”; and Tier 3 provides 
+$6,501-$12,500 in funds and requires a comprehensive business plan. 
+Tiered self-employment options have several potential benefits, including reducing the 
+paperwork burden for smaller businesses ventures. A prospective virtual secretary 
+whose start-up costs include only a computer, software, and other basic office 
+equipment or a prospective Lyft driver with access to ample existing market research 
+and an established business models and revenue projections will not need to develop 
+30-page business plans. Tiered options provide a simpler process for potential business
+owners; however, they may lead to unintended consequences. VR Counselors with little
+to no training or experience in self-employment or without access to specialized self- 
+employment technical assistance resources may feel more confident supporting smaller
+ventures and encourage prospective business owners to design their businesses to fit
+within the parameters of lower tiers as a result, regardless of how much funding the
+business needs to successfully launch. While this can save time and money in the short
+run, it can reduce or eliminate the chance of successful closure, or worse, long-term
+success of the business.
+Self-Employment Funding Restri
+ ctions 
+Every agency has limits on the activities and items that are eligible for funding. Many 
+of the funding limits are based on federal regulations, which excludes funding on 
+speculative businesses, illicit or illegal industries, multi-level marketing or pyramid 
+models, and businesses involving guns, ammunition, or explosives. At the local level, 
+every agency has also developed funding policies that include a list of additional 
+restrictions and exclusions. These restrictions often prevent a prospective business 
+owner from purchasing real property, engaging in construction or remodeling of real 
+property, and payment of existing debt. While intended to minimize financial risk, some 
+of these funding restrictions may instead eliminate potentially successful opportunities. 
+For example, the ability to purchase an already existing profitable business often 
+represents a low-risk start-up option, but agency policy may either not address this 
+option or prohibit it. Similarly, VR participants may be prohibited from purchasing a 
+business franchise, which could be a feasible option for some prospective business 
+owners, since many franchises have a high likelihood of success and require less risk 
+than starting a business from the ground up. 
+UNDERSTANDING  THE PROVISION  OF SELF -EMPLOYMENT  
+FOR PEOPLE WITH  DISABILITIES IN THE UNITED  STATES 18
+
+34 C.F.R. § 361.54(b)(3) prohibits the financial participation of individuals eligible for benefits 
+under Titles II or XVI of the Social Security Act or those for whom the amount of financial 
+participation would effectively deny them access to the service. The rules around financial 
+participation do not include exceptions for self-employment outcomes, i.e., a participant 
+who would be exempt from financial participation when pursuing wage employment 
+should also be exempt from financial participation when pursuing self-employment. While 
+it may be reasonable or necessary to establish parameters around self-employment, 
+categorical funding limits do not prevent VR Agencies from unwisely investing resources 
+if the business in question cannot launch and sustain within those limits. If the business 
+research and planning process demonstrates that a wedding cake designer needs $14,500 to 
+cover start-up costs and grow the business to the break-even point, for example, and the VR 
+Agency can only provide $10,000 due to funding limits or financial participation requirements, 
+there is greater risk and less logic for providing only $10,000 than there would be in funding 
+the full $14,500. Additionally, encouraging participants to go for lower-tier funding because 
+of the reduced business planning requirements and the relative ease of securing the funding 
+can amount to a waste of VR resources and participant time and energy if that funding 
+amount is insufficient to get the business off the ground. Similarly, there is no justification 
+for VR providing $100,000 in funding if the business in question could launch and break-even 
+with $30,000 in funds. High quality business plans and business financials should provide 
+all the information VR Agencies and VR Counselors need to make sound and equitable 
+determinations that support participants and stand up to arbitration or litigation. 
+Steps include 
+1. Eliminate financial participation requirements for self-employment candidates eligible for
+Title II or Title XVI Social Security benefits.
+2. Replace categorical funding limits and funding timelines (e.g., limiting funding to the
+first six months after launch) with individualized determinations based on the approved
+business plan and business financials.
+3. Write all self-employment funding policy in plain language.
+4. In states with tiered-funding policies, develop clear descriptions for each of the funding
+levels, accompanied by examples of businesses that might best be supported at
+each level. Provide training and technical assistance to VR Counselors to support self- 
+employment candidates to identify the most appropriate level.
+19 
+Self-Employment Funding: Policy Considerations
+
+Conclusion 
+Despite the promise self-employment and business ownership offers to individuals with 
+disabilities across the country, it is one of the least likely service models utilized by vocational 
+rehabilitation counselors with only 1.7% of VR participants exiting in CIE with self-employment 
+nationwide (Inge et al., 2021a, p. 4). This review of state policy explored potential barriers to 
+successful self-employment exits, particularly those that might negatively impact equitable 
+access to self-employment services. The following represent broad opportunities to address 
+the barriers discussed in this paper and increase equitable access to self-employment 
+services: 
+1. Replace potentially biased self-employment assessments with self-employment tools and
+guides that allow for a more nuanced, individualized exploration of self-employment
+possibilities, realities, and risks when participants identify an interest in self-employment.
+2. Ensure eligible participants have access to the appropriate level of technical assistance to
+identify business concepts, conduct market research and write/develop business plans by
+incorporating these services within a self-employment IPE.
+3. Provide training and targeted technical assistance to build the capacity and confidence of
+VR counselors overseeing self-employment cases.
+4. Develop self-employment funding policies that meet the requirements of 34 C.F.R. §
+361.54(b)(3) and better align with those for wage employment services.
+Any of these policies may increase VR participants outcomes in self-employment, but 
+in combination they can help ensure all VR participants can access self-employment if 
+they so choose. The U.S. economy, particularly the gig economy, requires a creativity and 
+flexibility that current self-employment policies, where they exist, fail to meet. Revising VR 
+Agency policies to address unintended barriers and promote a more equitable access for all 
+participants coupled with increased training and technical assistance for VR professionals 
+and community rehabilitation providers could put VR Agencies in a better position at the 
+intersection of the emerging national economy and the needs of their participants. 
+UNDERSTANDING  THE PROVISION  OF SELF -EMPLOYMENT  
+FOR PEOPLE WITH  DISABILITIES IN THE UNITED  STATES 20
+
+References 
+Arnold, N., & Ipsen, C. (2014). A Rapid Review of Self-Employment Literature: Implications for the 
+Vocational Rehabilitation Program. (Rural Institute: Promoting Inclusive Communities). University 
+of Montana Rural Institute. https://scholarworks.umt.edu/ruralinst_employment/32/ 
+Boston, K., Goodman, N., Morris, M., & Walton, D. (2017). Financial Inequality: Disability, Race and 
+Poverty in America. Nation al Disability Institute. https://www.nationaldisabilityinstitute.org/wp- 
+content/uploads/2019/02/disability-race-poverty-in-america.pdf 
+Gartner, W.B. (1988). Who is an entrepreneur? Is the wrong question. American Journal of Small 
+Business, 12(4), 11-32. 
+Hall, A. C., Butterworth, J., Winsor, J., Kramer, J., Nye-Lengerman, K., & Timmons, J. (2018). Building 
+an Evidence-Based, Holistic Approach to Advancing Integrated Employment. Research and Practice 
+for Persons with Severe Disabilities, 43(3), 207–218. https://doi.org/10.1177/1540796918787503 
+Harkin, Tom. (2014). Fulfilling the Promise: Overcoming Persistent Barriers to Economic Self-Sufficiency 
+for People with Disabilities. United States Senate Committee on Health, Education, Labor & 
+Pensions. https://www.help.senate.gov/imo/media/doc/HELP%20Committee%20Disability%20 
+and%20Poverty%20Report.pdf 
+Illinois Administrative Code, Title 89, Chapter IV § 590.315 (2012). https://www.ilga.gov/ 
+commission/jcar/admincode/089/089005900D03150R.html 
+Inge, K., Keeton, B., & Taylor, J. (2021). Barriers and Facilitators to Self-Employment for People 
+with Disabilities as Described by Vocational Rehabilitation Counselors: Report on a Focus Group 
+Study. [Unpublished report]. National Center on Self-Employment, Business Ownership, and 
+Telecommuting. 
+Inge, K., Keeton, B., & Lantz, A. (2021). Vocational Rehabilitation Counselors’ Training Needs and 
+Perceptions of Self-employment and Telecommuting for Individuals with Disabilities: Summary of a 
+National Needs Assessment. [Unpublished report]. National Center on Self-Employment, Business 
+Ownership, and Telecommuting. 
+Institute for Rese
+ arch on Poverty. (2019). Who Is Poor? University of Wisconsin-Madison. https:// 
+www.irp.wisc.edu/resources/who-is-poor/ 
+Kerr, S.P., Kerr, W.R., & Xu, T., (2017). Personality Traits of Entrepreneurs: A Review of 
+RecentLiterature. [Working paper]. Harvard Business School. 
+Ouimette, M., & Rammler, L. H. (2017). Entrepreneurship as a means to Employment First: How can 
+it work? Journal of Vocational Rehabilitation, 46(3), 333–339. https://doi.org/10.3233/JVR-170870 
+21
+
+Revell, W.G., Inge, K., Keeton, B., & Cimera, R., (2021). A Summary of the Self-Employment Outcomes 
+within the Federal/State Vocational Rehabilitation System: PYs 2018 and 2019. [Unpublished report]. 
+National Center on Self-Employment, Business Ownership, and Telecommuting. 
+United States Department of Education (2019). RSA-911 data. Washington, DC: Author. United 
+States Department of Labor, Bureau of Labor Statistics. (2021). Persons with a Disability: Labor 
+Force Characteristics – 2020. https://www.bls.gov/news.release/pdf/disabl.pdf 
+United States Small Business Administration, Office of Advocacy. (2021). 2021 Small Business 
+Profile. https://cdn.advocacy.sba.gov/wp-conten t/uploads/2021/08/30143723/Small-Business- 
+Economic-Profile-US.pdf 
+34 C.F.R. § 361.45 - Development of the individualized plan for employment. https:// 
+www.ecfr.gov/current/title-34/subtitle-B/chapter-III/part-361/subpart-B/subject-group- 
+ECFR8c5f55ccf5c0da2/section-361.45 
+34 C.F.R. § 361.48 - Scope of vocational rehabilitation services for individuals with disabilities. 
+https://www.ecfr.gov/current/title-34/subtit le-B/chapter-III/part-361/subpart-B/subject-group- 
+ECFR8c5f55ccf5c0da2/section-361.48 
+34 C.F.R. § 361.5 - Applicable definitions. https://www.ecfr.gov/current/title-34/subtitle-B/chapter- 
+III/part-361/subpart-A/section-361.5 
+34 C.F.R. § 361.54 - Participation of individuals in cost of services based on financial need. 
+https://www.ecfr.gov/current/title-34/subtit
+ le-B/chapter-III/part-361/subpart-B/subject-group- 
+ECFR8c5f55ccf5c0da2/section-361.54 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+UNDERSTANDING  THE PROVISION  OF SELF -EMPLOYMENT  
+FOR PEOPLE WITH  DISABILITIES IN THE UNITED  STATES 22
+
+Appendix A  
+Table 1a: Pre-IPE Self-Employment (SE) Requirements and Resources, General/Combined VR Agencies 
+State/ 
+Territories 
+% of Total 
+Participants 
+Exiting CIE in SE 
+Nationally PY19 
+Pre-IPE SE 
+Assessment 
+Requirements 
+Pre-IPE 
+Feasibility 
+Requirements 
+Pre-IPE 
+Business Plan 
+Requirements 
+SE TA, SMEs, 
+Vendors, or 
+Consultants 
+Policy for 
+Supported SE 
+AK 0.4 Yes Yes No Yes Yes 
+AL 1.0 Yes Yes Yes Yes Yes 
+AR 2.5 Yes Yes Yes Yes Not Referenced 
+AZ 0.8 Yes Yes Yes Not Referenced Not Referenced 
+CA 0.9 Yes Yes Yes Yes Not Referenced 
+CO 5.5 Yes Yes Yes Yes Yes 
+CT 1.4 Yes Yes Yes Not Referenced Not Referenced 
+DC 0.0 Yes Yes Yes Yes Not Referenced 
+DE 0.3 Yes Yes No Not Referenced Not Referenced 
+FL 1.3 No No No Yes Yes 
+GA 0.5 Yes Yes Yes Not Referenced Not Referenced 
+HI 0.4 Not Referenced Not Referenced Not Referenced Not Referenced Not Referenced 
+IA 1.2 Yes Yes Yes Yes Not Referenced 
+ID 0.8 Yes Yes Yes Not Referenced Yes 
+IL 1.3 Yes Yes Yes Yes Not Referenced 
+IN 1.0 Not Referenced Yes Yes Yes Not Referenced 
+KS 0.1 Yes Yes Yes Yes Not Referenced 
+KY 0.0 Yes Yes Yes Not Referenced Not Referenced 
+LA 1.3 Yes Yes Yes Not Referenced Not Referenced 
+MA 2.2 - - - - - 
+23
+
+Table 1a: Pre-IPE Self-Employment (SE) Requirements and Resources, General/Combined VR Agencies (Continued) 
+State/ 
+Territories 
+% of Total 
+Participants 
+Exiting CIE in SE 
+Nationally PY19 
+Pre-IPE SE 
+Assessment 
+Requirements 
+Pre-IPE 
+Feasibility 
+Requirements 
+Pre-IPE 
+Business Plan 
+Requirements 
+SE TA, SMEs, 
+Vendors, or 
+Consultants 
+Policy for 
+Supported SE 
+MD 0.2 Yes No No Yes Yes 
+ME 1.7 Not Referenced Yes Yes Yes Not Referenced 
+MI 6.1 Yes Yes Yes Yes Yes 
+MN 0.4 Yes Yes Yes Yes Yes 
+MO 2.9 Yes Yes Yes Not Referenced Not Referenced 
+MS 14.4 Not Referenced Not Referenced Not Referenced Yes No 
+MT 0.5 Yes Yes Yes Yes No 
+NC 1.2 Yes Yes Yes Yes Yes 
+ND 0.4 Yes Yes Yes Yes Not Referenced 
+NE 0.2 Yes Yes Yes Yes Yes 
+NH 0.4 Yes Yes Yes Yes Not Referenced 
+NJ 0.3 Yes Yes Yes Yes Not Referenced 
+NM 1.1 Yes Yes Yes Yes Not Referenced 
+NV 0.1 Yes Yes No Yes Not Referenced 
+NY 2.6 Yes Yes Yes Yes Not Referenced 
+OH 1.1 Yes Yes Yes Yes Not Referenced 
+OK 1.3 Yes Yes Yes Yes Not Referenced 
+OR 1.3 No No No Yes Not Referenced 
+PA 1.5 Yes Not Referenced No Not Referenced Not Referenced 
+RI 0.1 Yes Yes No Yes Not Referenced 
+UNDERSTANDING  THE PROVISION  OF SELF -EMPLOYMENT  
+FOR PEOPLE WITH  DISABILITIES IN THE UNITED  STATES 24
+
+Table 1a: Pre-IPE Self-Employment (SE) Requirements and Resources, General/Combined VR Agencies (Continued) 
+State/ 
+Territories 
+% of Total 
+Participants 
+Exiting CIE in SE 
+Nationally PY19 
+Pre-IPE SE 
+Assessment 
+Requirements 
+Pre-IPE 
+Feasibility 
+Requirements 
+Pre-IPE 
+Business Plan 
+Requirements 
+SE TA, SMEs, 
+Vendors, or 
+Consultants 
+Policy for 
+Supported SE 
+SC 8.7 Yes Not Referenced No Not Referenced Not Referenced 
+SD 0.1 Yes Yes Yes Not Referenced Not Referenced 
+TN 0.0 Yes Yes Yes Not Referenced Not Referenced 
+TX 9.1 Yes No No Yes Yes 
+UT 1.5 Yes Yes Yes Yes Not Referenced 
+VA 0.9 Yes Yes Yes Yes Not Referenced 
+VT 0.9 Yes Yes Yes Yes Not Referenced 
+WA 1.9 Yes Yes No Yes Not Referenced 
+WI 0.6 Yes Yes No Not Referenced Yes 
+WV 0.4 Yes Yes Yes Not Referenced Not Referenced 
+WY 0.9 Yes Yes Yes Yes Yes 
+*State policy information has been reviewed, summarized, and submitted to the State VR Agency for review and approval.
+- No policy information available at this time
+Yes – The state’s VR policy specifically includes the requirement. 
+No – The state’s VR policy does not include requirement. 
+Not Referenced – The state’s VR policy does not mention the requirement. 
+25
+
+Table 1b: Pre-IPE Self-Employment Requirements and Resources, Blind Services VR Agencies 
+State/ 
+Territories 
+% of Total 
+Participants 
+Exiting CIE in SE 
+Nationally PY19 
+Pre-IPE SE 
+Assessment 
+Requirements 
+Pre-IPE 
+Feasibility 
+Requirements 
+Pre-IPE 
+Business Plan 
+Requirements 
+SE TA, SMEs, 
+Vendors, or 
+Consultants 
+Policy for 
+Supported SE 
+AR BLIND 0.4 Not Referenced Yes Yes Yes Not Referenced 
+CT BLIND 0.2 Not Referenced Yes Yes Yes Not Referenced 
+DE BLIND 0.0 Yes No No Not Referenced Not Referenced 
+FL BLIND 5.2 Not Referenced Not Referenced Yes Yes Not Referenced 
+IA BLIND 0.0 Yes Yes Yes Yes Not Referenced 
+ID BLIND 0.0 Yes Yes Yes Yes Yes 
+MA BLIND 0.4 Yes Yes Yes Yes Not Referenced 
+ME BLIND 0.0 Not Referenced Not Referenced Yes Yes Not Referenced 
+MI BLIND 0.1 Yes Yes Yes Yes Yes 
+MN BLIND 0.3 Yes Not Referenced No Yes Yes 
+MO BLIND 0.4 Yes Yes Yes Yes Not Referenced 
+NC BLIND 0.9 Yes Yes No Yes Not Referenced 
+NE BLIND 0.4 Yes Not Referenced Yes Yes Not Referenced 
+NJ BLIND* 0.3 Yes Yes Yes Not Referenced Not Referenced 
+NM BLIND 0.0 Not Referenced Not Referenced Yes Yes Not Referenced 
+NY BLIND 0.3 Yes Not Referenced Yes Yes Not Referenced 
+OR BLIND 0.4 Yes Not Referenced Not Referenced Yes Not Referenced 
+SC BLIND 0.1 Yes Yes No Yes Not Referenced 
+SD BLIND 0.2 Yes Yes Yes Yes Not Referenced 
+VA BLIND 0.1 Not Referenced Not Referenced No Not Referenced Not Referenced 
+UNDERSTANDING  THE PROVISION  OF SELF -EMPLOYMENT  
+FOR PEOPLE WITH  DISABILITIES IN THE UNITED  STATES 26
+
+Table 1b: Pre-IPE Self-Employment Requirements and Resources, Blind Services VR Agencies (Continued) 
+State/ 
+Territories 
+% of Total 
+Participants 
+Exiting CIE in SE 
+Nationally PY19 
+Pre-IPE SE 
+Assessment 
+Requirements 
+Pre-IPE 
+Feasibility 
+Requirements 
+Pre-IPE 
+Business Plan 
+Requirements 
+SE TA, SMEs, 
+Vendors, or 
+Consultants 
+Policy for 
+Supported SE 
+VT BLIND 0.2 No No Yes Yes Not Referenced 
+WA BLIND 0.3 Yes Yes Yes Yes Not Referenced 
+*State policy information has been reviewed, summarized, and submitted to the State VR Agency for review and approval.
+- No policy information available at this time
+Yes – The state’s VR policy specifically includes the requirement. 
+No – The state’s VR policy does not include requirement. 
+Not Referenced – The state’s VR policy does not mention the requirement. 
+27
+
+Table 2a: Self-Employment Funding and Financial Participation Requirements, General/Combined Agencies 
+State/ 
+Territories 
+% 
+Participants 
+in SE Services 
+VR Funding Limit Financial Participation 
+Requirements 
+Participant 
+Contribution 
+for $20,000† 
+VR 
+Contribution 
+for $20,000 
+AK* 0.4 $5,000 for Tier I 
+No maximum for Tier II 
+0% for Tier I ($1 - $5,000) 
+50% of $5,001 - $10,000 
+90% of costs > $10,000 
+$11,500 $8,500 
+AL* 1.0 No maximum listed 0% of first $7,000 
+50% of $7001-$15,000 
+75% of additional costs > 
+$15,001 
+$7,750 $12,250 
+AZ* 0.8 Exceptions Allowed 
+$18,000 (exceptions can be 
+granted by senior managers) 
+Not Referenced $2,000 $20,000 
+AR 2.5 No maximum listed (requests 
+> $10,000 require approval
+from SE panel) 
+10% $2,000 $18,000 
+CA* 0.9 No maximum listed Not Referenced $0 $20,000 
+CO 5.5 Exceptions Allowed 
+$3,000 for Tier I 
+$6,500 for Tier II 
+$12,500 for Tier II 
+15% of first $3,000 
+30% of $3,001-$6500 
+50% of $6,501-$21,500 
+$8,250 $11,750 
+UNDERSTANDING  THE PROVISION  OF SELF -EMPLOYMENT  
+FOR PEOPLE WITH  DISABILITIES IN THE UNITED  STATES 28
+
+Table 2a: Self-Employment Funding and Financial Participation Requirements, General/Combined Agencies (Continued) 
+State/ 
+Territories 
+% 
+Participants 
+in SE Services 
+VR Funding Limit Financial Participation 
+Requirements 
+Participant 
+Contribution 
+for $20,000† 
+VR 
+Contribution 
+for $20,000 
+CT 1.4 $10,000 for expected net 
+income above SGA after 2 yrs. 
+$5,000 for no expectation of 
+net income above SGA 
+>10% $10,000 $10,000 
+DE* 0.3 No maximum listed Not Referenced $0 $20,000 
+DC* 0.0 No maximum listed Not Referenced $0 $20,000 
+FL 1.3 No maximum listed None $0 $20,000 
+GA* 0.5 $3,000 for Tier I 
+$10,000 for Tier II 
+25% $10,000 $10,000 
+HI* 0.4 Not Referenced in Policy Not Referenced - - 
+ID 0.8 Exceptions Allowed $10,000 
+(field manager must approve 
+requests for > $10,000) 
+0% of < first $2,500 
+20% of $2,501 - $5,000 
+30% of $5,001 - $7,500 
+40% of $7,501 - $10,000 
+50% of costs > $10,001 
+$7,750 $12,250 
+IL 1.3 Exceptions Allowed 
+$10,000 (bureau chief can 
+grant exceptions) 
+50% $10,000 $10,000 
+IN* 1.0 No maximum listed Not Referenced $0 $20,000 
+29
+
+Table 2a: Self-Employment Funding and Financial Participation Requirements, General/Combined Agencies (Continued) 
+State/ 
+Territories 
+% 
+Participants 
+in SE Services 
+VR Funding Limit Financial Participation 
+Requirements 
+Participant 
+Contribution 
+for $20,000† 
+VR 
+Contribution 
+for $20,000 
+IA 1.2 $10,000 100% $10,000 $10,000 
+KS 0.1 No maximum listed Not Referenced $0 $20,000 
+KY 0.0 No maximum listed 0% of first $5,000 
+50% of $5,000 - $10,000 
+95% of costs > $10,000 
+$12,000 $8,000 
+LA* 1.3 $20,000 20% $4,000 $16,000 
+ME 1.7 $7,500 Not Referenced $12,500 $7,500 
+MD 0.2 $15,000 Not Referenced $5,000 $15,000 
+MA 2.2 - - - - 
+MI 6.1 No maximum listed Not Referenced $0 $20,000 
+MN 0.4 $8,700 (2021) 
+Funding restricted by MN 
+business fee schedule. No 
+maximum listed. 
+% Of income that exceeds 
+MN consumer financial 
+participation threshold 
+$11,300 $8,700 
+MS* 14.4 No maximum listed Not Referenced $0 $20,000 
+MO 2.9 $10,000 0% of first $5,000 
+50% of $5,001 - $10,000 
+75% of costs > $10,000 
+$10,000 $10,000 
+UNDERSTANDING  THE PROVISION  OF SELF -EMPLOYMENT  
+FOR PEOPLE WITH  DISABILITIES IN THE UNITED  STATES 30
+
+Table 2a: Self-Employment Funding and Financial Participation Requirements, General/Combined Agencies (Continued) 
+State/ 
+Territories 
+% 
+Participants 
+in SE Services 
+VR Funding Limit Financial Participation 
+Requirements 
+Participant 
+Contribution 
+for $20,000† 
+VR 
+Contribution 
+for $20,000 
+MT* 0.5 No maximum listed 0% of first $5,000 
+> 75% of costs above $5,001
+$11,250 $8,750 
+NE 0.2 $6,000 Not Referenced $14,000 $6,000 
+NV 0.1 No maximum listed 0% of first $2,000 
+10% of $2,001 - $5,000 
+25% of $5,001 - $10,000 
+50% of $10,001 - $20,000 
+75% of costs > $20,001 
+$6,550 $13,450 
+NH 0.4 $10,000 (for businesses 
+leading to self-sufficiency) 
+Not Referenced $10,000 $10,000 
+NJ 0.3 $10,000 Not Referenced $10,000 $10,000 
+NM* 1.1 No maximum listed 0% of first $1 - $5,000 
+50% of $5,001 - $10,000 
+75% of costs > $10,001 
+$10,000 $10,000 
+NY 2.6 $11,000 10% of costs > $5,000 $9,000 $11,000 
+NC 1.2 No maximum listed 10% of first $2,499 
+25% of $2,500 - $9,999 
+30% of $10,000 - $19,999 
+50% of $20,000 - $50,000 
+$5,125 $14,875 
+31
+
+Table 2a: Self-Employment Funding and Financial Participation Requirements, General/Combined Agencies (Continued) 
+State/ 
+Territories 
+% 
+Participants 
+in SE Services 
+VR Funding Limit Financial Participation 
+Requirements 
+Participant 
+Contribution 
+for $20,000† 
+VR 
+Contribution 
+for $20,000 
+ND* 0.4 No maximum listed 50% of first $5,000 
+95% of costs > $5,000 
+$16,750 $3,250 
+OH 1.1 No maximum listed (cost of 
+>$10,000 must be approved 
+by the Area Manager) 
+Not Referenced $0 $20,000 
+OK* 1.3 Exceptions Allowed $10,000 
+(cost > $10,000 require 
+supervisor/field coordinator 
+approval) 
+50% of costs > $10,000 $5,000 $15,000 
+OR 1.3 $3,000 maximum for 
+microenterprise 
+No maximum listed for 
+comprehensive SE 
+Not Referenced $0 $20,000 
+PA 1.5 $10,000 50% $10,000 $10,000 
+RI 0.1 $10,000 Not Referenced $10,000 $10,000 
+SC* 8.7 $10,000 Not Referenced $10,000 $10,000 
+UNDERSTANDING  THE PROVISION  OF SELF -EMPLOYMENT  
+FOR PEOPLE WITH  DISABILITIES IN THE UNITED  STATES 32
+
+Table 2a: Self-Employment Funding and Financial Participation Requirements, General/Combined Agencies (Continued) 
+State/ 
+Territories 
+% 
+Participants 
+in SE Services 
+VR Funding Limit Financial Participation 
+Requirements 
+Participant 
+Contribution 
+for $20,000† 
+VR 
+Contribution 
+for $20,000 
+SD* 0.1 Exceptions Allowed 
+$14,500 (state approval must 
+be granted for requests > 
+$5,000) 
+0% of $5,000 
+90% of costs > $5,000 
+$13,500 $6,500 
+TN* 0.0 $10,000 Not Referenced $10,000 $10,000 
+TX 9.1 No maximum listed 
+(costs > $10,000 require VR 
+area manager approval) 
+Not Referenced $0 $20,000 
+UT 1.5 $5,000 for Tier I 
+No maximum for Tier II 
+Not Referenced $0 $20,000 
+VA* 0.9 No maximum listed Not Referenced $0 $20,000 
+VT* 0.9 $1,500 for supplementary 
+ventures 
+$2,500 for self-sufficiency 
+Not Referenced $17,500 $2,500 
+WA 1.9 $3,000 for businesses not 
+expected to lead to self- 
+sufficiency 
+$10,000 for businesses 
+expected to lead to self- 
+sufficiency 
+Not Referenced $10,000 $10,000 
+33
+
+Table 2a: Self-Employment Funding and Financial Participation Requirements, General/Combined Agencies (Continued) 
+ 
+ 
+State/ 
+Territories 
+% 
+Participants 
+in SE Services 
+ 
+VR Funding Limit 
+ 
+Financial Participation 
+Requirements 
+Participant 
+Contribution 
+for $20,000† 
+VR 
+Contribution 
+for $20,000 
+WV 0.4 No maximum listed Not Referenced $0 $20,000 
+WI 0.6 No maximum listed 0% of first $10,000 
+50% of costs > $10,001 
+$5,000 $15,000 
+WY 0.9 No maximum listed Not Referenced $0 $20,000 
+ 
+*State policy information has been reviewed, summarized, and submitted to the State VR Agency for review and approval. 
+- No policy information available at this time 
+† Participant contribution includes required financial participation and any additional funds needed to reach $20,000 after VR 
+contributions. Exceptions to policy may offset or eliminate any additional customer funding requirements. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+UNDERSTANDING  THE PROVISION  OF SELF -EMPLOYMENT  
+FOR PEOPLE WITH  DISABILITIES IN THE UNITED  STATES 34
+
+Table 2b: Self-Employment Funding and Financial Participation Requirements, Blind Services Agencies 
+States 
+% Self- 
+Employment 
+Services 
+VR Funding Limits Financial Participation 
+Requirements 
+Participant 
+Contribution 
+for $20,000 
+VR 
+Contribution 
+for $20,000 
+AR BLIND* 0.4 $40,000 (not including cost of 0% of first $10,000 
+60% of costs > $10,001 
+$6,000 $14,000 
+technical assistance) 
+CT BLIND* 0.2 No Maximum Listed 10% of < first $10,000 
+15% of $10,001 - $20,000 
+25% of $20,001 - $50,000 
+35% of costs > $50,000 
+$3,000 $17,000 
+DE BLIND 0.0 $10,000 Not Referenced $10,000 $10,000 
+FL BLIND* 5.2 $5,000 - $15,000 20% $5,000 $15,000 
+ID BLIND* 0.0 $5,000 for businesses leading Not Referenced $15,000 $5,000 
+to self-sufficiency 
+$2,500 for businesses 
+intended to supplement 
+income 
+IA BLIND 0.0 $10,000 100% $10,000 $10,000 
+35
+
+Table 2b: Self-Employment Funding and Financial Participation Requirements, Blind Services Agencies (Continued) 
+ 
+ 
+States 
+% Self- 
+Employment 
+Services 
+ 
+VR Funding Limits 
+ 
+Financial Participation 
+Requirements 
+Participant 
+Contribution 
+for $20,000 
+VR 
+Contribution 
+for $20,000 
+ME BLIND 0.0 $7,500 for businesses leading 
+to self-sufficiency 
+$2,500 for businesses not 
+leading to self-sufficiency 
+Not Referenced $12,500 $7,500 
+MA BLIND 0.4 No Maximum Listed Not Referenced $0 $20,000 
+MI BLIND* 0.1 No Maximum Listed 10% < of first $2,500 
+15% of $2,501 - $5,000 
+20% of $5,001 - $10,000 
+25% of costs > $10,001 
+$4,125 $15,875 
+MN BLIND 0.3 $5,000 (does not include cost 
+of assessments, referrals, or 
+training and education related 
+to business) 
+Not Referenced $15,000 $5,000 
+MO BLIND* 0.4 $17,500 25% $5,000 $15,000 
+NE BLIND 0.4 $20,000 Not Referenced $0 $20,000 
+NJ BLIND* 0.3 No Maximum Listed 10% of first $5,000 
+20% of $5,001 - $7,500 
+30% of $7,501 - $15,000 
+40% of $15,501 and higher 
+$5,000 $15,000 
+ 
+ 
+UNDERSTANDING  THE PROVISION  OF SELF -EMPLOYMENT  
+FOR PEOPLE WITH  DISABILITIES IN THE UNITED  STATES 36
+
+Table 2b: Self-Employment Funding and Financial Participation Requirements, Blind Services Agencies (Continued) 
+States 
+% Self- 
+Employment 
+Services 
+VR Funding Limits Financial Participation 
+Requirements 
+Participant 
+Contribution 
+for $20,000 
+VR 
+Contribution 
+for $20,000 
+NM BLIND 0.0 Not Referenced Not Referenced $0 $20,000 
+NY BLIND 0.3 $15,000 Not Referenced $5,000 $15,000 
+NC BLIND* 0.9 $24,000 5% of first $5,000 
+10% of $5,001 - $10,000 
+15% of $10,001 - $20,000 
+20% of $20,001 - $30,000 
+$2,250 $17,750 
+OR BLIND 0.4 No Maximum Listed Not Referenced $0 $20,000 
+SC BLIND* 0.1 No Maximum Listed 5% of first $2,500 
+10% of $2,501 - $3,500 
+15% of $3,501 - $4,000 
+20% of $4,001 - $10,000 
+50% of costs > $10,001 
+$6,500 $13,500 
+SD BLIND* 0.2 $14,500 0% of first $5,000 
+90% of costs > $5,001 
+$13,500 $6,500 
+37
+
+Table 2b: Self-Employment Funding and Financial Participation Requirements, Blind Services Agencies (Continued) 
+States 
+% Self- 
+Employment 
+Services 
+VR Funding Limits Financial Participation 
+Requirements 
+Participant 
+Contribution 
+for $20,000 
+VR 
+Contribution 
+for $20,000 
+VT BLIND 0.2 $5,000 for businesses leading 
+to self-sufficiency 
+$2,500 for ventures intended 
+to supplement existing income 
+Not Referenced $15,000 $5,000 
+VA BLIND 0.1 No Maximum Listed Not Referenced $0 $20,000 
+WA BLIND 0.3 $20,000 75% $15,000 $5,000 
+*State policy information has been reviewed, summarized, and submitted to the State VR Agency for review and approval.
+- No policy information available at this time
+† Participant contribution includes required financial participation and any additional funds needed to reach $20,000 after VR 
+contributions. Exceptions to policy may offset or eliminate any additional customer funding requirements. 
+UNDERSTANDING  THE PROVISION  OF SELF -EMPLOYMENT  
+FOR PEOPLE WITH  DISABILITIES IN THE UNITED  STATES 38
+
+The contents of this document were funded by the U.S. Department of Education, Rehabilitation 
+Services Administration (Grant#H263E200005). The ideas, opinions, and conclusions expressed do 
+not represent recommendations, endorsements, or policies of the U.S. Department of Education.  
+39

@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Veterans Employment Pathways Agent</title>
+  <link rel="stylesheet" href="/static/style.css">
+  <script src="/static/app.js" defer></script>
+</head>
+<body>
+  <main class="page">
+    <header class="intro">
+      <div class="intro-top">
+        <h1>Veterans Employment Pathways Agent</h1>
+        <form method="post" action="/logout">
+          <button type="submit" class="btn btn-quiet">Sign out</button>
+        </form>
+      </div>
+      <p>
+        Enter a veteran's profile and employment question below. The agent can combine policy
+        documents, academic research, live VA resources, RSA-911 aggregate dataset analysis,
+        safe text-to-SQL queries, and O*NET occupation data to generate a grounded, cited
+        employment pathway.
+      </p>
+      <p class="example">
+        <strong>Example:</strong> I'm a veteran with TBI, recently divorced, and use a wheelchair.
+        What are my best employment options and what programs can help me?
+      </p>
+    </header>
+
+    <section class="chat" aria-label="Employment Pathway Conversation">
+      <div id="messages" class="messages" aria-live="polite">
+        <p id="empty" class="empty">Your conversation will appear here.</p>
+      </div>
+    </section>
+
+    <form id="ask-form" class="ask">
+      <label for="message" class="visually-hidden">Your question or veteran profile</label>
+      <textarea id="message" rows="3" maxlength="4000" required
+        placeholder="Describe the veteran's conditions, limitations, and employment goal…&#10;e.g. 'TBI, wheelchair user, recently divorced — what employment pathways exist?'"></textarea>
+      <button id="ask-btn" type="submit" class="btn btn-primary">Ask Agent</button>
+    </form>
+    <p class="hint">Press Enter to send, Shift+Enter for a new line. Detailed answers can take one to two minutes.</p>
+
+    <div class="actions">
+      <button id="clear-btn" type="button" class="btn">Clear Conversation</button>
+      <button id="new-btn" type="button" class="btn">New Session</button>
+      <button id="export-btn" type="button" class="btn">Download PDF</button>
+      <span id="session-label" class="session"></span>
+    </div>
+
+    <details class="tips">
+      <summary>Tips for best results</summary>
+      <p><strong>Include in your query:</strong></p>
+      <ul>
+        <li>Disability types (e.g. TBI, PTSD, mobility impairment, vision loss)</li>
+        <li>Life circumstances (e.g. recently divorced, housing instability)</li>
+        <li>Functional limitations (e.g. cognitive fatigue, wheelchair user)</li>
+        <li>Employment goals (e.g. remote work, federal jobs, self-employment)</li>
+        <li>Any prior work history or skills</li>
+      </ul>
+      <p><strong>The agent will:</strong></p>
+      <ol>
+        <li>Parse the veteran's profile</li>
+        <li>Search policy documents, PubMed research, VA/web resources, RSA-911 aggregates, and O*NET</li>
+        <li>Run safe aggregate SQL over RSA-911 when a dataset question is asked</li>
+        <li>Recommend a VA VR&amp;E track</li>
+        <li>Suggest specific occupation pathways with citations</li>
+        <li>Flag evidence gaps explicitly</li>
+      </ol>
+    </details>
+
+    <footer class="footer">
+      Powered by: Agno · <span id="model-label">LLM</span> · ChromaDB + BM25 · PubMed · DuckDuckGo ·
+      RSA-911 Safe SQL · O*NET · AgentOps
+    </footer>
+  </main>
+</body>
+</html>

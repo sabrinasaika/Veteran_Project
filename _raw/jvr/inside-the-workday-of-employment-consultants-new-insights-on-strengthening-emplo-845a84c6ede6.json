@@ -1,0 +1,1823 @@
+{
+  "source_type": "jvr_pdf_candidate",
+  "doi": "10.1177/10522263251394329",
+  "doi_url": "https://doi.org/10.1177/10522263251394329",
+  "source_url": "https://journals.sagepub.com/doi/10.1177/10522263251394329",
+  "attempted_pdf_urls": [
+    "https://journals.sagepub.com/doi/pdf/10.1177/10522263251394329",
+    "https://journals.sagepub.com/doi/10.1177/10522263251394329",
+    "https://doi.org/10.1177/10522263251394329",
+    "https://content.iospress.com/download?id=10.1177/10522263251394329"
+  ],
+  "selected_pdf_url": "",
+  "selected_final_url": "",
+  "download_status": "unavailable",
+  "match": {
+    "veteran_hits": [
+      "va "
+    ],
+    "pathway_hits": [
+      "employment",
+      "job"
+    ],
+    "disability_hits": []
+  },
+  "openalex": {
+    "id": "https://openalex.org/W4416082322",
+    "doi": "https://doi.org/10.1177/10522263251394329",
+    "title": "Inside the Workday of Employment Consultants: New Insights on Strengthening Employment Services",
+    "display_name": "Inside the Workday of Employment Consultants: New Insights on Strengthening Employment Services",
+    "publication_year": 2025,
+    "publication_date": "2025-11-10",
+    "ids": {
+      "openalex": "https://openalex.org/W4416082322",
+      "doi": "https://doi.org/10.1177/10522263251394329"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/10522263251394329",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/10522263251394329",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S190353498",
+        "display_name": "Journal of Vocational Rehabilitation",
+        "issn_l": "1052-2263",
+        "issn": [
+          "1052-2263",
+          "1878-6316"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310318577",
+        "host_organization_name": "IOS Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310318577"
+        ],
+        "host_organization_lineage_names": [
+          "IOS Press"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Vocational Rehabilitation",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5120333334",
+          "display_name": "Alberto Migliore",
+          "orcid": "https://orcid.org/0000-0002-9717-3228"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I33434090",
+            "display_name": "University of Massachusetts Boston",
+            "ror": "https://ror.org/04ydmy275",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I33434090"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Alberto Migliore",
+        "raw_affiliation_strings": [
+          "University of Massachusetts Boston",
+          "Institute for Community Inclusion, University of Massachusetts Boston, Boston, Massachusetts, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of Massachusetts Boston",
+            "institution_ids": [
+              "https://openalex.org/I33434090"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Institute for Community Inclusion, University of Massachusetts Boston, Boston, Massachusetts, USA",
+            "institution_ids": []
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5120333335",
+          "display_name": "Ryan Wedeking",
+          "orcid": "https://orcid.org/0009-0000-8921-6534"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I33434090",
+            "display_name": "University of Massachusetts Boston",
+            "ror": "https://ror.org/04ydmy275",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I33434090"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Ryan Wedeking",
+        "raw_affiliation_strings": [
+          "University of Massachusetts Boston",
+          "Institute for Community Inclusion, University of Massachusetts Boston, Boston, Massachusetts, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of Massachusetts Boston",
+            "institution_ids": [
+              "https://openalex.org/I33434090"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Institute for Community Inclusion, University of Massachusetts Boston, Boston, Massachusetts, USA",
+            "institution_ids": []
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5120333336",
+          "display_name": "Sherry Healey",
+          "orcid": "https://orcid.org/0009-0003-2111-9836"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I2800403580",
+            "display_name": "University of Minnesota System",
+            "ror": "https://ror.org/03grvy078",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I2800403580"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I130238516",
+            "display_name": "University of Minnesota",
+            "ror": "https://ror.org/017zqws13",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I130238516"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Sherry Healey",
+        "raw_affiliation_strings": [
+          "University of Minnesota",
+          "Institute on Community Integration, University of Minnesota, Minneapolis, Minnesota, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of Minnesota",
+            "institution_ids": [
+              "https://openalex.org/I2800403580"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Institute on Community Integration, University of Minnesota, Minneapolis, Minnesota, USA",
+            "institution_ids": [
+              "https://openalex.org/I130238516"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5028993423",
+          "display_name": "Jill Eastman",
+          "orcid": "https://orcid.org/0009-0000-7593-6290"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I33434090",
+            "display_name": "University of Massachusetts Boston",
+            "ror": "https://ror.org/04ydmy275",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I33434090"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Jill Eastman",
+        "raw_affiliation_strings": [
+          "University of Massachusetts Boston",
+          "Institute for Community Inclusion, University of Massachusetts Boston, Boston, Massachusetts, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of Massachusetts Boston",
+            "institution_ids": [
+              "https://openalex.org/I33434090"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Institute for Community Inclusion, University of Massachusetts Boston, Boston, Massachusetts, USA",
+            "institution_ids": []
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5093330699",
+          "display_name": "Danielle Mahoehney",
+          "orcid": "https://orcid.org/0000-0001-9495-7097"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I2800403580",
+            "display_name": "University of Minnesota System",
+            "ror": "https://ror.org/03grvy078",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I2800403580"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I130238516",
+            "display_name": "University of Minnesota",
+            "ror": "https://ror.org/017zqws13",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I130238516"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Danielle Mahoehney",
+        "raw_affiliation_strings": [
+          "University of Minnesota",
+          "Institute on Community Integration, University of Minnesota, Minneapolis, Minnesota, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of Minnesota",
+            "institution_ids": [
+              "https://openalex.org/I2800403580"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Institute on Community Integration, University of Minnesota, Minneapolis, Minnesota, USA",
+            "institution_ids": [
+              "https://openalex.org/I130238516"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5042677075",
+          "display_name": "Jean Winsor",
+          "orcid": "https://orcid.org/0000-0002-2311-6992"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I33434090",
+            "display_name": "University of Massachusetts Boston",
+            "ror": "https://ror.org/04ydmy275",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I33434090"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Jean Winsor",
+        "raw_affiliation_strings": [
+          "University of Massachusetts Boston",
+          "Institute for Community Inclusion, University of Massachusetts Boston, Boston, Massachusetts, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of Massachusetts Boston",
+            "institution_ids": [
+              "https://openalex.org/I33434090"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Institute for Community Inclusion, University of Massachusetts Boston, Boston, Massachusetts, USA",
+            "institution_ids": []
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 6,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5120333334"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I33434090"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.35183706,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": "64",
+      "issue": "1",
+      "first_page": "61",
+      "last_page": "72"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11514",
+      "display_name": "Disability Education and Employment",
+      "score": 0.14830000698566437,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3311",
+        "display_name": "Safety Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11514",
+        "display_name": "Disability Education and Employment",
+        "score": 0.14830000698566437,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3311",
+          "display_name": "Safety Research"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11779",
+        "display_name": "Higher Education and Employability",
+        "score": 0.09709999710321426,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3304",
+          "display_name": "Education"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11544",
+        "display_name": "Gender, Labor, and Family Dynamics",
+        "score": 0.09430000185966492,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3318",
+          "display_name": "Gender Studies"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/best-practice",
+        "display_name": "Best practice",
+        "score": 0.7378000020980835
+      },
+      {
+        "id": "https://openalex.org/keywords/seekers",
+        "display_name": "Seekers",
+        "score": 0.526199996471405
+      },
+      {
+        "id": "https://openalex.org/keywords/key",
+        "display_name": "Key (lock)",
+        "score": 0.46320000290870667
+      },
+      {
+        "id": "https://openalex.org/keywords/supported-employment",
+        "display_name": "Supported employment",
+        "score": 0.46209999918937683
+      },
+      {
+        "id": "https://openalex.org/keywords/job-loss",
+        "display_name": "Job loss",
+        "score": 0.4262000024318695
+      },
+      {
+        "id": "https://openalex.org/keywords/social-assistance",
+        "display_name": "Social assistance",
+        "score": 0.3982999920845032
+      },
+      {
+        "id": "https://openalex.org/keywords/state",
+        "display_name": "State (computer science)",
+        "score": 0.34790000319480896
+      },
+      {
+        "id": "https://openalex.org/keywords/action",
+        "display_name": "Action (physics)",
+        "score": 0.3151000142097473
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C184356942",
+        "wikidata": "https://www.wikidata.org/wiki/Q830382",
+        "display_name": "Best practice",
+        "level": 2,
+        "score": 0.7378000020980835
+      },
+      {
+        "id": "https://openalex.org/C144133560",
+        "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+        "display_name": "Business",
+        "level": 0,
+        "score": 0.6388999819755554
+      },
+      {
+        "id": "https://openalex.org/C2776493517",
+        "wikidata": "https://www.wikidata.org/wiki/Q1479542",
+        "display_name": "Seekers",
+        "level": 2,
+        "score": 0.526199996471405
+      },
+      {
+        "id": "https://openalex.org/C26517878",
+        "wikidata": "https://www.wikidata.org/wiki/Q228039",
+        "display_name": "Key (lock)",
+        "level": 2,
+        "score": 0.46320000290870667
+      },
+      {
+        "id": "https://openalex.org/C2778965245",
+        "wikidata": "https://www.wikidata.org/wiki/Q2499074",
+        "display_name": "Supported employment",
+        "level": 3,
+        "score": 0.46209999918937683
+      },
+      {
+        "id": "https://openalex.org/C2993469481",
+        "wikidata": "https://www.wikidata.org/wiki/Q41171",
+        "display_name": "Job loss",
+        "level": 3,
+        "score": 0.4262000024318695
+      },
+      {
+        "id": "https://openalex.org/C2994323271",
+        "wikidata": "https://www.wikidata.org/wiki/Q12002092",
+        "display_name": "Social assistance",
+        "level": 2,
+        "score": 0.3982999920845032
+      },
+      {
+        "id": "https://openalex.org/C39549134",
+        "wikidata": "https://www.wikidata.org/wiki/Q133080",
+        "display_name": "Public relations",
+        "level": 1,
+        "score": 0.3944999873638153
+      },
+      {
+        "id": "https://openalex.org/C145236788",
+        "wikidata": "https://www.wikidata.org/wiki/Q28161",
+        "display_name": "Labour economics",
+        "level": 1,
+        "score": 0.3919999897480011
+      },
+      {
+        "id": "https://openalex.org/C48103436",
+        "wikidata": "https://www.wikidata.org/wiki/Q599031",
+        "display_name": "State (computer science)",
+        "level": 2,
+        "score": 0.34790000319480896
+      },
+      {
+        "id": "https://openalex.org/C2780791683",
+        "wikidata": "https://www.wikidata.org/wiki/Q846785",
+        "display_name": "Action (physics)",
+        "level": 2,
+        "score": 0.3151000142097473
+      },
+      {
+        "id": "https://openalex.org/C3020230469",
+        "wikidata": "https://www.wikidata.org/wiki/Q1073952",
+        "display_name": "Employee assistance",
+        "level": 2,
+        "score": 0.3125
+      },
+      {
+        "id": "https://openalex.org/C2992540694",
+        "wikidata": "https://www.wikidata.org/wiki/Q41171",
+        "display_name": "Job creation",
+        "level": 2,
+        "score": 0.3093999922275543
+      },
+      {
+        "id": "https://openalex.org/C2778126366",
+        "wikidata": "https://www.wikidata.org/wiki/Q41171",
+        "display_name": "Unemployment",
+        "level": 2,
+        "score": 0.303600013256073
+      },
+      {
+        "id": "https://openalex.org/C162853370",
+        "wikidata": "https://www.wikidata.org/wiki/Q39809",
+        "display_name": "Marketing",
+        "level": 1,
+        "score": 0.2903999984264374
+      },
+      {
+        "id": "https://openalex.org/C2992911641",
+        "wikidata": "https://www.wikidata.org/wiki/Q261362",
+        "display_name": "Job placement",
+        "level": 3,
+        "score": 0.2831999957561493
+      },
+      {
+        "id": "https://openalex.org/C58346731",
+        "wikidata": "https://www.wikidata.org/wiki/Q627339",
+        "display_name": "Job analysis",
+        "level": 3,
+        "score": 0.2766000032424927
+      },
+      {
+        "id": "https://openalex.org/C2778363899",
+        "wikidata": "https://www.wikidata.org/wiki/Q23900955",
+        "display_name": "Window of opportunity",
+        "level": 2,
+        "score": 0.2728999853134155
+      },
+      {
+        "id": "https://openalex.org/C51067260",
+        "wikidata": "https://www.wikidata.org/wiki/Q828812",
+        "display_name": "Professional development",
+        "level": 2,
+        "score": 0.2540999948978424
+      },
+      {
+        "id": "https://openalex.org/C2779968149",
+        "wikidata": "https://www.wikidata.org/wiki/Q8034851",
+        "display_name": "Workforce development",
+        "level": 3,
+        "score": 0.2515000104904175
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1177/10522263251394329",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1177/10522263251394329",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S190353498",
+          "display_name": "Journal of Vocational Rehabilitation",
+          "issn_l": "1052-2263",
+          "issn": [
+            "1052-2263",
+            "1878-6316"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310318577",
+          "host_organization_name": "IOS Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310318577"
+          ],
+          "host_organization_lineage_names": [
+            "IOS Press"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Vocational Rehabilitation",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "content_urls": null,
+    "referenced_works_count": 39,
+    "referenced_works": [
+      "https://openalex.org/W37876348",
+      "https://openalex.org/W171994069",
+      "https://openalex.org/W287454931",
+      "https://openalex.org/W846729109",
+      "https://openalex.org/W1154510031",
+      "https://openalex.org/W1162418105",
+      "https://openalex.org/W2014015929",
+      "https://openalex.org/W2044858486",
+      "https://openalex.org/W2094057723",
+      "https://openalex.org/W2121731310",
+      "https://openalex.org/W2130780981",
+      "https://openalex.org/W2136498597",
+      "https://openalex.org/W2137247190",
+      "https://openalex.org/W2140344434",
+      "https://openalex.org/W2313506094",
+      "https://openalex.org/W2344275492",
+      "https://openalex.org/W2477470790",
+      "https://openalex.org/W2727005292",
+      "https://openalex.org/W2791223482",
+      "https://openalex.org/W2892632581",
+      "https://openalex.org/W2908897994",
+      "https://openalex.org/W3045499098",
+      "https://openalex.org/W3046987058",
+      "https://openalex.org/W3127843529",
+      "https://openalex.org/W3139178163",
+      "https://openalex.org/W3165474980",
+      "https://openalex.org/W3185362674",
+      "https://openalex.org/W3201175131",
+      "https://openalex.org/W4224871168",
+      "https://openalex.org/W4234387117",
+      "https://openalex.org/W4312010542",
+      "https://openalex.org/W4361256406",
+      "https://openalex.org/W4366773235",
+      "https://openalex.org/W4366983163",
+      "https://openalex.org/W4367173213",
+      "https://openalex.org/W4389039791",
+      "https://openalex.org/W4392096723",
+      "https://openalex.org/W4393996681",
+      "https://openalex.org/W4399054608"
+    ],
+    "related_works": [],
+    "abstract_inverted_index": {
+      "Background": [
+        0
+      ],
+      "Most": [
+        1
+      ],
+      "employment": [
+        2,
+        16,
+        50,
+        64,
+        83,
+        87,
+        98,
+        149
+      ],
+      "consultants": [
+        3,
+        84,
+        99,
+        153
+      ],
+      "access": [
+        4
+      ],
+      "professional": [
+        5
+      ],
+      "development": [
+        6
+      ],
+      "to": [
+        7,
+        19,
+        70,
+        110,
+        156,
+        180
+      ],
+      "learn": [
+        8
+      ],
+      "about": [
+        9,
+        27,
+        101
+      ],
+      "best": [
+        10,
+        31,
+        54,
+        74,
+        120
+      ],
+      "practices": [
+        11,
+        32,
+        55,
+        75
+      ],
+      "in": [
+        12,
+        56,
+        89,
+        113
+      ],
+      "supported": [
+        13,
+        57
+      ],
+      "and": [
+        14,
+        58,
+        73,
+        103,
+        122,
+        130,
+        177
+      ],
+      "customized": [
+        15,
+        59
+      ],
+      "that": [
+        17
+      ],
+      "lead": [
+        18
+      ],
+      "individual": [
+        20,
+        161
+      ],
+      "integrated": [
+        21,
+        162
+      ],
+      "employment.": [
+        22,
+        60,
+        163
+      ],
+      "However,": [
+        23
+      ],
+      "little": [
+        24
+      ],
+      "is": [
+        25
+      ],
+      "known": [
+        26
+      ],
+      "how": [
+        28,
+        43
+      ],
+      "widely": [
+        29,
+        145
+      ],
+      "these": [
+        30
+      ],
+      "are": [
+        33,
+        154
+      ],
+      "actually": [
+        34
+      ],
+      "implemented.": [
+        35
+      ],
+      "Objective": [
+        36
+      ],
+      "This": [
+        37
+      ],
+      "article": [
+        38
+      ],
+      "provides": [
+        39
+      ],
+      "a": [
+        40,
+        44,
+        94,
+        104
+      ],
+      "window": [
+        41
+      ],
+      "into": [
+        42
+      ],
+      "typical": [
+        45,
+        95
+      ],
+      "8-h": [
+        46,
+        96
+      ],
+      "workday": [
+        47
+      ],
+      "of": [
+        48,
+        79
+      ],
+      "an": [
+        49
+      ],
+      "consultant": [
+        51
+      ],
+      "aligns": [
+        52
+      ],
+      "with": [
+        53,
+        126,
+        170
+      ],
+      "Methods": [
+        61
+      ],
+      "We": [
+        62
+      ],
+      "estimated": [
+        63
+      ],
+      "consultants’": [
+        65
+      ],
+      "average": [
+        66
+      ],
+      "daily": [
+        67
+      ],
+      "time": [
+        68
+      ],
+      "allocation": [
+        69,
+        143
+      ],
+      "key": [
+        71,
+        155
+      ],
+      "activities": [
+        72
+      ],
+      "using": [
+        76
+      ],
+      "12": [
+        77
+      ],
+      "months": [
+        78
+      ],
+      "data": [
+        80
+      ],
+      "from": [
+        81
+      ],
+      "96": [
+        82
+      ],
+      "across": [
+        85,
+        146
+      ],
+      "13": [
+        86,
+        148
+      ],
+      "programs": [
+        88
+      ],
+      "seven": [
+        90
+      ],
+      "states.": [
+        91
+      ],
+      "Results": [
+        92
+      ],
+      "On": [
+        93
+      ],
+      "workday,": [
+        97
+      ],
+      "dedicate": [
+        100
+      ],
+      "two": [
+        102
+      ],
+      "half": [
+        105
+      ],
+      "hours": [
+        106,
+        139
+      ],
+      "on": [
+        107,
+        118
+      ],
+      "supports": [
+        108
+      ],
+      "leading": [
+        109
+      ],
+      "hire—one": [
+        111
+      ],
+      "hour": [
+        112
+      ],
+      "community": [
+        114
+      ],
+      "settings,": [
+        115
+      ],
+      "29": [
+        116
+      ],
+      "min": [
+        117
+      ],
+      "specific": [
+        119
+      ],
+      "practices,": [
+        121
+      ],
+      "six": [
+        123
+      ],
+      "minutes": [
+        124
+      ],
+      "engaging": [
+        125
+      ],
+      "job": [
+        127,
+        158
+      ],
+      "seekers’": [
+        128
+      ],
+      "families": [
+        129
+      ],
+      "social": [
+        131
+      ],
+      "networks.": [
+        132
+      ],
+      "Administrative": [
+        133
+      ],
+      "tasks": [
+        134
+      ],
+      "account": [
+        135
+      ],
+      "for": [
+        136,
+        173
+      ],
+      "nearly": [
+        137
+      ],
+      "three": [
+        138
+      ],
+      "per": [
+        140
+      ],
+      "day.": [
+        141
+      ],
+      "Time": [
+        142
+      ],
+      "varied": [
+        144
+      ],
+      "the": [
+        147
+      ],
+      "programs.": [
+        150
+      ],
+      "Conclusion": [
+        151
+      ],
+      "Employment": [
+        152
+      ],
+      "helping": [
+        157
+      ],
+      "seekers": [
+        159
+      ],
+      "achieve": [
+        160
+      ],
+      "State": [
+        164
+      ],
+      "funding": [
+        165
+      ],
+      "agencies": [
+        166
+      ],
+      "should": [
+        167
+      ],
+      "equip": [
+        168
+      ],
+      "them": [
+        169
+      ],
+      "data-based": [
+        171
+      ],
+      "tools": [
+        172
+      ],
+      "self-reflection,": [
+        174
+      ],
+      "goal": [
+        175
+      ],
+      "setting,": [
+        176
+      ],
+      "action": [
+        178
+      ],
+      "planning": [
+        179
+      ],
+      "drive": [
+        181
+      ],
+      "continuous": [
+        182
+      ],
+      "improvement.": [
+        183
+      ]
+    },
+    "counts_by_year": [],
+    "updated_date": "2026-03-07T16:01:11.037858",
+    "created_date": "2025-11-10T00:00:00"
+  },
+  "crossref": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          20
+        ]
+      ],
+      "date-time": "2026-01-20T21:05:19Z",
+      "timestamp": 1768943119350,
+      "version": "3.49.0"
+    },
+    "reference-count": 62,
+    "publisher": "SAGE Publications",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              11,
+              10
+            ]
+          ],
+          "date-time": "2025-11-10T00:00:00Z",
+          "timestamp": 1762732800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100009157",
+        "name": "National Institute on Disability, Independent Living, and Rehabilitation Research",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "# 90IFDV0009 and # 90RTCP0011"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "# 90IFDV0009 and # 90RTCP0011"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100009157",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100001203",
+        "name": "Kessler Foundation",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/100001203",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.sagepub.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Journal of Vocational Rehabilitation"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          1
+        ]
+      ]
+    },
+    "abstract": "<jats:sec>\n                    <jats:title>Background</jats:title>\n                    <jats:p>Most employment consultants access professional development to learn about best practices in supported and customized employment that lead to individual integrated employment. However, little is known about how widely these best practices are actually implemented.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Objective</jats:title>\n                    <jats:p>This article provides a window into how a typical 8-h workday of an employment consultant aligns with best practices in supported and customized employment.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Methods</jats:title>\n                    <jats:p>We estimated employment consultants’ average daily time allocation to key activities and best practices using 12 months of data from 96 employment consultants across 13 employment programs in seven states.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>On a typical 8-h workday, employment consultants dedicate about two and a half hours on supports leading to hire—one hour in community settings, 29 min on specific best practices, and six minutes engaging with job seekers’ families and social networks. Administrative tasks account for nearly three hours per day. Time allocation varied widely across the 13 employment programs.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusion</jats:title>\n                    <jats:p>Employment consultants are key to helping job seekers achieve individual integrated employment. State funding agencies should equip them with data-based tools for self-reflection, goal setting, and action planning to drive continuous improvement.</jats:p>\n                  </jats:sec>",
+    "DOI": "10.1177/10522263251394329",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          10
+        ]
+      ],
+      "date-time": "2025-11-10T17:44:06Z",
+      "timestamp": 1762796646000
+    },
+    "page": "61-72",
+    "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Inside the Workday of Employment Consultants: New Insights on Strengthening Employment Services"
+    ],
+    "prefix": "10.1177",
+    "volume": "64",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-9717-3228",
+        "authenticated-orcid": false,
+        "given": "Alberto",
+        "family": "Migliore",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "University of Massachusetts Boston"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0000-8921-6534",
+        "authenticated-orcid": false,
+        "given": "Ryan",
+        "family": "Wedeking",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Massachusetts Boston"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0003-2111-9836",
+        "authenticated-orcid": false,
+        "given": "Sherry",
+        "family": "Healey",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Minnesota"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0000-7593-6290",
+        "authenticated-orcid": false,
+        "given": "Jill",
+        "family": "Eastman",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Massachusetts Boston"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9495-7097",
+        "authenticated-orcid": false,
+        "given": "Danielle",
+        "family": "Mahoehney",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Minnesota"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2311-6992",
+        "authenticated-orcid": false,
+        "given": "Jean",
+        "family": "Winsor",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Massachusetts Boston"
+          }
+        ]
+      }
+    ],
+    "member": "179",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          10
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_3_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10488-010-0327-7"
+      },
+      {
+        "issue": "2",
+        "key": "e_1_3_3_3_1",
+        "first-page": "27",
+        "article-title": "Job satisfaction as an antecedent to employee engagement",
+        "volume": "8",
+        "author": "Abraham S.",
+        "year": "2012",
+        "unstructured": "Abraham S. (2012). Job satisfaction as an antecedent to employee engagement. Journal of Management, 8(2), 27–36.",
+        "journal-title": "Journal of Management"
+      },
+      {
+        "key": "e_1_3_3_4_1",
+        "unstructured": "APSE. (2019) Universal Employment Competencies. APSE: MD. https://apse.org/wp-content/uploads/2019/03/Apse-universal-Comps-FINAL3-15-19.pdf"
+      },
+      {
+        "key": "e_1_3_3_5_1",
+        "unstructured": "APSE. (2023). Certified Employment Support Professional Certification Handbook. Updated May 2023. https://apse.org/wp-content/uploads/2023/05/Candidate-Handbook-Updated-May-2023-1.pdf"
+      },
+      {
+        "key": "e_1_3_3_6_1",
+        "unstructured": "APSE/ACRE. (2020). APSE/ACRE State Guidelines for Employment Services Personnel Training Certificates or Certification. January 2020. APSE Employment Support Professional Certification Council (ESPCC). https://apse.org/wp-content/uploads/2020/02/APSE-andACRE-State-Guidelines.pdf"
+      },
+      {
+        "key": "e_1_3_3_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-240017"
+      },
+      {
+        "key": "e_1_3_3_8_1",
+        "volume-title": "Knowledge translation: The rise of implementation",
+        "author": "Barwick M.",
+        "year": "2020",
+        "unstructured": "Barwick M., Dubrowski R., Petricca K. (2020). Knowledge translation: The rise of implementation. American Institutes for Research."
+      },
+      {
+        "key": "e_1_3_3_9_1",
+        "volume-title": "Vocational habilitation of severely retarded adults: A direct service technology",
+        "author": "Bellamy G. T.",
+        "year": "1979",
+        "unstructured": "Bellamy G. T., Horner R. H., Inman D. P. (1979). Vocational habilitation of severely retarded adults: A direct service technology. University Park Press."
+      },
+      {
+        "key": "e_1_3_3_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1049731509335528"
+      },
+      {
+        "issue": "3",
+        "key": "e_1_3_3_11_1",
+        "first-page": "405",
+        "article-title": "The effect of job satisfaction on employee retention",
+        "volume": "8",
+        "author": "Biason R. S.",
+        "year": "2020",
+        "unstructured": "Biason R. S. (2020). The effect of job satisfaction on employee retention. International Journal of Economics, Commerce and Management, 8(3), 405–413.",
+        "journal-title": "International Journal of Economics, Commerce and Management"
+      },
+      {
+        "key": "e_1_3_3_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1352/1934-9556-61.6.468"
+      },
+      {
+        "issue": "2",
+        "key": "e_1_3_3_13_1",
+        "first-page": "20",
+        "article-title": "Improving the employment outcomes of job seekers with intellectual and developmental disabilities: A training and mentoring intervention for employment consultants",
+        "volume": "78",
+        "author": "Butterworth J.",
+        "year": "2012",
+        "unstructured": "Butterworth J., Migliore A., Nord D., Gelb A. (2012) Improving the employment outcomes of job seekers with intellectual and developmental disabilities: A training and mentoring intervention for employment consultants. Journal of Rehabilitation, 78(2), 20–29.",
+        "journal-title": "Journal of Rehabilitation"
+      },
+      {
+        "key": "e_1_3_3_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-201096"
+      },
+      {
+        "key": "e_1_3_3_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1352/1934-9556-62.3.225"
+      },
+      {
+        "key": "e_1_3_3_16_1",
+        "unstructured": "Caldwell J. Kaye H. S. (2016). Quality in home and community-based services to support community living: Addressing gaps in performance measurement. [Final Report September 2016]. National Quality Forum."
+      },
+      {
+        "key": "e_1_3_3_17_1",
+        "volume-title": "Discovery is…A white paper",
+        "author": "Callahan M.",
+        "year": "2019",
+        "unstructured": "Callahan M. (2019). Discovery is…A white paper. Marc Gold and Associates."
+      },
+      {
+        "key": "e_1_3_3_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-2011-0565"
+      },
+      {
+        "key": "e_1_3_3_19_1",
+        "volume-title": "Discovery: Charting the course to employment. Translating the activities of everyday lives into possibilities for employment",
+        "author": "Callahan M.",
+        "year": "2009",
+        "unstructured": "Callahan M., Shumpert N., Condon E. (2009). Discovery: Charting the course to employment. Translating the activities of everyday lives into possibilities for employment. Marc Gold & Associates."
+      },
+      {
+        "key": "e_1_3_3_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1352/1944-7558-128.3.219"
+      },
+      {
+        "key": "e_1_3_3_21_1",
+        "unstructured": "Centers for Medicare & Medicaid Services. (2024 April 11). Home and Community-Based Services (HCBS) quality measure set (QMS) [Informational bulletin]. U.S. Department of Health & Human Services. https://www.medicaid.gov/federal-policy-guidance/downloads/cib041124.pdf"
+      },
+      {
+        "key": "e_1_3_3_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1352/1934-9556-61.2.158"
+      },
+      {
+        "key": "e_1_3_3_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/jep.13100"
+      },
+      {
+        "issue": "75",
+        "key": "e_1_3_3_24_1",
+        "first-page": "1",
+        "article-title": "The updated consolidated framework for implementation research based on user feedback",
+        "volume": "17",
+        "author": "Damschroder L. J.",
+        "year": "2022",
+        "unstructured": "Damschroder L. J., Reardon C. M., Widerquist M. A. O., et al. (2022). The updated consolidated framework for implementation research based on user feedback. Implementation Science, 17(75), 1–16. https://doi.org/10.1186/s13012-022-01245-0",
+        "journal-title": "Implementation Science"
+      },
+      {
+        "key": "e_1_3_3_25_1",
+        "volume-title": "The networking survival guide: Practical advice to help you gain confidence, approach people, and get the success you want",
+        "author": "Darling D.",
+        "year": "2010",
+        "unstructured": "Darling D. (2010). The networking survival guide: Practical advice to help you gain confidence, approach people, and get the success you want (2nd ed.). McGraw-Hill.",
+        "edition": "2"
+      },
+      {
+        "key": "e_1_3_3_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1748-5908-1-1"
+      },
+      {
+        "key": "e_1_3_3_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-295X.100.3.363"
+      },
+      {
+        "key": "e_1_3_3_28_1",
+        "volume-title": "Implementation research: A synthesis of the literature",
+        "author": "Fixsen D. L.",
+        "year": "2005",
+        "unstructured": "Fixsen D. L., Naoom S. F., Blase K. A., Friedman R. M., Wallace F. (2005). Implementation research: A synthesis of the literature. University of South Florida, Louis de la Parte Florida Mental Health Institute, The National Implementation Research Network (FMHI Publication #231)."
+      },
+      {
+        "key": "e_1_3_3_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-240006"
+      },
+      {
+        "key": "e_1_3_3_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1352/1934-9556-59.4.295"
+      },
+      {
+        "key": "e_1_3_3_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-2002-00157"
+      },
+      {
+        "key": "e_1_3_3_32_1",
+        "volume-title": "The Job developer's handbook",
+        "author": "Griffin C.",
+        "year": "2007",
+        "unstructured": "Griffin C., Hammis D., Geary T. (2007). The Job developer's handbook. Paul H Brookes Publishing Co."
+      },
+      {
+        "key": "e_1_3_3_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/10594-009"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_3_3_34_1",
+        "first-page": "61",
+        "article-title": "Recruitment and retention of state vocational rehabilitation counselors: A mixed methods analysis",
+        "volume": "89",
+        "author": "Herbert J. T.",
+        "year": "2023",
+        "unstructured": "Herbert J. T., Yoon H. J., O'Shea A., Al Balushi I. (2023). Recruitment and retention of state vocational rehabilitation counselors: A mixed methods analysis. Journal of Rehabilitation, 89(1), 61–71.",
+        "journal-title": "Journal of Rehabilitation"
+      },
+      {
+        "key": "e_1_3_3_35_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-180928"
+      },
+      {
+        "key": "e_1_3_3_36_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/00343552221088256"
+      },
+      {
+        "key": "e_1_3_3_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1352/1934-9556-59.3.204"
+      },
+      {
+        "key": "e_1_3_3_38_1",
+        "volume-title": "The way to work. How to facilitate work experiences for youth in transition",
+        "author": "Luecking R. G.",
+        "year": "2019",
+        "unstructured": "Luecking R. G. (2019). The way to work. How to facilitate work experiences for youth in transition (2nd ed.). Paul H Brookes.",
+        "edition": "2"
+      },
+      {
+        "key": "e_1_3_3_39_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1891/0047-2220.37.4.5"
+      },
+      {
+        "key": "e_1_3_3_40_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/23303131.2021.1895401"
+      },
+      {
+        "key": "e_1_3_3_41_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-180973"
+      },
+      {
+        "key": "e_1_3_3_42_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/10442073211043518"
+      },
+      {
+        "key": "e_1_3_3_43_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2511/rpsd.35.1-2.15"
+      },
+      {
+        "key": "e_1_3_3_44_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-230015"
+      },
+      {
+        "key": "e_1_3_3_45_1",
+        "unstructured": "National Core Indicators. (2024) National Core Indicators Intellectual and Developmental Disabilities State of the Workforce in 2023 Survey Report. https://idd.nationalcoreindicators.org/survey-reports-insights/"
+      },
+      {
+        "key": "e_1_3_3_46_1",
+        "volume-title": "Deep work: Rules for focused success in a distracted world",
+        "author": "Newport C.",
+        "year": "2016",
+        "unstructured": "Newport C. (2016) Deep work: Rules for focused success in a distracted world. Grand Central Publishing."
+      },
+      {
+        "key": "e_1_3_3_47_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/154079698801300404"
+      },
+      {
+        "key": "e_1_3_3_48_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1352/1934-9556-58.4.288"
+      },
+      {
+        "key": "e_1_3_3_49_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-2008-00423"
+      },
+      {
+        "key": "e_1_3_3_50_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-1993-3304"
+      },
+      {
+        "key": "e_1_3_3_51_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/26334895211034581"
+      },
+      {
+        "key": "e_1_3_3_52_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-150774"
+      },
+      {
+        "key": "e_1_3_3_53_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-180985"
+      },
+      {
+        "key": "e_1_3_3_54_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-221222"
+      },
+      {
+        "key": "e_1_3_3_55_1",
+        "first-page": "85",
+        "article-title": "Non-sheltered employment of the mentally retarded adult: Research to reality?",
+        "volume": "8",
+        "author": "Rusch F. R.",
+        "year": "1979",
+        "unstructured": "Rusch F. R., Schutz R. P. (1979). Non-sheltered employment of the mentally retarded adult: Research to reality? Journal of Contemporary Business, 8, 85–98.",
+        "journal-title": "Journal of Contemporary Business"
+      },
+      {
+        "key": "e_1_3_3_56_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ntr/ntt195"
+      },
+      {
+        "issue": "7",
+        "key": "e_1_3_3_57_1",
+        "first-page": "627",
+        "article-title": "Using data to determine what works and achieve better employment outcomes for people with intellectual disabilities",
+        "volume": "60",
+        "author": "Tuckerman P.",
+        "year": "2016",
+        "unstructured": "Tuckerman P. (2016). Using data to determine what works and achieve better employment outcomes for people with intellectual disabilities. Journal of Intellectual Disability Research, 60(7–8), 627–627.",
+        "journal-title": "Journal of Intellectual Disability Research"
+      },
+      {
+        "key": "e_1_3_3_58_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmjqs-2015-004877"
+      },
+      {
+        "key": "e_1_3_3_59_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.janxdis.2014.09.022"
+      },
+      {
+        "key": "e_1_3_3_60_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-230022"
+      },
+      {
+        "key": "e_1_3_3_61_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/154079697900400306"
+      },
+      {
+        "key": "e_1_3_3_62_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-2011-0562"
+      },
+      {
+        "key": "e_1_3_3_63_1",
+        "unstructured": "Workforce Innovation and Opportunity Act 29 U.S.C. § 3101 et seq. (2014). Final Rule: 34 C.F.R. § 361.5(c)(9)."
+      }
+    ],
+    "container-title": [
+      "Journal of Vocational Rehabilitation"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/10522263251394329",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/10522263251394329",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/10522263251394329",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          20
+        ]
+      ],
+      "date-time": "2026-01-20T07:15:59Z",
+      "timestamp": 1768893359000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/10.1177/10522263251394329"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          10
+        ]
+      ]
+    },
+    "references-count": 62,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            1
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1177/10522263251394329"
+    ],
+    "URL": "https://doi.org/10.1177/10522263251394329",
+    "relation": {},
+    "ISSN": [
+      "1052-2263",
+      "1878-6316"
+    ],
+    "issn-type": [
+      {
+        "value": "1052-2263",
+        "type": "print"
+      },
+      {
+        "value": "1878-6316",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          10
+        ]
+      ]
+    }
+  }
+}

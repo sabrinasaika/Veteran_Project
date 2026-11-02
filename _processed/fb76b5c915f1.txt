@@ -1,0 +1,56 @@
+URL: https://tacqe.com/contact/
+
+Contact Us - Technical Assistance Center for Quality Employment
+Contact Us
+Do you have a question for us?  Send us a message!
+Email
+This field is for validation purposes and should be left unchanged.
+Name
+(Required)
+Email
+(Required)
+Reason for Contacting
+(Required)
+Question about the Program
+Question about the Website
+I have a website technical issue
+Phone
+Please be more specific:
+(Required)
+When trying to log in, it says invalid username or password
+When trying to log in, the loading icon/wheel just keeps spinning
+I'm not receiving a reset password email
+My email address has been flagged as spam
+I can't find my certificate
+Other
+Which training are you referring to?
+(Required)
+Note that if you are needing assistance logging in or registering, please select "I have a website technical issue" above.
+Bummer! Let's try a couple of things:
+Double-check that your username/email is correct.
+Sometimes we accidentally mistype our email address and it's not noticeable, or we forgot we used a different one for this site. Try your work email and your personal email.
+Make sure your password is correct.
+It's easy to put the wrong password in. Double check that you are using the correct one and that it is typed in correctly with no spaces.
+Try from a different browser.
+Occasionally there is an issue with a certain browser, browser version, or caching that causes issues with logging in. Internet Explorer tends to cause a lot of issues.
+Try resetting your password.
+You can easily
+reset your password by clicking here.
+Still having issues?
+Continue filling out this form and make sure you include the email address you signed up with. Our web developer will contact you shortly.
+Oh no! This is likely due to working on a work or school computer that is has either been flagged or is behind a firewall. You can try a different computer or a mobile device on a network rather than the same internet provider's WiFi. We can also add your organization's email domain to our whitelist to try and prevent it from happening again. Note that we cannot whitelist common email domains such as "gmail.com." If that doesn't work then there may be an issue with your email address in particular, whereas you'll need to use a different email address.
+Check if the email ended up in your spam/junk folder. If it's not there, it could be that your organization has blocked it. If you are using a work or school email address, you can check with your IT department if any third-party software has quarantined it. If you are still having issues, continue with this form and we will reset it for you.
+I'm sorry you're having this issue. This happens sometimes when passwords are either not strong enough or they contain a space in them. Few have had success trying a different browser, but it mostly gets resolved by
+resetting your password
+. Try those possible solutions first.
+Certificates are available to you if you pass the quiz for that training. A copy will be emailed to you, and it will also be available to download from
+your Certificates page
+your Certificates page by
+logging in
+and clicking on My Certificates under Account on the navigation menu
+. If you still need assistance, please continue filling out the form.
+Message
+(Required)
+What is 3 + 7?
+(Required)
+Type and Press “enter” to Search

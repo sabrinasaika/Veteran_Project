@@ -1,0 +1,2199 @@
+FILENAME: 2efbe8919e27-universal-mobility-as-a-service.pdf
+PATH: _raw/tacqe.com/2efbe8919e27-universal-mobility-as-a-service.pdf
+
+Universal Mobility 
+as a Service:
+A Bold Vision for Harnessing the  
+Opportunity of Disruption
+By Jana Lynott, AARP Public Policy Institute
+September 2018
+
+2  |  Universal Mobility as a Service: A Bold Vision for Harnessing the Opportunity of Disruption
+
+Universal Mobility as a Service: A Bold Vision for Harnessing the Opportunity of Disruption  |  3
+Foreword
+While this paper discusses autonomous vehicles along with 
+other emerging technologies, it does not intend to be an ex -
+haustive look at the policy considerations necessary for the 
+safe introduction of autonomous vehicle technology into 
+community transportation systems. The author recogniz-
+es, and even underscores, that numerous issues related to 
+safety, liability, cybersecurity, and labor must be addressed. 
+Several organizations are exploring these issues. The AARP 
+Public Policy Institute may also explore them in more depth 
+at a future point in time. 
+This is the core paper in a series titled The Future of Transportation: The Opportunity (and 
+Potential Pitfalls) of Disruptive Technology. It articulates a vision for transportation in America 
+centered on the concept of Universal Mobility as a Service, where everyone in the community is 
+served regardless of age, disability, race/ethnicity, income, or geographic location. 
+The concept presents a once-in-a-lifetime opportunity to 
+help shape the future of our transportation system. Its focus 
+is on ensuring that the disruptive technologies emerging to-
+day can be molded to vastly increase mobility for older adults 
+and other currently disenfranchised users of the transporta-
+tion system. 
+While autonomous vehicles have received ample attention 
+in the media, the impending disruption is much larger than 
+the introduction of this technology and could involve a shift 
+in the entire ecosystem of transportation. Looking at trans -
+portation holistically as the ecosystem that it is and will be, 
+Universal Mobility as a Service, when aligned with a com-
+mitment to livable communities, provides a framework to 
+manage the disruptive forces and lead to a more equitable 
+and sustainable transportation future.
+
+4  |  Universal Mobility as a Service: A Bold Vision for Harnessing the Opportunity of Disruption
+Summary
+Mobility as a Service describes a shift away from personally owned modes of trans-
+portation (i.e., car ownership) and toward mobility solutions consumed as a ser -
+vice. Universal Mobility as a Service expands on this concept to offer customers a 
+single platform to efficiently identify all available transportation options, compare 
+cost, schedule a ride, and even pay for a trip. Fixed-route and demand responsive 
+public transportation, plus private on-demand options, including ridesourcing, 
+ridesharing, carsharing, and bikesharing, are available to serve everyone in the 
+community. While services tailored to the needs of particular populations will be 
+available, they would be part of a single, coordinated system to meet the needs 
+of everyone in the community regardless of income, race/ethnicity, geographic 
+location, disability, or age. Universal Mobility as a Service, when aligned with a 
+commitment to livable communities, provides a framework to manage disruptive 
+forces and lead to an accessible, fair, and sustainable transportation future.
+About the Terminology Used in This Report
+Many writers use the terms autonomous vehicles, driverless cars, and self-driv -
+ing cars interchangeably. This has caused much confusion for readers trying to 
+understand the development of this disruptive technology. Included is a Glossary 
+of Terms at the back of this paper to help the reader understand how these and oth-
+er terms are used in this Future of Transportation paper series by the AARP Public 
+Policy Institute. Terms that appear in the glossary are bold-italicized in the text of 
+this paper on first use.
+About PPI
+The AARP Public Policy Institute informs and stimulates public debate on the is -
+sues we face as we age. The Institute promotes the development of sound, creative 
+policies to address our common need for economic security, health care, and qual-
+ity of life. 
+Disclaimer
+The views expressed herein are for information, debate, and discussion and do not 
+necessarily represent official policy of AARP . 
+References to particular companies and services are provided to illustrate the 
+evolving transportation ecosystem and do not constitute AARP endorsement.
+
+Universal Mobility as a Service: A Bold Vision for Harnessing the Opportunity of Disruption  |  5
+01. Executive Summary .............................................................................................6
+02. Introduction ......................................................................................................10
+The Need for a More Inclusive Transportation System 12
+Current Disruption Offers an Unprecedented Opportunity 13
+03. Universal Mobility as a Service.......................................................................... 14
+Industry Precursors to Universal Mobility as a Service 14
+A Future with Universal Mobility as a Service 16
+Universal MaaS and Urban Transportation 19
+Universal MaaS and Rural and Intercity Transportation 22
+       Intercity Travel 25
+Universal MaaS and Specialized Transportation 25
+04. It’s Not Universal MaaS without Universal Design ............................................30
+Service Delivery for Customers with Special Needs 31
+MaaS Needs Mobility Management 32
+App Design for the Individual and Family Caregiver 33
+Vehicle Design 34
+05. Other Equity Considerations for Universal MaaS ..............................................35
+06. Driverless Vehicles within the MaaS Framework ...............................................36
+07. Creating the Transportation System We Want:  
+      Building Blocks for the Road Ahead .................................................................38
+08. Conclusion ........................................................................................................ 39
+09. Glossary of Terms.............................................................................................. 40
+10. Bibliography ..................................................................................................... 46
+Table of Contents
+
+6  |  Universal Mobility as a Service: A Bold Vision for Harnessing the Opportunity of Disruption
+Autonomous vehicles are a highly publicized aspect of the 
+impending disruption. But the revolution can and may go far 
+beyond that, to one involving not only technology but an en-
+tire ecosystem of transportation. 
+Transportation policy in the United States and infrastructure 
+investment of the past 100 years have resulted in tremen-
+dous mobility for many Americans. Still, many are isolated, 
+including more than one in five older adults who do not 
+drive. Further, numerous other negative societal effects have 
+occurred, such as traffic congestion, air and noise pollution, 
+sprawl, and imbalanced economic and social opportuni-
+ties—an imbalance skewed against many people who have 
+low income or have disabilities.  
+Despite the more than 100 million nondrivers in the United 
+States today (one-third of the US population), the transpor -
+tation systems of most communities require people to drive 
+to have full access to the economic and social life of their 
+communities. The impending transportation revolution of -
+fers potential to change that. To harness the coming seismic 
+transportation shifts for maximum benefit, citizens must 
+play an active role in shaping policy rather than sitting back 
+and watching what unfolds. 
+To date, industry has offered two Mobility as a Service (MaaS) 
+concepts. At its most basic, MaaS describes a shift away from 
+individually operated transportation (i.e., car ownership) to-
+ward a menu of services provided to consumers on demand. 
+More broadly, much like a search engine that return flight 
+options for multiple carriers (e.g., Expedia), MaaS would be 
+a single platform that offers real-time information with an 
+easy payment system for fixed-route, on-demand transit and 
+other travel options. Customers would access this platform 
+Executive 
+Summary
+Emerging disruption in the transportation sector offers a once-in-a-lifetime opportunity to help 
+shape the future of our transportation system. Communities across the United States and the 
+world are on the cusp of a major disruption equivalent in scale to the mobility and social change 
+brought about by the inventions of the steam locomotive and gas-powered automobile.
+to identify available transportation options, evaluate costs 
+and timing, schedule and pay for a ride, and even receive re-
+al-time information about the travel environment. 
+This paper builds on MaaS by adding the concept of univer -
+sality. It offers a vision for Universal Mobility as a Service 
+(Universal MaaS), which along with a commitment to livable 
+communities, provides a unifying framework to manage dis-
+ruptive forces and lead to a more accessible, fair, and sus -
+tainable transportation future. 
+This paper’s vision of Universal Mobility as a Service expands 
+on basic industry concepts of MaaS to ensure that all  users’ 
+needs are met, regardless of income, geographic location, 
+disability, or age. Universal refers to both a comprehensive 
+inclusion of all available transportation services within the 
+platform and accessible design throughout the system. Specif-
+ically, Universal Mobility as a Service includes the following:
+01
+ »  Fully integrating specialized transportation within the 
+MaaS framework 
+ » Applying the principles of universal design to all facets 
+of the system 
+ » Fostering shared-use mobility, rather than overreli-
+ance on car ownership and solo driving (or riding in 
+the case of autonomous vehicles)
+ » Offering customers, including those with special 
+needs, a variety of transportation options, along with 
+seamless payment systems, and traveler information
+ » Integrating fixed-route and demand responsive public 
+transportation, as well as taxi service, ridesourcing 
+(e.g., Lyft and Uber), carpooling, carsharing, bikeshar-
+ing, and volunteer transportation.
+
+Universal Mobility as a Service: A Bold Vision for Harnessing the Opportunity of Disruption  |  7
+
+8  |  Universal Mobility as a Service: A Bold Vision for Harnessing the Opportunity of Disruption
+All parts of this new transportation ecosystem would work 
+together to offer consumers efficient, safe, accessible, and 
+affordable transportation options, and form the foundation 
+for more livable communities. Making this vision a reality to 
+benefit all will take an intentional alignment of policy and 
+collaboration among public- and private-sector players. 
+Emerging technologies and past experience in providing 
+timely and efficient transportation and customer service can 
+help build Universal Mobility as a Service in both urban and 
+rural America. Public transportation stands poised to con-
+tinue in its important role and serve as the backbone of Uni-
+versal MaaS and a new transportation era. 
+MaaS developers have not typically focused on travelers with 
+special needs, but if carefully designed, MaaS could vastly im-
+prove transportation services to this growing population. A 
+Universal MaaS system, where specialized transportation ser-
+vices are integrated into a single platform along with shared-
+use mobility services, could be smart enough to apply the 
+appropriate subsidy for each unique human services trans -
+portation client and trip request, with clear protections of 
+privacy. To accomplish this, all providers’ data systems would 
+need to be interoperable. The technology solution exists, but 
+institutional commitment to Universal MaaS is required. 
+For MaaS to successfully expand mobility options for people 
+with disabilities and older adults who are frail, MaaS devel-
+opers would need to embrace universal design principles in 
+both customer interaction and vehicle design. While many 
+barriers can be addressed through app and vehicle design, 
+it is important to note the important role of human support 
+in certain instances to complement the technology. Mobility 
+management, as the term is used by social service–oriented 
+professionals, can be a way to bring a human dimension to 
+MaaS. Universal MaaS systems would also need to address 
+income-induced barriers. 
+MaaS can happen with or without driverless vehicles, but as 
+technology changes the economics of travel, it increases the 
+likelihood that transportation will take the form of on-de-
+mand services. Fleets of driverless electric vehicles requiring 
+lower maintenance, energy, finance, insurance, and replace-
+ment costs, in combination with much higher vehicle utili-
+zation rates, could mean that shared use of electric vehicles 
+would be 4 to 10 times cheaper than buying a new car. One 
+analyst suggests that 95 percent of all US passenger miles 
+will be served by providers that will own and operate fleets 
+of driverless electric vehicles within 10 years of widespread 
+regulatory approval of autonomous vehicles. Others predict 
+the status quo for the foreseeable future, given Americans’ 
+demonstrated “love affair” with the car and the fact that car 
+purchase decisions do not always reflect the most econom-
+ical choice available. While timing of widespread disrup-
+tion is uncertain, the huge amount of cash flowing into the 
+emerging transportation ecosystem foretells of the inevita-
+bility of change.
+The United States has an unprecedented opportunity to re-
+design the transportation system to vastly improve transpor-
+tation equity. But realizing this aspiration will require fore-
+sight and the wherewithal to put in place policies that can 
+both unleash the opportunity of disruptive technologies as 
+well as tame their potential for harm. Positive change is not 
+a given. Introducing driverless technology into the market as 
+a vehicle feature, such as leather seats or alloy wheels, may 
+significantly drive up purchase prices, making mobility un-
+affordable to many Americans. It could also create or exac -
+erbate problems in ways the public may not expect—for ex -
+ample, it could tax the capacity of the existing road system by 
+enabling owners the option of avoiding parking fees by send-
+ing the car around the block or home to be parked for free 
+in the driveway, adding more miles to our already burdened 
+roads. Simply rolling out the technology through privately 
+provided on-demand platforms, as commonly envisioned 
+by automotive and ridesourcing companies, may still not re-
+duce the cost of travel sufficiently for low-income Americans 
+and it promises few benefits for people who depend on an 
+accessible vehicle. Furthermore, pricing on-demand service 
+that would be affordable to today’s moderate- and upper-in-
+come transit users creates the risk of potentially siphoning 
+an important ridership base, resulting in less revenue, po-
+litical support, and funding for public transit services. Low-
+er-income travelers have the most to lose from worsening 
+transit service.
+
+Universal Mobility as a Service: A Bold Vision for Harnessing the Opportunity of Disruption  |  9
+It is up to policy makers and their constituents to put in place the requisite policies and regulations 
+that will ensure that private entrepreneurship and innovation within the transportation sector serves the 
+public interest. Collaboration among public and private sectors players is paramount. In a companion 
+paper, the author lays out a dozen building blocks for the road ahead.
+Building Blocks for the Road Ahead
+1. Embrace a Universal Mobility as  
+a Service framework
+2. Prioritize shared use mobility
+3. Adopt a strong commitment to 
+equity
+4. Maximize independence
+5. Commit to universal design
+6. Support livable, sustainable  
+communities
+7. Foster transportation system  
+efficiency
+8. Encourage data system and  
+platform interoperability
+9. Put in place a transparent system  
+to measure impacts, both positive 
+and negative
+10. Prioritize safety for all modes of travel
+11. Provide consumer protections
+12. Manage effects of resulting economic 
+shifts, facilitating career transitions
+Universal Mobility as a 
+Service is possible. 
+Many industry leaders suggest that emerging technology and market environ-
+ments coalesce to make MaaS, at least in its narrowest form, highly likely. If imple-
+mented fully and thoughtfully, Universal Mobility as a Service has the potential to 
+lead to a more equitable transportation system, where tens of millions of nondriv-
+ers are able to more fully participate in the economic, social, and civic life of their 
+communities.
+
+10  |  Universal Mobility as a Service: A Bold Vision for Harnessing the Opportunity of Disruption
+Autonomous vehicles are a highly publicized aspect of the impending disruption.1 
+But the revolution can and may go far beyond that, to one involving not only tech-
+nology but an entire ecosystem of transportation.
+The US transportation sector is valued at over $1.6 trillion and its markets are un-
+dergoing unprecedented disruption.2 Auto companies and fleet operators are po-
+Introduction
+Communities across the United States and the world are on  
+the cusp of a major disruption to our transportation system 
+equivalent in scale to the mobility and social change brought 
+about by the inventions of the steam locomotive and gas- 
+powered automobile. 
+02
+1 Bold-italicized terms are defined in the glossary. 
+2 Bureau of Transportation Statistics, U.S. Gross Domestic Product (GDP) Attributed to Transportation Functions (Billions of current dollars), Table 3-3, 
+2016. https://www.bts.gov/content/us-gross-domestic-product-gdp-attributed-transportation-functions-billions-current-dollars
+
+Universal Mobility as a Service: A Bold Vision for Harnessing the Opportunity of Disruption  |  11
+sitioning themselves to put autonomous vehicles on the road, and major compa-
+nies are funneling billions of dollars into technology startups whose hardware and 
+software power such vehicles. Even telecommunications and entertainment com-
+panies are in the mix, excited to give passengers something to do en route. A recent 
+Brookings Institute survey  found more than 160 deals related to transportation, 
+including investments, partnerships, and acquisitions, worth nearly $80 billion.
+3 
+In the words of Andrew Hawkins, writer for The Verge, “Given the huge amounts of 
+cash flowing into this industry, it seems reasonable to assume that this is just the 
+calm before the storm. ”
+4 
+In fact, autonomous vehicles are only one piece of the revolution. New technol-
+ogy in this sector is already altering the ways we interact with our transportation 
+system. The relatively recent introduction of smartphone-based ridesourcing 
+(e.g., Lyft and Uber) and trip-planning apps (e.g., Google Transit and Moovit) have 
+changed how urban Americans move about their cities. Data-sharing specifica-
+tions under development in 2018 will allow rural and human services providers of 
+demand responsive transportation to more seamlessly coordinate service across 
+a network of different transportation providers. Carshare and bikeshare (includ-
+ing dockless) systems offer new opportunities to get around, while also introduc -
+ing new challenges. Widespread use of autonomous vehicle technology, including 
+delivery robots that will share sidewalk space, will further disrupt the travel envi-
+ronment in ways difficult to imagine today. 
+Each part of this new transportation 
+ecosystem can work together to offer 
+consumers efficient, safe, and afford-
+able transportation options, but it will 
+take conscious alignment of policy to 
+ensure that this transformation ben-
+efits all. If improperly implemented, 
+disastrous repercussions for our com-
+munities could result, further exacer -
+bating social isolation and economic 
+opportunity, as well as traffic conges -
+tion and environmental harms. 
+3 Cameron F. Kerry and Jack Karsten, Gauging Investment in Self-Driving Cars (Brookings Institution, October 16, 2017), https://www.brookings.edu/
+research/gauging-investment-in-self-driving-cars/. 
+4 Andrew J. Hawkins, “This Map Shows How Few Self-Driving Cars Are Actually on the Road Today,” The Verge, 2017, https://www.theverge.
+com/2017/10/23/16510696/self-driving-cars-map-testing-bloomberg-aspen.
+
+12  |  Universal Mobility as a Service: A Bold Vision for Harnessing the Opportunity of Disruption
+5  Joseph F. Coughlin and Lisa A. Ambrosio, Aging America and Transportation: Personal Choices and Public Policy (New York: Springer Publishing  
+Company, 2012); Helen K. Kerschner and Nina M. Silverstein, Introduction to Senior Transportation (New York: Routledge, Taylor & Francis, 2018). 
+6 AARP Public Policy Institute calculations based on driving status by age and gender using Highway Statistics 2016 (Federal Highway Administration) 
+and 2016 Population Estimates (US Census Bureau).
+7 AARP Public Policy Institute analysis based on 2007-2017 Basic Monthly CPS - http://thedataweb.rm.census.gov/ftp/cps_ftp.html#cpsbasic
+8 Richard Wallace, Paul Hughes-Cromwick, Hillary Mull, Snehamay Khasnabis, “Access to Health Care and Nonemergency Medical Transportation: Two 
+Missing Links,” Transportation Research Record: Journal of the Transportation Research Board volume no. 1924 (2005): 76–84. 
+9 Henry Claypool, Amitai Bin-Nun, and Jeffrey Gerlach, “Self-Driving Cars: The Impact on People with Disabilities,” Ruderman Family Foundation  
+and Securing America’s Future Energy, January 2017. This Ruderman Family Foundation White Paper estimates that more than 11 million medical 
+appointments are missed annually by individuals with disabilities and chronic conditions due to inadequate transportation and that at least $19 billion 
+could be saved annually through improved access to medical care for individuals ages 18 to 64, mostly from public entitlement programs.
+10 Active transportation typically refers to walking and biking. See glossary.
+29 Daniel J. Foley, Harley K. Heimovitz, Jack M. Guralnik, Dwight B. Brock, “Driving Life Expectancy of Persons Aged 70 Years and Older in the United 
+States,” American Journal of Public Health, Vol.92, No. 8, August 2002.
+Chronicling the shortcomings of the current transportation sys-
+tem makes it clear that America is ready for a new transporta-
+tion paradigm. Many travelers face traffic congestion, potholes, 
+failing rail systems, and streets too dangerous to navigate on 
+foot. Some acquire debt they cannot afford for the purchase 
+of a car because more affordable travel options do not exist in 
+their communities. Many baby boomers are searching for se-
+cure transportation for their parents today and hoping it will be 
+there for them tomorrow.
+5 Business as usual is not an option.
+Transportation policy in the United States and the infra-
+structure investment of the past 100 years has resulted in 
+tremendous mobility for many Americans. But it has also left 
+many isolated. One-third of US residents do not drive.
+6 Non-
+drivers include children, many people with incomes too low 
+to afford the upkeep of a personal vehicle, more than one in 
+five individuals over the age of 65, many people with disabil-
+ities, and others who, for a variety of reasons, choose not to 
+drive. For many, accessing transportation can range from a 
+minor inconvenience to an insurmountable barrier. Many of 
+the 100 million nondrivers in the United States today cannot 
+fully participate in the economic or social life of their com-
+munities because they lack transportation.
+More than 100 million Americans do 
+not drive, yet the transportation sys-
+tem of most US communities  
+requires people to drive to have full  
+access to the economic and  
+social life of their communities.
+The Need for a More Inclusive  
+Transportation System
+02
+Beyond inadequate transportation options, one of the great-
+est barriers to mobility for those who do not drive, or who 
+are looking for alternatives to driving, is lack of awareness of 
+available services. Travelers today may not be able to seam-
+lessly move between one mode and another or among dif -
+ferent providers. Or they may find it difficult to understand 
+the various costs associated with different services (in terms 
+of both money and time). Different accounts and payment 
+systems may be required. Travelers may not have informa-
+tion at their fingertips to respond quickly to changes in the 
+transportation environment, such as a road closure or rail 
+line delay. 
+Our current transportation system has led to numerous other 
+negative societal impacts. Those felt most acutely are traffic 
+congestion, air and noise pollution, sprawl, and imbalanced 
+economic and social opportunities for many people who 
+have disabilities or have low income. Some people are un-
+able to hold a job because of transportation problems.
+7 Oth-
+ers who can no longer drive safely are left without adequate 
+transportation options when they have to hang up their car 
+keys. Indeed, the typical 70-year-old has 7–10 years at the 
+end of life when he or she no longer drives and transporta-
+tion alternatives become essential.
+29 Most communities lack 
+adequate mobility options for people at this life stage. And 
+at least 3.6 million Americans miss medical appointments 
+every year due to a lack of transportation.
+8,9
+Meanwhile, urban sprawl, fueled in part by access to the in-
+terstate highway system, has consumed farmland and open 
+space and contributed to a decline in exercise opportunities,
+
+Universal Mobility as a Service: A Bold Vision for Harnessing the Opportunity of Disruption  |  13
+as many people no longer live close enough to reach destinations on foot or bike, while roads linking key 
+destinations are not designed for safe active transportation. 10  The result is a system ripe for reform, at 
+a time when the transportation system itself is primed for transformative change as new emerging tech-
+nologies are being quickly introduced into our transportation system.
+Emerging disruptive technologies present an unprecedent -
+ed opportunity to vastly expand mobility for all sectors of 
+society and address the adverse impacts of our transpor -
+tation system. But realizing these aspirations will require 
+foresight and the wherewithal to put in place policies that 
+can both unleash the opportunity and tame its potential for 
+harm. Simple one-to-one replacement of our human-driv -
+en personal vehicles with driverless vehicles would miss this 
+once-in-a-lifetime opportunity and could risk even greater 
+transportation, social, and environmental challenges for our 
+communities. 
+Individuals’ mobility needs change with life stage. At the 
+beginning and often toward the end of life, people are most 
+dependent, but the goal should be to maximize indepen-
+dence as early and for as long as possible. Without adequate 
+alternatives, school-aged children and adult nondrivers rely 
+on family and friends for transportation. Areas with public 
+transportation and more tailored services can foster inde-
+pendence. 
+Transportation planning today is typically focused on the 
+needs of the work commuter. Often, planning for roads and 
+public transportation are carried out in separate silos. Plan-
+ning for safe pedestrian and bicycle travel is still too often 
+an afterthought. Addressing the travel needs of those with 
+disabilities and mobility limitations is often relegated from 
+transportation planning offices to less-resourced human 
+service agencies. The emerging disruption to the transpor -
+tation sector creates a unique opportunity for all sectors to 
+come together to plan a transportation system that serves 
+everyone. 
+To date, industry has offered two Mobility as a Service 
+(MaaS) concepts underlying this disruption. At its most 
+basic, MaaS describes a shift away from individually oper -
+ated transportation (i.e., car ownership) toward a menu of 
+services provided to consumers on demand. More broadly, 
+much like a search engine that provides flight options for 
+multiple carriers, MaaS would be a single platform that of -
+fers real-time information with an easy payment system for 
+fixed-route, on-demand transit and other travel options. 
+Customers would access this platform to identify available 
+transportation options, evaluate costs and timing, schedule 
+and pay for a ride, and even receive real-time information 
+about the travel environment.
+This paper builds on the concept  
+of MaaS by adding the element of 
+universality. It offers a vision for  
+Universal Mobility as a Service  
+(Universal MaaS), which when 
+aligned with a commitment to  
+livable communities would provide  
+a unifying framework to manage  
+disruptive forces and lead to  
+more equitable, accessible, and  
+sustainable transportation.
+02
+Current Disruption Offers an Unprecedented Opportunity
+
+14  |  Universal Mobility as a Service: A Bold Vision for Harnessing the Opportunity of Disruption
+With new technology, systems, and even different views of transportation emerging, America has the 
+opportunity to embrace a new transportation paradigm, one based not on personal ownership of one’s 
+mobility, but on what is called Mobility as a Service, or MaaS. MaaS allows us to move from a system in 
+which “I own my transportation” to one in which “I access my transportation from a menu of available 
+options. ” In its narrowest definition, Mobility as a Service describes a shift away from personally owned 
+modes of transportation and toward mobility solutions that are consumed as a service on demand.
+Universal Mobility as  
+a Service
+Industry Precursors to Universal 
+Mobility as a Service 
+03
+Photo courtesy of MaaS Global
+Already, major companies as diverse as automakers, ride-
+sourcing enterprises, and entertainment companies have 
+begun to invest in on-demand mobility services in the Unit -
+ed States and around the world. Toyota is working with Uber 
+to develop a new self-driving shuttle service. Uber is also 
+working with Volvo and Daimler on driverless cars. Waymo 
+partnered with Lyft, presumably for the infrastructure that 
+will allow the company to connect with customers nation-
+wide. Waymo plans to launch commercial services using 
+autonomous vehicles (no driver) on certain routes in Phoe-
+nix later in 2018.  A public trial of its Early Rider program is 
+already underway.  BMW owns Reach Now, a carshare and
+
+Universal Mobility as a Service: A Bold Vision for Harnessing the Opportunity of Disruption  |  15
+ridesource service available in Portland, Brooklyn, and Seattle, which incidentally uses the urban mobil-
+ity company Ridecell’s software to perform vehicle/customer matching and payment processing. 
+11 James Arbib and Tony Seba, “Rethinking Transportation 2020-2030: The Disruption of Transportation and the Collapse of the Internal-Combustion 
+Vehicle and Oil Industries,” RethinkX Sector Disruption Report, May 2017.
+Urban mobility companies, such as 
+Moovel, offer services more aligned 
+with a somewhat fuller definition of 
+MaaS, where various forms of trans -
+portation services are integrated into a 
+single mobility platform. They offer the 
+traveling public app-based trip-plan-
+ners and integrated transit, bikeshare, 
+and carshare payment systems. Re-
+al-time information and frictionless 
+payment systems result in seamless 
+transfers between modes and provid-
+ers. They can dynamically determine 
+stop locations for microtransit (infor -
+mation-technology (IT)-enabled pri-
+vate multipassenger transportation services) and other on-demand vehicles based 
+on customer locations and can route vehicles to minimize delay based on current 
+traffic. Some urban mobility companies offer consumers subscription services. For 
+example, the Whim app, being rolled out in several European cities by the compa-
+ny MaaS Global, allows users to subscribe through their smartphones to a single 
+package of transportation services tailored to their individual needs and prefer -
+ences, enabling them to use buses, trains, bikesharing schemes, private cars, and 
+so forth, to fulfill their daily mobility needs. Users purchase their preferred com-
+bination of services on a monthly basis, or they may pay as they go, even adding 
+services a la cart in real time. The subscription-based method gives users access to 
+unlimited rides on public transportation and a specified amount of Whim points 
+that can be spent on various other modes, such as car rentals, taxis, bikeshare, and 
+so on. Users can link Whim to their electronic calendars, enabling them to plan 
+trips in advance and save user preferences. 
+Both sets of private-sector players (on-demand transportation providers and ur -
+ban mobility software companies) are developing their applications in an intense-
+ly competitive, winner-take-all, rapidly changing economic environment. The aim 
+is to build consumer loyalty and market share.
+11 These companies must answer to 
+shareholders and investors and, at least eventually, ensure their mobility services 
+turn a profit. Furthermore, population density of the area being served is a key 
+factor in the viability of on-demand services. As such, there are fewer offerings in 
+suburban and rural communities—areas of the country in greatest need of trans -
+portation alternatives to driving. Given these market dynamics, it is highly unlikely 
+that the private sector alone can ensure a more inclusive transportation system. 
+Ultimately, the  
+public is best served 
+through a coherent, 
+coordinated network 
+of numerous  
+providers.
+Photo courtesy of MaaS Global
+
+16  |  Universal Mobility as a Service: A Bold Vision for Harnessing the Opportunity of Disruption
+Universal Mobility as a Service, the vision presented in this 
+paper, expands on these basic industry concepts of MaaS to 
+ensure that all users’ needs would be met. This can be done 
+by making sure that all forms of available transportation are of-
+fered to customers through the MaaS framework, including the 
+full integration of specialized transportation and by applying 
+the principles of universal design to all facets of the system. 
+While Universal MaaS–enabling technology has been devel-
+oped, it has yet to be fully deployed. The technology would 
+allow MaaS customers to identify all available transportation 
+options, evaluate their cost in terms of both dollars and time, 
+schedule a ride, monitor progress, and pay regardless of the 
+number of transfers and independent providers used—all 
+through a single platform that can be accessed via mobile 
+devices, desktop computers, and a call center. The plat -
+form would show customers their fixed-route and demand 
+responsive public transportation options. On-demand 
+transportation, traditionally limited in the United States to 
+those who own their own vehicle, would now include micro-
+transit, ridesourcing, ridesharing, carsharing, and bikeshar-
+ing. Universal MaaS’s integration of on-demand transporta-
+tion offers tremendous opportunity to improve specialized 
+transportation in the United States. The platform could even 
+integrate volunteer transportation services. 
+The primary difference between Universal MaaS and the 
+services of today’s urban mobility systems lies in the full 
+integration of specialized transportation and application of 
+universal design to all facets of the system. While services 
+tailored to the needs of particular populations would be 
+available, they would be part of a single, coordinated system 
+that as a whole meets the needs of everyone in the commu-
+nity, regardless of income, geographic location, race/eth-
+nicity, disability, or age. Such a paradigm, if implemented 
+properly, could reduce or eliminate the inherent inequities 
+of our current transportation system, where nondrivers go 
+underserved. 
+A Future with Universal Mobility  
+as a Service
+03
+The public sector needs to play a proactive role to ensure that 
+this current opportunity results in vastly expanded mobility 
+and improved community environments. This can be done 
+by putting in place policies that support Universal MaaS 
+within a shared-use transportation ecosystem. Shared-use 
+mobility refers to transportation services that are shared 
+among users. Public transportation is the backbone of 
+shared-use mobility, but shared uses also include taxis 
+and limos,  bikesharing, carsharing,  ridesharing (carpool-
+ing, vanpooling), ridesourcing (especially when it involves 
+ride-splitting, e.g., Lyft Line and Uber Pool), scooter sharing, 
+shuttle services, and neighborhood jitneys. 
+The disruptive forces within the 
+transportation sector can be har-
+nessed to realize a convenient and 
+equitable transportation system 
+only if they are integrated within a 
+shared-use mobility ecosystem.
+While Universal MaaS evolves, some portion of the traveling 
+public would continue to drive personal vehicles for the bulk 
+of their trips, and the system would accommodate them. Yet, 
+as shown in polls revealing millennials’ preferences for trans-
+portation alternatives beyond the automobile, the preference 
+for travel in personal vehicles may be changing, and the sys-
+Car companies such as Ford are investing in mobility services,  
+including microtransit and bikeshare. Photo courtesy of Ford.
+
+Universal Mobility as a Service: A Bold Vision for Harnessing the Opportunity of Disruption  |  17
+12 Terra Curtis and Josh Karlin-Resnick, Autonomous Vehicles and the Future of Parking, Nelson Nygaard and Perkins + Will, Fall 2016, http://nelsonny-
+gaard.com/wp-content/uploads/2017/04/AutoVeh_FutureParking_FINAL.pdf. 
+13 Erika Interrante, The Next Generation of Travel: Research, Analysis and Scenario Development (Federal Highway Administration Office of Policy 
+Transportation Studies, 2014), https://www.fhwa.dot.gov/policy/otps/nextgen_finalreport.cfm.
+14 Ismail Zohdy, Nathen Huang, Nathan Keegan, Josh Lukens, “Impacts of Millennial Student Loan Debt on Transportation Choices,” Federal Highway 
+Administration Office of Policy, September 2016, https://www.fhwa.dot.gov/policy/otps/millennial_travel_choices.pdf.
+tem could change accordingly.12,13,14 Personal transportation 
+would remain an option, but the system would be better con-
+figured to support shared-use mobility. And certainly, the pol-
+icy and incentive environment of Universal MaaS would not 
+result in personal vehicles being the only truly viable form of 
+travel as is the case today in much of the country. 
+A core benefit of Universal MaaS is that it could make all 
+kinds of transportation services more convenient and ap-
+pealing—stimulating a shift in mode choice among con-
+sumers. The degree to which this happens will depend on 
+America’s investment in public transportation and other 
+shared-ride solutions, and the extent to which all entities 
+come together to coordinate their services. 
+A core benefit of Universal MaaS is 
+that it can make all kinds of trans-
+portation services more convenient 
+and appealing—stimulating a shift in 
+travel choice among consumers.
+This coordination would allow consumers to identify 
+through an app the transportation options available to them 
+for a particular trip and the cost (in terms of both time and 
+money) of those various options. Users could quickly see 
+their fixed-route public transportation options as well as 
+their on-demand options. They could call a private vehicle 
+through a ridesourcing company such as Lyft or Uber or see 
+availability at the nearest parking or bikeshare location. They 
+could schedule and pay for a demand responsive bus and re-
+quest that the one sent be wheelchair accessible. They could 
+use multiple modes and providers to arrive at a destination; 
+however, the full trip could be reserved and paid for within 
+the app. A fully implemented Universal MaaS system would 
+rely on intelligent transportation systems to provide up-to-
+the-minute traffic conditions or service delay information, 
+along with user options to respond to changes in travel con-
+ditions. While US cities would likely be early adopters of 
+Universal MaaS, the concept is applicable to rural areas as 
+well (see below). When effectively implemented, urban, sub-
+urban, and rural communities could be knitted together by 
+interconnected and affordable transportation options.
+Mobility as a Service promises to 
+create a system in which consumers 
+of transportation may access their 
+transportation in the most seamless 
+way possible
+Within a fully implemented Universal MaaS system—where 
+shared-use mobility is convenient and encouraged—traffic 
+congestion, the inefficient use of land for parking, and air 
+and noise pollution could be substantially reduced, as pol-
+icy makers effectively price and incentivize shared-mobility 
+solutions. Those who choose to travel by foot or bike could 
+be able to do so safely on an inviting network of streets, side-
+walks, and trails. 
+Either human-driven or driverless vehicles could be used 
+within a Universal MaaS system; however, the National 
+Highway Traffic Safety Administration and many other re-
+searchers argue that driverless vehicle technology could 
+profoundly reduce the toll of traffic fatalities and injuries on 
+human life and our economy. 
+Many Americans, fatigued by transportation challenges, are 
+ready for change. Several trends expose our current transpor-
+tation system to disruption and increase the viability of MaaS. 
+ » Demographic change. Millennials are fueling a new 
+transportation paradigm with their love of apps, preference 
+for convenience and spontaneity, comfort with the sharing 
+economy, and expectation of connectivity anywhere at any 
+time. Urbanization and the aging of society also increase 
+the demand for transportation alternatives to driving. 
+ » Communications technology. The near ubiquity of 
+smartphones, global positioning systems, Wi-Fi, and 
+cloud-based communications and data storage provide 
+a strong foundation for multientity coordination and 
+customer communications. 
+ »  New service models. Ridesourcing (e.g., on Lyft or Uber) 
+has already mainstreamed on-demand transportation.
+
+18  |  Universal Mobility as a Service: A Bold Vision for Harnessing the Opportunity of Disruption
+15  GM predicts that it can raise its profit margin from 7.5 percent today on the private sale of a $30,000 vehicle to 30 percent when its driverless vehicle 
+is part of a GM-owned fleet operating 24 hours a day, 7 days a week. Jeffrey Mervis, “Are We Going too Fast on Driverless Cars?,” Science, Decem-
+ber 14, 2017, http://www.sciencemag.org/news/2017/12/are-we-going-too-fast-driverless-cars. 
+16 https://techcrunch.com/2018/01/25/ford-acquires-autonomic-and-transloc-as-it-evolves-its-mobility-business/.
+17 Caitlin Huston, “Why General Motors Invested in Lyft,” MarketWatch, January 4, 2016, https://www.marketwatch.com/story/why-general-motors-in-
+vested-in-lyft-2016-01-04.
+18 Doug Newcomb, “How Daimler Is Tying Together Its Diverse Mobility Investments,” Forbes, May 30, 2018, https://www.forbes.com/sites/dougnew-
+comb/2018/05/30/how-daimler-is-tying-together-its-diverse-mobility-investments/#4977483e3215.
+19 https://techcrunch.com/2018/01/25/ford-acquires-autonomic-and-transloc-as-it-evolves-its-mobility-business/. CES was formerly known as the Interna-
+tional Consumer Electronics Show.
+20 Scott Corwin, Nick Jameson, Derek M. Pankratz, and Philipp Willigmann, The Future of Mobility: What’s Next? Tomorrow’s Mobility Ecosystem—And 
+How to Succeed in It (Deloitte University Press, 2016), https://dupress.deloitte.com/dup-us-en/focus/future-of-mobility/roadmap-for-future-of-ur-
+ban-mobility.html.
+ »  Rapid development of automated vehicle technologies. 
+Driverless vehicles will change the economics of transpor-
+tation. Industry profit is currently derived through the sale 
+of vehicles to individual consumers. In the future it is likely 
+to be replaced by bundling a variety of services within the 
+travel environment, such as a ride, on-board entertain-
+ment, and real-time traffic and weather.
+15  Even insurance 
+might be offered based on the modes chosen for a particu-
+lar trip rather than tied to a personal vehicle. Data collect-
+ed during the trip, about the trip, and consequently about 
+the rider, could offer new revenue opportunities. 
+To be sure, signs of these trends have already emerged. Al-
+ready, most traditional car companies and technology com-
+panies developing autonomous vehicle technology have in-
+vested in one or more aspects of Mobility as a Service, at least 
+in its most basic form. For example, GM’s $500 million in-
+vestment in Lyft and its acquisition of Maven and Ridescout, 
+Daimler’s investments in Moovel and Car2Go, and Ford’s 
+creation of Ford Smart Mobility and purchase of TransLoc, 
+all demonstrate that original equipment manufactur -
+ers (OEMs) see value shifting from the physical vehicle to 
+MaaS.
+16,17,18 In his CES 2018 keynote, Ford CEO Jim Hackett 
+focused entirely on his company’s vision of the future of 
+transportation, highlighting how smart infrastructure and 
+autonomous vehicles together might transform the way we 
+move about our urban environments.
+19 Deloitte Consulting, 
+in its series “The Future of Mobility, ” advises companies and 
+governments that “the future mobility ecosystem’s various 
+elements are coalescing to realize that dream [MaaS] sooner 
+than expected, which means that incumbents and disrup-
+tors need to move at top speed to get on board. ”
+20
+Emerging technologies and past efforts at customer informa-
+tion, human services transportation coordination, mobility 
+management, and multimodal infrastructure design offer 
+a foundation on which to build Universal MaaS as outlined 
+in this paper, and thus take MaaS beyond current industry 
+models to realize a framework that serves everyone. Disrup-
+tive forces within the transportation sector enable Universal 
+MaaS to become a reality. But it won’t happen by chance. To 
+take advantage of the window of opportunity that emerging 
+disruptive technology offers, and to avoid potentially nega-
+tive impacts of inevitable change, diverse players from both 
+the public and private sectors need to take collaborative 
+action. Universal Mobility as a Service is the framework to 
+make that happen.
+
+Universal Mobility as a Service: A Bold Vision for Harnessing the Opportunity of Disruption  |  19
+Universal MaaS and Urban Transportation
+The future of transportation in our cities lies in our ability to offer consumers mo-
+bility options and create transportation networks that foster vibrant local econo-
+mies and livable neighborhoods. 
+Urban America has already embraced new ways of getting around, while at the 
+same time supporting traditional public transportation. Solo commuting has been 
+on the decline in most major metro areas.
+21 For example, in the Washington, DC, 
+region, the share of drivers getting to work on their own declined 10 percentage 
+points between 2004 and 2016, with single-occupancy vehicle travel comprising 
+just 61 percent of commute trips,
+22 compared with 77 percent for the nation as a 
+21 Angie Schmitt, “Where Car Commuting Is Shrinking, and Where It’s Not,” Streetsblog USA, September 16, 2016, http://usa.streetsblog.
+org/2016/09/16/where-car-commuting-is-shrinking-and-where-its-not.
+22 Commuter Connections, “State of the Commute Survey 2016,” Technical Survey Report, Metropolitan Washington Council of Governments, June 30, 2016.
+03
+
+20  |  Universal Mobility as a Service: A Bold Vision for Harnessing the Opportunity of Disruption
+23 US Census Bureau, 2015 American Community Survey 1-Year Estimates, https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.
+xhtml?pid=ACS_15_1YR_S0801&prodType=table. 
+24 EMC Research, “Commute Seattle Mode Split Survey Results,” 2017, https://commuteseattle.com/modesplit/.
+25 Recognizing the value public transportation brings to their lives and communities, US urbanites have voted to fund public transportation in 71 percent 
+of local/regional referenda in the past 16 years (2000–2016). In 2016 alone, voters approved 54 out of 77 measures generating at least an estimated 
+$170 billion for transit Center for Transportation Excellence, http://www.cfte.org/.
+26 Joseph Barr, “Transportation Communications: No One Told Me It Would Be This Hard,” Meeting of the Minds, August 17, 2017, http://meetingoft-
+heminds.org/transportation-communications-no-one-told-hard-22315?utm_source=Meeting+of+the+Minds+Newsletter+List&utm_campaign=09d-
+fa28dfa-RSS_EMAIL_CAMPAIGN&utm_medium=email&utm_term=0_cdb70a5ce7-09dfa28dfa-57905337&mc_cid=09dfa28dfa&mc_eid=574355608b.
+whole.23 Downtown Seattle added 45,000 jobs between 2010 
+and 2016, and captured 95 percent of the net commute trips 
+with public transportation, biking, walking, telecommuting, 
+or true rideshare  (carpool and vanpool ). Only 30 percent of 
+commute trips to downtown Seattle are now made by people 
+driving alone to work.
+24 According to the Shared Use Mobility 
+Center, in 2017, ridesource companies were operating in 300 
+cities in North America. Consumers could find carshare ser-
+vice in 400 cities, and bikeshare systems in 120 cities. More-
+over, voters have voiced their support for public transporta-
+tion through numerous local funding referendums.
+25 
+Fixed-route and on-demand public transportation would 
+form the backbone of the Universal MaaS transportation 
+system of the future. In fact, the success of every MaaS player 
+is dependent on the nation having a robust public transpor -
+tation system in communities of all sizes. Before Americans 
+forego their personal vehicles, they must be confident that 
+convenient and affordable transportation options are avail-
+able. Public transportation offers the most efficient and af -
+fordable means of moving the greatest numbers of people in 
+our cities. Privately provided transportation options should 
+complement, rather than compete with or replace, public 
+transportation service. Urban public transportation systems 
+are already innovating and preparing for a new era of public 
+transportation service. Several small city and suburban bus 
+providers have recently reexamined their route structures to 
+create high-frequency routes (e.g., every 10 minutes), some-
+times with fewer stops, to whisk commuters to job destina-
+tions during rush hour. Los Angeles will be the second city 
+to test microtransit—private, multipassenger on-demand 
+transportation services using dynamically generated routes 
+(e.g., Chariot and Via). 
+Without a doubt, innovations in smartphone-based trip- 
+planning apps have already greatly improved access to qual-
+ity transit information, made possible by the widespread 
+adoption of the General Transit Feed Specification (GTFS). 
+The GTFS provides a national platform for transit agencies 
+to upload their route and schedule information, which can 
+then be used by third-party app developers. The GTFS-Re-
+al Time allows trip-planning apps to connect directly with 
+real-time bus operations to inform customers of the actual 
+minutes and miles a particular bus is from that customer’s 
+particular stop, based not solely on the schedule, but on ac -
+tual operating conditions and bus movement along a route. 
+Furthermore, private industry is making inroads on algo-
+rithms that provide an even better estimation of arrival time. 
+Joseph Barr, director of traffic, parking, and transportation 
+for the city of Cambridge, Massachusetts, underscores this 
+shift in consumer demand: “Twelve years ago, the idea that 
+you could find out on your phone when your bus was going 
+to arrive was mostly a fantasy; six years ago it was an inter -
+esting novelty offered by more advanced public transit agen-
+cies. These days, if you can’t tell me precisely when my bus 
+is going to arrive then you might as well not bother pulling it 
+out of the garage in the morning. ”
+26 
+“Twelve years ago, the idea that you 
+could find out on your phone when 
+your bus was going to arrive was 
+mostly a fantasy … These days, if 
+you can’t tell me precisely when my 
+bus is going to arrive then you might 
+as well not bother pulling it out of 
+the garage in the morning,” 
+Joseph Barr, Director of Traffic, Parking,  
+and Transportation for the City of  
+Cambridge, Massachusetts
+Thus, with such enabling technologies and service orienta-
+tion, public transportation stands poised to not only con-
+tinue in its important role but to serve as the backbone of 
+Universal MaaS and a new transportation era.
+
+Universal Mobility as a Service: A Bold Vision for Harnessing the Opportunity of Disruption  |  21
+Innovation Insight: Muni Aims to 
+Compete with Uber and Lyft by 
+Offering Customers Enhanced 
+Trip-Planning
+San Francisco incubates technological innovation. It is where Airbnb, Uber, and Lyft were all 
+born. It’s a city that both welcomes and grapples with technological disruption. 
+As much as a quarter of the city’s rush-hour traffic is comprises ridesourcing vehicles circu-
+lating in the same Downtown/South of Market (a.k.a., SOMA) areas where the local transit 
+operator, Muni, provides dense, high-frequency transit services, adding to traffic congestion 
+and surface bus and rail delays. Fierce competition between Uber and Lyft has put additional 
+pressure on the transit agency to retain its customers. For example, in response to an Uber 
+price cut in 2015, Lyft introduced a “Match MUNI” campaign, whereby Lyft Line customers 
+were charged only $2.25 for rides that started and ended downtown or in the Financial District, 
+North Beach, and the Mission District, a price comparable to public transportation. 
+To enable its transit operations to be competitive with ridesourcing, the San Francisco Mu -
+nicipal Transportation Agency (SFMTA) is upgrading its real-time customer information sys-
+tem to provide more reliable information on Muni arrival times, as well as detours and other 
+real-time service changes. Existing real-time information shows customers only the next bus 
+or train arrival times for the route requested. Often a customer may not know that another 
+viable transit option exists just three blocks away. Where transit networks are dense, riders 
+often could get to their destination in an acceptable time frame via a parallel route or transfer. 
+In addition to improved mobile trip-planning tools, the SFMTA plans to upgrade and expand 
+signage at stops to include nearby routes within walking distance that could provide alternative 
+service in the event of a lengthy wait or service delay. This real-time information is especially 
+beneficial during off-peak travel, when buses and trains are less frequent. In a comprehensive 
+survey of more than 5,700 riders, the SFMTA found that only 45 percent of respondents would 
+take Muni when faced with a 20-minute wait. The potential ridership decline was most pro-
+nounced among riders at the highest income levels, where less than 30 percent chose 
+Muni when subject to the wait. Nonetheless, the survey revealed that if real-time informa-
+tion displays at stops were to proactively suggest an alternative route three blocks away that 
+would arrive sooner, more than 80 percent of people, regardless of income, indicated they 
+would choose the alternative route and take Muni. 
+These findings suggest that innovations in real-time transit information can help sustain 
+and build ridership and lead to a more equitable transportation system. Without a doubt, to 
+remain competitive, transit providers will need to offer customers reliable and informative 
+trip-planning tools. 
+Photo courtesy of SMFTA Photo Archive. www.SFMTA.com/Photo
+
+22  |  Universal Mobility as a Service: A Bold Vision for Harnessing the Opportunity of Disruption
+The potential benefits of Universal MaaS extend beyond urban areas. Rural public 
+transportation in America today is limited. Service may span only a few hours of 
+the day, buses may come only once an hour, or customers may need to reserve a 
+ride 24–48 hours in advance. Yet, a vision that includes being able to lead a reason-
+ably connected life without owning a car is attainable in rural America.
+Despite the inadequacy of service today, our nation does have a solid foundation in ru-
+ral public transportation services that can, with sufficient investment, enable Univer-
+sal MaaS to reach rural areas. More than 80 percent of counties nationwide have rural 
+transit service.
+27 Many potential riders are unaware of the service that exists in their 
+community, or they are unaware that it serves everyone. Extremely limited budgets 
+have required that rural transit agencies focus on tailoring their services for clients of 
+the human service agencies that contribute funding. The lack of resources has meant 
+that most rural systems cannot provide a service level amenable to the general public, 
+or even marketing dollars to let them know of the service that does exist. 
+Our nation has a solid foundation in rural public 
+transportation services that can, with sufficient in-
+vestment, enable MaaS to reach rural areas. More 
+than 80 percent of counties nationwide have rural 
+transit service.
+Universal MaaS and Rural and  
+Intercity Transportation
+HealthTran Trip Provided in Partnership with Feonix - Mobility Rising.  
+Photo courtesy of Feonix Mobility Rising.
+03
+
+Universal Mobility as a Service: A Bold Vision for Harnessing the Opportunity of Disruption  |  23
+Universal MaaS, while initially a concept for urban areas, could result in expanded mo-
+bility in small towns and rural areas as well, although the shift to this new paradigm will 
+happen at a slower pace than in cities. Public bus service will play an important role, but 
+alternative shared-ride solutions may offer a competitively priced advantage over tra-
+ditional public transportation in certain circumstances. Transportation policy should 
+support the best mix of transportation options that facilitate broad mobility. 
+Trends suggest that rural populations are eager to embrace the shifting transportation 
+landscape. Just as urbanites have responded positively to improvements in their transit 
+service, so too have rural residents. Between 2007 and 2015, ridership on rural public 
+transportation services increased 8 percent, despite declining population.
+28 
+With sufficient investment, rural transit systems can provide a level of service that at -
+tracts riders from the general public. To do so, they will need funding to expand service 
+hours that cover the core travel times of the work day and they will want to connect to 
+regional employment and transportation hubs, such as intercity bus and rail stations, 
+and airports with commercial flights. 
+In some ways, rural transit providers are well positioned for the transition to on-demand 
+services, given the dominance of demand responsive transportation service tailored to cus-
+tomer needs in rural areas today. Rural transit providers will need 
+to stay abreast of technology solutions that offer improved coordi-
+nation capabilities and look for ways to stay nimble as the operating 
+environment changes. In the near term, they should upload their 
+fixed-route data into the GTFS and their demand responsive service 
+information into the GTFS-Flex (see sidebar on p. 24). This will allow 
+both their fixed-route and demand responsive services to become 
+known to consumers through Google Transit and other trip-plan-
+ning apps. Federal Transit Administration and state Department 
+of Transportation transit program managers should quickly identi-
+fy outdated policies and regulations that could inhibit innovation. 
+They, along with local agencies, should require both public and private operators of demand 
+responsive services to use the forthcoming transactional data specification to foster better 
+coordination of services (see section on Universal MaaS and Specialized Transportation).
+Communities can also look to private providers to help build Universal MaaS. For ex -
+ample, The non-profit Feonix Mobility Rising is helping HealthTran, a program of the 
+Missouri Rural Health Association, and two Federally Qualified Health Centers, ex -
+pand its reach by coordinating volunteer drivers, public transit and local taxi services 
+via the QRyde platform. Feonix will soon bring its mobility services to communities in 
+rural Nebraska, South Carolina, Texas, and Wisconsin. ITNAmerica intends to bring a 
+variation (ITNCountry) of its award-winning volunteer transportation format to rural 
+communities in the near future. Public receptivity to spontaneous carpooling services 
+is growing, as app-based technology facilitates the ease of ride matching.
+27  Jeremy Mattson, “Table 14,” in Rural Transit Fact Book 2017 (Upper Great Plains Transportation Institute, Small Urban and Rural Transit Center, North 
+Dakota State University, October 2017), https://www.surtc.org/transitfactbook/downloads/2017-rural-transit-fact-book.pdf. 
+28 Todd Litman, “Public Transit’s Impact on Rural and Small Towns: A Vital Mobility Link,” Victoria Transportation Institute for the American Public Trans-
+portation Association, October 2017.
+Alternative shared- 
+ride solutions may  
+offer a competitively 
+priced advantage over 
+traditional public  
+transportation in  
+certain circumstances.
+
+24  |  Universal Mobility as a Service: A Bold Vision for Harnessing the Opportunity of Disruption
+If there is a bus but no one knows about it, is the bus really 
+serving the community? 
+In an effort to build public awareness of the state’s transit 
+services, the Vermont Agency for Transportation (VTrans) is 
+the first in the nation to test the GTFS-Flex. Through a new 
+trip-planning app, customers will soon be able to enter their 
+desired origin and destination and access information about 
+demand responsive services, including provider contact in-
+formation, geographic coverage area, hours of service, and 
+type of service. Once the state’s data have been uploaded, 
+Innovation Highlight: VTrans Implements  
+the GTFS-Flex
+other trip-planning apps, such as Google Transit, could also 
+consume the service information into their systems.
+Without the GTFS-Flex potential customers cannot simply 
+pull out their smartphone and figure out how to travel by 
+public transportation where those services do not follow a set 
+route or schedule. This limitation affects many rural residents 
+and both rural and urban residents who rely on more special-
+ized transit services. The GTFS-Flex allows the “discovery” of 
+available transit services for a given trip; however, it does not 
+enable the customer to book and schedule a trip on the bus. 
+It simply provides that customer with the information neces-
+sary to complete the transaction. Nonetheless, this is an im-
+portant step in building a Universal MaaS system. 
+Demand responsive transit services take several forms,  
+including:
+ » Traditional dial-a-ride
+ » Flag stop service where riders can request to board or 
+alight at any point along a route
+ » Route deviation where vehicles deviate from their  
+scheduled route to pick up or drop off a customer within 
+an approved zone
+ » Point deviation where vehicles serve respond to  
+customer requests for pickups or drop-offs at a limited 
+number of stops within a specified zone. 
+Each form of demand responsive service is visible to poten-
+tial customers through the GTFS-Flex. 
+Vermont has public transportation service in every county, 
+much of it in the form of demand responsive service de-
+signed to serve more rural markets. Implementation of the 
+GTFS-Flex is a positive step in enabling residents in rural 
+areas to travel by transit across county boundaries and even 
+connect to private, interstate bus and rail to reach distant 
+cities up and down the Eastern Seaboard. Trip planning will 
+soon be as easy as whipping out a smartphone. 
+Photo courtesy of Vermont Agency for Transportation.
+
+Universal Mobility as a Service: A Bold Vision for Harnessing the Opportunity of Disruption  |  25
+Intercity Travel
+Intercity travel is an important, but often unmentioned, el-
+ement of Universal MaaS. The services provided by Amtrak, 
+Greyhound, rental car companies, private airport shuttle 
+operators, and others can be integrated into a national Uni-
+versal MaaS platform so that travelers can quickly find their 
+options for getting from point A to point B, even for destina-
+tions they have little, or no, familiarity with.
+In fact, such shifts are already happening. Providers have been 
+slowly building a foundation for this coordination. Amtrak and 
+Greyhound have linked their ticketing services for some routes, 
+allowing customer transfers from one provider to another on a 
+single ticket. The Intercity bus company, Jefferson Lines, now 
+uploads its route and schedule data to the GTFS, making about 
+50 intercity routes in 14 states immediately known to potential 
+customers via Google Transit. Greyhound is following suit.
+Photo by AARP .
+Universal MaaS and Specialized 
+Transportation
+The transportation disruption also stands to improve ser -
+vice quality and efficiencies in specialized transportation. To 
+date, MaaS developers have not typically focused on travel-
+ers with special needs, but if carefully designed, MaaS could 
+vastly improve transportation for those who now rely on 
+family and institutions for their transportation. 
+Many people with disabilities and other individuals with 
+mobility limitations, regardless of age, need specialized 
+transportation—such as door-to-door or door-through-door 
+paratransit services, which have been traditionally provided 
+on request by van, small bus, or taxi. Various human services 
+providers arrange this form of transportation for their clients. 
+Some may provide the service directly. Others may contract 
+service through a public or private paratransit provider. For 
+example, Area Agencies on Aging may arrange van service to 
+senior centers or adult day centers. Vocational rehabilitation 
+agencies may provide transportation to young adults with 
+disabilities between home and a work site. A nonprofit may 
+offer transportation to medical appointments through a net-
+work of volunteer drivers. Each entity may draw on funding 
+from different federal agencies and have different eligibility 
+criteria and service parameters. In many communities these 
+services may be overlaid with local fixed-route and Ameri-
+cans with Disability Act (ADA) paratransit services. Often, 
+service is redundant and inefficient, and navigating the sys -
+tem is challenging for consumers. Efforts to coordinate ser -
+vices, even after several decades, arguably have fallen short. 
+Since the creation of the federal Coordinating Council on Ac-
+cess and Mobility in 2004, federal agencies have worked with 
+state and local transportation partners to improve the coordi-
+nation of these services. One of the stumbling blocks has been 
+the challenge of getting the various ride scheduling and dis -
+patch systems to communicate with one another. Coordina-
+tion of demand responsive transportation is more challenging 
+than simply creating an open data specification that provid-
+ers can use to upload route and schedule data (e.g., the GTFS 
+system) as a paratransit vehicle’s route changes dynamically 
+with incoming trip requests. Personal data that include riders’ 
+03
+
+26  |  Universal Mobility as a Service: A Bold Vision for Harnessing the Opportunity of Disruption
+Innovation Highlight:  
+Travel Washington  
+The private sector has provided intercity bus service in the United States for generations. 
+But changing market conditions no longer allow intercity bus companies to profitably serve 
+many of our nation’s small towns. As a result, between 2005 and 2010 alone, 8.4 million rural 
+residents lost access to scheduled intercity bus transportation. Private bus companies now 
+serve 750 fewer intercity bus depots nationwide.
+30
+To address this problem in its state, the Washington State Department of Transportation in-
+troduced Travel Washington, an innovative public–private partnership that uses the invest-
+ment that Greyhound makes in the state to count toward the state/local match requirements 
+for federal intercity bus funding. With this funding, the state introduced four new intercity 
+bus routes, serving more than 50,000 passengers each year. The routes link people living in 
+remote communities to cities, regional health care centers, local and international airports, 
+intercity bus and rail stations, and tourist destinations—often on a single ticket.
+Originally this funding arrangement was allowed as a pilot program only in the state of 
+Washington. Congress has now opened this funding opportunity to all states, 29 of which 
+now have a program in place.  
+For more information on Travel Washington, view this AARP video and publication. 
+30  Bureau of Transportation Statistics, “The U.S. Rural Population and Scheduled Intercity Transportation in 2010: A Five-Year Decline in Transportation 
+Access,” US Department of Transportation, Research and Innovative Technology Administration, Washington, DC, February 2011.
+Photo by AARP .
+
+Universal Mobility as a Service: A Bold Vision for Harnessing the Opportunity of Disruption  |  27
+home and destination addresses must be protected, as must 
+the proprietary algorithms of the various software companies. 
+Nevertheless, progress is tangible and nearly ripe to yield some 
+results in the United States. An applied research project through 
+the National Academies of Sciences (NAS) Transit Cooperative 
+Research Board is underway to address this specific hurdle.
+31 
+When the study wraps up in late 2018, the research team will re-
+lease technical specifications for the sharing of what is termed 
+“transactional data. ” This is the portion of data that needs to be 
+shared between the ride dispatcher and potential trip providers 
+in order to enable the ride to be scheduled.  
+While these data specifications aim to address problems in 
+coordinating existing demand responsive transportation ser-
+vices, they play another role that may end up being equally 
+impactful. They will lay a foundation for future on-demand 
+mobility for customers needing more specialized services. To-
+day, these customers may have access to, or be aware of, only 
+a single type of service and provider. In the transportation eco-
+system of the future, many of these individuals could tap into 
+a wider selection of ways to get around their community. For 
+instance, a person with dementia might opt to ridesource or 
+use public transportation when traveling with a caregiver but 
+rely on the adult day center shuttle bus when traveling alone. 
+A Universal MaaS system, where specialized transportation 
+services are integrated into a single platform along with other 
+means of shared-use mobility services, could be smart enough 
+to apply the appropriate subsidy for each unique human ser-
+vices transportation client and trip request, while protecting 
+the privacy of the individual. For example, a qualifying Medic-
+aid customer’s medical travel would be charged to the state or 
+other appropriate entity such as the Medicaid nonemergency 
+medical transportation (NEMT) broker. His or her nonmedical 
+travel would be charged to a personal account or other sub-
+sidizing entity as appropriate. Gone, therefore, would be the 
+days when that customer would have to go directly home rath-
+er than make a convenient stop-off at the grocery store because 
+Medicaid only covers the medical portion of his or her trip. 
+Beyond convenient cost allocation, MaaS could be enhanced by 
+the addition of mobility management, which lends a human di-
+mension to a system that is otherwise primarily tech based. Mo-
+bility managers could provide direct assistance for complicated 
+trip planning or even travel training—supplementary services 
+to readily available one-click, one-call information centers.
+Image courtesy of QRyde.
+Thus, Universal MaaS could bring together multiple transpor-
+tation options in a coordinated system that enables customers 
+to plan trips, schedule rides, and pay for service with the click 
+of a button. As on-demand transportation options proliferate, 
+existing and new providers of specialized services will need to 
+ensure that on-demand transportation is as readily available 
+to those with special needs as it is for the general public. 
+To become part of a Universal MaaS platform, specialized 
+transportation services—both demand responsive and 
+on-demand—would need to adopt the common transaction-
+al data specification. Data systems need to be interoperable 
+so that a viable Universal Mobility as a Service system can be 
+built. Without interoperability, a seamless one-stop platform 
+where customers can shop, schedule, ride, and pay for their 
+selection of services will not be realized. A commitment to 
+institutional cooperation on the part of all players is needed. 
+In fact, their success in this space is dependent on realizing 
+Universal MaaS. While competition among them is both inev-
+itable and desirable, all players benefit from having interoper-
+able data-sharing platforms and strong public transportation 
+systems. It is yet to be seen whether profitability demands on 
+companies in this space will enable them to share their data 
+more openly and participate as members of a larger network 
+of transportation providers. The public sector will need to play 
+a strong role in making this data sharing and interoperabili-
+ty happen, and to protect consumer privacy when it does. To 
+date, neither Lyft nor Uber has engaged in the development 
+of the transactional data specification despite numerous invi-
+tations from the NAS study team to do so. This raises the con-
+cern that each company may try and go it alone, and even try 
+and displace publicly provided demand responsive services, 
+rather than work with multiple public and private players to 
+build a true Universal MaaS system.
+31  “G-16 Research Project: Development of Transactional Data Specifications for Demand Responsive Transportation, Accessed 10/30/2017.
+
+28  |  Universal Mobility as a Service: A Bold Vision for Harnessing the Opportunity of Disruption
+Innovation Insight: FlexDanmark
+In Denmark, if you have trouble using regular bus services because of age or disability, get -
+ting around your community, and even country, doesn’t pose the challenges that many trav-
+elers face in the United States. Multiple transportation options tailored to individual needs 
+can be accessed and paid for through a single system. 
+Denmark is a model of truly coordinated demand responsive transportation services. The 
+country has five call centers integrated with a central nationwide dispatch system, which 
+assigns each trip request to a transportation provider that then sends an appropriate vehicle 
+to the customer’s door. More than 550 different public and private transportation providers 
+are integrated into this single system, which serves both urban and rural customers through-
+out Denmark. Hospitals, medical offices, and human service agencies easily connect their 
+clients with the FlexDanmark portal. Regular citizens can obtain transportation to a medi-
+cal appointment at a more affordable price than a taxi, because FlexDanmark can quickly 
+identify another customer to share a ride with. Trips may be booked in advance or real time 
+(on demand). In addition to scheduling and dispatching, the FlexDanmark call centers also 
+monitor real-time traffic conditions and reroute drivers to avoid delay, helping to minimize 
+travel time for the customer. 
+The sophisticated level of coordination is possible because all providers in the system ad-
+opted a common transactional data specification. Originally developed in Sweden, the SUTI 
+(Standardiserat Utbyte av Trafik Information)
+32  specification standardizes trip request data 
+across multiple providers and platforms. A huge volume of exchangeable data is generated 
+and managed by software applications that are SUTI-compliant, enabling as many as 20,000 
+trips daily to be booked and completed in Denmark. The specification has lowered the mar-
+ket-entry costs for new (often small) transportation business owners and has reduced the 
+cost of providing human services transportation on average by 20 percent, and as much as 
+40 percent for rural trips. This cost savings is beneficial to customers who pay out of pocket 
+for the service, as well as the human service agencies that subsidize travel.
+33 
+Denmark has also integrated traditional (fixed-route) public transportation services with 
+demand responsive transportation in the most rural regions of the country, enabling cus -
+tomers to identify options for affordable door-to-door service in rural areas. Transfers be-
+tween the fixed-route system and one of the SUTI-compliant demand responsive transpor -
+tation providers can be made on a single ticket and payment. 
+32 http://u3545014.fsdata.se/blogg/ 
+33 Personal communication with Niels Tvilling, consultant to the National Academies of Sciences Transit Cooperative Research Program G-16 Research 
+Project, March 19, 2018.  Research Project, March 19, 2018.
+Photos courtesy of Sydtrafik and Nordjyllands Trafikselskab
+
+Universal Mobility as a Service: A Bold Vision for Harnessing the Opportunity of Disruption  |  29
+The ideal Universal Mobility as a Service platform would 
+include the combined characteristics of urban mobility 
+platforms such as Whim (see p.15) and FlexDanmark (see 
+above box), where demand responsive service is coordinat -
+ed among providers and then fully integrated within a MaaS 
+platform that offers customers all other options for getting 
+around the community, along with seamless payment sys -
+tems and traveler information. 
+While several urban mobility companies have the technolo-
+gy in place to offer many of these MaaS features, the integra-
+tion of demand responsive transportation is not common. A 
+platform called Switch may be among the first to change that 
+and offer the first true Universal Mobility as a Service Tech-
+nology. The Switch app is expected to launch in the United 
+States summer 2018. 
+One challenge that has arisen is that all MaaS developers are 
+struggling to figure out a profitable business model. Public 
+agencies, especially public transit operators, are a logical cli-
+ent base for MaaS, but except for the largest operators, they 
+are not used to paying for sophisticated information tools. 
+And all transit agencies struggle to find funding for core ser -
+vices. Thus, the public sector often purchases just one MaaS 
+component, such as payment systems offered through a mo-
+bility app. Another client base for MaaS can be found in the 
+private sector. Private, on-demand providers may purchase 
+the white-label technology needed to run a stand-alone 
+ridesourcing or carsharing operation, but these same clients 
+question the value of offering their services through a com-
+mon app and platform. It has proved challenging the pull 
+them into a multiple-provider MaaS framework.
+34  
+The best approach to tackling afford-
+ability challenges and protecting the 
+interests of the public is to develop 
+open-source platforms. 
+Kevin Chambers, Founding Principal,  
+Full Path Transit Technology
+Kevin Chambers, a technologist with experience helping 
+small public and nonprofit transportation providers, sug-
+gests that the best approach to tackling affordability chal-
+lenges and protecting the interests of the public is to develop 
+open-source platforms.
+35 He arrived at this conclusion after 
+years of near-fruitless effort to integrate the proprietary soft-
+ware systems used by different demand responsive transpor-
+tation providers, a lament shared by many other providers 
+across the country hoping to coordinate demand responsive 
+services regionally. 
+RidePilot is an open-source, web-based transportation 
+scheduling and grant-reporting system tailored to the bud-
+gets of smaller public and nonprofit specialized transporta-
+tion providers. RidePilot can be linked with 1-Click, another 
+open-source tool in a suite, to enable customers to review 
+itinerary options before selecting and requesting a service. 
+Whether the system is built using proprietary software and 
+algorithms, or completely open source, every Universal 
+MaaS provider in it will need to adopt the common trans -
+actional data specification in order to coordinate scheduling 
+and dispatch across multiple providers’ vehicles within the 
+system. This interoperability is essential for the creation of a 
+truly Universal MaaS system.
+34 Daleb Diehl, “The Transporter,” Oregon Business, January 23, 2018, https://www.oregonbusiness.com/article/transportation/item/18172-the-trans-
+porter.
+35 Comments delivered at AARP “Age-Friendly Transportation: How is Technology Changing the Way We Move” public forum, March 7, 2018, Portland, 
+Oregon.
+
+30  |  Universal Mobility as a Service: A Bold Vision for Harnessing the Opportunity of Disruption
+The concept of universal design, a term often used in the context of making homes and buildings acces-
+sible to all people, is an important piece of the transportation puzzle as well. Universal design is the de-
+sign of buildings, vehicles, environments, products, services, and user interfaces that are broadly acces-
+sible to people with disabilities, older people, young children, and everyone else. It is a rejection of the 
+notion that things be designed for the “average” person, which too often results in separate facilities for 
+people with disabilities—for example, a ramp set off to the side of a stairway or a separate paratransit bus 
+service when an accessible fleet of public buses could serve the needs of many wheelchair users just as 
+well. Universal design, on the other hand, provides one solution that can accommodate everyone.
+Core advocates for autonomous vehicles have used the needs of older nondrivers and people with disabil-
+ities as a primary rationale for public support of the technology. Now is the time for autonomous vehicle 
+designers to step up and lead in this area. Every player in this emerging system should become competent 
+at truly understanding the needs of older nondrivers and people with disabilities and design MaaS delivery 
+systems, vehicles, and customer apps with this in mind. Universal design cannot be an afterthought. 
+When designing services for populations with special needs, systems designers need to understand that 
+they are designing for a wide variety of mobility needs and limitations. Employing the concepts of uni-
+versal design is crucial. Too often, designers limit their task to one of overcoming barriers for people who 
+are blind or who use wheelchairs. The traveling public is far more diverse.
+It’s Not Universal MaaS with-
+out Universal Design
+MaaS offers a tremendous opportunity to expand mobility  
+options to people with disabilities and older adults who  
+are frail. To succeed, MaaS must embrace universal design  
+in both customer interaction and vehicle design.
+04
+
+Universal Mobility as a Service: A Bold Vision for Harnessing the Opportunity of Disruption  |  31
+Service Delivery for Customers with Special Needs
+One of the most important design considerations when serving customers with special needs is the hu-
+man dimension of service. Volunteer and paratransit drivers are often cited in the senior transportation 
+literature as providing more than just a ride. They offer social interaction. They also commonly identify 
+when an older adult may be declining and alert family members or social services about their concerns. 
+Within a MaaS system, appropriate driver training is essential for those transporting older adults with 
+special needs. Training should include instruction on how to physically assist riders up and down stairs, 
+provide assistance walking along uneven surfaces, and help clients in and out of wheelchairs. Drivers 
+should know how to recognize and appropriately respond to clients with tremors, Alzheimer’s, Parkin-
+son’s, vision issues, hearing issues, and balance issues. Driver training is also important to ensure drivers 
+understand their requirements under the ADA, and when and how to assist an individual in and out of a 
+vehicle without injuring either the passenger or themselves. General sensitivity training should also be 
+included. It is equally important to recognize that not all riders will want or need assistance.
+One of the most important design considerations when serving 
+customers with special needs is the human dimension of service.
+As driverless vehicles replace for-hire services, includ-
+ing taxis, ridesourcing, and buses, there will continue to 
+be a need for personnel who can assist riders with spe-
+cial needs. In some cases, the best solution will be to con-
+tinue to employ personnel who can continue to perform 
+these related tasks. In other cases, a solution may be for 
+providers of transportation services to allow care atten-
+dants to ride for free or to provide care attendants them-
+selves. The industry might introduce levels of certified 
+expertise ranging from laypersons trained in common sys -
+tems of dementias and helping someone in and out of the  
+vehicle to trained nurses and other health care personnel. 
+SilverRide, currently operating in the San Francisco Bay Area 
+but with nationwide expansion ambitions, offers all clients 
+door-through-door assistance. In addition, riders, or care-
+givers scheduling a ride for a loved one, can request Accom-
+paniment, whereby SilverRide’s Driver Companions accom-
+pany the client during an appointment or activity. A third 
+option, albeit with more limited utility for many, could be to 
+install a virtual personal assistant in the vehicle that could 
+interact with the client and even sense if the rider is getting 
+anxious or otherwise alert the device to a potential problem, 
+at which point the device could remotely connect the pas -
+senger with a care attendant. 
+Image courtesy of GoGoGrandparent.
+04
+
+32  |  Universal Mobility as a Service: A Bold Vision for Harnessing the Opportunity of Disruption
+Maas Needs Mobility Management
+The term mobility management can mean different things 
+depending on the professional frame of reference, but each 
+conceptual definition is important to Universal MaaS. Social 
+service–oriented professionals view mobility management 
+as a way to bring a human dimension to MaaS. According 
+to the National Center for Mobility Management, “Mobility 
+management is a customer-centered approach to designing 
+and delivering mobility services. ”
+36 Already, numerous tran-
+sit agencies, Area Agencies on Aging, and medical practices, 
+among others, have hired mobility managers to help their 
+clients navigate the full range of transportation services in 
+the community, effectively matching the individual to the 
+most appropriate service for a given trip. 
+In the world of transportation planning, mobility manage-
+ment is now defined as the essential role the public sector 
+must play in managing the tremendous amount of choice in 
+travel today. While human services transportation provid-
+ers view the role of mobility managers as connecting older 
+adults, people with disabilities, and low-income individuals 
+36 “Glossary of Transportation and Related Terms,” National Center for Mobility Management, accessed October 30, 2017, http://nationalcenterformo-
+bilitymanagement.org/wp-content/uploads/2013/12/Glossary-of-Terms.pdf.
+37 https://dupress.deloitte.com/dup-us-en/focus/future-of-mobility/roadmap-for-future-of-urban-mobility.html?id=us:2el:3dc:dup3367:awa:dup:fom:d-
+cpromo#endnote-9
+to appropriate transportation services, transportation plan-
+ners have the general population in mind when they refer to 
+mobility management. 
+To confuse the term even more, in the world of tech, mobility 
+management has also been described as “combining an indi-
+vidual’s specific travel history and current circumstances with 
+data from millions of others and information from different 
+modes of travel across the city. Applying advanced analytics to 
+big data, they offer users tailored, seamless options. ”
+37 
+In the new transportation  
+ecosystem, all forms of mobility  
+management will need to come  
+together to offer all customers  
+more seamless travel options. 
+Lyft helps senior living residents reduce isolation and increase their 
+independence across the U.S. Photo courtesy of Lyft.
+
+Universal Mobility as a Service: A Bold Vision for Harnessing the Opportunity of Disruption  |  33
+App Design for the Individual  
+and Family Caregiver
+Navigating online apps is not easy for everyone. Some people, including 54 percent of 
+those ages 65 and older, do not have a smartphone.38 Others lack familiarity with how 
+to use modern technology applications. Further, a device or app’s interface may not be 
+conducive to use by those with poor eyesight or (in the case of devices) arthritic fingers. 
+Through universal design, some barriers could be overcome simply by designing 
+the device and apps with greater attention to the variation in user needs (e.g., larg-
+er keyboards, selection of background and font colors with greater contrast, and 
+improved voice recognition systems). In the meantime, some companies have ad-
+dressed barriers by designing flexible customer interfaces. Lyft’s partnership with 
+GoGoGrandparent enables an older adult to schedule a trip with a phone call and 
+loved ones to track that trip through text messaging. Both Lyft and Uber have put 
+systems in place that allow partners (e.g., hospitals and senior independent living 
+centers) to request rides for their customers through the Lyft or Uber platforms and 
+enable those partners to fully or partially subsidize those trips for their clients. A 
+Universal MaaS system would ensure that these types of tailored interfaces could 
+be accessed through the common platform.
+Comparison of a typical 75-year old’s preferred font size with the typical font size on a smart 
+phone. Original published in Smashing Magazine. https://www.smashingmagazine.com/2015/02/
+designing-digital-technology-for-the-elderly/
+38 Although their use of the technology is growing, only 46 percent of Americans ages 65 and older own a smartphone, compared with 73 percent of 
+those 50–64, 89 percent of those 30–49, and 94 percent of those 18–29. Pew Research Center, “Mobile Fact Sheet,” February 5, 2018, http://www.
+pewinternet.org/fact-sheet/mobile/. 
+04
+
+34  |  Universal Mobility as a Service: A Bold Vision for Harnessing the Opportunity of Disruption
+39  National Council on Disability, https://ncd.gov/sites/default/files/NCD_AutomatedVehiclesReport_508-PDF.pdf and http://www.rudermanfoundation.
+org/wp-content/uploads/2017/03/Self-Driving-Cars-The-Impact-on-People-with-Disabilities_FINAL.pdf
+Vehicle Design
+Prototype designs of driverless vehicles inspire a sense of “the future, ” but often forget to carry forward known universal design 
+elements of today. This emerging transportation future invites more design leadership to ensure that driverless cars are easy 
+for someone with advanced arthritis to get in and out of and that prototype transit shuttles and buses have ample grab bars and 
+accessible seat designs. 
+Whether autonomous or not, vehicles intended to transport the traveling public must be designed with both audio and visual 
+interfaces. People who are blind cannot interface with visual; people who are deaf cannot interface with audio. All other users 
+benefit from redundancy.
+39
+This Future Bus concept fails basic universal 
+design principles. Bucket seats and insufficient 
+grab bars may be challenging for older riders. 
+Photos of the Mercedes Benz Future Bus  
+found on Twitter at https://twitter.com/
+search?q=Mercedes%20%20Benz%20 
+Future%20Bus&src=- typd
+04
+
+Universal Mobility as a Service: A Bold Vision for Harnessing the Opportunity of Disruption  |  35
+Many residents of low-income communities, often communities of color, face barriers to accessing the 
+most touted new mobility services. Lower-income individuals may carry a smartphone but not sub-
+scribe to data services or Wi-Fi. They may lack a driver’s license, bank account, or credit card through 
+which to access app-based subscriptions. They are more likely to live in apartment complexes without 
+access to electric vehicle charging stations. Some may be particularly concerned with the privacy of 
+electronic payment systems and information sharing about individuals’ travel patterns with law enforce-
+ment entities. They could also face language barriers. Access barriers documented by OPAL, an environ-
+mental justice advocacy group, include banking, housing type, and tech literacy, not to mention the cost 
+of transportation itself.
+40
+Potential solutions include more extensive public Wi-Fi networks, apps in multiple languages, and the 
+retention of cash-payment options for public transit users. Alternatives to credit cards should be offered 
+to those who wish to subscribe to transit passes, bikesharing and carsharing, and other forms of shared-
+use mobility. Public entities and banking institutions can partner to offer low- or no-fee bank accounts 
+to unbanked individuals who are unable to carry a standard account balance and allow these accounts 
+to interface with mobility payment systems. Perhaps most important, sufficient investment in public 
+transit that serves lower-income communities is needed.
+Other Equity Considerations 
+for Universal MaaS
+The mobility services revolution also offers an opportunity to  
+address the needs of lower-income travelers. 
+05
+40 Kristin Eberhard, “Equity Impacts of Shared/Electric/Connected/Autonomous Vehicles,” Session presentation at Urbanism Next conference, Portland, 
+Oregon, March 6, 2018. Additional information available at http://www.opalpdx.org/.
+
+36  |  Universal Mobility as a Service: A Bold Vision for Harnessing the Opportunity of Disruption
+Fleets of driverless electric vehicles requiring lower maintenance, energy, finance, insurance, and replace-
+ment costs, in combination with much higher vehicle utilization rates, could mean mobility 4 to 10 times 
+cheaper than buying a new car.
+41 As a result, RethinkX, an independent think-tank that analyzes and fore-
+casts the speed and scale of technology-driven disruption and its implications across society, suggests that 
+95 percent of all US passenger miles will be served by providers who will own and operate fleets of driver-
+less electric vehicles within 10 years of widespread regulatory approval of autonomous vehicles.
+42 
+Others predict the status quo for the foreseeable future. Americans have demonstrated a “love affair” 
+with the car, and car purchase decisions do not always reflect the most economical choice available, 
+especially given that our vehicles sit parked 95 percent of the time.
+43 To the American psyche, cars are 
+“extended backpacks, lifestyle aspirations, decompression zones, status signifiers, vacation vehicles and 
+fashion accessories, ” wrote Michael Barnard in Forbes.
+44 But to accept the status quo is to accept that 
+America’s transportation system will remain inefficient and inequitable. Introducing driverless technol-
+ogy into the market as a vehicle feature, such as leather seats or alloy wheels, may significantly drive up 
+car purchase prices, making them unaffordable, or requiring purchasers to incur higher car loans, to the 
+detriment of personal savings or other wealth-generating investment. It could also create or exacerbate 
+Driverless Vehicles within  
+the MaaS Framework
+MaaS can happen with or without driverless vehicles, but  
+as the technology changes the economics of travel, it increases 
+the likelihood that transportation will take the form of  
+on-demand services.
+06
+41 Arbib and Seba, “Rethinking Transportation.” Note: Their projection addresses Level 5 fully autonomous vehicles. 
+42 Many industry analysts in the United States think of MaaS as simply the replacement of personally owned vehicles with a system where passengers access 
+transportation on demand, and not as the integration of various forms of public and private transportation services into a single mobility platform.
+Waymo’s fully self-driving reference vehicle, Firefly 2. Image courtesy of Waymo.
+
+Universal Mobility as a Service: A Bold Vision for Harnessing the Opportunity of Disruption  |  37
+problems in ways the public may not expect—for example, it could tax the capacity 
+of the existing road system by enabling owners the option of avoiding parking fees 
+by sending the car around the block or home to be parked for free in the driveway, 
+adding more miles to our already burdened roads. 
+Autonomous vehicles could create or exacerbate 
+problems in ways the public may not expect—for 
+example, adding more miles to our already bur-
+dened roads.
+Simply rolling out the technology through privately provided on-demand plat -
+forms, as commonly envisioned by automotive and ridesourcing companies, still 
+may not reduce the cost of travel sufficiently for low-income Americans and it 
+promises few benefits for people who depend on an accessible vehicle. Further -
+more, there is a risk that the price of this form of on-demand service would be 
+affordable and preferable to today’s moderate- and upper-income transit users, 
+potentially siphoning an important ridership base and resulting in less political 
+support and funding for public transit services. Lower-income travelers would 
+stand to lose the most from worsening transit service. 
+To accept the status quo is to accept that  
+America’s transportation system will remain ineffi-
+cient and inequitable.
+Thus, the future of transportation is exciting yet potentially concerning, which is 
+why Americans cannot afford to be passive. To realize the benefits of this compel-
+ling transportation future, the vast majority of driverless vehicles operating on our 
+nation’s roads will need to operate as part of a shared-ride, Universal MaaS model. 
+As part of this Future of Transportation series, the author explores these issues in 
+depth in a paper titled Utopia or Dystopia: The Future Is Ours.
+45 
+To realize the bene-
+fits of this compelling 
+transportation future, 
+the vast majority of 
+driverless vehicles 
+operating on our na-
+tion’s roads will need 
+to operate as part of a 
+shared-ride, Universal 
+MaaS model.
+Photo courtesy of Volvo Car Group Global 
+Newsroom.
+43 David Z. Morris, “Today’s Cars Are Parked 95% of the Time,” Fortune, March 13, 2016, http://fortune.com/2016/03/13/cars-parked-95-percent-of-time/.
+44 “What Will Car Ownership Look Like in the Future?,” Forbes, June 22, 2017, https://www.forbes.com/sites/quora/2017/06/22/what-will-car-owner-
+ship-look-like-in-the-future/#353ca3166b99.45 
+45 Jana Lynott, “Utopia or Dystopia: The Future is Ours,” AARP Public Policy Institute, (forthcoming, Fall 2018).
+
+38  |  Universal Mobility as a Service: A Bold Vision for Harnessing the Opportunity of Disruption
+The up-ending of the traditional transportation system provides an unprecedented 
+opportunity to fix current shortcomings and create a coordinated, integrated, and 
+seamless transportation system accessible to all.
+To create a transportation system that works for everyone, policy makers at all 
+levels of government should adopt the following dozen interdependent tenets to 
+guide a new transportation policy framework. They are explained in detail in Creat-
+ing the Transportation System We Want: Building Blocks for the Road Ahead
+46, and 
+further elucidated in other papers in the Future of Transportation series. 
+1. Embrace a Universal Mobility as a Service framework. 
+2. Prioritize shared-use mobility. 
+3. Adopt a strong commitment to equity. 
+4. Maximize independence.
+5. Commit to universal design. 
+6. Support livable, sustainable communities. 
+7. Foster transportation system efficiency.
+8. Encourage data system and platform interoperability.
+9. Put in place a transparent system to measure impacts,  
+both positive and negative. 
+10. Prioritize safety for all modes of travel. 
+11. Provide consumer protections.
+12. Manage the effects of resulting economic shifts, facilitating  
+career transitions.
+The vision this paper promotes is for the future. Public opinion is hard to gauge 
+and potential impacts uncertain. Research is needed on consumer acceptance of 
+this concept and the wider possible effects on industry, employment, consumer 
+protections, and society at large.
+Creating the Transportation  
+System We Want: Building Blocks 
+for the Road Ahead
+Impending disruptive forces promise to change transportation as we know it 
+today. It is imperative that we actively shape the transportation system we want 
+to see rather than passively wait and see what happens. 
+07
+46 Jana Lynott, “Creating the Transportation System We Want: Building Blocks for the Road Ahead,” AARP Public Policy Institute, (September 2018).
+
+Universal Mobility as a Service: A Bold Vision for Harnessing the Opportunity of Disruption  |  39
+We are at the threshold of major changes in the transportation 
+sector and we have once-in-a-lifetime opportunity to shape how 
+the sector best serves all Americans. 
+With major companies investing heavily in autonomous vehicles and other revolu-
+tionizing technologies, future value will lie not only in transportation, but also, as is 
+the case with so much of our digitally based economy, in the data and information 
+exchanged while users are en route. 
+While change seems inevitable, positive change is not a done deal. Policy makers, 
+city planners, and industry need to work together to ensure that these disruptive 
+technologies realize their fullest potential to vastly increase mobility in America 
+and respect citizens’ desire for livable communities. Consistency for a new vision 
+for transportation is critical. If US consumers are encouraged to replace their 20th 
+century–style personal vehicles with autonomous vehicles, millions of Americans 
+could still be left with inadequate mobility options. Even a MaaS model that is not 
+based on Universal Mobility as a Service—where shared-use mobility is prioritized 
+and fixed-route, on-demand, and demand responsive services are integrated—will 
+be problematic. Consideration must be given to how low-income individuals can 
+tap into convenient and affordable transportation options. Piecemeal services 
+that are not integrated within a Universal MaaS framework will fail to harness the 
+potential of emerging technology. Seleta Reynolds, general manager with the Los 
+Angeles Department of Transportation reminds us that, “this needs to be a conver-
+sation about public policy, not technology. ”
+47
+Universal Mobility as a Service is possible. Many industry leaders suggest that 
+emerging technology and market environments make MaaS, at least in its narrow-
+est form, highly likely. If implemented fully and thoughtfully, Universal Mobility as 
+a Service can lead to a more equitable transportation system where more than 100 
+million nondrivers are able to more fully participate in the economic, social, and 
+civic life of their communities.
+48
+ 
+47 “Leading the Way Forward in Transportation,” Plenary panel discussion at the AARP Livable Commu-
+nities National Conference, Dallas, Texas, November 15, 2017.
+48 AARP Public Policy Institute calculations using Highway Statistics 2016 (Federal Highway Administra-
+tion), and 2016 Population Estimates (US Census Bureau).
+“This needs to be a conver-
+sation about public policy, 
+not technology,” 
+Seleta Reynolds, general manager 
+with the Los Angeles Department of 
+Transportation
+Conclusion08
+
+40  |  Universal Mobility as a Service: A Bold Vision for Harnessing the Opportunity of Disruption
+49 This glossary of terms is adapted from definitions offered by a number of sources: National Highway Traffic Safety Administration, Shared-Use Mobility 
+Center, Pedestrian and Bicycle Information Center, Easter Seals, National Center for Mobility Management, Insurance Institute for Highway Safety, 
+Eno Center for Transportation, Alain Kornhauser, and Michael Copeland, among others.
+50 Michael Copeland, “What’s the Difference Between Artificial Intelligence, Machine Learning, and Deep Learning?,” NVIDIA, July 29, 2016, https://
+blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/.
+The rapidly changing transportation sector has resurfaced old and introduced 
+new terminology. Often, writers use terms interchangeably, confusing their 
+readers. The following glossary of terms is intended to clarify the author’s word 
+choice and is based on current industry best practices.
+49 Many concepts are high-
+ly complex. Rather than presenting the most precise, technical definitions, the 
+author has attempted to write them in layperson language. 
+Terminology Related to Disruptive  
+Motor Vehicle Technology
+Artificial Intelligence (Evolution of)
+Artificial intelligence (AI) is human intelligence exhibited by machines. 
+Machine learning, a subset of AI, is the practice of using algorithms to parse data, learn from them, 
+and then make a determination or prediction about something in the world. 
+Deep learning is a subset of machine learning composed of algorithms that permit software to train 
+itself to perform tasks, like speech and image recognition, by exposing multilayered “neural” net -
+works to vast amounts of data. In the context of MaaS, it is the way in which automated driving sys-
+tems can be “trained” to recognize features of the roadway environment, including people.
+The easiest way to think of the rela-
+tionship among artificial intelligence, 
+machine learning, and deep learn-
+ing is to visualize them as concentric 
+circles with AI—the idea that came 
+first—the largest, then machine learn-
+ing—which blossomed later, and fi-
+nally deep learning—which is driving 
+today’s AI explosion—fitting inside 
+both.
+50
+Glossary of Terms09
+
+Universal Mobility as a Service: A Bold Vision for Harnessing the Opportunity of Disruption  |  41
+Society of Automotive Engineers International Levels of Motor Vehicle Driving Automation Systems 
+(SAE Levels of Automation) is the most widely industry-accepted taxonomy that ranges from no auto-
+mation (Level 0) to full driving automation (Level 5). It describes the full range of driving automation fea-
+tures on motor vehicles in a functionally consistent manner. A given vehicle can have several automation 
+features; therefore, automation levels are not assigned to individual vehicles. The levels are differentiated 
+by “who” monitors the driving environment and whether the human or the automated system is expect-
+ed to be the safety fallback if things go wrong or the system reaches its limits. (See below). 
+In an effort to maintain consistency with industry standard SAE J3016, the National Highway Transpor -
+tation Safety Administration’s (NHTSA ’s) most recent policy, Automated Driving Systems 2.0 (September 
+2017), replaces the term automated vehicles with automated driving technologies and highly automated 
+vehicles with automated driving systems. 
+An automated driving system (ADS) is the hardware and software that is collectively capable of per -
+forming the entire dynamic driving task on a sustained basis, regardless of whether it is limited to a 
+specific operational design domain. ADSs may include systems for which there is no human driver or 
+for which the human driver can give control to the ADS and would not be expected to perform any driv-
+ing-related tasks for a period of time ADSs include SAE Levels of Automation 3–5 (NHTSA).
+51 
+Autonomous vehicle—There is little consistency in the use of the term autonomous vehicle, and as such, 
+the NHTSA recommends against using it. Colloquially, it is any vehicle that drives itself. Some writers use it 
+as an umbrella term for SAE Levels of Automation 1–5 above, others in reference only to fully autonomous 
+vehicles, still others for an array of levels. Perhaps most typically it refers to SAE Levels 4 and 5, where the ve-
+hicle can perform all driving functions, at least under certain conditions, which is how it is used in this paper. 
+51 United States Department of Transportation National Highway Traffic Safety Administration. “Automated Driving Systems 2.0: A Vision for Safety,” 
+September, 2017.
+
+42  |  Universal Mobility as a Service: A Bold Vision for Harnessing the Opportunity of Disruption
+Terminology Related to Disruptive  
+Motor Vehicle Technology (cont.)
+Smart driving cars is an umbrella term used to describe the 
+type of automation technology that includes safe-driving 
+cars (and trucks and buses), self-driving cars, and driverless 
+cars. Each describe the problem the technology tries to ad-
+dress and the specific business case for that technology. They 
+do not describe a progression of technological development. 
+The types of technologies below do not neatly correspond to 
+SAE Levels of Automation discussed above. Each offers its 
+own set of benefits.
+52 
+Safe-driving cars introduce enhanced safety technolo-
+gy into cars driven by humans. For example, these tech-
+nologies include automated driver assistance systems, 
+such as collision avoidance and lane centering.
+Self-driving cars allow drivers to take their hands off  
+the wheel and feet off the pedals in some driving envi-
+ronments at some times. The focus of this technology is 
+on the comfort and convenience of the driver. Some ve-
+hicles may also come with safe-driving technology, but 
+that is not always the case. Tesla’s self-driving autopilot 
+does not have an automated emergency braking sys -
+tem, a fundamental element of a safe-driving car. 
+Driverless cars drive themselves the whole way from 
+some origins to some destinations over some routes at 
+some times and, as such, can operate completely empty 
+with no human on board in those situations. Driverless 
+cars include both safe-driving and self-driving technology. 
+Connected Vehicle  
+Technology
+Connected vehicles (CVs) use short range wireless commu-
+nication to share information with the following:
+ » Other vehicles through vehicle-to-vehicle communica-
+tion (V2V) 
+ » Infrastructure through vehicle-to-infrastructure com-
+munication (V2I),
+ » Pedestrians through vehicle-to-pedestrian communica-
+tion (V2P)
+V2X references both V2V and V2I communications, and 
+sometimes V2P . X2X refers to various combinations of wire-
+less communications among vehicles, other road users, and 
+the surrounding infrastructure. 
+CV technology communicates data related to vehicle speed, 
+location, and trajectory; infrastructure; and other operation-
+al and safety variables. The technology potentially enables 
+better real-time traffic management. Automated driving 
+systems and connected vehicle technology are not the same, 
+but may be complementary. 
+OEM, the acronym for original equipment manufacturers, is 
+a company that manufactures new motor vehicles or motor 
+vehicle equipment. 
+52  Alain Kornhauser, http://smartdrivingcar.com/.  
+09
+
+Universal Mobility as a Service: A Bold Vision for Harnessing the Opportunity of Disruption  |  43
+Other Terminology
+Autonomous vehicle platooning is part of a suite of features 
+that self-driving and driverless cars might employ to allow a 
+group of vehicles to travel very closely together at high speed. 
+Each vehicle communicates with the other vehicles in the pla-
+toon. There is a lead vehicle that controls the speed and direc-
+tion, and all following vehicles (which have precisely matched 
+braking and acceleration) respond to the lead vehicle’s move-
+ment. More colloquially, platooning simply refers to a chain 
+of vehicles that travel very closely together. Some bicycle and 
+pedestrian advocates have suggested that long platoons of 
+AVs, especially in urban environments with long distances be-
+tween traffic lights, could pose barriers to street crossing. 
+Active transportation refers to any form of human-pow-
+ered  transportation, including walking, cycling, using a 
+wheelchair, in-line skating, and skateboarding. 
+Bikeshare refers to a service in which bicycles are made 
+available to individuals for shared use on a very short-term 
+basis (e.g., 30 minutes) for a price. 
+Dock-based bikeshare systems allow users to pick up 
+and return bikes from any technology-enabled dock or 
+station located throughout a service area. 
+Dockless or GPS-based bikeshare systems put GPS 
+technology directly into the bikes themselves as op-
+posed to the docks, enabling users to essentially park 
+them anywhere. 
+Carshare is a service that provides members with access to 
+an automobile for short-term—usually hourly—use. Types 
+of carsharing include round-trip, one-way, point-to-point, 
+peer-to-peer, and niche (e.g., Flightcar, which allows travel-
+ers to rent out the private vehicles they’ve left behind in air -
+port parking lots, or closed-network systems, such as those 
+used by universities). 
+Delivery robots, also called personal delivery devices, are 
+devices powered by an electric motor, for use primarily on 
+sidewalks, and capable of transporting items with or without 
+an operator directly controlling the device. 
+Demand responsive transportation (DRT) is a set of public 
+and private services where individual passengers can request 
+transportation from a specific location to another specific lo-
+cation at a certain time. Vehicles do not follow a fixed route. 
+Human services transportation (see Specialized trans -
+portation)
+Microtransit refers to information technology (IT)-enabled 
+private multipassenger transportation services, such as Chari-
+ot and Via, that serve passengers using dynamically generated 
+routes on demand. Passengers may be expected to make their 
+way to and from common pickup or drop-off points. Vehicles 
+can range in size from large SUVs and vans to shuttle buses. 
+Because they provide transit-like service on a smaller, more 
+flexible scale, these new services have been referred to as mi-
+crotransit. The dynamic route-generating technology used 
+by many of these services also has tremendous potential for 
+modernizing public transit and paratransit services.
+Mobility Management (three perspectives). In the new 
+transportation ecosystem, all forms of mobility management 
+will need to come together to offer all customers more seam-
+less travel options. 
+The human services perspective. Mobility manage-
+ment is a customer-centered approach to designing and 
+delivering mobility services to individuals with special 
+needs due to age, disability, or income. Mobility manag-
+ers provide information about community and regional 
+transportation services in order to help their clients ac -
+cess those services. 
+The transportation planning perspective. Mobility 
+management entails the essential role the public sec -
+tor must play in managing the tremendous amount of 
+choice in travel today. While human services profes -
+sionals view the role of mobility managers as connecting 
+older adults, people with disabilities, and low-income 
+individuals to appropriate transportation services, 
+transportation planners have the general population in 
+mind when they refer to mobility management. 
+09
+
+44  |  Universal Mobility as a Service: A Bold Vision for Harnessing the Opportunity of Disruption
+The tech world perspective. Mobility management in-
+volves combining an individual’s specific travel history 
+and current circumstances with data from millions of oth-
+ers and information from different modes of travel across 
+the city. Applying advanced analytics to big data, these 
+companies offer customers tailored, seamless options.
+Mobility as a Service (MaaS)— In its narrowest sense, 
+MaaS describes a shift away from personally owned modes 
+of transportation and toward mobility solutions that are con-
+sumed as a service, often on demand. A more expansive view 
+of MaaS is one in which a variety of services are made avail-
+able to customers through a single platform, where users 
+can identify their travel options, evaluate the cost in terms 
+of both dollars and time, schedule a ride, monitor progress, 
+and even pay for the end-to-end journey regardless of the 
+number of transfers and independent providers used. This 
+platform would include both on-demand and fixed-route 
+public transportation service. The concept is similar to a 
+search engine that provides flight options and a payment 
+mechanism for multiple carriers (e.g., Expedia).  
+Universal Mobility as a Service (see definition above)— 
+Universal MaaS expands upon the concept of MaaS even 
+further by adding the concept of universality to ensure that 
+all users’ needs are met, regardless of income, geographic 
+location, disability, or age. Universal refers to both a com-
+prehensive inclusion of all available transportation services 
+within the platform and accessible design throughout the 
+system.  Travel options include specialized transportation 
+(see definition below). All aspects of the Universal MaaS 
+framework abide by the principles of universal design. The 
+Universal MaaS platform shows customers their fixed-route 
+and demand responsive public transportation options. 
+On-demand transportation, traditionally limited in the Unit-
+ed States to those who own their own vehicles, now may 
+include microtransit, ridesourcing, ridesharing, carsharing, 
+and bikesharing. The platform could even integrate volun-
+teer transportation services. While services tailored to the 
+needs of particular populations will be available, they will be 
+part of a single, coordinated system that as a whole meets the 
+needs of everyone in the community regardless of income, 
+geographic location, disability, or age. 
+On-demand transportation refers to a service available im-
+mediately. Lyft and Uber are examples of on-demand trans -
+portation. Trips that require 24- or 48-hour advance reserva-
+tions are not.
+Open source refers to something people can modify and 
+share because it is intended to be publicly accessible. The 
+term originated in the context of software development 
+where the source code is such that anyone can inspect, 
+modify, and enhance it, provided they sign the open-source 
+license. Open-source software and applications are often 
+developed in a public, collaborative manner. Open-source 
+software, algorithms, and platforms by definition are not 
+proprietary. 
+Public transportation includes buses, subways, light rail, 
+commuter rail, monorail, passenger ferry boats, trolleys, in-
+clined railways, and people movers. Federal law defines pub-
+lic transportation as regular, continuing, shared-ride, surface 
+transportation service that is open to the general public or 
+open to a segment of the general public defined by age, dis -
+ability, or income level. It can be provided through fixed-
+route, demand responsive, or on-demand service. 
+Real-time information is transmitted and delivered to reflect 
+current status as much as possible (as opposed to published 
+schedule information). 
+Ridehailing is a service provided by a taxicab company 
+whereby a customer hails a cab from the curb. Some writers 
+erroneously refer to ridesource companies as ridehailing. By 
+local ordinance and company policy, ridesource companies 
+may not obtain customers in this way. Ridesource customers 
+must reserve a ride through an app. 
+Ridesharing adds additional passengers to a preexisting 
+trip. Such an arrangement provides transportation options 
+for riders while allowing drivers to fill otherwise empty seats 
+in their vehicles. Unlike ridesourcing, ridesharing drivers are 
+not “for hire, ” but may be compensated for their time and/or 
+mileage. Forms of ridesharing include the following:
+Carpooling involves travelers riding together to save on 
+fuel and operating costs, and can be arranged among 
+known or unknown parties. This should not be con-
+fused with carsharing.
+
+Universal Mobility as a Service: A Bold Vision for Harnessing the Opportunity of Disruption  |  45
+Vanpooling is often run by transit or other public agen-
+cies and facilitates groups of commuters (often cowork-
+ers) to share a ride. Vanpooling is similar to carpooling, 
+but on a larger scale. 
+Real-time or dynamic ridesharing matches drivers 
+and passengers based on destination through a mobile 
+app before the trip begins. The passenger often pays a 
+share of the trip cost. Rideshare apps such as Blablacar 
+have become immensely popular in Europe, but have 
+been slow to attract users in the United States. One 
+US example is the CarpoolNow mobile app offered to 
+Washington, DC-area commuters by the Council of 
+Governments. 
+Roadside ridesharing is the rebranded term for “hitchhiking. ” 
+Ridesourcing providers, such as Lyft and Uber, use online 
+platforms to connect passengers with compensated drivers 
+who use personal vehicles. California law codifies these ser -
+vices as transportation network companies (TNCs). 
+Ridesplitting is when ridesource customers share a vehicle 
+and split the cost of the ride, proportional to their trip length. 
+Shared-use mobility is a term used to describe transporta-
+tion services that are shared among users, including public 
+transit, taxis and limos, bikesharing, carsharing (round-trip, 
+one-way, and personal vehicle sharing),  ridesharing (car -
+pooling, vanpooling), ridesourcing, scooter sharing, shuttle 
+services, neighborhood jitneys, and commercial delivery ve-
+hicles providing flexible goods movement. 
+Specialized transportation is services tailored to meet 
+the needs of older adults and people with disabilities, of -
+ten through door-to-door or door-through-door paratransit 
+services, which have been traditionally provided on request 
+by van, small bus, or taxi. Various human services providers 
+arrange this form of transportation for their clients. They are 
+typically demand responsive services and are also known as 
+human services transportation. 
+Transportation network companies (TNCs)— see Ride-
+sourcing. 
+Universal design  is the  design  of buildings, vehicles, envi-
+ronments, products, services, and user interfaces that are 
+broadly accessible to people with disabilities, older people, 
+young children, and everyone else. It is a rejection of the no-
+tion that things be designed for the “average” person, which 
+too often results in separate facilities for people with disabil-
+ities—for example, a ramp set off to the side of a stairway or 
+a separate paratransit bus service. Universal design, on the 
+other hand, provides one solution that can accommodate 
+everyone.
+A white-label product is a product or service produced by 
+one company (the producer) that other companies (the mar-
+keters) rebrand to make it appear as if they had made it. 
+Glossary of Terms
+
+46  |  Universal Mobility as a Service: A Bold Vision for Harnessing the Opportunity of Disruption
+Arbib, James, and Tony Seba. 2017. “Rethinking Transpor-
+tatation 2020-2030: The Disruption of Transportation and 
+the Collapse of the Internal-Combustion Vehicle and Oil 
+Industries.” A RethinkX Disruption Report, May. https://
+www.rethinkx.com/executive-summary/.
+Autotrader. “Automated vs. Autonomous Vehicles: Is There 
+a Difference?” 2018. https://www.autotrader.com/car-
+news/automated-vs-autonomous-vehicles-is-there-a-dif-
+ference-273139.
+Bank of America, Merrill Lynch, Global Automo-
+biles. “Mobility Services: Reducing Car Ownership 
+and Car Usage.” June 21, 2017. https://research1.
+ml.com/Archive/11757001.pdf?q=a15W4r9Zv!R-
+8r8HlTiSaTg&__gda__=1508794335_a821117f54d-
+e939d6220318b63588028.
+Barr, Joseph. 2017. “Transportation Communications: 
+No One Told Me It Would Be This Hard.” Meeting of 
+the Minds, August 17. Accessed February 13, 2018. 
+http://meetingoftheminds.org/transportation-com-
+munications-no-one-told-hard-22315?utm_source=-
+Meeting+of+the+Minds+Newsletter+List&utm_cam-
+paign=09dfa28dfa-RSS_EMAIL_CAMPAIGN&utm_me-
+dium=email&utm_term=0_cdb70a5ce7-09dfa28d-
+fa-57905337&mc_cid=09dfa28dfa&mc_ei.
+Bureau of Transportation Statistics. 2011. “The U.S. Rural 
+Population and Scheduled Intercity Transportation in 2010: 
+A Five-Year Decline in Transportation Access.” February.
+Claypool, Henry, Amitai Bin-Nun, and Jeffrey Gerlach. 2017. 
+“Self-Driving Cars: The Impact on People with Disabili-
+ties.” (Ruderman Family Foundation and Securing Ameri-
+ca’s Future Energy).
+Commuter Connections. 2016. “State of the Commute 
+Survey 2016 .” June 30.
+Copeland, Michael. 2016. “What’s the difference between 
+articial intelligence, machine learning, and deep learn-
+ing?” NVIDIA. Accessed February 6, 2018. https://blogs.
+nvidia.com/blog/2016/07/29/whats-difference-artificial-in-
+telligence-machine-learning-deep-learning-ai/.
+Corwin, Scott, Nick Jameson, Derek M. Pankratz, and 
+Phillipp Willigmann. 2016. The Future of Mobility: What’s 
+Next? Deloitte University Press.
+Curtis, Terra, and Josh Karlin-Resnick. 2016. “Autonomous 
+Vehicles and the Future of Parking.” Fall. Accessed Feb-
+ruary 19, 2018. http://nelsonnygaard.com/wp-content/
+uploads/2017/04/AutoVeh_FutureParking_FINAL.pdf.
+Diehl, Daleb. 2018. “The Transporter.” Oregon Busi-
+ness, January 23. Accessed March 22, 2018. https://
+www.oregonbusiness.com/article/transportation/
+item/18172-the-transporter.
+Bibliography10
+EMC Research. 2017. “Commute Seattle Mode Split Survey 
+Results.” Accessed November 10, 2017. https://commu-
+teseattle.com/modesplit/.
+Foley , Daniel J., Harley K. Heimovitz, Jack M. Guralnik, 
+Dwight B. Brock, “Driving Life Expectancy of Persons 
+Aged 70 Years and Older in the United States,” American 
+Journal of Public Health, Vol.92, No. 8, August 2002.
+Hawkins, Andrew J. 2017. “This map shows how few 
+self-driving cars are actually on the road today.” The 
+Verge. https://www.theverge.com/2017/10/23/16510696/
+self-driving-cars-map-testing-bloomberg-aspen.
+Henderson, Susan, and Marilyn Golden. “Self-Driving Cars: 
+Mapping Access to a Technology Revolution.” National 
+Council on Disability, November 2, 2015. https://ncd.
+gov/sites/default/files/NCD_AutomatedVehiclesRe-
+port_508-PDF.pdf.
+Huston, Caitlin, “Why General Motors Invested in Lyft,” 
+MarketWatch, January 4, 2016, https://www.market-
+watch.com/story/why-general-motors-invested-in-ly-
+ft-2016-01-04.
+Insurance Institute for Highway Safety. 2016. “Driver Seat: 
+Robot Cars Won’t Retire Crash-Test Dummies Anytime 
+Soon.” (Highway Loss Data Institute) Vol. 51 (No. 8).
+Interrante, Erika. 2014. “The Next Generation of Travel: 
+Research, Analysis and Scenario Development.” Accessed 
+February 13, 2018. https://www.fhwa.dot.gov/policy/otps/
+nextgen_finalreport.cfm.
+Kerry, Cameron F., and Jack Karsten. 2017. “Gauging 
+Investment in Self-Driving Cars.” (Brookings Institution). 
+Accessed November 27, 2017. https://www.brookings.
+edu/research/gauging-investment-in-self-driving-cars/.
+Kerschner, Helen K., and Nina M. Silverstein. 2018. Introduc-
+tion to Senior Transportation. New York: Routledge, Taylor 
+& Francis.
+Litman, Todd. “Autonomous Vehicle Implementation Predic-
+tions: Implications for Transportation Planning.” Victoria 
+Transport Policy Institute, 2017. 
+—. 2017. “Public Transit’s Impact on Rural and Small Towns: 
+A Vital Mobility Link.” October.
+Lynott, Jana. “Creating the Transportation System We Want: 
+Building Blocks for the Road Ahead.” AARP Public Policy In-
+stitute, Washington, DC, 2018. www.aarp.org/ppi/issues/liv-
+able-communities/transportation/future-of-transportation/.
+Lynott, Jana. “Reconnecting Small-Town America by Bus: 
+New Federal Transit Rules Spur Investment.” AARP Public 
+Policy Institute, Washington, DC, 2014. https://www.aarp.
+org/ppi/issues/livable-communities/info-2015/rural-tran-
+sit-video.html.
+
+Universal Mobility as a Service: A Bold Vision for Harnessing the Opportunity of Disruption  |  47
+Lynott, Jana. “Video: Rural Transit Connects.” AARP Public 
+Policy Institute, Washington, DC, 2014. https://www.aarp.
+org/ppi/issues/livable-communities/info-2015/rural-tran-
+sit-video.html.
+Mervis, Jeffrey. 2017. “Are We Going Too Fast on Driverless 
+Cars?” Science, December 14. Accessed February 15, 
+2018. http://www.sciencemag.org/news/2017/12/are-we-
+going-too-fast-driverless-cars.
+Mattson, Jeremy. 2017. “Rural Transit Fact Book 2017, Table 
+14.” October. Accessed February 13, 2018. https://www.
+surtc.org/transitfactbook/downloads/2017-rural-transit-
+fact-book.pdf.
+Morris, David Z. 2016. “Today’s Cars Are Parked 95% of 
+the Time.” Fortune. http://fortune.com/2016/03/13/cars-
+parked-95-percent-of-time/.
+National Association of City Transportation Officials. 
+“Blueprint for Autonomous Urbanism, Module 1.” 2017. 
+https://nacto.org/publication/bau/blueprint-for-autono-
+mous-urbanism/.
+National Association of City Transportation Officials. “NAC-
+TO Policy Statement on Automated Vehicles.” 2016. 
+https://nacto.org/wp-content/uploads/2016/06/NAC-
+TO-Policy-Automated-Vehicles-201606.pdf.
+National Governors Association, National Conference of 
+State Legislatures, American  Association of Motor Vehicle 
+Administrators, American Association of State Highway & 
+Transportation Officials, and Governors Highway Safety 
+Association. “Letter to U.S. House and Senate Leader-
+ship.” 2017. http://www.ncsl.org/ Documents/stand-
+comm/scnri/Final_State_House_AV_Bill_9.5.pdf.
+Newcomb, Doug, “How Daimler Is Tying Togeth-
+er Its Diverse Mobility Investments,” Forbes, May 
+30, 2018, https://www.forbes.com/sites/dougnew-
+comb/2018/05/30/how-daimler-is-tying-together-its-di-
+verse- mobility-investments/#4977483e3215.
+Pew Research Center. 2018. “Mobile Fact Sheet.” February 
+5. Accessed May 22, 2018. http://www.pewinternet.org/
+fact-sheet/mobile/.
+Rosenbloom, Sandra, and Jana Lynott. “Transportation 
+Funding Reform: Equity Consideration for Older Amer-
+icans.” AARP Public Policy Institute, Washington, DC, 
+2011. 
+Schmitt, Angie. 2016. “Where Car Commuting is Shrinking, 
+and Where it’s not.” Streetsblog USA, September 16. 
+http://usa.streetsblog.org/2016/09/16/where-car-com-
+muting-is-shrinking-and-where-its-not/.
+Schneider, Benjamin. “D.C. Gives Uber and Lyft a Better 
+Spot in Nightlife.” Citilab, 2017. https://www.citylab.com/
+transportation/2017/10/a-dc-neighborhood-rethinks-park-
+ing/543870/.
+Schweiger, Carol. “Bringing Mobility as a Service to the 
+United States: Accessibility Opportunities and Challenges.” 
+National Aging and Disability Transportation Center, n.d.
+Teal, Roger, Niels Tvilling, Charlotte Frei, Candace Brake-
+wood, David Chia, and David King. “Development of 
+Transactional Data Specifications for Demand-Responsive 
+Transportation.” Transit Cooperative Research Pogram, 
+Transportation Research Board, January 2018. http://
+apps.trb.org/cmsfeed/TRBNetProjectDisplay.asp?Projec-
+tID=4120.
+transpogroup. “Autonomous Vehicle Policy Framework 
+Summit: Final Product Report.” January 2018. http://www.
+transpogroup.com/avpolicysummit.html.
+UCL Energy Institute. “Video: Understanding the Benefits 
+of MaaS.” Intelligent Transportation   2016. https://www.
+intelligenttransport.com/transport-articles/21270/vid-
+eo-understanding-maas/.
+Union of Concerned Scientists. “Maximizing the Benefits of 
+Self-Driving Vehicles.” 2018. www.ucsusa.org/avprinci-
+ples.
+United States Department of Transportation National High-
+way Traffic Safety Administration. “Automated Driving 
+Systems 2.0: A Vision for Safety,” September, 2017.  
+Wallace, Richard. et al. 2005. “Access to Health Care and 
+Nonemergency Medical Transportation: Two Missing 
+Links.” Transportation Research Record: Journal of the 
+Transportation Research Board, 76-84.
+“What will car ownership look like in the future?” Quora 
+contributor to Forbes. Accessed September 1, 2017.
+Zohdy, Ismail, et al. 2016. “Impacts of Millennial Student 
+Loan Debt on Transportation Choices.” September. 
+Accessed February 13, 2018. https://www.fhwa.dot/gov/
+policy/otps/millennial_travel_choices.pdf.
+
+48  |  Universal Mobility as a Service: A Bold Vision for Harnessing the Opportunity of Disruption
+© AARP PUBLIC POLICY INSTITUTE 
+601 E Street, NW 
+Washington DC 20049
+Follow us on Twitter @AARPpolicy  
+on facebook.com/AARPpolicy 
+www.aarp.org/ppi
+For more reports from the Public Policy 
+Institute, visit http://www.aarp.org/ppi/

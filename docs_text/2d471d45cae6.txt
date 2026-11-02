@@ -1,0 +1,894 @@
+FILENAME: tac-25-01-pdf-9f63683f7666.pdf
+PATH: _raw/rsa.ed.gov/tac-25-01-pdf-9f63683f7666.pdf
+
+1 
+UNITED STATES DEPARTMENT OF EDUCATION 
+OFFICE OF SPECIAL EDUCATION AND REHABILITATIVE SERVICES 
+REHABILITATION SERVICES ADMINISTRATION 
+WASHINGTON, DC 20202-2800 
+ 
+TECHNICAL ASSISTANCE CIRCULAR 
+RSA-TAC-25-01 
+DATE: January 16, 2025 
+ 
+ADDRESSEES: STATE VOCATIONAL REHABILITATION AGENCIES  
+STATE REHABILITATION COUNCILS 
+CLIENT ASSISTANCE PROGRAMS  
+STATE LICENSING AGENCIES  
+TECHNICAL ASSISTANCE CENTERS 
+ 
+SUBJECT: Allowable Use of Funds for Management Services for the Benefit of the 
+Randolph-Sheppard Vending Facility Program 
+ 
+PURPOSE: 
+ 
+This Technical Assistance Circular (TAC) provides guidance on the allowable use of State 
+V ocational Rehabilitation (VR) Services program funds, both Federal funds and non-Federal 
+matching funds (hereinafter VR program funds), as well as Randolph-Sheppard Vending Facility 
+Program (RSVFP) set-aside funds
+1, for costs associated with management services and 
+supervision (hereinafter, “management services”).2 Through this guidance, the Rehabilitation 
+Services Administration (RSA) provides examples of the nexus between the requirements of the 
+Rehabilitation Act of 1973 (Rehabilitation Act)
+ 3 and the Randolph-Sheppard Act (R-S Act) 4 
+with respect to the allowable use of funds for management services. 
+ 
+This TAC responds to inquiries received by RSA from State licensing agencies (SLAs)
+5, RSVFP 
+vendors, and professional associations on behalf of RSVFP vendors regarding the use of VR 
+ 
+1  “Set-aside funds” is defined at 34 C.F.R. § 395.1(s) as funds which accrue to an SLA from an assessment 
+against the net proceeds of each vending facility in the RSVFP and any income from vending machines on 
+federal property which accrues to the SLA.  
+2  For purposes of the VR program at 34 C.F.R. § 361.49(a)(5)(i), the term used is “management services and 
+supervision;” however, the same activity under the RSVFP is identified at 34 C.F.R. §§ 395.1(j) and 395.9(b)(3) 
+as “management services.” For the convenience of the reader, this TAC refers to these activities as 
+“management services” throughout, regardless of the funds used to pay the costs. See also footnote 9. 
+3  29 U.S.C. § 723(b)(1). 
+4  20 U.S.C. § 107(b)(3)(C). 
+5  An SLA, as defined in 34 C.F.R. § 395.1(v), is the VR agency providing VR services to individuals who are 
+blind in the State under the VR services portion of the Unified or Combined State Plan (see 34 C.F.R. §§ 395.2 
+and 395.5) and that has been designated by the Secretary of the U.S. Department of Education to issue licenses 
+to individuals who are blind under the RSVFP. Therefore, when providing VR services for the benefit of 
+licensed blind vendors operating vending facilities under the RSVFP, there is a close administrative nexus 
+between the State VR agency and the SLA. Although the VR agency is solely responsible for administering the 
+VR program and the costs incurred under that program (34 C.F.R. § 361.13(c)) and the SLA is responsible for
+
+2 
+program funds and RSVFP set-aside funds to support and improve the RSVFP through the 
+provision of management services. Through this TAC, RSA clarifies the applicability of pertinent 
+Federal requirements governing the use of VR program funds and RSVFP set-aside funds for the 
+provision of management services, thereby supporting VR agencies and SLAs in the appropriate 
+use of those funds to increase opportunities for individuals who are blind to obtain and maintain 
+competitive integrated employment and economic self-sufficiency in the RSVFP. This TAC is the 
+final in a three-part series requested by SLAs and the RSVFP vending community. The content 
+of this TAC, along with the other two TACs in this series
+6 issued previously, together supersede 
+and rescind PAC-89-02, dated January 3, 1989.  
+ 
+BACKGROUND: 
+ 
+Section 103(b)(1) of the Rehabilitation Act and 34 C.F.R. § 361.49(a)(5) allow VR agencies, in 
+pertinent part, to use VR program funds to provide management services for licensed blind 
+vendors operating vending facilities under the RSVFP and supervised by the State agency. 
+Similarly, the R-S Act at 20 U.S.C.§107b(3)(C) and 34 C.F.R. § 395.9(b)(3), in pertinent part, 
+allow SLAs to use RSVFP set-aside funds for the provision of management services for licensed 
+blind vendors operating vending facilities under the RSVFP.  
+ 
+TECHNICAL ASSISTANCE: 
+ 
+For purposes of the RSVFP and this TAC, “management services” include inspection, quality 
+control, consultation, accounting, regulating, in-service training, and related services provided on 
+a systematic
+7 basis to support and improve small business enterprises8 operated by individuals 
+with significant disabilities (34 C.F.R. §§ 361.49(a)(5)(i) and 395.1(j)).9 Management services 
+ 
+administering the RSVFP (34 C.F.R. § 395.3) and the costs incurred with RSVFP set-aside funds, this TAC uses 
+“VR agency” and “SLA” interchangeably throughout, depending on which term best fits the specific content of 
+that reference. 
+6   RSA-TAC-24-03, Use of VR Program Funds for Initial Stocks and Supplies and Operating Expenses for 
+Vendors Under the Randolph-Sheppard Vending Facilities Program, issued on April 5, 2024, and RSA-TAC-
+24-06, Allowable Costs for Vending Facilities and Equipment for Vendors Under the Randolph- Sheppard 
+Vending Facility Program, dated August 13, 2024. 
+7  A ccording to the Merriam-Webster Dictionary, “systematic” means 1) relating to or consisting of a system; 
+2) presented or formulated as a coherent body of ideas or principles, e.g. systematic thought; 3a) methodical in 
+procedure or plan, e.g. a systematic approach or a systematic scholar; 3b) marked by thoroughness and 
+regularity, e.g. systematic efforts; 4) of, relating to, or concerned with classification. Systematic, Merriam-
+Webster.com, last visited Nov. 4, 2024). 
+8  The VR regulations at 34 C.F.R. § 361.49(a)(5) refer to “small business enterprises” operated by individuals 
+with significant disabilities under the supervision of the State agency. For purposes of this TAC, these small 
+business enterprises are “vending facilities,” as defined at 34 C.F.R. § 395.1(x), operated by licensed blind 
+vendors under the RSVFP. In the event a State VR agency administers another Business Enterprise Program, 
+the technical assistance provided in this TAC does not apply to that program; the State should request further 
+specific technical assistance from RSA as needed. 
+9  “Management services and supervision” under the VR program’s VR services to groups at 34 C.F.R. § 
+361.49(a)(5)(i) includes “inspection, quality control, consultation, accounting, regulating, in-service training, 
+and related services provided on a systematic basis to support and improve small business  enterprises operated 
+by individuals with significant disabilities. Management services and supervision may be provided throughout 
+the operation of the small business enterprise.” The same activity under the RSVFP is identified at 34 C.F.R. § 
+395.9(b)(3) and defined at § 395.1(j) as “management services,” which means “supervision, inspection, quality
+
+3 
+may be provided throughout the operation of the vending facility; this is true under both the VR 
+program and the RSVFP (34 C.F.R. §§ 361.49(a)(5)(i) and 34 C.F.R. § 395.9(b)(3)). Therefore, 
+no time limit exists for the provision of these services.  
+ 
+This means the VR agency may use VR program funds and RSVFP set-aside funds to pay for the 
+ongoing activities identified as “management services” as provided by the SLA on a systematic 
+basis to support and improve the vending facilities operated by licensed blind vendors under the 
+RSVFP. To be clear, “management services” are separate and distinct from the ongoing 
+operational costs of vending facilities, commonly considered business operating expenses, the 
+costs of which are allowable under the VR program only during the initial establishment period 
+of that facility, not to exceed six months (34 C.F.R. § 361.49(a)(5)(iii)); there is no authority 
+under 34 C.F.R. § 395.9(b) to use set-aside funds to pay ongoing operational costs of a vending 
+facility.
+10 The activities described in “management services” at 34 C.F.R. §§ 361.49(a)(5)(i) and 
+395.1(j) clearly indicate they consist of administrative (as opposed to business operational) 
+activities provided on a systematic basis and are not tailored for the benefit of an individual 
+vending facility or vendor, but rather to support and improve all facilities and vendors (or a 
+group of those facilities and vendors) in the RSVFP. 
+ 
+When the SLA provides these administrative activities on a systematic basis, they constitute 
+“management services;” as such, they are methodical in procedure or plan or marked by 
+thoroughness and regularity, to support and improve the operation of the RSVFP vending 
+facilities. As the examples below show, the systematic nature of management services does not 
+necessarily mean the SLA must provide the service to every vendor in the State; the SLA may 
+provide a particular type of management service to a certain subset of vendors (e.g., new vendors 
+or all micro market vendors) in the State, as appropriate, and it would still be considered as 
+“provided on a systematic basis,” as required by 34 C.F.R. §§ 361.49(a)(5)(i) and 395.1(j), if the 
+SLA provides it in a methodical or standardized manner to all vendors receiving the service. 
+ 
+Because “management services” are administrative in nature, they encompass the SLA personnel 
+costs in the scenarios presented below when associated with administering the RSVFP. 
+Therefore, although the R-S Act does not specifically authorize the use of RSVFP set-aside funds 
+for administrative costs, per se, as is permitted with VR program funds in accordance with 
+ 
+control, consultation, accounting, regulating, in-service training, and other related services provided on a 
+systematic basis to support and improve vending facilities operated by blind vendors. Management services 
+does not include those services or costs which pertain to the on-going operation of an individual facility after 
+the initial establishment period.” The RSVFP regulatory definition is almost identical to the description of 
+“management services and supervision” under the VR program, and we view management services under both 
+programs as substantively the same and complementary to each other. Under both the RSVFP and VR  program, 
+management services can be provided throughout the duration of the vending facility and management services 
+does not include on-going operational costs of the vending facility. The RSVFP definition makes this clear by 
+distinguishing “management services” permitted under the RSVFP with set -aside funds at 34 C.F.R. § 
+395.9(b)(3) and the operating costs of a vending facility, which are not authorized to be paid with RSVFP set-
+aside funds under 34 C.F.R. § 395.9(b) but are permitted with VR program funds under the VR program at 34 
+C.F.R. § 361.49(a)(5)(iii) for the initial establishment period, not to exceed six months. See also footnote #2.  
+10. For more detailed guidance on initial operating costs of a vending facility, see RSA-TAC-24-03, Use of VR 
+Program Funds for Initial Stocks and Supplies and Operating Expenses for Vendors Under the Randolph -
+Sheppard Vending Facilities Program, issued on April 5, 2024.
+
+4 
+Section 111(a)(1) of the Rehabilitation Act and 34 C.F.R. § 361.3(b),11 such specific reference in 
+the R-S Act is unnecessary because the SLA personnel time to manage the RSVFP clearly falls 
+within the scope of “management services” as one of the identified activities or “other related 
+services provided on a systematic basis to support and improve” vending facilities operated by 
+licensed blind vendors (34 C.F.R. §§ 361.49(a)(5)(i) and 395(1)(j)). For example, “management 
+services” can include costs for SLA personnel time to negotiate vending facility permits and 
+contracts; procure equipment, services, and goods needed by the RSVFP vendors; manage any 
+RSVFP-established systems for ensuring the payment of fair minimum return, sick and vacation 
+pay, and pension funds; and manage the RSVFP set-aside assessments paid to the SLA. Although 
+these personnel time costs associated with administering the RSVFP are allowable management 
+services, it is important for SLAs to determine the underlying RSVFP activities performed to 
+ensure the proper allocation of costs between VR program funds and RSVFP set-aside funds. 
+ 
+If the underlying activity is only allowable under the VR program (e.g. initial operating costs), 
+then management services associated with that activity can only be paid with VR program funds. 
+Similarly, if the underlying activity is only allowable under the RSVFP (e.g. fair minimum 
+return), then management services associated with that activity can only be paid with RSVFP set-
+aside funds. However, if the underlying activity is allowable under both the VR program and the 
+RSVFP (e.g. the purchase and maintenance of equipment), then management services associated 
+with that activity can be paid from either funding source. Payment with set-aside funds of 
+management services to administer the RSVFP set-aside activities must be consistent with the 
+SLA’s policies and procedures developed in active participation with the Elected Committee of 
+Blind Vendors (Elected Committee)
+12 and approved by RSA (34 C.F.R. §§ 395.4 and 395.14).  
+ 
+Before expending funds for the provision of management services to administer either allowable 
+VR expenditures to benefit the RSVFP or set-aside expenditures, regardless of whether paying 
+with VR program funds or RSVFP set-aside funds, State agencies must ensure the costs are 
+allowable, reasonable, necessary, and allocable to the applicable program in accordance with 
+Federal cost principles at 2 C.F.R. §§ 200.403 through 200.405. As VR agencies and SLAs plan 
+for the expenditure of funds – VR program funds and RSVFP set-aside funds -- it is important to 
+remember that neither Section 103(b)(1) of the Rehabilitation Act nor the R-S Act (20 U.S.C. § 
+107b(3)) requires agencies to expend funds on the provision of management services. Rather, the 
+Rehabilitation Act and the R-S Act authorize State agencies to expend funds, as allowable, for 
+these purposes.  
+ 
+ 
+11  Section 111(a)(1) of the Rehabilitation Act and 34 C.F.R. § 361.3 authorize States to use VR program funds for 
+providing VR services, which include those activities paid for the benefit of the RSVFP under section 103(b)(1)  
+of the Rehabilitation Act and 34 C.F.R. § 361.49(a)(5), and for administering the VR program. For purposes of 
+the VR program, the term “administrative costs” is defined at section 7(1) of the Rehabilitation Act and 34 
+C.F.R. § 361.5(c)(2); however, the SLA personnel time described in this TAC constitutes “management 
+services” because the personnel are managing or supervising activities in the administration of the RSVFP. 
+Therefore, the definition of “administrative costs” for purposes of the VR program is not applicable to this 
+personnel time. 
+12  34 C.F.R. § 395.14 and RSA-TAC 21-01: Active Participation of Elected Committees of Blind Vendors with 
+State Licensing Agencies in the Randolph-Sheppard Vending Facility Program (December 15, 2020).
+
+5 
+The State agency may use non-Federal funds to pay allowable costs under the VR program, 
+including expenses associated with management services for the benefit of the RSVFP, instead of 
+Federal VR funds. Any non-Federal funds used to pay these allowable VR program costs, 
+including RSVFP set-aside funds, count toward the State’s match and maintenance of effort 
+(MOE) requirements; therefore, VR agencies must report these amounts as non-Federal share on 
+the V ocational Rehabilitation Financial Report (RSA-17), as required by 34 C.F.R. §§ 361.60 and 
+361.62. SLAs also must report the use of these funds on the Report of Vending Facility Program 
+(RSA-15). Furthermore, expenditures made with RSVFP set-aside funds that are also allowable 
+under the VR program must satisfy all Guidance for Federal Financial Assistance (Uniform 
+Guidance) requirements for purposes of the VR program, particularly those governing Federal 
+cost principles when expending funds and requesting prior written approval for certain 
+expenditures. This is necessary because these expenditures paid with RSVFP set-aside funds, 
+which are also allowable under the VR program, count towards the State’s MOE requirement 
+under the VR program since they constitute part of the total amount of non-Federal expenditures 
+incurred under that program in accordance with section 111(a)(2)(B) of the Rehabilitation Act 
+and 34 C.F.R. § 361.62(a). 
+ 
+Examples: 
+ 
+The following illustrative examples provide specific factual scenarios to help clarify when the 
+State agency may use VR program funds and RSVFP set-aside funds to pay for management 
+services under the RSVFP. Because the examples provided herein are general and cannot cover 
+every factual circumstance that could arise, they do not automatically determine the outcome for 
+any other specific factual scenario. SLAs should engage in their own analysis of their individual 
+factual circumstances to determine whether an activity is a management service. Before 
+spending VR or RSVFP set-aside funds on management services, we urge VR agencies and 
+SLAs to consult with both the RSA Financial Management Specialist and RSA RSVFP 
+Liaison assigned to their State to obtain specific technical assistance regarding the 
+allowability of particular costs or the development of policies, procedures, or internal 
+controls based on the examples in this TAC. In this way, RSA can ensure a holistic approach to 
+the technical assistance provided for the specific circumstances arising in the State. 
+ 
+1. The SLA contracts with ABC Corp. to provide the following management services on behalf 
+of all vending facilities in the State:  
+• Preparing and generating data for various reports on behalf of the SLA, including the 
+Federal RSA-15 report;  
+• Providing quarterly in-service trainings to vendors to support and improve the operation 
+of their vending facilities under the RSVFP (e.g., trainings on cash management, 
+inventory management, and business management); and  
+• Providing replacement staff when vendors attend quarterly in-service trainings. 
+ 
+All the above activities under the contract support and improve the licensed blind vendors’ 
+operation of vending facilities under the RSVFP; the contract requires the contractor to 
+provide all services according to State policies and procedures. Therefore, for the reasons set 
+forth below, the entire contract in this example represents allowable management services 
+costs, including the SLA personnel time to manage the contract. As such, the SLA may pay
+
+6 
+the entire contract cost as management services with either VR program funds or RSVFP set-
+aside funds. In addition, no time limit exists for the provision of these services. 
+ 
+With respect to the activities under the contract related to the generation of data for Federal 
+reporting purposes, these administrative services constitute those activities identified at both 
+34 C.F.R. §§ 361.49(a)(5)(i) and 395.1(j) as “management services” because they involve 
+accounting, consultation, and other related services provided for the support of licensed blind 
+vendors operating vending facilities under the RSVFP. Second, the State provides these 
+administrative services on a systematic basis to support and improve the vending facilities 
+operated by licensed blind vendors under the RSVFP. The State provides these activities, not 
+for the benefit of any individual vending facility, but rather in a methodical manner on behalf 
+of all facilities to support and improve the RSVFP (i.e., on a systematic basis).  
+ 
+With respect to the quarterly in-service trainings and replacement staff costs when vendors 
+attend those trainings, both 34 C.F.R. §§ 361.49(a)(5)(i) and 395.1(j) describe “management 
+services” as including “in-service trainings” that support and improve the vending facilities 
+operated by licensed blind vendors under the RSVFP. Because the vendors attend trainings 
+necessary to support and improve the operations of their vending facilities (e.g., to improve 
+their skills on cash management, inventory management, and business management), the 
+SLA may use both VR program funds, and RSVFP set-aside funds to pay for the training 
+costs as “management services.” This would be true regardless of whether the contractor 
+provides the in-service trainings at the vendor’s own vending facility or offsite at a different 
+location.  
+ 
+Although the description of “management services” at 34 C.F.R. § 361.49(a)(5)(i) and 
+395.1(j) does not specifically mention replacement staff costs when a vendor attends an in-
+service training (but in-service training is specifically mentioned as “management services”), 
+those replacement staff costs may be allowable as “management services” if they satisfy the 
+Federal cost principles at 2 C.F.R. §§ 200.403 through 200.405. The allowability of these 
+costs will depend on the applicable facts for each vending facility in the State. Pursuant to 2 
+C.F.R. § 200.403(a), except as specifically authorized under law, a cost is allowable if it is 
+reasonable and necessary for the performance of the Federal award and allocable to that 
+award. The allowability of replacement staff costs will depend on the specific facts presented, 
+such as whether the vendor already maintains additional staff. For example, a prudent person 
+could determine at the time of incurring costs that a vending facility managed by a sole 
+proprietor reasonably requires replacement staff to avoid closing for the day, making the cost 
+for replacement staff reasonable and allowable under the Federal cost principles at 2 C.F.R. 
+§§ 200.403 through 200.405. However, a vending facility with other staff members may not 
+require replacement staff to avoid closure of the facility while the vendor participates in the 
+in-service training. 
+ 
+It is likely the SLA would need to assign State agency personnel to manage the contract. 
+Because the personnel in this example would be performing management services for a 
+contract that includes RSVFP activities that are allowable under both the VR program and 
+RSVFP, this personnel time also is allowable under both the VR program and RSVFP.
+
+7 
+For the foregoing reasons, each of the above activities in this particular factual scenario 
+would constitute allowable management services. As allowable costs, the SLA may use either 
+VR program funds or RSVFP set-aside funds to pay these costs. To the extent the State uses 
+non-Federal funds to pay any of these management services costs, including RSVFP set-aside 
+funds, the State may count these expenditures toward satisfying its match requirement, if 
+necessary, but all such expenditures must count toward the State’s MOE requirement because 
+the expenditures are part of the total non-Federal expenditures incurred under the VR 
+program, as required for the calculation of MOE according to Section 111(a)(2)(B) of the 
+Rehabilitation Act and 34 C.F.R. § 361.62(a).  
+ 
+2. The SLA amends the contract with ABC Corp. to provide in-service trainings to all licensed 
+blind vendors in the State regarding “the relationship between work and the receipt of Social 
+Security Administration (SSA) benefits.” Specifically, the training focuses on the amount of 
+income the vendor can earn and still satisfy SSA eligibility requirements.  
+Unlike the in-service trainings described in Example 1 above during which the vendors 
+learned about cash management, inventory management, and business management, the SSA 
+training in Example 2 does not support and improve the operation of the RSVFP. Rather, this 
+training focuses on the personal income needs of each vendor who attends; the knowledge 
+the vendors gain at the training will not support and improve the vending facilities operated 
+under the RSVFP. For this reason, the in-service trainings described in Example 2 do not 
+constitute management services, as described at 34 C.F.R. §§ 361.49(a)(5)(i) and 395.1(j); 
+therefore, States may not use either VR program funds or RSVFP set-aside funds to pay for 
+any of the associated costs with these trainings, including the personnel time to manage that 
+portion of the contract directly related to these SSA trainings since the underlying cost of the 
+training is not allowable under either the VR program or RSVFP. In other words, the SLA 
+must cost allocate the costs associated with these SSA trainings, as well as the personnel time 
+to manage that portion of the contract and pay those costs with another source of funds 
+available to it for this purpose; these expenditures do not count towards the State’s match or 
+MOE requirements under the VR program since the costs are not allowable under that 
+program. 
+ 
+3. The SLA recently acquired two new vending facilities in the State and assigned Vendor A and 
+Vendor B to those new facilities. The SLA agreed to pay the following ongoing operational 
+costs for Vendor A and Vendor B:  
+• Fiscal, accounting, and related support services to the new vendors, which include 
+generating monthly settlement reports, processing cash receipts (turn-ins and 
+commissions), vendor staff payroll, accounts payable, monthly draw (advances drawn 
+from vendor monthly settlement disbursements), monthly sales tax, payroll tax deposits, 
+monthly and annual tax reports (including 1099's and W-2s), reconciliation of Asset and 
+Liability accounts, reconciliation of bank statements, and preparing annual budgets; 
+• Ongoing vendor dues to professional organizations; 
+• Internet service fees for each of the new vending facilities; and 
+• Vendor’s unemployment insurance for their employees.
+
+8 
+Although the SLA provides each of these services on behalf of both Vendor A and Vendor B 
+– the only new RSVFP vendors in the State, the accounting services pertain specifically to 
+Vendor A’s and Vendor B’s vending facilities. Each of the accounting services offered are 
+tailored to meet their individual operational needs – not systematically (i.e., not provided 
+methodically and generally to support and improve their businesses as part of a larger system 
+within the RSVFP). For example, with respect to the fiscal accounting services provided by 
+the SLA to Vendor A and Vendor B, the SLA assists both vendors to reconcile their 
+individual bank statements or asset and liability accounts. The SLA also processes 1099s and 
+W-2 forms for each of the vendors and their employees, submits monthly sales tax forms, 
+and makes payroll tax deposits on behalf of their individual vending facilities. Because the 
+fiscal and accounting services in this example benefit the individual needs of Vendor A and 
+Vendor B, these services constitute operational costs of the vending facility (i.e., business 
+expenses for the vendors), not “management services” as described at 34 C.F.R. § 
+361.49(a)(5)(i) and 395.1(j).  
+ 
+Similarly, costs incurred for professional dues, internet service fees, and unemployment 
+insurance for their employees benefit only the individual needs of Vendor A and Vendor B 
+and their respective vending facilities. These expenditures do not help to support and 
+improve the operation of the vending facility systematically (i.e., methodically as part of the 
+RSVFP system); rather, they are ongoing operational costs typically incurred by the vendor 
+in operating a vending facility. As such, these costs do not constitute “management services,” 
+but instead ongoing operational costs of Vendor A’s and Vendor B’s vending facilities. Even 
+if the SLA wanted to pay for any of these costs for all vending facilities operated under the 
+RSVFP in the State, these specific expenditures used in this example still would represent 
+ongoing operating costs of the vendors and their individual vending facilities, not 
+management services incurred by the SLA on a systematic basis to support and improve the 
+operation of the RSVFP. 
+ 
+Under the VR program, the SLA may use VR program funds to pay the costs of operating 
+expenses incurred during the initial establishment of the vending facility not to exceed six 
+months; however, States may not use VR program funds to pay for these costs beyond the 
+initial establishment period (34 C.F.R. § 361.49(a)(5)(iii)). VR program payment of 
+allowable initial operating costs assists licensed blind vendors by paying for those on-going 
+costs necessary to start up a vending facility when the vendor may have little to no income to 
+cover these costs and while the vendor is learning how to meet their operational needs. Such 
+expenditures fit squarely within the purpose of the VR program, which assists individuals 
+with disabilities, including those with significant disabilities, to achieve employment 
+outcomes and economic self-sufficiency (Section 100(a)(2) of the Rehabilitation Act). The 
+VR program’s financial support for the initial establishment period of any vending facility, 
+not to exceed six months, increases the likelihood that blind vendors become and remain 
+economically self-sufficient in competitive integrated employment. 
+ 
+However, as explained in RSA-TAC-24-03, the R-S Act and 34 C.F.R. part 395 do not 
+authorize SLAs to use RSVFP set-aside funds to pay for ongoing operational costs – even 
+during the initial establishment period of a facility – because the definition of “management 
+services” at 34 C.F.R. § 395.1(j) specifically excludes ongoing operational costs from that
+
+9 
+definition. Moreover, 34 C.F.R. § 395.9(b) does not authorize the use of RSVFP set-aside 
+funds for this purpose.  
+ 
+Even though none of these services provided by the SLA to Vendor A and Vendor B 
+constitute “management services,” they constitute initial operating costs under the VR 
+program, which are allowable with VR program funds for Vendor A and Vendor B during 
+the initial establishment period of their vending facilities, not to exceed six months, in 
+accordance with 34 C.F.R. § 361.49(a)(5)(iii). Therefore, any SLA personnel time to manage 
+these expenditures during that initial establishment period is also allowable as management 
+services under the VR program only; the personnel time is not allowable as management 
+services with RSVFP set-aside funds because the underlying cost (i.e., initial operating costs) 
+are not allowable with RSVFP set-aside funds. As stated above, initial operating costs can 
+only be paid with VR program funds, meaning the same is true with the associated personnel 
+time to manage those expenditures. At the end of the initial establishment period, Vendor A 
+and Vendor B must pay these ongoing operational costs from the proceeds of their vending 
+facilities, and the SLA personnel time (i.e., management services) would cease at that time 
+for these particular activities. To be clear, the SLA may not use RSVFP set-aside funds to 
+pay any of these costs at any time. 
+ 
+4. The SLA contracts with AAA Corp. to manage health insurance, pension fund, and a system 
+for paying out vacation and sick leave for vendors. All RSVFP vendors in the State benefit 
+from these services managed by AAA Corp. 
+It is important to note that the health insurance, pension fund, and sick and vacation 
+payments managed by AAA Corp. do not constitute “management services;” rather, any 
+payments made for these purposes constitute allowable RSVFP costs pursuant to 34 C.F.R. § 
+395.9(b)(5). Therefore, RSVFP set-aside funds may be used to make these payments. 
+However, none of these payments are allowable under the VR program; thus, VR program 
+funds may not be used to make any of these payments, and the RSVFP set-aside payments 
+made pursuant to 34 C.F.R. § 395.9(b)(5) do not count towards the State’s match and MOE 
+requirements under the VR program since the costs are not allowable under that program. 
+ 
+With respect to the SLA personnel time to oversee the AAA Corp. contract described in 
+Example 4, this personnel expenditure represents supervisory (i.e., administrative) activity 
+provided on a systematic basis for the benefit of the RSVFP. As such, this SLA personnel 
+time constitutes “management services.” However, as noted above, the AAA Corp. contract 
+activities supervised by the SLA personnel in Example 4 are only allowable under the 
+RSVFP and not the VR program. For this reason, the supervisory (i.e., administrative) 
+activities performed by the SLA personnel to manage this contract are only allowable under 
+the RSVFP, meaning they constitute “management services” only under the RSVFP since the 
+underlying activity is only allowable under the RSVFP and not the VR program; therefore, 
+these personnel time costs (i.e., management services expenditures) can be paid with RSVFP 
+set-aside funds. Because the underlying contract activities performed by AAA Corp. in 
+Example 4 are not allowable under the VR program at all, the SLA personnel time to 
+supervise the contract also is not allowable under that program, meaning the agency may not 
+use VR program funds to pay these costs.
+
+10 
+With a contract such as that described in Example 4, RSVFP set-aside funds or other funds 
+available to the SLA for this purpose are the only sources of funds allowable; VR program 
+funds are not allowable for any costs associated with this contract. As always, the SLA must 
+ensure all payments made with RSVFP set-aside funds are consistent with the State’s policies 
+and procedures developed with the active participation of the Elected Committee and 
+approved by RSA.  
+ 
+5.  An SLA assigns one staff person to supervise the State’s RSVFP. This State, in active 
+participation with the Elected Committee, has established programs for sick and vacation 
+time and a pension fund. This staff person is responsible for overseeing these payments to the 
+four licensed blind vendors in the State (10 percent of their time). The staff person also is 
+responsible for negotiating contracts and permits on behalf of the RSVFP (15 percent of their 
+time), looking for new vending facility opportunities to expand the RSVFP in the State (10 
+percent of their time), arranging and providing in-service trainings for the vendors (50 
+percent of their time), and inventorying the RSVFP equipment (10 percent of their time), as 
+well as other related duties provided on a systematic basis to benefit the RSVFP (5 percent of 
+their time).  
+ 
+It is important to note that the SLA personnel’s time supports and improves the operation of 
+the entire RSVFP in the State through activities done methodically, not just the individual 
+operations of each vending facility or licensed blind vendor. Similar to the SLA activities in 
+Example 4 above, Example 5 highlights a particular activity that the SLA personnel is 
+supervising (i.e., administering) that is only allowable under the RSVFP and not the VR 
+program, namely the payments made pursuant to 34 C.F.R. § 395.9(b)(5) for sick and 
+vacation pay and pensions. Because the underlying costs are allowable only under the 
+RSVFP and not the VR program, the SLA may use RSVFP set-aside funds to pay the 
+management services cost associated with the SLA personnel’s time for managing those 
+specific activities (i.e., 10 percent). The State agency cannot use VR program funds to pay 
+these costs, and these particular personnel costs (i.e., 10 percent of the staff person’s time) 
+cannot count towards the State’s match and MOE requirements under the VR program 
+because they are not allowable under that program. 
+ 
+With respect to the remaining 90 percent of the SLA personnel’s time spent supervising (i.e., 
+administering) the RSVFP in this State, all activities identified are allowable under both the 
+VR program and RSVFP as management services. Therefore, the SLA may use either VR 
+program funds or RSVFP set-aside funds (or some combination of the two funding sources) 
+to pay 90 percent of this staff person’s time for supervising the RSVFP. All non-Federal 
+expenditures spent for this 90 percent of the SLA personnel’s time, including RSVFP set-
+aside funds, count towards the State’s match and MOE requirements. To be clear, the SLA 
+must cost allocate the staff person’s time to ensure, for reporting and accounting purposes, 
+the 10 percent for costs not allowable under the VR program is not paid by VR funds. 
+However, since the remaining 90 percent of the costs are allowable under the VR program, 
+when paid by RSVFP set-aside funds or other funds available for this purpose, they are 
+subject to the State’s match and MOE requirements under the VR program.
+
+11 
+6. The SLA contracts with BBB Corp. to develop and manage a new financial and data 
+management system that is available to all vending facilities in the State. The vendors will 
+use the system to do their own monthly financial accounting and submit monthly reports to 
+the SLA, who, in turn, will use the information when completing the annual RSA-15 report 
+for RSA. The vendors pay BBB Corp. a monthly fee for the use of the system. 
+ 
+Developing a systematic financial and data management system under these facts constitutes 
+a “management service” under both the VR program and RSVFP at 34 C.F.R. §§ 
+361.49(a)(5)(i) and 395.1(j). In this case, the financial and data management system supports 
+and improves the operation of the entire vending facility program in the State, not just the 
+individual operations of each vending facility. Although the financial and data management 
+system may also serve individual needs for each vending facility, such as their own financial 
+record keeping and accounting, the primary purpose of the system is
+ to provide a statewide 
+mechanism through which the vendors input and transmit monthly profit and other data 
+needed by the SLA for its own reporting and record-keeping purposes required by the RSA-
+15.  
+ 
+Because the development of the financial and data management system in this example 
+constitutes a “management service,” the SLA may use VR program funds and RSVFP set-
+aside funds to pay these costs, as well as any SLA personnel time to manage this contract, 
+receive vendors’ data, and then submit RSA-15 reports. These expenditures are allowable 
+under both the VR program and the RSVFP, meaning that all non-Federal expenditures count 
+toward the State’s match and MOE requirements under the VR program. 
+ 
+The development of the financial and data management system for use by the vendors for 
+their own operational needs and the use of the system by the SLA to obtain the data 
+necessary to submit the RSA-15 reports to RSA, including SLA personnel time associated 
+with managing the BBB Corp. contract, constitute management services under both the VR 
+program and RSVFP. As such, these costs may be paid with either VR program funds or 
+RSVFP set-aside funds, or a combination of the two sources. While the vendors use the 
+financial and data management system for their own operational needs - accounting and data 
+management purposes, such as to maintain sales reports, complete 1099s, and submit sales 
+tax reports – they pay a monthly fee to use this system directly to BBB Corp. The SLA is not 
+involved in the vendors’ operational functions.  
+ 
+To be clear, the financial and data management system in Example 6 (the establishment and 
+management of which is allowable as “management services”) differs from a statewide 
+accounting system required by some States for the vending facilities to use. In those States, 
+the State requires the licensed blind vendors to use the State’s accounting system to input all 
+fiscal data on a regular basis; the State’s accounting system, in turn, generates sales tax 
+reports, Federal 1099 reports, and other reports on behalf of each vendor. In these States, the 
+SLA also uses the State’s accounting system to send monthly checks to the vendors, rather 
+than having the vendors determine their own profits. Although “management services” 
+includes accounting services, those must be done methodically – systematically – to support 
+and improve the operation of the vending facilities in the RSVFP. These State accounting 
+services just described, on the other hand, are tailored specifically for the individual
+
+12 
+operational needs of each vendor and each vending facility; most of the activities focus on 
+the particular profits and losses experienced by each facility (see also Example 3 above) and 
+result in the SLA performing the operational functions of the vending facility. As such, these 
+accounting services represent ongoing operational costs that each vendor needs to incur for 
+the life of the vending facility. The SLA could pay these initial operational costs (and any 
+associated administrative costs) with VR program funds for the initial establishment period 
+of a vending facility, not to exceed six months. After that initial establishment period ends, 
+however, the vendor must pay for the costs. As operational costs, the SLA cannot use RSVFP 
+set-aside funds to pay any of these costs.  
+ 
+7. A teaming partner on an SLA cafeteria contract with a Federal agency has brought a case in 
+the Court of Federal Claims against the Federal agency. The SLA wants to intervene and 
+participate in the matter to protect the interests of the RSVFP in maintaining the contract and 
+support the interest of the licensed blind vendor against the teaming partner. The SLA hires 
+an attorney with subject matter expertise to advise on this highly specialized issue. 
+ 
+In this example where the claim is outside the RSVFP arbitration process, the attorney’s 
+representation focuses on the facts of one vendor and their vending facility, but the outcome 
+of the matter could impact the SLA’s administration of the RSVFP and other vendors in the 
+State and their vending facilities. In addition, if the cafeteria contract is lost, it could affect 
+the amount of funds that the SLA receives from set-aside assessments and thus, the available 
+amount of set-aside funds that supports the RSVFP. For these reasons, the attorney’s 
+representation protects the vending facility operations in the State by supporting the interests 
+of the RSVFP and the licensed blind vendors in the State. The SLA’s hiring of the attorney in 
+this matter is systematic, as required by both 34 C.F.R. §§ 361.49(a)(5)(i) and 395.1(j), 
+because the resolution of the issue could impact all vending facilities with teaming partners 
+and the health of the RSVFP, and the SLA did so in accordance with the State’s policies and 
+procedures for such activities. Therefore, based on the facts in this example, the attorney’s 
+legal services constitute “management services” under both the VR program and RSVFP -- 
+provided on a “systematic basis to support and improve” the vending facilities operated 
+under the RSVFP. Because these legal fees constitute allowable management services, the 
+SLA may use either VR program funds or RSVFP set-aside funds to pay these costs, as well 
+as any SLA personnel time associated with contracting the legal services. 
+ 
+At the conclusion of the legal matter, should the SLA determine it necessary to retain the 
+attorney further to provide specialized consultation services to assist the SLA and licensed 
+blind vendor in choosing a new teaming partner, such legal services also constitute 
+“management services” for both the VR program and RSVFP. Although the attorney would 
+advise only the SLA and this one vendor, their advice is systematic in that it would apply to 
+all vendors in the State and would be implemented methodically in other similar factual 
+circumstances. For example, the attorney advises the vendor on facts to consider in choosing 
+a teaming partner, as well as points to remember for ensuring a successful vendor-teaming 
+partner relationship. This systematic advice benefits the operation of the vending facility 
+within the broader RSVFP system by ensuring it succeeds and avoids the pitfalls of legal 
+disputes. Other vendors in the State benefit from this advice as well when shared with them 
+by the SLA. Therefore, this specialized consultation service, as described here, constitutes
+
+13 
+management services for purposes of both the VR program and RSVFP. As such, the SLA 
+may use either VR program funds or RSVFP set-aside funds to pay these costs, as well as the 
+SLA personnel time to manage that legal services contract, which also constitutes 
+management services. 
+ 
+8. The SLA negotiated an agreement with a teaming partner to settle a dispute and has agreed to 
+pay the teaming partner an amount to end the contract, thereby enabling the licensed blind 
+vendor to enter into a business relationship with a different teaming partner. The SLA wants 
+to use Federal VR funds to pay the full negotiated settlement amount to the teaming partner.  
+ 
+Unlike legal fees incurred for consultation purposes on behalf of the SLA for the benefit of 
+licensed blind vendors and determined to constitute “management services,” as described at 
+34 C.F.R. §§ 361.49(a)(5)(i) and 395.1(j) under the factual scenario of Example 7, a legal 
+settlement payment under the facts as presented in Example 8 does not constitute “inspection, 
+quality control, consultation, accounting, regulating, in-service training, and related services 
+provided on a systematic basis to support and improve small business enterprises operated by 
+individuals with significant disabilities.” First, this settlement payment does not constitute 
+one of the identified or related types of activities described at 34 C.F.R. §§ 361.49(a)(5)(i) 
+and 395.1(j) as a “management service.” Second, the settlement payment benefits the adverse 
+party (i.e., the teaming partner), not the licensed blind vendors. As noted in the facts, the 
+teaming partner and licensed blind vendor were in a dispute, which the SLA agreed to settle 
+on behalf of the vendor, paying out a sum of money to the teaming partner. In Example 8, the 
+payment at issue is the legal settlement to the teaming partner – who is adverse to the vendor, 
+not the legal advice provided to reach the settlement agreement, which would be more 
+similar to the allowable legal services provided under the factual scenario in Example 7 
+above. Third, while settling the case could provide an indirect benefit to the RSVFP by 
+reducing the amount of legal costs otherwise incurred and redirecting those funds to other 
+efforts benefiting the RSVFP and VR programs, such a tangential connection does not allow 
+funds spent on settlement costs in one case to become management services provided on a 
+systematic basis to support and improve vending facilities operated by blind vendors as a 
+whole.  
+ 
+For these reasons, the SLA cannot use VR program funds or RSVFP set-aside funds to pay 
+the settlement payments under the facts of Example 8 or administrative costs associated with 
+the actual payment. However, just as in Example 7, the personnel time spent negotiating the 
+settlement, whether directly or contracting with legal services, under the facts in Example 8 
+is a management service.  
+ 
+9. The SLA contracts with an attorney to represent its own interests in a dispute with a blind 
+vendor, including the evidentiary hearing and arbitration proceeding. 
+ 
+Unlike the legal services provided in Example 7 above, which were for the benefit of the 
+RSVFP vending facilities and the licensed blind vendors and clearly to support and improve 
+the vending facilities on a systematic basis, the SLA retains the attorney in Example 9 to 
+provide these legal services to represent its (i.e., the SLA’s) own interests – not the interests 
+of the licensed blind vendors or the RSVFP. To be clear, in Example 7, the SLA hires the
+
+14 
+attorney to assist the licensed blind vendor and their interests because the SLA and vendor 
+are on the same side with similar interests. However, in Example 9, the SLA hires the 
+attorney to represent itself against the vendor and their interest, meaning the SLA and vendor 
+are adverse parties to one another with opposing interests. In Example 9, these legal services 
+do not provide systematic support and improvement for the vending facilities operated under 
+the RSVFP; rather, they oppose the interests of the licensed blind vendor. As such, these legal 
+services in the factual scenario of Example 9 do not constitute “management services” as 
+described at 34 C.F.R. §§ 361.49(a)(5)(i) and 395.1(j). Therefore, the SLA cannot use VR 
+program funds or RSVFP set-aside funds for this purpose or for any associated administrative 
+costs for the personnel time to manage the legal services contract. The personnel time does 
+not constitute management services for the same reason that the legal services in this 
+example do not.  
+ 
+Having said this, SLAs may allocate such legal fees to the RSVFP (as a program, but not to 
+the RSVFP set-aside funds) because, under certain circumstances, such costs are reasonable 
+in the SLA’s administration of the RSVFP. Specifically, the R-S Act (20 U.S.C. § 107d–1(a)) 
+and 34 C.F.R. § 395.13) requires that the SLA conduct a full evidentiary hearing when a 
+blind vendor is “dissatisfied with any action arising from the operation or administration of 
+the vending facility program.” After the evidentiary hearing, blind vendors dissatisfied with 
+any action taken or decision rendered from the hearing may file a complaint with the 
+Secretary of Education, requesting arbitration under the R-S Act (20 U.S.C. § 107d–1(a) and 
+34 C.F.R. § 395.13), thereby necessitating legal assistance by the SLA to defend its interest in 
+these matters. As such, SLAs may allocate these legal expenses only to the RSVFP because 
+they benefit only that program and none other. SLAs may not allocate these costs to the VR 
+program because the VR program does not benefit from these costs nor do these costs aid in 
+the administration of the VR program’s requirements. 
+ 
+Because the RSVFP receives no Federal funding, it must subsist on State appropriated and 
+other non-Federal funding, as well as VR funds and RSVFP set-aside funds to the extent 
+either of these two sources of funds are allowable, to cover certain costs incurred under the 
+RSVFP. As stated above, these legal services and their associated administrative costs do not 
+constitute allowable management services under either the VR program or RSVFP 
+requirements, thereby rendering VR program funds and RSVFP set-aside funds as 
+unallowable sources of funding for this purpose. However, SLAs may pay for these legal fees 
+and their administrative costs with State appropriated or other non-Federal funds, to the 
+extent such costs are consistent with the requirements of those funding sources, but the SLA 
+cannot count these expenditures toward satisfying its match and MOE requirements under the 
+VR program since these costs are not allowable under that program. 
+ 
+10. The SLA leases a warehouse to store RSVFP equipment, but a State building has become 
+available to the agency for this purpose. The building requires extensive renovations to 
+ensure the usability of the space to store RSVFP equipment. The SLA wants to use VR 
+program funds to pay the costs of these renovations. 
+ 
+Section 103(b)(1) of the Rehabilitation Act and 34 C.F.R. § 361.49(a)(5) permit a VR agency, 
+in pertinent part, to expend VR program funds for the acquisition of vending facilities and
+
+15 
+equipment13, and management services provided on a systematic basis to support and 
+improve vending facilities operated by licensed blind vendors. There is no time limit imposed 
+on the provision of these services.  
+ 
+The regulations at 34 C.F.R. §§ 361.49(a)(5)(i) and 395.1(j) do not provide an exhaustive list 
+of examples of “management services”; however, the regulation makes clear that these 
+activities include inspection, accounting, quality control, and related services provided on a 
+systematic basis to improve and support vending facilities operated by licensed blind 
+vendors. On a very basic level, under the factual scenario in Example 10, the warehousing of 
+stored vending equipment and the personnel time to manage the warehousing of that stored 
+equipment would fall within the scope of “management services” because it involves the 
+inspection of that equipment, inventorying of that equipment for accounting purposes, and 
+ensuring quality control of the condition of the stored equipment. The SLA personnel 
+performs these activities on a systematic basis (i.e., methodical and standardized) for the 
+benefit and support of all vending facilities operated in the State. For this reason, under the 
+facts of Example 10, the SLA may use VR program funds and RSVFP set-aside funds to pay 
+the costs associated in general with the warehousing of stored vending equipment, including 
+the costs to ready the space for storing the equipment and the SLA personnel time for 
+warehousing the equipment)  
+ 
+Although the storage of vending equipment and readying the State-owned warehouse for that 
+purpose would constitute management services, to spend VR funds or RSVFP set-aside funds 
+on such a capital improvement project (i.e., readying the space to house the stored 
+equipment) requires prior written approval from RSA. (2 C.F.R. § 200.407). Therefore, with 
+respect to the specific improvements to the new State-owned warehouse building that are 
+necessary to house the equipment and the cost of those improvements in Example 10, the VR 
+agency must request prior written approval from RSA. Factors RSA uses to determine 
+whether to grant prior written approval include, but are not limited to: 
+ 
+• how the agency demonstrates its compliance with 2 C.F.R. § 200.316, which protects the 
+Federal interest by requiring real property, equipment, and intangible property, acquired, 
+or improved with a Federal award, to be held in trust by the grantee as trustee for the 
+beneficiaries of the program under which the property was acquired or improved. This 
+could involve the VR agency receiving written binding assurances from the State 
+property authority that guarantee the building will be held for the VR program’s sole use 
+for the duration of the usable life of the capital improvements;  
+• whether the agency followed its State procurement policies as required under 2 C.F.R. § 
+200.317; and 
+• the necessity, reasonableness, and allocability of the costs in accordance with 2 C.F.R. §§ 
+200.403 through 200.405.  
+ 
+Because these costs are allowable management services costs under both the VR program 
+and RSVFP, all expenditures incurred with non-Federal funds (including RSVFP set-aside 
+ 
+13  For more information regarding the use of VR program funds and RSVFP set-aside funds with respect to 
+vending facilities and equipment, please see RSA-TAC-24-06, Allowable Costs for Vending Facilities and 
+Equipment for Vendors Under the Randolph-Sheppard Vending Facility Program, dated August 13, 2024.
+
+16 
+funds) count toward the State’s match and MOE requirements. This would be true for any 
+expenditures incurred for SLA personnel time to manage the inventory of the RSVFP 
+equipment or to request prior written approval from RSA because these expenditures also 
+would constitute management services for both the VR program and RSVFP.  
+  
+11. The SLA acquires and converts a vending facility from a vending machine facility to a micro 
+market. This requires the acquisition of new equipment and additional stocks and supplies 
+not previously sold in the vending machines. To install the new equipment (e.g., wall-to-wall 
+refrigerator cases and wall-to-wall shelving), the SLA hires a plumber, electrician, and 
+carpenter to do the necessary work associated with their installations. The SLA also contracts 
+with CCC Corp. to develop a financial and data management software that can be used by all 
+micro markets in the RSVFP for reporting purposes, including this new micro market. The 
+contract includes individualized technical assistance for each of the micro market vendors, as 
+needed, to answer their specific questions when using the software. The vendors will use the 
+software to do their own bookkeeping, but also to report data to the SLA for the RSA-15 
+report. The SLA wants to pay all costs associated with the conversion of this vending facility 
+to a micro market with Federal VR program funds and report the expenditures as 
+“management services.”  
+ 
+Most of the expenditures described in Example 11 do not constitute “management services” 
+as that term is described at 34 C.F.R. §§ 361.49(a)(5)(i) and 395.1(j). Rather, most of the 
+expenditures pertain to the acquisition of a single vending facility (i.e., converting it from a 
+vending machine facility to a micro market facility), the acquisition of equipment, and the 
+purchase of initial stocks and supplies, as permitted by Section 103(b)(1) of the 
+Rehabilitation Act and 34 C.F.R. § 361.49(a)(5). In addition, 34 C.F.R. § 395.9(b)(2) 
+authorizes the use of RSVFP set-aside funds to purchase the equipment and ready the space 
+to install it. However, the SLA cannot use RSVFP set-aside funds to pay for the purchase of 
+initial stocks and supplies since they are not allowable expenditures under the RSVFP; this 
+means it can use only VR program funds to pay these costs. Therefore, any SLA personnel 
+time incurred for the purpose of purchasing the initial stocks and supplies could be paid only 
+with VR program funds as “management services” since the underlying service is allowable 
+only with VR program funds; in other words, RSVFP set-aside funds cannot pay this 
+personnel time as management services.  
+ 
+With respect to the contract with CCC Corp. to develop a new financial and data 
+management system exclusively for the micro market vending facilities in the State, these 
+development costs would constitute “management services under these facts.” As permitted 
+by 34 C.F.R. §§ 361.49(a)(5)(i) and 395.1(j), “management services” include consultation, 
+accounting, and related services provided on a systematic basis to support and improve the 
+operation of vending facilities operated by licensed blind vendors under the RSVFP. In this 
+case, CCC Corp. develops the financial and data management system to improve the 
+financial and data management for all micro markets in the RSVFP, not tailored for the needs 
+of particular vendors or vending facilities. CCC Corp. rolls out the software methodically to 
+benefit the RSVFP micro market vending system. All micro market vendors will use the 
+system to manage and report their financial data to the SLA who, in turn, will use that data to 
+report the data on the RSA-15. The vendors also will use this data management system for
+
+17 
+their own bookkeeping purposes; they will use the system to generate their own income and 
+sales tax reports and 1099s and other such required forms and reports. In other words, CCC 
+Corp. does not do the bookkeeping or data management work for the vendors; rather CCC 
+Corp. simply developed the software that provides a standardized methodology – a 
+systematic approach for the delivery of the services – so the vendors are able to work as 
+independent business operators, thereby supporting and improving the RSVFP on a 
+systematic basis. As such, the software development and its implementation meet a 
+fundamental criterion for “management services.” As a “management service,” under the 
+facts of this example, the SLA may use VR program funds and RSVFP set-aside funds to pay 
+the cost associated with this contract for developing and managing the financial and data 
+management system, including any SLA personnel time to manage that portion of the 
+contract. As such, all costs associated with the development of the system, including the 
+personnel time to manage that system, are allowable with both VR program funds and 
+RSVFP set-aside funds, or a combination of both sources of funds. In this example, the SLA 
+personnel time constitutes management services for purposes of both the VR program and 
+RSVFP. All non-Federal expenditures incurred with respect to the development of the 
+financial and data management system, including SLA personnel time to manage it, count 
+toward the State’s match and MOE requirements. 
+ 
+Moreover, the individualized technical assistance (i.e., customer support) provided by CCC 
+Corp. does not change the fundamental nature that this financial and data management 
+system constitutes “management services” under both the VR program and RSVFP. As noted 
+above, the development and implementation of the financial and data management system 
+addresses the needs of the entire RSVFP micro market system. In rolling out the new system, 
+CCC Corp. provides customer support to the vendors using the system, thereby providing 
+consultation services on behalf of the SLA to ensure that the vendors have the information 
+they need to use the system properly and efficiently. In so doing, CCC Corp., providing 
+consultation services to the RSVFP vendors on behalf of the SLA, supports the vendors in 
+their use of the system, thereby improving the financial and other data reported by them to 
+the SLA and eventually to RSA.  
+ 
+12. A State VR agency pays all management services with RSVFP set-aside funds. This State has 
+sufficient non-Federal funds from other sources for the VR program to match its entire grant 
+amount and reallotment funds. So, it does not want to report these expenditures on the 
+RSA-17 as non-Federal expenditures incurred under the VR program. 
+ 
+Regardless of whether a State needs to count all non-Federal expenditures for match 
+purposes (i.e., because it has enough to match all Federal VR funds available to it), the State 
+still must report all allowable non-Federal expenditures incurred under the VR program for 
+MOE purposes. Section 111(a)(2)(B) of the Rehabilitation Act and 34 C.F.R. § 361.62 make 
+clear that to calculate a State’s MOE, the State must compare the total non-Federal 
+expenditures in the prior year with the total non-Federal expenditures incurred two years 
+prior to that year. For that reason, VR agencies must report on their RSA-17 reports all 
+allowable non-Federal expenditures incurred during the Federal Fiscal Year under the VR 
+program, including those non-Federal expenditures incurred for the benefit of the RSVFP 
+under Section 103(b)(1) of the Rehabilitation Act and 34 C.F.R. § 361.49(a)(5). This means
+
+18 
+that the VR agency must report all non-Federal expenditures allowable under the VR 
+program and paid with RSVFP set-aside funds, such as those in this example paid for 
+management services. Only in so doing can the VR agency ensure it accurately reports the 
+total amount of non-Federal expenditures for purposes of determining whether the State 
+satisfied its MOE requirement under the VR program. Therefore, regardless of whether a 
+State needs to use the non-Federal expenditures for match purposes, the State still must 
+report the non-Federal expenditures for MOE purposes. 
+ 
+On the other hand, if the State incurs costs under the RSVFP that are not allowable under the 
+VR program, such as management services associated with fair minimum return or 
+sick/vacation/pension funds, pursuant to 34 C.F.R. § 395.9(b)(4) and (5), respectively, the 
+agency need not report these non-Federal expenditures on the RSA-17. Because these non-
+Federal expenditures are not allowable under the VR program, they do not count toward the 
+State’s match or MOE requirements under the VR program. 
+ 
+SUMMARY: 
+ 
+Under both the VR program and RSVFP, the SLA can provide “management services” through a 
+variety of means on a systematic basis to support and improve vending facilities operated by 
+licensed blind vendors under the RSVFP. The SLA may provide these services directly or may 
+contract with specialists or other entities. Although management services can occur on an on-
+going basis, they differ from ongoing operational costs of the vending facilities themselves 
+because management services provide systematic support to the RSVFP as a whole and are not 
+tailored to the needs of any particular vending facility or vendor. SLAs may use VR program 
+funds and RSVFP set-aside funds to pay for management services, including SLA personnel time 
+to manage those services; however, there may be circumstances, because of the underlying 
+services being supervised, that only RSVFP set-aside funds can be used to pay for the 
+management services and not VR program funds and vice versa. No time limit exists for the 
+provision of management services, regardless of whether SLAs pay for those services with VR 
+program funds, RSVFP set-aside funds, or a combination of the two sources of funds. All costs 
+allowable under the VR program, whether paid with VR or RSVFP set-aside funds, must satisfy 
+the Federal cost principles at 2 C.F.R. §§ 200.403 through 200.405. 
+ 
+EFFECTIVE DATE: Immediately upon issuance. 
+ 
+INQUIRIES: 
+ 
+David Steele, Chief  
+Fiscal Unit  
+David.Steele@ed.gov
+  
+ 
+CITATIONS: 
+ 
+ 
+Rehabilitation Act of 1973
+
+19 
+Randolph-Sheppard Act 
+VR Program Regulations at 34 C.F.R. part 361 at §§ 361.3, 361.5(c)(2), 361.13, 361.49(a)(5), 
+361.60, and 361.62 
+RSVFP regulations at 34 C.F.R. part 395 at §§ 395.1, 395.2, 395.3, 395.9, 395.13, and 395.14 
+Uniform Grants Guidance at 2 C.F.R. part 200 at §§ 200.316, 200.317, 200.403 through 200.405, 
+and 200.407 
+ 
+ 
+        /s/   
+Danté Q. Allen   
+Commissioner  
+ 
+ 
+cc:  Council of State Administrators of Vocational Rehabilitation   
+National Council of State Agencies for the Blind  
+National Association of Blind Merchants

@@ -1,0 +1,144 @@
+FILENAME: im-01-44-pdf-d5bc4ae776c5.pdf
+PATH: _raw/rsa.ed.gov/im-01-44-pdf-d5bc4ae776c5.pdf
+
+U.S. DEPARTMENT OF EDUCATION 
+OFFICE OF SPECIAL EDUCATION AND REHABILITATIVE SERVICES 
+REHABILITATION SERVICES ADMINISTRATION 
+WASHINGTON, D.C.  20202 
+ 
+INFORMATION MEMORANDUM 
+RSA-IM-01-44 
+DATE:  September 25, 2001  
+ 
+TO: STATE VOCATIONAL REHABILITATION AGENCIES (GENERAL) 
+STATE VOCATIONAL REHABILITATION AGENCIES (BLIND) 
+STATE REHABILITATION COUNCILS (SRCs) 
+CLIENT ASSISTANCE PROGRAMS (CAP) 
+REGIONAL REHABILITATION CONTINUING EDUCATION 
+PROGRAM (RRCEPS) 
+AMERICAN INDIAN VOCATIONAL REHABILITATION SERVICES 
+PROJECTS 
+RSA SENIOR MANAGEMENT TEAM 
+ 
+SUBJECT : APPLICABILITY OF THE HEALTH INSURANCE PORTABILITY 
+AND ACCOUNTABILITY ACT OF 1996 TO THE VOCATIONAL 
+REHABILITATION SERVICES PROGRAM 
+ 
+ISSUE: This Information Memorandum (IM) provides clarification of the 
+relationship between the State Vocational Rehabilitation Services program 
+(VR program) under title I of the Rehabilitation Act of 1973, as amended, 
+and the Health Insurance Portability and Accountability Act of 1996 
+(HIPAA).  Specifically, the issue addressed herein is whether the uniform 
+standards and requirements under the HIPAA implementing regulations 
+that govern the electronic transmission of certain health information 
+within the health care industry apply to designated State agencies (VR 
+agencies) administering a State’s VR program. 
+ 
+DISCUSSION: We have consulted extensively with the U.S. Department of Health and 
+Human Services (HHS), the Federal agency responsible for administering 
+HIPAA, on this issue and have learned that, for the reasons set forth 
+below, the requirements governing electronic transmission of health care 
+information – in particular, the Administrative Simplification provisions in 
+Subtitle F of title II under HIPAA and in 45 CFR Parts 160 and 162 – do 
+not apply to State VR agencies. 
+ 
+The scope of entities subject to the electronic transmission standards 
+developed under HIPAA regulations was clarified in final regulations 
+promulgated by HHS on December 28, 2000 (65 FR 82461) which, along 
+with final regulations published on August 17, 2000 (65 FR 50312), 
+establish requirements pertaining to electronic transactions between health
+
+industry entities covered by HIPAA.1  The December 28, 2000 
+regulations, like those published in August, identify “health plans, health 
+care providers, and health care clearinghouses” as “covered entities” that 
+must comply with the transaction codes in 45 CFR Part 162 whenever they 
+transmit certain health information electronically.  For purposes of 
+administering the VR program, however, State VR agencies do not qualify 
+as one of the three covered entities. 
+ 
+This position, which we have confirmed with HHS, is based on the 
+regulatory definitions of the entities covered by the HIPAA regulations.  
+First, the December 28, 2000, regulations revised the definition of the term 
+“health plan” under 45 CFR §160.103.  While a “health plan” includes any 
+“individual or group plan that provides, or pays the cost of, medical care,” 
+subsection (2)(ii) of the definition specifically excludes: 
+ 
+“a government-funded program . . . whose principal purpose is 
+other than providing, or paying the cost of, health care.” 
+ 
+While State VR agencies may, under certain conditions, expend VR 
+program funds to pay for the diagnosis and treatment of an eligible 
+individual’s physical or mental impairment when necessary for the 
+individual to achieve his or her employment goal (see section 103(a)(6) of 
+the Rehabilitation Act and 34 CFR §361.48(e) of the VR program 
+regulations), the provision of medical care is not the primary purpose of 
+the VR program.  Instead, the VR program is “designed to assess, plan, 
+develop, and provide vocational rehabilitation services for individuals 
+with disabilities, consistent with their strengths, resources, priorities, 
+concerns, abilities, capabilities, interests, and informed choice, so that 
+such individuals may prepare for and engage in gainful employment” (see 
+section 100(a)(2) of the Rehabilitation Act).  Thus, the VR program is not 
+a “health plan” as defined in the HIPAA regulations. 
+ 
+Nor does the regulatory definition of “health care provider” [“a provider 
+of  . . . medical or health services, and any other person or organization 
+who furnishes, bills, or is paid for health care in the normal course of 
+business”] accurately describe the VR program.  Preamble language to the 
+December 28, 2000, final regulations makes it clear that “health care 
+providers” include entities that actually provide diagnostic and 
+preventative care and sell and dispense drugs.  Providers of health care 
+services include entities such as hospitals, skilled nursing facilities, home 
+ 1  Congress required HHS to promulgate a set of regulations establishing standards and protections for health 
+information systems.  The first final regulations in this set, Standards for Electronic Transactions, were 
+promulgated on August 17, 2000 (65 Federal Register 50312).  The second final regulations in the set, 
+Standards for Privacy of Individually Identifiable Health Information, were promulgated on December 28, 2000 
+(65 Federal Register 82461).  Additional rules have been proposed, while others have yet to be proposed.  
+Although the regulations promulgated on December 28, 2000 establish the Standards for Privacy, they also 
+amended certain definitions that had been promulgated in August and are relevant to the issue at hand.
+
+health agencies, hospice programs, etc.  (See 65 FR 82477-82478).  In 
+contrast, a VR agency, in arranging and paying for physical and mental 
+restoration services (see 34 CFR §§361.5(b)(40) and 361.48(e)) in certain, 
+limited instances under the VR program, does not “furnish… health care” 
+as the term is used in 45 C.F.R. §160.103.  Thus, VR agencies are not 
+“health care providers” as defined in the HIPAA regulations. 
+ 
+Finally, the regulatory definition of a “health care clearinghouse” [“a 
+public or private entity, including a billing service, repricing company, 
+community health management information system or community health 
+information system, and “value-added” networks and switches, . . . that 
+processes or facilitates the processing of health information . . . “] under 
+45 CFR §160.103 does not accurately describe the VR program.  
+Accordingly, HIPAA does not obligate VR agencies to adopt the 
+electronic transaction standards in Part 162 when providing health 
+information to, or receiving health information from, a health care 
+provider or other “covered entity” in the course of administering the VR 
+program. 
+ 
+CONCLUSION: In summary, neither HIPAA nor its implementing regulations obligate 
+State VR agencies to conform to the regulatory standards for electronic 
+transmission of health information for purposes of administering the VR 
+program. 
+ 
+While RSA has confirmed this position with HHS, this interpretation does 
+not affect any decision by a State to adopt standards for electronic 
+transmission that would cover the VR agency.  The electronic codes or 
+standards that a VR agency is expected to follow when exchanging health 
+information or processing health care transactions is a matter of State 
+discretion. 
+EFFECTIVE  
+DATE: Upon Issuance 
+ 
+INQUIRIES: Any questions concerning this Information Memorandum should be 
+addressed to Allen Kropp at (207) 865-3785 [allen.kropp@ed.gov]. 
+ 
+ 
+/s/ 
+Joanne M. Wilson 
+Commissioner 
+ 
+cc: CSAVR 
+      NORP 
+      NCIL 
+      NAPAS 
+      NRFC

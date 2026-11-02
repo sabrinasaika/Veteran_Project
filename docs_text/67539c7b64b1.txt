@@ -1,0 +1,202 @@
+FILENAME: eta-9169-annualreport-py2023-tx-pdf-23e8c0717562.pdf
+PATH: _raw/rsa.ed.gov/eta-9169-annualreport-py2023-tx-pdf-23e8c0717562.pdf
+
+WIOA STATEWIDE AND LOCAL PREFORMANCE REPORT 
+PY2023
+PROGRAM
+STATE:     Texas                            
+
+From: 7/1/2023 To: 6/30/2024  X
+
+SUMMARY INFORMATION
+Service
+BY PARTICIPANT CHARACTERISTICS
+Num Rate Num Rate Num Rate Num Rate
+Negotiated 
+Target 58.2% 55.5% 45.0% 44.0%
+Actual 11,916 60.8% 11,767 59.1% 2,831 47.9% 9,618 53.2%
+5,645 62.8% 5,543 61.0% 1,218 49.1% 4,373 54.0%
+6,251 59.1% 6,213 57.5% 1,611 47.2% 5,197 52.5%
+112 40.6% 138 43.4% 98 34.0% 975 57.4%
+1,739 62.7% 1,813 60.7% 1,464 54.4% 5,473 58.7%
+1,946 59.5% 1,964 59.8% 653 39.2% 2,055 51.1%
+3,463 63.7% 3,425 62.3% 386 49.5% 809 39.7%
+1,999 61.5% 1,938 59.0% 156 51.7% 199 30.8%
+1,018 58.0% 1,035 56.7% 45 44.6% 72 36.0%
+1,639 57.9% 1,454 53.3% 31 36.9% 35 24.5%
+117 57.1% 93 48.7% 24 40.0% 70 43.2%
+265 61.6% 260 60.7% 68 48.6% 350 51.5%
+2,654 57.6% 2,629 56.0% 758 48.3% 2,076 48.4%
+3,913 63.1% 3,960 62.2% 949 47.8% 3,243 54.4%
+55 64.0% 53 60.9% 16 51.6% 53 53.5%
+8,736 62.3% 8,550 60.2% 1,959 48.1% 7,183 55.0%
+201 64.8% 171 57.2% 62 49.6% 243 50.1%
+89 $5,880
+White 49,001 14,817 $7,407
+More Than One Race 1,477 364 $5,844
+$9,246
+60+ 7,378 3,048 $8,303
+Ethnicity/Race
+American Indian / Alaska Native 727 195 $6,585
+Asian  1,917 437 $8,002
+Black / African American 16,957 4,828 $6,160
+Hispanic / Latino 23,025 6,943 $7,006
+Native Hawaiian / Pacific 
+Islander 336
+Age
+ < 16 2,387 294 $4,009
+16 ‐ 18 15,391 2,846 $4,736
+19 ‐ 24 12,604 3,322 $4,405
+25 ‐ 44 17,333 5,870 $8,280
+45 ‐ 54 9,387 3,423 $9,596
+55 ‐ 59 4,768 1,767
+Total Statewide 69,248 20,570
+$5,600
+Sex
+Female  31,534 9,370 $6,760
+Male 37,437 11,138 $7,459
+$7,118
+N/A 8.6% N/A
+Total Participants 
+Served
+(Cohort Period: 
+07/01/2023 ‐ 
+06/30/2024)
+Total Participants 
+Exited
+(Cohort Period: 
+07/01/2023 ‐ 
+06/30/2024)
+Employment Rate 
+(Q2)2 
+(Cohort Period: 
+07/01/2022 ‐ 
+06/30/2023)
+Employment Rate 
+(Q4)2 
+(Cohort Period: 
+01/01/2022 ‐ 
+12/31/2022)
+Median 
+Earnings        
+(Cohort Period: 
+07/01/2022 ‐ 
+06/30/2023)
+Credential Rate3       
+(Cohort Period: 
+01/01/2022 ‐ 
+12/31/2022)
+Measurable Skill 
+Gains3                    
+(Cohort Period: 
+07/01/2023 ‐ 
+06/30/2024)
+Earnings
+14,023 $98,062,742 $1,811
+Training Services 17,101 1,424 $102,283,843 $5,981
+Percent training‐related employment1:P e r c e n t  enrolled in more than one core program: Percent  Admin Expended:
+OMB Control Number 1205‐0526
+Expiration Date:  04‐30‐2027 ETA‐9169
+Statewide Performance Report
+TITLE (select one):                                                                                                                                         
+Title I Local Area: N/A Title  I Adult  Title II Adult Education
+REPORTING PERIOD COVERED (Required for current and three preceding years.) Title  I Dislocated Worker Title  III Wagner‐Peyser
+Title I Youth Title  IV Vocational Rehabilitation
+Title I and Title III combined
+Participants Served
+(Cohort Period: 
+07/01/2023 ‐ 06/30/2024)
+Participants Exited
+(Cohort Period: 07/01/2023 ‐ 06/30/2024)
+Funds Expended
+(Cohort Period: 07/01/2023 ‐ 
+06/30/2024)
+Cost Per Participant Served
+(Cohort Period: 07/01/2023 ‐ 
+06/30/2024)
+Career Services 54,156
+1
+
+WIOA STATEWIDE AND LOCAL PREFORMANCE REPORT 
+PY2023
+BY EMPLOYMENT BARRIER4
+Num Rate Num Rate Num Rate Num Rate
+Negotiated 
+Target 58.2% 55.5% 45.0% 44.0%
+Actual 11,916 60.8% 11,767 59.1% 2,831 47.9% 9,618 53.2%
+187 59.9% 189 56.4% 50 61.7% 202 56.9%
+4,155 59.3% 4,106 59.1% 957 47.0% 3,445 52.7%
+74 58.3% 84 50.0% 12 41.4% 40 44.9%
+986 49.0% 967 47.5% 192 53.5% 242 39.6%
+149 51.6% 152 53.7% 22 39.3% 93 52.0%
+3,308 49.1% 3,325 48.6% 1,058 44.5% 4,609 53.1%
+3,270 54.7% 3,392 54.9% 649 44.6% 2,109 49.7%
+122 54.7% 118 55.1% 31 52.5% 88 47.3%
+11,916 60.8% 11,767 59.1% 2,831 47.9% 9,618 53.2%
+729 63.3% 701 60.7% 126 47.4% 268 46.0%
+48 59.3% 42 51.9% 24 36.4% 143 54
+Public Burden Statement (1205‐0526) 
+Persons are not required to respond to this collection of information unless it displays a currently valid OMB control number. Respondent’s reply to these reporting requirements is required to obtain 
+or retain benefits (Workforce Innovation and Opportunity Act,
+ Section 185(a)(2)). Public reporting burden for this collection of information is estimated to range between 240 and 360 minutes which 
+averages 300 minutes per response, including the time for reviewing instructions, searching existing data sources, gathering and maintaining the data needed, and completing and reviewing the 
+collection of information. Send comments regarding this burden estimate to the Office of Policy Development and Research ● U.S. Department of Labor ● Room N‐5641 ● 200 ConsƟtuƟon Ave., NW, 
+● Washington, DC ● 20210. Do NOT send the completed 9169 applicaƟon to this address.
+Youth in foster care or aged out of system 531 108 $3,942
+1Applies to Title I only.
+2This indicator also includes those who entered into a training or education program for the Youth program.   
+3Credential Rate and Measurable Skill Gains do not apply to the Wagner‐Peyser program.
+4Barriers to Employment are determined at the point of entry into the program. 
+Migrant and Seasonal Farmworkers 653 210 $5,290
+Individuals with Disabilities (incl. youth) 69,248 20,570 $7,118
+Single Parents (incl. single pregnant 
+women) 3,475 1,152 $6,911
+Homeless Individuals / runaway youth 972 319 $7,547
+Long‐term Unemployed                                      
+(27 or more consecutive weeks) 28,462 7,403 $4,763
+Low‐Income Individuals 21,636 6,726 $5,686
+English Language Learners, Low Levels of 
+Literacy, Cultural Barriers 25,160 7,520 $6,137
+Exhausting TANF within 2 years (Part A Title 
+IV of the Social Security Act) 499 163 $6,068
+Ex‐offenders 5,604 2,117 $7,060
+Total Statewide 69,248 20,570
+$5,600
+$7,118
+Displaced Homemakers 1,334 380 $6,000
+Total Participants 
+Served
+(Cohort Period: 
+07/01/2023 ‐ 
+06/30/2024)
+Total Participants 
+Exited
+(Cohort Period: 
+07/01/2023 ‐ 
+06/30/2024)
+Employment Rate 
+(Q2)2 
+(Cohort Period: 
+07/01/2022 ‐ 
+06/30/2023)
+Employment Rate 
+(Q4)2 
+(Cohort Period: 
+01/01/2022 ‐ 
+12/31/2022)
+Median 
+Earnings        
+(Cohort Period: 
+07/01/2022 ‐ 
+06/30/2023)
+Credential Rate3       
+(Cohort Period: 
+01/01/2022 ‐ 
+12/31/2022)
+Measurable Skill 
+Gains3                    
+(Cohort Period: 
+07/01/2023 ‐ 
+06/30/2024)
+Earnings
+2

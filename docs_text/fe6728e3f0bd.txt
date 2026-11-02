@@ -1,0 +1,57 @@
+FILENAME: r-s-20state-20liaisons-20-11-03-2021-xlsx-052dcab64472.xlsx
+PATH: _raw/rsa.ed.gov/r-s-20state-20liaisons-20-11-03-2021-xlsx-052dcab64472.xlsx
+
+=== SHEET: R-S State Liaisons ===
+Randolph-Sheppard Liaisons by State						
+State	First Name	Last Name	Email			
+Alabama	Christine	Grassman	christine.grassman@ed.gov			
+Alaska	Jim	McCarthy	james.mccarthy@ed.gov			
+Arizona	Jim	McCarthy	james.mccarthy@ed.gov			
+Arkansas	Christine	Grassman	christine.grassman@ed.gov			
+California	Jim	McCarthy	james.mccarthy@ed.gov			
+Colorado	Jim	McCarthy	james.mccarthy@ed.gov			
+Connecticut	Jesse	Hartle	jesse.hartle@ed.gov			
+Delaware	Jesse	Hartle	jesse.hartle@ed.gov			
+District of Columbia	Jesse	Hartle	jesse.hartle@ed.gov			
+Florida	Jesse	Hartle	jesse.hartle@ed.gov			
+Georgia	Christine	Grassman	christine.grassman@ed.gov			
+Hawaii	jim	McCarthy	james.mccarthy@ed.gov			
+Idaho	Jim	McCarthy	james.mccarthy@ed.gov			
+Illinois	Christine	Grassman	christine.grassman@ed.gov			
+Indiana	Christine	Grassman	christine.grassman@ed.gov			
+Iowa	Christine	Grassman	christine.grassman@ed.gov			
+Kansas	Jim	McCarthy	james.mccarthy@ed.gov			
+Kentucky	Christine	Grassman	christine.grassman@ed.gov			
+Louisiana	Christine	Grassman	christine.grassman@ed.gov			
+Maine	Jesse	Hartle	jesse.hartle@ed.gov			
+Maryland	Jesse	Hartle	jesse.hartle@ed.gov			
+Massachusetts	Jesse	Hartle	jesse.hartle@ed.gov			
+Michigan	Christine	Grassman	christine.grassman@ed.gov			
+Minnesota	Jim	McCarthy	james.mccarthy@ed.gov			
+Mississippi	Christine	Grassman	christine.grassman@ed.gov			
+Missouri	Christine	Grassman	christine.grassman@ed.gov			
+Montana	Jim	McCarthy	james.mccarthy@ed.gov			
+Nebraska	Jim	McCarthy	james.mccarthy@ed.gov			
+Nevada	Jim	McCarthy	james.mccarthy@ed.gov			
+New Hampshire	Jesse	Hartle	jesse.hartle@ed.gov			
+New Jersey	Jesse	Hartle	jesse.hartle@ed.gov			
+New Mexico	Jim	McCarthy	james.mccarthy@ed.gov			
+New York	Jesse	Hartle	jesse.hartle@ed.gov			
+North Carolina	Jesse	Hartle	jesse.hartle@ed.gov			
+North Dakota	Christine	Grassman	christine.grassman@ed.gov			
+Ohio	Christine	Grassman	christine.grassman@ed.gov			
+Oklahoma	Christine	Grassman	christine.grassman@ed.gov			
+Oregon	jim	McCarthy	james.mccarthy@ed.gov			
+Pennsylvania	Jesse	Hartle	jesse.hartle@ed.gov			
+Puerto Rico	jim	McCarthy	james.mccarthy@ed.gov			
+Rhode Island	Jesse	Hartle	jesse.hartle@ed.gov			
+South Carolina	Jesse	Hartle	jesse.hartle@ed.gov			
+South Dakota	Christine	Grassman	christine.grassman@ed.gov			
+Tennessee	Christine	Grassman	christine.grassman@ed.gov			
+Texas	Jim	McCarthy	james.mccarthy@ed.gov			
+Utah	jim	McCarthy	james.mccarthy@ed.gov			
+Vermont	Jesse	Hartle	jesse.hartle@ed.gov			
+Virginia	Jesse	Hartle	jesse.hartle@ed.gov			
+Washington	Jim	McCarthy	james.mccarthy@ed.gov			
+West Virginia	Jesse	Hartle	jesse.hartle@ed.gov			
+Wisconsin	Christine	Grassman	christine.grassman@ed.gov

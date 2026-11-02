@@ -1,0 +1,1544 @@
+{
+  "source_type": "jvr_pdf_candidate",
+  "doi": "10.1177/10522263251376525",
+  "doi_url": "https://doi.org/10.1177/10522263251376525",
+  "source_url": "https://journals.sagepub.com/doi/10.1177/10522263251376525",
+  "attempted_pdf_urls": [
+    "https://journals.sagepub.com/doi/pdf/10.1177/10522263251376525",
+    "https://journals.sagepub.com/doi/10.1177/10522263251376525",
+    "https://doi.org/10.1177/10522263251376525",
+    "https://content.iospress.com/download?id=10.1177/10522263251376525"
+  ],
+  "selected_pdf_url": "",
+  "selected_final_url": "",
+  "download_status": "unavailable",
+  "match": {
+    "veteran_hits": [
+      "va "
+    ],
+    "pathway_hits": [
+      "employment",
+      "careers"
+    ],
+    "disability_hits": [
+      "disability",
+      "disabilities"
+    ]
+  },
+  "openalex": {
+    "id": "https://openalex.org/W4414154014",
+    "doi": "https://doi.org/10.1177/10522263251376525",
+    "title": "Vocational Adaptation and Workplace Challenges of Employees with Disabilities in a Special Subsidiary: A 4S Model Perspective",
+    "display_name": "Vocational Adaptation and Workplace Challenges of Employees with Disabilities in a Special Subsidiary: A 4S Model Perspective",
+    "publication_year": 2025,
+    "publication_date": "2025-09-11",
+    "ids": {
+      "openalex": "https://openalex.org/W4414154014",
+      "doi": "https://doi.org/10.1177/10522263251376525"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/10522263251376525",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/10522263251376525",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S190353498",
+        "display_name": "Journal of Vocational Rehabilitation",
+        "issn_l": "1052-2263",
+        "issn": [
+          "1052-2263",
+          "1878-6316"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310318577",
+        "host_organization_name": "IOS Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310318577"
+        ],
+        "host_organization_lineage_names": [
+          "IOS Press"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Vocational Rehabilitation",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5107106679",
+          "display_name": "Takayasu Fukuma",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I2800475679",
+            "display_name": "Social Welfare Department",
+            "ror": "https://ror.org/01qcc6q77",
+            "country_code": "HK",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I2800475679"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I201954162",
+            "display_name": "University of Kochi",
+            "ror": "https://ror.org/02v1sf687",
+            "country_code": "JP",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I201954162"
+            ]
+          }
+        ],
+        "countries": [
+          "HK",
+          "JP"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Takayasu Fukuma",
+        "raw_affiliation_strings": [
+          "University of Kochi",
+          "Department of Social Welfare, Faculty of Social Welfare, University of Kochi, Kochi City, Japan"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of Kochi",
+            "institution_ids": [
+              "https://openalex.org/I201954162"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Social Welfare, Faculty of Social Welfare, University of Kochi, Kochi City, Japan",
+            "institution_ids": [
+              "https://openalex.org/I2800475679",
+              "https://openalex.org/I201954162"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 2,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5107106679"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I201954162",
+      "https://openalex.org/I2800475679"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.25273848,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": "63",
+      "issue": "3",
+      "first_page": "342",
+      "last_page": "354"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11514",
+      "display_name": "Disability Education and Employment",
+      "score": 0.9945999979972839,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3311",
+        "display_name": "Safety Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11514",
+        "display_name": "Disability Education and Employment",
+        "score": 0.9945999979972839,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3311",
+          "display_name": "Safety Research"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11631",
+        "display_name": "Retirement, Disability, and Employment",
+        "score": 0.9943000078201294,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3317",
+          "display_name": "Demography"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10208",
+        "display_name": "Labor market dynamics and wage inequality",
+        "score": 0.9835000038146973,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2002",
+          "display_name": "Economics and Econometrics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/20",
+          "display_name": "Economics, Econometrics and Finance"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/adaptation",
+        "display_name": "Adaptation (eye)",
+        "score": 0.7296000123023987
+      },
+      {
+        "id": "https://openalex.org/keywords/socialization",
+        "display_name": "Socialization",
+        "score": 0.6884999871253967
+      },
+      {
+        "id": "https://openalex.org/keywords/perspective",
+        "display_name": "Perspective (graphical)",
+        "score": 0.6714000105857849
+      },
+      {
+        "id": "https://openalex.org/keywords/vocational-education",
+        "display_name": "Vocational education",
+        "score": 0.47859999537467957
+      },
+      {
+        "id": "https://openalex.org/keywords/face",
+        "display_name": "Face (sociological concept)",
+        "score": 0.4189999997615814
+      },
+      {
+        "id": "https://openalex.org/keywords/supported-employment",
+        "display_name": "Supported employment",
+        "score": 0.4122999906539917
+      },
+      {
+        "id": "https://openalex.org/keywords/emotional-labor",
+        "display_name": "Emotional labor",
+        "score": 0.39640000462532043
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C139807058",
+        "wikidata": "https://www.wikidata.org/wiki/Q352374",
+        "display_name": "Adaptation (eye)",
+        "level": 2,
+        "score": 0.7296000123023987
+      },
+      {
+        "id": "https://openalex.org/C25032326",
+        "wikidata": "https://www.wikidata.org/wiki/Q185467",
+        "display_name": "Socialization",
+        "level": 2,
+        "score": 0.6884999871253967
+      },
+      {
+        "id": "https://openalex.org/C12713177",
+        "wikidata": "https://www.wikidata.org/wiki/Q1900281",
+        "display_name": "Perspective (graphical)",
+        "level": 2,
+        "score": 0.6714000105857849
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.6549000144004822
+      },
+      {
+        "id": "https://openalex.org/C668760",
+        "wikidata": "https://www.wikidata.org/wiki/Q6869278",
+        "display_name": "Vocational education",
+        "level": 2,
+        "score": 0.47859999537467957
+      },
+      {
+        "id": "https://openalex.org/C75630572",
+        "wikidata": "https://www.wikidata.org/wiki/Q538904",
+        "display_name": "Applied psychology",
+        "level": 1,
+        "score": 0.4542999863624573
+      },
+      {
+        "id": "https://openalex.org/C2779304628",
+        "wikidata": "https://www.wikidata.org/wiki/Q3503480",
+        "display_name": "Face (sociological concept)",
+        "level": 2,
+        "score": 0.4189999997615814
+      },
+      {
+        "id": "https://openalex.org/C2778965245",
+        "wikidata": "https://www.wikidata.org/wiki/Q2499074",
+        "display_name": "Supported employment",
+        "level": 3,
+        "score": 0.4122999906539917
+      },
+      {
+        "id": "https://openalex.org/C136103064",
+        "wikidata": "https://www.wikidata.org/wiki/Q1044045",
+        "display_name": "Emotional labor",
+        "level": 2,
+        "score": 0.39640000462532043
+      },
+      {
+        "id": "https://openalex.org/C137176749",
+        "wikidata": "https://www.wikidata.org/wiki/Q4105337",
+        "display_name": "Psychological resilience",
+        "level": 2,
+        "score": 0.35339999198913574
+      },
+      {
+        "id": "https://openalex.org/C94124525",
+        "wikidata": "https://www.wikidata.org/wiki/Q912550",
+        "display_name": "Categorization",
+        "level": 2,
+        "score": 0.35109999775886536
+      },
+      {
+        "id": "https://openalex.org/C2776788475",
+        "wikidata": "https://www.wikidata.org/wiki/Q815298",
+        "display_name": "Occupational stress",
+        "level": 2,
+        "score": 0.34529998898506165
+      },
+      {
+        "id": "https://openalex.org/C77805123",
+        "wikidata": "https://www.wikidata.org/wiki/Q161272",
+        "display_name": "Social psychology",
+        "level": 1,
+        "score": 0.3003000020980835
+      },
+      {
+        "id": "https://openalex.org/C2776795518",
+        "wikidata": "https://www.wikidata.org/wiki/Q7256373",
+        "display_name": "Psychological adaptation",
+        "level": 2,
+        "score": 0.29030001163482666
+      },
+      {
+        "id": "https://openalex.org/C39549134",
+        "wikidata": "https://www.wikidata.org/wiki/Q133080",
+        "display_name": "Public relations",
+        "level": 1,
+        "score": 0.287200003862381
+      },
+      {
+        "id": "https://openalex.org/C3017945913",
+        "wikidata": "https://www.wikidata.org/wiki/Q5283089",
+        "display_name": "Emotional distress",
+        "level": 3,
+        "score": 0.2721000015735626
+      },
+      {
+        "id": "https://openalex.org/C3018916638",
+        "wikidata": "https://www.wikidata.org/wiki/Q752118",
+        "display_name": "Emotional support",
+        "level": 3,
+        "score": 0.2506999969482422
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1177/10522263251376525",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1177/10522263251376525",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S190353498",
+          "display_name": "Journal of Vocational Rehabilitation",
+          "issn_l": "1052-2263",
+          "issn": [
+            "1052-2263",
+            "1878-6316"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310318577",
+          "host_organization_name": "IOS Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310318577"
+          ],
+          "host_organization_lineage_names": [
+            "IOS Press"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Vocational Rehabilitation",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "content_urls": null,
+    "referenced_works_count": 47,
+    "referenced_works": [
+      "https://openalex.org/W432573982",
+      "https://openalex.org/W1511513056",
+      "https://openalex.org/W1556769229",
+      "https://openalex.org/W1562208008",
+      "https://openalex.org/W1893199675",
+      "https://openalex.org/W1984056111",
+      "https://openalex.org/W1986956116",
+      "https://openalex.org/W1992664766",
+      "https://openalex.org/W1998084750",
+      "https://openalex.org/W2023569429",
+      "https://openalex.org/W2039151696",
+      "https://openalex.org/W2057111810",
+      "https://openalex.org/W2072518039",
+      "https://openalex.org/W2076196675",
+      "https://openalex.org/W2079576434",
+      "https://openalex.org/W2084389751",
+      "https://openalex.org/W2096615112",
+      "https://openalex.org/W2116544216",
+      "https://openalex.org/W2118639955",
+      "https://openalex.org/W2118847637",
+      "https://openalex.org/W2132062004",
+      "https://openalex.org/W2144584009",
+      "https://openalex.org/W2156435103",
+      "https://openalex.org/W2168709143",
+      "https://openalex.org/W2181455115",
+      "https://openalex.org/W2212401464",
+      "https://openalex.org/W2250676866",
+      "https://openalex.org/W2295295651",
+      "https://openalex.org/W2412191716",
+      "https://openalex.org/W2743534813",
+      "https://openalex.org/W2770821899",
+      "https://openalex.org/W2893073171",
+      "https://openalex.org/W2911439198",
+      "https://openalex.org/W2952953987",
+      "https://openalex.org/W3023775600",
+      "https://openalex.org/W3095210168",
+      "https://openalex.org/W3123937637",
+      "https://openalex.org/W3207751613",
+      "https://openalex.org/W4224565050",
+      "https://openalex.org/W4224929701",
+      "https://openalex.org/W4242883546",
+      "https://openalex.org/W4246700026",
+      "https://openalex.org/W4301006247",
+      "https://openalex.org/W4315796340",
+      "https://openalex.org/W4391350859",
+      "https://openalex.org/W4407372998",
+      "https://openalex.org/W4408359872"
+    ],
+    "related_works": [
+      "https://openalex.org/W2899084033",
+      "https://openalex.org/W2380390437",
+      "https://openalex.org/W2375879481",
+      "https://openalex.org/W2379499042",
+      "https://openalex.org/W2085030793",
+      "https://openalex.org/W2379042346",
+      "https://openalex.org/W2358108624",
+      "https://openalex.org/W4285294884",
+      "https://openalex.org/W2355752246",
+      "https://openalex.org/W2377797706"
+    ],
+    "abstract_inverted_index": {
+      "Background": [
+        0
+      ],
+      "Despite": [
+        1
+      ],
+      "recent": [
+        2
+      ],
+      "policy": [
+        3
+      ],
+      "initiatives": [
+        4
+      ],
+      "promoting": [
+        5
+      ],
+      "disability": [
+        6
+      ],
+      "employment,": [
+        7
+      ],
+      "employees": [
+        8,
+        64,
+        85,
+        207
+      ],
+      "with": [
+        9,
+        34,
+        65,
+        83,
+        86,
+        208
+      ],
+      "disabilities": [
+        10,
+        66
+      ],
+      "in": [
+        11,
+        74
+      ],
+      "Japan": [
+        12
+      ],
+      "often": [
+        13
+      ],
+      "face": [
+        14
+      ],
+      "considerable": [
+        15
+      ],
+      "adaptation": [
+        16,
+        60,
+        100,
+        131,
+        180
+      ],
+      "challenges": [
+        17,
+        61,
+        132,
+        154
+      ],
+      "during": [
+        18,
+        67
+      ],
+      "the": [
+        19,
+        162,
+        187
+      ],
+      "early": [
+        20,
+        178
+      ],
+      "stages": [
+        21
+      ],
+      "of": [
+        22,
+        72,
+        189
+      ],
+      "their": [
+        23,
+        68
+      ],
+      "careers.": [
+        24
+      ],
+      "Issues": [
+        25
+      ],
+      "such": [
+        26
+      ],
+      "as": [
+        27,
+        135
+      ],
+      "role": [
+        28
+      ],
+      "ambiguity,": [
+        29
+      ],
+      "low": [
+        30
+      ],
+      "self-efficacy,": [
+        31,
+        150
+      ],
+      "and": [
+        32,
+        41,
+        57,
+        108,
+        160,
+        181,
+        193,
+        202
+      ],
+      "difficulties": [
+        33
+      ],
+      "emotional": [
+        35,
+        151
+      ],
+      "regulation": [
+        36
+      ],
+      "can": [
+        37
+      ],
+      "heighten": [
+        38
+      ],
+      "stress": [
+        39
+      ],
+      "levels": [
+        40
+      ],
+      "increase": [
+        42
+      ],
+      "turnover": [
+        43
+      ],
+      "risk,": [
+        44
+      ],
+      "particularly": [
+        45
+      ],
+      "within": [
+        46
+      ],
+      "highly": [
+        47
+      ],
+      "regulated": [
+        48
+      ],
+      "employment": [
+        49,
+        73,
+        204
+      ],
+      "settings.": [
+        50
+      ],
+      "Objective": [
+        51
+      ],
+      "This": [
+        52
+      ],
+      "study": [
+        53
+      ],
+      "aimed": [
+        54
+      ],
+      "to": [
+        55,
+        97,
+        123,
+        197
+      ],
+      "identify": [
+        56
+      ],
+      "categorize": [
+        58
+      ],
+      "workplace": [
+        59,
+        179
+      ],
+      "experienced": [
+        62
+      ],
+      "by": [
+        63,
+        103
+      ],
+      "first": [
+        69
+      ],
+      "five": [
+        70
+      ],
+      "years": [
+        71
+      ],
+      "Japanese": [
+        75
+      ],
+      "special-purpose": [
+        76
+      ],
+      "subsidiaries.": [
+        77
+      ],
+      "Methods": [
+        78
+      ],
+      "Semi-structured": [
+        79
+      ],
+      "interviews": [
+        80
+      ],
+      "were": [
+        81,
+        94,
+        112
+      ],
+      "conducted": [
+        82
+      ],
+      "six": [
+        84
+      ],
+      "psychiatric,": [
+        87
+      ],
+      "developmental,": [
+        88
+      ],
+      "intellectual,": [
+        89
+      ],
+      "or": [
+        90,
+        145
+      ],
+      "visual": [
+        91
+      ],
+      "disabilities.": [
+        92,
+        209
+      ],
+      "Data": [
+        93
+      ],
+      "thematically": [
+        95
+      ],
+      "analyzed": [
+        96
+      ],
+      "uncover": [
+        98
+      ],
+      "key": [
+        99
+      ],
+      "challenges,": [
+        101
+      ],
+      "guided": [
+        102
+      ],
+      "organizational": [
+        104,
+        137
+      ],
+      "socialization,": [
+        105
+      ],
+      "supportive": [
+        106
+      ],
+      "relationship,": [
+        107
+      ],
+      "self-efficacy": [
+        109
+      ],
+      "theories.": [
+        110
+      ],
+      "Findings": [
+        111,
+        185
+      ],
+      "then": [
+        113
+      ],
+      "interpreted": [
+        114
+      ],
+      "through": [
+        115
+      ],
+      "Schlossberg's": [
+        116
+      ],
+      "4S": [
+        117,
+        170
+      ],
+      "model": [
+        118,
+        171
+      ],
+      "(Situation,": [
+        119
+      ],
+      "Self,": [
+        120
+      ],
+      "Support,": [
+        121
+      ],
+      "Strategy)": [
+        122
+      ],
+      "propose": [
+        124
+      ],
+      "evidence-based": [
+        125
+      ],
+      "support": [
+        126,
+        166
+      ],
+      "strategies.": [
+        127
+      ],
+      "Results": [
+        128
+      ],
+      "Eleven": [
+        129
+      ],
+      "distinct": [
+        130
+      ],
+      "emerged,": [
+        133
+      ],
+      "classified": [
+        134
+      ],
+      "either": [
+        136
+      ],
+      "socialization": [
+        138
+      ],
+      "issues": [
+        139,
+        147
+      ],
+      "(e.g.,": [
+        140,
+        148
+      ],
+      "reality": [
+        141
+      ],
+      "shock,": [
+        142
+      ],
+      "unclear": [
+        143
+      ],
+      "expectations)": [
+        144
+      ],
+      "disability-specific": [
+        146
+      ],
+      "reduced": [
+        149
+      ],
+      "stress).": [
+        152
+      ],
+      "These": [
+        153
+      ],
+      "negatively": [
+        155
+      ],
+      "affected": [
+        156
+      ],
+      "participants’": [
+        157
+      ],
+      "psychological": [
+        158
+      ],
+      "well-being": [
+        159
+      ],
+      "underscored": [
+        161
+      ],
+      "need": [
+        163
+      ],
+      "for": [
+        164,
+        176,
+        206
+      ],
+      "individualized": [
+        165
+      ],
+      "measures.": [
+        167
+      ],
+      "Conclusions": [
+        168
+      ],
+      "The": [
+        169
+      ],
+      "provided": [
+        172
+      ],
+      "a": [
+        173
+      ],
+      "valuable": [
+        174
+      ],
+      "framework": [
+        175
+      ],
+      "understanding": [
+        177
+      ],
+      "designing": [
+        182
+      ],
+      "targeted": [
+        183
+      ],
+      "interventions.": [
+        184
+      ],
+      "highlight": [
+        186
+      ],
+      "importance": [
+        188
+      ],
+      "structured": [
+        190
+      ],
+      "onboarding,": [
+        191
+      ],
+      "mentoring,": [
+        192
+      ],
+      "inclusive": [
+        194
+      ],
+      "HR": [
+        195
+      ],
+      "practices": [
+        196
+      ],
+      "promote": [
+        198
+      ],
+      "retention,": [
+        199
+      ],
+      "mental": [
+        200
+      ],
+      "health,": [
+        201
+      ],
+      "long-term": [
+        203
+      ],
+      "sustainability": [
+        205
+      ]
+    },
+    "counts_by_year": [],
+    "updated_date": "2026-03-07T16:01:11.037858",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  "crossref": {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          22
+        ]
+      ],
+      "date-time": "2025-10-22T00:38:55Z",
+      "timestamp": 1761093535920,
+      "version": "build-2065373602"
+    },
+    "reference-count": 49,
+    "publisher": "SAGE Publications",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              11
+            ]
+          ],
+          "date-time": "2025-09-11T00:00:00Z",
+          "timestamp": 1757548800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100001691",
+        "name": "Japan Society for the Promotion of Science",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "22K02010"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "22K02010"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100001691",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.sagepub.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Journal of Vocational Rehabilitation"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          11
+        ]
+      ]
+    },
+    "abstract": "<jats:sec>\n            <jats:title>Background</jats:title>\n            <jats:p>Despite recent policy initiatives promoting disability employment, employees with disabilities in Japan often face considerable adaptation challenges during the early stages of their careers. Issues such as role ambiguity, low self-efficacy, and difficulties with emotional regulation can heighten stress levels and increase turnover risk, particularly within highly regulated employment settings.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Objective</jats:title>\n            <jats:p>This study aimed to identify and categorize workplace adaptation challenges experienced by employees with disabilities during their first five years of employment in Japanese special-purpose subsidiaries.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Methods</jats:title>\n            <jats:p>Semi-structured interviews were conducted with six employees with psychiatric, developmental, intellectual, or visual disabilities. Data were thematically analyzed to uncover key adaptation challenges, guided by organizational socialization, supportive relationship, and self-efficacy theories. Findings were then interpreted through Schlossberg's 4S model (Situation, Self, Support, Strategy) to propose evidence-based support strategies.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Results</jats:title>\n            <jats:p>Eleven distinct adaptation challenges emerged, classified as either organizational socialization issues (e.g., reality shock, unclear expectations) or disability-specific issues (e.g., reduced self-efficacy, emotional stress). These challenges negatively affected participants’ psychological well-being and underscored the need for individualized support measures.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Conclusions</jats:title>\n            <jats:p>The 4S model provided a valuable framework for understanding early workplace adaptation and designing targeted interventions. Findings highlight the importance of structured onboarding, mentoring, and inclusive HR practices to promote retention, mental health, and long-term employment sustainability for employees with disabilities.</jats:p>\n          </jats:sec>",
+    "DOI": "10.1177/10522263251376525",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          11
+        ]
+      ],
+      "date-time": "2025-09-11T17:22:01Z",
+      "timestamp": 1757611321000
+    },
+    "page": "342-354",
+    "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Vocational Adaptation and Workplace Challenges of Employees with Disabilities in a Special Subsidiary: A 4S Model Perspective"
+    ],
+    "prefix": "10.1177",
+    "volume": "63",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0005-1518-7116",
+        "authenticated-orcid": false,
+        "given": "Takayasu",
+        "family": "Fukuma",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "University of Kochi"
+          }
+        ]
+      }
+    ],
+    "member": "179",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          11
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_3_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1348/096317999166789"
+      },
+      {
+        "key": "e_1_3_3_3_1",
+        "volume-title": "Self-efficacy: The exercise of control",
+        "author": "Bandura A.",
+        "year": "1997",
+        "unstructured": "Bandura A. (1997). Self-efficacy: The exercise of control. W. H. Freeman."
+      },
+      {
+        "key": "e_1_3_3_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0021-9010.92.3.707"
+      },
+      {
+        "key": "e_1_3_3_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/hrm.21940"
+      },
+      {
+        "key": "e_1_3_3_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10869-018-9602-5"
+      },
+      {
+        "key": "e_1_3_3_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-8543.2009.00766.x"
+      },
+      {
+        "key": "e_1_3_3_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0090-2616(86)90023-9"
+      },
+      {
+        "key": "e_1_3_3_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0018726700536001"
+      },
+      {
+        "key": "e_1_3_3_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1682/JRRD.2014.10.0260"
+      },
+      {
+        "key": "e_1_3_3_11_1",
+        "volume-title": "The 7 habits of highly effective people: Powerful lessons in personal change",
+        "author": "Covey S. R.",
+        "year": "1989",
+        "unstructured": "Covey S. R. (1989). The 7 habits of highly effective people: Powerful lessons in personal change. Free Press."
+      },
+      {
+        "key": "e_1_3_3_12_1",
+        "volume-title": "Working knowledge: How organizations manage what they know",
+        "author": "Davenport T. H.",
+        "year": "1998",
+        "unstructured": "Davenport T. H., Prusak L. (1998). Working knowledge: How organizations manage what they know. Harvard Business School Press."
+      },
+      {
+        "key": "e_1_3_3_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S1048-9843(00)00061-8"
+      },
+      {
+        "key": "e_1_3_3_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5465/amj.2014.0093"
+      },
+      {
+        "key": "e_1_3_3_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jvb.2010.02.010"
+      },
+      {
+        "key": "e_1_3_3_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/2666999"
+      },
+      {
+        "key": "e_1_3_3_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev-orgpsych-031413-091305"
+      },
+      {
+        "key": "e_1_3_3_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/job.322"
+      },
+      {
+        "key": "e_1_3_3_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jvb.2013.03.011"
+      },
+      {
+        "key": "e_1_3_3_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-201087"
+      },
+      {
+        "key": "e_1_3_3_21_1",
+        "first-page": "315",
+        "volume-title": "Handbook of organizational behavior",
+        "author": "Hackman J. R.",
+        "year": "1987",
+        "unstructured": "Hackman J. R. (1987). The design of work teams. In Lorsch J. W. (Ed.), Handbook of organizational behavior (pp. 315–342). Prentice Hall."
+      },
+      {
+        "key": "e_1_3_3_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev-orgpsych-032117-104631"
+      },
+      {
+        "key": "e_1_3_3_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/hrm.22118"
+      },
+      {
+        "key": "e_1_3_3_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF01107897"
+      },
+      {
+        "key": "e_1_3_3_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0033291715002408"
+      },
+      {
+        "key": "e_1_3_3_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5465/amj.2010.0791"
+      },
+      {
+        "key": "e_1_3_3_27_1",
+        "volume-title": "The social psychology of organizations",
+        "author": "Katz D.",
+        "year": "1966",
+        "unstructured": "Katz D., Kahn R. L. (1966). The social psychology of organizations. John Wiley & Sons."
+      },
+      {
+        "key": "e_1_3_3_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0021-9010.90.2.232"
+      },
+      {
+        "key": "e_1_3_3_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/255910"
+      },
+      {
+        "key": "e_1_3_3_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/hrm.21570"
+      },
+      {
+        "key": "e_1_3_3_31_1",
+        "volume-title": "Stress, appraisal, and coping",
+        "author": "Lazarus R. S.",
+        "year": "1984",
+        "unstructured": "Lazarus R. S., Folkman S. (1984). Stress, appraisal, and coping. Springer."
+      },
+      {
+        "key": "e_1_3_3_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09638288.2017.1363824"
+      },
+      {
+        "key": "e_1_3_3_33_1",
+        "volume-title": "A theory of goal setting & task performance",
+        "author": "Locke E. A.",
+        "year": "1990",
+        "unstructured": "Locke E. A., Latham G. P. (1990). A theory of goal setting & task performance. Prentice Hall."
+      },
+      {
+        "issue": "5",
+        "key": "e_1_3_3_34_1",
+        "first-page": "1331",
+        "article-title": "Disability severity, professional isolation perceptions, and career outcomes: When does leader–member exchange quality matter?",
+        "volume": "49",
+        "author": "Lyons B. J.",
+        "year": "2023",
+        "unstructured": "Lyons B. J., Baldridge D. C., Yang L.-Q., Bryan C. (2023). Disability severity, professional isolation perceptions, and career outcomes: When does leader–member exchange quality matter? Journal of Management, 49(5), 1331–1361. https://doi.org/10.1177/01492063221143714",
+        "journal-title": "Journal of Management"
+      },
+      {
+        "key": "e_1_3_3_35_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.mhp.2016.01.001"
+      },
+      {
+        "key": "e_1_3_3_36_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.sbspro.2014.01.406"
+      },
+      {
+        "key": "e_1_3_3_37_1",
+        "volume-title": "Nonviolent communication: A language of life",
+        "author": "Rosenberg M. B.",
+        "year": "2003",
+        "unstructured": "Rosenberg M. B. (2003). Nonviolent communication: A language of life. PuddleDancer Press."
+      },
+      {
+        "key": "e_1_3_3_38_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0003-066X.55.1.68"
+      },
+      {
+        "key": "e_1_3_3_39_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1529100612436661"
+      },
+      {
+        "key": "e_1_3_3_40_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/apps.12390"
+      },
+      {
+        "key": "e_1_3_3_41_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0003-066X.45.10.1146"
+      },
+      {
+        "key": "e_1_3_3_42_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09585192.2021.1996433"
+      },
+      {
+        "key": "e_1_3_3_43_1",
+        "volume-title": "Counseling adults in transition: Linking practice with theory",
+        "author": "Schlossberg N. K.",
+        "year": "1995",
+        "unstructured": "Schlossberg N. K., Waters E. B., Goodman J. (1995). Counseling adults in transition: Linking practice with theory (2nd ed.). Springer Publishing.",
+        "edition": "2"
+      },
+      {
+        "issue": "2",
+        "key": "e_1_3_3_44_1",
+        "first-page": "1",
+        "article-title": "Exploring the working conditions of disabled employees: A scoping review",
+        "volume": "19",
+        "author": "Teborg S.",
+        "year": "2024",
+        "unstructured": "Teborg S., Hünefeld L., Gerdes T. S. (2024). Exploring the working conditions of disabled employees: A scoping review. Journal of Occupational Medicine and Toxicology, 19(2), 1–18. https://doi.org/10.1186/s12995-023-00397-z",
+        "journal-title": "Journal of Occupational Medicine and Toxicology"
+      },
+      {
+        "key": "e_1_3_3_45_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/h0022100"
+      },
+      {
+        "issue": "3",
+        "key": "e_1_3_3_46_1",
+        "first-page": "1",
+        "article-title": "Adaptations in the workplace as a labor inclusion strategy for people with physical disabilities: An integrative review",
+        "volume": "80",
+        "author": "Urrejola-Contreras D.",
+        "year": "2024",
+        "unstructured": "Urrejola-Contreras D., Lagos-González G., Risco E., Vásquez S. (2024). Adaptations in the workplace as a labor inclusion strategy for people with physical disabilities: An integrative review. Work: A Journal of Prevention, Assessment and Rehabilitation, 80(3), 1–12. https://doi.org/10.1177/10519815241289677",
+        "journal-title": "Work: A Journal of Prevention, Assessment and Rehabilitation"
+      },
+      {
+        "key": "e_1_3_3_47_1",
+        "article-title": "Organizational practices and their outcomes for employees with disabilities: A review and synthesis of quantitative studies",
+        "author": "van Berkel R.",
+        "year": "2025",
+        "unstructured": "van Berkel R., Breit E. (2025). Organizational practices and their outcomes for employees with disabilities: A review and synthesis of quantitative studies. Journal of Occupational Rehabilitation. Advance online publication. https://doi.org/10.1007/s10926-025-10283-6",
+        "journal-title": "Journal of Occupational Rehabilitation"
+      },
+      {
+        "key": "e_1_3_3_48_1",
+        "first-page": "209",
+        "volume-title": "Annual review of research in organizational behavior",
+        "author": "Van Maanen J.",
+        "year": "1979",
+        "unstructured": "Van Maanen J., Schein E. H. (1979). Toward a theory of organizational socialization. In Staw B. M. (Ed.), Annual review of research in organizational behavior (Vol. 1, pp. 209–264). JAI Press."
+      },
+      {
+        "key": "e_1_3_3_49_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1108/ER-06-2019-0248"
+      },
+      {
+        "key": "e_1_3_3_50_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0021-9010.77.3.288"
+      }
+    ],
+    "container-title": [
+      "Journal of Vocational Rehabilitation"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/10522263251376525",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/10522263251376525",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/10522263251376525",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          21
+        ]
+      ],
+      "date-time": "2025-10-21T11:41:49Z",
+      "timestamp": 1761046909000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/10.1177/10522263251376525"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          11
+        ]
+      ]
+    },
+    "references-count": 49,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            11
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1177/10522263251376525"
+    ],
+    "URL": "https://doi.org/10.1177/10522263251376525",
+    "relation": {},
+    "ISSN": [
+      "1052-2263",
+      "1878-6316"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "1052-2263"
+      },
+      {
+        "type": "electronic",
+        "value": "1878-6316"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          11
+        ]
+      ]
+    }
+  }
+}

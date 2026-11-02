@@ -1,0 +1,17 @@
+FILENAME: ia-20attestation-docx-72820443f442.docx
+PATH: _raw/rsa.ed.gov/ia-20attestation-docx-72820443f442.docx
+
+ATTESTATION
+Randolph-Sheppard Financial Relief and Restoration Payments (FRRP) Appropriation
+ASSURANCES and USE of FRRP FUNDS
+I, __(name of blind vendor)________, am a blind vendor in the Iowa Business Enterprises Program (BEP). I incurred the following financial loss in calendar year 2020: Lost net profit in the amount of $____(net profit loss)__________. This is supported with the attached BEP profit and loss report from which the SLA will remove from income, for the purposes of FRRP calculations, any reported forgiven PPP loans (because they are not considered for FRRP), and compares net profit for my business in calendar year 2019 and 2020, unless an ECBV and SLA-approved designated special situation applies. The amount of forgiven PPP loans that should be removed for this calculation is $ _________  and broken out by these monthly amounts (add lines if needed):
+Month ____ 	Amount____
+Month ____	Amount____
+Month ____ 	Amount____
+Month ____	Amount____
+My signature below indicates my confirmation of this loss and that it was not otherwise compensated.
+I understand I am solely responsible for this declaration and that I could be subject to monetary penalties and or disciplinary action should my attestation be found to be untrue.
+For this attestation, “otherwise compensated” is defined as Gifts and Bequests reimbursement, which I attest is included if applicable.
+BEP Vendor Name:
+_________________________________________           __________
+BEP Vendor Signature				              Date

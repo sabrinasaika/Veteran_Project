@@ -1,0 +1,2812 @@
+FEDERAL FISCAL YEAR 2024 
+MONITORING REPORT ON 
+ARIZONA REHABILITATION SERVICES 
+ADMINISTRATION (AZRSA) 
+VOCATIONAL REHABILITATION 
+AND 
+SUPPORTED EMPLOYMENT PROGRAMS 
+ 
+U.S. Department of Education 
+Office of Special Education and 
+Rehabilitative Services 
+Rehabilitation Services Administration 
+April 25, 2025
+
+TABLE OF CONTENTS 
+Page 
+Section 1: The Scope of the Review ................................................................................................1 
+Section 2: Focus Area – Performance of the State Vocational Rehabilitation Services and State 
+Supported Employment Services Programs .....................................................................................3 
+Section 3: Focus Area – Financial Management of the State Vocational Rehabilitation Services 
+and State Supported Employment Services Programs ...................................................................32 
+Appendix A: State Vocational Rehabilitation Services and State Supported Employment Services 
+Programs Performance Tables .......................................................................................................51 
+Appendix B: Fiscal Data Tables ....................................................................................................61
+
+1 
+SECTION 1: THE SCOPE OF THE REVIEW 
+A. BACKGROUND 
+Section 107 of the Rehabilitation Act of 1973 (Rehabilitation Act), as amended by Title IV of the 
+Workforce Innovation and Opportunity Act (WIOA), requires the Commissioner of the 
+Rehabilitation Services Administration (RSA) to conduct annual reviews and periodic on-site 
+monitoring of programs authorized under Title I of the Rehabilitation Act to determine whether a 
+vocational rehabilitation (VR) agency is complying substantially with the provisions of its State 
+Plan under Section 101 of the Rehabilitation Act and with the evaluation standards and 
+performance indicators established under Section 106 of the Rehabilitation Act subject to the 
+performance accountability provisions described in Section 116(b) of WIOA. In addition, the 
+Commissioner must assess the degree to which VR agencies are complying with the assurances 
+made in the State Plan Supplement for Supported Employment Services under Title VI of the 
+Rehabilitation Act. In conducting the annual reviews, RSA must consider, at a minimum, budget 
+and financial management data (Section 107(a)(2)(I) of the Rehabilitation Act); and, pursuant to 
+Section 107(a)(4)(B) of the Rehabilitation Act, RSA must examine the provision of services, 
+including pre-employment transition services. 
+RSA works closely with its Federal partners at the U.S. Department of Labor’s Employment and 
+Training Administration (ETA) and the U.S. Department of Education’s Office of Career, 
+Technical, and Adult Education (OCTAE) to share monitoring and technical assistance activities, 
+especially as they relate to the joint provisions under WIOA. Although the VR program is one of 
+the six core programs in the workforce development system, it is unique in that State VR 
+agencies provide services directly to individuals with disabilities. Thus, the nature and scope of 
+RSA’s monitoring process and report may appear different from the monitoring ETA and 
+OCTAE conduct with their grantees.  
+In Federal fiscal year (FFY) 2024, RSA conducted an on-site monitoring review of the State 
+Vocational Rehabilitation Services program (VR program) and the State Supported Employment 
+Services program (Supported Employment program) administered by Arizona Rehabilitation 
+Services Administration (AZRSA). The nature, scope, and focus of this review and the process 
+by which RSA carried out its activities from February 27, 2024, through February 29, 2024, was 
+defined by information regarding the VR agency’s use and expenditure of Federal funds, 
+documents, and data submitted by AZRSA, taking into account the goals, unique circumstances, 
+and technical assistance needs of the VR agency.  
+RSA—  
+● Assessed the performance of the VR and Supported Employment programs, including 
+how the VR agency is implementing strategies and practices to achieve continuous 
+improvement in the delivery of VR services, including pre-employment transition 
+services, leading to quality competitive integrated employment and supported 
+employment outcomes for individuals with disabilities;   
+● Reviewed the VR agency’s financial management of the VR and Supported Employment 
+programs, which supports and maximizes the use of Federal funds and resources to
+
+2 
+achieve continuous improvement in assisting individuals with disabilities to achieve 
+quality employment outcomes; 
+● Identified strategies, including innovative practices, the VR agency uses or may employ 
+to improve competitive integrated employment outcomes for individuals with disabilities, 
+including students and youth with disabilities; 
+● Provided recommendations leading to continuous improvement in the number and quality 
+of outcomes achieved by individuals with disabilities through the VR and Supported 
+Employment programs and recommendations leading to continuous improvement in the 
+VR agency’s financial management of fiscal resources and strategies for maximizing the 
+use of Federal grant funds;  
+● Identified compliance findings and corrective actions to improve processes and 
+procedures, including the development or revision of policies and internal controls 
+supporting effective and efficient program operations, service delivery, and data-based 
+decision making; and  
+● Provided technical assistance to assist and support the VR agency in developing strategic 
+actions to improve and maximize program and fiscal performance and the use of Federal 
+funds. 
+B. REVIEW TEAM PARTICIPANTS 
+Members of the RSA review team included Jessica Hawes (RSA liaison and WIOA Team 
+Coordinator), Tonya Stellar (Vocational Rehabilitation Program Unit), Caneshia McAllister and 
+Samuel Pierre (Technical Assistance Unit), Patricia Dickerson and Kristine Nimmo (Fiscal 
+Unit), and Rimal Desai (Data Collection and Analysis Unit). Although not all team members 
+participated in all aspects of the on-site monitoring review, each contributed to the gathering and 
+analysis of information, along with the development of this report. 
+C. ACKNOWLEDGEMENTS 
+RSA wishes to express appreciation to the representatives of AZRSA for the cooperation and 
+assistance extended throughout the review process. RSA also appreciates the participation of 
+others, such as the State Rehabilitation Council (SRC), the Client Assistance Program, 
+advocates, and other stakeholders during the review process.
+
+3 
+SECTION 2: FOCUS AREA – PERFORMANCE OF THE STATE 
+VOCATIONAL REHABILITATION SERVICES AND STATE SUPPORTED 
+EMPLOYMENT SERVICES PROGRAMS  
+A. PURPOSE 
+Through this focus area, RSA assessed the VR agency’s VR and Supported Employment 
+programs’ performance in assisting individuals with disabilities, including those with the most 
+significant disabilities, with the necessary services and supports to achieve quality competitive 
+integrated employment. During this focused review, RSA analyzed VR program data, policies 
+and internal controls, and agency practices in implementing VR services within the context of 
+maximizing the use and expenditure of funds to improve program performance. Where 
+appropriate, RSA provided technical assistance and identified findings requiring corrective 
+actions. RSA also provided recommendations, which the agency may consider as it develops 
+strategies to improve performance and maximize the use and expenditure of Federal funds to 
+achieve quality employment outcomes.  
+B. ANALYSIS OF PERFORMANCE  
+RSA’s analysis of the VR agency’s performance of the VR and Supported Employment 
+programs incorporated a review of data reported by AZRSA on the Case Service Report (RSA-
+911) and the WIOA Statewide Performance Report (ETA-9169) for program years (PYs) 2020, 
+2021, and 2022, as well as the review and discussion of internal controls and policies and 
+requested documents. A review of the VR agency profile and data related to the VR process, VR 
+services, quality of employment outcomes, and pre-employment transition services, as well as 
+discussions with AZRSA of potential factors influencing program performance informed the 
+analysis and helped to identify technical assistance needs and recommendations to improve the 
+performance and management of the VR and Supported Employment programs.  
+Summary of Factors Influencing Performance 
+Through the analysis of data and documents provided by the VR agency, information from 
+related sources, and discussions with AZRSA during the review, RSA identified various factors, 
+which may be contributing either positively or negatively to the VR agency’s performance 
+leading to employment outcomes for individuals with disabilities and the use and expenditure of 
+Federal funds. In addition to providing technical assistance, as appropriate and in response to 
+AZRSA’s requests, RSA also developed recommendations for consideration by the VR agency 
+as it develops strategic actions to ensure continuous improvement in program performance and to 
+maximize the use and expenditure of available Federal funds to assist individuals with 
+disabilities in achieving quality employment outcomes. 
+ 
+Applicant, Eligible Individual, and Participant Attrition 
+ 
+The attrition of applicants, eligible individuals, and participants prior to or after receiving 
+services plays a key role in evaluating the performance of the VR agency. Premature or untimely 
+exit of individuals with disabilities during the VR process can, among other things, impact
+
+4 
+AZRSA’s ability to expend funds to fully support participants with the necessary services to 
+achieve their employment goals. When attrition is high, VR agencies should examine the reasons 
+for exit and make the necessary adjustments to their operations, policies, and practices to sustain 
+engagement and remove unnecessary barriers or contributing factors. AZRSA experienced a high 
+rate of attrition during the period under review. The percentage of individuals who exited after 
+application prior to being determined eligible averaged 3.73 percent over the three-year review 
+period. The percentage of individuals who exited after eligibility but prior to a signed 
+individualized plan for employment (IPE) was 20.0 percent in PY 2020, 14.5 percent in PY 
+2021, and 15.4 percent in PY 2022. The percentage of participants who exited after IPE, without 
+an employment outcome increased from 43.3 percent in PY 2020 to 51.2 percent in PY 2022. 
+The reasons most reported for exit during the period of the review included “no longer interested 
+in receiving services” (ranging from 35.4 percent in PY 2020 to 29.4 percent in PY 2022) or 
+“unable to locate” (ranging from 22.8 percent in PY 2020 to 34.4 percent in PY 2022). These 
+reasons suggest issues related to sustained engagement with eligible individuals and participants 
+or services that are not sufficiently meeting the needs of participants. 
+AZRSA communicated that the attrition of counselors, high vacancy rates, and staff training 
+needs all contributed to the untimely processing of applications, eligibility determinations, IPE 
+development, and service delays. In the VR services portion of PY 2024-2027 Unified State 
+Plan, AZRSA reported that it employed 176 of the necessary 212 VR counselors. With a 16.9 
+percent vacancy rate, the ratio of qualified VR counselors to clients was 1:78. The VR program 
+shared that the COVID-19 pandemic also affected the participation of individuals in services for 
+various reasons, including vendor closures and reluctance to return to in-person employment. 
+During the on-site review, AZRSA discussed realigning staff to maximize resources available to 
+increase participant engagement. Specifically, AZRSA shared its plans to use rehabilitation 
+technicians to engage participants more frequently to provide job readiness training, soft skills, 
+and interview skills training. AZRSA plans to implement the use of customer service 
+representatives to serve as a point of contact during the rehabilitation process to improve 
+communication and connections with VR participants. To expedite the processing of 
+applications, AZRSA sought clarification regarding the statutory and regulatory requirements for 
+applications and signatures.  
+Technical Assistance 
+● RSA provided technical assistance using RSA-TAC 24-01 sharing how AZRSA may be 
+able to streamline and promote meaningful and sustained engagement of individuals 
+throughout the VR process.  
+● RSA clarified that an application is considered to have been submitted, if the individual 
+has completed and signed an agency application form, completed a common intake 
+application form in a one-stop center requesting VR services; or has otherwise requested 
+services from the VR program (i.e., designated State unit (DSU)) pursuant to 34 C.F.R.  
+§ 361.41(b)(2)(i). As such, a signed agency application form is not the only thing that 
+constitutes an application.
+
+5 
+Recommendations  
+ 
+● RSA recommended that AZRSA review and identify inefficiencies in its case 
+management processes that delay the timely processing of referrals, applications, 
+eligibility determination, IPE development, and the coordination of services and consider 
+modifications.  
+● RSA recommended that AZRSA coordinate new staff and refresher training for VR 
+counselor staff with the VRTAC-QM. This training should address any inefficiencies 
+identified in the case management process, as well as the Federal requirements for 
+eligibility determination and IPE development. Following the review, AZRSA 
+communicated using high performing staff as office leads, supervisory back-up and 
+mentors. 
+● RSA recommended that AZRSA develop and implement policies specific to client 
+engagement prior to the development of an individualized plan for employment (IPE), 
+including the expected frequency with which counselors, rehabilitation technicians, and 
+customer service representatives must outreach to and engage VR participants. At the 
+time of the review, AZRSA had policies specific to client engagement every 90-days (at a 
+minimum), after the development of an IPE.  
+● RSA encouraged AZRSA to consider allowing for electronic signatures on its agency 
+application forms, which AZRSA intends to implement with its new case management 
+system. 
+ 
+Impediments and Practices Affecting the Accurate Reporting and Provision of Pre-
+Employment Transition Services 
+ 
+The Rehabilitation Act requires VR agencies to provide or arrange for the provision of pre-
+employment transition services to a “student with a disability” as defined in Section 7(37). Early 
+engagement and career exploration services expose students to the VR program and services 
+available to support their career goals. Although the number of reported students decreased 
+during the three-year review period, the total number of students with disabilities (both eligible 
+and potentially eligible for the VR program) in receipt of pre-employment transition services 
+increased from PY 2020 through PY 2022. Only 24.2 percent of the 8,898 students reported in 
+PY 2022 received one or more pre-employment transition service.  
+ 
+AZRSA communicated that the decrease in students reported and the small percentage of 
+students in receipt of pre-employment transition services was due, in part, to the closure of 
+schools and service providers as a result of the COVID-19 pandemic. AZRSA’s practice of 
+closing the cases of students who were potentially eligible for VR services after all five required 
+activities were provided, rather than after reaching the age at which they no longer met the 
+definition of a “student with a disability” also affected the accurate reporting of students with 
+disabilities and the provision of pre-employment transition services. The agency’s policy section 
+11.1G includes a statement that pre-employment transition services may not be provided if the 
+services have been completed and the individual chooses not to apply for VR services. Following 
+the provision of all five required activities, the contractor bills AZRSA and the agency sends the 
+student a letter to respond within 15 days requesting that the student apply for VR services if the 
+student would like to receive VR services or resume receiving pre-employment transition
+
+6 
+services. AZRSA communicated that this practice helps staff to manage active cases and reduces 
+the burden associated with keeping a student's case open the entire time they meet the definition 
+of a “student with a disability” while not actively receiving services. During FFYs 2019 through 
+2021, the percentage of funds reserved and expended for pre-employment transition services 
+decreased from 13.5 percent to 8.5 percent, respectively. AZRSA communicated that it is not 
+able to accurately report all pre-employment transition services provided by VR program staff 
+and purchased from vendors, or the service expenditures due to case management system 
+limitations. AZRSA anticipates a new case management system to launch in July 2025, which 
+will allow AZRSA to report all services being provided.  
+ 
+In July 2022, AZRSA expanded its transition unit to include a pre-employment transition 
+services coordinator, two pre-employment transition services specialists, a transition coordinator, 
+three transition specialists and a special projects liaison that outreaches to 32 of the 674 school 
+districts in the State through its Transition from School to Work (TSW) contracts. AZRSA’s 
+central office staff is responsible for tracking and reporting the provision of pre-employment 
+transition services to potentially eligible students through case management system case notes. 
+RSA and AZRSA discussed the agency’s strategies to improve the provision of pre-employment 
+transition services, including maximizing its transition unit and VR counselors as resources to 
+directly provide required activities to potentially eligible and eligible students with disabilities, 
+and the use of Project SEARCH, paid summer work-based learning experiences, Diverse Ability, 
+and the Arizona Youth Leadership Forums, and Arizona Youth Engagement Academy to expand 
+services. AZRSA communicated that it is exploring the use of on-line pre-employment transition 
+services (i.e., pre-ETS 360 academy curriculum), but has experienced challenges and delays due 
+to being required to determine rates of payment with the Arizona Department of Economic 
+Security (DES), the umbrella agency over the Division of Employment and Rehabilitation 
+Services (DERS), the designated State agency (DSA) and AZRSA, the DSU.  
+ 
+At the time of the review, AZRSA was under a FFY 2021 non-compliance pre-employment 
+transition services corrective action plan (CAP) through which RSA was monitoring AZRSA’s 
+progress towards expanding the provision of pre-employment transition services and meeting the 
+reserve and expenditure requirement. AZRSA achieved compliance with the reserve and 
+expenditure requirement in FFYs 2022 and 2023. With AZRSA’s most recent quarterly CAP 
+report submission (October 31, 2024) and the FFY 2023 final RSA-17 reports for the agency 
+(January 28, 2025), RSA was able to confirm that the State of Arizona exceeded the 15 percent 
+reserve and expenditure requirement and resolved the FFY 2021 pre-employment transition 
+services non-compliance CAP on February 3, 2025. 
+ 
+Technical Assistance 
+ 
+● RSA clarified that a student may remain potentially eligible and receive pre-employment 
+transition services so long as they meet the definition of a “student with a disability” and 
+have not been determined eligible for VR services. RSA shared that it is more 
+burdensome to “open and close” potentially eligible case types and clarified that 
+potentially eligible students must be reported on the RSA-911 until they no longer meet 
+the definition of a “student with a disability.”
+
+7 
+● RSA also clarified that VR agencies cannot require that students apply for VR services in 
+order to receive pre-employment transition services, and serving potentially eligible 
+students with disabilities is equally required. 
+● RSA and AZRSA discussed the requirement that the five required pre-employment 
+transition services must be made available and provided statewide to potentially eligible 
+and VR-eligible students, regardless of the methods being implemented. 
+● RSA clarified that potentially eligible students are “recipients of VR services,” and may 
+receive pre-employment transition services through third-party cooperative arrangements 
+(TPCAs). AZRSA’s TPCAs included language that potentially eligible students receive 
+pre-employment transition services outside of the TPCAs.  
+● RSA clarified that AZRSA must track, and report staff time spent providing or arranging 
+for the provision of pre-employment transition services. AZRSA reported it is tracking 
+staff time spent on required activities; however, pre-employment transition services-
+related policies did not include pre-employment transition coordination activities, which 
+may also be charged to funds reserved for the provision of pre-employment transition 
+services. 
+● RSA provided an overview of the notice of interpretation (NOI) on pre-employment 
+transition services flexibilities issued on February 28, 2020, and March 21, 2022. RSA 
+discussed allowable services and charges to the reserve for VR eligible students with 
+IPEs (e.g., maintenance, transportation) needed to access and support pre-employment 
+transition services, as well as examples of unallowable charges. 
+● RSA clarified that AZRSA can fund auxiliary aids and services for potentially eligible 
+and eligible students with sensory and communicative impairments when needed to 
+participate in pre-employment transition services.  
+● RSA provided an overview of a fiscal forecasting tool to assist AZRSA with determining 
+whether it has funds available and remaining to provide authorized activities, after 
+determining the funds necessary to provide required and pre-employment transition 
+coordination services. 
+● RSA provided a draft pre-employment transition services resources for contractor's guide 
+from the Oregon VR program, in response to a request from AZRSA for on-line 
+tools/resources to provide remote required activities.  
+Recommendations 
+ 
+● RSA recommended that AZRSA review and revise policy 11.1G, as a student is not 
+required to apply for VR services to continue to receive pre-employment transition 
+services while enrolled in an educational program. As written, the current policy is 
+inconsistent with the requirement to provide pre-employment transition services to 
+potentially eligible individuals and effectively limits the provision of pre-employment 
+transition services. 
+● RSA recommended that AZRSA assess how it can maximize its staff capacity and 
+resources to provide direct pre-employment transition services and build upon its 
+strategies to expand services to increase the low percentage of students reported in receipt 
+of pre-employment transition services (24 percent in PY 2022).  
+● RSA recommended that AZRSA update pre-employment transition services-related 
+policies to include pre-employment transition coordination activities and authorized 
+activities.
+
+8 
+● RSA also recommended that AZRSA update Appendix 1 definitions related to pre-
+employment transition services, including—  
+o Definition 42: Counseling on postsecondary education, which needs to align with 
+the regulatory definition of counseling on enrollment opportunities in 
+comprehensive transition programs or postsecondary education programs at 
+institutions of higher education (IHEs); and 
+o Definition 132: Include examples of required activities, pre-employment 
+transition coordination activities and authorized activities from the preamble to 
+the final rule. 
+ 
+Service Provision and Reporting System Limitations 
+ 
+From PY 2020 through PY 2022, the number of applicants and individuals determined eligible 
+for VR services increased; however, the number of individuals who received services decreased 
+from 13,441 in PY 2020 to 12,639 in PY 2022. Although more applicants are entering the VR 
+system and being determined eligible, over half of the individuals exiting the VR program in 
+Arizona are leaving after their IPE is developed and without employment; and only a quarter 
+(26.9 percent) are exiting with employment.  
+ 
+In accordance with the intent of the Rehabilitation Act, VR agencies are invested in assisting 
+individuals with disabilities to reach their maximum potential through the pursuit of careers with 
+the opportunity for advancement. An examination of the training, career, and other services data 
+that AZRSA reported for PY 2022, revealed the following for training services: 6.3 percent were 
+postsecondary education; 3.8 percent were occupational or vocational training; 0.7 percent were 
+work-based learning experiences; and data indicated no apprenticeship training, Randolph-
+Sheppard entrepreneurial training, or customized training. The largest percentages of services 
+provided in PY 2022 were vocational rehabilitation counseling and guidance (91.9 percent); job 
+search assistance (25.3 percent); and job readiness training (19.3 percent). Given this 
+performance, RSA and AZRSA discussed the need to increase training services and conduct 
+labor market analyses to determine the State’s labor market demands and opportunities to 
+prepare individuals with disabilities for careers with advancement potential rather than simply 
+entry-level employment.  
+ 
+AZRSA reported limited job placement assistance services (less than 2 percent) despite the level 
+of job search assistance (25.3 percent) in PY 2022. AZRSA policies bundled job placement with 
+miscellaneous training (policy section 10.5), job readiness training (policy section 11.3), and job-
+related services (policy section 11.4). The VR agency communicated that case management 
+system limitations forced staff to enter bundled services, including job search assistance and job 
+placement assistance services. Specifically, at the time of the on-site review, only 28 codes were 
+available for VR counselors to choose from a drop-down menu and manually enter on a quarterly 
+basis. This programming function impeded AZRSA’s ability to accurately collect and report 
+actual services provided, and funds expended. AZRSA clarified that its new case management 
+system (to be implemented in July 2025) will correct the inaccurate entry of bundled services.  
+ 
+During the on-site review, AZRSA communicated that some services are not included on the IPE 
+and thus, not pulled by counselors and reported on the RSA-911. Specifically, system reporting
+
+9 
+limitations require field counselors to manually report services reflected on the IPE and transfer 
+them to the RSA-911. RSA instructed AZRSA to require that all individualized VR services be 
+included on an IPE for VR participants to receive such services, and to ensure that these services 
+are accurately reported on the RSA-911.  
+ 
+RSA and AZRSA also discussed the need to revise policies to address limitations (e.g., the 
+number of credits, amount of general school supplies (section 10.1), the number of home (section 
+13.4) and vehicular modifications (section 13.3), hours of adaptive driving (section 13.2), hours 
+of personal assistance services (section 12.5), number of hearing aids (section 13.5), and a 
+requirement for proof of a primary residence to receive maintenance (section 12.2)) that may be 
+impeding the provision and accurate reporting of VR services and expenditures.  
+ 
+VR agencies may implement strategies to increase client engagement from application to IPE; 
+however, if AZRSA does not have the infrastructure, policies, and procedures in place to support 
+and provide comprehensive services to assist participants to achieve their career goals, 
+individuals will not have an incentive to remain engaged in the VR process, and unsuccessful 
+closures may increase.  
+ 
+Technical Assistance 
+ 
+● RSA clarified that AZRSA must be able to accurately report each service received by an 
+individual on the RSA-911.  
+● RSA and AZRSA discussed reporting each VR service in real-time to improve reporting 
+accuracy since the service form is always open. 
+ 
+Recommendations 
+ 
+● RSA recommended that AZRSA review policies implementing service limitations, 
+revising as appropriate, and ensure that they are hyperlinked to AZRSA’s policy for 
+exceptions (section 7.5).  
+● RSA recommended that policies clarify that all individualized VR services (34 C.F.R. § 
+361.48(b)) be included on an IPE, in order to be provided, and that services provided, and 
+service expenditures must be reported on the RSA-911. 
+● RSA recommended that AZRSA collect data in real-time, so that quarterly reporting on 
+the RSA-911 is accurate. In addition, RSA recommended that AZRSA develop a 
+crosswalk to services that are to be reported on the RSA-911 so that the VR agency can 
+address the current issue of bundled services and AZRSA’s inability to accurately report 
+all services purchased and provided by AZRSA staff. 
+● RSA recommended that AZRSA revise Appendix 1 definitions 81 and 185 to include the 
+90-day Federal timeline for IPE development from eligibility determination, and the use 
+of projected post-school employment outcomes for students and youth with disabilities 
+(revising the IPE goal once a specific goal is identified), so that IPEs are developed in a 
+timely manner and students and youth are able to make informed choices regarding their 
+employment goals.
+
+10 
+Inaccurate Reporting of Supported Employment Services and Expenditures  
+ 
+In FFYs 2019 and 2020, AZRSA relinquished half of its State Supported Employment program 
+funds from Supported Employment-A (SE-A) and Supported Employment-B (SE-B) awards and 
+did not report any supported employment expenditures for FFYs 2020 or 2021. Furthermore, 
+AZRSA did not report expenditures for the provision of supported employment services for 
+individuals with most significant disabilities or the provision of extended services to youth with 
+the most significant disabilities on the RSA-911 for PYs 2020, 2021, and 2022.  
+ 
+According to AZRSA, the Financial Services Administration (FSA) team “knows to move” the 
+supported employment services expenditures to the supported employment funding codes (SE-A 
+and SE-B). However, expenditures were not reported on the SF-425 prepared by the FSA team 
+located within DES. Staff within DES, the umbrella agency over the DSA and DSU submits the 
+SF-425. In addition, a centralized information technology (IT) staff is responsible for 
+electronically pulling case files and reporting supported employment services for individuals 
+with most significant disabilities and extended services for youth with most significant 
+disabilities. However, the IT staff did not report any supported employment services and 
+expenditures for supported employment services or extended services for PYs 2020, 2021, and 
+2022 on the RSA-911.  
+ 
+AZRSA reported that system limitations restricted the collection and reporting of supported 
+employment expenditures as the data team does not pull supported employment expenditures 
+unless the IPE is marked as a supported employment plan (i.e., “SE plan type”), the individual is 
+in job status, and received a paid service. The data team separates participants under age 25 and 
+age 25 or older and sends this information to the finance team to perform expenditure 
+corrections. An additional factor impeding AZRSA’s ability to track, and report supported 
+employment services includes its practice of first charging the VR grant award and not ensuring 
+expenditure corrections were completed by charging or journaling supported employment 
+expenditures to the supported employment grant award. AZRSA’s lack of internal controls to 
+validate, track, and report supported employment and extended services and expenditures 
+contributed to AZRSA’s failure to correctly report supported employment expenditures using 
+Title VI funds for the last couple years and resulted in unspent and relinquished Federal funds 
+available to serve individuals with the most significant disabilities.  
+ 
+AZRSA informed RSA that it would not be accepting Title VI funds in its PY 2024-2027 State 
+Plan. RSA can confirm that AZRSA did not receive an FFY 2025 SE-A or SE-B award. The VR 
+agency shared that it plans to hire a contract liaison who will be responsible for working with 
+vendors. AZRSA has hired statewide coordinators to assist with coordination, and providing 
+technical assistance and training to ensure the accurate reporting of supported employment 
+services and expenditures using Title I funds. 
+ 
+Technical Assistance 
+ 
+● RSA clarified for AZRSA that although it elected not to receive Title VI supported 
+employment grant award funds in its PY 2024-2027 State Plan, the VR agency is still 
+required to provide supported employment services to individuals with most significant
+
+11 
+disabilities, and extended services to youth with most significant disabilities using Title I 
+VR grant award funds. 
+● RSA clarified that AZRSA, as the DSU, has the sole authority and responsibility to 
+expend funds made available under the Rehabilitation Act in a manner that is consistent 
+with the Rehabilitation Act and implementing regulations. Specifically, the responsibility 
+of allocating and expending VR funds is the responsibility of AZRSA. 
+ 
+Recommendation 
+ 
+● RSA recommended that AZRSA develop internal controls to ensure VR and supported 
+employment services and expenditures using Title I (or Title VI funds, as applicable) are 
+accurately reported. 
+Insufficient Tracking and Reporting of MSG, Credentials and Post-Exit Measures  
+AZRSA’s data show performance measures specific to employment rate in the second quarter 
+after exit, median earnings in the second quarter after exit, and credential attainment rates 
+improved during PY 2020 through 2022; however, the performance measures specific to 
+measurable skill gains and employment rate in the fourth quarter after exit showed a decrease in 
+PY 2022 from PY 2021. During the same time period, Arizona performed below the national 
+average on all five performance measures.  
+The total number of participants who earned MSGs, total MSGs earned, including postsecondary 
+transcripts/report card training milestones and skills progression MSG, decreased from PY 2021 
+to 2022. However, the percentage of participants eligible to earn MSG increased from 18.1 
+percent in PY 2021 to 26.3 percent in PY 2022, and the total number of credentials earned (i.e., 
+secondary and postsecondary), participants who earned credentials, and the percentage of 
+participants eligible to earn credentials also increased from PY 2021 to PY 2022.  
+While supervisors conduct field case reviews of documentation of wages, school records and 
+diplomas, AZRSA communicated that it has not conducted targeted reviews to determine why it 
+is not capturing and reporting MSG. At the time of the review, the VR agency did not have 
+internal controls to ensure the tracking and reporting of a student’s graduation from high school, 
+and tracking whether graduates are employed within a year or enrolled in postsecondary 
+education. Internal controls are needed to document, track, and report all individuals eligible to 
+earn a MSG. AZRSA was erroneously reporting enrollments and disenrollments and RSA 
+demonstrated how the erroneous reporting was affecting performance results. Specifically, 
+individuals never reported as enrolled in an educational program were receiving postsecondary 
+education funded by AZRSA. Furthermore, AZRSA also reported individuals as disenrolled 
+from an educational program, while reporting an MSG. RSA provided cohort data for the 
+performance measures to AZRSA and provided a list of cases with missing data for performance 
+measures to be addressed by AZRSA. The VR program shared that it could add internal controls 
+to its current “401 cleanup” process. Because AZRSA did not submit any post-exit measure 
+policies during the review, RSA concluded that AZRSA did not have post-exit measure policies. 
+Additionally, AZRSA reported that it did not have internal controls to ensure the coding, 
+verification, tracking, and reporting of MSG rate and post-exit measures. These deficiencies 
+impact the accuracy of AZRSA’s reported performance.
+
+12 
+Technical Assistance 
+● RSA provided feedback on AZRSA’s policy document 2.11 Measurable Skill Gains 
+(MSG) Policy.  
+● RSA clarified that AZRSA should verify services authorized in the IPE and documented 
+as provided through supporting documentation submitted with the invoice, prior to bill 
+payment and that the invoice process should include requiring verification of MSG or 
+credential attainment, prior to bill payment. This could address AZRSA paying 
+postsecondary education bills without verification of MSG or credential attainment.  
+● RSA provided technical assistance regarding how AZRSA can use cohorts to review 
+individuals reported as enrolled in an educational program to determine whether MSGs 
+and credentials have been captured and reported, or if the individual has been disenrolled 
+and should be reported as such.  
+● RSA provided links to the MSG and Credential technical assistance documents and 
+training resources. 
+● As an example, RSA provided information from another VR agency specific to targeted 
+case reviews led by its field office counselors, supervisors, central office program 
+analyst, and field services chief. 
+● RSA reviewed several data elements used in performance calculations and provided 
+technical assistance specific to reporting performance measures. 
+● RSA provided technical assistance to AZRSA as it prepared for a SWIS-related meeting 
+to discuss case file permissions and sharing of information, and addressing services not 
+being tracked and reported for students graduating from secondary education, which had 
+an impact on AZRSA’s ability to track and report whether students were working or 
+enrolled in postsecondary education one year after exit. 
+Recommendations 
+● RSA recommended that AZRSA develop policies and internal controls specific to 
+collecting, validating, and reporting performance measures, including MSG Rate and 
+post-exit measures. AZRSA shared that the agency would begin getting assistance from 
+the Technical Assistance Center-Quality Management (TAC-QM) to assist with the 
+development in these areas. 
+● RSA and AZRSA had discussions about how data validation helps ensure the accuracy of 
+the annual statewide performance reports, safeguards data integrity, and promotes the 
+timely resolution of data anomalies and inaccuracies. RSA recommended that AZRSA 
+develop internal controls on how and what the written procedures are for data validation 
+that contain a description of the process for identifying and correcting errors or missing 
+data, which may include electronic data checks, use of comparable benefits, and 
+obtaining transcripts for documentation.  
+● In addition to the leadership and data unit running “spot checks” that included a review of 
+MSG based on enrollment and graduation rate, RSA recommended that AZRSA develop 
+a standardized case review instrument that includes the review of MSG Rate, credential 
+attainment rate, and post-exit measures to be used to conduct uniform targeted case 
+reviews by field supervisors and at the data unit level to review how quarterly post-exit 
+information is reported and validated. This information should be aggregated and used to 
+inform policy and identify training needs.
+
+13 
+Quality of Employment Outcomes  
+AZRSA’s employment rate decreased from 40.5 percent in PY 2020 to 34.5 percent in PY 2022 
+(9.7 percent below the national average in PY 2022). As such, only one-third of the individuals 
+served by AZRSA achieved employment at the time of exit. While the number of participants 
+who exited in competitive integrated employment or supported employment decreased from 
+1,633 in PY 2021, to 1,268 in PY 2022, and median hours worked per week remained stagnant at 
+30 hours per week (two hours per week below the national average), the median hourly earnings 
+at exit increased from $14.00 in PY 2021 to $15.00 in PY 2022 and remained above the national 
+average. 
+ 
+When a VR agency’s employment rate is decreasing and less than the national average, it is 
+important to review how participants are engaged and how quickly VR services are provided, 
+how these services are preparing individuals for career pathways and advancement to optimize 
+employment outcomes, how the agency is maximizing the expenditure of available funds, and 
+how barriers to employment are being addressed by the VR program. 
+ 
+RSA noted that the number of benefits counseling services decreased from 910 in PY 2020 to 
+618 in 2022. RSA and AZRSA discussed how not providing benefits planning and counseling 
+leading to an understanding of work incentives and the effect of work on benefits and future 
+financial self-sufficiency could affect an individual’s choice to exit the VR system without 
+securing employment or settling for lower-wage employment and fewer hours of employment to 
+maintain benefits.  
+ 
+AZRSA noted a lack of providers, and possible erroneous reporting and coding by staff of 
+benefits counseling as “information and referral” may be responsible for decreasing numbers 
+reported. In addition, AZRSA communicated that in its current case management system, 
+benefits counseling is not paid through an authorization but purchased through contracts that do 
+not tie these services directly to an individual. At the time of the review, AZRSA indicated that it 
+will be addressing system inefficiencies through the July 2025 implementation of its new case 
+management system. AZRSA assured RSA that the new case management system will improve 
+the capturing and reporting of purchased services through vendor authorizations, and in-house 
+services through service provision notes. 
+ 
+RSA and AZRSA discussed the low number of services reported for participants, including 
+college and occupational and vocational training, apprenticeship and job placement assistance, as 
+well as the need to shift from preparing individuals for entry-level employment to sustainable 
+careers with potential for advancement. The VR agency reported that its largest number of 
+referrals are from the division of developmental disabilities, schools, vendors and medical 
+professionals for individuals with intellectual disabilities who need long-term intensive services, 
+and vendors are not adequately staffed with job developers and coaches. During the review, 
+AZRSA communicated that it was exploring online training options for its vendors to expand the 
+types of services available.
+
+14 
+Technical Assistance 
+ 
+● RSA provided examples and contact information for agencies that partner with centers 
+for independent living to provide benefits counseling.  
+● RSA provided AZRSA with vendor training manuals used by other VR agencies.  
+● RSA provided resources that provide free or low-cost training for vendors and staff 
+serving specific populations (e.g., mental health, deaf and hard of hearing, traumatic 
+brain injury, and autism). 
+ 
+Recommendations 
+ 
+● RSA recommended expanding the use of natural supports and customized employment. 
+AZRSA shared that it will be piloting a customized employment project with students 
+and implementing the project statewide in 2025. This project will include a curriculum 
+available to staff and vendors.  
+● RSA recommended training new staff and increasing the provision of its Disability 101 
+benefits counseling services to provide participants an understanding of the effect of 
+work on the receipt of benefits and their pathway to employment and self-sufficiency. 
+ 
+C. FINDINGS AND CORRECTIVE ACTIONS 
+RSA’s review of the performance of AZRSA identified the following findings and the 
+corresponding corrective actions regarding inconsistencies and areas of non-compliance with 
+Federal requirements within the scope of this targeted focus area. RSA did not conduct an 
+exhaustive review of all potential areas of non-compliance outside the scope of this focused 
+review. Within 45 days of issuance of the final monitoring report, AZRSA will submit to RSA 
+for approval a corrective action plan (CAP), including specific action steps, timelines, and 
+evidence to demonstrate resolution of the finding. If AZRSA fails to take the necessary 
+corrective actions specified in the approved CAP, RSA reserves the right to take additional 
+enforcement actions pursuant to 34 C.F.R. Part 81 and 2 C.F.R. § 200.339. 
+Finding 2.1 Insufficient Management of Federal Award to Ensure Data Accuracy, 
+Reporting, and Validation 
+Issue: Is AZRSA exercising its responsibility and maintaining effective internal controls over the 
+Federal award to provide a reasonable assurance that AZRSA is managing the Federal award in 
+compliance with Federal statutes, regulations, and the terms and conditions of the award in 
+accordance with 2 C.F.R. § 200.303.  
+Requirement: Pursuant to 2 C.F.R. § 200.303, VR agencies are required to develop an internal 
+controls process to provide reasonable assurances regarding the effectiveness and efficiency of 
+operations, reliability of reporting for internal and external use; and to be implemented as a 
+measure of checks and balances to ensure proper expenditures of funds, including the evaluation 
+and monitoring of compliance with statutes, regulations and the terms and conditions of Federal 
+awards. Furthermore, a State VR agency must assure, in the VR services portion of the Unified 
+or Combined State Plan, that it will employ methods of administration that ensure the proper and 
+efficient administration of the VR program.
+
+15 
+In accordance with 34 C.F.R. § 361.40(a), VR agencies are required to submit reports, including 
+reports required under Sections 13, 14, and 101(a)(10) of the Rehabilitation Act in a manner that 
+provides a complete count of the applicants and eligible individuals receiving services, including 
+students with disabilities receiving pre-employment transition services, and complies with any 
+requirements necessary to ensure the accuracy and verification of those reports. The RSA-911 is 
+used to describe the performance of the VR and Supported Employment programs in the Annual 
+Report to the Congress and the President, as required by Sections 13 and 101(a)(10) of the 
+Rehabilitation Act.  
+Analysis: During the on-site review, AZRSA shared that it does not maintain a comprehensive 
+system of internal controls to ensure quality and accuracy of services being provided and 
+reported. AZRSA indicated that DES (the umbrella agency over the DSA), not the DSU, issues 
+and maintains documents related to grants management, risk, accounting, and internal controls. 
+As the DSU, AZRSA is responsible for maintaining effective internal controls over the Federal 
+award to provide a reasonable assurance that AZRSA is managing the Federal award in 
+compliance with Federal statutes, regulations, and the terms and conditions of the award in 
+accordance with 2 C.F.R. § 200.303.  
+Although individual regions and offices conduct their own case reviews, AZRSA did not provide 
+RSA with a uniform process used throughout the VR agency to conduct or aggregate data from 
+case reviews to inform policies, identify training needs, ensure data accuracy, and improve and 
+optimize program performance.  
+AZRSA communicated that it uses the edit checks built into its case management system, as well 
+as RSA’s RSA-911 edit checker, to review errors in reports, prior to submitting reports to RSA. 
+The agency has assigned three staff to review anomalies in the data. However, for the period 
+reviewed, AZRSA had not implemented formal written validation procedures as a part of its 
+internal controls to safeguard data integrity and promote the timely resolution of data anomalies 
+and inaccuracies, or review of supporting documentation to ensure accurate reporting of data 
+collected through the RSA-911.  
+During the review, AZRSA reported that it may not be capturing all services provided directly by 
+agency staff or through comparable benefits due to the case management system and contract 
+limitations that bundles services and allow for the use of only 28 service codes to be reported on 
+the RSA-911. The inability to code, report, and track training, career, and other VR services 
+either purchased or provided directly through AZRSA staff or through comparable benefits has 
+impeded the agency’s ability to adequately and accurately reflect all services provided and 
+individuals served. As previously discussed under factors that impede performance, AZRSA’s 
+lack of data validation procedures resulted in the failure to report the provision of supported 
+employment services and extended services, as well as these service expenditures on the RSA-
+911. No other written internal controls were implemented during the period of review to ensure 
+adherence to implementation procedures or ensure that all information documented aligned with 
+and was consistent across the case service record file, AZRSA’s case management system, and 
+the RSA-911. 
+Section 116 of WIOA and the implementing joint regulations in 20 C.F.R. part 677 and 34 
+C.F.R. parts 361 and 463, RSA-TAC-17-01 (Performance Accountability Guidance for
+
+16 
+Workforce Innovation and Opportunity Act (WIOA) Title I, Title II, Title III, and Title IV Core 
+Programs (issued June 11, 2024)), clarify the reporting requirements for MSG, credential 
+attainment, and post-exit measures. During the period under review, AZRSA reported inaccurate 
+data for MSG and credential attainment. Specifically, inaccurate information was reported with 
+respect to enrollment and disenrollment in educational programs, and case documentation did not 
+substantiate the information that was reported. Although AZRSA leadership and the data unit 
+reported conducting “spot checks” that included the review of MSGs based on enrollment and 
+graduation rates, the agency did not provide RSA with a standardized case review instrument 
+that includes the uniform and regular review of MSG, credential attainment, and post-exit 
+measures.  
+ 
+Prior to and during the on-site review, AZRSA did not provide RSA with post-exit policies, or 
+internal controls for coding, verifying, tracking, and reporting MSG and post exit measures. 
+Furthermore, at the time of the review, AZRSA was unable to demonstrate that it had a formal 
+system in place to review case files and supporting documentation related to performance 
+accountability measures. 
+Conclusion: RSA determined that AZRSA is not maintaining effective internal controls over the 
+Federal award that would provide a reasonable assurance that AZRSA is managing the Federal 
+award in compliance with Federal statutes, regulations, and the terms and conditions of the 
+award in accordance with 2 C.F.R. § 200.303. RSA determined that AZRSA has not 
+implemented internal controls, policies, or procedures that ensure data validation, and the 
+accurate reporting of services provided to reportable students and participants. RSA also 
+determined that AZRSA did not submit accurate reports substantiated by required supporting 
+documentation, as required by 34 C.F.R. § 361.40, or ensure accuracy and verification of 
+collected performance measures data, as required in Section 116 of WIOA and the implementing 
+joint regulations in 20 C.F.R. part 677 and 34 C.F.R. parts 361 and 463, RSA-TAC-17-01. 
+Corrective Action 2.1 RSA requires that AZRSA—  
+ 
+2.1.1  Within 120 calendar days from the issuance of the final report, develop written data 
+collection and validation policies and procedures to ensure the accuracy and validity of 
+the data being collected and reported to RSA in compliance with 34 C.F.R. § 361.40, 
+including services purchased, provided directly by VR counselors and through 
+comparable benefits, as well as MSGs and credentials earned, and post-exit measures. 
+These policies and procedures must include—  
+● A description of the process for identifying and correcting errors or missing data 
+(e.g., electronic data checks, regular data validation training for appropriate 
+program staff (at least annually); 
+● A monitoring component (i.e., monitoring protocol) consistent with 2 C.F.R. § 
+200.328, to ensure that program staff are following the written data validation 
+procedures and a process for taking appropriate corrective action(s), if those 
+procedures are not followed; 
+● A regular review (e.g., at least quarterly) of program data for errors, missing data, 
+range values and anomalies, and documentation that missing and erroneous data 
+identified during the review process have been corrected;
+
+17 
+● A regular assessment of the effectiveness of the data validation process (e.g., at 
+least annually) allowing for process revisions, as needed; and 
+● Incorporation of the requirements set forth in RSA TAC 19-01: Guidance for 
+Validating Jointly Required Performance Data Submitted Under WIOA; and 
+ 
+VR Agency Response: AZRSA agrees with the requirements of corrective action 2.1.1. AZRSA 
+is in process of developing and implementing a new case management system with anticipated 
+go live date in July 2025. The new case management system will reduce many of the manual 
+reporting processes required by the current system. Ensuring data accuracy is a focus for new 
+system development and built in edit check features are embedded throughout the new platform.    
+ 
+Prior to the onsite visit, RSA staff recommended that AZRSA consider a mechanism to run 
+regular reports throughout each quarterly reporting period to identify errors or gaps in data in 
+order to correct the errors prior to data submission. AZRSA implemented this process specific to 
+Post-Exit and 911 data reporting. AZRSA staff have continued to perform targeted data clean-up 
+activities since the onsite monitoring in February 2024. Trends from the reports have been 
+identified and additional resources and training materials to enhance data accuracy have been 
+provided and are posted to an AZRSA internal site.  
+ 
+Subsequent to the monitoring visit, AZRSA staff collaborated with VR TAC-QM and NTACT-C 
+to update, develop, and implement policies, procedures, and training pertaining to MSG and 
+credential attainment reporting. AZRSA continues to work with the technical assistance teams to 
+develop, refine, and implement policies and procedures. 
+ 
+AZRSA agrees with the requirements of corrective action 2.1.1. The Quality Assurance and 
+Integrity Administration (QAIA) conducts monthly case reviews on a random sample of client 
+cases with an established and standardized case review tool. The quality control review covers 
+the case management parameters of the referral and application, eligibility, individualized plan 
+for employment, signature requirements, successful closures, and all other closures. Results of 
+the case reviews are provided to AZRSA and analyzed for trends to determine if policy, 
+procedure, or training updates are needed.  
+ 
+While the audit does ensure the quality and accuracy of the case management services being 
+provided, it is not a comprehensive audit of the Federal award. Nor does it cover program 
+performance measures related to the MSG, credential attainment, data validation, or safeguarding 
+personally identifiable information. AZRSA and QAIA recognize the need to update the current 
+case review tool to be consistent with 2 C.F.R. § 200.328 as well as incorporate the requirements 
+set forth in RSA TAC 19-01. The QAIA will work closely with AZRSA to enhance the quality 
+case management review tool to incorporate a comprehensive system of internal controls that 
+ensures the quality and accuracy of services being provided and reported. 
+RSA Response: RSA will provide support and assistance to AZRSA, as needed. 
+VR Agency Request for Technical Assistance: Technical assistance is not requested at this 
+time.
+
+18 
+Finding 2.2 Cost Allocation Requirements Not Met 
+Issue: Whether AZRSA satisfied the requirements for cost allocation cited in the 
+intergovernmental agreements (IGA) with school districts. 
+Requirements: In accordance with Uniform Guidance at 2 C.F.R. § 200.405(a), a cost is 
+allocable to a Federal award or cost objective if the goods or services involved are chargeable to 
+that cost objective in accordance with the relative benefit received. Additionally, in accordance 
+with 2 C.F.R. § 200.430(i)(1)(vii), charges to Federal awards for salaries and wages must be 
+based on records that accurately reflect the work performed and must, among other things, 
+support the distribution of the employee’s salaries or wages among specific activities or cost 
+objectives if the employee works on more than one Federal award. 
+ 
+Federal award recipients must establish and maintain effective internal control over the Federal 
+award (2 C.F.R. § 200.303). The Uniform Guidance in 2 C.F.R. § 200.1 defines “internal control 
+over compliance requirements for Federal awards” as processes designed and implemented by 
+non-Federal entities to provide reasonable assurance regarding the achievement of objectives in 
+effectiveness and efficiency of operations; reliability of reporting for internal and external use; 
+and compliance with applicable laws and regulations.  
+ 
+States are also required to establish and maintain effective control over and accountability for all 
+funds, property, and other assets. The non-Federal entity must adequately safeguard all assets 
+and assure that they are used solely for authorized purposes (2 C.F.R. § 200.302 (b)(4)). 
+ 
+Analysis: RSA reviewed the VR agency’s transition from school to work (TSW) contracts, 
+including allocation of costs for personnel, to ensure the agency was assigning personnel costs, 
+including fringe benefits, in accordance with the Uniform Guidance.  
+ 
+Section 5.3.8 of the IGA with the County of Maricopa Deer Valley Unified School District #97 
+states that ADES/AZRSA will, “Provide administrative oversight for the service provision by 
+determining that all expenditures are an allowable cost from title 2 C.F.R. part 225 and are 
+justifiable, reasonable, and necessary for the provision of the TSW program.” Section 9.1.22 of 
+the same agreement states, “The Contractor’s Budget shall include only allowable costs 
+associated with each enhanced service program provided by the Contractor per 2 C.F.R. part 
+225 . . .” Part 225 of Title 2 was superseded by part 200 in 2014, The IGAs referenced in this 
+finding were executed in June 2017 and later; thus, the pertinent requirements cited at 2 C.F.R. 
+200 are applicable to these agreements. This same language was cited in IGAs with the Nogales 
+Unified School District #1 and the County of Gila, Miami Unified School District #40. The 
+agreements are created from templates, and it is assumed that the same or similar requirements 
+are cited in all the agreements. 
+ 
+As a result of RSA’s review, including on-site interviews with AZRSA staff, RSA determined 
+AZRSA was funding school personnel not assigned to work on the VR program, including 
+transition specialists and coordinator positions not available through school district resources, to 
+ensure transition planning as required under IDEA. Additionally, AZRSA was funding guidance 
+counselors and substitutes when school district resources were not available. Not all school 
+personnel were allocating time between the separate cost objectives appropriately. For example,
+
+19 
+staff that work with multiple programs (i.e., cost objectives), like certified teachers, guidance 
+counselors, and substitutes, charged their time to the VR program even though their functions 
+required them to work on multiple programs that the school district administers.  
+For staff working on multiple cost objectives, personnel costs must be allocated proportionally 
+among all the different programs, including those administered by the VR agency (2 C.F.R.  
+§§ 200.403(a), 200.404(b), and 200.405) or included in the indirect cost rate or cost allocation 
+plan. At the time of the review, time and effort benefitting other programs was charged directly 
+to the VR program in violation of 2 C.F.R. §§ 200.403(a), 200.404(b), and 200.405 that requires 
+allocation of costs based on relative benefits received.  
+Funding school personnel, who are not assigned to work on the VR program, demonstrates a lack 
+of control over and accountability for Federal dollars. It prevents AZRSA from ensuring Federal 
+funds are used only for authorized purposes.  
+Conclusion: AZRSA did not satisfy the general cost allocation and personnel cost allocation 
+requirements in the IGAs and the Uniform Guidance (2 C.F.R. §§ 200.403(a), 200.404(b), 
+200.405 and 200.430), as the VR agency improperly charged costs to the VR program that 
+should have been allocated proportionally to all benefiting programs. Additionally, AZRSA did 
+not have sufficient internal controls to verify the proper assignment of personnel staff time in 
+accordance with the appropriate cost objective. The improper allocation of personnel costs 
+resulted in unallowable costs being charged to the VR program. The unallowable personnel costs 
+represent questioned VR costs.  
+Corrective Actions: RSA requires that AZRSA—  
+ 
+2.2.1 Immediately cease using VR funds to pay for direct and personnel costs that must be 
+allocated to other cost objectives; and within 30 days of receipt of this report, submit 
+documentation demonstrating compliance.    
+2.2.2 Immediately establish and implement policies, procedures, and internal controls over 
+contractor costs to ensure only allowable costs are paid from VR funds; and submit to 
+RSA for review within 30 days of receipt of this report. 
+2.2.3 Within 60 days of receipt of this report, review all TSW contracts in effect in FFY 2021 
+and, 1) calculate the amount of unallowable costs paid from VR funds; 2) provide RSA 
+with the methodology that will be used to make the determination; and 3) provide the 
+cost data to RSA in a spreadsheet, which must include (but is not limited to) vendor 
+name, contract number, total costs, unallowed costs, transaction dates, and expense type;   
+2.2.4 Within 60 days of receipt of this report, submit verification of the proper assignment of 
+personnel time in accordance with the appropriate cost objective;  
+2.2.5 Within 90 days of receipt of this report, revise RSA-17 reports for all Federal awards not 
+closed to remove unallowable and unallocable direct costs; and  
+2.2.6 Within 90 days of receipt of this report, develop and implement a written internal control 
+process, including a monitoring component, to ensure ongoing compliance with cost 
+allocation requirements and accurate RSA-17 reporting. 
+ 
+VR Agency Response: AZRSA acknowledges the finding and commits to reviewing budgets, 
+contract methodologies, job duties to determine corrective actions associated with Finding 2.2 to 
+ensure compliance.
+
+20 
+ 
+During the onsite monitoring, AZRSA shared that it did not fund school personnel who were not 
+assigned to work as part of the VR program, rather LEA staff may have had dual roles and 
+charged the VR program for time spent providing VR program activities. AZRSA did not fund 
+guidance counselors or substitutes when school resources were not available. AZRSA does not 
+recall any mention specifically regarding the funding of guidance counselors during the 
+discussions on this topic. Substitute teachers, transition specialists, and transition coordinators 
+may have been used by the LEA in a dual role to provide transition services in accordance with 
+the contract to mitigate personnel shortages in the event that designated TSW staff were 
+unavailable due to planned or unplanned leave. These alternative staff members would have 
+billed in lieu of the original contracted TSW staff. AZRSA recognizes the need to develop clear 
+definitions regarding allowable activities to be charged as well as a comprehensive monitoring 
+component to ensure ongoing compliance with cost allocation requirements and accurate RSA-
+17 reporting. 
+ 
+AZRSA would like to note that RSA conducted an onsite monitoring of AZRSA in 2018.  The 
+2018 monitoring included an extensive review of ALL Transition School to Work contracts, 
+associated budgets, and contract monitoring activities. During the 2018 monitoring, AZRSA 
+were informed that the manner in which the TSW contracts were managed was in line with 
+interagency transfer agreements and not third-party cooperative agreements. This is further 
+reinforced in the final 2018 monitoring report where RSA refers to the TSW contracts as 
+Interagency Transfer Agreements (ITAs). The final 2018 report does not mention any irregular 
+or incorrect regulatory citations, nor does it mention any recommendations, findings, or need for 
+technical assistance with regard to contractual language pertaining to equipment, pre-
+employment transition services, or allocable staff time. 
+RSA Response: During the February 29, 2024, on-site contract monitoring review session, RSA 
+and AZRSA discussed the concern that many TSW contracts included multiple classifications 
+who may work on more than one program (e.g., coordinators, transition and teacher coordinators, 
+transition technicians, and certified teachers). RSA expressed concerns that the TPCA 
+agreements reviewed did not address how TSW staff time distribution would be monitored by 
+AZRSA. In response, AZRSA reported that a few years prior to the monitoring review, it 
+conducted time studies that enabled it to determine the percentage of staff salary costs that could 
+be charged to the pre-employment transition reserve. Although contract methodology includes 
+the provision that TSW staff need to track staff time, there is no requirement that they 
+substantiate this with invoices.  Furthermore, invoices that were shared with RSA did not include 
+evidence that the amount claimed as match was “certified time.” As such, RSA expressed 
+concerns related to cost allocation without time verification when a TSW staffer is assigned to 
+more than one program. RSA also clarified that AZRSA can only receive match through a 
+reduction of invoiced costs by ensuring the amount being claimed as match is “certified time” 
+under the VR program.  
+On February 29, 2024, during the same on-site session, AZRSA staff stated that, “some school 
+districts do not have a transition team, no program or one person covering a whole program and 
+the TSW team becomes a major enhancement.” Agency staff also noted that some schools have
+
+21 
+“gotten rid of teachers and transition planning, and vocational guidance counselors are not 
+funded by the school districts.” AZRSA staff shared that without TSW staff, students would not 
+receive these services. During the contract review session, RSA clarified that the VR program 
+should not fund services required under the Individuals with Disabilities Education Act (IDEA). 
+Without a monitoring process to verify a.) actual time spent on allowable VR services and b.) 
+that costs were allocated to appropriate cost objectives, it is evident that VR program funds are at 
+risk of being spent on unallowable services and activities.  
+During the FFY 2024 Section 107 monitoring review, AZRSA submitted TSW agreements titled, 
+“intergovernmental agreement (IGA).” However, the purpose statement in the TSW agreements 
+included, “this agreement is a third party cooperative arrangement as defined by 34 C.F.R. § 
+361.28 for the purpose of facilitating seamless transition of students with disabilities 
+(“Student[s]”) from high school to the world of work in order to maximize their employability 
+and integration into the workforce and community” (section 2.1 of the Nogales Unified School 
+District ADES contract number DI17-002117). Furthermore, section 2.4 of the TSW agreements 
+state, “this agreement will be administered in accordance with requirements set forth by 34 
+C.F.R. § 361.28 and 34 C.F.R. Part 80, Uniform Administrative Requirements for Grants and 
+Cooperative Agreements to State and Local Governments” (now 2 C.F.R. Part 200).” As such, 
+AZRSA may call the agreement an IGA, but the agreements are to be implemented in 
+accordance with the regulations cited in the contract. As discussed during the on-site portion of 
+the review, agreements and contracts are reviewed by RSA using the regulatory authority under 
+which they are implemented. Since AZRSA cited the third-party cooperative arrangement 
+requirements in the TSW agreements, RSA monitored them using the TPCA requirements.   
+During the FFY 2018 review, RSA reviewed many, but not all, TSW agreements and provided 
+observations, technical assistance and recommendations to AZRSA regarding its match and 
+TSW contracts (observations 5.1 and 5.2 in the FFY 2018 monitoring report). RSA also provided 
+technical assistance to AZRSA regarding interagency transfer requirements and TPCA 
+requirements. At the time of the FFY 2024 review, however, the TSW agreements remained 
+misaligned with interagency transfer and TPCA requirements, and also retained the TPCA 
+requirements. 
+RSA will provide technical assistance to AZRSA to ensure mechanisms to procure services 
+comply with Federal requirements. 
+VR Agency Request for Technical Assistance: AZRSA requests technical assistance to ensure 
+the requirements of the specific contracting mechanisms are met. AZRSA will continue to 
+receive technical assistance from VR TAC-QM and NTACT-C as well. 
+Finding 2.3— Third -Party Cooperative Arrangements (TPCA) Requirements not Met  
+ 
+Issue: Did AZRSA implement TPCAs that met the requirements in 34 C.F.R. §§ 361.28, 
+76.50 and 2 C.F.R. § 200.407. 
+ 
+Requirements: Pursuant to 34 C.F.R. § 361.28—
+
+22 
+(a) The designated State unit may enter into a third-party cooperative arrangement for 
+providing or contracting for the provision of vocational rehabilitation services with 
+another State agency or a local public agency that is providing part or all of the non-
+Federal share in accordance with paragraph (c) of this section, if the designated State unit 
+ensures that— 
+(1) The services provided by the cooperating agency are not the customary or typical 
+services provided by that agency but are new services that have a vocational 
+rehabilitation focus or existing services that have been modified, adapted, expanded, or 
+reconfigured to have a vocational rehabilitation focus; 
+(2) The services provided by the cooperating agency are only available to applicants for, 
+or recipients of, services from the designated State unit; 
+(3) Program expenditures and staff providing services under the cooperative arrangement 
+are under the administrative supervision of the designated State unit; and 
+(4) All requirements of the vocational rehabilitation services portion of the Unified or 
+Combined State Plan, including a State's order of selection, will apply to all services 
+provided under the cooperative arrangement. 
+(b) If a third-party cooperative arrangement does not comply with the statewideness 
+requirement in § 361.25, the State unit must obtain a waiver of statewideness, in 
+accordance with § 361.26. 
+(c) The cooperating agency's contribution toward the non-Federal share required under 
+the arrangement, as set forth in paragraph (a) of this section, may be made through: 
+(1) Cash transfers to the designated State unit; 
+(2) Certified personnel expenditures for the time cooperating agency staff spent providing 
+direct vocational rehabilitation services pursuant to a third-party cooperative arrangement 
+that meets the requirements of this section. Certified personnel expenditures may include 
+the allocable portion of staff salary and fringe benefits based upon the amount of time 
+cooperating agency staff directly spent providing services under the arrangement; and 
+(3) other direct expenditures incurred by the cooperating agency for the sole purpose of 
+providing services under this section pursuant to a third-party cooperative arrangement 
+that—  
+(i) Meets the requirements of this section; 
+(ii) Are verifiable as being incurred under the third-party cooperative arrangement; and 
+(iii) Do not meet the definition of third-party in-kind contributions under 1. 
+ 
+The Uniform Guidance at 2 C.F.R. § 200.407 cites specific circumstances for which prior 
+approval from the Federal awarding agency in advance of the occurrence is either required for 
+allowability or recommended to avoid subsequent disallowance or dispute based on the 
+reasonableness or non-allocability. The Uniform Guidance provision at 2 C.F.R. § 200.303(a) 
+requires that the agency have a process and establish and maintain effective internal control over 
+the Federal award, which provides reasonable assurance that the non-Federal entity is managing 
+the Federal award in compliance with Federal statutes, regulations, and the terms and conditions 
+of the Federal award. 
+ 
+Analysis: During the period under review, AZRSA entered into Transition from School to Work 
+(TSW) contracts with 32 out of 674 local school districts, to provide pre-employment transition
+
+23 
+services, transition planning, and transition services to students with disabilities who have been 
+determined eligible for VR services.  
+ 
+Section 2.0 of the TSW agreements state the purpose of the agreements as, “This is a third-party 
+cooperative arrangement as defined by 34 C.F.R. § 361.28 for the purpose of facilitating 
+seamless transition of students.” As such, RSA applied TPCA requirements to its review of these 
+contracts.  
+ 
+From FFY’s 2019 through 2021, AZRSA provided and arranged for the provision of pre-
+employment transition services through TPCAs, as well as through vendors and by AZRSA staff. 
+To determine if TPCAs complied with 34 C.F.R. § 361.28, RSA reviewed a sample of ten TSW 
+written agreements, including contracts with the Benson (DI18-002136), Buckeye (DI17-
+002130), Cave Creek (DI17-002120), Mesa (DI17-002111), Nogales (DI17-002117), St. David 
+(DI17-002131), and Tucson (DI17-002119) Unified School Districts; and contracts with the 
+County of Maricopa (DI-002123), Miami (DI17-002110) Area District, and Gila County (DI17-
+002110) School District. Based on this review, RSA found that AZRSA’s written agreements 
+implementing the TSW arrangements and the conduct of the TSW program were not in 
+compliance with 34 C.F.R. § 361.28 because they did not—   
+ 
+● Appear to apply the entire portion of the non-Federal share generated by the TSW 
+contracts (42.6 percent) to the VR program (34 C.F.R. § 361.28(a)). This issue will be 
+addressed outside the scope of this monitoring report; 
+● Provide only those services that are new services that have a VR focus, or existing 
+services that have been modified, adapted, expanded, or reconfigured to have a VR focus 
+as required by 34 C.F.R. § 361.28(a)(1);  
+● Demonstrate that AZRSA maintained administrative supervision over the program 
+expenditures and staff providing services under the TPCA, as required by 34 C.F.R. § 
+361.28(a)(3), as well as 34 C.F.R. § 361.13(c)(1); and 
+● Reference and apply requirements related to the availability of services when 
+implementing an order of selection (OOS) (34 C.F.R. § 361.28 (a)(4)). 
+ 
+These areas of non-compliance are discussed in more detail below.  
+ 
+Non-Federal Share  
+Pursuant to 34 C.F.R. § 361.28, the DSU may enter into TPCAs with another State agency or 
+local public agency for the provision of VR services only if the cooperating agency provides 
+some or all of the non-Federal share (i.e., match) for those services through the mechanisms 
+permitted by 34 C.F.R. § 361.28(c). RSA has identified concerns regarding the receipt and use of 
+TSW matching funds, which will be addressed outside of this monitoring report. 
+ 
+New or Expanded VR Services  
+A fundamental requirement of a TPCA is that the cooperating agency must provide new services 
+that have a VR focus or must modify, adapt, expand, or reconfigure existing services to have a 
+VR focus. In other words, the cooperating agency cannot provide typical services it would 
+ordinarily provide during the regular course of business as part of its TPCA responsibility. In 
+reviewing the TSW arrangements, many included transition services that closely align with the
+
+24 
+five required activities under pre-employment transition services; however, the scope of services 
+portion (section 4.4) of the contracts did not include a crosswalk to align TSW services to the 
+five allowable required activities under pre-employment transition services; nor are the five 
+required activities clearly defined in sections 4.4.1.1 through 4.4.1.5. For example, job readiness 
+includes activities such as job applications, FAFSA, financial aid information, resumes, 
+interview skills, and IPE amendments (e.g., Gila County, (DI-17-002100). The bundling of 
+activities may lead to inaccurate reporting of required activities provided. Specifically, job 
+exploration counseling should include interest inventory assessments, resume writing and 
+interview skills, and job applications, while counseling on enrollment opportunities in 
+comprehensive transition programs or educational programs at IHEs should include assistance 
+with FAFSA applications and financial aid information.  
+ 
+The TSW invoices submitted by AZRSA to RSA prior to the on-site review only included a list 
+of budget costs and invoice amounts for personnel expenses, employee related expenses, other 
+expenses (i.e., materials, supplies, local travel, TSW training/conferences and other expenses), 
+and capital equipment expenses. The invoices themselves did not include a description of the 
+specific costs being charged within the allocated budgets; a breakdown of TSW hours worked on 
+the VR program, school district programming or administrative activities; time and effort reports 
+to substantiate and verify time spent on VR focused services; the list of services provided, or the 
+students served (Nogales SFY 2019 contract DE0911183-001, August 2018 billing). While on-
+site, AZRSA submitted a Transition from School to Work Quarterly Activity Summary 
+(December 2018 Exhibit 6, Nogales Unified School District DE0911183-001), which included a 
+list of 25 students and reflected that each student received five activities (i.e., inventory 
+assessment (IA), career exploration (CE), job readiness (JR), orientation/adjustment to disability 
+(OAD), and work experience (WE)). However, there were no additional details regarding the 
+time spent on each specific activity or skills gained. Although AZRSA provided RSA with a 
+student progress report template that included check boxes for services provided, activities and 
+notes, it was blank and did not include the number of hours spent on each activity. As a result, 
+RSA was not able to determine the portion of the TSW services that were cross-walked and 
+reported as required activities or charged to the funds reserved for the provision of pre-
+employment transition services for each student in receipt of such services. 
+ 
+In addition to the expense budgets described above, TSW contracts also included the purchasing 
+of equipment for the school districts, including trucks (Tucson, DI17-002119)), wheelchair 
+accessible vans (Maricopa (DI17-002123 and Buckeye (DI17-002130)), vehicle repair 
+(Maricopa), tablets, chrome laptops (Nogales (DI17-002117) and Maricopa), Google EPU 
+license (Nogales), cell phones for staff (Maricopa), shredders (Maricopa), print shop equipment 
+(Nogales), Apple card/assistive technology applications (Maricopa), 1000 feet rental space and 
+house machinery, tools and supplies (Tucson). AZRSA did not require that equipment purchased 
+for the TSW be included on student IPEs. AZRSA communicated that it had not completed an 
+official inventory of equipment purchased through the TSW contracts. Rather, the agency 
+reported that it “dropped-in where there are computers and phones to do a visual inventory.” 
+RSA clarified that TPCAs are not establishment contracts, and thus, these “equipment 
+purchases” are not appropriate purchases under a TPCA. In addition, RSA clarified that any 
+equipment purchased by AZRSA is property of the VR program that must be inventoried and 
+returned to AZRSA when no longer used for applicants and recipients of VR services.
+
+25 
+ 
+Although AZRSA communicated that most school districts have career assessment, career 
+exploration, IEP case management; and some have job fairs, resume writing and self-advocacy 
+classes, and work-based learning experiences; the TSW contracts did not state which services 
+were customarily provided by the school districts (e.g., transition exploration class offered to all 
+IEP and 504 students in the district (Maricopa), participation in and work experiences with 
+Special Olympics and Best Buddies (Deer Valley HS contract DI17-002123), Circle of Friends 
+(Boulder Creek/2019 Maricopa TSW), and School-Based Transition from School to Work 
+Resource Center (Tucson).  
+ 
+Customary or typical activities available to all students regardless of their participation in the VR 
+program or the activities offered under the TPCA would not be allowable TPCA costs. In 
+addition, RSA noted that the TPCAs did not state that common school activities (e.g., substitute 
+teacher, lunch, recess, or bus duties) may not be charged to the VR program because they are not 
+VR activities. AZRSA did not provide RSA with a monitoring or internal control process that 
+ensured unallowable staff activities were not being charged through the TSW arrangements. 
+ 
+At the time of the review, section 9.1.2.2 of the contract templates did not include a description 
+of the controls in place to ensure that only allowable service costs were charged to the VR 
+program. Nor did the contract templates include the portion of the contract that was to be 
+charged to the funds reserved for the provision of pre-employment transition services. Rather, 
+AZRSA communicated that its central office staff determines the portion of the contracts to 
+charge to the reserve.  
+ 
+Since AZRSA did not have a monitoring or internal control process in place at the time of the 
+review, it was unclear to RSA whether these costs were paid under the TPCAs with Federal VR 
+grant funds or non-Federal funds used for match purposes. Consequently, RSA could not 
+determine solely based on the language of the written agreements whether the services provided 
+by the cooperating school districts were new services with a VR focus, or existing local 
+educational agency (LEA) services that were expanded or modified to include a VR focus, in 
+accordance with 34 C.F.R. § 361.28(a)(1). The VR agency must ensure that services already 
+provided by the school district are not listed in the scope of services for the contract, unless 
+modified to have a VR focus.  
+ 
+Furthermore, the arrangements did not indicate which VR services were being purchased and 
+provided through each TPCA arrangement. For example, section 4.1 of TSW agreement DI17-
+002119 (Tucson Unified School District) states that services under this agreement include 
+“enhanced TSW services” which are “structured and goal oriented vocational-educational 
+services” to assist students in developing work readiness skills, selecting their vocational goals, 
+and preparing them for successful transition from school to work. This section does not list the 
+five required activities to be provided. Furthermore, section 4.2.2 excludes students potentially 
+eligible for VR pre-employment transition services from TSW services. TSW service outcomes 
+(section 4.4.1) include areas from which students will acquire knowledge (e.g., self-assessment, 
+disability awareness, identification of postsecondary education/training opportunities, knowledge 
+of how to apply to training institutions, scholarships, accommodations and how to perform job 
+searches) and develop a portfolio with individualized information similar to self-awareness,
+
+26 
+career exploration, job readiness, work experience, and a post high school plan. The TSW 
+agreements include a service methodology (attachment 2) which states the enhanced 
+comprehensive transition services (at a minimum) to be provided (e.g., career readiness, job 
+readiness skills, work-based learning, disability awareness and self-advocacy, postsecondary 
+education and training planning, independent living skills, and career portfolio development (i.e., 
+a multi-disciplinary evaluation team report, individualized education program (IEP), IPE, 
+summary of performance (SOP), academic learning accommodations, employment barriers and 
+needed accommodations and copy of picture identification). Although Section 6.0 of attachment 
+2 (service methodology) includes a checklist of the applicable categories of service that the TSW 
+curriculum will include (e.g., job exploration counseling, counseling on opportunities for 
+postsecondary training, job readiness skills training to develop social and independent living 
+skills and self-advocacy), it does not list the specific VR services, including pre-employment 
+transition services and transition services that are to be purchased and provided through the 
+specific TSW agreements. Lack of expressed clarity in the written TPCA agreements does not 
+adequately protect Federal and non-Federal funds and could lead to further non-compliance and 
+questioned costs if not remedied.  
+ 
+Administrative Supervision  
+VR program regulations in 34 C.F.R. § 361.28(a)(3) require AZRSA to maintain administrative 
+supervision over the program expenditures and cooperating agency staff providing VR services 
+under the TPCA. In addition, as is true with all VR services regardless of the means by which 
+they are provided (including by TPCAs), AZRSA remains solely responsible for all decisions 
+affecting the nature, scope, and provision of VR services and the allocation and expenditure of 
+VR funds (34 C.F.R. § 361.13(c)(1)(i) and (iv) and (2)). This means it is AZRSA’s responsibility 
+to identify the services to be provided under the TPCA, the population to be served, the number 
+of individuals to be served, and the duration of each of those services. As a Federal grantee, 2 
+C.F.R. § 200.329(a) requires AZRSA to conduct monitoring and oversight activities of all of its 
+grant supported activities, which would include TPCAs, to ensure compliance with Federal 
+requirements. Through proper contract development, implementation, and monitoring, AZRSA, 
+would exercise its administrative supervision over the program expenditures and cooperating 
+agency staff providing services under the TPCA, as required by 34 C.F.R. § 361.28(a)(3).  
+ 
+The TPCA agreements state that the contractor is responsible for the administrative oversight of 
+the TSW program (section 5.2.11 contract DI17-002117 Nogales Unified School District), 
+including service provision, providing supervision and guidance for the TSW coordinators and 
+TSW technicians, and the expenditure of funds for TSW services.  Section 5.2.11.2 details the 
+contractor responsibilities to document TSW personnel activity reports and timesheets; however, 
+there is no requirement that personnel activity reports and timesheets be submitted with invoices 
+for AZRSA to verify TSW staff time spent on the provision of TSW services, including pre-
+employment transition services and transition services. The contractor is also responsible for 
+hiring qualified personnel to provide TSW services (section 5.2.8). Section 5.3.8 of these 
+contracts limits AZRSA’s administrative oversight to determining that all expenditures are 
+allowable, verifying students in the TSW program are qualified VR applicants or recipients, and 
+providing technical assistance to TPCA partners and supervision and guidance of the VR 
+counselors from a designated VR supervisor.
+
+27 
+RSA acknowledges that the TPCA agreements indicate the limited manner in which AZRSA 
+exercises administrative supervision of the funds used to implement the TSW projects, as 
+required by 34 C.F.R. § 361.28(a)(3). Although contract DI17-002117 states that AZRSA will 
+make a determination that all TSW program expenditures are allowable, reasonable and 
+necessary, it does not specify that AZRSA ensures staff providing services under the cooperative 
+arrangement are under the administrative supervision of the designated State unit. The VR 
+agency should be monitoring the TSW services received and the portion of TSW staff time spent 
+delivering VR services, including pre-employment transition services and transition services. 
+During the review, RSA found that the VR agency did not have written policies, procedures, or 
+internal controls (e.g., contract monitoring, data validation, RSA-911 reporting of services) 
+specific to the TSW TPCAs.  
+ 
+RSA advised AZRSA to develop written processes and internal controls to strengthen its 
+administrative oversight of these arrangements to ensure appropriate cost allocation, and that the 
+agency exercises administrative supervision over the funds and staff involved in the TSW 
+projects and ensures compliance with the non-delegable function requirements. AZRSA’s TPCA 
+contractual language must clearly reflect how the Federal TPCA requirements are being met. 
+Without AZRSA’s proper administrative supervision over the expenditures and staff providing 
+services under the TPCAs, RSA was unable to determine that AZRSA verified the portion of 
+time invoiced was actually spent delivering VR services, including pre-employment transition 
+services and transition services, from the documentation submitted by the VR agency. 
+Specifically, payroll information only included the amount billed, not the services provided, or 
+hours spent on service provision. The Student Activity Summary only included the student’s 
+name, VR counselor’s name, whether the student completed “TSW services” successfully, 
+whether the student dropped out, and an anticipated graduation year. The summary provided to 
+RSA did not include a report of each pre-employment transition service received by each student 
+for RSA-911 reporting purposes; or how AZRSA determines what portion of the TSW 
+agreement is to be charged to the funds reserved for the provision of pre-employment transition 
+services. 
+ 
+After the on-site portion of the monitoring review, AZRSA provided school district vendor 
+invoices and payroll documents as supporting documentation to demonstrate that overall time 
+spent per position is tracked and aligned to the contract documents. However, the payroll records 
+showed only total amounts billed to AZRSA for each staff person. There is no indication of the 
+number of students served, nor the number of hours spent on providing each service. Likewise, 
+the invoices contained only position titles, names, percentages charged to AZRSA, and amounts. 
+There is nothing to substantiate that the staff conducted the activities specified in the agreement,  
+or the amount of time spent in doing so.    
+ 
+TSW contracts included personnel and other expenses, for various types and combinations of 
+personnel, including certified teachers/coordinators, teacher technician, transition technician, 
+transition specialist, transition coordinators, summer transition technicians and paraprofessionals. 
+AZRSA communicated that it, “attempted to bridge the gap between collaborating partners by 
+using language that was understandable by both entities and not specifically related to vocational 
+rehabilitation rules and regulations.” RSA clarified that all VR requirements apply to VR funded 
+agreements. The Tucson contract (DI17-002119, effective July 1, 2017 – June 30, 2022),
+
+28 
+included substitutes, and the Miami Unified School District contract (DI17-002110) included an 
+FTE for a Transition Coordinator that only had 55 percent of their time dedicated to the TSW. 
+Some TSW positions are noted as 100 percent FTEs (i.e., Certified Teacher/Coordinator and 
+Transition Technicians) who are responsible for providing enhanced transition services and 
+facilitating the transition from high school to the world of work and maximizing graduation 
+(Nogales Contract, Section 7.0, July 2018). While on-site, AZRSA shared that some school 
+districts do not have transition teams and have foregone or are not funding “teachers, transition 
+planning and vocational guidance counselors.” In those instances, the TSW team provides those 
+services. RSA clarified that the VR program cannot fund program requirements under the 
+Individuals with Disabilities Education Act (IDEA). Section 7.0 of the TSW contracts did not 
+include how TSW staff time allocation is monitored and evaluated by AZRSA. AZRSA reported 
+that it does not require time and effort reports from TSW staff. Rather, AZRSA conducted 
+extensive time studies “a few years ago” to determine what portion of time should be charged to 
+the funds reserved for the provision of pre-employment transition services, and what portion of 
+time was spent on administrative duties. It was determined that 10 percent of TSW staff time was 
+spent on administrative duties and that amount was “pulled out” of the amount charged to the 
+reserve. RSA communicated concern that staff are working on multiple cost objectives that 
+require AZRSA to verify staff time charged to the TSW contract to ensure costs are allocated to 
+the correct programs and respective cost objectives. 
+ 
+The TSW contracts did not contain enough details regarding the positions being funded to 
+determine whether the salaries are proportional to the benefit received by the VR program, which 
+is required of any cost to be allowable under the Federal cost principles at 2 C.F.R. §§ 200.403 
+through 200.405 and, thus, used toward the non-Federal share of the arrangement. TPCAs 
+include various percentages (e.g., 100 percent, 55 percent) that staff are assigned to the TSW 
+program, which includes services beyond VR services. Specifically, the TPCA does not specify 
+the percentage of time the staff are to be providing VR services. It also does not state whether the 
+positions are full or part-time, or the duration of the position (e.g., 9, 10 or 12- month positions). 
+TSW contract attachments, such as a budget sheet (attachment 1) requires the school to enter the 
+percentage of time a school staff member would work directly on the TSW agreement; however, 
+budget sheets do not state if the employee is full or part time.  
+ 
+The TSW arrangement does not include specific criteria to determine job qualifications for TSW 
+positions. Rather, section 5.2.8 of the Nogales Unified School District DI17-002117 contract 
+states that the contractor will hire qualified personnel (i.e., coordinator (certified teacher) or 
+transition technician (certified teacher or para-professional) to provide TSW services in 
+accordance with the job descriptions (TPCA Exhibit 3)). The TPCA does not describe education 
+or experience requirements for TSW staff, other than “certified teacher or para-professional,” or 
+AZRSA’s level of involvement in determining necessary job qualifications or the selection 
+process. In addition, the transition technician job description includes generic responsibilities 
+such as marketing and public relations, recruitment of students, transition planning, attending 
+training seminars and transition planning meetings, networking, establishing procedures to 
+ensure effective case management, implementing record keeping procedures, gathering 
+documents for transition planning, assisting students with mobility/transportation to keep 
+appointments, analyzing worksites and matching students, assisting with teaching the TSW 
+curriculum as directed by the TSW coordinator, and providing one-on-one assistance to students
+
+29 
+in the delivery of instruction for vocational, independent living, and personal/social content 
+areas. The job description is not specific to the VR services, including transition services and 
+pre-employment transition services that are to be provided by TSW staff. The job descriptions 
+also require that TSW staff maintain a log of all activities and time spent on TSW programming. 
+RSA was unable to locate any activity logs from TSW staff provided by AZRSA during the 
+review period. The job requirements for the positions being paid through these contracts must be 
+clear because that will affect the amount paid for salaries. AZRSA must approve the VR job 
+duties for which the cooperating agency is being reimbursed to ensure they are allowable VR 
+activities and consistent with Federal cost principles at 2 C.F.R. §§ 200.403 through 200.405, 
+consistent with AZRSA’s non-delegable functions at 34 C.F.R. § 361.13(c)(1)(iv), and with the 
+administrative supervision requirements of the DSU pursuant to 34 C.F.R. § 361.28(a)(3). By 
+including the specific job qualifications and VR-related responsibilities and VR services to be 
+provided in the TPCA itself, AZRSA can ensure that it will satisfy all fiscal and programmatic 
+requirements relevant to the TPCA, as well as its own non-delegable functions.  
+ 
+State Plan Requirements, including OOS, Apply  
+In accordance with 34 C.F.R. § 361.28(a)(4) TPCAs are administered in accordance with all 
+terms of the agency’s State Plan, including the OOS. Section 3.0 of the TSW projects 
+arrangement included language that … various percentages (i.e., 100 percent, 98 percent)] of 
+students accepted as referrals to TSW program will be determined eligible for the VR program, 
+meet TSW standards, VR eligibility, and OOS; while section 4.3.1 includes a statement that OOS 
+applies.  
+ 
+Although AZRSA was not implementing an OOS at the time of the review, the TPCA must 
+indicate that all State plan requirements apply, and students are not determined eligible on the 
+basis that they are TSW program referrals alone. RSA clarified that if AZRSA was implementing 
+an OOS, it would not be able to provide pre-employment transition services to a VR-eligible 
+student assigned to a closed priority category and wait list, unless the student began receiving 
+such services prior to being determined eligible, (34 C.F.R. § 361.36(e)(3)(i)). VR-eligible 
+students assigned to a wait list would not be permitted to receive VR services, including 
+transition services, until the priority category to which they were assigned is opened or they are 
+removed from the wait list by date of application. This clarification and language should be 
+included in agreements and contracts through which AZRSA procures pre-employment transition 
+services.  
+ 
+Review of prior approval requests submitted by AZRSA for the periods under review indicated 
+no prior approval request for the vehicles and other equipment purchased under the TSW. 
+ 
+Conclusion: Based on the information and documentation provided during the monitoring 
+process, RSA concludes that AZRSA failed to satisfy Federal requirements governing TPCAs 
+pursuant to 34 C.F.R. § 361.28. AZRSA failed to take proper steps in the development, 
+implementation, and monitoring of the cooperative arrangements to protect Federal funds and 
+ensure they were only used for VR purposes. In addition, AZRSA was non-compliant with the 
+prior approval standards cited in the “Requirements” section of this finding. AZRSA must ensure 
+that significant lapses in basic internal controls do not recur.
+
+30 
+AZRSA must revise the written TPCAs to ensure the agency satisfies all Federal requirements 
+governing TPCAs. In addition to the revisions that must be made to ensure compliance, AZRSA 
+should make other revisions to the TPCA agreements as described above to ensure accuracy.  
+ 
+Corrective Actions 2.3 RSA requires that AZRSA —  
+ 
+2.3.1 Cease the payment of any TPCA costs that are 1) not appropriately allocated to VR based 
+on the benefit to the program or 2) that AZRSA is unable to clearly demonstrate through 
+monitoring and documentation directly benefitted the VR program;  
+2.3.2 Within 120 calendar days from the issuance of the final report, revise its TPCA 
+documents to be consistent with 34 C.F.R. § 361.28. Such revisions must include the 
+following—   
+A.  The document must state that the third-party cooperating agency is providing all or 
+part of the non-Federal share and clearly specify the amount that is to be collected 
+through the TPCA and applied to the VR program;  
+B.  The document must describe the scope of VR and pre-employment transition services 
+offered through the arrangement. Specifically, services provided must be either new 
+services or modified services with a VR focus;  
+C.  The document must specify that the arrangement is only serving individuals who are 
+applicants for or recipients of VR services; and  
+D.  The document must describe in detail the way in which AZRSA administers 
+supervision over the funds and the staff;  
+2.3.3 Within 120 calendar days from the issuance of the final report, AZRSA must develop 
+written policies and procedures, including internal controls specific to its TPCAs, thereby 
+demonstrating the administrative supervision the agency has over the expenditures and 
+staff providing services under the TPCAs;   
+2.3.4 Provide RSA with the revised TPCA contract template for review for consistency with 
+Federal requirements prior to submitting revisions or amendments to contractors;  
+2.3.5 Implement the revised TPCA contracts within 90 calendar days following RSA’s review 
+of compliance with Federal requirements; and  
+2.3.6  Develop and implement policies and procedures, as well as a written internal control 
+process, including a monitoring component, to ensure ongoing compliance with the prior 
+approval requirements for equipment purchased under contracts paid (all or in part) with 
+VR funds. 
+ 
+VR Agency Response: AZRSA acknowledges the finding and commits to developing and 
+implementing corrective actions associated with Finding 2.3 to ensure compliance.  
+ 
+See response under Finding 2.2 regarding previous review by RSA of all Transition School to 
+work agreements in 2018. 
+ 
+AZRSA would like to clarify that while AZRSA did not spend the full 42.6 percent generated by 
+TSW contracts in FYs 2019 - 2021, the funds did remain within the VR program. AZRSA 
+acknowledges that reports were not available to effectively demonstrate this during the 
+monitoring period. However, post-monitoring, in May 2024 process documentation and 
+reporting was provided to RSA for review.
+
+31 
+ 
+Further information related to concerns regarding non-Federal share revenue reporting related to 
+TSW Admin are noted in response to Finding 3.1.  
+RSA Response: The matter of match expenditures from TSW contracts is still under review at 
+RSA and will be resolved outside of this report and the follow-up CAP. See RSA’s response 
+under Finding 2.2 regarding the 2018 Section 107 monitoring review. 
+VR Agency Request for Technical Assistance: AZRSA requests technical assistance to ensure 
+the requirements of the specific contracting mechanisms are met.  AZRSA will continue to 
+receive technical assistance from VR TAC-QM and NTACT-C as well.
+
+32 
+SECTION 3: FOCUS AREA – FINANCIAL MANAGEMENT OF THE STATE 
+VOCATIONAL REHABILITATION SERVICES AND STATE SUPPORTED 
+EMPLOYMENT SERVICES PROGRAMS  
+A. PURPOSE 
+Through this focus area RSA assessed the financial management and fiscal accountability of the 
+VR and Supported Employment programs to ensure that: funds were being used only for 
+intended purposes; there were sound internal controls and reliable reporting systems; that 
+available resources were maximized for program needs; and funds supported the achievement of 
+competitive integrated employment for individuals with disabilities, including those with the 
+most significant disabilities, and the needs of students with disabilities for pre-employment 
+transition services.  
+B. SCOPE OF FINANCIAL MANAGEMENT REVIEW AND PERFORMANCE   
+    ANALYSIS 
+The effective and efficient fiscal administration of the VR and Supported Employment programs 
+is essential to the ability of a VR agency to maximize the funds available for attainment of 
+employment outcomes for individuals with disabilities. RSA reviewed components of AZRSA’s 
+financial management system and assessed the fiscal accountability of the programs to—  
+● Ensure funds are obligated and expended in accordance with State and Federal 
+requirements and used only for allowable purposes;  
+● Ensure programs have sound internal controls and reliable reporting systems;  
+● Identify needed improvements in fiscal policy, processes, and procedures to maximize 
+the use of Federal funds to benefit VR participants and students with disabilities; and,  
+● Ensure a relative benefit to the VR system is proportional to the expenditure (e.g., 
+contracts, one-stops, indirect cost rates, cost allocation plans, etc.). 
+RSA reviewed the use and expenditure of Federal funds to assist AZRSA in minimizing the 
+return of funds for reallotment and/or the return of unused funds at the end of the period of 
+performance for the award. Therefore, the scope of this focus area is primarily on the financial 
+management and operations that impact the use of or return of Federal funds. 
+Fiscal data indicate that the Arizona DES, the umbrella agency over the designated State agency, 
+the DERS, and the designated State unit (AZRSA), expended 122.9
+1 percent, 88.2 percent and 
+84.8 percent of its VR formula award amounts in FFYs 2019, 2020 and 2021 respectively. In 
+addition, AZRSA was awarded carryover funding for each of those years, and all the VR awards 
+for FFYs 2019 through 2021 have been closed by RSA. The cumulative amount of unspent 
+Federal funds was $23,264,843 for FFYs 2019 – 2021. 
+ 
+AZRSA did not meet the requirements to reserve and expend 15 percent of its matched Federal 
+allotment for pre-employment transition services for FFYs 2019 through 2021; however, 
+ 
+1 AZDES received $20,000,000 in FFY 2019 reallotment funding.
+
+33 
+AZRSA did meet the reserve and expenditure requirement for FFY 2022 and appears to be on 
+track to meet the requirement in FFY 2023. This is discussed in more detail in the fiscal findings 
+section of this report. 
+ 
+RSA reviewed the following areas related to financial management and accountability: 
+ 
+Period of Performance  
+ 
+Period of performance is the time during which the non-Federal entity (grantee) may incur new 
+obligations to carry out the work authorized under the Federal award (2 C.F.R. § 200.1). To 
+accurately account for Federal and non-Federal funds, the VR agency must ensure that allowable 
+non-Federal and Federal obligations and expenditures are assigned to the correct Federal fiscal 
+year award. RSA uses the financial information reported by the grantee to determine each VR 
+agency’s compliance with fiscal requirements (e.g., carryover, reservation of funds, matching, 
+etc.).  
+ 
+The RSA review team assessed AZRSA’s performance in meeting the period of performance 
+requirements related to the proper assignment of obligations and expenditures to the correct grant 
+award(s).  
+ 
+RSA reviewed documentation and information provided by AZRSA in support of managing 
+period of performance and obligations in compliance with Education Department General 
+Administrative Requirements (EDGAR) at 34 C.F.R. § 76.707; in the Uniform Guidance at 2 
+C.F.R. § 200.1; and in the grant award notices. RSA noted a lack of written internal controls over 
+periods of performance specific to the EDGAR and the VR program, and RSA’s conclusions are 
+discussed in more detail in Finding 3.3 of this report.  
+ 
+Technical Assistance  
+ 
+● RSA discussed each of the items found at 34 C.F.R. § 76.707. 
+ 
+Recommendations  
+ 
+● AZRSA should develop, test, implement, and monitor internal controls over periods of 
+performance that address the requirements at 34 C.F.R. § 76.707 and elsewhere as 
+appropriate.
+ 
+VR Program Match  
+VR program regulations require the State to incur a portion of expenditures under the VR 
+services portion of the Unified or Combined State Plan from non-Federal funds to meet its cost 
+sharing requirements (34 C.F.R. § 361.60). The required Federal share for expenditures made by 
+the State, including expenditures for the provision of VR services and the administration of the 
+VR services portion of the Unified or Combined State Plan, is 78.7 percent. The State’s share is 
+21.3 percent. RSA assessed AZRSA’s performance in meeting the matching requirements for the 
+VR program, including the extent to which the matching level was met, and the Federal funds
+
+34 
+matched were expended, as well as whether the sources of match were consistent with Federal 
+requirements and any applicable maintenance of effort (MOE) issues. 
+The RSA review team addressed requirements pertaining to the following sources of non-Federal 
+share used by the State as match for the VR program:  
+● State appropriations and interagency transfers; 
+● Non-appropriated State revenue;  
+● Third-Party Cooperative Arrangements; and  
+● Vendor contract revenue.  
+AZRSA relies on State appropriations, TPCAs, and contracts to satisfy its non-Federal share 
+requirements. RSA has several concerns with AZDES’ management, reporting, and oversight of 
+VR match funds, specific to the TSW contracts, which will be addressed outside of this report.  
+ 
+Through the review of the TSW contracts and State general ledger, RSA identified 50 percent 
+more in match revenue than was reported by AZRSA on the SF-425/RSA-17. Matching 
+expenditures are reported in sections D and E of the RSA-17 and line 10.j of the SF-425. Line 
+10.k of the SF-425 auto-calculates to show remaining match (deficit, surplus or zero)
+. At the 
+time of report development, RSA was unable to reconcile the variances between the match 
+reported in FFRs and match recorded in the VR program’s GL. However, this matter will be 
+fully explored and resolved outside this monitoring report. 
+ 
+Technical Assistance 
+ 
+● During the monitoring visit, RSA provided a detailed description and technical assistance 
+related to the six match sources described in RSA-TAC-23-01 Allowable Sources of 
+Non-Federal Share for the State Vocational Rehabilitation Services Program. 
+● RSA clarified that any non-Federal share generated by the TSW contracts for the VR 
+program should only be applied to and used by the VR program. 
+● To the extent that an LEA paid non-Federal share under the agreement and the non-
+Federal share was not applied to or used by the VR program, RSA clarified that those 
+agreements would not constitute TPCAs in accordance with 34 C.F.R. § 361.28(a). 
+● RSA also clarified that AZRSA’s contractual agreements with providers, including 
+TPCAs, must contain language that is consistent with Federal and State requirements to 
+ensure Federal funds are protected and used only in an allowable manner.  
+ 
+Recommendations 
+ 
+● AZRSA should use additional matches to leverage more Federal funds and provide more 
+VR services to individuals with disabilities in need of VR services.
+
+35 
+Supported Employment Program Match 
+Supported Employment program regulations require that the State expend 50 percent of its total 
+Supported Employment program allotment for the provision of supported employment services, 
+including extended services, to youth with the most significant disabilities. The Supported 
+Employment program funds required to be reserved and expended for services to youth with the 
+most significant disabilities are awarded through the SE-B grant award. The Federal share for 
+expenditures from the State’s SE-B grant award is 90 percent. The statutorily required 10 percent 
+match requirement applies to the costs of carrying out the provision of supported employment 
+services, including extended services, to youth with the most significant disabilities. This means 
+that the 10 percent is applied to total expenditures, including both the Federal and non-Federal 
+shares, incurred for this purpose, and that the non-Federal share must also be spent on the 
+provision of supported employment services, including extended services, to youth with the most 
+significant disabilities. 
+The RSA review team assessed the matching requirements for the Supported Employment 
+program, including an assessment of whether the matching level was met, as well as whether the 
+sources of the match were consistent with Federal requirements. 
+In FFY 2019 reallotment, AZRSA relinquished half of its SE-A and SE-B formula awards 
+($89,627 of $179,253) and expended 31.7 percent and 6.6 percent of the remaining balances. The 
+relinquishment increased to 50 percent in 2020 with $91,236 of $182,472 relinquished for both 
+SE-A and SE-B, while the remaining balances were unspent. In 2021, AZRSA made no SE-A or 
+SE-B relinquishments but the entire award amounts of $184,632 for SE-A and $184,632 for SE-
+B were unspent. 
+ 
+Technical Assistance  
+ 
+● Technical assistance is noted in Section 2 under Factors Influencing Performance. 
+AZRSA indicated that the SE program activities were more efficiently managed under 
+the VR award.
+ 
+ 
+Recommendations 
+ 
+● Recommendations are included in Section 2 under Factors Influencing performance.  
+Pre-Employment Transition Services Reservation and Expenditure of Funds 
+Section 101(a)(25) of the Rehabilitation Act requires State VR agencies to assure in their Unified 
+or Combined State Plan, with respect to students with disabilities, that the State has developed 
+and implemented strategies to—   
+● Address the needs identified in the assessments described in Section 101(a)(15) of the 
+Rehabilitation Act;  
+● Achieve the goals and priorities identified by the State in accordance with section 
+101(a)(15) of the Rehabilitation Act to improve and expand VR services for students with 
+disabilities on a statewide basis; and provide pre-employment transition services.
+
+36 
+“Pre-employment transition services,” as defined at Section 7(30) of the Rehabilitation Act, 
+“means services provided in accordance with Section 113.” Section 113(a) of the Rehabilitation 
+Act requires the State to ensure it will use the funds reserved under Section 110(d)(1) of the 
+Rehabilitation Act to provide, or arrange for the provision of, pre-employment transition services 
+to students with disabilities. Section 110(d)(1) of the Rehabilitation Act establishes the 15 
+percent minimum reservation requirement for the State from its VR allotment. Together, 
+Sections 7(30), 101(a)(25), 110(d)(1), and 113 of the Rehabilitation Act create the statutory basis 
+for the State Plan provisions governing pre-employment transition services.  
+Early career exploration through pre-employment transition services increases the likelihood of 
+students with disabilities achieving high-quality competitive integrated employment. RSA 
+explored the use of funds for the provision of pre-employment transition services and the extent 
+to which AZRSA is meeting the State required reservation and expenditure of at least 15 percent 
+of its matched Federal VR grant funds.  
+The level of Federal funds expended for pre-employment transition services was 13.5 percent in 
+FFY 2019, decreasing to 11.2 percent in 2020, and decreasing further to 8.6 percent in 2021. 
+However, in FFY 2022 AZRSA met the 15.0 percent requirement. In addition, at the time of 
+report development, the agency appeared to be on track to also meet the requirement in FFY 
+2023. 
+Technical Assistance 
+ 
+● AZRSA is currently working to address this finding in a separate FFY 2021 non-
+compliance pre-employment transition services CAP established outside of this 
+monitoring report. 
+Vendor Contracts  
+DES reported third party cooperative arrangements (TPCA) as a significant source of match. 
+These agreements are also called intergovernmental agreements (IGA) or contracts, 
+interchangeably, creating ambiguity. The RSA team reviewed three areas related to vendor 
+agreements: 
+ 
+● Terms, scope, deliverables and requirements;  
+● Supporting documentation for invoicing; and 
+● Administration and monitoring. 
+ 
+Due to the wording of these agreements, they will be referred to as “contracts” as they act most 
+in line with a contract with a State agency. RSA reviewed contracts through which AZRSA 
+provided pre-employment transition services. These contracts are used to provide both pre-
+employment transition services and VR services. DES entered into contracts with several 
+organizations, and a detailed assessment of these is discussed in Finding 3.6 of this report.
+
+37 
+Technical Assistance 
+ 
+● RSA advised AZRSA of its duty to manage and oversee contracts in compliance with 
+applicable statutes, regulations, rules, policies, and procedures. 
+● RSA advised AZRSA staff they have the authority to limit, reduce and/or reject any cost 
+proposed by a vendor prior to executing a contract. 
+● RSA advised AZRSA that, for equipment purchased with VR funds (even if under 
+contracts), it must conduct regular, periodic and (preferably) an on-site inventory of 
+equipment, in accordance with State/agency inventory requirements. 
+ 
+Recommendations 
+ 
+● AZRSA should conduct regular, periodic on-site monitoring of contracts. 
+ 
+Internal Controls and Policies 
+Internal controls mean a process, implemented by the grantee, designed to provide reasonable 
+assurance regarding the achievement of objectives in the effectiveness and efficiency of 
+operations, reliability of reporting for internal and external use, and compliance with applicable 
+laws and regulations. Internal controls serve to safeguard assets and prevent fraud, waste, abuse, 
+improper payments, and mismanagement. They include methods and procedures the grantee uses 
+to manage the day-to-day operations of grant-supported activities to assure compliance with 
+applicable Federal requirements and that performance goals are being achieved. The VR 
+agency’s internal controls for ensuring compliance with fiscal requirements will be a core 
+component of the financial management system review, particularly as they relate to the VR 
+agency’s use of Federal funds, including the required reservation of funds for pre-employment 
+transition services, and the requirements for non-Federal match. The Federal fiscal requirements 
+referenced during the review include—  
+● Rehabilitation Act and VR and Supported Employment program implementing 
+regulations in 34 C.F.R. part 361 and 34 C.F.R. part 363, respectively;  
+● Uniform Administrative Requirements, Cost Principles, and Audit Requirements for 
+Federal Awards (Uniform Guidance) located in 2 C.F.R. part 200;  
+● Education Department General Administrative Regulations (EDGAR) in 34 C.F.R. part 
+76;  
+● Departmental and RSA guidance, including Policy Directives (PDs), Technical 
+Assistance Circulars (TACs), Grant Bulletins, Frequently Asked Questions (FAQ), etc.; 
+and  
+● Grant Award terms and conditions. 
+ 
+RSA reviewed internal controls, policies, and practices related to the financial management of 
+the VR and Supported Employment programs. Specific internal control areas of deficiency are 
+cited in the "Findings” section of this report.
+
+38 
+C. Findings and Corrective Actions 
+ 
+RSA’s review of the performance of AZRSA identified the following findings and the 
+corresponding corrective actions regarding inconsistencies and areas of non-compliance with 
+Federal requirements within the scope of this targeted focus area. RSA did not conduct an 
+exhaustive review of all potential areas of non-compliance outside the scope of this focused 
+review. Within 45 days of issuance of the final monitoring report, AZRSA will submit to RSA 
+for approval a corrective action plan (CAP), including specific action steps, timelines, and 
+evidence to demonstrate resolution of the finding. If AZRSA fails to take the necessary 
+corrective actions specified in the approved CAP, RSA reserves the right to take additional 
+enforcement actions pursuant to 34 C.F.R. Part 81 and 2 C.F.R. § 200.339. 
+ 
+3.1 Failure to Exercise Sole Control over the Expenditure of VR Program Funds (Non-
+Delegable Functions) 
+ 
+Issue: Whether AZRSA maintained sole responsibility for the expenditure of VR funds, as 
+required by 34 C.F.R. § 361.13(c)(1)(iv) and (2).  
+ 
+Requirements: The VR program regulations in 34 C.F.R. § 361.13 specify minimum activities 
+that are the responsibilities of the DSU. Specifically, AZRSA, as the DSU, must be solely 
+responsible for: all decisions affecting the eligibility for VR services; the nature, scope and 
+provision of services; determinations to close service records; policy formulation and 
+implementation; the allocation and expenditure of VR funds; and participation of the VR 
+program as a partner in the one-stop service delivery system (see also Section 
+101(a)(2)(B)(ii)(V) of the Rehabilitation Act). AZRSA may not delegate any of these functions 
+or responsibilities to another entity or individual (34 C.F.R. § 361.13(c)(2)).  
+ 
+Analysis: According to the conditionally approved (May 31, 2024) VR services portion of the 
+PY 2024-2027 Unified State Plan, DERS is the designated State agency and AZRSA is the 
+designated State unit. The U.S. Department of Education’s Grants Management System (GMS) 
+reflects the AZRSA director as the State recipient director and another DSU staff person as the 
+State authorizing official. Although DES is not included in the VR services portion of the PY 
+2024-2027 State Plan as the DSA or DSU, it is assigned the UEI and has access to the GMS. By 
+submitting the State Plan, DERS and AZRSA assured RSA that they would satisfy all Federal 
+requirements governing the VR program, which would include those related to AZRSA’s non-
+delegable functions discussed herein. 
+ 
+DES staff, including the senior managing analyst for the Financial Services Administrative 
+Team, DERS staff, including a senior financial analyst for the Finance and Business Operations 
+Administration, and the AZRSA director attended the fiscal monitoring sessions. The Managing 
+Analyst for the Financial Services Administrative Team indicated that the overall responsibility 
+for incurred costs, cost allocation, payroll administration, Federal reporting and Federal 
+drawdowns were managed and overseen at the DES (department in which DERS is located) and 
+DERS/DSA levels. DERS and AZRSA managers met regularly to discuss payroll; however, this 
+was a recently implemented practice. It did not appear the AZRSA director maintained any 
+control or autonomy over payroll costs funded from the VR award and/or matching funds. For
+
+39 
+example, payroll costs allocated to the VR program were shared with the AZRSA director on a 
+regular basis, but there was nothing provided to the AZRSA director to verify that time and 
+effort reported was accurate and allocable to the VR program. Thus, the AZRSA director is 
+unable to ensure that payroll costs paid from VR funds are incurred only in support of the VR 
+program. 
+ 
+After the monitoring review, AZRSA communicated that the Financial Services Administration 
+at the DES level is responsible for Federal reporting of the SF-425/RSA-17 data and Federal 
+drawdowns. The Finance and Business and Operations team shares responsibilities with DERS 
+and AZRSA staff to ensure proper cost allocation of incurred expenses such as payroll and 
+AZRSA program costs. However, during the on-site monitoring review, the AZRSA director 
+stated she had no familiarity with or working knowledge of the number, titles or functions of 
+staff paid from VR funds.  
+ 
+The fiscal management of the VR program, particularly with respect to the allocation and 
+expenditure of VR program funds, is performed by a three-tiered hierarchy in Arizona, including 
+DES at the top tier, DERS (the DSA) in the center, and AZRSA (the DSU) at the lowest tier. The 
+VR program is implemented and executed at the lowest tier. DES staff advised that while there is 
+communication between the top, middle and lowest tiers, the funding decisions, payroll 
+administration, Federal reporting and Federal drawdowns are all managed and controlled at the 
+department and/or division levels. 
+Although the DSA (i.e., DERS) has centralized functions including HR, IT and a Finance and 
+Business Operations Administration, including business operations, finance and budget, 
+contracts and contract monitoring and facilities, DES (one level above the DSA), also includes a 
+Human Resources Administration, Division of Technical Services, Division of Financial 
+Operations, and Division of Business Services.  
+During the onsite portion of the review, AZRSA was unable to document or otherwise 
+substantiate that its degree of control over VR program funds exercised at the department (DES) 
+and DSA (DERS) levels is consistent with the regulations governing non-delegable functions of 
+the DSU. At the time of the review, DES was retaining half of the non-Federal share transferred 
+through the TSW TPCAs to AZRSA. Specifically, DES only transferred 21.3 percent of the 42.6 
+percent non-Federal share to AZRSA. The other 21.3 percent was deposited into the DES VR 
+“TSW Admin Account” that is managed by the finance and business operations administration 
+(FBOA) shared services. During the monitoring review, the AZRSA director was aware of the 
+portion of the non-Federal funds generated from the TSW TPCAs that was removed from the VR 
+program and deposited in DES’s “TSW Admin Account.” At the time of the review, the AZRSA 
+director was aware of the full match portion being generated by the contracts but, could not 
+access the half of the match generated by and for the VR program. This was not consistent with 
+the DSU’s non delegable responsibility for the allocation and expenditure of VR funds. RSA will 
+address other concerns pertaining to the non-Federal share generated from TPCAs outside of this 
+monitoring report. 
+Section 101(a)(2)(B)(ii)(I) of the Rehabilitation Act and 34 C.F.R. § 361.13(b)(1)(i) requires that 
+AZRSA, as the DSU, be responsible for the administration of the VR program. Although the 
+statute does not describe the nature and scope of this responsibility or how the DSU is to carry it
+
+40 
+out, 34 C.F.R. § 361.13(c) requires that certain functions be reserved solely to the staff of the 
+DSU, meaning that AZRSA cannot delegate them to any other agency or individual. These “non-
+delegable” functions relate to decisions affecting, among other things, the allocation and 
+expenditure of funds and the provision of services, as discussed above. 
+RSA has long interpreted
+2 these provisions to require that the specified functions and activities 
+be carried out by the DSU’s own staff (60 FR 64475, 64482 (December 15, 1995) and 62 FR 
+6307, 6316 (February 11, 1997)). Further, RSA has long believed that the non-delegation 
+provisions of 34 C.F.R. § 361.13(c) “[strengthen] the role of the State unit by requiring that the 
+unit have a substantial role in all decisions affecting the administration of the VR program 
+whenever management functions within the State agency are centralized” (60 FR at 64482). 
+Retaining these non-delegable functions within AZRSA: 
+ 
+Ensure[s] that State agencies that consolidate staff to administer multiple State and 
+federally funded programs do not entrust these key VR programmatic decisions to 
+individuals who lack experience in meeting the needs of individuals with 
+disabilities…[T]h e benefits derived from DSU retention of these functions – enhanced 
+program efficiency and effectiveness – outweigh any costs that may be associated with 
+the non-delegation requirements in the final regulations (62 FR at 6316). 
+ 
+Because the State has centralized certain financial management and procurement functions 
+within DERS or higher with the DES, RSA’s monitoring activity assesses the manner in which 
+AZRSA exercises its non-delegable functions by providing effective input into the policy, 
+planning, operations or other related decisions of those processes. While it is permissible for 
+DERS and DES to perform certain administrative functions related to financial management and 
+the procurement of VR services, centralization of these functions is impermissible if it results in 
+interference with AZRSA’s decision-making capacity to administer the VR program, given that 
+it has been designated as the DSU responsible for administering the VR program under the VR 
+State plan (Section 101(a)(2)(B) of the Rehabilitation Act and 34 C.F.R. § 361.13(b)(1)(i)).  
+ 
+As discussed above, the facts demonstrate that the centralization of the financial management 
+responsibilities within DERS and DES impacts AZRSA’s ability to know the specifics about VR 
+program fiscal transactions for payroll. Specifically, AZRSA is not solely responsible for the 
+expenditure of VR program funds for personnel costs as it must be pursuant to 34 C.F.R. § 
+361.13(c)(1)(iv) and (2). If AZRSA were exercising its non-delegable responsibility over the 
+financial management of VR program funds properly with respect to payroll expenditures, it 
+would have been aware of any payroll costs not allocable to the VR program, and taken 
+immediate action to rectify them, but it could not.  
+ 
+With respect to the centralization of procurement approvals with the DES, the facts demonstrate 
+that the AZRSA Director was not afforded the opportunity to review the TSW contracts issued 
+by DES on behalf of the VR program. Therefore, the AZRSA director had no knowledge of the 
+ 
+2 See also RSA Technical Assistance Circular (TAC)-12-03, dated April 16, 2012, “Organizational Structure and 
+Non-Delegable Responsibilities of the Designated State Unit for the Vocational Rehabilitation Program.”  TAC-12-
+03 provides comprehensive guidance on Federal requirements governing the organizational structure of the DSA 
+and DSU and the non-delegable functions of the DSU for the VR program.
+
+41 
+amounts of match revenue mandated by DES under TSW contracts and for what the excess 
+match funds were being used. Decisions related to these matters require AZRSA to determine 
+where to allocate and spend its resources for the benefit of the VR program and to meet the needs 
+of individuals with disabilities within the State. While the State may centralize the procurement 
+process, including approval and signatory processes, such procedures must not interfere with 
+AZRSA’s responsibility to determine the VR service needs of individuals with disabilities, the 
+delivery of those VR services, or the expenditure of VR program funds for those purposes (34 
+C.F.R. § 361.13(c)(1)(i), (1)(iv), and (2)), as the above facts demonstrate.  
+ 
+Conclusion: Through on-site discussions with AZRSA, DERS, and DES management, emails 
+from AZRSA, DERS, and DES before and after the on-site review, and a review of the VR 
+agency’s policy manuals, RSA found that the VR program lacked effective control and 
+accountability over VR funds and other assets. During the on-site review, the AZRSA director 
+was unable to substantiate revenue and expenditure transactions, or internal processes, 
+procedures, controls, and quality assurance guidance over Federal reporting requirements. As 
+discussed in preceding paragraphs, the AZRSA director does not have the ultimate authority 
+over VR payroll expenditures or contract match revenue generated from VR program funds. As 
+the AZRSA director deferred or delegated these responses to other members of the team it 
+became clear that direct oversight and overall responsibility were not under the direct control of 
+the AZRSA director. The inability of the AZRSA, without deferring to the umbrella agency 
+staff, to appropriately document Federal and non-Federal obligated and expended funds 
+demonstrates ineffective control and lack of accountability for Federal and matching funds 
+expended for VR program activities. 
+ 
+In Arizona, AZRSA must maintain responsibility for the expenditure and allocation of VR funds 
+(34 C.F.R. § 361.13(c)). Pursuant to section 101(a)(2) of the Rehabilitation Act, the approved PY 
+2024-2027 Unified State Plan designates AZRSA as the designated State unit responsible for 
+administering the VR program. By submitting the Unified State Plan, DERS and AZRSA, as the 
+designated State agency and designated State unit, respectively, assured RSA that they would 
+carry out the VR program in compliance with the requirements of Title I of the Rehabilitation 
+Act and 34 C.F.R. Part 361 (34 C.F.R. § 361.10(a)). DERS and AZRSA have failed to ensure 
+that AZRSA maintains responsibility for the expenditure and allocation of VR funds as required 
+by 34 C.F.R. § 361.13(c).  
+ 
+Corrective Actions 3.1 RSA requires that AZRSA— 
+ 
+3.1.1  Submit an assurance within 10 days of the final monitoring report that AZRSA will retain 
+and/or regain responsibility for the allocation and expenditure of VR funds, the provision 
+of VR services, and the other non-delegable functions, which are the sole responsibility 
+of the DSU, as required by 34 C.F.R. § 361.13(b) and (c);  
+3.1.2 Within 90 calendar days, submit a plan and timeline, for the transfer of non-delegable 
+financial management and program functions – at a minimum, the expenditure and 
+allocation of VR funds – from DES and DERS to AZRSA;  
+3.1.3 Within calendar 90 days, AZRSA and DERS shall develop and implement policies, 
+procedures, processes, and internal controls sufficient to ensure that any centralized 
+processes that impact the VR program are revised to ensure that AZRSA is able to
+
+42 
+exercise sole decision-making responsibility for the VR program, particularly with 
+respect to the allocation and expenditure of VR program funds and the provision of VR 
+services, as required by 34 C.F.R. § 361.13(c). DERS and AZRSA must submit these 
+revised policies and procedures to RSA for review; and 
+3.1.4 Ensure that AZRSA is effectively carrying out its non-delegable responsibilities for the 
+administration of the VR program, including the allocation and expenditure of VR 
+program funds. 
+ 
+VR Agency Response: AZRSA does not agree with Finding 3.1. Section 101(a)(2)(B)(ii)(IV) of 
+the Rehabilitation Act and its implementing regulations at 34 CFR § 361.13(b)(1)(iv) require that 
+the DSU responsible for the organization of the VR program be located within the DSA at an 
+organizational level comparable to that of the major components of the DSA. AZRSA is 
+similarly situated to other major workforce programs such as the Employment Services program 
+authorized under the Wagner Peyser Act and other required partner programs such as Trade 
+Adjustment Assistance, Senior Community Services Employment Program, Temporary 
+Assistance to Needy Families Jobs, Jobs for Veterans State Grant, and programs authorized 
+under State unemployment compensation laws.  
+ 
+The Division of Employment and Rehabilitation (DERS) is the only division within the 
+Department that comprises multiple distinct workforce programs; the ability to have one or more 
+of those workforce programs report to the same Deputy Assistant Director and Assistant Director 
+within DERS enhances awareness across workforce programs ensuring better coordination of 
+programs and services to job seekers.  
+ 
+Subsequent to the monitoring activity in February 2024, AZRSA, DERS, and DES worked 
+together to identify and report all VR funds and enhance reporting at all levels. The AZRSA 
+director is engaged in meetings concerning the VR budget and procurement activities and makes 
+budgetary and procurement decisions with DERS and DES as support teams. 
+ 
+RSA Response: RSA sustains this finding pursuant to Section 101(a)(2)(B)(ii)(V) of the 
+Rehabilitation Act and implementing regulations at 34 C.F.R. § 361.13. AZRSA will exercise 
+sole decision-making responsibility for the VR program, particularly with respect to the 
+allocation and expenditure of VR program funds and the provision of VR services, as required by 
+34 C.F.R. § 361.13(c).   
+ 
+VR Agency Request for Technical Assistance: Technical assistance is not required. 
+ 
+Finding 3.2 Insufficient Documented Policies, Procedures, and Internal Controls 
+Governing the VR Program  
+ 
+Issue: Whether AZRSA maintains effective internal control over the Federal award to provide 
+reasonable assurance that it is managing the VR program award in compliance with Federal 
+statutes, regulations, and the terms and conditions of the award. 
+ 
+Requirements: A State VR agency must assure, in the VR services portion of the Unified or 
+Combined State Plan, that it will employ methods of administration that ensure the proper and
+
+43 
+efficient administration of the VR program. These methods of administration (i.e., the agency’s 
+internal controls) must include procedures to ensure accurate data collection and financial 
+accountability (34 C.F.R. § 361.12). 
+ 
+“Internal controls” means a process, implemented by a non-Federal entity, designed to provide 
+reasonable assurance regarding the achievement of objectives in the following categories:   
+ 
+● Effectiveness and efficiency of operations;   
+● Reliability of reporting for internal and external use; and  
+● Compliance with applicable laws and regulations (2 C.F.R. § 200.1). 
+ 
+Additionally, 2 C.F.R. § 200.303, among other things, requires a non-Federal entity to—   
+ 
+● Establish and maintain effective internal control over the Federal award that provides 
+reasonable assurance that the non-Federal entity is managing the Federal award in 
+compliance with Federal statutes, regulations, and the terms and conditions of the Federal 
+award…;   
+● Comply with Federal statutes, regulations, and the terms and conditions of the Federal 
+awards;   
+● Evaluate and monitor the non-Federal entity’s compliance with statute, regulations, and 
+the terms and conditions of Federal awards; and 
+● Take prompt action when instances of noncompliance are identified, including 
+noncompliance identified in audit findings. 
+ 
+In accordance with the Uniform Guidance (2 C.F.R. § 200.302(a)), a State’s financial 
+management systems, including records documenting compliance with Federal statutes, 
+regulations, and the terms and conditions of the award, must be sufficient to permit the—   
+ 
+● Preparation of reports required by general and program-specific terms and conditions; 
+and   
+● Tracing of funds to a level of expenditures adequate to establish that such funds have 
+been used according to the Federal statutes, regulations, and the terms and conditions of 
+the Federal award.  
+ 
+Furthermore, provisions at 2 C.F.R. § 200.302(b)(4) require that the financial management 
+system of each non-Federal entity must ensure effective control over, and accountability for, all 
+funds, property, and other assets. The non-Federal entity must adequately safeguard all assets 
+and ensure they are used solely for authorized purposes. In its guidance titled The Role of 
+Internal Control, Documenting Internal Control, and Determining Allowability & Use of Funds, 
+the Department states that internal controls represent those processes by which an organization 
+assures operational objectives are achieved efficiently, effectively, and with reliable, compliant 
+reporting. Therefore, an internal control deficiency would exist when the design or operation of a 
+control does not allow management or employees, in the normal course of performing their 
+assigned functions, to prevent or correct processes that might lead to noncompliance with 
+Federal and State requirements.
+
+44 
+Finally, the Education Department General Administrative Regulations (EDGAR) at 34 C.F.R. § 
+76.707 cites requirements for determining when financial obligations have been incurred under 
+the VR program for various kinds of property and services. VR agencies must recognize, and 
+record obligations based on EDGAR requirements for the following activities: 
+ 
+● Acquisition of real or personal property; 
+● Personal services by an employee of the State; 
+● Personal services by a contractor who is not an employee of the State; 
+● Performance of work other than personal services; 
+● Public utility services; 
+● Travel; 
+● Rental of real or personal property; and 
+● A pre-agreement cost with prior approval. 
+ 
+The Arizona Department of Administration, General Accounting Office, publishes the State of 
+Arizona Accounting Manual (SAAM). SAAM is required for use by all State agencies, and 
+Section 25, Agency-specific Policies Based upon SAAM, states, “… An agency is at times 
+required and at other times permitted to produce agency-specific policies and procedures based 
+upon SAAM. Such agency-specific policies are limited to finance, accounting or other topics 
+addressed by SAAM. Agency-specific policies based upon SAAM may be more restrictive, but 
+not more permissive, than the statewide policies promulgated in SAAM.” Section 05, General 
+Internal Controls, states, “… To support its processes and operations, each agency must develop 
+and maintain an appropriate system of internal controls.” Section 05 also states that, “Each 
+agency must, to the extent practicable, establish a system of checks and balances to ensure that 
+no one person has control over all parts of a financial transaction. This is frequently referred to 
+as the separation or segregation of duties.” SAAM lists the types of transactions and activities 
+requiring segregation, as well as approval levels required for financial transactions.  
+ 
+Analysis: As noted in the preceding section, SAAM requires AZRSA to develop agency-specific 
+internal control policies, procedures, and guidance. In response to RSA’s request for guidance 
+documents governing the VR program, AZRSA submitted other SAAM documents covering 
+many topics including, but not limited to, grant closeouts, cash management, expenditures, 
+disbursements, encumbrances, payroll, documentation, and records retention. However, none of 
+these documents contain the level of detail or specificity necessary to ensure the VR awards are 
+managed in compliance with the regulations cited in the “Requirements” section of this finding.  
+ 
+AZRSA also submitted procedural documents governing Federal drawdowns and Federal 
+reporting. However, none cite the issuing authority (e.g., CFO) or person/group responsible for 
+management, oversight, and implementation of the procedures. The documents largely omit titles 
+or roles, thus making it difficult to ensure compliance with SAAM Section 05. AZRSA 
+submitted no agency-level guidance documents on obligations or for periods of performance. 
+ 
+During the monitoring sessions AZRSA indicated that it meets compliance with 34 C.F.R. § 
+76.707(c), obligations for personal services by a contractor, through an electronic interface 
+between the case management system (CMS) and the State’s financial management system, 
+AZ360. Warrant data is transmitted in a batching process and the batches are transmitted on
+
+45 
+Mondays, Wednesdays, and Fridays. Batch data includes function codes, service dates, and 
+invoice dates. Although multiple dates are included in the batches, AZRSA indicated the invoice 
+date is recorded as the obligation date in AZ360. 
+ 
+Conclusion: Based on the information provided before and during the monitoring sessions, 
+AZRSA did not demonstrate that it is managing the Federal award in compliance with Federal 
+statutes and regulations; State statutes; and the terms and conditions of the award, as required by 
+34 C.F.R. § 361.13, 2 C.F.R. § 200.303, EDGAR and SAAM. Specific internal control areas of 
+deficiency are cited in the preceding paragraphs. 
+ 
+While these control deficiencies lend themselves to an elevated risk to AZRSA’ reliability of 
+reporting and compliance with applicable laws and regulations, the risks can be mitigated 
+through management’s development and implementation of internal controls at a level of 
+authority (i.e., VR director) necessary to address the deficiencies. 
+ 
+Corrective Actions 3.2 RSA requires that AZRSA— 
+ 
+3.2.1 Within 90 calendar days following publication of the final monitoring report, develop, 
+implement and monitor effective internal controls to ensure compliance with 2 C.F.R. § 
+200.303; EDGAR (34 C.F.R. § 76.707); and SAAM requirements governing Federal 
+reporting, obligations, period of performance, segregation of duties, and approval 
+authorities.  
+ 
+VR Agency Response: AZRSA acknowledges the finding and commits to developing and 
+implementing corrective action 3.2.1 to ensure compliance. Subsequent to the monitoring in 
+February 2024, AZRSA secured a contractual relationship with subject matter experts to assist 
+AZRSA, DERS, and DES in reviewing current processes, identifying gaps, and developing 
+internal control documents to ensure compliance with the Federal award. AZRSA has engaged 
+with the contractor, and initial business process mapping and fiscal data analysis has started. 
+AZRSA will continue to engage with VR TAC-QM through our intensive agreement and an 
+onsite training session provided by VR TAC-QM for AZRSA, DERS, and DES staff occurred in 
+January 2025. 
+RSA Response: RSA will provide support and assistance to AZRSA, as needed. 
+VR Agency Request for Technical Assistance: Technical assistance is not required. 
+Finding 3.3 Open Single Audit Findings 
+ 
+Issue: Whether AZDES met the responsibilities assigned to auditees under the audit 
+requirements cited at Subpart F of 2 C.F.R. § 200. 
+ 
+Requirement: The Uniform Guidance states that grantees who are subject to 2 C.F.R. § 200, 
+Subpart F (audit requirements) must promptly follow up and take corrective action on audit 
+findings, including preparation of a summary schedule of prior audit findings and a corrective 
+action plan (2 C.F.R. §§ 200.508(c) and 200.511(b)). In addition, those findings which involve 
+multiple Federal agencies are the responsibility of each Federal agency to which the findings
+
+46 
+apply; they may not be resolved or closed by the Federal cognizant agency unless such 
+responsibility has been designated to the Federal cognizant (2 C.F.R. § 200.513(a)(3)). In this 
+case, RSA is responsible for issuing a management decision for findings that relate to Federal 
+awards it makes to non-Federal entities (2 C.F.R. § 200.521(b)). 
+ 
+The U.S. Department of Education’s (Department) Audit Accountability and Resolution 
+Tracking System (AARTS) database stores detailed information of findings within each audit; 
+recommended actions; responsible individuals; progress; and eventual resolution of findings. 
+AARTS is designed to assist the Department’s management with audit reporting and follow-up 
+and is the basis upon which the Department determines compliance with the requirements of 
+auditees to promptly resolve findings, as cited in the preceding paragraph. 
+  
+Analysis: The AARTS database indicates AZDES had eight open findings arising from State 
+fiscal years 2017 through 2018. The findings involved period of performance, program income, 
+earmarking (specifically, pre-employment transition services reserve and expenditure 
+requirements), allowable costs/cost principles, maintenance of effort, and inadequate 
+documentation retention, and delayed eligibility determination or IPE development.  
+  
+RSA asked AZRSA for documentation in support of closing the findings before the onsite 
+review. AZRSA did not provide any documentation prior to the review; however, while on-site, 
+and in subsequent emails, AZRSA provided sufficient evidence to resolve the audit findings 
+from the 2017 and 2018 audits. There was one single area that despite sufficient internal controls 
+to determine applicant eligibility within 60 days was not continuously over 90 percent. RSA and 
+AZRSA agreed to close the remaining open audit finding 2018-104 and address the reserve and 
+expenditure requirement for pre-employment transition services funds through the FFY 2021 
+non-compliance pre-employment transition services corrective action plan.  
+ 
+Conclusion: Based on the information and documentation provided, RSA concludes that 
+AZRSA is non-compliant with the requirements to take prompt action to close audit findings (2 
+C.F.R. §§ 200.508(c) and 200.511(a)). 
+ 
+Corrective Actions 3.3 RSA requires that AZRSA— 
+ 
+3.3.1  Within 30 calendar days following the final monitoring report issuance date, provide 
+policy, procedures, and internal controls documents to ensure appropriate actions are 
+taken to promptly close audit findings. 
+ 
+VR Agency Response: AZRSA acknowledges the finding and agrees that controls can be put in 
+place to ensure all parties are following the requirements set forth in 2 C.F.R. Part 200 Subpart F. 
+ 
+When RSA alerted AZRSA that the 2017 and 2018 Single Audit findings had not yet been 
+resolved, AZRSA provided RSA with the State Audit report indicating that the 2017 and 2018 
+audit findings had been resolved at the State level. The State Audit report was not accepted by 
+RSA as sufficient evidence to resolve the findings. AZRSA appreciates the conversation onsite 
+which allowed the 2018-104 audit finding to be closed.
+
+47 
+AZRSA will continue to work closely with the Internal Audit Administration and Department of 
+Administration to ensure Single Audit remediation updates and evidentiary documentation are 
+uploaded timely to the Federal Audit Clearinghouse (FAC), following 2 C.F.R. § 200.511. 
+AZRSA will develop an internal process to notify the Federal RSA liaison following submission 
+via the clearinghouse, so that the Federal Project Officer may monitor the status of the findings 
+and issue a Management Decision letter within six months of the FAC’s acceptance of the audit 
+report, and subsequent updates thereafter, per 2 C.F.R. § 200.521(d). 
+AZRSA will retain copies of the remediation plan, updates, and evidentiary information for a 
+period of three years from the date of submission to the FAC, following 2 C.F.R. § 200.512(f). 
+RSA Response: RSA will provide support and assistance to AZRSA, as needed. 
+VR Agency Request for Technical Assistance: AZRSA requests technical assistance to 
+determine acceptable procedures to close single audit findings. 
+Finding 3.4 Insufficient Contract Management and Oversight  
+ 
+● Issue: Whether AZRSA established and maintained effective and efficient management 
+and control over contracts sufficient to meet the requirements of 2 C.F.R. § 200.328(a) 
+and AZRSA’s Contract Monitoring Process guidance document. 
+ 
+Requirements: Federal regulations state that the non-Federal entity is responsible for oversight 
+of the operations of the Federal award supported activities (2 C.F.R. § 200.328(a)). The non-
+Federal entity must monitor its contracted activities under Federal awards to ensure compliance 
+with applicable Federal requirements and that performance expectations are achieved. 
+Monitoring by the non-Federal entity must cover each program, function, or activity.  
+ 
+AZRSA cites the following objectives in its Contract Monitoring Process guidance document:  
+ 
+● Conduct regular reviews of Contractor’s program activity and outcomes to ensure they 
+are compliant with requirements of the Contract;  
+● Evaluate the relationship between program accomplishments and the financial resources 
+allocated to achieve those accomplishments and ensure that the level of spending is 
+commensurate with the actual program activity/outcome;  
+● Examine effectiveness of Contractor’s internal control processes and accuracy of 
+Contractor’s fiscal expenditures during the monitoring period;  
+● Ensure Contractor’s compliance with applicable State and federal regulations, policies  
+and procedures, and the terms of the Contract;  
+● Provide technical assistance to Contractors to assist them in understanding the specific 
+Contract elements including the Scope of Work, Service Specs, making improvements, 
+and addressing corrective actions as identified in the monitoring process; and  
+● Ensure Contractor compliance with the terms of the Contract in order to identify non-
+compliance which if not corrected, could result in failure to provide adequate services to 
+RSA clients and/or RSA programs, possible harm to clients and/or diversion of resources.
+
+48 
+The guidance details the activities and procedures necessary to conduct the three monitoring 
+categories identified by AZDES/AZRSA: administrative; programmatic and fiscal.  
+ 
+Analysis: RSA requested copies of monitoring reports for several of the contracts under review. 
+The monitoring reports provided were very limited in detail and did not address any of the 
+monitoring objectives cited in the “Requirements” section of this finding. AZRSA indicated it 
+conducted in-person monitoring activities with the limited staffing resources available.  
+ 
+AZRSA provided equipment inventory reports for equipment purchased by vendors under the 
+TSW agreements, including several vehicles. The reports listed item descriptions, serial 
+numbers, title holders, acquisition dates, costs, sources of funding, locations, and conditions of 
+equipment. The equipment report for the Tucson Unified School District (TUSD) under contract 
+DI17-002119 shows the purchase of six Ford F-150 4X4 trucks over several years and all titled 
+to TUSD. The agreement cites the rationale for the vehicle purchases is to “. . . transport staff, 
+students and tools to area elementary schools and parks to perform Curb Appeal. The Curb 
+Appeal program is an enhanced service that we want to expand to all six of our sites. It provides 
+students with the opportunity to learn skills in landscaping, building maintenance, and 
+playground safety.” The program description indicates each school must be checked at least 
+three times per week, and each day two to three students will provide the services. Since the 
+vehicles were used only to transport students and equipment, the time during which the vehicles 
+were unused (idle time) should have been calculated, and the cost to the VR program adjusted 
+proportionately.  
+ 
+Section 13 of the agreement states. “. . . capital equipment purchases should be made during the 
+initial year of this Agreement . . .” However, TUSD classifies vehicles as depreciable capital 
+assets;
+3 thus, the AZRSA should have required the TUSD to comply with their accounting 
+policies and depreciated the costs over the life of the asset class instead of expensing the costs in 
+the contract budget year.  
+ 
+The agreement goes on to say in Section 13.2, “The Contractor shall include AZRSA as a co-
+owner, and co-insured on any insurance policy which covers equipment purchased under this 
+Agreement. AZRSA shall retain an equitable interest equal to the purchase price paid, or a fair 
+estimate or appraisal of current market value, whichever is greater, in all equipment purchased.  
+ 
+Upon termination of this Agreement, any equipment purchased under this Agreement shall be 
+disposed of by the AZRSA and, if sold, AZRSA shall be compensated in the amount of its 
+equitable interest.” While on site, RSA asked to see vehicle titles and was told by AZRSA staff 
+they had no vehicle titles, nor had ever seen the titles, and believed the vehicles were titled only 
+in the name of the TUSD and not jointly titled to TUSD and AZRSA as required under the terms 
+of the agreement.  
+ 
+No disposition information was provided by the vendor, either when the vehicles reached the end 
+of their asset class lives, or when they were no longer used in the VR program. 
+ 
+ 
+3 Tucson Unified School District Comprehensive Annual Financial Report Fiscal Year ended June 30, 2018.
+
+49 
+The annual budget in the Deer Valley Unified School District agreement (DI17-002123) 
+indicated $59,730.00 for “1 Wheelchair accessible Dodge van," in item 2.4, Other Expenses. 
+However, item 2.2, Local Travel, shows $22,500 for "50,000 Local travel for required TSW 
+events and collaboratives billed at 0.445 per.” Amendment 1 (of DI17-002123), item 2.2, Local 
+Travel, shows $13,500.00 for 30,000 miles at $0.445/mile, and item 1.4, Other Expenses, shows 
+$7,000 for “1 TSW vehicle fuel and maintenance.” Amendment 2 of the same agreement shows 
+$9,675.19 for “Local travel for required TSW events and collaboratives billed at 0.445 per,” and 
+item 2.4 Other Expenses shows “1 TSW annual vehicle maintenance (7 vehicles) $4,000.” 
+AZRSA/DES has no process to determine when mileage rates are paid vs use of a purchased 
+vehicle; thereby, potentially incurring duplicate expenses. This represents a lack of proper 
+internal controls to ensure the necessity of costs incurred under the agreement. 
+ 
+Conclusion: RSA was unable to substantiate compliance with the requirements cited in 2 C.F.R. 
+§ 200.328(a) and of AZRSA/DES’s contract monitoring policy. RSA is concerned that AZRSA 
+does not follow pre-solicitation, solicitation, and post-award contract management processes. 
+There is no evidence provided that the Arizona Procurement Portal is used or that contracts are 
+registered with the contracting agency. The lack of quality assurance and the fact that AZRSA 
+does not close out these contracts present significant issues with contract administration and 
+monitoring. During the on-site monitoring sessions, AZRSA said on several occasions it does 
+not need to close contracts out since it does not need to “de-obligate” funds. Given that, it is 
+unclear how contractual obligations are tracked from year to year.  
+ 
+Corrective Actions 3.4 RSA requires that AZRSA— 
+ 
+3.4.1 Implement and monitor policies and procedures that incorporate the standards described 
+in 2 C.F.R. § 200.328 and in AZRSA’s contract monitoring process guidance document. 
+Additionally, the monitoring process must include a review of all expenditures, including 
+vehicle and travel expenditures, to ensure they are reasonable and necessary to carry out 
+the purposes of the contract. A monitoring component must include not only written 
+processes, but also—  
+● A process used to evaluate and monitor the agency’s own compliance with the 
+requirements; and 
+● A process to take prompt action when noncompliance is identified. This should 
+include remedies to correct noncompliance, such as updated processes, staff training, 
+returning of Federal funds, etc.; and 
+3.4.2 Provide RSA with twelve completed monitoring reports that clearly demonstrate 
+AZRSA’s full compliance with the Contract Monitoring Process guidance document. Of 
+the twelve reports, four must be completed within the first quarter of the issuance of this 
+report, four must be completed in the following quarter, and four must be completed in 
+the following quarter. 
+ 
+VR Agency Response: AZRSA acknowledges the finding and commits to developing and 
+implementing corrective actions associated with Finding 3.5. AZRSA manages 174 contracts of 
+which 127 contracts are competitively bid, 30 contracts are school agreements with the balance 
+consisting of other allowable contracting methods. AZRSA recognizes that the Contract 
+Monitoring Processes guidance document focuses on the monitoring of competitively bid
+
+50 
+contracts and will enhance the document to encompass contract monitoring activities necessary 
+to ensure compliance with the requirements of school agreements, as applicable. See response 
+under Finding 2.2 regarding previous review by RSA of all Transition School to Work school 
+agreements in 2018.  
+ 
+AZRSA does not “close out” a contract because having a contract does not guarantee a vendor 
+any funding. A contract allows a vendor to be eligible to receive an authorization to provide a 
+service which is only paid upon invoice and reporting which act as confirmation of the 
+authorized service being provided and rendered. Outstanding authorizations are reviewed at a 
+minimum twice annually and reconciled based on invoices and services received that are tied to 
+any authorized service. AZRSA does complete an administrative “close out” to determine that no 
+service authorizations are connected to any closed or inactive contracts. Only active contracts 
+receive service authorizations, no expired or closed contracts are utilized. AZRSA follows pre-
+solicitation, solicitation, and post-award contract management processes in compliance with 
+Arizona procurement code.   
+ 
+RSA Response: RSA will provide support and assistance to AZRSA, as needed.  Please refer to 
+Finding 2.2 for RSA’s response related to AZRSA’s FFY 2018 Section 107 Monitoring Review 
+referenced above.  
+ 
+VR Agency Request for Technical Assistance: AZRSA may request technical assistance upon 
+further development of contracts and contract monitoring procedures.
+
+51 
+APPENDIX A: STATE VOCATIONAL REHABILITATION SERVICES AND 
+STATE SUPPORTED EMPLOYMENT SERVICES PROGRAMS 
+PERFORMANCE TABLES 
+Table 1— AZ-C Performance Profile 
+  
+VR Program Performance PY20 PY21 PY22 
+Employment Rate 40.5% 33.9% 34.5% 
+Number of Participants Exiting in Competitive Integrated 
+Employment or Supported Employment 1,325 1,633 1,268 
+Percentage of Timely Eligibility Determinations 92.7% 95.7% 94.4% 
+Percentage of Eligibility Determinations Extensions 3.1% 3.4% 3.9% 
+Percentage of Timely IPE Development 79.5% 89.5% 89.6% 
+Percentage of Initial IPE Extensions 11.2% 9.7% 7.3% 
+Number of Applicants 4,404 4,406 4,968 
+Number of Individuals Determined Eligible 4,161 4,208 4,621 
+Number of Individuals with an IPE and No VR Services Provided - - - 
+Number of Participants (with an IPE and VR Services Provided) 12,776 12,902 11,778 
+ 
+WIOA Performance Indicators (State) PY20 PY21 PY22 
+Measurable Skill Gains Rate 49.4% 38.6% 23.4% 
+Employment Rate in 2nd Qtr. After Exit 34.6% 44.4% 47.1% 
+Median Earnings in 2nd Qtr. After Exit $3,906 $4,352 $4,978 
+Employment Rate in 4th Qtr. After Exit 36.1% 41.7% 40.5% 
+Credential Attainment Rate 17.9% 20.7% 24.8%
+
+52 
+Table 2— AZ-C Types of Exit 
+ 
+Individuals Who Exited the VR Program PY20 PY21 PY22 
+Number of Individuals Who Exited the VR Program 4,498 6,065 4,711 
+ 
+Exit Type PY20 
+ 
+ 
+ 
+ 
+ 
+ 
+PY21 
+  
+ 
+ 
+ 
+ 
+PY22 
+  
+ 
+ 
+ 
+ 
+Individual exited as an applicant, 
+prior to eligibility determination 
+or trial work experience 
+168 3.73% 189 3.12% 205 4.35% 
+Individual exited during or after a 
+trial work experience 106 2.36% 90 1.48% 66 1.40% 
+Individual exited after eligibility, 
+but from an order of selection 
+waiting list 
+- 0.0% - 0.0% - 0.0% 
+Individual exited after eligibility, 
+but prior to a signed IPE 900 20.0% 880 14.5% 726 15.4% 
+Individual exited after an IPE 
+without an employment outcome 1,946 43.3% 3,189 52.6% 2,410 51.2% 
+Individual exited after an IPE in 
+noncompetitive and/or 
+nonintegrated employment 
+- 0.0% - 0.0% 1 0.0% 
+Individual exited after an IPE in 
+competitive and integrated 
+employment or supported 
+employment 
+1,325 29.5% 1,633 26.9% 1,268 26.9% 
+Individual exited as an applicant 
+after being determined ineligible 
+for VR services 
+53 1.2% 84 1.4% 35 0.7% 
+ 
+ 
+Supported Employment 
+PY20 
+Number of 
+Participants 
+PY21 
+Number of 
+Participants 
+PY22 
+Number of 
+Participants 
+Number of Participants Who Exited with a Supported 
+Employment Outcome in Competitive Integrated 
+Employment 
+170 268 243 
+Number of Participants Who Exited with a Supported 
+Employment Outcome in Noncompetitive and/or 
+Nonintegrated Employment 
+- - -
+
+53 
+ 
+Table 3— AZ-C Reasons for Exit 
+ 
+Reason for Exit PY20 
+Number of 
+Individuals 
+ 
+PY20 
+Percent 
+PY21 
+Number of 
+Individuals 
+ 
+PY21 
+Percent 
+PY22 
+Number of 
+Individuals 
+ 
+PY22 
+Percent 
+Health/Medical - 0.0% - 0.0% - 0.0% 
+Death of Individual 45 1.0% 30 0.5% 26 0.6% 
+Reserve Forces Called to 
+Active Duty - 0.0% - 0.0% - 0.0% 
+Ineligible after determined 
+eligible 68 1.5% 89 1.5% 87 1.8% 
+Criminal Offender 14 0.3% 8 0.1% 10 0.2% 
+No Disabling Condition 53 1.2% 73 1.2% 31 0.7% 
+Transferred to Another Agency 20 0.4% 17 0.3% 19 0.4% 
+Achieved Competitive 
+Integrated Employment 
+Outcome 
+1,325 29.5% 1,633 26.9% 1,268 26.9% 
+Extended Employment 8 0.2% 5 0.1% 2 0.0% 
+Extended Services Not 
+Available 1 0.0% - 0.0% - 0.0% 
+Unable to Locate or Contact 1,026 22.8% 2,090 34.5% 1,619 34.4% 
+No Longer Interested in 
+Receiving Services or Further 
+Services 
+1,592 35.4% 1,709 28.2% 1,384 29.4% 
+All Other Reasons 346 7.7% 411 6.8% 265 5.6% 
+Short-Term Basis Period - 0.0% - 0.0% - 0.0% 
+Ineligible: Pursuant to 511 - 0.0% - 0.0% - 0.0%
+
+54 
+Ineligible: Following Trial 
+Work - 0.0% - 0.0% - 0.0% 
+Number of Individuals Who 
+Exited the VR program 4,498  6,065  4,711  
+Table 4— AZ-C VR Service Provision 
+VR Service Provision PY20 PY21 PY22 
+Total Number of Individuals Who Received VR 
+Services 13,441 13,496 12,639 
+ 
+Training Services 
+PY20 
+Number of 
+Individuals 
+ 
+PY20 
+Percent 
+PY21 
+Number of 
+Individuals 
+ 
+PY21 
+Percent 
+PY22 
+Number of 
+Individuals 
+ 
+PY22 
+Percent 
+Graduate Degree Training 102 0.8% 95 0.7% 100 0.8% 
+Bachelor Degree Training 422 3.1% 359 2.7% 349 2.8% 
+Junior or Community College 
+Training 505 3.8% 436 3.2% 335 2.7% 
+Occupational or Vocational 
+Training 414 3.1% 498 3.7% 484 3.8% 
+On-the-Job Training 12 0.1% 19 0.1% 12 0.1% 
+Apprenticeship Training - 0.0% - 0.0% - 0.0% 
+Basic Academic Remedial or 
+Literacy Training 22 0.2% 25 0.2% 17 0.1% 
+Job Readiness Training 1,852 13.8% 2,405 17.8% 2,440 19.3% 
+Disability Related Skills 
+Training* 
+1,086 8.1% 1,207 8.9% 1,121 8.9% 
+Miscellaneous Training 247 1.8% 286 2.1% 313 2.5% 
+Randolph-Sheppard 
+Entrepreneurial 
+1 0.0% - 0.0% - 0.0%
+
+55 
+Training 
+Customized Training 4 0.0% 2 0.0% 3 0.0% 
+Work-Based 
+Learning 
+Experience 
+40 0.3% 15 0.1% 94 0.7% 
+ 
+ 
+ 
+Career Services 
+PY20 
+Number of 
+Individuals 
+PY20 
+Percent 
+PY21 
+Number of 
+Individuals 
+PY21 
+Percent 
+PY22 
+Number of 
+Individuals 
+PY22 
+Percent 
+Assessment* 1,936 14.4% 1,368 10.1% 1,798 14.2% 
+Diagnosis and Treatment of 
+Impairment 512 3.8% 924 6.8% 1,144 9.1% 
+Vocational Rehabilitation 
+Counseling and Guidance* 12,512 93.1% 12,608 93.4% 11,621 91.9% 
+Job Search Assistance 3,008 22.4% 3,544 26.3% 3,198 25.3% 
+Job Placement Assistance 168 1.2% 249 1.8% 255 2.0% 
+Short-Term Job Supports 1,303 9.7% 813 6.0% 378 3.0% 
+Supported Employment 
+Services 18 0.1% 40 0.3% 91 0.7% 
+Information and Referral 
+Services* 1,802 13.4% 1,753 13.0% 1,369 10.8% 
+Benefits Counseling* 910 6.8% 823 6.1% 618 4.9% 
+Customized Employment 
+Services 4 0.0% 1 0.0% 3 0.0% 
+Extended Services (for youth 
+with the most significant 
+disabilities) 
+1 0.0% 1 0.0% - 0.0%
+
+56 
+ 
+ 
+Other Services 
+PY20 
+Number of 
+Individuals 
+ 
+PY20 
+Percent 
+PY21 
+Number of 
+Individuals 
+ 
+PY21 
+Percent 
+PY22 
+Number of 
+Individuals 
+ 
+PY22 
+Percent 
+Transportation* 717 5.3% 843 6.2% 784 6.2% 
+Maintenance* 750 5.6% 919 6.8% 848 6.7% 
+Rehabilitation Technology* 746 5.6% 834 6.2% 725 5.7% 
+Personal Attendant Services* 13 0.1% 22 0.2% 13 0.1% 
+Technical Assistance Services 101 0.8% 97 0.7% 77 0.6% 
+Reader Services* - 0.0% 1 0.0% 2 0.0% 
+Interpreter Services* 41 0.3% 54 0.4% 43 0.3% 
+Other Services 980 7.3% 1,029 7.6% 811 6.4% 
+* Indicates RSA-911 Service Categories that do not require an individualized plan for employment (IPE)
+
+57 
+Table 5— AZ-C Measurable Skill Gains and Credentials 
+ 
+Type of Measurable Skill Gains Earned 
+PY20 
+Number 
+PY21 
+Number 
+PY22 
+Number 
+Educational Functioning Level 28 2 29 
+Secondary Diploma 151 145 155 
+Postsecondary Transcript/Report Card 584 703 580 
+Training Milestone 89 57 31 
+Skills Progression 67 71 48 
+Total 919 978 843 
+ 
+Participants Who Earned Measurable Skill 
+Gains PY20 
+Number/Percent 
+PY21 
+Number/Percent 
+PY22 
+Number/Percent 
+Number of Participants Who Earned Measurable 
+Skill Gains 
+822 902 723 
+Percent of Participants Eligible to Earned Measurable 
+Skill Gains 
+13.0% 18.1% 26.3% 
+ 
+ 
+ Type of Credentials Earned 
+PY20 
+Number 
+PY21 
+Number 
+PY22 
+Number 
+Secondary 197 170 360 
+Postsecondary 130 128 152 
+Total 327 298 512 
+  
+Participants Who Earned Credentials PY20 
+Number/Percent 
+PY21 
+Number/Percent 
+PY22 
+Number/Percent 
+Number of Participants Who Earned Credentials 323 286 494 
+Percent of Participants Eligible to Earn Credentials 40.0% 42.0% 45.0%
+
+58 
+Table 6— AZ-C Competitive Integrated Employment and Supported Employment Outcomes 
+ Participants Who Exited in Competitive Integrated 
+Employment or Supported Employment PY20 PY21 PY22 
+Number of Participants Who Exited in Competitive 
+Integrated Employment or Supported Employment 1,325 1,633 1,268 
+Median Hourly Earnings at Exit $12.50 $14.00 $15.00 
+Median Hours Worked per Week at Exit 30 30 30 
+ 
+ 
+ Public Support at Exit PY20 
+Number of 
+Participants 
+ 
+PY20 
+Percent 
+PY21 
+Number of 
+Participants 
+ 
+PY21 
+Percent 
+PY22 
+Number of 
+Participants 
+ 
+PY22 
+Percent 
+Social Security Disability Insurance at 
+Exit 121 9.1% 118 7.2% 90 7.1% 
+Supplemental Security Income for the 
+Aged, Blind, or Disabled at Exit 167 12.6% 193 11.8% 182 14.4% 
+Temporary Assistance for Needy 
+Families at Exit 10 0.8% 6 0.4% 9 0.7% 
+ Other Public Support at Exit 25 1.9% 51 3.1% 27 2.1% 
+ 
+ 
+ Medical Insurance Coverage at Exit PY20 
+Number of 
+Participants 
+ 
+PY20 
+Percent 
+PY21 
+Number of 
+Participants 
+ 
+PY21 
+Percent 
+PY22 
+Number of 
+Participants 
+ 
+PY22 
+Percent 
+Medicaid at Exit 760 57.4% 868 53.2% 741 58.4% 
+Medicare at Exit 128 9.7% 148 9.1% 101 8.0% 
+State or Federal Affordable Care Act 
+Exchange at Exit 9 0.7% 9 0.6% 4 0.3% 
+Public Insurance from Other Sources 
+at Exit 32 2.4% 43 2.6% 14 1.1% 
+Private Insurance Through Employer 
+at Exit 261 19.7% 367 22.5% 254 20.0% 
+Not Yet Eligible for Private Insurance 
+Through Employer at Exit 41 3.1% 42 2.6% 21 1.7% 
+Private Insurance Through Other 
+Means at Exit 164 12.4% 235 14.4% 170 13.4%
+
+59 
+      
+Table 7— AZ-C Students with Disabilities 
+ 
+Students with Disabilities 
+PY20 
+Number/ 
+Percentage of 
+Students 
+PY21 
+Number/ 
+Percentage of 
+Students 
+PY22 
+Number/ 
+Percentage of 
+Students 
+Total Students with Disabilities Reported 10,074 9,142 8,898 
+Students with Disabilities Reported with 504 
+Accommodation 876 747 657 
+Students with Disabilities Reported with the 
+Individualized Education Program (IEP) 8,308 7,691 7,764 
+Students with Disabilities Reported without 504 
+Accommodation or IEP 911 745 548 
+Total Students with Disabilities Who Received a Pre-
+Employment Transition Service 889 1,184 2,157 
+Potentially Eligible Students with Disabilities Who 
+Received a Pre-Employment Transition Service 198 609 1,102 
+Students with Disabilities, Who Applied for VR 
+Services, and Received a Pre-Employment 
+Transition Service 
+691 575 1,055 
+Percentage of Students with Disabilities Reported 
+Who Received a Pre-Employment Transition 
+Service 
+8.8% 13.0% 24.2%
+
+60 
+ 
+Table 8— AZ-C Pre-Employment Transition Service Provision 
+ 
+Pre-Employment 
+Transition Services 
+PY20 
+Number 
+Provided 
+PY20 
+Percent of 
+Total 
+PY21 
+Number 
+Provided 
+PY21 
+Percent 
+of Total 
+PY22 
+Number 
+Provided 
+PY22 
+Percent 
+of Total 
+Total Pre-Employment 
+Transition Services 
+Provided 
+2,507  3,317  7,211  
+Job Exploration 
+Counseling 1,058 42.2% 1,159 34.9% 2,066 28.7% 
+Work-Based Learning 
+Experiences 195 7.8% 453 13.7% 1,195 16.6% 
+Counseling on 
+Enrollment 
+Opportunities 
+520 20.7% 566 17.1% 1,258 17.4% 
+Workplace Readiness 
+Training 291 11.6% 522 15.7% 1,251 17.3% 
+Instruction in Self- 
+Advocacy 443 17.7% 617 18.6% 1,441 20.0%
+
+61 
+APPENDIX B: FISCAL DATA TABLES 
+Fiscal data tables current as of June 13, 2024 
+Table 3.1:  VR Federal Resources and Expenditures 
+ 
+Federal Resources and Expenditures 2019 2020 2021 
+FAIN H126A190002 H126A200002 H126A210002 
+Formula Award Amount 74,902,566.00  78,878,382.00  81,382,340.00  
+MOE Reduction Amount (1,346,871.00) 0.00  0.00  
+Relinquished-Reallotment 0.00  0.00  0.00  
+Received-Reallotment 20,000,000.00  0.00  0.00  
+Adjustments 0.00  0.00  0.00  
+Net Award Amount  93,555,695.00  78,878,382.00  81,382,340.00  
+Net Award Funds Unused* 1,523,511.00  9,341,409.11  12,399,923.00  
+Matched Net Award Funds Unused** 778,530.17  0.89  (1.11) 
+Award Funds Expended 92,032,184.00  69,536,972.89  68,982,417.00  
+Percent of Net Award Expended 98.40% 88.20% 84.80% 
+Percent of Formula Award Expended 122.90% 88.20% 84.80% 
+Carryover Met  Yes Yes Yes 
+Grant Award Closed Yes Yes Yes 
+*If the award is closed, it represents the amount of funds deobligated at closeout. If the award is not 
+closed, it represents balance in GMS. 
+**Negative number indicates funds expended that were not matched.
+
+62 
+ 
+Table 3.2: VR non-Federal Share 
+ 
+Non-Federal Share (Match) 2019 2020 2021 
+Federal Expenditures Matched Yes Yes Yes  
+Non-Federal Share-4th 25,320,665.00 21,348,279.00 27,225,226.00 
+Non-Federal Share-Final 25,119,037.00 18,820,045.00 18,669,955.00 
+Federal Funds Required to be Matched 92,032,184.00 69,536,972.89 68,982,417.00 
+Federal Funds Matched 92,810,714.17 69,536,973.78 68,982,415.89 
+Non-Federal Share Required 24,908,329.34 18,820,044.76 18,669,955.30 
+Federal Funds Match Difference 778,530.17 0.89 (1.11) 
+Percent of Net Federal Funds Matched 99.20% 88.20% 84.80% 
+Percent of Federal Formula Award Matched 123.90% 88.20% 84.80% 
+Matching Requirement Met-State Yes Yes Yes 
+Required Non-Federal Share-State 24,908,329.34 18,820,044.76 18,669,955.30 
+Federal Funds Required to be Matched-State 92,032,184.00 69,536,972.89 68,982,417.00 
+Federal Funds Matched-State 92,810,714.17 69,536,973.78 68,982,415.89 
+Federal Funds Match Difference-State 778,530.17 0.89 (1.11) 
+ 
+Table 3.3:  VR Maintenance of Effort 
+ 
+Maintenance of Effort (MOE) 2019 2020 2021 
+Amount of Non-Federal Share Maintained => 2 years prior Yes No No  
+Non-Federal Share 25,119,037.00 18,820,045.00 18,669,955.00 
+Construction Expenditures-4th 0 0 0 
+Construction Expenditures-Final 0 0 0 
+Unadjusted MOE Base 25,119,037.00 18,820,045.00 18,669,955.00 
+Adjusted MOE Base 25,119,037.00 18,820,045.00  18,669,955.00  
+MOE Difference 5,409,981.00 (3,000,953.00) (6,449,082.00) 
+Adjusted MOE Base-State 25,119,037.00 18,820,045.00  18,669,955.00  
+MOE Difference-State 5,409,981.00 (3,000,953.00) (6,449,082.00)
+
+63 
+Table 3.4:  Pre-Employment Transition Services 
+ 
+Pre-Employment Transition Services (Pre-ETS) 2019 2020 2021 
+Pre-ETS Target Met No No No 
+Percent of Matched Federal Funds Expended on Pre-ETS 13.50% 11.20% 8.50% 
+Pre-ETS Federal Expenditures-Final 12,505,200.00 7,800,522.00 5,839,503.00 
+Pre-ETS Calculation Base 92,810,714.17 69,536,973.78 68,982,415.89 
+Pre-ETS Target 13,921,607.13 10,430,546.07 10,347,362.38 
+Pre-ETS Difference (1,416,407.13) (2,630,024.07) (4,507,859.38) 
+Pre-ETS Requirement Met-State No No No 
+Percent of Matched VR Funds Spent on Pre-ETS-State 14.0%  11.0%  9.0%  
+Pre-ETS Calculation Base-State 92,810,714.17  69,536,973.78  68,982,415.89  
+Pre-ETS-Target-State 13,921,607.13  10,430,546.07  10,347,362.38  
+Pre-ETS Federal Expenditures-Final-State 12,505,200.00  7,800,522.00  5,839,503.00  
+Pre-ETS Difference-State (1,416,407.13) (2,630,024.07) (4,507,859.38) 
+Negative is Amount of Reserve Spent on Non-Pre-ETS (637,876.95) (2,630,023.18) (4,507,860.49) 
+ 
+Table 3.5:  Program Income Agency 
+ 
+Program Income 2019 2020 2021 
+Program Income Received-4th 1,002,740.00 1,542,659.00 1,109,648.00 
+Program Income Received-Final 1,002,740.00 2,377,794.00 1,114,069.00 
+Program Income Difference- 4th/Final 0 (835,135.00) (4,421.00) 
+Total Program Income Expended-4th 1,002,740.00 1,542,659.00  871,781.00  
+Total Program Income Expended-Final 1,002,740.00 2,377,794.00  1,114,069.00  
+Program Income Expended- 4th/Final 0 (835,135.00) (242,288.00) 
+Program Income Transferred to the State Independent Living 
+Services (SILS) Program-Final 
+0 0 0 
+Program Income Transferred to OIB Program-Final 0 0 0 
+Program Income Transferred to CAP Program-Final 0 0 0 
+Program Income Transferred to SE Program-Final 0 0 0 
+Total Program Income Transferred 0 0 0 
+Program Income Used for VR Program 1,002,740.00 2,377,794.00 1,114,069.00

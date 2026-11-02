@@ -1,0 +1,3394 @@
+FILENAME: 4ecd7c77566e-NAWS_Research_Report_13.pdf
+PATH: _raw/tacqe.com/4ecd7c77566e-NAWS_Research_Report_13.pdf
+
+Findings from the 
+National Agricultural 
+Workers Survey (NAWS) 
+2015-2016: 
+A Demographic and 
+E
+mployment Profile of 
+United States Farmworkers 
+Research Report No. 13
+
+M
+aterial contained in this publication is in the public domain and may be reproduced, fully or 
+partially, without permission of the Federal Government. Source credit is requested. Permission 
+is required only to reproduce any copyrighted material contained herein.  
+This material will be made available to deaf and hard of hearing individuals upon request.  
+Voice phone: 202-219-6197  
+TTY FIRS: 1-800-877-8339
+
+Findings from the  
+National Agricultural Workers 
+Survey  
+(NAWS) 2015-2016
+A Demographic and 
+Employment Profile  
+of United States Farmworkers
+ 
+January 2018 
+This report was prepared for the U.S. Department of Labor, Employment and Training 
+Administration, Office of Policy Development and Research by JBS International, Inc., under 
+contract #GS-10F-0285K. Since contractors conducting research and evaluation projects under 
+government sponsorship are encouraged to express their own judgment freely, this report does 
+not necessarily represent official opinion or policy of the U.S. Department of Labor. 
+It was written by: 
+Trish Hernandez, JBS International  
+Susan Gabbard, JBS International 
+The authors are grateful to Jorge Nakamoto and Alberto Sandoval of JBS International for 
+coordinating the field interviews on which the report is based, as well as to the interviewers and 
+support staff of JBS International.  The authors also thank the 5,342 U.S. crop workers who 
+graciously participated in an interview during 2015-2016, and the agricultural employers who 
+helped survey staff reach the workers.
+
+Table of Contents 
+EXECUTIVE SUMMARY ............................................................................................................. i
+INTRODUCTION ........................................................................................................................... i
+Topi
+cs Covered ........................................................................................................................... ii
+CHAPTER 1: Birthplace, Employment Eligibility, and Migrant Types ........................................ 1
+S
+ummary of Findings:................................................................................................................. 1
+Place of Birth .............................................................................................................................. 1
+E
+thnicity and Race ...................................................................................................................... 2
+Foreign-born Workers’ First Arrival to the United States .......................................................... 3
+Work Authorization .................................................................................................................... 4
+Migrant Farmworkers ................................................................................................................. 
+ 5
+CHAPTER 2: Demographics, Family Size, and Children and Household Structure ..................... 7
+Summary of Findings:................................................................................................................. 7
+Gender and Age .......................................................................................................................... 7
+Marital Status and Family Type .................................................................................................. 
+ 8
+Children and Household Structure .............................................................................................. 8
+CHAPTER 3: Language, Education, and English Skills .............................................................. 10
+Summary of Findings:............................................................................................................... 10
+Primary Language ..................................................................................................................... 10
+English Language Skills ........................................................................................................... 10
+Education .................................................................................................................................. 12
+Adult Education ........................................................................................................................ 13
+CHAPTER 4: Housing Characteristics and Distance to Work ..................................................... 15
+Summary of Findings:............................................................................................................... 15
+Location of Housing and Payment Arrangement...................................................................... 15
+Type of Housing ....................................................................................................................... 17
+Household Crowding ................................................................................................................ 18
+Distance to Work and Transportation ....................................................................................... 19
+CHAPTER 5: Employment Patterns and Farm Job Characteristics ............................................. 
+ 20
+Summary of Findings:............................................................................................................... 20
+T
+ype of Employer and Job Recruitment ................................................................................... 20
+Primary Crops and Farm Job Tasks .......................................................................................... 20
+Basis for Pay and Hours Worked .............................................................................................. 21
+
+Wages 
+........................................................................................................................................ 23
+Monetary Bonuses .................................................................................................................... 24
+W
+orksite Availability of Water and Toilets .............................................................................. 24
+Pesticide Training ..................................................................................................................... 25
+Insurance Benefits ..................................................................................................................... 25
+CHAPTER 6: E mployment Experience........................................................................................ 27
+Summary of Findings:............................................................................................................... 27
+Number of U.S. Farm Employers in Previous 12 Months ........................................................ 27
+Number of Years with Current Farm Employer ....................................................................... 27
+Weeks and Days of Farm Work in Previous 12 Months .......................................................... 28
+Years of U.S. Farm Work Experience ...................................................................................... 29
+Other Work History .................................................................................................................. 30
+Plans to Remain in Farm Work ................................................................................................. 
+ 32
+CHAPTER 7: Non-C rop Work Activities During the Year ......................................................... 33
+Summary of Findings:............................................................................................................... 33
+Time Spent Not Employed or Abroad in Previous 12 Months ................................................. 33
+No
+n-Crop Work in Previous 12 Months ................................................................................... 34
+R
+easons for Leaving Non-Crop Work in Previous Year .......................................................... 35
+Periods of Unemployment During the Year ............................................................................. 35
+CHAPTER 8: Income, Assets, and Use of Assistance Programs ................................................. 36
+Summary of Findings:............................................................................................................... 36
+Income................................................................................................
+ ....................................... 36
+Assets in the United States and Abroad .................................................................................... 38
+Use of Contribution- and Need-B ased Programs...................................................................... 39
+CHAPTER 9: Health Care in the United States ............................................................................ 40
+Summary of Findings:............................................................................................................... 40
+Health Insurance Coverage for Farmworkers and Family Members 
+ ........................................ 40
+Health Care Utilization and Barriers to Health Care ................................................................ 42
+APPENDIX A: Methodology ....................................................................................................... 46
+Overview ................................................................................................................................... 46
+Stratification 
+ .............................................................................................................................. 46
+Sampling within Strata .............................................................................................................. 47
+APPENDIX B: Map of the NAWS Migrant Streams ................................................................... 50
+APPENDIX C:  Index of Percentages and Means for Key Variables .......................................... 51
+
+C
+hapter 1 ................................................................................................................................... 51
+Chapter 2 ................................ ................................................................................................... 53
+Chapter 3 ................................ ................................................................................................... 55
+Chapter 4 ................................ ................................................................................................... 56
+Chapter 5 ................................ ................................................................................................... 59
+Chapter 6 ................................ ................................................................................................... 62
+Chapter 7 ................................ ................................................................................................... 65
+Chapter 8 ................................ ................................................................................................... 66
+Chapter 9 ................................ ................................................................................................... 68
+
+Table of Figures 
+Figure 1.1:  Place of Birth, 2015-2016 ........................................................................................... 2
+Figure 1.2: Years Since First Arrival to the United States, 2015-2016 .......................................... 4
+Figure 1.3: Distribution of Migrant Types (As Percent of Migrants), 2015-2016 ......................... 6
+Figure 1.4: Distribution of Migrant Types According To Their Migrant Travel Patterns (As 
+Pe
+rcent of Migrants), 2015-2016 .................................................................................................... 6
+Figure 2.1: Age Distribution of Farmworkers, 2015-2016 ............................................................. 7
+Figure 2.2: Number of Minor Children in the Household of Farmworkers, 2015-2016 ................ 8
+Figure 2.3: Percent of Farmworkers Unaccompanied by Nuclear Family, 2015-2016 .................. 9
+Figure 3.1: Farmworkers' Self-Reported English Speaking and Reading Ability, 2015-2016 ..... 11
+Figure 3.2: Among Farmworkers Whose Primary Language Is Spanish, Self-Reported Spanish 
+Spe
+aking and Reading Ability, 2015-2016 ................................................................................... 12
+Figure 3.3: Distribution of Highest Grade Completed by Farmworkers, 2015-2016 ................... 13
+Figure 3.4: Percent of Farmworkers Who Attended Adult Education Classes, 2015-2016 ......... 14
+Figure 3.5: Percent of Farmworkers Who Attended At Least One Adult Education Class in the 
+Uni
+ted States, 2015-2016 .............................................................................................................. 14
+Figure 4.1: Percent of Farmworkers Who Lived in Employer-Provided Housing, 2015-2016 .... 16
+Figure 4.2: Housing Arrangement, 2015-2016 ............................................................................. 17
+Figure 4.3: Type of Housing, 2015-2016...................................................................................... 18
+Figure 4.4: Type of Housing by Length of Time in the United States, 2015-2016 ...................... 18
+Figure 5.1: Primary Crop at Time of Interview, 2015-2016 ......................................................... 20
+Figure 5.2: Primary Task at Time of Interview, 2015-2016 ......................................................... 21
+Figure 5.3: Average Number of Hours Worked in Week Prior to Interview by Crop and Task at 
+Ti
+me of Interview, 2015-2016 ...................................................................................................... 22
+Figure 5.4: Average Number of Hours Worked in Week Prior to Interview by Farmworker 
+Cha
+racteristic, 2015-2016 ............................................................................................................. 22
+Figure 5.5: Average Hourly Wage by Farmworker Characteristic, 2015-2016 ........................... 23
+Figure 5.6: Types of Cash Bonuses Farmworkers Received, 2015-2016 ..................................... 24
+Figure 5.7: Percent of Farmworkers Whose Employer Offers Health Insurance, 2015-2016 ...... 26
+Figure 6.1: Percentage Distribution of Number of Farm Work Employers in Previous 12 Months 
+by
+ Farmworker Characteristic, 2015-2016 ................................................................................... 27
+Figure 6.2: Percentage Distribution of Number of Years with Current Farm Employer, 2015-
+2016............................................................................................................................................... 
+28
+Figure 6.3: Average Number of Weeks of Farm Work in Previous 12 Months, by Farmworker 
+Cha
+racteristic, 2015-2016 ............................................................................................................. 28
+
+F
+igure 6.4: Average Number of Days Worked Per Week and Average Number of Days of Farm 
+Work in Previous 12 Months by Farmworker Characteristic, 2015-2016 .................................... 29
+Figure 6.5: Years U.S. Farm Work Experience, 2015-2016  ......................................................... 30
+Figure 6.6: U.S. Non-C rop Work Experience, 2015-2016 ........................................................... 31
+Figure 6.7: Last Time Parents Did Hired Farm Work i n United States, 2015-2016 .................... 31
+Figure 7.1: Average Number of Weeks Not Employed and Abroad in Previous 12 Months, 2015-
+2016
+............................................................................................................................................... 33
+Figure 7.2: Percent of Farmworkers Who Held a Non-C rop Job the Previous Year, 2015-2016 34
+Figure 7.3: Types of Non-C rop Jobs Held in Previous 12 Months, 2015-2016 ........................... 35
+Figure 8.1: Percent of Farmworkers with Total Family Income Below Poverty Level by Family 
+S
+ize, 2015-2016 ............................................................................................................................ 37
+Figure 8.2: Percent of Farmworkers with Total Family Income Below Poverty Level by 
+F
+armworker Characteristic, 2015-2016 ........................................................................................ 38
+Figure 8.3: Assets in the United States, 2015-2016  ...................................................................... 38
+Figure 8.4: Percent of Farmworkers Who Reported That a Member of the Household Received 
+B
+enefits from Contribution- or Needs-Based Programs in the Last Two Years, 2015-2016 ....... 39
+Figure 9.1:  Percent of Farmworkers with Health Insurance, 2015-2016 ...................................... 41
+Figure 9.2: Sources of Farmworkers' Health Insurance, 2015-2016 ................................ ............ 41
+Figure 9.3: Sources of Farmworkers' Spouses’ Health Insurance, 2015-2016 .............................  42
+Figure 9.4: Sources of Farmworkers' Children’s Health Insurance, 2015-20 16 .......................... 42
+Figure 9.5: Visited a U.S. Health Care Provider in the Last Two Years by Health Insurance 
+S
+tatus, 2015-2016 ......................................................................................................................... 43
+Figure 9.6: Type of U.S. Health Care Provider Visited by Health Insurance Status, 2015-2016  44
+
+i
+EXECUTIVE SUMMARY 
+This report is the thirteenth in a series of Department of Labor publications on the demographic 
+and employment characteristics of hired agricultural workers in the United States (U.S.). It 
+examines recent information on the demographics and employment characteristics of those who 
+perform U.S. crop work. The primary focus of this report is the presentation of findings for the 
+period covering fiscal years (FY) 2015 and 2016. These findings are based on data collected 
+from face-to-face interviews with 5,342 crop farmworkers through the U.S. Department of 
+Labor’s National Agricultural Workers Survey (NAWS) between October 1, 2014 and 
+September 30, 2016. 
+Birthplace, Ethnicity, and Race 
+Sixty-nine percent of hired farmworkers interviewed in FYs 2015-2016 were born in Mexico, 24 
+percent were born in the United States, 1 percent were born in Puerto Rico
+1, 6 percent were born 
+in Central America, and a small portion (1%) originated from various other regions, including 
+South America, the Caribbean, Asia, and the Pacific Islands. Eighty-three percent of all 
+farmworkers were Hispanic. Among U.S.-born workers, 35 percent were Hispanic. In terms of 
+race, nearly a quarter of farmworkers self-identified as White (24%), and nearly three quarters 
+categorized their race with an open-ended “other” response (73%). Six percent of farmworkers 
+were identified as indigenous. 
+Employment Eligibility and Number of Years in the United States 
+Just more than half of all farmworkers in 2015-2016 had work authorization (51%): 29 percent 
+were U.S. citizens, 21 percent were legal permanent residents, and 1 percent had work 
+authorization through some other visa program. Among citizens, 85 percent were born in the 
+U.S. and 15 percent were naturalized citizens.   
+On average, foreign-born farmworkers interviewed in 2015-2016 first came to the United States 
+18 years before being interviewed.  Most respondents had been in the United States at least 10 
+years (78%), with 58 percent arriving 15 years or more prior to their NAWS interview. Four 
+percent of farmworkers were in their first year in the United States. Eighty-one percent of 
+farmworkers were settled workers and 19 percent were migrants. 
+Demographics and Family Composition 
+Males comprised 68 percent of the hired crop labor force in 2015-2016. Farmworkers were 
+relatively young, their average age being 38. Forty-four percent of workers were under the age of 
+35, 41 percent were ages 35 to 54, and 14 percent were age 55 or older.  
+Fifty-seven percent of farmworkers were married and 55 percent had children. At the time they 
+were interviewed, farmworker parents with minor children living with them had an average of 2 
+minor children. Among these parents, 67 percent had 1 or 2 minor children in their household, 23 
+percent had 3 minor children, and 10 percent had 4 or more minor children. 
+Forty percent of farmworkers were living apart from all nuclear family members at the time of 
+their interview (i.e. were unaccompanied). Seventy-three percent of these unaccompanied 
+1 Estimate should be interpreted with caution because it has a RSE of 31 to 50 percent.
+
+ii
+worke
+rs were single without children, 20 percent were parents, and 7 percent had a spouse but no 
+children. 
+Language and Education 
+In 2015-2016, 77 percent of farmworkers said that Spanish was the language in which they are 
+most comfortable conversing, 21 percent said English was, and 1 percent reported an indigenous 
+language.  In rating their English language skills, 30 percent of farmworkers reported that they 
+could not speak English “at all”, 41 percent said they could speak English “a little” or 
+“somewhat”, and 29 percent said they could speak English “well”.
+ In terms of their ability to 
+read English, 41 percent of workers reported they could not read English “at all”, 30 percent said 
+they could read English “a little” or “somewhat”, and 28 percent said that they could read 
+English “well”. 
+The average level of formal education completed by farmworkers was eighth grade. Four percent 
+of workers reported that they had no formal schooling and 37 percent reported that they 
+completed the sixth grade or lower. Nineteen percent of workers said they completed grade 7, 8, 
+or 9, and 30 percent said they completed grade 10, 11, or 12. Ten percent of workers reported 
+completing some education beyond high school. Thirty-five percent of workers reported having 
+taken at least one adult education class in the United States. 
+Housing 
+Fifty-four percent of farmworkers interviewed in 2015-2016 reported that they lived in housing 
+they rented from someone other than their employer, 28 percent of workers said they lived in a 
+home owned by themselves or a family member, and 1 percent said they paid rent for housing 
+provided by the government, a charity, or other organization. Sixteen percent of workers lived in 
+employer-provided housing: 11 percent received it free of charge, 2 percent paid rent either 
+directly or via payroll deduction, and 4 percent had other arrangements with their employers that 
+were not specified. 
+Fifty-seven percent of all farmworkers reported living in detached, single-family houses, 20 
+percent said they lived in mobile homes, 20 percent lived in apartments, and 4 percent lived in 
+various other types of housing including duplexes or triplexes, dormitories or barracks, and 
+motels or hotels. Thirty-three percent of farmworkers lived in “crowded” dwellings, defined as 
+housing units in which the number of persons per room was greater than one.  
+Distance to Work and Transportation 
+When asked how far their current farm job was from their current residence, 11 percent of 
+workers reported that they lived where they worked, 70 percent lived fewer than 25 miles from 
+their current farm job, and 16 percent lived between 25 and 49 miles from work. Fifty-eight 
+percent of workers drove a car to work, 13 percent rode with others, 8 percent walked or took 
+public transportation, and 15 percent rode with a “raitero”
+2. 
+Job Characteristics and Employment History 
+In 2015-2016, 80 percent of farmworkers were employed directly by growers and 20 percent 
+were employed by farm labor contractors. At the time of interview, 37 percent of farmworkers 
+2 “Raitero”, derived from “ride”, is the Spanish word for a person who charges a fee for providing a ride to work.
+
+iii
+w
+ere working in vegetable crops, 32 percent in fruit and nut crops, and 19 percent in horticulture. 
+Another 10 percent were working in field crops and 3 percent were working in mixed crops. 
+Thirty percent of farmworkers were performing pre-harvest tasks, 17 percent were harvesting 
+crops, 25 percent were performing post-harvest activities, and 29 percent were performing 
+technical production tasks.  
+In the 12 months prior to being interviewed, respondents spent an average of 33 weeks employed 
+in farm work and performed an average of 192 days of farm work. Workers worked an average 
+of 5 days per week for their current employer and reported an average of 45 work hours in the 
+previous week. The majority of workers said that their basis for pay was an hourly wage (88%), 
+and workers reported earning an average of $10.60 per hour. Forty-three percent of farmworkers 
+said that they were covered by Unemployment Insurance (UI) if they were to lose their current 
+job, 62 percent said they would receive workers’ compensation if they were injured at work or 
+became ill as a result of their work, and 18 percent reported that their employer offered health 
+insurance for injury or illness suffered while not on the job. 
+Farmworkers in 2015-2016 worked for an average of 1 U.S. farm employer in the 12 months 
+prior to being interviewed. Eighty percent of workers reported having worked for only 1 farm 
+employer in the previous 12 months, 13 percent worked for 2 employers, and 7 percent had 3 or 
+more farm employers. At the time of interview, farmworkers had been employed by their current 
+farm employer for an average of 7 years. The majority of farmworkers interviewed in 2015-2016 
+expected to continue doing farm work for more than 5 years (76%). 
+In the year prior to their NAWS interview, workers spent an average of 11 weeks living in the 
+United States but not working and 3 weeks abroad. Twenty-four percent of farmworkers held at 
+least 1 non-crop work job in the previous 12 months, and those who held a non-crop job worked 
+an average of 25 weeks in non-crop employment. 
+Income and Assets 
+Farmworkers’ mean and median personal incomes the previous year were in the range of 
+$17,500 to $19,999. Fourteen percent of workers said their total personal income was less than 
+$10,000, 29 percent said they had personal incomes of $10,000 to $19,999, another 29 percent 
+had personal incomes of $20,000 to $29,999, and 14 percent reported that their total personal 
+income was $30,000 or more. Nine percent of workers reported that they did not work at all 
+during the prior calendar year. 
+Workers’ mean and median total family incomes the previous year were in the range of $20,000 
+to $24,999. Six percent of workers said that they did not work in the prior year, twenty-seven 
+percent said that their total family income the prior year was less than $20,000, another 27 
+percent had a family income of $20,000 to $29,999, and 32 percent had a family income of 
+$30,000 or more
+3. Thirty-three percent of farmworkers had family incomes below the poverty 
+level. 
+3 An additional 8 percent of workers reported that they did not know their family income for the prior year.
+
+iv
+A
+pproximately two-thirds of farmworkers stated that they owned or were buying at least one 
+asset in the United States (68%). The most common assets were a vehicle (reported by 63% of 
+workers) or a home (reported by 18% of workers). 
+In 2015-2016, 14 percent of farmworkers reported that someone in their household received a 
+benefit from at least one contribution-based program, including disability insurance, UI, or 
+Social Security.  Ten percent of households received payments from UI, three percent received 
+Social Security payments, and one percent received payments from disability insurance. Fifty-
+four percent of farmworkers reported that they or someone in their household used at least one 
+type of public assistance program in the previous two years.  The most common programs 
+utilized were Medicaid (44%), Supplemental Nutrition Assistance Program (SNAP, 18%), 
+Special Supplemental Nutrition Program for Women, Infants, and Children (WIC, 17%), and 
+public health clinics (10%). 
+Health Care 
+Forty-seven percent of farmworkers interviewed in 2015-2016 reported that they had health 
+insurance. Among them, 29 percent said their employer provided the insurance, 43 percent 
+reported that they had insurance provided by the government, 12 percent said that they or their 
+spouse paid for insurance themselves, 6 percent reported that they had insurance under their 
+spouse’s employer’s plan, 6 percent reported that they were covered by a family member other 
+than the spouse, such as a parent, and another 7 percent reported that some other entity paid for 
+their insurance
+4. Among workers with spouses, 56 percent said their spouse had health insurance. 
+Among workers with minor children in the US or Puerto Rico, 89 percent reported that all of 
+their children had health insurance, 3 percent reported that some of their children had health 
+insurance, and 7 percent reported that none of their children had health insurance. 
+Sixty-three percent of farmworkers used a health care provider in the United States sometime in 
+the last two years. The last time they visited a health care provider, 40 percent of workers went to 
+a private medical doctor’s office or private clinic, 34 percent said they visited a community 
+health center or migrant health clinic, 12 percent saw a dentist, 11 percent went to a hospital, and 
+3 percent went to some other health care provider. 
+Thirty-four percent of farmworkers paid for their last health care visit out of their own pockets, 
+22 percent said that they had Medicaid or Medicare, 13 percent reported that the cost was 
+covered by health insurance provided by their employer, and 11 percent said the majority of the 
+cost was covered by health insurance that they or their family had purchased themselves. An 
+additional nine percent of workers stated that they went to a public clinic that did not charge for 
+the visit, three percent reported that they used some combination of sources to pay, they were 
+covered by worker’s compensation, or that they were billed for service but did not pay, and the 
+remaining seven percent provided a variety of other responses. The most common difficulty 
+farmworkers said they faced when they needed to access health care was that health care visits 
+were too expensive (reported by 23% of respondents).
+4 Percentages sum to more than 100 percent because respondents could select all that apply.
+
+INTRODUCTION 
+The U.S. Department of Labor’s National Agricultural Workers Survey (NAWS) is an 
+employment-based, random-sample survey of U.S. crop workers that collects demographic, 
+employment, and health data in face-to-face interviews.  The survey began in Federal Fiscal Year 
+(FY) 1989; since then over 66,000 workers have been interviewed. The primary purposes of the 
+NAWS are to monitor the terms and conditions of agricultural employment and assess the 
+conditions of farmworkers.  The survey also generates information for various Federal agencies 
+that oversee farmworker programs. 
+The NAWS is a survey of hired workers who are currently employed in crop and crop-related 
+w
+ork.  To be interviewed, workers must be hired by an eligible establishment and working at an 
+eligible task.  Eligible establishments are those classified in the North American Industrial 
+Classification System (NAICS) as Crop Production (NAICS code 111) or as Support Activities 
+for Crop Production (NAICS code 1151).  NAICS 111 comprises establishments such as farms, 
+orchards, groves, greenhouses, and nurseries that are primarily engaged in growing crops, plants, 
+vines, or trees and their seeds.  NAICS 1151 includes establishments primarily engaged in 
+providing support activities for growing crops.  Examples of support activities include supplying 
+labor, aerial dusting or spraying, cotton ginning, cultivating services, farm management services, 
+planting crops, and vineyard cultivation services. 
+Eligible tasks include work in all phases of crop production (pre-harvest, harvest, and post-
+harvest), as well as supervising workers, operating machinery, and packing crops.  Workers who 
+pack crops, however, are interviewed only if the packing facility at which they are employed is 
+on or adjacent to the sampled crop producer, and the facility is owned by and primarily packs 
+crops for that producer. 
+The NAWS sampling universe does not include: 
+• persons employed at eligible establishments who do not perform crop-related work, such 
+as secretaries or mechanics, unless such workers also perform crop-related work; and
+• crop workers with an H-2A visa (a temporary-employment visa for foreign agricultural
+workers). 
+B
+oth migrant and seasonal crop workers are sampled in the NAWS. 
+The NAWS is unique for its broad coverage of the characteristics of hired crop workers and their 
+dependents and its nearly year-round interviewing schedule.  Data are collected throughout the 
+year, over three cycles, to reflect the seasonality of agricultural production and employment. The 
+NAWS differs from many Federal worker surveys in that:  1) it is an establishment survey 
+(workers are sampled at their workplaces); 2) only currently employed persons are sampled; and 
+3) data is collected through face-to-face interviews with farmworkers. 
+The use of an employer-based sample rather than a household-based sample increases the 
+likelihood that migrant workers will be interviewed in the NAWS. Multi-stage sampling is 
+implemented to account for seasonal and regional fluctuations in the level of farm 
+employment.  To capture seasonal fluctuations in the agricultural work force, the sampling year 
+is divided into three interviewing cycles.  For each cycle, there are six levels of selection: 
+i
+
+ii
+• region;
+• single counties or groupings of counties called farm labor areas (FLA), which constitute 
+the primary sampling unit;
+• county
+• ZIP Code region;
+• employer; and
+• respondent.
+A full description of the survey's sampling design is available in the Statistical Methods of the 
+National Agricultural Workers Survey 
+(https://www.doleta.gov/pdf/NAWS%20Statistical%20Methods%20AKA%20Supporting%20St
+atement%20Part%20B.pdf). 
+The NAWS has benefited from collaboration with multiple Federal agencies, which continue to 
+share in the design of the questionnaire. Information provided through the NAWS informs the 
+policies and programs of the many Federal government agencies that protect and provide 
+services to migrant and seasonal farmworkers and their dependents.  
+Topics Covered 
+This report presents information collected from face-to-face interviews with 5,342 crop workers 
+interviewed between October 1, 2014 and September 30, 2016. It is organized into nine chapters, 
+each beginning with a summary of the chapter’s key findings.  The report also contains three 
+appendices:  Appendix A describes the procedures used to select the sample, Appendix B 
+displays a map of the NAWS migrant streams, and Appendix C contains a table of the 
+percentages and means of the principle variables presented in the report. 
+Chapters 1 through 3 summarize the demographic characteristics of farmworkers, including 
+place of birth, ethnicity and race, work authorization, gender, age, marital status, household size 
+and structure, education, and language ability. Chapter 4 discusses farmworkers’ housing, 
+including the types of housing they live in, the location of their housing in relation to their jobs, 
+and crowded conditions. Chapter 5 summarizes the characteristics of farm jobs, including crops 
+and tasks, job recruitment, hours and wages, and benefits. Chapter 6 gives an overview of 
+farmworkers’ participation in U.S. agricultural employment and chapter 7 discusses workers’ 
+participation in non-crop employment, including farm jobs in other types of agriculture, and 
+periods of unemployment. Chapter 8 presents information on farmworkers’ income, assets, and 
+use of assistance programs, and chapter 9 summarizes health insurance coverage for 
+farmworkers and their family members, health care utilization in the United States, and barriers 
+to health care access.
+
+Chapter 1: Birthplace, Employment Eligibility, and Migrant Types  
+1
+CHAPTER 1: Birthplace, Employment Eligibility, and Migrant Types
+Summary of Findings: 
+• Nearly 7 in 10 hired farmworkers were born in Mexico (69%).
+• Eighty-three percent of all farmworkers were Hispanic. Among U.S.-born workers, 35 
+percent were Hispanic.
+• Twenty-four percent of farmworkers self-identified as White, one percent as American 
+Indian or Alaska Native, and three percent as Black or African American. Seventy-three 
+percent of respondents categorized their race with an open-ended “other” response. 
+• Six percent of farmworkers were identified as indigenous. 
+• Farmworkers who were in their first year in the United States comprised only four percent of 
+the hired crop labor force. 
+• Just more than half of all farmworkers had work authorization (51%).
+• The vast majority of farmworkers were settled workers (81%). Nineteen percent were 
+migrants.
+Place of Birth
+Nearly 7 in 10 hired farmworkers interviewed in 2015-2016 were born in Mexico (69%), one-
+quarter were born in the United States (24%), 1 percent were born in Puerto Rico5,  6 percent 
+were born in Central America, and a small portion (1%) originated from various other regions, 
+including South America, the Caribbean, Asia, and the Pacific Islands (figure 1.1). 
+5 Estimate should be interpreted with caution because it has a RSE of 31 to 50 percent.
+
+Chapter 1: Birthplace, Employment Eligibility, and Migrant Types  
+Fig
+ure 1.1:  Place of Birth, 2015-2016 
+Ethn
+icity and Race 
+Hispanic origin, as defined in the United States, can be viewed as the heritage, nationality group, 
+lineage, or country of birth of the person or the person’s parents or ancestors.6 Foreign-born 
+workers may more readily identify with a national origin rather than an abstract ethnicity concept 
+such as Hispanic or Latino.  Workers born in the United States, or those who have been in the 
+United States for several years, may have a better understanding of the U.S-based ethnicity label 
+system.  
+To capture Hispanic identity, farmworkers were asked to indicate which of a variety of 
+categories best described them. Eighty-three percent of workers identified themselves as 
+members of a Hispanic group: 65 percent as Mexican, 9 percent as Mexican-American, and the 
+remaining 9 percent as Chicano, Puerto Rican, or other Hispanic.  Among U.S.-born workers, 35 
+percent self-identified as Hispanic: 20 percent as Mexican-American, 4 percent as Mexican, and 
+11 percent as Puerto Rican, Chicano, or other Hispanic.  
+Farmworker respondents were also asked to indicate the race with which they identify. 
+Respondents had the opportunity to choose one or more race categories from the standard list 
+6 Humes, K. R., Jones, N. A., and Ramirez, R. R. (2011). Overview of Race and Hispanic Origin: 2010 .  2010 
+Census Briefs (p. 2). 
+2
+
+Chapter 1: Birthplace, Employment Eligibility, and Migrant Types  
+3 
+required by the U.S. Office of Management and Budget. Twenty-four percent of all respondents 
+in 2015-2016 self-identified as White, 1 percent as American Indian or Alaska Native, and 3 
+percent as Black or African American7. Nearly three-quarters of respondents gave an answer not 
+on the standard list (73%).  Among them, 84 percent classified their race as Latino or Hispanic 
+(including Latino/a, Hispanic, Hispano/a, Mexican, Mexicano/a, Mexican-American, and 
+Chicano), 10 percent referenced their complexion (including moreno/a and café), 3 percent 
+identified with an indigenous group, 2 percent identified with their Central American origin 
+(Guatemalan, Honduran, and Salvadoran), and another 1 percent provided a variety of other 
+responses (examples include American, Filipino, and Portuguese). 
+The categories used in the NAWS questions on ethnicity and race might not be intuitively 
+understood by indigenous individuals who identify themselves as members of a specific 
+community or language group rather than a more generic racial group such as indigenous. 
+Beginning in 2005, the NAWS began supplementing the question on primary language use with 
+questions that ask about adult languages spoken as well as childhood language exposure.
+8 The 
+NAWS uses a combination of the responses to these questions and the question about race to 
+identify farmworkers who are indigenous, and in 2015-2016, 6 percent of NAWS respondents 
+were identified as indigenous. 
+Foreign-born Workers’ First Arrival to the United States  
+While not a measure of continued residence, data on the month and year a foreign-born 
+farmworker first entered the United States provides some information about migration history. 
+For example, time in the United States since first arrival can serve as a measure of attachment to 
+the farm workforce. 
+On average, foreign-born farmworkers interviewed in 2015-2016 first came to the United States 
+18 years before being interviewed.  The vast majority of respondents had been in the United 
+States at least 10 years (78%), with more than half arriving at least 15 years prior to their NAWS 
+interview (58%). Farmworkers who first arrived in the United States in the year predating their 
+interview comprised 3 percent of workers interviewed in 2015-2016 (figure 1.2).  
+7 Estimates with relative standard errors (RSE) higher than 30 percent are identified throughout this report. The RSE 
+is calculated by dividing the standard error of the estimate (mean or percentage) by the estimate itself. Estimates 
+with RSEs greater than 30 percent but no more than 50 percent are published but should be used with caution. 
+Estimates with RSEs greater than 50 percent are considered statistically unreliable and are suppressed. The estimate 
+of 3 percent of workers who identified as Black or African American has a RSE of 31 percent to 50 percent and 
+should be interpreted with caution. 
+8 Gabbard, S., Kissam, E., Glasnapp, J., Nakamoto, J., Saltz, R., Carroll, D. J., & Georges, A. (November, 2012). 
+Identifying Indigenous Mexicans and Central Americans in Surveys. International Conference on Methods for 
+Surveying and Enumerating Hard-to-Reach Populations (November, 2012) New Orleans, LA.
+
+Chapter 1: Birthplace, Employment Eligibility, and Migrant Types  
+F
+igure 1.2: Years Since First Arrival to the United States, 2015-2016 
+For
+eign-born respondents were asked to report where they lived (state/department/province) 
+before coming to the United States. Among Mexico-born workers interviewed in 2015-2016, 
+most came from the states of Michoacán (20%), Guanajuato (15%), Jalisco (10%), Oaxaca (7%), 
+and Guerrero (7%). The greatest proportion of Mexico-born farmworkers originated from the 
+Western Central region (47%), 28 percent came from Northern Mexico, and another 25 percent 
+came from Southern Mexico9.  
+Work Authorization 
+A series of related questions in the survey provides a picture of whether foreign-born 
+respondents have work authorization. These questions address the foreign-born worker’s existing 
+status (citizen, legal permanent resident, border crossing-card holder, applicant for residency, 
+temporary visa holder, or unauthorized) and, when applicable, the date and program under which 
+the individual applied for legal status. In addition, each foreign-born respondent is asked whether 
+he or she has authorization to work in the United States.  To be classified as work authorized, a 
+worker must provide consistent answers, and answers that conform to visa regulations.  For 
+example, a worker who reports work authorization from a visa program that expired before he or 
+she entered the country would be classified as unauthorized.  
+9 The Western Central region of Mexico includes the states of Colima, Guanajuato, Jalisco, and Michoacán . The 
+Northern region includes the states of Aguascalientes, Baja California, Chihuahua, Coahuila, Mexico City, Durango, 
+Estado de Mexico, Hidalgo, Nayarit, Nuevo Leon, Queretaro, San Luis Potosi, Sinaloa, Sonora, Tamaulipas, and 
+Zacatecas. The Southern region of Mexico includes the states of Campeche, Chiapas, Guerrero, Morelos, Oaxaca, 
+Puebla, Quintana Roo, Tabasco, Tlaxcala, Veracruz, and Yucatan. 
+4
+
+Chapter 1: Birthplace, Employment Eligibility, and Migrant Types  
+Fi
+fty-one percent of the hired crop labor force had work authorization in 2015-2016. U.S. 
+citizens comprised 29 percent of the work-authorized population and among them, 85 percent 
+were born in the United States and 15 percent were naturalized citizens.  The remainder of the 
+work authorized population consisted mainly of legal permanent residents (21%) and 1 percent 
+had work authorization through some other visa program.  
+Migrant Farmworkers 
+The definition of “migrant” has varied across Federal government agencies and programs that 
+provide services to migrant and seasonal farmworkers.  The NAWS has defined a migrant as a 
+person who reported jobs that were at least 75 miles apart or who reported moving more than 75 
+miles to obtain a farm job during a 12-month period10. 
+Interpreting migration patterns requires some caution. Since the analysis presented here covers 
+only one year of farm employment data, these definitions describe movement during that 
+particular year.  The discussion below assumes that most of the workers making a move during 
+the year were cyclical migrants. However, a portion of these workers may have been making a 
+permanent move. 
+For the purpose of this report, migrant farmworkers were categorized according to their migrant 
+travel patterns. Migration consisted of moving from a “home base”, the location where the 
+migrant spent the greatest amount of time during the year preceding his/her NAWS interview, to 
+one or more destination locations where work was available. Shuttle migrants were workers who 
+did not work on a U.S. farm at their home base, but who traveled 75 miles or more to do farm 
+work in a single U.S. location, and worked only within a 75-mile radius of that location. Follow-
+the-crop migrants were workers who traveled to multiple U.S. farm locations for work.  Follow-
+the-crop migrants might or might not have done U.S. farm work at their home base. This report 
+further classifies migrants into domestic migrants (those who traveled solely within the United 
+States in the 12 months preceding their interview to do farm work) or international migrants 
+(those who crossed the U.S. border to do farm work). 
+Nineteen percent of farmworkers interviewed in 2015-2016 were migrants. Among them, nearly 
+half were domestic migrants (27% domestic follow-the-crop and 21% domestic shuttle 
+migrants), a third were international migrants (3% international follow-the-crop and 32% 
+international shuttle migrants), and 18 percent were newcomers who had been in the U.S. less 
+than a year (see figures 1.3 and 1.4). 
+10 Migrant programs often use a 24-month look-back period in their definitions of migrant. The NAWS collects data 
+about travel to another city to do farm work during the 12 months preceding the NAWS interview, and also the 12 
+months prior to that. In 2015-2016, 24 percent of farmworkers reported that they traveled to another city to do farm 
+work sometime during the previous 24 months.  
+5
+
+Chapter 1: Birthplace, Employment Eligibility, and Migrant Types  
+F
+igure 1.3: Distribution of Migrant Types (As Percent of Migrants), 2015-2016 
+F
+igure 1.4: Distribution of Migrant Types According To Their Migrant Travel Patterns 
+(As Percent of Migrants), 2015-2016 
+6
+
+Chapter 2: Demographics, Family Size, and Children and Household Structure  
+CHAPTER 2: Demographics, Family Size, and Children and Household 
+Structure 
+Summary of Findings: 
+• Sixty-eight percent of farmworkers were men.
+• Farmworkers were relatively young: their average age was 38.
+• Fifty-seven percent of farmworkers were married and 55 percent had children. 
+• Forty percent of farmworkers were living apart from all nuclear family members at the time 
+of their interview. Seventy-three percent of the unaccompanied were single workers without 
+children, 20 percent were parents, and 7 percent had a spouse but no children. 
+Gender and Age
+In 2015-2016, the U.S. crop labor force was predominantly male (68%) and relatively young, 
+with an average age of 38. Just under half of all workers were under the age of 35 (44%) and 14 
+percent were age 55 or older (figure 2.1).  
+Figure 2.1: Age Distribution of Farmworkers, 2015-2016 
+In
+ 2015-2016, unauthorized workers were younger than authorized workers (an average of 36 
+and 41 years of age respectively) and newcomers to U.S. farm work (i.e., those arriving in the 
+United States within the year prior to interview) were younger than experienced workers (an 
+average of 25 and 39 years of age respectively). The average age of males and females was 
+nearly the same – 38 and 39 years respectively.  
+7
+
+Chapter 2: Demographics, Family Size, and Children and Household Structure  
+M
+arital Status and Family Type 
+More than half of farmworkers interviewed in 2015-2016 were married (57%) and more than 
+half were parents (55%). Among parents, 76 percent were married or living together, 14 percent 
+were single, and 10 percent were separated, divorced, or widowed. 
+Children and Household Structure 
+In 2015-2016, farmworker parents with minor children living in their household had an average 
+of 2 minor children living with them at the time they were interviewed. Sixty-seven percent of 
+these parents had 1 or 2 minor children living with them (29% and 38% respectively), 23 percent 
+had 3 minor children, 7 percent had 4 minor children, and 2 percent had 5 or more minor 
+children (figure 2.2). 
+Figure 2.2: Number of Minor Children in the Household of Farmworkers, 2015-2016 
+O
+f parents with children under the age of 18, 53 percent had children younger than age 6, 65 
+percent had children ages 6-13, and 38 percent had children ages 14-17. Three percent of parents 
+resided with only some of their minor children and 17 percent lived away from all their minor 
+children. Migrant parents were nearly three times more likely than settled parents to be living 
+away from all their minor children (37% and 13% respectively). 
+“Unaccompanied” farmworkers, defined as those who were living apart from all nuclear family 
+members (parents, siblings, spouse, and children) at the time of their interview, comprised 40 
+8
+
+Chapter 2: Demographics, Family Size, and Children and Household Structure  
+pe
+rcent of the U.S. crop labor force in 2015-2016. Migrant workers were much more likely than 
+settled workers to be unaccompanied (61% and 35% respectively) as were men when compared 
+to women (49% and 23% respectively). See Figure 2.3. The majority of the unaccompanied were 
+single workers without children (73%), 20 percent were parents, and 7 percent had a spouse but 
+no children.  
+Figure 2.3: Percent of Farmworkers Unaccompanied by Nuclear Family, 2015-2016 
+A
+mong farmworker parents in 2015-2016, nearly all mothers (98%) and approximately three-
+quarters of fathers (77%) were accompanied by at least some nuclear family members. Similarly, 
+among married workers without children, 95 percent of women and 75 percent of the men were 
+accompanied at the time of the interview. 
+9
+
+Chapter 3: Language, Education, and English Skills 
+CHAPTER 3: Language, Education, and English Skills 
+Summary of Findings: 
+• A
+pproximately three-quarters of farmworkers reported that Spanish is their primary language 
+(77%).
+• T
+wenty-nine percent of workers reported that they could speak English “well” and 30 percent 
+said “not at all”. Twenty-eight percent reported that they could read English “well” while 41 
+percent said “not at all”.
+• T
+he average level of formal education completed by farmworkers was eighth grade.
+• T
+hirty-five percent of workers reported having taken at least one adult education class in the 
+United States.
+P
+rimary Language
+In 2015-2016, approximately three-quarters of farmworkers said that Spanish was the language 
+in which they are most comfortable conversing (77%), 21 percent said English was, and 1 
+percent reported an indigenous language11. Among workers born in Mexico or Central America, 
+nearly all reported that Spanish was their primary language (97%). Of the remainder, one percent 
+said that English was their primary language and two percent reported an indigenous language as 
+the one in which they are most comfortable conversing. 
+English Language Skills 
+Farmworkers were asked two questions about their English fluency, “How well do you speak 
+English?” and “How well do you read English?” In 2015-2016, 30 percent of workers responded 
+that they could not speak English “at all”, 32 percent said they could speak English “a little”, 9 
+percent said they could speak English “somewhat”, and 29 percent said they could speak English 
+“well”.
+  Regarding their ability to read English, 41 percent of workers reported they could not 
+read English “at all”, 24 percent said they could read English “a little”, 7 percent said they could 
+read English “somewhat”, and 28 percent said they could read English “well” (figure 3.1).12
+11 Indigenous languages reported by farmworkers interviewed in 2015-2016 include Acateco, Amuzgo, Chatino, 
+Chuj, Mam, Nahuatl, Popti, Purepecha/Tarasco, Tlapaneco, and Triqui.  
+12 Respondents’ self-reports of language proficiency could be higher or lower than their actual proficiency.  
+10
+
+Chapter 3: Language, Education, and English Skills 
+F
+igure 3.1: Farmworkers' Self-Reported English Speaking and Reading Ability, 2015-2016 
+F
+armworkers who reported having a primary language other than English were asked to indicate 
+how well they could speak and read in that language. Among workers whose primary language 
+was Spanish, nearly all reported they could speak Spanish “well” (98%). In describing their 
+Spanish reading ability, 81 percent responded with “well”, 10 percent replied with “somewhat”, 
+7 percent said “a little”, and 2 percent replied with “not at all.”13 (figure 3.2).  
+13 Estimate should be interpreted with caution because it has a RSE of 31 to 50 percent.  
+11
+
+Chapter 3: Language, Education, and English Skills 
+F
+igure 3.2: Among Farmworkers Whose Primary Language Is Spanish, Self-Reported 
+Spanish Speaking and Reading Ability, 2015-2016 
+a Estimate should be interpreted with caution because it has a RSE of 31 percent to 50 percent. 
+Educ
+ation 
+In 2015-2016, farmworkers’ average educational attainment was eighth grade.  Four percent of 
+workers reported that they had no formal schooling and 37 percent reported that they completed 
+the 6th grade or lower. Nineteen percent of workers said they completed grade 7, 8, or 9, and 30 
+percent said they completed grade 10, 11, or 12. Ten percent of farmworkers reported 
+completing some education beyond high school (figure 3.3).  
+12
+
+Chapter 3: Language, Education, and English Skills 
+F
+igure 3.3: Distribution of Highest Grade Completed by Farmworkers, 2015-2016 
+T
+he highest grade completed varied by place of birth. On average, the highest grade completed 
+by workers born in the United States was 12th and the highest grade completed by workers born 
+in Mexico or other countries was 7th.  Approximately 7 in 10 U.S.-born farmworkers completed 
+the 12th grade or higher (68%), as did 18 percent of Mexico-born workers and 21 percent of 
+workers born in other countries.  
+Adult Education 
+In 2015-2016, 35 percent of farmworkers reported having taken at least one adult education class 
+in the United States. The most common classes were English (12%), job training (14%), college 
+or university classes (7%), and high school equivalency (GED) classes (3%). Small shares of 
+workers (2%) reported taking other types of classes (figure 3.4).  
+13
+
+Chapter 3: Language, Education, and English Skills 
+F
+igure 3.4: Percent of Farmworkers Who Attended Adult Education Classes, 2015-2016 
+Type of Classa Percent of Farmworkers 
+Any adult education 35% 
+English/ESL 12% 
+Job training 14% 
+College/University 7% 
+GED, HS equivalency 3% 
+Citizenship 2% 
+Other 2% 
+a Farmworkers may have attended multiple types of classes. 
+Farmworkers with the most formal education were the most likely to attend U.S. adult education 
+classes. The rate of attendance among those who had completed the 12th grade was almost twice 
+as high as those who had not (53% and 27% respectively). Similarly, workers born in the United 
+States were more likely than those born abroad to report having attended some type of adult 
+education class (47% and 31% respectively), as were authorized workers when compared to 
+unauthorized workers (39% and 30% respectively). See figure 3.5. 
+Figure 3.5: Percent of Farmworkers Who Attended At Least One Adult Education Class in 
+the United States, 2015-2016 
+14
+
+Chapter 4: Housing Characteristics 
+CHAPTER 4: Housing Characteristics and Distance to Work 
+Summary of Findings: 
+• F
+ifteen percent of farmworkers lived in property owned or administered by their current 
+employer: 12 percent on the farm of the grower for whom they were working and 4 percent 
+off the farm. 
+• Fi
+fty-seven percent of workers lived in detached, single-family houses. 
+• On
+e-third of farmworkers lived in a dwelling defined as “crowded” (33%). 
+• S
+even in 10 workers lived fewer than 25 miles from their current farm job (70%) and 16 
+percent lived between 25 and 49 miles from work. Eleven percent of workers lived where 
+they worked. 
+• Fi
+fty-eight percent of workers drove a car to work, 15 percent rode with a “raitero”14, and 6 
+percent took a labor bus, truck, or van. 
+Location of Housing and Payment Arrangement 
+Farmworkers provided information about their housing situation (arrangement, location, type, 
+and occupancy) while working at their current farm job.  Fifteen percent of farmworkers lived in 
+employer-provided housing (i.e., property owned or administered by their current employer): 12 
+percent on the farm of the grower for whom they were working and 4 percent off the farm. The 
+remaining 84 percent of workers lived in property not owned or administered by their current 
+employer. 
+Employer-provided housing (either on or off the employer’s farm) was most common in the 
+Eastern migrant stream
+15, with 24 percent of farmworkers interviewed in 2015-2016 reporting 
+that they lived in employer-provided housing, compared to 15 percent of workers in the Midwest 
+migrant stream and 12 percent in the Western migrant stream (figure 4.1).  
+14 “Raitero”, derived from “ride”, is the Spanish word for a person who charges a fee for providing a ride to work.  
+15 Migrant streams are one way of showing usual patterns of migration and the linkages between downstream and 
+upstream states that many migrants travel in search of farm work. While these patterns are typical, some migrants 
+may cross streams in their search for work. A map of the NAWS migrant streams can be found in Appendix B.  
+15
+
+Chapter 4: Housing Characteristics 
+F
+igure 4.1: Percent of Farmworkers Who Lived in Employer-Provided Housing, 2015-2016  
+a A map of the NAWS migrant streams can be found in Appendix B. 
+In addition to information about the location of their housing, farmworkers provided information 
+about the payment arrangements they had for their housing. In 2015-2016, more than half of all 
+farmworkers reported that they lived in housing that they rented from someone other than their 
+employer (54%), 28 percent of workers said they lived in a home owned by themselves or a 
+family member, 1 percent said they paid rent for housing provided by the government, a charity, 
+or other organization, and sixteen percent of workers lived in employer-provided housing. 
+Among those living in employer-provided housing, 11 percent received it free of charge, 2 
+percent paid rent either directly or via payroll deduction, and 4 percent had other arrangements 
+with their employers. 
+Migrant workers were nearly 3 times more likely than settled workers to live in employer-
+provided housing that they received free of charge (22% and 8% respectively) and far less likely 
+than settled workers to live in a home that they or a family member owned (16% and 31% 
+respectively). See figure 4.2.  
+16
+
+Chapter 4: Housing Characteristics 
+F
+igure 4.2: Housing Arrangement, 2015-2016 
+F
+armworkers who reported that they paid for their housing were asked how much they paid at 
+their current residence, including for their family if their family lived with them. Nine percent 
+reported that they paid less than 200 dollars per month, approximately a third said they paid 200-
+399 dollars per month (32%), 24 percent paid 400-599 dollars per month, and 35 percent paid 
+600 dollars or more per month.  
+Type of Housing 
+In 2015-2016, more than half of farmworkers reported living in detached, single-family houses 
+(57%), 20 percent said they lived in a mobile home, and another 20 percent lived in an 
+apartment.  The remaining four percent lived in various other types of housing.16
+Mi
+grant workers were slightly less likely than settled workers to report living in detached, 
+single-family homes (54% and 57% respectively) or apartments (17% and 20% respectively), 
+and slightly more likely than settled workers to live in mobile homes (22% and 19% 
+respectively). Unauthorized workers were less likely than authorized workers to reside in single-
+family homes (47% and 66% respectively) and more likely to live in mobile homes (24% and 
+15% respectively) and apartments (25% and 15% respectively). See figure 4.3. 
+16 Other types of housing in which farmworkers reporting living included a duplex or  triplex, dormitory or barracks, 
+motel or hotel, or “other”. 
+17
+
+Chapter 4: Housing Characteristics 
+F
+igure 4.3: Type of Housing, 2015-2016 
+Type of Housing 
+All 
+Farmworkers Migrant Settled Authorized Unauthorized 
+Single family 
+home 
+57% 54% 57% 66% 47% 
+Mobile home 20% 22% 19% 15% 24% 
+Apartment 20% 17% 20% 15% 25% 
+Other 4% 7% 4% 4% 5% 
+Among immigrant farmworkers, the proportion living in single-family homes increased with the 
+number of years living in the United States. The majority of immigrant workers who had been in 
+the United States at least 20 years resided in single-family homes (57%), and about half of 
+immigrant workers living in the United States for fewer than 20 years lived in single family 
+homes (49% of those in the United States for fewer than 10 years and 50% of those in the United 
+States for 10-19 years). See figure 4.4.  
+Figure 4.4: Type of Housing by Length of Time in the United States, 2015-2016 
+Type of Housing 
+In United States  
+Less than 10 Years 
+In United States  
+10-19 Years 
+In United States 
+20 Years or More 
+Single family home 49% 50% 57% 
+Mobile home 21% 21% 24% 
+Apartment 26% 26% 16% 
+Other 4% 4% 4% 
+In 2015-2016, farmworkers reported an average of six rooms in the dwellings in which they 
+lived: an average of three bedrooms, one bathroom, one kitchen, and one “other” room. Nearly 
+all workers said there was at least one bathroom in their living unit (>99%) and at least one 
+kitchen (99%). 
+Household Crowding 
+The measure of crowding used for this report is based on the one-person-per-room definition of 
+the U.S. Census Bureau, Census of Housing
+17. Persons-per-room was calculated by summing the 
+number of rooms (excluding bathrooms, but including kitchens) that respondents said they had in 
+their current living quarters, then dividing the number of persons that respondents said slept in 
+those rooms by the total number of rooms.  Dwellings in which the number of persons per room 
+was greater than one were considered crowded.  
+In 2015-2016, 33 percent of farmworkers lived in crowded dwellings. Migrant workers lived in 
+crowded dwellings with greater frequency than settled workers (45% compared to 31%), and 
+unauthorized workers were nearly twice as likely as authorized workers to live in crowded 
+dwellings (44% and 23% respectively). 
+17 U.S. Census Bureau, Housing and Household Economic Statistics Division. (2011, October 31). Crowding
+(ht tp://www.census.gov/hhes/www/housing/census/historic/crowding.html ).
+18
+
+Chapter 4: Housing Characteristics 
+D
+istance to Work and Transportation 
+When asked how far their current farm job was from their current residence, 11 percent of 
+farmworkers in 2015-2016 reported that they lived where they worked, 31 percent said they lived 
+within 9 miles of their job location, 39 percent lived between 10 and 24 miles from work, 16 
+percent lived between 25 and 49 miles from work, and 3 percent
+18 lived 50 or more miles from 
+work. 
+Farmworkers used various modes of transportation to get to work.  In 2015-2016, 58 percent of 
+workers reported that they drove a car (63% of workers said they owned a car or truck, as 
+discussed in chapter 8) and 8 percent said they walked or took public transit. Thirty-three percent 
+of workers did not provide their own transportation but commuted via rides with others (13%), 
+rides with a “raitero”
+19 (15%), or rides on a labor bus, truck or van (6%20).   
+Among workers who did not provide their own transportation, seven percent reported that it was 
+mandatory or obligatory for them to use their current mode of transportation. Twenty-eight 
+percent of these workers reported having to pay a fee for these rides to work and 39 percent said 
+they paid, but only for gas. Thirty-two percent said they paid no fee for their rides with the 
+“raitero”, on the labor bus, or with others. 
+18 The estimate of 3 percent of farmworkers who reported living 50 or more miles from their current farm job should 
+be interpreted with caution because it has a RSE of 31 percent to 50 percent. 
+19 “Raitero”, derived from “ride”, is the Spanish word for a person who charges a fee for providing a ride to work.  
+20 The estimate of 6 percent of farmworkers who reported that their mode of transportation to work was a labor bus, 
+truck, or van should be interpreted with caution because it has a RSE of 31 percent to 50 percent.  
+19
+
+Chapter 5: Employment Patterns and Farm Job Characteristics 
+CHAPTER 5: Employment Patterns and Farm Job Characteristics 
+Summary of Findings:  
+• Eight in 10 farmworkers were employed directly by growers (80%); 20 percent were 
+employed by farm labor contractors. 
+• At the time of interview, 32 percent of farmworkers were working in fruit and nut crops, 37 
+percent in vegetable crops, and 19 percent in horticulture. Ten percent were working in field 
+crops and three percent were working in mixed crops.  
+• At the time of interview, 30 percent of farmworkers were performing pre-harvest tasks, 17 
+percent were harvesting crops, 25 percent were performing post-harvest activities, and 29 
+percent were performing technical production tasks.  
+• The majority of farmworkers reported that their basis for pay was an hourly wage (88%). 
+Workers reported earning an average of $10.60 per hour at their current farm job. 
+• Forty-three percent of farmworkers reported that they were covered by Unemployment 
+Insurance (UI) if they were to lose their current job, 62 percent said they would receive 
+workers’ compensation if they were injured at work or became ill as a result of their work, 
+and 18 percent reported that their employer offered health insurance for injury or illness 
+suffered while not on the job. 
+Type of Employer and Job Recruitment 
+Most farmworkers in 2015-2016 were employed directly by growers
+21 (80%); farm labor 
+contractors employed the remaining 20 percent. Nearly 7 in 10 workers reported that they found 
+their current job via references from friends or relatives (69%) and approximately one-quarter 
+got their job after applying for it on their own (24%). Five percent of workers were recruited by a 
+grower, foreman, or labor contractor, and the remaining two percent were referred to their job by 
+an employment service, or welfare office, were hired under union-employer agreements, or 
+found their job via some “other” means.  
+Primary Crops and Farm Job Tasks 
+At the time they were interviewed in 2015-2016, 88 percent of farmworkers reported working in 
+fruits, nuts, vegetables, and horticultural crops (32% in fruits and nuts, 37% in vegetables, and 
+19% in horticulture). Ten percent held jobs in field crops and three percent worked in mixed 
+crops or other crops.  Workers employed by farm labor contractors were nearly twice as likely as 
+those employed directly by growers to work in vegetable crops (61% compared to 31%), and 
+about equally as likely as directly-hired workers to work in fruit and nut crops (35% compared to 
+31%). Migrant farmworkers worked in vegetable crops with greater frequency than did settled 
+workers (45% and 34% respectively), but were less likely than settled workers to have jobs in 
+horticultural crops (14% and 20% respectively). See figure 5.1.  
+Figure 5.1: Primary Crop at Time of Interview, 2015-2016 
+21 Growers include owners of establishments (i.e., farms, orchards, greenhouses, and nurseries) that engage 
+primarily in growing crops, plants, or trees, but can also include other types of crop producers, such as packers, 
+shippers, or distributors. 
+20
+
+Chapter 5: Employment Patterns and Farm Job Characteristics 
+Crop at Time  
+of Interview 
+All 
+Farmworkers 
+Employed 
+by Grower 
+Employed 
+by Farm 
+Labor 
+Contractor 
+Migrant 
+Farmworkers 
+Settled 
+Farmworkers 
+Fruits and Nuts 32% 31% 35% 33% 32% 
+Horticulture 19% 23% a 14% 20% 
+Vegetables 37% 31% 61% 45% 34% 
+Field Crops 10% 12% 1%b 7% 10% 
+Miscellaneous 3% 3% 1%b 1%b 3% 
+a Estimate is suppressed because it has a RSE greater than 50 percent. 
+b Estimate should be interpreted with caution because it has a RSE of 31 percent to 50 percent. 
+Crop work encompasses a wide variety of tasks. Thirty percent of the farmworkers interviewed 
+in 2015-2016 performed pre-harvest tasks such as hoeing, thinning, and transplanting, 17 percent 
+harvested crops and 25 percent performed post-harvest activities such as field packing, sorting, 
+and grading.  Another 29 percent of workers performed technical production tasks such as 
+pruning, irrigating, and operating machinery. Workers employed by farm labor contractors were 
+slightly more likely than directly-hired workers to perform pre-harvest tasks (32% compared to 
+29%), and migrant workers were more likely than settled workers to perform harvest tasks (22% 
+compared to 15%) or post-harvest tasks (29% compared to 24%). Directly-hired workers were 
+more likely than contracted workers (30% and 23% respectively), and settled workers were more 
+likely than migrant workers (31% and 28% respectively), to perform technical production tasks.  
+See figure 5.2.  
+Figure 5.2: Primary Task at Time of Interview, 2015-2016 
+Primary Task at  
+Time of Interview 
+All 
+Farmworkers 
+Employed 
+by Grower 
+Employed 
+by Farm 
+Labor 
+Contractor 
+Migrant 
+Farmworkers 
+Settled 
+Farmworkers 
+Pre-harvest 30% 29% 32% 30% 30% 
+Harvest 17% 17% 17% 22% 15% 
+Post-harvest 25% 24% 28%a 29% 24% 
+Technical Production 29% 30% 23% 18% 31% 
+a Estimate should be interpreted with caution because it has a RSE of 31 percent to 50 percent. 
+Basis for Pay and Hours Worked 
+The vast majority of farmworkers in 2015-2016 reported that their basis for pay was an hourly 
+wage (88%). Four percent of workers were paid a salary, seven percent were paid exclusively by 
+the piece, and one percent were paid a combination of hourly wage and piece rate. 
+Respondents worked an average of 45 hours in the previous week at their current farm job. 
+Agricultural employers’ labor needs vary by season, crop, and task, and workers are sometimes 
+needed for longer than normal hours over short periods of time. The data reflect the fluctuating 
+nature of labor use.  For example, workers who were harvesting field crops at the time they were 
+21
+
+Chapter 5: Employment Patterns and Farm Job Characteristics 
+i
+nterviewed in 2015-2016 reported working an average of 54 hours in the previous week. 
+Workers who performed pre-harvest tasks (such as thinning and transplanting) in horticulture, on 
+the other hand, reported an average of 38 hours of work the previous week (figure 5.3).  
+Figure 5.3: Average Number of Hours Worked in Week Prior to Interview by Crop and 
+Task at Time of Interview, 2015-2016 
+Crop 
+Pre-Harvest 
+Tasks 
+Harvest 
+Tasks 
+Post-Harvest 
+Tasks 
+Technical 
+Production Tasks 
+Field Crops 52 54 48 53 
+Fruit and Nut Crops 43 42 39 44 
+Horticulture 38 44 40 41 
+Vegetable Crops 44 50 44 53 
+Miscellaneous Crops 43 46 35 48 
+The average number of hours worked in the previous week also varied by workers’ age, gender, 
+U.S. farm work experience, and whether they were paid hourly or by the piece.  Respondents 
+ages 14 to 17 reported the fewest, at an average of 35 hours, and workers ages 18 to 34 reported 
+the most, at an average of 46 hours.  Males reported working an average of 46 hours in the 
+previous week and females reported an average of 40 hours. In terms of number of years of U.S. 
+farm work experience, workers with fewer than 2 years of experience reported the fewest hours 
+of work the previous week, at an average of 41 hours, and those with at least 5 years of 
+experience reported the most, at an average of 45 hours. Farmworkers paid a salary reported the 
+greatest number of hours the previous week, at an average of 47. Workers paid by the piece 
+averaged 40 hours, those paid by the hour averaged 45 hours, and those paid a combination of 
+hourly wage and piece rate averaged 39 hours of work the previous week (figure 5.4).  
+Figure 5.4: Average Number of Hours Worked in Week Prior to Interview by Farmworker 
+Characteristic, 2015-2016 
+Farmworker 
+Characteristic 
+Average Number of 
+Hours Worked in Week 
+Prior to Interview 
+14-17 years old 35 
+18-21 years old 46 
+22-24 years old 46 
+25-34 years old 46 
+35-44 years old 45 
+45-50 years old 45 
+51-54 years old 42 
+55-64 years old 43 
+65 or more years old 41 
+Male 46 
+Female 40 
+Less than 2 years of farm work experience 41 
+22
+
+Chapter 5: Employment Patterns and Farm Job Characteristics 
+Farmworker 
+Characteristic 
+Average Number of 
+Hours Worked in Week 
+Prior to Interview 
+2-4 years farm work experience 44 
+5-10 years farm work experience 45 
+11-20 years farm work experience 45 
+21-30 years farm work experience 45 
+31 or more years farm work experience 45 
+Paid by the hour 45 
+Paid by the piece 40 
+Paid combination hourly wage and piece rate 39 
+Paid salary or other 47 
+Wages 
+When asked how much they were earning per hour at their current farm job, farmworkers in 
+2015-2016 reported an average of $10.60.22 Workers who were being paid by the hour earned an 
+average hourly wage of $10.35 and those being paid by the piece earned an average of $10.58 
+per hour. 
+Hourly wages increased with respondents’ number of years working for their current employer. 
+Workers who had been with their current employer 1 to 2 years earned an average of $9.89 per 
+hour, those working for their current employer 3 to 5 years earned an average of $10.64 per hour, 
+and those working for their current employer 6 to 10 years earned an average of $10.76 per hour. 
+Workers who had worked for their current employer 11 years or more earned the highest hourly 
+wage, averaging $11.92 per hour.  
+Among the tasks respondents reported performing at the time they were interviewed, those who 
+worked in harvest tasks earned the highest average hourly wage, at $11.42. Pre-harvest workers 
+earned an average of $10.47 per hour, post-harvest workers earned an average of $10.33 per 
+hour, and those who worked in technical production tasks earned an average of $10.51 per hour 
+(figure 5.5).  
+Figure 5.5: Average Hourly Wage by Farmworker Characteristic, 2015-2016 
+Farmworker 
+Characteristic 
+Average  
+Hourly Wage 
+All farmworkers $10.60 
+Paid by the hour $10.35 
+Paid by the piece $10.58 
+Paid combination hourly wage and piece rate $16.93a 
+With current employer 1 to 2 years $9.89 
+With current employer 3 to 5 years $10.64 
+                                                 
+22 Piece rate and combination wages were converted to an hourly wage, then averaged with the wages of workers 
+who were paid by the hour. 
+23
+
+Chapter 5: Employment Patterns and Farm Job Characteristics 
+Farmworker 
+Characteristic 
+Average  
+Hourly Wage 
+With current employer 6 to 10 years $10.76 
+With current employer 11 or more years $11.92 
+Performed pre-harvest tasks at time of interview $10.47 
+Performed harvest tasks at time of interview $11.42 
+Performed post-harvest tasks at time of interview $10.33 
+Performed technical production tasks at time of interview $10.51 
+a One percent of farmworkers reported being paid a combination hourly wage and piece rate at their 
+current farm job. 
+Monetary Bonuses 
+In 2015-2016, 27 percent of farmworkers reported receiving a cash bonus from their current farm 
+employer as part of their compensation package, 63 percent said they received no cash bonus, 
+and 10 percent did not know. Workers who reported being paid a bonus were asked to identify 
+all the types of bonuses they received. Fifty-four percent said they received a holiday bonus, 30 
+percent received an end-of-season bonus, 12 percent received an incentive award, and 4 percent 
+received a bonus contingent upon grower profits (figure 5.6). Workers employed directly by 
+growers reported that they were paid a bonus nearly 5 times more frequently than those 
+employed by farm labor contractors (32% and 7% respectively).  
+Figure 5.6: Types of Cash Bonuses Farmworkers Received, 2015-2016 
+Type of Bonus Receiveda 
+Percent of 
+Farmworkers 
+Holiday bonus 54% 
+End-of-season bonus 30% 
+Incentive bonus 12% 
+Bonus dependent on grower profit 4% 
+Other type of bonus 1% 
+ a Among workers who reported being paid a bonus. Multiple responses were allowed. 
+Worksite Availability of Water and Toilets 
+NAWS respondents were asked if their current farm employer provided the following items at 
+the worksite every day: 1) drinking water and cups, 2) a toilet, and 3) water for washing hands. 
+Eighty-nine percent of farmworkers in 2015-2016 reported that they were provided with drinking 
+water and disposable cups every day, and five percent said they were provided water only. A 
+notable share of workers said that their employer provided no water and no cups (6%). Nearly all 
+workers affirmed that they were provided a toilet every day (97%) and with water for washing 
+their hands (97%).  
+24
+
+Chapter 5: Employment Patterns and Farm Job Characteristics 
+P
+esticide Training 
+The NAWS asks all respondents whether, at any time in the last 12 months, their current 
+employer provided them with training or instruction in the safe use of pesticides. In 2015-2016, 
+57 percent of farmworkers reported that they did receive this type of training. 
+Insurance Benefits  
+NAWS respondents were asked whether they were covered by UI if they were to lose their 
+current job. Forty-three percent of farmworkers interviewed in 2015-2016 said “yes”, 52 percent 
+said “no”, and 5 percent did not know.23 Workers with authorization to work in the United States 
+were far more likely than unauthorized workers to report that they would be covered by UI (80% 
+and 5% respectively). Of the 43 percent of respondents who reported that they would not be 
+covered by UI, 88 percent were unauthorized and would not qualify for the benefit.  
+When asked if they would receive workers’ compensation if they were injured at work or got 
+sick as a result of their work, approximately 6 in 10 farmworkers said “yes” (62%), 16 percent 
+said “no”, and 22 percent did not know.
+24 Furthermore, when asked whether their employer 
+provided health insurance or paid for medical treatment for injury or illness suffered while off 
+the job (regardless of whether or not the worker accepted or used the insurance), 18 percent 
+confirmed that their employer offered such a benefit, 71 percent said their employer did not, and 
+11 percent were unsure. Authorized workers were more likely than unauthorized workers to 
+report that they were covered by workers’ compensation insurance (68% and 56% respectively) 
+and to say that their employer offered health insurance for non-work-related injury or illness 
+(23% and 13% respectively). See figure 5.7. A discussion of farmworkers’ possession of health 
+insurance coverage for themselves and their family members can be found in chapter 9. 
+23 UI coverage varies by state.  For agricultural labor in the majority of states, employers are required to pay UI 
+taxes if they paid wages in cash of $20,000 or more for agricultural labor in any calendar quarter in the current or 
+preceding calendar year, or who employed 10 or more workers on at least 1 day in each of 20 different weeks in the 
+current or immediately preceding calendar year. U.S. Department of Labor, Employment and Training 
+Administration. (2017). Comparison of State Unemployment Insurance Laws 
+(https://workforcesecurity.doleta.gov/unemploy/pdf/uilawcompar/2017/complete.pdf , p. 1-2). 
+24The rules for workers’ compensation coverage for agricultural workers vary among states. In 14 states , Puerto 
+Rico and the Virgin Islands, rules require employers to cover seasonal agricultural workers to the same extent as all 
+other workers. In an additional 21 states, employers provide workers’ compensation but coverage is limited to 
+certain classifications of agricultural employers or workers such as the number of full-time workers employed. 
+Fifteen states have optional coverage, allowing employers to elect to provide workers’ compensation coverage to 
+their employees, though the coverage is not required by law. In many of these states, workers’ compensation is 
+required for employers in other industries but optional for agriculture. A Guide to Workers' Compensation for 
+Clinicians Serving Agricultural Workers 
+(http://www.farmworkerjustice.org/sites/default/files/Workers%20Comp%20Guide%20FINAL%20%281%29.pdf
+). 
+Farmworker Justice and Migrant Clinicians Network (2015).  
+25
+
+Chapter 5: Employment Patterns and Farm Job Characteristics 
+F
+igure 5.7: Percent of Farmworkers Whose Employer Offers Health Insurance, 2015-2016 
+26
+
+Chapter 6: Employment Experience 
+CHAPTER 6: Employment Experience 
+Summary of Findings: 
+• Eighty percent of farmworkers worked for 1 farm employer in the previous 12 months, and 
+workers had been employed with their current farm employer for an average of 7 years.
+• Farmworkers worked an average of five days per week for their current employer and an 
+average of 196 days in farm work in the previous 12 months. 
+• Farmworkers with a full year or more of farm work experience had an average of 16 years of 
+U.S. farm work experience. Workers with more years of experience worked more days in the 
+previous 12 months.  
+• Three-fourths of workers interviewed (76%) expected to continue doing farm work for at 
+least 5 years. 
+Number of U.S. Farm Employers in Previous 12 Months 
+Farmworkers in 2015-2016 worked for an average of 1 U.S. farm employer25 in the 12 months 
+prior to being interviewed. Eighty percent of workers reported having worked for only 1 farm 
+employer, 13 percent worked for 2 employers, and 7 percent worked for 3 or more farm 
+employers in the previous 12 months.  
+Unauthorized workers were more likely than authorized workers to have worked for more than 1 
+farm employer in the previous 12 months (27% compared to 14%), and migrant workers were 
+more than twice as likely as settled workers to have had more than 1 farm employer in the 
+previous 12 months (36% compared to 17%). See figure 6.1. 
+Figure 6.1: Percentage Distribution of Number of Farm Work Employers in Previous 12 
+Months by Farmworker Characteristic, 2015-2016 
+Number of  
+Farm Employers 
+All 
+Farmworkers Migrant Settled Authorized Unauthorized 
+One 80% 64% 83% 73% 86% 
+Two 13% 21% 11% 17% 10% 
+Three or more 7% 15% 5% 10% 4% 
+Number of Years with Current Farm Employer 
+In 2015-2016, farmworkers reported working for their current farm employer for an average of 7 
+years.26 Nearly 6 in 10 stated that they had been with their current employer for fewer than 5 
+years (58%) and 2 in 10 said that they had been with their current farm employer for 11 years or 
+more (20%). See figure 6.2.  
+25 An employer can be either a farm owner or a farm labor contractor.  While a worker employed by a farm labor 
+contractor may work on more than one farm in a year, a single labor contractor is counted as one employer. 
+26 Any employment for at least one day in the year qualifies as one year. 
+27
+
+Chapter 6: Employment Experience 
+F
+igure 6.2: Percentage Distribution of Number of Years with Current Farm Employer, 
+2015-2016  
+W
+eeks and Days of Farm Work in Previous 12 Months 
+During the previous year, farmworkers spent an average of 33 weeks (63% of the year) 
+employed in U.S. farm work, with farm work participation varying depending on workers’ legal 
+status, migrant status, and place of birth. Authorized workers, migrant workers, and U.S.-born 
+workers worked fewer weeks in farm work (averages of 30, 24, and 28 weeks respectively) than 
+unauthorized workers, settled workers, and foreign-born workers (averages of 36, 36, and 35 
+weeks respectively). Youth farmworkers, between the age of 14 and 17, were employed the 
+fewest weeks in farm jobs, averaging 13 weeks of farm work in the previous 12 months, and 
+workers aged 25 to 50 worked the most, averaging 36 weeks in the previous 12 months (figure 
+6.3).  
+Figure 6.3: Average Number of Weeks of Farm Work in Previous 12 Months, by 
+Farmworker Characteristic, 2015-2016 
+Farmworker Characteristic 
+Average Weeks of Farm  
+Work in Previous 12 Months 
+All farmworkers 33 
+Migrant 24 
+Settled 36 
+Authorized 30 
+Unauthorized 36 
+U.S.-born 28 
+28
+
+Chapter 6: Employment Experience 
+Farmworker Characteristic 
+Average Weeks of Farm  
+Work in Previous 12 Months 
+Foreign-born 35 
+14-17 years old 13 
+18-24 years old 23 
+25-50 years old 36 
+Over 50 years old 35 
+Farmworkers’ approximate number of work days was calculated using employment dates and 
+average weeks per employer as recorded in the 12-month retrospective work history.  For their 
+employer at the time of interview, farmworkers reported working an average of five days per 
+week. Over the previous 12 months, they worked an average of 196 days in farm work, with 
+averages varying depending upon workers’ legal status, migrant status, and place of birth. 
+Unauthorized workers, settled workers, and foreign-born workers averaged a greater number of 
+days than did their counterparts: Unauthorized workers worked an average of 215 days and 
+authorized workers an average of 178 days; settled workers averaged 210 days while migrant 
+workers averaged of 144 days; foreign-born workers worked an average of 209 days and U.S.-
+born workers and average of 158 days (figure 6.4).  
+Figure 6.4: Average Number of Days Worked Per Week and Average Number of Days of 
+Farm Work in Previous 12 Months by Farmworker Characteristic, 2015-2016 
+Farmworker Characteristic 
+Average Days  
+Worked Per Week 
+Average Days of Farm  
+Work in Previous 12 Months 
+All farmworkers 5  196 
+Migrant 5  144 
+Settled 5  210 
+Authorized 5  178 
+Unauthorized 5  215 
+U.S.-born 5  158 
+Foreign-born 5  209 
+Years of U.S. Farm Work Experience  
+Farmworkers with at full year or more of farm work experience had an average of 16 years of 
+U.S. farm work experience.  Forty-two percent of farmworkers with a full year or more of farm 
+work experience had worked 1 to 10 years in farm jobs, another 42 percent had worked 11 to 30 
+years in farm jobs, and 16 percent had worked more than 30 years in farm jobs (figure 6.5).  
+29
+
+Chapter 6: Employment Experience 
+F
+igure 6.5: Years U.S. Farm Work Experience, 2015-2016 
+a Among workers with at least one year of U.S. farm work experience. 
+F
+armworkers with more years of experience were more likely to have authorization to work in 
+the United States; 52 percent of workers with 10 years or more of farm work experience were 
+work-authorized, while 46 percent of those with one to nine years of experience had work 
+authorization. Additionally, farmworkers with more years of experience performed more days of 
+farm work during the previous year. Respondents who had between 1 and 5 years of farm work 
+experience worked an average of 166 days in farm work in the previous 12 months, while those 
+with 11 years or more of experience averaged 232 days of farm work.   
+Other Work History 
+Farmworkers were asked to report the approximate number of years they had done non-crop 
+work in the United States. Forty-five percent of farmworkers in 2015-2016 reported at least 1 
+year of non-crop work27 (figure 6.6), and they had an average of 8 years of non-crop work 
+experience.  
+27 Any year in which 15 days of non-crop work were performed counts as one year of non-crop work. 
+30
+
+Chapter 6: Employment Experience 
+F
+igure 6.6: U.S. Non-Crop Work Experience, 2015-2016 
+F
+armworkers were also asked to indicate the last time their parents did hired farm work in the 
+United States. Fifty-four percent of workers said “never”, 15 percent reported that their parents 
+were doing U.S. farm work “now” or within the last year, 3 percent said their parents last did 
+U.S. farm work 1 to 5 years ago, 4 percent said their parents last did U.S. farm work 6 to 10 
+years ago, and 23 percent reported that their parents last did U.S. farm work 11 or more years 
+ago.  U.S.-born farmworkers reported with much greater frequency than foreign-born 
+farmworkers that their parents did hired farm work in the United States at some time (61% and 
+40% respectively). See figure 6.7. 
+Figure 6.7: Last Time Parents Did Hired Farm Work in United States, 2015-2016 
+Last Time Parents Did U.S. Farm Work 
+All  
+Farmworkers U.S.-Born Foreign-Born 
+Never 54% 37% 59% 
+Now/within last year 15% 24% 12% 
+1 to 5 years ago 3% 3% 3% 
+6 to 10 years ago 4% 2% 4% 
+More than 10 years ago 23% 32% 21% 
+Don’t know 1%a 2%a <1% 
+31
+
+Chapter 6: Employment Experience 
+a Estimates should be interpreted with caution because they have RSEs of 31 percent to 50 percent. 
+Plans to Remain in Farm Work 
+When asked how long they expected to continue to do farm work, 76 percent of workers 
+interviewed in 2015-2016 believed they would continue for more than 5 years, most of whom 
+indicated further that they would continue as long as they are able to do the work (74%). Four 
+percent of respondents stated that they would continue working in agriculture for less than one 
+year, 12 percent planned to remain in farm work for 1 to 3 years, 4 percent stated that they would 
+continue in farm work for 4 to 5 years, and 3 percent were unsure.
+32
+
+Chapter 7: Non-Crop Work Activities During the Year 
+CHAPTER 7: Non-Crop Work Activities During the Y ear 
+Summary of Findings:  
+• D
+uring the previous year, farmworkers spent an average of 11 weeks living in the United 
+States but not working and 3 weeks abroad. 
+• T
+wenty-four percent of farmworkers said they held at least one U.S. non-crop job during the 
+previous year. The most common types of non-crop jobs held were mechanic, repair, or 
+maintenance jobs (36%) and non-crop agriculture jobs (24%). 
+• N
+early 7 in 10 farmworker respondents reported at least 1 period in the 12 months prior to 
+their interview during which they did not work (69%), and these workers averaged 20 weeks 
+without employment. Fifteen percent of these respondents said they received UI during at 
+least one of their periods of unemployment.  
+T
+ime Spent Not Employed or Abroad in Previous 12 Months 
+During the previous year, farmworkers lived in the United States but did not work for 
+approximately 11 weeks (21% of the year) and were abroad for an average of 3 weeks (6% of the 
+year). Number of weeks of not working and time spent abroad varied depending on workers’ 
+legal status, migrant status, and place of birth. Unauthorized, migrant, and foreign-born 
+farmworkers spent, on average, fewer weeks in the United States not working (9, 10, and 10 
+weeks respectively) than authorized, settled, and U.S.-born farmworkers (13, 11, and 14 weeks 
+respectively).  Migrant workers spent more than four times as much time abroad during the 
+previous year (14 weeks) than farmworkers as a whole (3 weeks).  
+Youth farmworkers between the ages of 14 and 17 had the greatest number of weeks not working 
+while in the United States: 36, or more than two-thirds of the year. Respondents ages 18 to 24 
+spent an average of 14 weeks not working and 6 weeks abroad, and respondents aged 25 years 
+and older averaged 9 to 10 weeks in the United States but not working and 2 to 3 weeks abroad 
+(figure 7.1).  
+Figure 7.1: Average Number of Weeks Not Employed and Abroad in Previous 12 Months, 
+2015-2016 
+Farmworker Characteristic Weeks in United States 
+but Not Working Weeks Abroad 
+All farmworkers 11 3 
+Migrant 10 14 
+Settled 11 <1a 
+Authorized 13 3 
+Unauthorized 9 3 
+U.S.-born 14 1a 
+Foreign-born 10 3 
+14-17 years old 36 b 
+18-24 years old 14 6 
+25-50 years old 9 2 
+Over 50 years old 10 3 
+33
+
+Chapter 7: Non-Crop Work Activities During the Year 
+a Estimates should be interpreted with caution because they have RSEs of 31 percent to 50 percent. 
+b Estimate is suppressed because it has a RSE greater than 50 percent. 
+Non-Crop Work in Previous 12 Months 
+Twenty-four percent of farmworkers reported at least one non-crop job in the United States 
+during the previous year. U.S.-born workers were nearly 3 times more likely than foreign-born 
+workers to have had a non-crop job in the previous 12 months (45% compared to 17%) and 
+authorized workers were twice as likely as unauthorized workers to have had a non-crop job 
+(31% compared to 16%). See figure 7.2. 
+Figure 7.2: Percent of Farmworkers Who Held a Non-Crop Job the Previous Year, 2015-
+2016 
+T
+he 24 percent of farmworkers who reported doing non-crop work during the previous year 
+spent an average of 25 weeks in non-crop employment and they held an average of 2 non-crop 
+jobs. The most common types of jobs they held were mechanic, repair, or maintenance jobs 
+(36% of workers) and other types of non-crop agricultural jobs28 such as livestock, forestry and 
+fisheries (24%). Sixteen percent did structural or extractive work29, 14 percent held a sales, 
+service, or production job in the food industry, 13 percent held a job sales, service, or 
+manufacturing job in a non-food industry, 4 percent had a professional, technical, or managerial 
+28 Since the survey’s inception, crop workers have been asked about jobs they’ve had outside of crop agriculture.  
+Some non-crop jobs are farm jobs in other types of agriculture. 
+29 Structural jobs, as coded in the NAWS, include working in construction.  Extractive jobs involve the removal of 
+raw materials from the earth.  Examples of extractive processes include oil and gas extraction, mining, dredging and 
+quarrying.  http://www.businessdictionary.com/definition/extractive-industry.html 
+34
+
+Chapter 7: Non-Crop Work Activities During the Year 
+j
+ob, and 9 percent held other types of jobs, including clerical, government service, health, arts 
+and entertainment, and transportation (figure 7.3).  
+Figure 7.3: Types of Non-Crop Jobs Held in Previous 12 Months, 2015-2016 
+Type of Non-Crop Joba 
+Percent of Workers Who 
+Held At Least One Non-
+Crop Job 
+Mechanic/Repair/Maintenance 36% 
+Non-Crop Agriculture 24% 
+Structural/Extractive Work 16% 
+Food Industry --
+Sales/Service/Production  
+14% 
+Non-food Industry--
+Sales/Service/Manufacturing 
+13% 
+Professional/Technical/Manager 4% 
+Other 9% 
+a Respondents may have reported multiple types of jobs. 
+Reasons for Leaving Non-Crop Work in Previous Year 
+Fifty-six percent of workers who had non-crop employment during the previous year left at least 
+one of their non-crop jobs. The NAWS sample includes only farmworkers actively employed in 
+crop agriculture at the time of interview.  However, some workers hold non-crop jobs and farm 
+jobs simultaneously, and some perform non-crop work for their agricultural employers, thus 
+changing jobs but not separating from the employer. 
+Whenever respondents reported separating from an employer, they were asked the reason why. 
+Approximately six in ten workers (58%) who left a non-crop employer during the previous year 
+reported leaving for voluntary reasons (“family responsibilities”, “school”, “moved”, “health 
+reason”, “vacation”, “retired”, “quit”, or “changed jobs”). Another third of workers (33%) said 
+that their leaves from non-crop work were involuntary in nature (“lay off/end of season” or 
+“fired”).
+30 
+Periods of Unemployment During the Year 
+Nearly 7 in 10 farmworker respondents in 2015-2016 reported at least 1 period in the 12 months 
+prior to their interview during which they did not work (69%), and these respondents averaged 
+20 weeks without employment. Each time a respondent reported a period of not working during 
+the 12-month retrospective work history, the respondent was asked about receiving UI benefits 
+during that time. Fifteen percent of these respondents said “yes”, that they received UI benefits 
+during at least one of their periods of unemployment. 
+                                                 
+30 The remaining workers reported both voluntary and involuntary leaves from non -crop work, but this estimate is 
+suppressed because it has a RSE greater than 50 percent. 
+35
+
+Chapter 8: Income, Assets, and Use of Assistance Programs 
+CHAPTER 8: Income, Assets, and Use of Assistance Programs 
+Summary of Findings: 
+• F
+armworkers’ mean and median personal incomes the previous year were in the range of 
+$17,500 to $19,999. Fourteen percent of workers earned less than $10,000; 14 percent earned 
+$30,000 or more.  
+• W
+orkers’ mean and median total family incomes the previous year were in the range of 
+$20,000 to $24,999. Twenty-seven percent of farmworkers reported total family income of 
+less than $20,000, another 27 percent said their family income was $20,000 to $29,999, and 
+32 percent had a family income of $30,000 or more. 
+• On
+e-third of farmworkers had family incomes below poverty (33%). 
+• S
+ixty-eight percent of farmworkers stated that they owned or were buying at least one asset 
+in the United States. The most common assets were a vehicle (reported by 63% of workers) 
+or a house (18% of workers). 
+• F
+ourteen percent of farmworkers reported that they or someone in their household received 
+some form of benefit from a contribution-based program in the previous two years; 54 
+percent said someone in their household received some form of benefit from a needs-based 
+program in the previous two years. 
+I
+ncome
+Farmworkers were asked to report their total personal income in the calendar year prior to the 
+year in which they were interviewed. Rather than providing a specific sum, respondents 
+answered the question by indicating a range in which their income fell. Farmworkers’ mean and 
+median personal incomes the previous year were in the range of $17,500 to $19,999. Nine 
+percent of farmworkers interviewed in 2015-2016 reported that they did not work at all during 
+the prior calendar year, 14 percent said their total personal income was less than $10,000, 29 
+percent said they had personal incomes of $10,000 to $19,999, another 29 percent had personal 
+incomes of $20,000 to $29,999, and 14 percent reported that their total personal income was 
+$30,000 or more. Five percent of farmworkers said they were unsure of what their personal 
+income was the previous year. 
+In addition to the question about personal income, workers were asked to report their total family 
+income in the previous calendar year. For this question as well, respondents answered by 
+indicating a range in which their income fell. Workers’ mean and median total family incomes 
+the previous year were in the range of $20,000 to $24,999. Six percent of farmworkers reported 
+that they/their family had no earned income during the previous calendar year. Eight percent of 
+workers said that their total family income the prior year was less than $10,000, 19 percent said 
+their family income was $10,000 to $19,999, 27 percent had a family income of $20,000 to 
+$29,999, and 32 percent had a family income of $30,000 or more. Eight percent of farmworkers 
+reported that they did not know their family’s total income the previous year. 
+36
+
+Chapter 8: Income, Assets, and Use of Assistance Programs 
+T
+o determine farmworkers’ poverty status, a poverty threshold was calculated for each worker 
+based on the worker’s family size31 and the U.S. Department of Health and Human Services’ 
+poverty guidelines32 for the calendar year preceding the interview. The worker’s family income 
+was then compared to this poverty threshold33. Using this method, 33 percent of farmworkers in 
+2015-2016 were found to have family incomes below the poverty threshold. 
+Below-poverty income was more common among farmworkers with larger families (see figure 
+8.1). Almost two-thirds of farmworkers with a family size of 6 or more had incomes below the 
+poverty level (65%), compared to approximately one-third of farmworkers with a family size of 
+3 (36%) or 4 (34%). Likewise, migrant workers’ family incomes fell below poverty at a much 
+greater rate than settled workers’ family incomes (52% compared to 28%), and unauthorized 
+workers were more likely than authorized workers to have below-poverty household incomes 
+(38% and 28% respectively). See figure 8.2.  
+Figure 8.1: Percent of Farmworkers with Total Family Income Below Poverty Level by 
+Family Size, 2015-2016 
+31 Family size is defined as the number of family members who are living in the United States and who depend on 
+the farmworker’s income. 
+32 U.S. Department of Health and Human Services poverty guidelines (https://aspe.hhs.gov/prior-hhs-poverty-
+guidelines-and-federal-register-references).  
+33 Workers’ family income and poverty levels were based on their income in the United States, but were not adjusted 
+for time in the United States. For additional information on the limitations of using traditional poverty statistics with 
+migrant populations please see Pena’s (2013) article on “Poverty Measurement for a Binational  Population.” 
+37
+
+Chapter 8: Income, Assets, and Use of Assistance Programs 
+F
+igure 8.2: Percent of Farmworkers with Total Family Income Below Poverty Level by 
+Farmworker Characteristic, 2015-2016 
+A
+ssets in the United States and Abroad 
+Respondents were asked about assets they own or are buying in the United States and, if foreign-
+born, in their home country.  In 2015-2016, approximately two-thirds of all farmworkers stated 
+that they owned or were buying at least one asset in the United States (68%). U.S.-born workers 
+reported with greater frequency that they owned or were buying an asset in the United States 
+(75%) than did foreign-born workers (66%). Among all workers, the most commonly held asset 
+in the United States was a car or truck (63%), followed by a house (18%), and a mobile home 
+(6%). See figure 8.3. U.S.-born workers were more likely to own or be buying a house in the 
+United States (27%) than were foreign-born workers (15%).  
+Figure 8.3: Assets in the United States, 2015-2016 
+Type of Asset in the United States Percent of Farmworkers 
+Any asset 68% 
+A car or truck 63% 
+A house 18% 
+A mobile home 6% 
+A plot of land 2% 
+Thirty percent of foreign-born workers reported that they owned or were buying at least one 
+asset abroad. The most frequently reported was a house (26%), followed by land (11%), and a 
+car or truck (3%).  
+38
+
+Chapter 8: Income, Assets, and Use of Assistance Programs 
+Us
+e of Contribution- and Need-Based Programs 
+In 2015-2016, farmworkers were asked whether they or anyone in their household received 
+assistance from either contribution- or need-based programs in the two-year period preceding the 
+interview.  Fourteen percent of the farmworkers reported that someone in their household 
+received a benefit from at least one contribution-based program, including disability insurance, 
+UI, or Social Security.  Ten percent of farmworkers reported that they or a family member 
+received payments from UI, three percent said that someone in their household received Social 
+Security payments, and one percent reported that they or a family member received payments 
+from disability insurance.  
+Need-based benefits include financial assistance through programs such as Temporary 
+Assistance for Needy Families (TANF), general assistance or welfare, and publicly provided 
+housing or medical and nutritional assistance such as Medicaid, Special Supplemental Nutrition 
+Program for Women, Infants and Children (WIC), and Supplemental Nutrition Assistance 
+Program (SNAP)
+34.  In 2015-2016, 54 percent of the farmworkers reported that they or someone 
+in their household used at least one type of public assistance program in the previous two years.  
+The programs most commonly utilized were Medicaid (44%), SNAP (18%), WIC (17%), and 
+public health clinics (10%). See figure 8.4.  
+Figure 8.4: Percent of Farmworkers Who Reported That a Member of the Household 
+Received Benefits from Contribution- or Needs-Based Programs in the Last Two Years, 
+2015-2016 
+Contribution- and Need-Based Programs Utilized Percent of Farmworkers 
+Any contribution-based program 14% 
+    UI 10% 
+    Social Security 3% 
+    Disability 1% 
+Any need-based program 54% 
+Medicaid 44% 
+SNAP 18% 
+    WIC 17% 
+Public health clinic 10% 
+34 The Federal food stamps program was renamed to the Supplemental Nutrition Assistance Program or SNAP as of 
+October 1, 2008. 
+39
+
+Chapter 9: Health Care in the United States 
+CHAPTER 9: Health Care in the United States 
+Summary of Findings: 
+• Forty-seven percent of farmworkers reported that they had health insurance, 56 percent said 
+their spouse had health insurance, and 93 percent reported that all (89%) or at least some 
+(3%) of their children had health insurance. 
+• S ixty -three percent of farmworkers used a health care provider in the United States sometime 
+in the last two years. 
+• T
+he last time they visited a health care provider, 40 percent went to a private medical 
+doctor’s office or private clinic, 34 percent said they visited a community health center or 
+migrant health clinic, 12 percent saw a dentist, 11 percent went to a hospital, and 3 percent 
+visited other providers such as a healer, chiropractor, or emergency room. 
+• A
+pproximately one-third of farmworkers paid for their last health care visit out of their own 
+pockets (34%): 26 percent were uninsured so they had to pay the whole fee; 8 percent had 
+insurance so their out-of-pocket expense was likely a co-payment. 
+• T
+he most common difficulty farmworkers faced when they needed to access health care was 
+that health care visits were too expensive (23%). 
+He
+alth Insurance Coverage for Farmworkers and Family Members 
+There were several questions on the survey about health insurance. One question asked workers 
+to indicate who in their family had health insurance in the United States. Forty-seven percent of 
+workers responded that they, themselves, had health insurance. Authorized workers and settled 
+workers were much more likely to report having health insurance (69% and 50% respectively) 
+than unauthorized workers and migrant workers (24% and 34% respectively). See figure 9.1.  
+40
+
+Chapter 9: Health Care in the United States 
+Figu
+re 9.1: Percent of Farmworkers with Health Insurance, 2015-2016 
+Fa
+rmworkers who reported having health insurance were asked to identify the source(s) that 
+provided it (multiple sources could be reported). Forty-three percent reported that they had 
+insurance provided by the government, 29 percent said their employer provided them with health 
+insurance, 12 percent said that they or their spouse paid for insurance themselves, 6 percent 
+reported that they had insurance under their spouse’s employer’s plan, another 6 percent reported 
+that they were covered by their parents’ or family’s plan, and 7 percent indicated some other 
+source35 (figure 9.2). 
+Figure 9.2: Sources of Farmworkers' Health Insurance, 2015-2016 
+Source of Farmworker’s Health Insurancea,b Percent of Farmworkers 
+Farmworker’s/Spouse’s self-purchased plan 12% 
+Farmworker’s employer 29% 
+Spouse’s employer 6% 
+Government program 43% 
+Parent’s/Family’s plan 6% 
+Other 7% 
+a Among the 47 percent of farmworkers who reported that they had health insurance. 
+35 “Other” sources included the Affordable Care Act, private health insurance companies (e.g., Aetna, Blue Cross), 
+charity, and retirement/pension plans. 
+41
+
+Chapter 9: Health Care in the United States 
+b Farmworkers may have health insurance through more than one source. 
+Of the 59 percent of farmworkers who had a spouse, 56 percent reported that their spouse had 
+health insurance. Among spouses with health insurance, 54 percent received the insurance 
+through a government program, 9 percent were covered by a self-purchased plan, 19 percent 
+were insured through the spouse’s own employer, 14 percent were covered by the farmworker’s 
+employer plan, and 8 percent indicated some other source (figure 9.3). Authorized workers 
+reported that their spouses had health insurance at nearly twice the frequency of unauthorized 
+workers (74% and 38% respectively).  
+Figure 9.3: Sources of Farmworkers' Spouses’ Health Insurance, 2015-2016 
+Source of Spouse’s Health Insurancea,b Percent of Farmworkers 
+Farmworker’s/Spouse’s self-purchased plan 9% 
+Farmworker’s employer 14% 
+Spouse’s employer 19% 
+Government program 54% 
+Other 8% 
+a Among the 56 percent of farmworkers who reported that their spouse had health insurance. 
+b Spouses may have health insurance through more than one source. 
+Among the 44 percent of farmworkers with minor children, the vast majority reported that all of 
+their children had health insurance (89%) while 3 percent reported that only some of their 
+children had health insurance.  The majority of these workers said their children’s health 
+insurance was provided by government programs (86%). Ten percent of the workers reported 
+that their children were insured through their employer or their spouse’s employer, and two 
+percent said their children were covered by insurance that the worker and/or their spouse 
+purchased on their own (figure 9.4). Nearly equal percentages of authorized and unauthorized 
+workers reported that all or some of their children had health insurance (94% and 92% 
+respectively). 
+Figure 9.4: Sources of Farmworkers' Children’s Health Insurance, 2015-2016 
+Source of Children’s Health Insurancea,b Percent of Farmworkers 
+Farmworker’s/Spouse’s self-purchased plan 2% 
+Farmworker’s/Spouse’s employer 10% 
+Government program 86% 
+Other 2% 
+a Among the 93 percent of farmworkers who reported that all or some of their children had health 
+insurance. 
+b Children may have health insurance through more than one source.  
+Health Care Utilization and Barriers to Health Care 
+In 2015-2016 farmworkers were asked whether, at any time in the 2 years prior to being 
+interviewed, they had used any type of health care services from doctors, nurses, dentists, clinics, 
+or hospitals in the United States. Sixty-three percent of farmworkers responded that they had. 
+42
+
+Chapter 9: Health Care in the United States 
+W
+orkers who had health insurance reported more frequently that they utilized health care 
+services (77%) than did workers who did not have health insurance (51%). See figure 9.5.  
+Figure 9.5: Visited a U.S. Health Care Provider in the Last Two Years by Health Insurance 
+Status, 2015-2016 
+F
+armworkers who reported seeking health care in the United States sometime in the last two 
+years were asked what kind of health care provider they used the last time they saw one. Forty 
+percent of workers who had a health care visit said that the last time they used a provider they 
+went to a private medical doctor’s office or private clinic. Thirty-four percent said they visited a 
+community health center or migrant health clinic, 12 percent saw a dentist, and 11 percent went 
+to a hospital. The remaining three percent of workers reportedly used another type of provider, 
+including a healer or “curandero”, an emergency room, a chiropractor, or a naturopath.  
+The type of health care provider visited depended on farmworkers’ health insurance status. 
+Insured workers were more likely than uninsured workers to visit a private provider (50% 
+compared to 27%) and less likely to visit a community health center or migrant health clinic 
+(26% of insured workers compared to 45% of uninsured workers). See figure 9.6. 
+43
+
+Chapter 9: Health Care in the United States 
+F
+igure 9.6: Type of U.S. Health Care Provider Visited by Health Insurance Status, 2015-
+2016 
+F
+armworkers who reported seeking health care in the United States sometime in the last two 
+years were also asked who paid the majority of the cost for their last health care visit. Thirty-four 
+percent of workers responded that they paid out of their own pockets: 26 percent were uninsured 
+so they had to pay the fee in whole out of pocket; 8 percent had insurance so their out-of-pocket 
+expense was likely a co-payment. Twenty-two percent said that they had Medicaid or Medicare, 
+11 percent said the majority of the cost was covered by health insurance that they or their family 
+had purchased themselves, and 13 percent of workers reported that the cost was covered by 
+health insurance provided by their employer. Nine percent of the workers stated that they went to 
+a pubic clinic that did not charge for the visit, three percent reported that they used some 
+combination of sources to pay, they were covered by worker’s compensation, or that they were 
+44
+
+Chapter 9: Health Care in the United States 
+billed for service but did not pay, and the remaining seven percent provided a variety of other 
+responses36.  
+R
+egardless of whether they reported having used a U.S. health care provider sometime in the last 
+two years, farmworkers were asked to name the types of difficulties they faced when they needed 
+to access health care in the United States. The most common response, provided by 23 percent of 
+all farmworkers interviewed in 2015-2016, was that health care visits were too expensive and 
+they had no insurance to cover the costs. Also among the most common responses were language 
+incompatibility between farmworkers and health care providers (indicated by 1% of workers) 
+and distance from providers or transportation difficulties (also indicated by 1% of workers). 
+Thirteen percent of the workers were unable to name any specific barriers because they reported 
+they had never needed health care in the United States. 
+36 Farmworkers who responded with “other” when asked who paid the majority of the cost for their last health care 
+visit specified their response in the following ways: low income program; insurance through a former emplo yer, 
+other employer, labor union, or pension plan; automobile insurance; coverage through the ACA; medical coupon; 
+military insurance or the VA; and medical insurance with no specification about whether it was self -purchased or 
+employer provided. 
+45
+
+Appendix A: Methodology 
+APPENDIX A: Methodology 
+Overview 
+The NAWS is a nationally representative, random sample of farmworkers. During 2015-2016, 
+the NAWS used stratified multi-stage sampling to account for seasonal and regional fluctuations 
+in the level of farm employment. The stratification included three interviewing cycles per year 
+and 12 geographic regions, resulting in 36 time-by-space strata. For each interviewing cycle, 
+NAWS staff drew a random sample of locations for each of the 12 regions. Together, the 12 
+regions have a universe of 497 Farm Labor Areas (FLAs). FLAs were single- or multi-county 
+sampling units which form the survey’s primary sampling units (PSUs). Counties were the 
+secondary level sampling units, ZIP Code regions were the third, agricultural employers were the 
+fourth, and workers were the fifth. 
+The number of interviews allocated to each region was based on regional farmworker 
+employment data, the number of hired agricultural workers from the U.S. Department of 
+Agriculture’s (USDA) Farm Labor Survey (FLS) plus the number of contract workers from the 
+Bureau of Labor Statistics’ (BLS) Quarterly Census of Employment and Wages (QCEW). 
+Similarly, the number of interviews allocated to each FLA was proportional to the number of 
+hired and contract crop workers employed at that time of the year. The FLA size measure (farm 
+labor) was obtained by multiplying a seasonality estimate, derived primarily from the QCEW, 
+by local farm labor expenditure data, from USDA’s Census of Agriculture (CoA). The 
+interview allocations were thus proportional to stratum size. 
+In each FLA, county, and ZIP Code region, a simple random sample of agricultural employers 
+was drawn from a universe list compiled mainly from public agency records. NAWS 
+interviewers then contacted the sampled growers or farm labor contractors, arranged access to 
+the work site, and drew a random sample of workers at the work site. Thus, the sample included 
+only farmworkers actively employed in crop agriculture at the time of the interview. 
+Stratification 
+Interviewing Cycles 
+To account for the seasonality of the industry, interviews were conducted 3 times each year, in 
+cycles lasting 10 to 12 weeks. The cycles started in February, June and October. The number of 
+interviews conducted in each cycle was proportional to the number of agricultural field workers 
+employed at that time of the year. The USDA’s National Agricultural Statistics Service (NASS) 
+provided the Employment and Training Administration (ETA) with the agricultural employment 
+figures for workers hired by agricultural producers, which came from the USDA’s FLS. Figures 
+for workers employed by farm labor contractors were obtained from the BLS QCEW. In FYs 
+2015 and 2016, the NAWS visited a total of 168 interviewing locations. The locations were 
+similarly apportioned among the cycles using NASS data. 
+Regions 
+Regional stratification entailed defining 12 distinct agricultural regions based on the USDA’s 
+17 agricultural regions. At the start of the survey in 1988, the 17 regions were collapsed into 12 
+by combining those regions that were most similar based on statistical analysis of cropping 
+46
+
+Appendix A: Methodology 
+patterns (e.g., Mountain I and Mountain II). In each cycle, all 12 agricultural regions were 
+included in the sample. The number of interviews per region was proportional to the size of the 
+seasonal farm labor force in that region at that time of the year, as determined by the NASS and 
+BLS using information obtained from the FLS and QCEW. 
+Sampling within Strata 
+Farm Labor Areas 
+Each region was composed of several single- or multi-county sampling units called FLAs. There 
+are 497 FLAs that form a universe from which sampling locations were selected.  These FLAs 
+are aggregates of counties that have similar farm labor usage and are roughly similar in size. 
+FLA size is more homogeneous within region than across regions. 
+The FLA size measure is an estimate of the amount of farm labor in the FLA during a particular 
+cycle.  In this case, the measure was based on the hired and contract labor expenses from the 
+most recent CoA available at the time the sample was drawn. The CoA labor expenses were 
+adjusted using seasonality estimates that identified the percentage of labor expenses that fell into 
+each of the NAWS cycles, fall, spring and summer. The seasonality estimates were based on 
+monthly data from the QCEW, and were constructed by aggregating the reported monthly 
+employment for each month included in the corresponding NAWS cycle (e.g., June, July, 
+August, and September for the summer cycle). The percentage of employment corresponding to 
+each cycle became a FLA’s seasonality estimate. 
+FLAs were selected in two stages.  In the first stage, a roster of approximately 15 FLAs per cycle 
+and region stratum was selected. In the second stage, all the FLAs on each stratum roster were 
+assigned a random number and sorted in the order of the random numbers assigned. 
+Counties 
+To select counties, an iterative sampling procedure was used to ensure that an adequate number 
+of counties was selected for each region. In most cases, interviews were completed in the first 
+county and no additional counties were needed. However, because there was tremendous 
+uncertainty about the number of workers in a county, additional counties were occasionally 
+needed to complete the county allocation. Counties were selected one at a time, without 
+replacement, using probabilities proportional to the size of each county’s farm labor 
+expenditures. Interviews began in the first selected county. If the work force within the county 
+was depleted before all the allocated interviews in the FLA were completed, interviewing moved 
+to the second randomly selected county on the list, and so forth, until all the allocated interviews 
+were completed. In FLAs where farm work was sparse, interviewers may have had to travel to 
+several counties to encounter sufficient workers to complete the FLA allocation. 
+ZIP Code Regions 
+Prior to generating lists of employers, sampled counties were divided into ZIP Code regions, 
+which were smaller areas based on geographic proximity and the number of employers in the 
+area. Some counties were comprised of a single ZIP Code region (for example, in the case of a 
+small county) or multiple ZIP Code regions (for example, when a county is large). In a county 
+with multiple ZIP Code regions, the regions were designed to be roughly equal in size. 
+47
+
+Appendix A: Methodology 
+When there were multiple ZIP Code regions in a county, the regions were randomly sorted to 
+produce a list that determined the order in which the areas would be visited. Field staff contacted 
+agricultural employers in the first ZIP Code region on the list and moved down the list, following 
+the random order, until the interview allocation for the FLA was filled or the county’s workforce 
+was exhausted. 
+Employers 
+Within each selected ZIP Code region, interviewers received a list of randomly sorted 
+agricultural employers. The list was compiled from marketing and administrative lists of 
+employers in crop agriculture. An important component of the list was employer names in 
+selected North American Industrial Classification Codes that the BLS provided directly to the 
+contractor per the terms of an interagency agreement between the ETA and the BLS. 
+Workers 
+Once the randomly selected employer was located, the NAWS interviewer explained the purpose 
+of the survey and obtained access to the work site to schedule interviews. If the employer was not 
+familiar with his/her work force, the interviewer sought the name of the packinghouse manager, 
+personnel manager, farm labor contractor, or crew leader who could help construct a sampling 
+frame of the workers in the operation. Interviewers documented the number of workers 
+employed on the day of worker selection in order to construct worker selection probabilities. 
+When the number of workers available for interview was greater than the number of interviews 
+allocated, the selection of workers for interview followed specific sampling instructions designed 
+by a sampling statistician to ensure selection of a random sample of workers at each selected 
+employer. Only workers who were employed in agriculture at the time of the interview were 
+included in the sample. Selected workers were usually interviewed at the worksite, either before 
+or after work or during breaks. Respondents may have also been interviewed at another location 
+if that was more convenient for them. Respondents received a $20 honorarium for participating 
+in the survey. 
+Weighting 
+The NAWS used a variety of weighting factors to construct weights for calculating unbiased 
+population estimates: 
+• Sampling weights were calculated based on each sample member’s probability of selection at 
+the FLA, county, ZIP Code region, employer and worker level. 
+• Non-response factors were used to correct sampling weights for deviations from the sampling 
+plan, such as discrepancies in the number of interviews planned and collected in specific 
+locations. 
+• Post-sampling adjustment factors were used to adjust the weights given to each interview in 
+order to compute unbiased population estimates from the sample data. 
+A full explanation of how the weights were calculated can be found in the Statistical Methods of 
+the National Agricultural Workers Survey available at the U.S. Department of Labor, 
+Employment and Training Administration’s National Agricultural Workers Survey website 
+(https://www.doleta.gov/agworker/naws.cfm). 
+48
+
+Appendix A: Methodology 
+Reliability of Estimates 
+One measure of sampling error is the relative standard error (RSE), a measure of relative 
+dispersion of the data. The RSE is calculated by dividing the standard error of the estimate 
+(mean or percentage) by the estimate itself and reporting the result as a percentage. The higher the 
+RSE, the less well the estimate represents individual items in the sample.37 
+For the purpose of reporting data, the NAWS has adopted the following data suppression rules: 
+• Estimates with RSEs greater than 30 percent but no more than 50 percent are published 
+but should be used with caution. 
+• Estimates with RSEs greater than 50 percent are considered statistically unreliable and 
+are suppressed. 
+37 Sommer, J. E., Green, R, and Korb, P (1998). Structural and Financial Characteristics of U.S. Farms, 1995: 20 th 
+Annual Family Farm Report to Congress 
+(https://www.ers.usda.gov/webdocs/publications/42178/32556_aib746_002.pdf?v=42487 ). Agriculture Information 
+Bulletin No. (AIB-746), 118 pp, December 1998 (p. 62). 
+49
+
+A ppendix B: Map of the NAWS Migrant Streams 
+APPENDIX B: Map of the NAWS Migrant Streams 
+50
+
+A ppendix C: Index of Percentages and Means for Key Variables
+51 
+APPENDIX C:  Index of Percentages and Means for Key Variables 
+The following tables list the names, descriptions, and categories of the key variables analyzed for this report, as well as the estimates (percentages or 
+means) reported and the 95% confidence limits, standard errors, and relative standard errors (RSEs) of the estimates. Estimates with RSEs higher 
+than 30 percent are identified throughout the tables. The RSE is calculated by dividing the standard error of the estimate by the estimate itself. 
+Estimates with RSEs greater than 30 percent but no more than 50 percent are published but should be used with caution; these are identified with a 
+superscript ‘a’. Estimates based on fewer than 4 observations or with RSEs greater than 50 percent are considered statistically unreliable and are 
+suppressed from the tables. Suppressed statistics are indicated with a superscript ‘b’.
+  
+Chapter 1 
+Variable Variable Description Variable Level(s) 
+Number of 
+Observations 
+Estimate 
+(Percentage 
+or Mean) 
+Standard 
+Error 
+95% Lower 
+Confidence 
+Limit 
+95% Upper 
+Confidence 
+Limit 
+Relative 
+Standard 
+Error 
+A07 Country of birth US or Puerto Rico 1,239 25% 1.8% 21% 28% 7% 
+A07 Country of birth Mexico 3,809 69% 1.8% 65% 72% 3% 
+A07 Country of birth Central America 238 6% 0.8% 5% 8% 13% 
+A07 Country of birth 
+Other (South America, 
+Caribbean, South East Asia, 
+Pacific Islands, Asia) 56 1% 0.1% <1% 1% 21% 
+HISP Hispanic Hispanic 4,447 83% 1.6% 80% 87% 2% 
+B01 Hispanic category Mexican-American 464 9% 1.0% 8% 11% 10% 
+B01 Hispanic category Mexican 3,581 65% 1.8% 61% 68% 3% 
+B01 Hispanic category 
+Chicano, Puerto Rican, or 
+other Hispanic 402 9% 0.9% 7% 11% 10% 
+B01 Hispanic category Not Hispanic or Latino 866 17% 1.6% 13% 20% 9% 
+B02 Race White 1,337 24% 1.6% 20% 27% 7% 
+B02 Race Black/African American 142 3%a 1.0% 1% 5% 34% 
+B02 Race 
+American Indian/Alaska 
+Native 45 1% 0.2% <1% 1% 29% 
+B02 Race Other 3,794 73% 1.8% 69% 77% 3% 
+INDIGENOUS Farmworker is indigenous Farmworker is indigenous 388 6% 0.9% 5% 8% 14% 
+USSTAY Years in US Average 4,097 18 0.5 17 19 3% 
+USSTAY Years in US Less than 1 year (newcomer) 35 3%a 1.3% 1% 6% 38% 
+USSTAY Years in US 1-4 years 217 6% 0.7% 4% 7% 11% 
+USSTAY Years in US 5-9 years 454 13% 1.2% 11% 15% 9%
+
+A ppendix C: Index of Percentages and Means for Key Variables
+52
+Variable Variable Description Variable Level(s) 
+Number of 
+Observations 
+Estimate 
+(Percentage 
+or Mean) 
+Standard 
+Error 
+95% Lower 
+Confidence 
+Limit 
+95% Upper 
+Confidence 
+Limit 
+Relative 
+Standard 
+Error 
+USSTAY Years in US 10-14 years 783 20% 1.5% 17% 23% 7% 
+USSTAY Years in US 15-19 years 760 20% 2.2% 16% 24% 11% 
+USSTAY Years in US 20-29 years 930 19% 1.1% 17% 21% 6% 
+USSTAY Years in US 30-39 years 645 13% 1.0% 11% 15% 8% 
+USSTAY Years in US 40+ years 273 6% 0.7% 5% 7% 12% 
+B18 
+(by A07) 
+State of birth (by country of 
+birth) 
+Guanajuato (among country 
+of birth is Mexico) 593 15% 1.2% 13% 17% 8% 
+B18 
+(by A07) 
+State of birth (by country of 
+birth) 
+Guerrero (among country of 
+birth is Mexico) 230 7% 1.0% 5% 8% 15% 
+B18 
+(by A07) 
+State of birth (by country of 
+birth) 
+Jalisco (among country of 
+birth is Mexico) 360 10% 1.5% 7% 13% 15% 
+B18 
+(by A07) 
+State of birth (by country of 
+birth) 
+Michoacan (among country 
+of birth is Mexico) 705 20% 1.5% 17% 23% 7% 
+B18 
+(by A07) 
+State of birth (by country of 
+birth) 
+Oaxaca (among country of 
+birth is Mexico) 376 7% 0.9% 6% 9% 12% 
+CURRSTAT Current status Citizen 1,554 29% 1.9% 26% 33% 6% 
+CURRSTAT Current status Legal permanent resident 1,085 21% 1.7% 18% 24% 8% 
+CURRSTAT Current status Other work authorized 50 1% 0.1% <1% 1% 19% 
+CURRSTAT Current status Unauthorized 2,601 49% 1.9% 46% 53% 4% 
+MIGRANT Migrant Migrant 786 19% 1.9% 15% 23% 10%
+
+A ppendix C: Index of Percentages and Means for Key Variables 
+53
+Chapter 2 
+Variable Variable Description Variable Level(s) 
+Number of 
+Observations 
+Estimate 
+(Percentage 
+or Mean) 
+Standard 
+Error 
+95% Lower 
+Confidence 
+Limit 
+95% Upper 
+Confidence 
+Limit 
+Relative 
+Standard 
+Error 
+GENDER Gender Male 4,206 68% 2.9% 62% 73% 4% 
+GENDER Gender Female 1,136 32% 2.9% 27% 38% 9% 
+AGE Age Average 5,338 38 0.5 37 39 1% 
+AGE Age 14-19 205 7% 0.9% 5% 9% 13% 
+AGE Age 20-24 498 11% 1.1% 9% 14% 10% 
+AGE Age 25-34 1,358 26% 1.3% 23% 29% 5% 
+AGE Age 35-44 1,276 23% 1.2% 20% 25% 5% 
+AGE Age 45-54 1,104 19% 1.6% 16% 22% 9% 
+AGE Age 55-64 693 11% 0.8% 9% 12% 7% 
+AGE Age 65 and over 204 4% 0.6% 2% 5% 17% 
+MARRIED, 
+FWPARENT 
+Farmworker is married, 
+Farmworker is a parent Married, parent 2,364 41% 1.6% 38% 44% 4% 
+MARRIED, 
+FWPARENT 
+Farmworker is married, 
+Farmworker is a parent Married, no children 929 15% 1.1% 13% 17% 7% 
+MARRIED, 
+FWPARENT 
+Farmworker is married, 
+Farmworker is a parent Unmarried, parent 558 13% 1.3% 11% 16% 10% 
+MARRIED, 
+FWPARENT 
+Farmworker is married, 
+Farmworker is a parent Unmarried, no children 1,478 30% 1.5% 27% 33% 5% 
+HKIDLT18 
+(by 
+FWPARENT) 
+Number of children under 
+age 18 in the household (by 
+farmworker is a parent) 
+Average (among farmworker 
+parents) 2,232 2 0.04 2 2 2% 
+HKIDLT18 
+(by 
+FWPARENT) 
+Number of children under 
+age 18 in the household (by 
+farmworker is a parent) 
+1 child (among farmworker 
+parents) 732 29% 1.7% 25% 32% 6% 
+HKIDLT18 
+(by 
+FWPARENT) 
+Number of children under 
+age 18 in the household (by 
+farmworker is a parent) 
+2 children (among 
+farmworker parents) 793 38% 1.9% 35% 42% 5% 
+HKIDLT18 
+(by 
+FWPARENT) 
+Number of children under 
+age 18 in the household (by 
+farmworker is a parent) 
+3 children (among 
+farmworker parents) 476 23% 2.0% 19% 27% 9% 
+HKIDLT18 
+(by 
+FWPARENT) 
+Number of children under 
+age 18 in the household (by 
+farmworker is a parent) 
+4 children (among 
+farmworker parents) 177 7% 0.9% 6% 9% 13%
+
+A ppendix C: Index of Percentages and Means for Key Variables
+54 
+Variable Variable Description Variable Level(s) 
+Number of 
+Observations 
+Estimate 
+(Percentage 
+or Mean) 
+Standard 
+Error 
+95% Lower 
+Confidence 
+Limit 
+95% Upper 
+Confidence 
+Limit 
+Relative 
+Standard 
+Error 
+HKIDLT18 
+(by 
+FWPARENT) 
+Number of children under 
+age 18 in the household (by 
+farmworker is a parent) 
+5 or more children (among 
+farmworker parents) 54 2% 0.4% 1% 3% 19% 
+ACCOMP 
+Nuclear family lives in 
+household Unaccompanied 2,038 40% 1.8% 37% 44% 5% 
+ACCOMP 
+Nuclear family lives in 
+household Accompanied 3,304 60% 1.8% 56% 63% 3%
+
+Appe ndix C: Index of Percentages and Means for Key Variables
+55 
+Chapter 3 
+Variable Variable Description Variable Level(s) 
+Number of 
+Observations 
+Estimate 
+(Percentage 
+or Mean) 
+Standard 
+Error 
+95% Lower 
+Confidence 
+Limit 
+95% Upper 
+Confidence 
+Limit 
+Relative 
+Standard 
+Error 
+PRIMLANG Adult primary language English 1,111 21% 1.7% 18% 25% 8% 
+PRIMLANG Adult primary language Spanish 4,094 77% 1.8% 74% 81% 2% 
+PRIMLANG Adult primary language Indigenous 109 1% 0.3% 1% 2% 20% 
+HIGHGRDE Highest grade completed Average 5,342 8 0.1 8 9 2% 
+HIGHGRDE Highest grade completed No schooling 207 4% 0.7% 3% 5% 16% 
+HIGHGRDE Highest grade completed K-6th grade 2,152 37% 1.6% 33% 40% 4% 
+HIGHGRDE Highest grade completed 7th-9th grade 1,042 19% 1.2% 17% 22% 6% 
+HIGHGRDE Highest grade completed 10th-12th grade 1,421 30% 1.2% 28% 32% 4% 
+HIGHGRDE Highest grade completed 13 grades or more 520 10% 1.0% 8% 12% 10% 
+ADULTED Attended any adult education No 3,356 65% 1.6% 62% 69% 2% 
+ADULTED Attended any adult education Yes 1,986 35% 1.6% 31% 38% 5% 
+B03a Attended English/ESL  Yes 754 12% 0.9% 10% 14% 8% 
+B03b Attended citizenship classes  Yes 138 2% 0.5% 1% 3% 21% 
+B03d Attended job training  Yes 823 14% 1.5% 11% 17% 11% 
+B03e 
+Attended GED, high school 
+equivalency  Yes 174 3% 0.5% 2% 4% 14% 
+B03f Attended college/university  Yes 329 7% 1.0% 5% 9% 15% 
+B03j Attended ‘other’  Yes 134 2% 0.3% 1% 2% 16% 
+B07 Ability to speak English Not at all 1,440 30% 1.9% 26% 33% 6% 
+B07 Ability to speak English A little 1,841 32% 1.5% 29% 35% 5% 
+B07 Ability to speak English Somewhat 597 9% 0.8% 8% 11% 9% 
+B07 Ability to speak English Well 1,436 29% 1.9% 25% 33% 6% 
+B08 Ability to read English Not at all 2,084 41% 2.1% 37% 45% 5% 
+B08 Ability to read English A little 1,434 24% 1.3% 21% 26% 5% 
+B08 Ability to read English Somewhat 407 7% 0.7% 5% 8% 10% 
+B08 Ability to read English Well 1,383 28% 1.8% 25% 32% 6%
+
+A ppendix C: Index of Percentages and Means for Key Variables 
+56
+Chapter 4 
+Variable Variable Description Variable Level(s) 
+Number of 
+Observations 
+Estimate 
+(Percentage 
+or Mean) 
+Standard 
+Error 
+95% Lower 
+Confidence 
+Limit 
+95% Upper 
+Confidence 
+Limit 
+Relative 
+Standard 
+Error 
+D35 
+Location of housing while at 
+current farm job 
+Off farm, in property not 
+owned by current employer 4,206 84% 1.3% 82% 87% 2% 
+D35 
+Location of housing while at 
+current farm job 
+Off farm, in property owned 
+by current employer 166 4% 0.8% 2% 5% 23% 
+D35 
+Location of housing while at 
+current farm job 
+On farm of employer I 
+currently work for 930 12% 1.0% 10% 14% 9% 
+D33a 
+Payment arrangement for 
+living quarters 
+EMPLOYER-PROVIDED: I 
+pay for housing provided by 
+my employer 170 2% 0.4% 1% 3% 18% 
+D33a 
+Payment arrangement for 
+living quarters 
+EMPLOYER-PROVIDED: I 
+receive free housing from my 
+employer 785 11% 1.1% 8% 13% 10% 
+D33a 
+Payment arrangement for 
+living quarters 
+EMPLOYER-PROVIDED: 
+Other arrangement 187 4% 0.8% 2% 5% 21% 
+D33a 
+Payment arrangement for 
+living quarters 
+I pay for housing provided by 
+govt, charity, other 
+organization 49 1% 0.2% <1% 1% 24% 
+D33a 
+Payment arrangement for 
+living quarters 
+I (or family member) own the 
+house 1,396 28% 1.7% 25% 32% 6% 
+D33a 
+Payment arrangement for 
+living quarters 
+I rent from non-
+employer/non-relative 2,725 54% 1.8% 50% 57% 3% 
+D33a 
+Payment arrangement for 
+living quarters Other 23 1%a 0.2% <1% 1% 30% 
+D50MTCOD 
+How much paid for housing 
+per month (coded) Under $200 260 9% 1.1% 7% 11% 12% 
+D50MTCOD 
+How much paid for housing 
+per month (coded) $200-299 422 18% 2.2% 13% 22% 12% 
+D50MTCOD 
+How much paid for housing 
+per month (coded) $300-399 434 14% 1.2% 12% 16% 8% 
+D50MTCOD 
+How much paid for housing 
+per month (coded) $400-499 341 13% 2.0% 9% 16% 16% 
+D50MTCOD 
+How much paid for housing 
+per month (coded) $500-599 382 11% 1.4% 8% 14% 13% 
+D50MTCOD 
+How much paid for housing 
+per month (coded) $600 or more 1,116 35% 2.2% 31% 40% 6% 
+D34a Type of housing Single-family home 2,930 57% 1.8% 53% 60% 3% 
+D34a Type of housing Mobile home 1,177 20% 1.4% 17% 22% 7%
+
+A ppendix C: Index of Percentages and Means for Key Variables 
+57
+Variable Variable Description Variable Level(s) 
+Number of 
+Observations 
+Estimate 
+(Percentage 
+or Mean) 
+Standard 
+Error 
+95% Lower 
+Confidence 
+Limit 
+95% Upper 
+Confidence 
+Limit 
+Relative 
+Standard 
+Error 
+D34a Type of housing Apartment 963 20% 1.4% 17% 22% 7% 
+D34a Type of housing 
+Other (includes duplex or 
+triplex, dormitory or barracks, 
+motel or hotel, and ‘other’) 265 4% 0.6% 3% 5% 14% 
+D54a 
+Number of bedrooms in 
+current living quarters Average 5,334 3 0.04 3 3 2% 
+D54b 
+Number of bathrooms in 
+current living quarters Average 5,328 1 0.02 1 2 1% 
+D54c 
+Number of kitchens in 
+current living quarters Average 5,331 1 0.01 1 1 1% 
+D54f 
+Number of other rooms in 
+current living quarters Average 5,318 1 0.05 1 1 6% 
+CROWDED1 
+Household is crowded, based 
+on US Census Bureau 
+definition of a crowded 
+household as one in which 
+the number of persons per 
+room exceeds one Crowded 1,687 33% 1.6% 30% 36% 5% 
+D37a 
+Distance of current farm job 
+from current residence I'm located at the job 878 11% 1.0% 9% 13% 9% 
+D37a 
+Distance of current farm job 
+from current residence Within 9 miles 1,723 31% 1.8% 28% 35% 6% 
+D37a 
+Distance of current farm job 
+from current residence 10-24 miles 1,980 39% 1.9% 35% 43% 5% 
+D37a 
+Distance of current farm job 
+from current residence 25-49 miles 661 16% 1.7% 13% 20% 11% 
+D37a 
+Distance of current farm job 
+from current residence 50+ miles 93 3%a 1.2% 0% 5% 47% 
+D37 
+Mode of transportation to 
+work Drive car 3,305 58% 2.1% 54% 62% 4% 
+D37 
+Mode of transportation to 
+work Walk 543 7% 0.7% 5% 8% 10% 
+D37 
+Mode of transportation to 
+work Ride with others 565 13% 1.4% 10% 16% 11% 
+D37 
+Mode of transportation to 
+work Labor bus, truck, van 204 6%a 1.8% 2% 9% 33% 
+D37 
+Mode of transportation to 
+work Raitero 617 15% 1.6% 12% 18% 10%
+
+Appe ndix C: Index of Percentages and Means for Key Variables
+Variable Variable Description Variable Level(s) 
+Number of 
+Observations 
+Estimate 
+(Percentage 
+or Mean) 
+Standard 
+Error 
+95% Lower 
+Confidence 
+Limit 
+95% Upper 
+Confidence 
+Limit 
+Relative 
+Standard 
+Error 
+D37 
+Mode of transportation to 
+work Public transportation, other 71 1% 0.2% 1% 2% 20% 
+D38a Transport is mandatory Yes 69 7% 1.7% 3% 10% 25% 
+D38 Pay a fee for rides to work No 437 32% 4.0% 25% 40% 12% 
+D38 Pay a fee for rides to work Yes, a fee 383 28% 3.6% 21% 35% 13% 
+D38 Pay a fee for rides to work Yes, just for gas 576 39% 3.9% 32% 47% 10%
+
+Appe ndix C: Index of Percentages and Means for Key Variables 
+59 
+Chapter 5 
+Variable Variable Description Variable Level(s) 
+Number of 
+Observations 
+Estimate 
+(Percentage 
+or Mean) 
+Standard 
+Error 
+95% Lower 
+Confidence 
+Limit 
+95% Upper 
+Confidence 
+Limit 
+Relative 
+Standard 
+Error 
+FLC 
+Employer is a farm labor 
+contractor 
+Employer: Grower, nursery, 
+packing house 4,680 80% 3.1% 74% 86% 4% 
+FLC 
+Employer is a farm labor 
+contractor 
+Employer: Farm labor 
+contractor 662 20% 3.1% 14% 26% 15% 
+D30 
+How current job was 
+obtained 
+Applied for the job on my 
+own 1,226 24% 2.3% 20% 29% 9% 
+D30 
+How current job was 
+obtained 
+Recruited by a grower/his 
+foreman 286 4% 0.5% 3% 5% 12% 
+D30 
+How current job was 
+obtained 
+Recruited by farm labor 
+contractor/his foreman 79 1% 0.3% 1% 2% 23% 
+D30 
+How current job was 
+obtained 
+Referred by the employment 
+service, welfare office, labor 
+union, other means 116 2% 0.3% 1% 3% 16% 
+D30 
+How current job was 
+obtained 
+Referred by 
+relative/friend/workmate 3,629 69% 2.1% 65% 73% 3% 
+CROP 
+Primary crop at time of 
+interview Field crops 654 10% 1.3% 7% 12% 14% 
+CROP 
+Primary crop at time of 
+interview Fruits and nuts 1,996 32% 2.9% 26% 38% 9% 
+CROP 
+Primary crop at time of 
+interview Horticulture 1,067 19% 2.1% 15% 23% 11% 
+CROP 
+Primary crop at time of 
+interview Vegetables 1,418 37% 3.3% 30% 43% 9% 
+CROP 
+Primary crop at time of 
+interview Miscellaneous crops 207 3% 0.5% 2% 4% 20% 
+TASK 
+Primary task at time of 
+interview Pre-harvest 1,635 30% 2.1% 25% 34% 7% 
+TASK 
+Primary task at time of 
+interview Harvest 930 17% 1.8% 13% 20% 11% 
+TASK 
+Primary task at time of 
+interview Post-harvest 819 25% 3.3% 18% 31% 13% 
+TASK 
+Primary task at time of 
+interview Semi-skilled 1,952 29% 2.4% 24% 33% 8% 
+D04 
+Number of hours worked the 
+previous week at current 
+farm job Average 5,196 45 0.6 43 46 1% 
+D11 Basis of pay By the hour 4,699 88% 1.7% 84% 91% 2%
+
+A ppendix C: Index of Percentages and Means for Key Variables 
+60
+Variable Variable Description Variable Level(s) 
+Number of 
+Observations 
+Estimate 
+(Percentage 
+or Mean) 
+Standard 
+Error 
+95% Lower 
+Confidence 
+Limit 
+95% Upper 
+Confidence 
+Limit 
+Relative 
+Standard 
+Error 
+D11 Basis of pay By the piece 268 7% 1.6% 4% 10% 23% 
+D11 Basis of pay 
+Combination hourly wage 
+and piece rate 56 1% 0.3% <1% 2% 29% 
+D11 Basis of pay Salary or other 309 4% 0.6% 3% 6% 13% 
+WAGET1 
+Hourly wage for primary 
+task Average 5,215 $10.60  $0.13  $10.35  $10.86  1% 
+D20 
+In last 12 months, received 
+money bonus from current 
+employer No 2,867 63% 2.0% 59% 67% 3% 
+D20 
+In last 12 months, received 
+money bonus from current 
+employer Yes 2,258 27% 1.7% 24% 31% 6% 
+D20 
+In last 12 months, received 
+money bonus from current 
+employer Don’t know 212 10% 1.8% 7% 14% 18% 
+D21a Holiday bonus Yes 1,184 54% 2.5% 49% 59% 5% 
+D21b Incentive bonus Yes 238 12% 1.7% 9% 15% 15% 
+D21c Dependent on grower profit Yes 95 4% 0.9% 2% 6% 22% 
+D21d End of season bonus Yes 686 30% 2.3% 25% 34% 8% 
+D21f Other bonus Yes 33 1% 0.3% 1% 2% 22% 
+NS01 
+Employer provides clean 
+drinking water and 
+disposable cups every day No water, no cups 322 6% 1.2% 3% 8% 21% 
+NS01 
+Employer provides clean 
+drinking water and 
+disposable cups every day Yes, water only 297 5% 0.7% 4% 6% 14% 
+NS01 
+Employer provides clean 
+drinking water and 
+disposable cups every day 
+Yes, water and disposable 
+cups 4,713 89% 1.4% 87% 92% 2% 
+NS04 
+Employer provides a toilet 
+every day Yes 5,163 97% 0.8% 95% 99% 1% 
+NS09 
+Employer provides water to 
+wash hands every day Yes 5,181 97% 0.8% 96% 99% 1% 
+NT02a 
+Current employer provided 
+training in safe use of 
+pesticides in last 12 months Yes 3,575 57% 2.8% 51% 63% 5% 
+D26 
+Covered by Unemployment 
+Insurance No 2,817 52% 2.0% 48% 56% 4%
+
+A ppendix C: Index of Percentages and Means for Key Variables 
+61
+Variable Variable Description Variable Level(s) 
+Number of 
+Observations 
+Estimate 
+(Percentage 
+or Mean) 
+Standard 
+Error 
+95% Lower 
+Confidence 
+Limit 
+95% Upper 
+Confidence 
+Limit 
+Relative 
+Standard 
+Error 
+D26 
+Covered by Unemployment 
+Insurance Yes 2,384 43% 1.8% 40% 47% 4% 
+D26 
+Covered by Unemployment 
+Insurance Don’t know 128 5% 1.2% 3% 7% 23% 
+D23 
+Receive workers’ 
+compensation if injured at 
+work or get sick as a result of 
+work No 773 16% 1.9% 12% 20% 12% 
+D23 
+Receive workers’ 
+compensation if injured at 
+work or get sick as a result of 
+work Yes 3,541 62% 2.1% 58% 66% 3% 
+D23 
+Receive workers’ 
+compensation if injured at 
+work or get sick as a result of 
+work Don’t know 1,022 22% 1.6% 19% 26% 7% 
+D24 
+Employer provides health 
+insurance or pays for health 
+care for injuries or illness 
+while off the job No 3,930 71% 2.0% 67% 75% 3% 
+D24 
+Employer provides health 
+insurance or pays for health 
+care for injuries or illness 
+while off the job Yes 960 18% 1.6% 15% 21% 9% 
+D24 
+Employer provides health 
+insurance or pays for health 
+care for injuries or illness 
+while off the job Don’t know 442 11% 1.4% 8% 13% 13%
+
+A ppendix C: Index of Percentages and Means for Key Variables 
+62
+Chapter 6 
+Variable Variable Description Variable Level(s) 
+Number of 
+Observations 
+Estimate 
+(Percentage 
+or Mean) 
+Standard 
+Error 
+95% Lower 
+Confidence 
+Limit 
+95% Upper 
+Confidence 
+Limit 
+Relative 
+Standard 
+Error 
+NUMFEMPL 
+Number of farm employers 
+in previous 12 months Average 5,342 1 0.03 1 1 3% 
+NUMFEMPL 
+Number of farm employers 
+in previous 12 months 1 employer 4,265 80% 1.6% 77% 83% 2% 
+NUMFEMPL 
+Number of farm employers 
+in previous 12 months 2 employers 689 13% 1.0% 11% 15% 7% 
+NUMFEMPL 
+Number of farm employers 
+in previous 12 months 3 or more employers 388 7% 0.9% 5% 9% 12% 
+D27 
+Number of years with current 
+employer Average 5,308 7 0.3 6 7 5% 
+D27 
+Number of years with current 
+employer 1 year or less 817 26% 2.0% 22% 30% 8% 
+D27 
+Number of years with current 
+employer 2-4 years 1,770 32% 1.4% 30% 35% 4% 
+D27 
+Number of years with current 
+employer 5-10 years 1,319 22% 1.4% 19% 25% 6% 
+D27 
+Number of years with current 
+employer 11-20 years 912 14% 1.2% 11% 16% 9% 
+D27 
+Number of years with current 
+employer 21 or more years 490 6% 0.6% 5% 7% 9% 
+FWWEEKS 
+Number of weeks of farm 
+work the previous year Average 5,342 33 1.0 31 35 3% 
+C10 
+Number of work days per 
+week Average 5,339 5 0.1 5 5 1% 
+FWRDAYS 
+Number of farm work days 
+the previous year Average 5,341 196 6.0 185 208 3% 
+NUMYRSFW 
+(by 
+NEWFWKR) 
+Number of years since first 
+did farm work (by new 
+farmworker: less than 1 year, 
+1 year, more than 1 year) 
+Average (among one or more 
+years of farm work) 5,126 16 0.4 16 17 3% 
+NUMYRSFW 
+(by 
+NEWFWKR) 
+Number of years since first 
+did farm work (by new 
+farmworker: less than 1 year, 
+1 year, more than 1 year) 
+1 year (among one or more 
+years of farm work) 232 5% 0.6% 4% 7% 11% 
+NUMYRSFW 
+(by 
+NEWFWKR) 
+Number of years since first 
+did farm work (by new 
+2-4 years (among one or 
+more years of farm work) 506 13% 1.0% 11% 15% 8%
+
+A ppendix C: Index of Percentages and Means for Key Variables 
+63
+Variable Variable Description Variable Level(s) 
+Number of 
+Observations 
+Estimate 
+(Percentage 
+or Mean) 
+Standard 
+Error 
+95% Lower 
+Confidence 
+Limit 
+95% Upper 
+Confidence 
+Limit 
+Relative 
+Standard 
+Error 
+farmworker: less than 1 year, 
+1 year, more than 1 year) 
+NUMYRSFW 
+(by 
+NEWFWKR) 
+Number of years since first 
+did farm work (by new 
+farmworker: less than 1 year, 
+1 year, more than 1 year) 
+5-10 years (among one or 
+more years of farm work) 1,029 24% 1.5% 21% 27% 6% 
+NUMYRSFW 
+(by 
+NEWFWKR) 
+Number of years since first 
+did farm work (by new 
+farmworker: less than 1 year, 
+1 year, more than 1 year) 
+11-20 years (among one or 
+more years of farm work) 1,489 26% 1.3% 23% 28% 5% 
+NUMYRSFW 
+(by 
+NEWFWKR) 
+Number of years since first 
+did farm work (by new 
+farmworker: less than 1 year, 
+1 year, more than 1 year) 
+21-30 years (among one or 
+more years of farm work) 918 16% 1.2% 14% 18% 8% 
+NUMYRSFW 
+(by 
+NEWFWKR) 
+Number of years since first 
+did farm work (by new 
+farmworker: less than 1 year, 
+1 year, more than 1 year) 
+31 or more years (among one 
+or more years of farm work) 952 16% 1.0% 14% 18% 6% 
+B12 
+Number of years of non-crop 
+work in the US None 2,629 55% 1.8% 51% 58% 3% 
+B12 
+Number of years of non-crop 
+work in the US 1 year 545 9% 0.8% 7% 11% 9% 
+B12 
+Number of years of non-crop 
+work in the US 2-10 years 1,314 26% 1.3% 24% 29% 5% 
+B12 
+Number of years of non-crop 
+work in the US 11 or more years 503 10% 1.0% 8% 12% 10% 
+B12 
+Number of years of non-crop 
+work in the US 
+Average, among those with 
+at least 1 year on non-crop 
+work in the US 2,362 8 0.5 7 9 7% 
+B13 
+Last time parents did hired 
+farm work in the US Never 2,724 54% 1.6% 51% 57% 3% 
+B13 
+Last time parents did hired 
+farm work in the US Now/within the last year 651 15% 1.0% 13% 17% 7% 
+B13 
+Last time parents did hired 
+farm work in the US 1-5 years ago 187 3% 0.4% 2% 4% 13% 
+B13 
+Last time parents did hired 
+farm work in the US 6-10 years ago 254 4% 0.5% 3% 5% 13% 
+B13 
+Last time parents did hired 
+farm work in the US 11 or more years ago 1,420 23% 1.4% 21% 26% 6%
+
+Appe ndix C: Index of Percentages and Means for Key Variables 
+64
+Variable Variable Description Variable Level(s) 
+Number of 
+Observations 
+Estimate 
+(Percentage 
+or Mean) 
+Standard 
+Error 
+95% Lower 
+Confidence 
+Limit 
+95% Upper 
+Confidence 
+Limit 
+Relative 
+Standard 
+Error 
+B13 
+Last time parents did hired 
+farm work in the US Don’t know 38 1%a 0.3% <1% 2% 33% 
+E02 
+How long expect to continue 
+doing farm work Less than one year 136 4% 0.7% 3% 5% 16% 
+E02 
+How long expect to continue 
+doing farm work 1-3 years 593 12% 1.0% 10% 14% 8% 
+E02 
+How long expect to continue 
+doing farm work 4-5 years 213 4% 0.5% 3% 5% 13% 
+E02 
+How long expect to continue 
+doing farm work Over 5 years 135 2% 0.4% 1% 3% 19% 
+E02 
+How long expect to continue 
+doing farm work 
+Over 5 years/as long as I am 
+able 4,111 74% 1.6% 71% 77% 2% 
+E02 
+How long expect to continue 
+doing farm work Other 139 3% 0.7% 2% 5% 21%
+
+A ppendix C: Index of Percentages and Means for Key Variables 
+65
+Chapter 7 
+Variable Variable Description Variable Level(s) 
+Number of 
+Observations 
+Estimate 
+(Percentage 
+or Mean) 
+Standard 
+Error 
+95% Lower 
+Confidence 
+Limit 
+95% Upper 
+Confidence 
+Limit 
+Relative 
+Standard 
+Error 
+NWWEEKS 
+Number of weeks living in 
+the US but not working the 
+previous year Average 5,342 11 0.8 9 13 8% 
+ABWEEKS 
+Number of weeks abroad 
+the previous year Average 5,342 3 0.5 2 4 19% 
+NFWEEKS 
+Number of weeks of non-
+crop work the previous year NFWEEKS>0 1,197 24% 1.4% 21% 26% 6% 
+NFWEEKS 
+Number of weeks of non-
+crop work the previous year 
+Average, among those with 
+NFWEEKS>0 1,197 25 1.2 23 28 5% 
+NUMNFJOBS 
+Number of non-crop jobs 
+the previous year 
+Average, among those with 
+NFWEEKS>0 1,197 2 0.1 1 2 4% 
+HasNFLeave 
+(by NFWEEKS) 
+Left at least one non-crop 
+employer in the previous 
+year (by number of weeks 
+of non-crop work the 
+previous year) 
+Left at least one non-crop 
+employer in the previous 
+year (among NFWEEKS>0) 547 56% 3.4% 50% 63% 6% 
+NFleaves 
+(by HasNFLeave) 
+Type of leave from non-
+crop work (by left at least 
+one non-crop employer in 
+the previous year) 
+All leaves from non-crop 
+work were involuntary 
+(among left at least one non-
+crop employer in the 
+previous year) 177 33% 4.1% 25% 41% 12% 
+NFleaves 
+(by HasNFLeave) 
+Type of leave from non-
+crop work (by left at least 
+one non-cropemployer in 
+the previous year) 
+All leaves from non-crop 
+work were voluntary 
+(among left at least one non-
+crop employer in the 
+previous year) 347 58% 4.9% 48% 67% 8% 
+NFleaves 
+(by HasNFLeave) 
+Type of leave from non-
+crop work (by left at least 
+one non-crop employer in 
+the previous year) 
+Both voluntary and 
+involuntary leaves from 
+non-crop work (among left 
+at least one non-crop 
+employer in the previous 
+year) 23 b b b b 55% 
+HadNW 
+Had at least one period of 
+not working in previous 
+year Yes 3,376 69% 1.6% 66% 72% 2%
+
+Appe ndix C: Index of Percentages and Means for Key Variables 
+66
+Variable Variable Description Variable Level(s) 
+Number of 
+Observations 
+Estimate 
+(Percentage 
+or Mean) 
+Standard 
+Error 
+95% Lower 
+Confidence 
+Limit 
+95% Upper 
+Confidence 
+Limit 
+Relative 
+Standard 
+Error 
+WeeksNotWorking 
+Number of weeks not 
+working in previous year  
+Average, among those who 
+had at least one period of 
+not working in previous year 3,376 20 1.1 17 22 6% 
+RecvdUI 
+Received unemployment 
+during at least one period of 
+not working 
+Yes (among those who had 
+at least one period of not 
+working in previous year) 540 15% 1.7% 12% 19% 11% 
+C
+hapter 8 
+Variable Variable Description Variable Level(s) 
+Number of 
+Observations 
+Estimate 
+(Percentage 
+or Mean) 
+Standard 
+Error 
+95% Lower 
+Confidence 
+Limit 
+95% Upper 
+Confidence 
+Limit 
+Relative 
+Standard 
+Error 
+G01 
+Total personal income the 
+previous year Average 4,927 
+10 ($17,500 
+to $19,999) 0.1 
+10 ($17,500 
+to $19,999) 
+10 ($17,500 
+to $19,999) 1% 
+G01 
+Total personal income the 
+previous year Median 4,927 
+10 ($17,500 
+to $19,999) 0.2 
+10 ($17,500 
+to $19,999) 
+10 ($17,500 
+to $19,999) 2% 
+G01 
+Total personal income the 
+previous year 
+Did not work at all the 
+previous year 172 9% 1.5% 6% 12% 16% 
+G01 
+Total personal income the 
+previous year Less than $10,000 445 14% 1.3% 12% 17% 9% 
+G01 
+Total personal income the 
+previous year $10,000-$19,999 1,586 29% 1.6% 25% 32% 6% 
+G01 
+Total personal income the 
+previous year $20,000-$29,999 1,906 29% 1.5% 26% 32% 5% 
+G01 
+Total personal income the 
+previous year $30,000 or more 990 14% 1.0% 13% 16% 7% 
+G01 
+Total personal income the 
+previous year 
+Don’t remember (don’t 
+know) 206 5% 0.8% 3% 6% 19% 
+G03 
+Family’s total income the 
+previous year Average 4,911 
+11 ($20,000 
+to $24,999) 0.1 
+11 ($20,000 
+to $24,999) 
+11 ($20,000 
+to $24,999) 1% 
+G03 
+Family’s total income the 
+previous year Median 4,911 
+11 ($20,000 
+to $24,999) 0.1 
+11 ($20,000 
+to $24,999) 
+11 ($20,000 
+to $24,999) 1% 
+G03 
+Family’s total income the 
+previous year 
+Did not work at all the 
+previous year 128 6% 1.1% 4% 8% 19% 
+G03 
+Family’s total income the 
+previous year Less than $10,000 275 8% 0.9% 6% 10% 11% 
+G03 
+Family’s total income the 
+previous year $10,000-$19,999 1,082 19% 1.3% 17% 22% 7%
+
+A ppendix C: Index of Percentages and Means for Key Variables 
+67
+Variable Variable Description Variable Level(s) 
+Number of 
+Observations 
+Estimate 
+(Percentage 
+or Mean) 
+Standard 
+Error 
+95% Lower 
+Confidence 
+Limit 
+95% Upper 
+Confidence 
+Limit 
+Relative 
+Standard 
+Error 
+G03 
+Family’s total income the 
+previous year $20,000-$29,999 1,577 27% 1.4% 25% 30% 5% 
+G03 
+Family’s total income the 
+previous year $30,000 or more 1,977 32% 1.6% 28% 35% 5% 
+G03 
+Family’s total income the 
+previous year 
+Don’t remember (don’t 
+know) 269 8% 1.8% 4% 11% 24% 
+FAMPOV 
+Family income below the 
+poverty level Below poverty level 1,242 33% 1.9% 29% 37% 6% 
+ASSETUS Assets in US Any US asset 3,885 68% 2.1% 64% 72% 3% 
+G06a Type of US asset Plot of land 137 2% 0.4% 1% 3% 18% 
+G06b Type of US asset House 1,001 18% 1.5% 15% 21% 8% 
+G06c Type of US asset Mobile home 382 6% 0.7% 5% 7% 11% 
+G06d Type of US asset Car or truck 3,645 63% 1.7% 60% 67% 3% 
+G04c 
+Type of contribution-based 
+program household member 
+utilized in the last 2 years Disability insurance 81 1% 0.3% 1% 2% 21% 
+G04d 
+Type of contribution-based 
+program household member 
+utilized in the last 2 years Unemployment Insurance 561 10% 1.3% 8% 13% 12% 
+G04e 
+Type of contribution-based 
+program household member 
+utilized in the last 2 years Social Security 113 3% 0.6% 2% 4% 20% 
+G04b 
+Type of need-based program 
+household member utilized 
+in the last 2 years 
+Supplemental Nutrition 
+Assistance Program 837 18% 1.4% 15% 21% 8% 
+G04i 
+Type of need-based program 
+household member utilized 
+in the last 2 years Public health clinics 541 10% 1.5% 7% 13% 15% 
+G04j 
+Type of need-based program 
+household member utilized 
+in the last 2 years Medicaid 2,262 44% 1.9% 41% 48% 4% 
+G04k 
+Type of need-based program 
+household member utilized 
+in the last 2 years WIC 824 17% 1.3% 14% 19% 7%
+
+A ppendix C: Index of Percentages and Means for Key Variables 
+68
+Chapter 9
+Variable Variable Description Variable Level(s) 
+Number of 
+Observations 
+Estimate 
+(Percentage 
+or Mean) 
+Standard 
+Error 
+95% Lower 
+Confidence 
+Limit 
+95% Upper 
+Confidence 
+Limit 
+Relative 
+Standard 
+Error 
+A21a 
+Farmworker has health 
+insurance Yes 2,373 47% 2.0% 43% 51% 4% 
+A23a1 
+Who pays for farmworker’s 
+health insurance Farmworker 268 10% 1.3% 8% 13% 12% 
+A23a2 
+Who pays for farmworker’s 
+health insurance Farmworker’s spouse 45 1% 0.2% 1% 2% 18% 
+A23a3 
+Who pays for farmworker’s 
+health insurance Farmworker’s employer 730 29% 2.9% 23% 34% 10% 
+A23a4 
+Who pays for farmworker’s 
+health insurance 
+Farmworker’s spouse’s 
+employer 183 6% 1.2% 4% 9% 19% 
+A23a5 
+Who pays for farmworker’s 
+health insurance Government 871 43% 3.3% 37% 50% 8% 
+A23a6 
+Who pays for farmworker’s 
+health insurance Other 198 7% 0.9% 5% 8% 13% 
+A23a7 
+Who pays for farmworker’s 
+health insurance 
+Farmworker’s 
+parents’/family’s plan 145 6% 1.1% 4% 9% 18% 
+A21b Spouse has health insurance  Yes 1,728 56% 2.2% 52% 61% 4% 
+A23b1 
+Who pays for spouse’s 
+insurance Farmworker 113 4% 0.6% 3% 6% 14% 
+A23b2 
+Who pays for spouse’s 
+insurance Farmworker’s spouse  76 4% 1.1% 2% 7% 26% 
+A23b3 
+Who pays for spouse’s 
+insurance Farmworker’s employer 203 14% 2.4% 9% 18% 17% 
+A23b4 
+Who pays for spouse’s 
+insurance 
+Farmworker’s spouse’s 
+employer 369 19% 2.4% 14% 24% 12% 
+A23b5 
+Who pays for spouse’s 
+insurance Government 861 54% 2.9% 48% 59% 5% 
+A23b6 
+Who pays for spouse’s 
+insurance Other 136 8% 1.1% 6% 10% 14% 
+A21c2 
+Children have health 
+insurance Yes, all have it 2,036 89% 1.5% 87% 92% 2% 
+A21c2 
+Children have health 
+insurance Yes, only some have it 105 3% 0.6% 2% 4% 17% 
+A23c1 
+Who pays for children’s 
+insurance Farmworker 49 1% 0.3% 1% 2% 22% 
+A23c2 
+Who pays for children’s 
+insurance Farmworker’s spouse  24 1%a 0.3% <1% 2% 35%
+
+A ppendix C: Index of Percentages and Means for Key Variables
+69
+Variable Variable Description Variable Level(s) 
+Number of 
+Observations 
+Estimate 
+(Percentage 
+or Mean) 
+Standard 
+Error 
+95% Lower 
+Confidence 
+Limit 
+95% Upper 
+Confidence 
+Limit 
+Relative 
+Standard 
+Error 
+A23c3 
+Who pays for children’s 
+insurance Farmworker’s employer 73 5%a 1.7% 2% 9% 32% 
+A23c4 
+Who pays for children’s 
+insurance 
+Farmworker’s spouse’s 
+employer 110 5% 0.8% 3% 6% 18% 
+A23c5 
+Who pays for children’s 
+insurance Government 1,848 86% 1.9% 83% 90% 2% 
+A23c6 
+Who pays for children’s 
+insurance Other 52 2% 0.7% 1% 4% 30% 
+NQ01 
+Utilized health care service 
+in last 2 years Yes 3,322 63% 1.7% 60% 66% 3% 
+NQ03b 
+Type of health care provider 
+at last visit Community health center 1,039 33% 2.1% 29% 37% 6% 
+NQ03b 
+Type of health care provider 
+at last visit 
+Private doctor's office/private 
+clinic 1,378 40% 1.7% 37% 44% 4% 
+NQ03b 
+Type of health care provider 
+at last visit 
+Healer/curandero, ER, 
+chiropractor/naturopath, 
+other 115 3% 0.5% 2% 4% 15% 
+NQ03b 
+Type of health care provider 
+at last visit Hospital 320 11% 1.3% 8% 13% 12% 
+NQ03b 
+Type of health care provider 
+at last visit Migrant health clinic 72 1% 0.3% 1% 2% 21% 
+NQ03b 
+Type of health care provider 
+at last visit Dentist 396 12% 1.3% 9% 14% 11% 
+NQ05 
+Who paid majority of cost of 
+last health care visit 
+Paid the bill out of own 
+pocket 1,209 34% 1.7% 30% 37% 5% 
+NQ05 
+Who paid majority of cost of 
+last health care visit Medicaid/Medicare 534 22% 2.4% 18% 27% 11% 
+NQ05 
+Who paid majority of cost of 
+last health care visit Public clinic/did not charge 319 9% 1.0% 7% 11% 11% 
+NQ05 
+Who paid majority of cost of 
+last health care visit 
+Employer provided health 
+plan 498 13% 1.4% 10% 16% 10% 
+NQ05 
+Who paid majority of cost of 
+last health care visit 
+Self or family bought 
+individual health plan 389 11% 1.3% 9% 14% 12% 
+NQ05 
+Who paid majority of cost of 
+last health care visit Other 247 7% 1.0% 5% 9% 14% 
+NQ05 
+Who paid majority of cost of 
+last health care visit 
+Billed but did not pay, 
+workers’ compensation, or 
+combination of sources 134 3% 0.5% 2% 4% 14%
+
+A ppendix C: Index of Percentages and Means for Key Variables
+70 
+Variable Variable Description Variable Level(s) 
+Number of 
+Observations 
+Estimate 
+(Percentage 
+or Mean) 
+Standard 
+Error 
+95% Lower 
+Confidence 
+Limit 
+95% Upper 
+Confidence 
+Limit 
+Relative 
+Standard 
+Error 
+NQ10a 
+Main difficulties faced when 
+needing to access health care 
+in the US 
+No transportation, too far 
+away 44 1% 0.3% <1% 1% 30% 
+NQ10b 
+Main difficulties faced when 
+needing to access health care 
+in the US 
+Don't know where services 
+are available 26 <1%a 0.1% <1% 1% 36% 
+NQ10e 
+Main difficulties faced when 
+needing to access health care 
+in the US 
+They don't speak my 
+language 64 1% 0.3% 1% 2% 22% 
+NQ10f 
+Main difficulties faced when 
+needing to access health care 
+in the US 
+They don't treat me with 
+respect 11 <1%a 0.1% <1% <1% 34% 
+NQ10g 
+Main difficulties faced when 
+needing to access health care 
+in the US 
+They don't understand my 
+problems 14 <1%a 0.2% <1% 1% 38% 
+NQ10h 
+Main difficulties faced when 
+needing to access health care 
+in the US I'll lose my job 7 <1%a 0.03% <1% <1% 44% 
+NQ10i 
+Main difficulties faced when 
+needing to access health care 
+in the US Too expensive/no insurance 1,415 23% 1.4% 21% 26% 6% 
+MQ10j 
+Main difficulties faced when 
+needing to access health care 
+in the US Other 57 1% 0.2% <1% 1% 29% 
+NQ10l 
+Main difficulties faced when 
+needing to access health care 
+in the US 
+I'm undocumented/no papers 
+(that's why they don’t treat 
+me well) 48 <1%a 0.4% <1% 2% 31% 
+NQ10m 
+Main difficulties faced when 
+needing to access health care 
+in the US 
+I don't know, I've never 
+needed it 692 13% 1.3% 10% 16% 10%

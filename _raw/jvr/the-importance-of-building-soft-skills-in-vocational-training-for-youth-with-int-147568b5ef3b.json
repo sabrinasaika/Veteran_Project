@@ -1,0 +1,1484 @@
+{
+  "source_type": "jvr_pdf_candidate",
+  "doi": "10.1177/10522263251394318",
+  "doi_url": "https://doi.org/10.1177/10522263251394318",
+  "source_url": "https://journals.sagepub.com/doi/10.1177/10522263251394318",
+  "attempted_pdf_urls": [
+    "https://journals.sagepub.com/doi/pdf/10.1177/10522263251394318",
+    "https://journals.sagepub.com/doi/10.1177/10522263251394318",
+    "https://doi.org/10.1177/10522263251394318",
+    "https://content.iospress.com/download?id=10.1177/10522263251394318"
+  ],
+  "selected_pdf_url": "",
+  "selected_final_url": "",
+  "download_status": "unavailable",
+  "match": {
+    "veteran_hits": [
+      "va "
+    ],
+    "pathway_hits": [
+      "employment",
+      "job",
+      "employment outcome",
+      "employment outcomes"
+    ],
+    "disability_hits": [
+      "disabilities"
+    ]
+  },
+  "openalex": {
+    "id": "https://openalex.org/W4415878617",
+    "doi": "https://doi.org/10.1177/10522263251394318",
+    "title": "The Importance of Building Soft Skills in Vocational Training for Youth with Intellectual and Developmental Disabilities: Evidence from the Impact Project",
+    "display_name": "The Importance of Building Soft Skills in Vocational Training for Youth with Intellectual and Developmental Disabilities: Evidence from the Impact Project",
+    "publication_year": 2025,
+    "publication_date": "2025-11-04",
+    "ids": {
+      "openalex": "https://openalex.org/W4415878617",
+      "doi": "https://doi.org/10.1177/10522263251394318"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/10522263251394318",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1177/10522263251394318",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S190353498",
+        "display_name": "Journal of Vocational Rehabilitation",
+        "issn_l": "1052-2263",
+        "issn": [
+          "1052-2263",
+          "1878-6316"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310318577",
+        "host_organization_name": "IOS Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310318577"
+        ],
+        "host_organization_lineage_names": [
+          "IOS Press"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Vocational Rehabilitation",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://doi.org/10.1177/10522263251394318",
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5028332820",
+          "display_name": "Laura Mudde",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I141945490",
+            "display_name": "University of British Columbia",
+            "ror": "https://ror.org/03rmrcq20",
+            "country_code": "CA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I141945490"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4405260628",
+            "display_name": "University of British Columbia, Okanagan Campus",
+            "ror": "https://ror.org/04241wz75",
+            "country_code": "CA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I141945490",
+              "https://openalex.org/I4405260628"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I822440",
+            "display_name": "Okanagan University College",
+            "ror": "https://ror.org/02mxmh518",
+            "country_code": "CA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I822440"
+            ]
+          }
+        ],
+        "countries": [
+          "CA"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Laura Mudde",
+        "raw_affiliation_strings": [
+          "University of British Columbia Okanagan",
+          "Canadian Institute for Inclusion and Citizenship, University of British Columbia Okanagan, Kelowna, Canada"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of British Columbia Okanagan",
+            "institution_ids": [
+              "https://openalex.org/I822440",
+              "https://openalex.org/I141945490",
+              "https://openalex.org/I4405260628"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Canadian Institute for Inclusion and Citizenship, University of British Columbia Okanagan, Kelowna, Canada",
+            "institution_ids": [
+              "https://openalex.org/I822440",
+              "https://openalex.org/I141945490",
+              "https://openalex.org/I4405260628"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5035205840",
+          "display_name": "R. Colin Reid",
+          "orcid": "https://orcid.org/0000-0001-7165-4835"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I141945490",
+            "display_name": "University of British Columbia",
+            "ror": "https://ror.org/03rmrcq20",
+            "country_code": "CA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I141945490"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4405260628",
+            "display_name": "University of British Columbia, Okanagan Campus",
+            "ror": "https://ror.org/04241wz75",
+            "country_code": "CA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I141945490",
+              "https://openalex.org/I4405260628"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I822440",
+            "display_name": "Okanagan University College",
+            "ror": "https://ror.org/02mxmh518",
+            "country_code": "CA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I822440"
+            ]
+          }
+        ],
+        "countries": [
+          "CA"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "R. Colin Reid",
+        "raw_affiliation_strings": [
+          "University of British Columbia Okanagan",
+          "School of Health and Exercise Sciences, University of British Columbia Okanagan, Kelowna, Canada"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of British Columbia Okanagan",
+            "institution_ids": [
+              "https://openalex.org/I822440",
+              "https://openalex.org/I141945490",
+              "https://openalex.org/I4405260628"
+            ]
+          },
+          {
+            "raw_affiliation_string": "School of Health and Exercise Sciences, University of British Columbia Okanagan, Kelowna, Canada",
+            "institution_ids": [
+              "https://openalex.org/I822440",
+              "https://openalex.org/I141945490",
+              "https://openalex.org/I4405260628"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5086074382",
+          "display_name": "Rachelle Hole",
+          "orcid": "https://orcid.org/0000-0001-5238-0015"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I141945490",
+            "display_name": "University of British Columbia",
+            "ror": "https://ror.org/03rmrcq20",
+            "country_code": "CA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I141945490"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4405260628",
+            "display_name": "University of British Columbia, Okanagan Campus",
+            "ror": "https://ror.org/04241wz75",
+            "country_code": "CA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I141945490",
+              "https://openalex.org/I4405260628"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I822440",
+            "display_name": "Okanagan University College",
+            "ror": "https://ror.org/02mxmh518",
+            "country_code": "CA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I822440"
+            ]
+          }
+        ],
+        "countries": [
+          "CA"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Rachelle Hole",
+        "raw_affiliation_strings": [
+          "University of British Columbia Okanagan",
+          "Canadian Institute for Inclusion and Citizenship, University of British Columbia Okanagan, Kelowna, Canada"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of British Columbia Okanagan",
+            "institution_ids": [
+              "https://openalex.org/I822440",
+              "https://openalex.org/I141945490",
+              "https://openalex.org/I4405260628"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Canadian Institute for Inclusion and Citizenship, University of British Columbia Okanagan, Kelowna, Canada",
+            "institution_ids": [
+              "https://openalex.org/I822440",
+              "https://openalex.org/I141945490",
+              "https://openalex.org/I4405260628"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 3,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5086074382"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I141945490",
+      "https://openalex.org/I4405260628",
+      "https://openalex.org/I822440"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.32063986,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": "64",
+      "issue": "1",
+      "first_page": "14",
+      "last_page": "25"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11514",
+      "display_name": "Disability Education and Employment",
+      "score": 0.9297999739646912,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3311",
+        "display_name": "Safety Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11514",
+        "display_name": "Disability Education and Employment",
+        "score": 0.9297999739646912,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3311",
+          "display_name": "Safety Research"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11466",
+        "display_name": "Innovative Education and Learning Practices",
+        "score": 0.00800000037997961,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3307",
+          "display_name": "Human Factors and Ergonomics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11632",
+        "display_name": "Family and Disability Support Research",
+        "score": 0.007400000002235174,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3203",
+          "display_name": "Clinical Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/vocational-education",
+        "display_name": "Vocational education",
+        "score": 0.8899000287055969
+      },
+      {
+        "id": "https://openalex.org/keywords/soft-skills",
+        "display_name": "Soft skills",
+        "score": 0.8277000188827515
+      },
+      {
+        "id": "https://openalex.org/keywords/supported-employment",
+        "display_name": "Supported employment",
+        "score": 0.4489000141620636
+      },
+      {
+        "id": "https://openalex.org/keywords/social-skills",
+        "display_name": "Social skills",
+        "score": 0.4065999984741211
+      },
+      {
+        "id": "https://openalex.org/keywords/qualitative-research",
+        "display_name": "Qualitative research",
+        "score": 0.3930000066757202
+      },
+      {
+        "id": "https://openalex.org/keywords/intellectual-disability",
+        "display_name": "Intellectual disability",
+        "score": 0.39169999957084656
+      },
+      {
+        "id": "https://openalex.org/keywords/training",
+        "display_name": "Training (meteorology)",
+        "score": 0.3783999979496002
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C668760",
+        "wikidata": "https://www.wikidata.org/wiki/Q6869278",
+        "display_name": "Vocational education",
+        "level": 2,
+        "score": 0.8899000287055969
+      },
+      {
+        "id": "https://openalex.org/C43075056",
+        "wikidata": "https://www.wikidata.org/wiki/Q15910354",
+        "display_name": "Soft skills",
+        "level": 2,
+        "score": 0.8277000188827515
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.6353999972343445
+      },
+      {
+        "id": "https://openalex.org/C2778965245",
+        "wikidata": "https://www.wikidata.org/wiki/Q2499074",
+        "display_name": "Supported employment",
+        "level": 3,
+        "score": 0.4489000141620636
+      },
+      {
+        "id": "https://openalex.org/C509550671",
+        "wikidata": "https://www.wikidata.org/wiki/Q126945",
+        "display_name": "Medical education",
+        "level": 1,
+        "score": 0.44679999351501465
+      },
+      {
+        "id": "https://openalex.org/C86772948",
+        "wikidata": "https://www.wikidata.org/wiki/Q1413287",
+        "display_name": "Social skills",
+        "level": 2,
+        "score": 0.4065999984741211
+      },
+      {
+        "id": "https://openalex.org/C190248442",
+        "wikidata": "https://www.wikidata.org/wiki/Q839486",
+        "display_name": "Qualitative research",
+        "level": 2,
+        "score": 0.3930000066757202
+      },
+      {
+        "id": "https://openalex.org/C551499885",
+        "wikidata": "https://www.wikidata.org/wiki/Q183560",
+        "display_name": "Intellectual disability",
+        "level": 2,
+        "score": 0.39169999957084656
+      },
+      {
+        "id": "https://openalex.org/C2777211547",
+        "wikidata": "https://www.wikidata.org/wiki/Q17141490",
+        "display_name": "Training (meteorology)",
+        "level": 2,
+        "score": 0.3783999979496002
+      },
+      {
+        "id": "https://openalex.org/C501001295",
+        "wikidata": "https://www.wikidata.org/wiki/Q2480597",
+        "display_name": "Life skills",
+        "level": 2,
+        "score": 0.3756999969482422
+      },
+      {
+        "id": "https://openalex.org/C87156501",
+        "wikidata": "https://www.wikidata.org/wiki/Q7268708",
+        "display_name": "Qualitative property",
+        "level": 2,
+        "score": 0.3643999993801117
+      },
+      {
+        "id": "https://openalex.org/C21788436",
+        "wikidata": "https://www.wikidata.org/wiki/Q7233299",
+        "display_name": "Positive Youth Development",
+        "level": 2,
+        "score": 0.3504999876022339
+      },
+      {
+        "id": "https://openalex.org/C75630572",
+        "wikidata": "https://www.wikidata.org/wiki/Q538904",
+        "display_name": "Applied psychology",
+        "level": 1,
+        "score": 0.3443000018596649
+      },
+      {
+        "id": "https://openalex.org/C109359841",
+        "wikidata": "https://www.wikidata.org/wiki/Q728944",
+        "display_name": "Inclusion (mineral)",
+        "level": 2,
+        "score": 0.3010999858379364
+      },
+      {
+        "id": "https://openalex.org/C2994503098",
+        "wikidata": "https://www.wikidata.org/wiki/Q6869278",
+        "display_name": "Job training",
+        "level": 3,
+        "score": 0.29750001430511475
+      },
+      {
+        "id": "https://openalex.org/C5395021",
+        "wikidata": "https://www.wikidata.org/wiki/Q1061410",
+        "display_name": "Program evaluation",
+        "level": 2,
+        "score": 0.2870999872684479
+      },
+      {
+        "id": "https://openalex.org/C138496976",
+        "wikidata": "https://www.wikidata.org/wiki/Q175002",
+        "display_name": "Developmental psychology",
+        "level": 1,
+        "score": 0.26980000734329224
+      },
+      {
+        "id": "https://openalex.org/C97082442",
+        "wikidata": "https://www.wikidata.org/wiki/Q1934361",
+        "display_name": "Skills management",
+        "level": 2,
+        "score": 0.25850000977516174
+      },
+      {
+        "id": "https://openalex.org/C3019997145",
+        "wikidata": "https://www.wikidata.org/wiki/Q1326354",
+        "display_name": "Parenting skills",
+        "level": 2,
+        "score": 0.25839999318122864
+      },
+      {
+        "id": "https://openalex.org/C19417346",
+        "wikidata": "https://www.wikidata.org/wiki/Q7922",
+        "display_name": "Pedagogy",
+        "level": 1,
+        "score": 0.2538999915122986
+      },
+      {
+        "id": "https://openalex.org/C39549134",
+        "wikidata": "https://www.wikidata.org/wiki/Q133080",
+        "display_name": "Public relations",
+        "level": 1,
+        "score": 0.2502000033855438
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1177/10522263251394318",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1177/10522263251394318",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S190353498",
+          "display_name": "Journal of Vocational Rehabilitation",
+          "issn_l": "1052-2263",
+          "issn": [
+            "1052-2263",
+            "1878-6316"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310318577",
+          "host_organization_name": "IOS Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310318577"
+          ],
+          "host_organization_lineage_names": [
+            "IOS Press"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Vocational Rehabilitation",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.1177/10522263251394318",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1177/10522263251394318",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S190353498",
+        "display_name": "Journal of Vocational Rehabilitation",
+        "issn_l": "1052-2263",
+        "issn": [
+          "1052-2263",
+          "1878-6316"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310318577",
+        "host_organization_name": "IOS Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310318577"
+        ],
+        "host_organization_lineage_names": [
+          "IOS Press"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Vocational Rehabilitation",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "content_urls": null,
+    "referenced_works_count": 28,
+    "referenced_works": [
+      "https://openalex.org/W585236452",
+      "https://openalex.org/W1973951941",
+      "https://openalex.org/W2051929066",
+      "https://openalex.org/W2068374682",
+      "https://openalex.org/W2098752671",
+      "https://openalex.org/W2135044012",
+      "https://openalex.org/W2148939574",
+      "https://openalex.org/W2294073303",
+      "https://openalex.org/W2528852890",
+      "https://openalex.org/W2920892299",
+      "https://openalex.org/W2990361570",
+      "https://openalex.org/W3002941098",
+      "https://openalex.org/W3040566471",
+      "https://openalex.org/W3046943714",
+      "https://openalex.org/W3047250402",
+      "https://openalex.org/W3047522383",
+      "https://openalex.org/W3088980330",
+      "https://openalex.org/W3091926189",
+      "https://openalex.org/W3131210045",
+      "https://openalex.org/W3200478310",
+      "https://openalex.org/W4205443241",
+      "https://openalex.org/W4210849918",
+      "https://openalex.org/W4301372057",
+      "https://openalex.org/W4308052933",
+      "https://openalex.org/W4386094100",
+      "https://openalex.org/W4389039133",
+      "https://openalex.org/W4389430261",
+      "https://openalex.org/W4412587884"
+    ],
+    "related_works": [],
+    "abstract_inverted_index": {
+      "Background": [
+        0
+      ],
+      "Research": [
+        1
+      ],
+      "has": [
+        2,
+        19
+      ],
+      "identified": [
+        3,
+        74
+      ],
+      "employment": [
+        4,
+        55,
+        82,
+        108,
+        129,
+        146,
+        168,
+        174
+      ],
+      "as": [
+        5,
+        24
+      ],
+      "a": [
+        6,
+        25,
+        34
+      ],
+      "social": [
+        7,
+        121
+      ],
+      "inclusion": [
+        8
+      ],
+      "priority": [
+        9
+      ],
+      "for": [
+        10,
+        59,
+        182,
+        188
+      ],
+      "individuals": [
+        11
+      ],
+      "with": [
+        12,
+        48,
+        184
+      ],
+      "intellectual": [
+        13
+      ],
+      "and": [
+        14,
+        18,
+        77,
+        97,
+        106,
+        123,
+        131,
+        134,
+        176
+      ],
+      "developmental": [
+        15
+      ],
+      "disabilities": [
+        16
+      ],
+      "(IDD)": [
+        17
+      ],
+      "emphasized": [
+        20
+      ],
+      "person-centered": [
+        21
+      ],
+      "vocational": [
+        22,
+        50,
+        72,
+        104,
+        179
+      ],
+      "training": [
+        23,
+        51,
+        73,
+        105,
+        180
+      ],
+      "predictor": [
+        26
+      ],
+      "of": [
+        27,
+        68,
+        116
+      ],
+      "future": [
+        28,
+        60,
+        189
+      ],
+      "employment.": [
+        29,
+        61,
+        190
+      ],
+      "The": [
+        30
+      ],
+      "Impact": [
+        31,
+        86,
+        150,
+        157
+      ],
+      "Project": [
+        32,
+        87,
+        158
+      ],
+      "is": [
+        33
+      ],
+      "summer": [
+        35
+      ],
+      "program": [
+        36
+      ],
+      "offered": [
+        37
+      ],
+      "by": [
+        38,
+        75
+      ],
+      "project": [
+        39
+      ],
+      "partners": [
+        40
+      ],
+      "in": [
+        41,
+        57,
+        71,
+        126,
+        186
+      ],
+      "British": [
+        42
+      ],
+      "Columbia,": [
+        43
+      ],
+      "Canada,": [
+        44
+      ],
+      "that": [
+        45
+      ],
+      "provides": [
+        46
+      ],
+      "youth": [
+        47,
+        76,
+        96,
+        183
+      ],
+      "IDD": [
+        49,
+        185
+      ],
+      "to": [
+        52,
+        143,
+        165
+      ],
+      "improve": [
+        53
+      ],
+      "their": [
+        54,
+        78,
+        98,
+        103
+      ],
+      "experiences": [
+        56,
+        83,
+        130
+      ],
+      "preparation": [
+        58,
+        187
+      ],
+      "Objective": [
+        62
+      ],
+      "This": [
+        63,
+        90
+      ],
+      "study": [
+        64,
+        91
+      ],
+      "explicates": [
+        65
+      ],
+      "the": [
+        66,
+        85,
+        114,
+        127,
+        149,
+        156,
+        166
+      ],
+      "importance": [
+        67
+      ],
+      "soft": [
+        69,
+        117,
+        139,
+        162
+      ],
+      "skills": [
+        70,
+        140,
+        163
+      ],
+      "parents/carers": [
+        79,
+        99
+      ],
+      "regarding": [
+        80
+      ],
+      "attained": [
+        81,
+        107
+      ],
+      "during": [
+        84
+      ],
+      "(2020–2022).": [
+        88
+      ],
+      "Methods": [
+        89
+      ],
+      "evaluates": [
+        92
+      ],
+      "qualitative": [
+        93
+      ],
+      "data": [
+        94,
+        154
+      ],
+      "from": [
+        95,
+        148,
+        155
+      ],
+      "who": [
+        100
+      ],
+      "reflected": [
+        101
+      ],
+      "on": [
+        102
+      ],
+      "experiences.": [
+        109,
+        169
+      ],
+      "Results": [
+        110
+      ],
+      "Qualitative": [
+        111,
+        153
+      ],
+      "findings": [
+        112,
+        171
+      ],
+      "highlight": [
+        113
+      ],
+      "significance": [
+        115
+      ],
+      "skills,": [
+        118
+      ],
+      "namely": [
+        119
+      ],
+      "confidence,": [
+        120
+      ],
+      "capital,": [
+        122
+      ],
+      "job": [
+        124
+      ],
+      "readiness": [
+        125
+      ],
+      "youth's": [
+        128,
+        167
+      ],
+      "outcomes.": [
+        132
+      ],
+      "Youth": [
+        133
+      ],
+      "parent/carer": [
+        135
+      ],
+      "observations": [
+        136
+      ],
+      "about": [
+        137
+      ],
+      "these": [
+        138
+      ],
+      "add": [
+        141
+      ],
+      "insight": [
+        142
+      ],
+      "understanding": [
+        144
+      ],
+      "positive": [
+        145
+      ],
+      "outcomes": [
+        147,
+        175
+      ],
+      "Project.": [
+        151
+      ],
+      "Conclusion": [
+        152
+      ],
+      "(2020–2022)": [
+        159
+      ],
+      "illuminate": [
+        160
+      ],
+      "how": [
+        161
+      ],
+      "contributed": [
+        164
+      ],
+      "These": [
+        170
+      ],
+      "contextualize": [
+        172
+      ],
+      "quantitative": [
+        173
+      ],
+      "can": [
+        177
+      ],
+      "guide": [
+        178
+      ],
+      "programs": [
+        181
+      ]
+    },
+    "counts_by_year": [],
+    "updated_date": "2026-03-26T15:22:09.906841",
+    "created_date": "2025-11-04T00:00:00"
+  },
+  "crossref": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          20
+        ]
+      ],
+      "date-time": "2026-01-20T22:47:50Z",
+      "timestamp": 1768949270255,
+      "version": "3.49.0"
+    },
+    "reference-count": 30,
+    "publisher": "SAGE Publications",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              11,
+              4
+            ]
+          ],
+          "date-time": "2025-11-04T00:00:00Z",
+          "timestamp": 1762214400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              11,
+              4
+            ]
+          ],
+          "date-time": "2025-11-04T00:00:00Z",
+          "timestamp": 1762214400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+      }
+    ],
+    "funder": [
+      {
+        "name": "Ministry of Social Development and Poverty Reduction"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.sagepub.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Journal of Vocational Rehabilitation"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          1
+        ]
+      ]
+    },
+    "abstract": "<jats:sec>\n                    <jats:title>Background</jats:title>\n                    <jats:p>Research has identified employment as a social inclusion priority for individuals with intellectual and developmental disabilities (IDD) and has emphasized person-centered vocational training as a predictor of future employment. The Impact Project is a summer program offered by project partners in British Columbia, Canada, that provides youth with IDD vocational training to improve their employment experiences in preparation for future employment.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Objective</jats:title>\n                    <jats:p>This study explicates the importance of soft skills in vocational training identified by youth and their parents/carers regarding attained employment experiences during the Impact Project (2020–2022).</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Methods</jats:title>\n                    <jats:p>This study evaluates qualitative data from youth and their parents/carers who reflected on their vocational training and attained employment experiences.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>Qualitative findings highlight the significance of soft skills, namely confidence, social capital, and job readiness in the youth's employment experiences and outcomes. Youth and parent/carer observations about these soft skills add insight to understanding positive employment outcomes from the Impact Project.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusion</jats:title>\n                    <jats:p>Qualitative data from the Impact Project (2020–2022) illuminate how soft skills contributed to the youth's employment experiences. These findings contextualize quantitative employment outcomes and can guide vocational training programs for youth with IDD in preparation for future employment.</jats:p>\n                  </jats:sec>",
+    "DOI": "10.1177/10522263251394318",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          4
+        ]
+      ],
+      "date-time": "2025-11-04T15:42:32Z",
+      "timestamp": 1762270952000
+    },
+    "page": "14-25",
+    "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "The Importance of Building Soft Skills in Vocational Training for Youth with Intellectual and Developmental Disabilities: Evidence from the Impact Project"
+    ],
+    "prefix": "10.1177",
+    "volume": "64",
+    "author": [
+      {
+        "given": "Laura",
+        "family": "Mudde",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "University of British Columbia Okanagan"
+          }
+        ]
+      },
+      {
+        "given": "R. Colin",
+        "family": "Reid",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of British Columbia Okanagan"
+          }
+        ]
+      },
+      {
+        "given": "Rachelle",
+        "family": "Hole",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of British Columbia Okanagan"
+          }
+        ]
+      }
+    ],
+    "member": "179",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          4
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_3_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.childyouth.2019.104656"
+      },
+      {
+        "key": "e_1_3_3_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/15407969221075629"
+      },
+      {
+        "key": "e_1_3_3_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/jar.13040"
+      },
+      {
+        "key": "e_1_3_3_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09638288.2022.2140846"
+      },
+      {
+        "key": "e_1_3_3_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1352/1944-7558-119.1.64"
+      },
+      {
+        "key": "e_1_3_3_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/jar.13172"
+      },
+      {
+        "key": "e_1_3_3_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/jar.12150"
+      },
+      {
+        "key": "e_1_3_3_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1540796914534633"
+      },
+      {
+        "key": "e_1_3_3_10_1",
+        "unstructured": "CLBC. (2023). Community Living British Columbia 2022/23 Annual Service Plan Report.https://www.bcbudget.gov.bc.ca/Annual_Reports/2022_2023/pdf/agency/clbc.pdf."
+      },
+      {
+        "key": "e_1_3_3_11_1",
+        "volume-title": "Designing and conducting mixed methods research",
+        "author": "Creswell J. W.",
+        "year": "2018",
+        "unstructured": "Creswell J. W., Plano Clark V. L. (2018). Designing and conducting mixed methods research (Third ed.). Sage."
+      },
+      {
+        "key": "e_1_3_3_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1352/1934-9556-58.4.264"
+      },
+      {
+        "key": "e_1_3_3_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09687599.2013.776490"
+      },
+      {
+        "key": "e_1_3_3_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1352/1934-9556-61.6.481"
+      },
+      {
+        "key": "e_1_3_3_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09638288.2019.1570356"
+      },
+      {
+        "key": "e_1_3_3_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/nur.21768"
+      },
+      {
+        "key": "e_1_3_3_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/2165143420959793"
+      },
+      {
+        "key": "e_1_3_3_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3109/13668250.2023.2245276"
+      },
+      {
+        "key": "e_1_3_3_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09638288.2025.2534099"
+      },
+      {
+        "key": "e_1_3_3_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2288-9-52"
+      },
+      {
+        "key": "e_1_3_3_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1352/1934-9556-58.4.262"
+      },
+      {
+        "key": "e_1_3_3_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13676261.2020.1820972"
+      },
+      {
+        "key": "e_1_3_3_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s40474-020-00202-0"
+      },
+      {
+        "key": "e_1_3_3_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/nur.20362"
+      },
+      {
+        "key": "e_1_3_3_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1352/1934-9556-58.4.301"
+      },
+      {
+        "key": "e_1_3_3_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0034355221993542"
+      },
+      {
+        "key": "e_1_3_3_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10882-016-9479-z"
+      },
+      {
+        "key": "e_1_3_3_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1352/1934-9556-59.5.405"
+      },
+      {
+        "key": "e_1_3_3_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1362361319894827"
+      },
+      {
+        "key": "e_1_3_3_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10803-015-2480-z"
+      },
+      {
+        "key": "e_1_3_3_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/jar.12974"
+      }
+    ],
+    "container-title": [
+      "Journal of Vocational Rehabilitation"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/10522263251394318",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/10522263251394318",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/10522263251394318",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          20
+        ]
+      ],
+      "date-time": "2026-01-20T09:30:05Z",
+      "timestamp": 1768901405000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/10.1177/10522263251394318"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          4
+        ]
+      ]
+    },
+    "references-count": 30,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            1
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1177/10522263251394318"
+    ],
+    "URL": "https://doi.org/10.1177/10522263251394318",
+    "relation": {},
+    "ISSN": [
+      "1052-2263",
+      "1878-6316"
+    ],
+    "issn-type": [
+      {
+        "value": "1052-2263",
+        "type": "print"
+      },
+      {
+        "value": "1878-6316",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          4
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,827 @@
+FILENAME: cbaf1916514f-Rate-Setting-Methodology-Guide.pdf
+PATH: _raw/tacqe.com/cbaf1916514f-Rate-Setting-Methodology-Guide.pdf
+
+Rate-Setting 
+Methodology Guide
+
+Page 2 
+ 
+ 
+Table of Contents  
+Background/Purpose 3 
+Step 1: Know the Federal Requirements 4 
+RSA Regulations 4 
+Uniform Guidance (2 C.F.R. Part 200) 6 
+Step 2: Know Your State Requirements 14 
+Step 3: Identify What You Need 16 
+Step 4: Identify Required Qualifications 17 
+Step 5: Determine the Rate-Setting Methodologies 19 
+Criteria and Considerations for Choosing a Rate-Setting Methodology 20 
+Types of Methodologies 21 
+Types of Rates 23 
+Methods Commonly Used to Determine Price Reasonableness 26 
+Step 6: Develop Written Policies/Procedures 28 
+Resources 30
+
+Page 3 
+ 
+ 
+ 
+Background/Purpose 
+State Vocational Rehabilitation Agencies (SVRAs) are required to develop and maintain 
+written policies covering the nature and scope of each of the vocational rehabilitation 
+(VR) services specified in 34 C.F.R. § 361.48 a nd the criteria under which each service is 
+provided (34 C.F.R. § 361.50(a)) . Additionally, SVRAs must establish and maintain written 
+policies, procedures, and internal controls governing rate methodologies for all 
+purchased VR services, as described in VR’s program-specific regulatory requirements in 
+34 C.F.R. § 361.50(c). Applic able Federal and State requirements must be incorporated 
+into policies while carefully considering the intended purpose and relative benefits. 
+There are a variety of considerations that make this process complex and unique to each 
+State. 
+This document is not intended to serve as the required written policies that VR agencies 
+m
+ust establish and maintain as required by 34 C.F.R. § 361.50. Rather, this document 
+guides SVRAs through the various requirements and considerations related to the 
+development and implementation of rate-setting methodologies and gives guidance for 
+the completion of a policy/procedure that will assist SVRAs in implementing their 
+processes. Included is a basic roadmap of steps and important considerations. It is 
+unlikely that a single approach will apply to all rates; therefore, a comprehensive strategy 
+or process must be identified to address the various types of purchases. SVRAs are 
+responsible for expending and accounting for Federal awards by following Federal and 
+State requirements as well as the terms and conditions of the award.  
+Key regulatory references are provided throughout; however, they are not all-i
+ nclusive.  
+SVRAs must be familiar with governing regulations, particularly those that are State-
+specific. Additionally, SVRAs will benefit from coordination between their program and 
+fiscal staff throughout the process to align with the agency’s needs.  
+The following steps outline methods SVRAs may implement to help document the 
+agency’s overall process for rate setting.
+
+Page 4 
+ 
+ 
+ 
+ 
+Step 1: Know the Federal Requirements 
+SVRAs must develop and maintain written policies regarding the nature and scope of all 
+VR services, as well as the written process for establishing the rates themselves. When 
+considering requirements for rate-setting approaches, first consider the VR program 
+regulations defined in 34 C.F.R. Part 361. Additionally, Uniform Guidance, 2 C.F.R. Part 
+200, including the Federal cost principles, assists with meeting the provisions of the VR 
+program requirements.  
+RSA Regulations  
+It is essential to become familiar with VR program-specific requirements. In some 
+instances, the program regulations uphold requirements already in place through the 
+Uniform Administrative Requirements, Cost Principles, and Audit Requirements 
+for Federal Awards (Uniform Guidance, see above), and in others, further clarification is 
+provided, or there is an expansion of the requirements. A rate substantiated by 
+thoughtful consideration of program-level regulations is more likely to adequately 
+support the item or service, translating to quality and benefit to the VR program. These 
+provisions can all be accessed through RSA's website. Examples of regulations 
+applicable to the rate-setting process are as follows:
+
+Page 5 
+ 
+ 
+● 34 C.F.R. § 361.12 Methods of administration 
+● 34.C.F.R. § 361.48 Scope of vocational rehabilitation services for individuals 
+with disabilities 
+● 34 C.F.R. § 361.49 Scope of vocational rehabilitation services for groups of 
+individuals with disabilities 
+● 34 C.F.R. § 361.50 Written policies governing the provision of services for 
+individuals with disabilities 
+○ 34 C.F.R. § 361.50(a) Policies  
+The State unit must develop and maintain written policies covering the 
+nature and scope of each of the vocational rehabilitation services specified 
+in § 361.48 and the criteria under which each service is provided. The 
+policies must ensure that the provision of services is based on the 
+rehabilitation needs of each individual as identified in the individualized 
+plan for employment and is consistent with the individual’s informed 
+choice. The written policies may not establish any arbitrary limits on the 
+nature and scope of vocational rehabilitation services to be provided to the 
+individual to achieve an employment outcome. 
+○ 34 C.F.R. § 361.50(c) Payment for services 
+1. The State unit must establish and maintain written policies to govern the 
+rates of payment for all purchased vocational rehabilitation services. 
+2. The State unit may establish a fee schedule designed to ensure a 
+reasonable cost to the program for each service if the schedule is – 
+● Not absolute and permits exceptions so that individual needs can be 
+addressed. 
+3. The State unit may not place absolute dollar limits on specific service 
+categories or on the total services provided to an individual.
+
+Page 6 
+ 
+ 
+● 34 C.F.R. § 361.51 Standards for facilities and providers of services  
+a. Accessibility of facilities. The vocational rehabilitation services portion of 
+the Workforce Innovation and Opportunity Act (WIOA) State Plan must 
+ensure that any facility used in connection with the delivery of vocational 
+rehabilitation services under this part meets program accessibility 
+requirements consistent with the requirements, as applicable, of the 
+Architectural Barriers Act of 1968, the Americans with Disabilities Act of 
+1990, section 504 of the Rehabilitation Act of 1973, as amended by WIOA 
+(Rehabilitation Act), and the regulations implementing these laws. The costs 
+for making facilities accessible must be allocated to all benefiting cost 
+centers/programs. It is not just a VR responsibility. 
+b. Affirmative action. The vocational rehabilitation services portion of the 
+WIOA State Plan must assure that community rehabilitation programs that 
+receive assistance under part B of title I of the Rehabilitation Act take 
+affirmative action to employ and advance in employment qualified 
+individuals with disabilities covered under and on the same terms and 
+conditions as in section 503 of the Rehabilitation Act. 
+c. Special communication needs personnel. The designated State unit must 
+ensure that providers of vocational rehabilitation services are able to 
+communicate -- 
+1. In the native language of applicants and eligible individuals who have 
+limited English proficiency; and  
+2. By using appropriate modes of communication used by applicants and 
+eligible individuals. 
+Uniform Guidance (2 C.F.R. Part 200) 
+The Uniform Guidance reduces administrative burden and improves outcomes under 
+Federal awards. The following cost principles are applicable to rate-setting 
+methodologies, and any rate that is developed must be consistent with these standards:
+
+Page 7 
+ 
+ 
+● 2 C.F.R. § 200.403 Factors affecting allowability of costs;  
+● 2 C.F.R. § 200.404 Reasonable costs; and 
+● 2 C.F.R. § 200.405 Allocable costs. 
+The above-referenced citations highlight key aspects for consideration when developing 
+written policies for rate-setting methodologies. SVRAs must apply all requirements set 
+forth within 2 C.F.R. Part 200 and include State-spec ific requirements, keeping within the 
+requirements of the Rehabilitation Act and VR implementing regulations. These key 
+references may be easily identified using the acronym A-DRAN: 
+An Allowable cost must be …  
+● Documented 
+● Reasonable 
+● Allocable 
+● Necessary  
+ 
+A-DRAN r
+epresents allowability factors to consider when determining rates. Cost 
+strategies must be well documented, and costs must be reasonable in the judgment of a 
+prudent person considering the purpose for which funds are being used. 
+Costs must also be allocated to a program in accordance with the relative benefits 
+received by the program. If other costs are determined to solely benefit another 
+program other than VR, the costs must be charged to that program. When costs benefit
+
+Page 8 
+ 
+ 
+multiple programs, they must be allocated in proportion to the relative benefits received 
+by each program.  
+Finally, costs must be necessary for the performance of the VR award. 
+2 C.F.R. § 200.403 Factors affecting allowability of costs 
+Except where otherwise authorized by statute, costs must meet the following general 
+criteria to be allowable under Federal awards: 
+a. Be necessary and reasonable for the performance of the Federal award and be 
+allocable under these principles. 
+b. Conform to any limitations or exclusions set forth in these principles or in the 
+Federal award as to types or amount of cost items. 
+c. Be consistent with policies and procedures that apply uniformly to both 
+Federally-financed and other activities of the non-Federal entity. 
+d. Be accorded consistent treatment. A cost may not be assigned to a Federal 
+award as a direct cost if any other cost incurred for the same purpose in like 
+circumstances has been allocated to the Federal award as an indirect cost. 
+e. Be determined in accordance with generally accepted accounting principles 
+(GAAP), except for State and local governments and American Indian programs 
+only, as otherwise provided for in this part. 
+f. Not be included as a cost or used to meet cost sharing or matching 
+requirements of any other Federally-financed program in either the current or a 
+prior period. (See also § 200.306(b).) 
+g. Be adequately documented. (See also § 200.302 o f this part.)  
+2 C.F.R. § 200.404 Reasonable Costs 
+A cost is REASONABLE if, in its nature and amount, it does not exceed that which would 
+be incurred by a prudent person under the circumstances prevailing at the time the 
+decision was made to incur the cost.
+
+Page 9 
+ 
+ 
+In determining reasonableness of a given cost, consideration must be given to: 
+a. Whether the cost is of a type generally recognized as ordinary and necessary for 
+the operation of the non-Federal entity or the proper and efficient performance of 
+the Federal award. 
+b. The restraints or requirements imposed by such factors as: sound business 
+practices; arm’s-length bargaining; Federal, State, and other laws and regulations; 
+and terms and conditions of the Federal award. 
+c. Market prices for comparable goods or services for the geographic area. 
+d. Whether the individuals concerned acted with prudence in the circumstances 
+considering their responsibilities to the non-Federal entity, its employees, where 
+applicable its students or membership, the public at large, and the Federal 
+government. 
+e. Whether the non-Federal entity significantly deviates from its established practices 
+and policies regarding the incurrence of costs, which may unjustifiably increase 
+the Federal award’s cost. 
+2 C.F.R. § 200.405 Allocable costs 
+a. A cost is allocable to a particular Federal award or other cost objective if the goods 
+or services involved are chargeable or assignable to that Federal award or cost 
+objective in accordance with relative benefits received. This standard is met if the 
+cost: 
+1. Is incurred specifically for the Federal award;  
+2. Benefits both the Federal award and other work of the non-Federal entity 
+and can be distributed in proportions that may be approximated using 
+reasonable methods; and  
+3. Is necessary to the overall operation of the non-Federal entity and is 
+assignable in part to the Federal award in accordance with the principles in 
+this subpart.
+
+Page 10 
+ 
+ 
+b. All activities which benefit from the non-Federal entity's indirect Finance & 
+Administration (F&A) cost, including unallowable activities and donated services by 
+the non-Federal entity or third parties, will receive an appropriate allocation of 
+indirect costs.  
+c. Any cost allocable to a particular Federal award under the principles provided for 
+in this part may not be charged to other Federal awards to overcome fund 
+deficiencies, to avoid restrictions imposed by Federal statutes, regulations, or 
+terms and conditions of the Federal awards, or for other reasons. However, this 
+prohibition would not preclude the non-Federal entity from shifting costs that are 
+allowable under two or more Federal awards in accordance with existing Federal 
+statutes, regulations, or the terms and conditions of the Federal awards.  
+d. Direct cost allocation principles: If a cost benefits two or more projects or activities 
+in proportions that can be determined without undue effort or cost, the cost must 
+be allocated to the projects based on the proportional benefit. If a cost benefits 
+two or more projects or activities in proportions that cannot be determined 
+because of the interrelationship of the work involved, then, notwithstanding 
+paragraph (c) of this section, the costs may be allocated or transferred to 
+benefitted projects on any reasonable documented basis. Where the purchase of 
+equipment or other capital asset is specifically authorized under a Federal award, 
+the costs are assignable to the Federal award regardless of the use that may be 
+made of the equipment or other capital asset involved when no longer needed for 
+the purpose for which it was originally required. See also §§ 200.310 through 
+200.316 and 200.439. 
+e. If the contract is subject to Cost Accounting Standards (CAS), costs must be 
+allocated to the contract pursuant to the Cost Accounting Standards. To the extent 
+that CAS is applicable, the allocation of costs in accordance with CAS takes 
+precedence over the allocation provisions in this part. 
+“Relative benefits received,” as discussed at 2 C.F.R. § 200.405(a), 
+ may be measured in 
+different ways, depending upon the cost being allocated. Any metric used to allocate 
+costs under a Federal award must be in proportion to relative benefits received, as well 
+as reasonable, logical, repeatable, and stable over time. An obvious cause-and-effect
+
+Page 11 
+ 
+ 
+relationship must exist. For example, square footage is a reasonable and logical means 
+of allocating rent costs, and the relationship between the cost (rent) and the basis 
+(square footage) for the allocation demonstrates proportionate benefits received. A 
+greater and proportionate benefit (caused by more square footage) should logically 
+result in greater costs (the effect of higher rent or a higher share of rent). The allocation 
+of telecommunication costs based on square footage may not demonstrate 
+proportionate relative benefits received. For example, supervisors may have larger 
+offices; however, that does not mean they will have higher telecommunication costs. 
+Therefore, assigning the cost of telecommunications on a square footage basis would 
+likely not meet the requirement for proportionality. A more reasonable allocation basis 
+might be per FTE. 
+Pay close attention to the other regulatory requirements within 2 C.F.R. Part 200 when 
+developing rate-setting strategies. The following are examples of other regulatory 
+references: 
+2 C.F.R. § 200.302 Financial management 
+a.  Each State must expend and account for the Federal award in accordance with 
+State laws and procedures for expending and accounting for the State's own 
+funds. In addition, the State's and the other non-Federal entity's financial 
+management systems, including records documenting compliance with Federal 
+statutes, regulations, and the terms and conditions of the Federal award, must be 
+sufficient to permit the preparation of reports required by general and program-
+specific terms and conditions; and the tracing of funds to a level of expenditures 
+adequate to establish that such funds have been used according to the Federal 
+statutes, regulations, and the terms and conditions of the Federal award.  
+b. The financial management system of each non-Federal entity must provide for the 
+following: 
+1. Written procedures for determining the allowability of costs in accordance with 
+subpart E of this part and the terms and conditions of the Federal award.
+
+Page 12 
+ 
+ 
+Some SVRAs have State exemptions for part of the State’s procurement process to 
+expedite consumer services or consumer purchases. The Uniform Guidance at 2 C.F.R. § 
+200.302 (a) does not imply that a State may exempt itself from procurement processes 
+and, therefore, be exempt from the Uniform Guidance requirements. SVRAs must 
+ensure that even their exempt practices are consistent with the A-DRAN.  
+2 C.F.R. § 200.303 Internal Controls  
+a. Establish and maintain effective internal control over the Federal award that 
+provides reasonable assurance that the non-Federal entity is managing the 
+Federal award in compliance with Federal statutes, regulations, and the terms and 
+conditions of the Federal award. These internal controls should be in compliance 
+with guidance in Standards for Internal Control in the Federal Government 
+issued by the Comptroller General of the United States or the Internal Control 
+Integrated Framework issued by the Committee of Sponsoring Organizations of 
+the Treadway Commission (COSO).  
+b. Comply with the U.S. Constitution, Federal statutes, regulations, and the terms 
+and con
+ditions of the Federal awards.  
+c. Evaluate and monitor the non-Federal entity's compliance with statutes, 
+regulations, and the terms and conditions of Federal awards.  
+d. Take prompt action when instances of noncompliance are identified, including 
+noncompliance identified in audit findings.  
+e. Take reasonable measures to safeguard protected personally identifiable 
+information and other information the Federal awarding agency or pass-through 
+entity designates as sensitive, or the non-Federal entity considers sensitive 
+consistent with applicable Federal, State, local, and tribal laws regarding privacy 
+and responsibility over confidentiality. 
+2 C.F.R. § 200.317 Procurements by States. 
+When procuring property and services under a Federal award, a State must follow the 
+same policies and procedures it uses for procurements from its non-Federal funds. The
+
+Page 13 
+ 
+ 
+State will comply with §§ 200.321, 200.322, and 200.323 and ensure that every purchase 
+order or other contract includes any clauses required by § 200.327. 
+2 C.F.R. § 200.459 Professional Service Costs  
+a. Costs of professional and consultant services rendered by persons who are members 
+of a particular profession or possess a special skill and who are not officers or 
+employees of the non-Federal entity, are allowable, subject to paragraphs (b) and (c) 
+of this section when reasonable in relation to the services rendered and when not 
+contingent upon recovery of the costs from the Federal Government. In addition, 
+legal and related services are limited under 2 C.F.R. § 200.435. 
+b. In determining the allowability of costs in a particular case, no single factor or any 
+special combination of factors is necessarily determinative. However, the following 
+factors are relevant: 
+1. The nature and scope of the service rendered in relation to the service required. 
+2. The necessity of contracting for the service, considering the non-Federal entity's 
+capability in the particular area. 
+3. The past pattern of such costs, particularly in the years prior to Federal awards. 
+4. The impact of Federal awards on the non-Federal entity's business (e.g., what 
+new problems have arisen). 
+5. Whether the proportion of Federal work to the non-Federal entity's total 
+business is such as to influence the non-Federal entity in favor of incurring the 
+cost, particularly where the services rendered are not of a continuing nature 
+and have little relationship to work under Federal awards. 
+6. Whether the service can be performed more economically by direct 
+employment rather than contracting. 
+7. The qualifications of the individual or concern rendering the service and the 
+customary fees charged, especially on non-Federally funded activities. 
+8. Adequacy of the contractual agreement for the service (e.g., description of 
+service, estimate of time required, rate of compensation, termination provisions).
+
+Page 14 
+ 
+ 
+ 
+Step 2: Know Your State Requirements 
+SVRAs are required to follow their State procurement processes pursuant to the Uniform 
+Guidance Requirements at 2 C.F.R. § 200.317. 
+Due to the unique and complex nature of State requirements and to determine whether 
+such requirements affect how a VR agency establishes rates of payment for purchased 
+VR services, SVRAs need to know their State statutory authority for procurement, 
+responsibilities of central procurement offices (if applicable), requirements or limitations 
+based upon the type of procurement, and vendor and solicitation requirements. 
+State procurement regulatory and administrative requirements can be found in, but are 
+not limited to, the following: 
+● Statutes enacted by State legislatures; 
+● Code of State regulations; 
+● State statute authority; and 
+● State operations service division or State department of general services 
+procurement handbook. 
+State procurement procedure requirements can be found in multiple State policies, 
+including, but not limited to, the following: 
+● State procurement codes; 
+● State cooperative agreement policies;
+
+Page 15 
+ 
+ 
+● State per diem allowances and travel requirements; 
+● Statutes enacted by State legislatures; and  
+● State internal control guides. 
+Rates for the procurement of VR goods and services are generally established through 
+the following methods: 
+● Public solicitation using authority for local purchase (e.g., informal comparison 
+pricing, formal requests for proposal (RFPs), etc.); 
+● Centralized State procurement processes and procedures (e.g., State travel per 
+diem rates); 
+● Potential single source/exclusive contracts; 
+● Negotiated professional and technical contracts; 
+● IRS issued standard mileage rates; 
+● U.S. General Services Administration (GSA) published per diem rates; 
+● Established fee schedules through similar services such as Medicaid and Medicare 
+rates; and 
+● Local minimum wage laws and prevailing wages for occupations. 
+An awareness of the above methods is essential as the SVRA addresses its approach to 
+establishing payment rates for all purchased VR services.
+
+Page 16 
+ 
+ 
+ 
+ 
+Step 3: Identify What You Need 
+Coordinate with program and fiscal staff to develop a list of needed goods and services 
+for administrative and program purposes. This list will support the development of a 
+comprehensive strategy to assign rate methods for all goods and services, taking into 
+consideration available organizational resources, expertise, and capacity for design and 
+implementation. In addition, the Comprehensive Statewide Needs Assessment (CSNA) 
+will assist the SVRA in identifying additional service gaps that can be incorporated into 
+the overall list.
+
+Page 17 
+ 
+ 
+ 
+Step 4: Identify Required Qualifications 
+Map out the qualifications necessary for goods or services to determine vendor 
+expectations, which may include the following:   
+1. Meets Qualifications  
+● Possesses a requisite level of education, training, years of experience, 
+and evidence of certifications as applicable. 
+● Able to do business with the State and have not been suspended or 
+debarred by the State or Federal government. 
+● Can provide references demonstrating acceptable prior performance. 
+● Successful completion of a background check (e.g., applies to any service 
+provider who will be alone with customers in delivering services). 
+● A minimum level of insurance is maintained as determined by the 
+agency, department, and/or State regulations (e.g., Errors and Omissions 
+or Business Owner’s Policy (BOP)). 
+2. Responsive: Provides quality, timely, and consistent communication with 
+rehabilitation professionals and customers. The SVRA must define 
+expectations of quality, timeliness, and consistency.
+
+Page 18 
+ 
+ 
+ 
+3. Available and Accessible: Meets with customers regularly and provides 
+accessible environments and methods of communication. 
+4. Provides Timely Reports and Invoices: Provides frequent, accurate, 
+consistent reports and invoices. Reports and invoices must be typed and 
+not handwritten.  
+5. Ethical: Adheres to the highest ethical behavior and treats SVRA 
+Rehabilitation Professionals and customers with respect. 
+In addition to other service provider requirements, Community Rehabilitation Programs 
+(CRPs) should be licensed, certified, registered, or accredited for the specific training or 
+services that they provide. Facilities providing services must adhere to the following: 
+1. Be ADA compliant.  
+2. Provide appropriate accommodations. 
+3. Be staffed in such a manner that meets the criteria for affirmative 
+action. 
+4. Have policies in place to prevent fraud, waste, and abuse. 
+5. Not be suspended or debarred or have principal leadership that is 
+suspended or debarred. 
+These requirements should ultimately be included within any contracts or agreements.
+
+Page 19 
+ 
+ 
+ 
+Step 5: Determine the Rate-Setting Methodologies 
+Identify and document the appropriate rate-setting methodology for each good or 
+service. The rates may vary or be tiered according to a predetermined set of conditions, 
+such as services provided to specialized populations or the requirement of specialized 
+skills or minimum educational requirements (e.g., bachelor’s degree). A rate differential 
+may be determined based upon the level of provider effort and/or the intensity of the 
+service as determined by the unique needs of the individuals to be served (e.g., the need 
+for a provider who is fluent in American Sign Language).  
+As discussed in Step 2, it is important to understand the State’s procurement regulations 
+and requirements when determining the methods to use. Note: There is a difference 
+between having a State-mandated contract for certain services (e.g., interpreter contract) 
+versus a methodology in place for a service. The latter would still require the VR agency 
+to assess the extent to which VR requirements and Federal cost principles are 
+implemented, although the established rate may be one point of comparison in 
+determining reasonableness and establishing VR’s rates. 
+Within these methods of procurement, some processes can further refine the rates that 
+are established. The processes used should be incorporated into written procedures. 
+When implementing the procedures, make sure documentation includes the “what” and 
+“how,” as well as the reasonableness of the rates.
+
+Page 20 
+ 
+ 
+Criteria and Considerations for Choosing a Rate-Setting Methodology  
+The table below provides several criteria with considerations that could be applied to 
+assess each methodology when determining a preferred approach. 
+ 
+Criteria Specific Considerations 
+Validity  Does the method accurately measure (or produce) the desired 
+information, products, and services?  
+Captures 
+variation  
+Does the method capture variation in price or cost structure along 
+relevant dimensions such as provider type, provider quality, 
+geographic location, or other factors affecting the cost to provide a 
+service(s)?  
+Timeliness  Does the method reflect current conditions, or is it out of date?  
+Cost  What is the cost to administer or maintain the information collected 
+for the rate method, and is it cost-effective?  
+Transparency  How is the information resulting from the method used, and is it 
+understandable to personnel, providers, and other 
+stakeholders? How will the VR agency inform or train CRPs and 
+vendors about new service rates or changes to existing rates? 
+Stability  Does the method capture real market trends or random 
+fluctuations?  
+Capacity Does the SVRA have the capacity to apply the method? 
+Knowledge Does the SVRA have the knowledge to apply the method?
+
+Page 21 
+ 
+ 
+Types of Methodologies  
+a. Surveying  
+Surveying is one approach that SVRAs may use to inform its process for 
+establishing rates. There are multiple options to consider, including the following 
+examples. 
+1. This may include surveying States within a geographic region. SVRAs may 
+use the following regional format, as designated by CSAVR, as a starting 
+point for States to contact. 
+● Region 1: Connecticut, Maine, Massachusetts, New Hampshire, New 
+York, Rhode Island, Vermont 
+● Region 2: CSAVR maintained the historical Regional Numbers, even 
+when Region 2 was restructured. There are no states assigned to this 
+region. 
+● Region 3: Delaware, Maryland, Pennsylvania, Virginia, West Virginia, 
+District of Columbia, New Jersey 
+● Region 4: Alabama, Florida, Georgia, Kentucky, Mississippi, North 
+Carolina, South Carolina, Tennessee, Puerto Rico, Virgin Islands 
+● Region 5: Illinois, Indiana, Michigan, Minnesota, Ohio, Wisconsin 
+● Region 6: Arkansas, Louisiana, New Mexico, Oklahoma, Texas 
+● Region 7: Iowa, Kansas, Missouri, Nebraska 
+● Region 8: Colorado, Montana, North Dakota, South Dakota, Utah, 
+Wyoming 
+● Region 9: Arizona, California, Hawaii, Nevada, Guam, CNMI, American 
+Samoa 
+● Region 10: Alaska, Idaho, Oregon, Washington  
+2. Blind agencies may survey other Blind agencies that provide similar 
+services.
+
+Page 22 
+ 
+ 
+Visit the National Council of State Agencies for the Blind and download 
+the Separate Agencies for the Blind document (docx) under the 
+Resources section. 
+● Comparing rates with other States will inform rate setting,  but it may 
+not determine proportionality. For example, most States have different 
+tax rates, minimum wage requirements, business regulations, etc. 
+Therefore, the costs for providing a service in one State will be different 
+for the same service provided in a different State.  
+● In states with both a Blind and general agency, discuss rates established 
+by the other entity. 
+● Talk with other State agencies that may provide the same services. For 
+example, the Department of Education and the Department of Human 
+Services often have providers that deliver similar services (e.g., job 
+coaching) to their respective customers. 
+● Talk to CRPs and providers that serve other State or private entities. 
+Review rates the other entities pay for the same services or similar 
+services to determine if VR's established or proposed rates with the CRP 
+and providers are comparable, reasonable, and necessary.  
+b. Contract With Experts  
+Some SVRAs have chosen to contract with experts who can assist with the creation 
+of a rate structure. Typically, these experts are housed within an actuarial, 
+governmental consulting, accounting firm, or other entity that can meet the 
+requirements outlined in the scope of work and subsequent proposal requests. 
+Talk with other SVRAs to get recommendations, as many of these experts work 
+nationwide.  
+c. Individual Negotiation with Vendors  
+Once you have established a base rate for the service, you may need to include 
+justifiable modifiers. For example, if there is only one provider in a rural area that 
+averages twice as much time traveling to/from meetings with consumers than 
+other providers in the State, a modification may be required. The SVRA may
+
+Page 23 
+ 
+ 
+permit the contractor to bill for mileage in excess of the number of miles included 
+in the base rate for the service. Another example may be when a primarily rural 
+State has a city with a high cost of living (e.g., property values, wages, etc.). In such 
+instances, the State may need to modify the base rate to include additional 
+reimbursement for providers located in a specific geographical area. Vendor 
+overhead costs may also be considered. 
+1. SVRAs may request vendors to supply a breakdown of these costs on a 
+routine basis. 
+2. Other factors to consider include the lack of service availability for 
+underserved regions and populations. This may necessitate varied rates per 
+geographic region. 
+3. After the items mentioned above are considered, the base rate calculation 
+is modified as necessary, and a final rate is determined. Supporting 
+documentation regarding the basis for modification and how the 
+modification costs were calculated must be maintained.   
+A statement of the vendor’s cost for providing a service does not mean those costs 
+are reasonable or necessary and that the VR agency must “accept” the costs and/or 
+suggested rate provided by the vendor. The VR agency must be able to support the 
+basis upon which the costs are justified. For example, many pre-employment 
+transition service (Pre-ETS) contracts include personnel costs; however, agencies 
+are rarely able to provide details as to the qualifications of the personnel providing 
+the services. To determine the appropriate personnel costs, the personnel 
+qualifications must be clear, as professionals are typically paid differing amounts 
+depending upon qualifications required for the position. For example, having two 
+different Pre-ETS contracts providing the same services with markedly different 
+personnel costs may raise questions as to the reasonableness of personnel costs in 
+the higher reimbursement contract. 
+Types of Rates 
+An overall rate-setting policy may include multiple methodologies for different types of 
+rates, depending on the various types of purchased VR services. Keep in mind that within 
+a service type, a base rate may be necessary, with additional amounts added on for
+
+Page 24 
+ 
+ 
+qualifying factors. For example, for the job coaching base rate, the cost of doing business 
+in an urban area, where housing costs are three times higher, could allow for an 
+increased amount. Additionally, in rural areas where extensive travel time is required 
+due to geography, there may be an additional amount as well. Some services require a 
+special skill set, such as sign language interpretation, and a higher rate is substantiated.  
+Within each service, think about the complexities and nuances of service delivery when 
+considering qualifying factors. The list below provides examples of rate types. Within 
+each type, think about whether a single base rate is adequate to secure the services 
+needed.  
+a. Fee-for-Service 
+Under the Fee-for-Service method, the agency establishes either fixed or 
+predetermined rates for a single service according to units, typically measured in 
+time (e.g., per minute, hour, day, etc.) or module. This is commonly referred to as 
+an hourly rate or a rate for a specific project module. This rate is established from 
+an analysis of customary or market rates for the services to be provided and/or a 
+review of the budget proposed by vendors to perform the service. This approach 
+can be further refined within designated geographic areas.  
+Under a customary or market rate, the agency will adopt the fair market price for 
+an established service. For example, an agency may adopt a fee schedule used by 
+the State, or goods may be available under contract for all State agencies at an 
+already negotiated market rate. Similar services may already be purchased 
+through other programs like the State’s Medicaid program or Developmental 
+Disabilities program. 
+b. Value-Based Purchasing Model  
+Value-based purchasing (VBP), also known as a performance-based or milestone 
+payment, is a model that offers financial incentives to providers for meeting 
+certain performance or outcome measures. Purchasing is based on value rather 
+than purchasing based on costs. As SVRAs look to improve outcomes for 
+individuals with disabilities, the quality of purchased VR services, and overall cost-
+effectiveness, a value-based approach may be an option.
+
+Page 25 
+ 
+ 
+If considering a VBP model, SVRAs should ensure provider performance measures 
+align with the WIOA performance indicators, achievement of high-quality 
+employment, or other impactful outcomes important to the SVRA and VR 
+program. Additionally, sustainability is a point to assess for both the SVRA and 
+provider(s) when setting performance measures and payment structures.  
+A central tenet of VBP is the shift in paying for value and outcomes rather than 
+pa
+ying for units of service, regardless of the outcome. As such, providers who 
+deliver exemplary work benefit financially for their efficiency and effectiveness. 
+The U.S. Department of Labor, Office of Disability Employment Policy publication 
+authored by Lisa Mills, Ph.D., provides additional information: Value-Based 
+Payment Methodologies to Advance Competitive Integrated Employment:  A 
+Mix of Inspiring Examples from Across the Country (2021). 
+SVRAs will want to take a thoughtful approach in the development of the 
+performance measures they seek to incentivize when aiming to improve 
+outcomes to ensure they will be sustainable for the agency and provider. 
+Additionally, SVRAs should ensure that metrics for provider performance are 
+aligned with the WIOA performance indicators.  
+Performance-based contracting typically starts with defining the desired service 
+outcomes. When looking at employment services, phases could include 
+assessment, job development, job placement, related training leading to 
+employment stabilization, and job support. 
+Once service outcomes are clear, then define the specific benchmarks or 
+milestones and the criteria that qualify for reimbursement. Each service outcome 
+may be reimbursed at one or more benchmarks. For example, an SVRA could 
+reimburse a provider at one rate for submitting a plan assessment and another 
+rate when the final assessment report is complete. Or, alternatively, the SVRA 
+could choose to merge those two benchmarks and pay after the final report.
+
+Page 26 
+ 
+ 
+1. A critical step in defining payment points is identifying the criteria that 
+represent each benchmark’s successful attainment. For example, to pay for a 
+successful employment outcome, the individual must be employed for a 
+minimum of 90 days in a job consistent with their individualized plan for 
+employment (IPE), and the individual must be satisfied with their job and the 
+number of hours of work per week, in consultation with their vocational 
+rehabilitation counselor. Payment is made after the criteria are met.   
+2. Establish a fee for each payment point. This could be done jointly by a 
+formalized bidding process, negotiations with a provider or provider group, 
+or the structure could be determined statewide by the VR agency and applied 
+to all service providers. 
+3. When analyzing bids or negotiations, the SVRA can look at historical data on 
+what the VR agency has paid for that service, regional cost variations, 
+provider cost information, and specific disability group nuances for service. 
+4. If the VR agency decides it is appropriate to establish fees statewide, the 
+SVRA could analyze the historical data on past expenditures and outcomes to 
+help determine the fee level set statewide. 
+5. SVRAs must ensure that payments are only for outcomes achieved while the 
+individual has an active IPE. Payment for outcomes based upon time after the 
+individual has achieved an employment goal and the IPE is closed is not 
+proportional to the benefit received since no VR services can be provided 
+after the IPE is closed and the participant is inactive.  
+This list is not exhaustive, however, and there are more possibilities that can be explored 
+with your RSA Financial Management Specialist.  
+Methods Commonly Used to Determine Price Reasonableness  
+SVRAs must ensure that the cost of goods and services is fair and reasonable. Each price 
+analysis or cost analysis MUST be documented in writing.  
+● Adequate price competition: Multiple offers are solicited, incorporating a 
+clear and accurate description of the technical requirements for the material,
+
+Page 27 
+ 
+ 
+product, or service to be procured, identifying all requirements that must be 
+fulfilled, along with all other factors to be used in evaluating bids. Offers are 
+reviewed and compared, factoring in, at a minimum, the ability to meet the 
+requirements in the most cost-effective manner.  
+● Comparable to price sold to Federal government: The vendor also enters 
+into contracts with the Federal government. If the vendor cites a GSA 
+contract price, the SVRA will also want the GSA contract number to verify. 
+● Historical price: If there is a history of purchasing the good or service over 
+several years and the cost was established using a cost-effective approach, 
+the SVRA can use this information, considering inflation factors, to determine 
+the price that is fair and reasonable. Document the historical pricing 
+summary (copies of computer reports or spreadsheets with the agreed-upon 
+rates by year). Note: If the SVRA has a history of underpaying or overpaying 
+for goods and services, then the historical price should not be used. 
+● Comparison to in-house estimate: Compare the rate that the providers are 
+charging for a service to the rate that the SVRA would pay for staff time and 
+benefits to perform the same task. Factor in the expected qualifications for 
+the direct comparison. 
+● Comparison to similar items: The vendor contracts with various entities 
+and charges this similar rate to all entities (e.g., Department of Education, 
+Department of Human Services). Document who the SVRA talked to at the 
+entity, the date, and the rate they pay. The SVRA must still ensure the cost is 
+fair and reasonable.  
+● Cost analysis: A cost analysis looks at the individual elements of the price 
+(e.g., labor rates, direct and indirect administrative costs, mileage and travel 
+costs, inflation). 
+● Other factors: Look at other factors such as geography and any additional 
+costs related to location and specific populations (e.g., the SVRA is 
+contracting for a job coach who can also provide sign language interpretation 
+for an individual who is Deaf; instead of paying for both an interpreter and
+
+Page 28 
+ 
+ 
+job coach, the SVRA should factor in an increased rate for handling both 
+duties).  
+ 
+Step 6: Develop Written Policies/Procedures 
+Documentation has been referenced numerous times throughout this guide because it 
+is both important and required. A SVRA must document and incorporate rate-setting 
+methodologies within written policies and procedures. The following should be 
+considered and outlined:   
+a. SVRAs should ensure that documented procurement procedures follow applicable 
+state, local, and tribal laws and regulations, provided that the procurements 
+conform to applicable Federal regulations and the standards identified in 2 C.F.R. 
+Part 200. Agencies’ written procurement processes should also incorporate a 
+clear and accurate description of the technical requirements for the procured 
+good or service. 
+b. Identify staff position(s) responsible for developing and maintaining established 
+r
+ates. This responsibility is typically coordinated by central office administrative 
+staff and generally should not be placed with vocational rehabilitation counselors 
+(although VR counselor input may help inform elements of the VR agency’s 
+approach to implementing policies).  
+c. Identify all the types of purchased VR services in which established rates are 
+needed, consistent with the nature and scope defined in 34 C.F.R. § 361.48. 
+d. Provide a clear description of how rates are established within each service type.
+
+Page 29 
+ 
+ 
+e. Identify the effective dates of the rates and the frequency of rate updates (e.g., 
+rates are good for three years) and a descriptive process to analyze economic 
+changes, educational requirements, or identification of other factors that would 
+require a SVRA to initiate a review of one or more rates for services prior to the 
+end of a specified time period. 
+f. Document how the methodology will be applied consistently to ensure rates are 
+applied the same way in similar circumstances, including the use of technology 
+systems (e.g., case management system and/or State financial system). While 
+methodologies should be applied consistently, the same rate does not have to be 
+used for the same service in all circumstances (e.g., urban versus rural variations).  
+g. Describe the process for determining the reasonableness of rates.  
+h. Prior to policy implementation, ensure the requirements in 34 C.F.R. § 361.20 are 
+followed. The provisions include that the SVRA must conduct public meetings prior 
+to the adoption of any substantiative policy and/or procedural changes. This 
+requirement also includes input from the Statewide Rehabilitation Council (SRC). 
+i. Establish a communication plan so staff is aware of established rates and updates. 
+F
+or some services, it may be necessary to also document the process for 
+communication and collaboration with external stakeholders, including CRPs and 
+vendors. 
+j. Identify a process for maintaining historical records of rate types for the various 
+types of services.  
+Finally, consider the SVRA’s availability to leverage technology systems when managing 
+rates. Statewide accounting systems and VR case management systems sometimes have 
+the ability to track rates and incorporate them electronically within the procurement 
+process. Internal controls are often built in, such as effective date parameters, security 
+access controls, etc.   
+Reach out to your RSA Financial Management Specialist or the VRTAC-QM fiscal team if 
+you have questions or need assistance.
+
+Page 30 
+ 
+ 
+Resources 
+● CMS Documentation of Rate-Setting Methodology 
+● Value-Based Payment Methodologies to Advance Competitive Integrated 
+Employment:  A Mix of Inspiring Examples from Across the Country 
+● Paying for Success: Results-Based Approaches to Funding Supported 
+Employment (pdf) 
+● Methods Commonly Used to Determine Price Reasonableness 
+This product was developed by the VRTAC-QM, a project funded under #H264J200002 of the 
+U.S. Department of Education (Department). The information contained in this product does 
+not necessarily reflect the position or policy of the Department, and no official endorsement 
+should be inferred.

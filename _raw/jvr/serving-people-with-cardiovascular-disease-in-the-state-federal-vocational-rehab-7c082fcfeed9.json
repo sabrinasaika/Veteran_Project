@@ -1,0 +1,1401 @@
+{
+  "source_type": "jvr_pdf_candidate",
+  "doi": "10.1177/10522263261430651",
+  "doi_url": "https://doi.org/10.1177/10522263261430651",
+  "source_url": "https://journals.sagepub.com/doi/10.1177/10522263261430651",
+  "attempted_pdf_urls": [
+    "https://journals.sagepub.com/doi/pdf/10.1177/10522263261430651",
+    "https://journals.sagepub.com/doi/10.1177/10522263261430651",
+    "https://doi.org/10.1177/10522263261430651",
+    "https://content.iospress.com/download?id=10.1177/10522263261430651"
+  ],
+  "selected_pdf_url": "",
+  "selected_final_url": "",
+  "download_status": "unavailable",
+  "match": {
+    "veteran_hits": [
+      "va "
+    ],
+    "pathway_hits": [
+      "employment",
+      "career",
+      "vocational rehabilitation"
+    ],
+    "disability_hits": []
+  },
+  "openalex": {
+    "id": "https://openalex.org/W7138256649",
+    "doi": "https://doi.org/10.1177/10522263261430651",
+    "title": "Serving People with Cardiovascular Disease in the State-Federal Vocational Rehabilitation Program: A Sequenced Case Management Approach from Outreach to Case Closure",
+    "display_name": "Serving People with Cardiovascular Disease in the State-Federal Vocational Rehabilitation Program: A Sequenced Case Management Approach from Outreach to Case Closure",
+    "publication_year": 2026,
+    "publication_date": "2026-03-17",
+    "ids": {
+      "openalex": "https://openalex.org/W7138256649",
+      "doi": "https://doi.org/10.1177/10522263261430651"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/10522263261430651",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/10522263261430651",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S190353498",
+        "display_name": "Journal of Vocational Rehabilitation",
+        "issn_l": "1052-2263",
+        "issn": [
+          "1052-2263",
+          "1878-6316"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310318577",
+        "host_organization_name": "IOS Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310318577"
+        ],
+        "host_organization_lineage_names": [
+          "IOS Press"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Vocational Rehabilitation",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5121859217",
+          "display_name": "Phillip Rumrill",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I87216513",
+            "display_name": "Michigan State University",
+            "ror": "https://ror.org/05hs6h993",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I87216513"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Phillip D Rumrill",
+        "raw_affiliation_strings": [
+          "Michigan State University"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Michigan State University",
+            "institution_ids": [
+              "https://openalex.org/I87216513"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5062578637",
+          "display_name": "Sukyeong Pi",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I87216513",
+            "display_name": "Michigan State University",
+            "ror": "https://ror.org/05hs6h993",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I87216513"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Sukyeong Pi",
+        "raw_affiliation_strings": [
+          "Michigan State University"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Michigan State University",
+            "institution_ids": [
+              "https://openalex.org/I87216513"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5017790485",
+          "display_name": "Lynn C. Koch",
+          "orcid": "https://orcid.org/0000-0002-3162-8883"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I78715868",
+            "display_name": "University of Arkansas at Fayetteville",
+            "ror": "https://ror.org/05jbt9m15",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I78715868"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Lynn C Koch",
+        "raw_affiliation_strings": [
+          "Department of Counseling, Leadership, and Research Methods, University of Arkansas"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Counseling, Leadership, and Research Methods, University of Arkansas",
+            "institution_ids": [
+              "https://openalex.org/I78715868"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 3,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5121859217"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I87216513"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.91797888,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": null,
+      "issue": null,
+      "first_page": null,
+      "last_page": null
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11083",
+      "display_name": "Cardiac Health and Mental Health",
+      "score": 0.44040000438690186,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2705",
+        "display_name": "Cardiology and Cardiovascular Medicine"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11083",
+        "display_name": "Cardiac Health and Mental Health",
+        "score": 0.44040000438690186,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2705",
+          "display_name": "Cardiology and Cardiovascular Medicine"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11759",
+        "display_name": "Occupational Therapy Practice and Research",
+        "score": 0.11240000277757645,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3609",
+          "display_name": "Occupational Therapy"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/36",
+          "display_name": "Health Professions"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11084",
+        "display_name": "Workplace Health and Well-being",
+        "score": 0.09539999812841415,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3600",
+          "display_name": "General Health Professions"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/36",
+          "display_name": "Health Professions"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/outreach",
+        "display_name": "Outreach",
+        "score": 0.8216999769210815
+      },
+      {
+        "id": "https://openalex.org/keywords/rehabilitation",
+        "display_name": "Rehabilitation",
+        "score": 0.5921000242233276
+      },
+      {
+        "id": "https://openalex.org/keywords/closure",
+        "display_name": "Closure (psychology)",
+        "score": 0.5436999797821045
+      },
+      {
+        "id": "https://openalex.org/keywords/quality-of-life",
+        "display_name": "Quality of life (healthcare)",
+        "score": 0.536899983882904
+      },
+      {
+        "id": "https://openalex.org/keywords/vocational-education",
+        "display_name": "Vocational education",
+        "score": 0.49639999866485596
+      },
+      {
+        "id": "https://openalex.org/keywords/case-management",
+        "display_name": "Case management",
+        "score": 0.49140000343322754
+      },
+      {
+        "id": "https://openalex.org/keywords/disease",
+        "display_name": "Disease",
+        "score": 0.46959999203681946
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2781400479",
+        "wikidata": "https://www.wikidata.org/wiki/Q11640",
+        "display_name": "Outreach",
+        "level": 2,
+        "score": 0.8216999769210815
+      },
+      {
+        "id": "https://openalex.org/C2778818304",
+        "wikidata": "https://www.wikidata.org/wiki/Q1819478",
+        "display_name": "Rehabilitation",
+        "level": 2,
+        "score": 0.5921000242233276
+      },
+      {
+        "id": "https://openalex.org/C146834321",
+        "wikidata": "https://www.wikidata.org/wiki/Q2979672",
+        "display_name": "Closure (psychology)",
+        "level": 2,
+        "score": 0.5436999797821045
+      },
+      {
+        "id": "https://openalex.org/C2779951463",
+        "wikidata": "https://www.wikidata.org/wiki/Q7268788",
+        "display_name": "Quality of life (healthcare)",
+        "level": 2,
+        "score": 0.536899983882904
+      },
+      {
+        "id": "https://openalex.org/C668760",
+        "wikidata": "https://www.wikidata.org/wiki/Q6869278",
+        "display_name": "Vocational education",
+        "level": 2,
+        "score": 0.49639999866485596
+      },
+      {
+        "id": "https://openalex.org/C3018913694",
+        "wikidata": "https://www.wikidata.org/wiki/Q5048341",
+        "display_name": "Case management",
+        "level": 2,
+        "score": 0.49140000343322754
+      },
+      {
+        "id": "https://openalex.org/C2779134260",
+        "wikidata": "https://www.wikidata.org/wiki/Q12136",
+        "display_name": "Disease",
+        "level": 2,
+        "score": 0.46959999203681946
+      },
+      {
+        "id": "https://openalex.org/C2780378061",
+        "wikidata": "https://www.wikidata.org/wiki/Q25351891",
+        "display_name": "Service (business)",
+        "level": 2,
+        "score": 0.4580000042915344
+      },
+      {
+        "id": "https://openalex.org/C2775882741",
+        "wikidata": "https://www.wikidata.org/wiki/Q6130303",
+        "display_name": "Vocational rehabilitation",
+        "level": 3,
+        "score": 0.4537000060081482
+      },
+      {
+        "id": "https://openalex.org/C159110408",
+        "wikidata": "https://www.wikidata.org/wiki/Q121176",
+        "display_name": "Nursing",
+        "level": 1,
+        "score": 0.4512999951839447
+      },
+      {
+        "id": "https://openalex.org/C71924100",
+        "wikidata": "https://www.wikidata.org/wiki/Q11190",
+        "display_name": "Medicine",
+        "level": 0,
+        "score": 0.43860000371932983
+      },
+      {
+        "id": "https://openalex.org/C134362201",
+        "wikidata": "https://www.wikidata.org/wiki/Q317309",
+        "display_name": "Mental health",
+        "level": 2,
+        "score": 0.41600000858306885
+      },
+      {
+        "id": "https://openalex.org/C509550671",
+        "wikidata": "https://www.wikidata.org/wiki/Q126945",
+        "display_name": "Medical education",
+        "level": 1,
+        "score": 0.3619000017642975
+      },
+      {
+        "id": "https://openalex.org/C2776674806",
+        "wikidata": "https://www.wikidata.org/wiki/Q12135",
+        "display_name": "Mental illness",
+        "level": 3,
+        "score": 0.34950000047683716
+      },
+      {
+        "id": "https://openalex.org/C2779530757",
+        "wikidata": "https://www.wikidata.org/wiki/Q1207505",
+        "display_name": "Quality (philosophy)",
+        "level": 2,
+        "score": 0.34950000047683716
+      },
+      {
+        "id": "https://openalex.org/C2982889124",
+        "wikidata": "https://www.wikidata.org/wiki/Q107439039",
+        "display_name": "Disease management",
+        "level": 4,
+        "score": 0.3287000060081482
+      },
+      {
+        "id": "https://openalex.org/C144133560",
+        "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+        "display_name": "Business",
+        "level": 0,
+        "score": 0.31349998712539673
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.31200000643730164
+      },
+      {
+        "id": "https://openalex.org/C160735492",
+        "wikidata": "https://www.wikidata.org/wiki/Q31207",
+        "display_name": "Health care",
+        "level": 2,
+        "score": 0.305400013923645
+      },
+      {
+        "id": "https://openalex.org/C74909509",
+        "wikidata": "https://www.wikidata.org/wiki/Q10387",
+        "display_name": "Gerontology",
+        "level": 1,
+        "score": 0.2962000072002411
+      },
+      {
+        "id": "https://openalex.org/C39549134",
+        "wikidata": "https://www.wikidata.org/wiki/Q133080",
+        "display_name": "Public relations",
+        "level": 1,
+        "score": 0.26249998807907104
+      },
+      {
+        "id": "https://openalex.org/C68595000",
+        "wikidata": "https://www.wikidata.org/wiki/Q2274177",
+        "display_name": "Service delivery framework",
+        "level": 3,
+        "score": 0.2563000023365021
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1177/10522263261430651",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1177/10522263261430651",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S190353498",
+          "display_name": "Journal of Vocational Rehabilitation",
+          "issn_l": "1052-2263",
+          "issn": [
+            "1052-2263",
+            "1878-6316"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310318577",
+          "host_organization_name": "IOS Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310318577"
+          ],
+          "host_organization_lineage_names": [
+            "IOS Press"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Vocational Rehabilitation",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "score": 0.4321896731853485,
+        "id": "https://metadata.un.org/sdg/8",
+        "display_name": "Decent work and economic growth"
+      }
+    ],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "content_urls": null,
+    "referenced_works_count": 15,
+    "referenced_works": [
+      "https://openalex.org/W1939947548",
+      "https://openalex.org/W2132770139",
+      "https://openalex.org/W2138418752",
+      "https://openalex.org/W2803129601",
+      "https://openalex.org/W2950967985",
+      "https://openalex.org/W2992475878",
+      "https://openalex.org/W3023775600",
+      "https://openalex.org/W3094966004",
+      "https://openalex.org/W3164177349",
+      "https://openalex.org/W4205223315",
+      "https://openalex.org/W4229847192",
+      "https://openalex.org/W4307897169",
+      "https://openalex.org/W4311192992",
+      "https://openalex.org/W4316661298",
+      "https://openalex.org/W4396596606"
+    ],
+    "related_works": [],
+    "abstract_inverted_index": {
+      "Background": [
+        0
+      ],
+      "With": [
+        1
+      ],
+      "prevalence": [
+        2
+      ],
+      "rates": [
+        3
+      ],
+      "of": [
+        4,
+        40,
+        48,
+        57,
+        73,
+        118
+      ],
+      "cardiovascular": [
+        5
+      ],
+      "disease": [
+        6
+      ],
+      "(CVD)": [
+        7
+      ],
+      "on": [
+        8
+      ],
+      "the": [
+        9,
+        12,
+        38,
+        41,
+        49,
+        59,
+        106,
+        116,
+        131
+      ],
+      "rise": [
+        10
+      ],
+      "across": [
+        11,
+        37
+      ],
+      "globe,": [
+        13
+      ],
+      "people": [
+        14,
+        33,
+        125
+      ],
+      "with": [
+        15,
+        32,
+        97,
+        126
+      ],
+      "CVD": [
+        16,
+        36,
+        127
+      ],
+      "are": [
+        17
+      ],
+      "an": [
+        18,
+        46
+      ],
+      "emerging": [
+        19
+      ],
+      "vocational": [
+        20
+      ],
+      "rehabilitation": [
+        21
+      ],
+      "(VR)": [
+        22
+      ],
+      "consumer": [
+        23
+      ],
+      "population.": [
+        24
+      ],
+      "Objective": [
+        25
+      ],
+      "This": [
+        26
+      ],
+      "article": [
+        27
+      ],
+      "provides": [
+        28
+      ],
+      "recommendations": [
+        29,
+        66
+      ],
+      "for": [
+        30,
+        67
+      ],
+      "working": [
+        31
+      ],
+      "who": [
+        34
+      ],
+      "have": [
+        35
+      ],
+      "phases": [
+        39
+      ],
+      "VR": [
+        42,
+        68,
+        132
+      ],
+      "process.": [
+        43
+      ],
+      "Method": [
+        44
+      ],
+      "Following": [
+        45
+      ],
+      "overview": [
+        47
+      ],
+      "etiology,": [
+        50
+      ],
+      "incidence,": [
+        51
+      ],
+      "prevalence,": [
+        52
+      ],
+      "and": [
+        53,
+        64,
+        79,
+        85,
+        92,
+        95,
+        99,
+        121,
+        137
+      ],
+      "career": [
+        54
+      ],
+      "development": [
+        55
+      ],
+      "implications": [
+        56
+      ],
+      "CVD,": [
+        58
+      ],
+      "authors": [
+        60
+      ],
+      "present": [
+        61
+      ],
+      "direct": [
+        62
+      ],
+      "service": [
+        63
+      ],
+      "advocacy": [
+        65
+      ],
+      "professionals.": [
+        69
+      ],
+      "Results": [
+        70
+      ],
+      "The": [
+        71
+      ],
+      "importance": [
+        72
+      ],
+      "access": [
+        74
+      ],
+      "to": [
+        75,
+        82,
+        114
+      ],
+      "quality": [
+        76
+      ],
+      "healthcare,": [
+        77
+      ],
+      "lifestyle": [
+        78
+      ],
+      "environmental": [
+        80
+      ],
+      "modifications": [
+        81
+      ],
+      "promote": [
+        83
+      ],
+      "heart": [
+        84
+      ],
+      "circulatory": [
+        86
+      ],
+      "health,": [
+        87
+      ],
+      "employer": [
+        88
+      ],
+      "consultation,": [
+        89
+      ],
+      "workplace": [
+        90
+      ],
+      "accommodations": [
+        91
+      ],
+      "universal": [
+        93
+      ],
+      "design,": [
+        94
+      ],
+      "interface": [
+        96
+      ],
+      "medical": [
+        98
+      ],
+      "mental": [
+        100
+      ],
+      "health": [
+        101
+      ],
+      "professionals": [
+        102,
+        110
+      ],
+      "is": [
+        103
+      ],
+      "emphasized": [
+        104
+      ],
+      "throughout": [
+        105
+      ],
+      "article.": [
+        107
+      ],
+      "Conclusions": [
+        108
+      ],
+      "Rehabilitation": [
+        109
+      ],
+      "must": [
+        111
+      ],
+      "be": [
+        112
+      ],
+      "prepared": [
+        113
+      ],
+      "meet": [
+        115
+      ],
+      "needs": [
+        117
+      ],
+      "this": [
+        119
+      ],
+      "growing": [
+        120
+      ],
+      "diverse": [
+        122
+      ],
+      "clientele": [
+        123
+      ],
+      "as": [
+        124
+      ],
+      "seek": [
+        128
+      ],
+      "assistance": [
+        129
+      ],
+      "from": [
+        130
+      ],
+      "program": [
+        133
+      ],
+      "in": [
+        134,
+        139
+      ],
+      "acquiring,": [
+        135
+      ],
+      "maintaining,": [
+        136
+      ],
+      "advancing": [
+        138
+      ],
+      "meaningful,": [
+        140
+      ],
+      "satisfying": [
+        141
+      ],
+      "employment.": [
+        142
+      ]
+    },
+    "counts_by_year": [],
+    "updated_date": "2026-03-18T06:31:55.123368",
+    "created_date": "2026-03-18T00:00:00"
+  },
+  "crossref": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          20
+        ]
+      ],
+      "date-time": "2026-03-20T14:37:51Z",
+      "timestamp": 1774017471723,
+      "version": "3.50.1"
+    },
+    "reference-count": 45,
+    "publisher": "SAGE Publications",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              17
+            ]
+          ],
+          "date-time": "2026-03-17T00:00:00Z",
+          "timestamp": 1773705600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+      }
+    ],
+    "funder": [
+      {
+        "name": "Vocational Rehabilitation Technical Assistance Center for Quality Employment",
+        "award": [
+          "H264K200003"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "H264K200003"
+            ]
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.sagepub.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Journal of Vocational Rehabilitation"
+    ],
+    "abstract": "<jats:sec>\n                    <jats:title>Background</jats:title>\n                    <jats:p>With prevalence rates of cardiovascular disease (CVD) on the rise across the globe, people with CVD are an emerging vocational rehabilitation (VR) consumer population.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Objective</jats:title>\n                    <jats:p>This article provides recommendations for working with people who have CVD across the phases of the VR process.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Method</jats:title>\n                    <jats:p>Following an overview of the etiology, incidence, prevalence, and career development implications of CVD, the authors present direct service and advocacy recommendations for VR professionals.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>The importance of access to quality healthcare, lifestyle and environmental modifications to promote heart and circulatory health, employer consultation, workplace accommodations and universal design, and interface with medical and mental health professionals is emphasized throughout the article.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusions</jats:title>\n                    <jats:p>Rehabilitation professionals must be prepared to meet the needs of this growing and diverse clientele as people with CVD seek assistance from the VR program in acquiring, maintaining, and advancing in meaningful, satisfying employment.</jats:p>\n                  </jats:sec>",
+    "DOI": "10.1177/10522263261430651",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          17
+        ]
+      ],
+      "date-time": "2026-03-17T10:22:01Z",
+      "timestamp": 1773742921000
+    },
+    "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Serving People with Cardiovascular Disease in the State-Federal Vocational Rehabilitation Program: A Sequenced Case Management Approach from Outreach to Case Closure"
+    ],
+    "prefix": "10.1177",
+    "author": [
+      {
+        "given": "Phillip D",
+        "family": "Rumrill",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Michigan State University"
+          }
+        ]
+      },
+      {
+        "given": "Sukyeong",
+        "family": "Pi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Michigan State University"
+          }
+        ]
+      },
+      {
+        "given": "Lynn C",
+        "family": "Koch",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Counseling, Leadership, and Research Methods, University of Arkansas"
+          }
+        ]
+      }
+    ],
+    "member": "179",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          17
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_3_2_1",
+        "unstructured": "American Heart Association. (2020 July 22). Stress and heart health.https://www.heart.org/en/healthy-living/healthy-lifestyle/stress-management/stress-and-heart-health"
+      },
+      {
+        "key": "e_1_3_3_3_1",
+        "unstructured": "American Heart Association (AHA). (2024 December 12). Warning signs of a heart attack.https://www.heart.org/en/health-topics/heart-attack/warning-signs-of-a-heart-attack"
+      },
+      {
+        "key": "e_1_3_3_4_1",
+        "unstructured": "American Heart Association. (2025 January 27). 2025 heart disease and stroke statistics. https://professional.heart.org/en/science-news/2025-heart-disease-and-stroke-statistics"
+      },
+      {
+        "key": "e_1_3_3_5_1",
+        "volume-title": "Disability handbook",
+        "author": "Andrew J. D.",
+        "year": "2017",
+        "unstructured": "Andrew J. D., Andrew M. J. (Eds.). (2017). Disability handbook. Aspen Professional Services."
+      },
+      {
+        "key": "e_1_3_3_6_1",
+        "first-page": "93",
+        "volume-title": "Society, behaviour and epilepsy",
+        "author": "Bishop M.",
+        "year": "2011",
+        "unstructured": "Bishop M., Chiu C.-Y. (2011). Epilepsy and employment. In Pinikahana J., Walker C. (Eds.), Society, behaviour and epilepsy (pp. 93–114). Nova Biomedical Books."
+      },
+      {
+        "key": "e_1_3_3_7_1",
+        "volume-title": "Deaths: Final data for 2013 (National Vital Statistics Reports, Vol. 64, No. 2)",
+        "author": "Centers for Disease Control and Prevention, National Center for Health Statistics",
+        "year": "2014",
+        "unstructured": "Centers for Disease Control and Prevention, National Center for Health Statistics. (2014, December). Deaths: Final data for 2013 (National Vital Statistics Reports, Vol. 64, No. 2). U.S. Department of Health and Human Services. https://www.cdc.gov/nchs/data/nvsr/nvsr64/nvsr64_02.pdf"
+      },
+      {
+        "key": "e_1_3_3_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10926-020-09941-8"
+      },
+      {
+        "key": "e_1_3_3_9_1",
+        "volume-title": "Cardiovascular disease: Types, causes & symptoms",
+        "author": "Cleveland Clinic",
+        "year": "2025",
+        "unstructured": "Cleveland Clinic. (2025). Cardiovascular disease: Types, causes & symptoms. Cleveland Clinic Health Library. https://my.clevelandclinic.org/health/diseases/21493-cardiovascular-disease"
+      },
+      {
+        "key": "e_1_3_3_10_1",
+        "volume-title": "Medical and psychosocial aspects of chronic illness and disability",
+        "author": "Falvo D. R.",
+        "year": "2018",
+        "unstructured": "Falvo D. R., Holland B. E. (2018). Medical and psychosocial aspects of chronic illness and disability (6th ed.). Jones & Bartlett Learning.",
+        "edition": "6"
+      },
+      {
+        "key": "e_1_3_3_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-201087"
+      },
+      {
+        "key": "e_1_3_3_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4103/0366-6999.182827"
+      },
+      {
+        "key": "e_1_3_3_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.dhjo.2012.11.001"
+      },
+      {
+        "key": "e_1_3_3_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIR.0000000000000228"
+      },
+      {
+        "key": "e_1_3_3_15_1",
+        "volume-title": "Annual disability statistics compendium",
+        "author": "Institute on Disability",
+        "year": "2022",
+        "unstructured": "Institute on Disability. (2022). Annual disability statistics compendium (2022 ed.). University of New Hampshire, Institute on Disability. https://disabilitycompendium.org/sites/default/files/user-uploads/Events/2022ReleaseYear/2021_Annual_Disability_Statistics_Compendium_ALL%28corrected%29.pdf",
+        "edition": "2022"
+      },
+      {
+        "key": "e_1_3_3_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCOUTCOMES.121.007917"
+      },
+      {
+        "key": "e_1_3_3_17_1",
+        "unstructured": "Job Accommodation Network. (2025). Heart condition.https://askjan.org/disabilities/Heart-Condition.cfm"
+      },
+      {
+        "key": "e_1_3_3_18_1",
+        "unstructured": "Kessler Foundation. (2024). Unprecedented success continues: 2023 employment gains for people with disabilities outshine those of counterparts without disabilities. Retrieved April 2024 from https://kesslerfoundation.org/press-release/unprecedented-success-continues-2023-employment-gains-people-disabilities-outshine"
+      },
+      {
+        "key": "e_1_3_3_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jacc.2022.10.028"
+      },
+      {
+        "key": "e_1_3_3_20_1",
+        "volume-title": "Emerging disabilities in rehabilitation counseling",
+        "author": "Koch L.",
+        "year": "2017",
+        "unstructured": "Koch L., Rumrill P. (2017). Emerging disabilities in rehabilitation counseling. Springer. https://doi.org/10.1891/9780826120694"
+      },
+      {
+        "key": "e_1_3_3_21_1",
+        "volume-title": "StatPearls [Internet]",
+        "author": "Lopez E. O.",
+        "year": "2023",
+        "unstructured": "Lopez E. O., Ballard B. D., Jan A. (2023). Cardiovascular disease. In StatPearls [Internet]. StatPearls Publishing. https://www.ncbi.nlm.nih.gov/books/NBK535419/."
+      },
+      {
+        "issue": "1",
+        "key": "e_1_3_3_22_1",
+        "first-page": "38",
+        "article-title": "Cardiac rehabilitation past, present and future: An overview",
+        "volume": "2",
+        "author": "Mampuya W. M.",
+        "year": "2012",
+        "unstructured": "Mampuya W. M. (2012). Cardiac rehabilitation past, present and future: An overview. Cardiovascular Diagnosis and Therapy, 2(1), 38–49. https://doi.org/10.3978/j.issn.2223-3652.2012.01.02",
+        "journal-title": "Cardiovascular Diagnosis and Therapy"
+      },
+      {
+        "key": "e_1_3_3_23_1",
+        "unstructured": "Mayo Clinic. (2024 August 13). Heart disease: Diagnosis. https://www.mayoclinic.org/diseases-conditions/heart-disease/diagnosis-treatment/drc-20353124"
+      },
+      {
+        "key": "e_1_3_3_24_1",
+        "unstructured": "MedlinePlus National Library of Medicine. (2024 February 28). Heart diseases. https://medlineplus.gov/heartdiseases.html"
+      },
+      {
+        "key": "e_1_3_3_25_1",
+        "volume-title": "Million Hearts® hypertension control change package",
+        "author": "Million Hearts",
+        "year": "2015",
+        "unstructured": "Million Hearts. (2015). Million Hearts® hypertension control change package. U.S. Department of Health and Human Services. https://millionhearts.hhs.gov/files/HTN_Change_Package.pdf"
+      },
+      {
+        "issue": "3",
+        "key": "e_1_3_3_26_1",
+        "first-page": "37",
+        "article-title": "Association of employment and health and well-being in people with fibromyalgia",
+        "volume": "83",
+        "author": "Mueller V.",
+        "year": "2017",
+        "unstructured": "Mueller V., Chiu C. Y., Tang X., Eagle D., Peebles M. C., Iwanaga K., Brooks J., Chan F. (2017). Association of employment and health and well-being in people with fibromyalgia. Journal of Rehabilitation, 83(3), 37–43.",
+        "journal-title": "Journal of Rehabilitation"
+      },
+      {
+        "key": "e_1_3_3_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11126-019-09686-5"
+      },
+      {
+        "key": "e_1_3_3_28_1",
+        "unstructured": "National Heart Lung and Blood Institute. (2014 October 16). NHLBI AIDS program addresses increasing burden of chronic disease for HIV-infected individuals. https://www.nhlbi.nih.gov/news/2014/nhlbi-aids-program-addresses-increasing-burden-chronic-disease-hiv-infected-individuals"
+      },
+      {
+        "key": "e_1_3_3_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41569-022-00797-4"
+      },
+      {
+        "key": "e_1_3_3_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09638288.2018.1465131"
+      },
+      {
+        "key": "e_1_3_3_31_1",
+        "volume-title": "Case management and rehabilitation counseling: Procedures and techniques",
+        "author": "Roessler R.",
+        "year": "2018",
+        "unstructured": "Roessler R., Rubin S., Rumrill P. (2018). Case management and rehabilitation counseling: Procedures and techniques (5th ed.). Pro-Ed.",
+        "edition": "5"
+      },
+      {
+        "key": "e_1_3_3_32_1",
+        "volume-title": "Enhancing productivity on your job: The “win-win” approach to reasonable accommodations",
+        "author": "Roessler R.",
+        "year": "2015",
+        "unstructured": "Roessler R., Rumrill P. (2015). Enhancing productivity on your job: The “win-win” approach to reasonable accommodations (6th ed.). National Multiple Sclerosis Society.",
+        "edition": "6"
+      },
+      {
+        "key": "e_1_3_3_33_1",
+        "volume-title": "Foundations of the vocational rehabilitation process",
+        "author": "Rubin S.",
+        "year": "2016",
+        "unstructured": "Rubin S., Roessler R., Rumrill P. (2016). Foundations of the vocational rehabilitation process (7th ed.). Pro-Ed.",
+        "edition": "7"
+      },
+      {
+        "key": "e_1_3_3_34_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-130646"
+      },
+      {
+        "key": "e_1_3_3_35_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1891/0047-2220.50.1.57"
+      },
+      {
+        "key": "e_1_3_3_36_1",
+        "first-page": "381",
+        "volume-title": "Career development, employment, and disability in rehabilitation",
+        "author": "Rumrill P.",
+        "year": "2021",
+        "unstructured": "Rumrill P., Koch L. (2021). Employment, career development, and vocational rehabilitation considerations for people with emerging disabilities. In Strauser D. (Ed.), Career development, employment, and disability in rehabilitation (2nd ed, pp. 381–399). Springer Publishing Company.",
+        "edition": "2"
+      },
+      {
+        "key": "e_1_3_3_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5114/aoms/157308"
+      },
+      {
+        "key": "e_1_3_3_38_1",
+        "volume-title": "Disability and diversity across the lifespan: For the rehabilitation counselor",
+        "author": "Smart J.",
+        "year": "2020",
+        "unstructured": "Smart J. (2020). Disability and diversity across the lifespan: For the rehabilitation counselor. Pro-Ed."
+      },
+      {
+        "key": "e_1_3_3_39_1",
+        "volume-title": "What’s new in the field of disability economics: An afternoon with Dr. David Stapleton [Presentation]",
+        "author": "Stapleton D.",
+        "year": "2024",
+        "unstructured": "Stapleton D. (2024, March 29). What’s new in the field of disability economics: An afternoon with Dr. David Stapleton [Presentation]. University of Kentucky Human Development Institute, Lexington, KY."
+      },
+      {
+        "key": "e_1_3_3_40_1",
+        "volume-title": "Career development, employment, and disability in rehabilitation",
+        "author": "Strauser D. R.",
+        "year": "2021",
+        "unstructured": "Strauser D. R. (2021). Career development, employment, and disability in rehabilitation (2nd ed.). Springer Publishing Company.",
+        "edition": "2"
+      },
+      {
+        "issue": "3",
+        "key": "e_1_3_3_41_1",
+        "first-page": "247",
+        "article-title": "Vocational rehabilitation service delivery: Technical assistance needs of vocational rehabilitation professionals",
+        "volume": "57",
+        "author": "Tansey T. N.",
+        "year": "2022",
+        "unstructured": "Tansey T. N., Bishop M., Iwanaga K., Zhou K., Chan F. (2022). Vocational rehabilitation service delivery: Technical assistance needs of vocational rehabilitation professionals. Journal of Vocational Rehabilitation, 57(3), 247–259. https://doi.org/10.3233/JVR-221224",
+        "journal-title": "Journal of Vocational Rehabilitation"
+      },
+      {
+        "key": "e_1_3_3_42_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41569-024-01024-y"
+      },
+      {
+        "key": "e_1_3_3_43_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/03069885.2021.1879374"
+      },
+      {
+        "key": "e_1_3_3_44_1",
+        "volume-title": "The sandwich generation’s guide to elder care",
+        "author": "Wickert K.",
+        "year": "2013",
+        "unstructured": "Wickert K., Dresden D., Rumrill P. (2013). The sandwich generation’s guide to elder care. Demos Medical Publishing."
+      },
+      {
+        "key": "e_1_3_3_45_1",
+        "volume-title": "5 critical steps to help prevent a stroke",
+        "author": "Williamson L.",
+        "year": "2021",
+        "unstructured": "Williamson L. (2021, May 5). 5 critical steps to help prevent a stroke. American Heart Association. https://www.heart.org/en/news/2021/05/05/5-critical-steps-to-help-prevent-a-stroke"
+      },
+      {
+        "key": "e_1_3_3_46_1",
+        "unstructured": "World Health Organization. (2025 August 20). Cardiovascular diseases. Retrieved 2025 from https://www.who.int/health-topics/cardiovascular-diseases#tab=tab_3"
+      }
+    ],
+    "container-title": [
+      "Journal of Vocational Rehabilitation"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/10522263261430651",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/10522263261430651",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/10522263261430651",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          20
+        ]
+      ],
+      "date-time": "2026-03-20T12:48:19Z",
+      "timestamp": 1774010899000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/10.1177/10522263261430651"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          17
+        ]
+      ]
+    },
+    "references-count": 45,
+    "alternative-id": [
+      "10.1177/10522263261430651"
+    ],
+    "URL": "https://doi.org/10.1177/10522263261430651",
+    "relation": {},
+    "ISSN": [
+      "1052-2263",
+      "1878-6316"
+    ],
+    "issn-type": [
+      {
+        "value": "1052-2263",
+        "type": "print"
+      },
+      {
+        "value": "1878-6316",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          17
+        ]
+      ]
+    },
+    "article-number": "10522263261430651"
+  }
+}

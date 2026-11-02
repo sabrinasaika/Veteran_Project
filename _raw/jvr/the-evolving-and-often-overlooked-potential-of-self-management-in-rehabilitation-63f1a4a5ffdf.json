@@ -1,0 +1,1478 @@
+{
+  "source_type": "jvr_pdf_candidate",
+  "doi": "10.1177/10522263251413173",
+  "doi_url": "https://doi.org/10.1177/10522263251413173",
+  "source_url": "https://journals.sagepub.com/doi/10.1177/10522263251413173",
+  "attempted_pdf_urls": [
+    "https://journals.sagepub.com/doi/pdf/10.1177/10522263251413173",
+    "https://journals.sagepub.com/doi/10.1177/10522263251413173",
+    "https://doi.org/10.1177/10522263251413173",
+    "https://content.iospress.com/download?id=10.1177/10522263251413173"
+  ],
+  "selected_pdf_url": "",
+  "selected_final_url": "",
+  "download_status": "unavailable",
+  "match": {
+    "veteran_hits": [
+      "va "
+    ],
+    "pathway_hits": [
+      "employment",
+      "career"
+    ],
+    "disability_hits": [
+      "multiple sclerosis"
+    ]
+  },
+  "openalex": {
+    "id": "https://openalex.org/W7119491494",
+    "doi": "https://doi.org/10.1177/10522263251413173",
+    "title": "The Evolving and Often Overlooked Potential of Self-Management in Rehabilitation Counseling: The Example of Multiple Sclerosis Self-Management",
+    "display_name": "The Evolving and Often Overlooked Potential of Self-Management in Rehabilitation Counseling: The Example of Multiple Sclerosis Self-Management",
+    "publication_year": 2026,
+    "publication_date": "2026-01-08",
+    "ids": {
+      "openalex": "https://openalex.org/W7119491494",
+      "doi": "https://doi.org/10.1177/10522263251413173"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/10522263251413173",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/10522263251413173",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S190353498",
+        "display_name": "Journal of Vocational Rehabilitation",
+        "issn_l": "1052-2263",
+        "issn": [
+          "1052-2263",
+          "1878-6316"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310318577",
+        "host_organization_name": "IOS Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310318577"
+        ],
+        "host_organization_lineage_names": [
+          "IOS Press"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Vocational Rehabilitation",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5122382740",
+          "display_name": "Malachy Bishop",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I135310074",
+            "display_name": "University of Wisconsin–Madison",
+            "ror": "https://ror.org/01y2jtd41",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I135310074"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Malachy Bishop",
+        "raw_affiliation_strings": [
+          "Department of Rehabilitation Psychology & Special Education, University of Wisconsin-Madison"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Rehabilitation Psychology & Special Education, University of Wisconsin-Madison",
+            "institution_ids": [
+              "https://openalex.org/I135310074"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5112630904",
+          "display_name": "Michael Frain",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I63772739",
+            "display_name": "Florida Atlantic University",
+            "ror": "https://ror.org/05p8w6387",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I63772739"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Michael Frain",
+        "raw_affiliation_strings": [
+          "Florida Atlantic University- Boca Raton"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Florida Atlantic University- Boca Raton",
+            "institution_ids": [
+              "https://openalex.org/I63772739"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5005940051",
+          "display_name": "Tolga Zencir",
+          "orcid": "https://orcid.org/0000-0002-5434-9676"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I135310074",
+            "display_name": "University of Wisconsin–Madison",
+            "ror": "https://ror.org/01y2jtd41",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I135310074"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Tolga Zencir",
+        "raw_affiliation_strings": [
+          "Department of Rehabilitation Psychology & Special Education, University of Wisconsin-Madison"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Rehabilitation Psychology & Special Education, University of Wisconsin-Madison",
+            "institution_ids": [
+              "https://openalex.org/I135310074"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5117438101",
+          "display_name": "Eunjeong Ko",
+          "orcid": "https://orcid.org/0009-0004-4364-054X"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I135310074",
+            "display_name": "University of Wisconsin–Madison",
+            "ror": "https://ror.org/01y2jtd41",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I135310074"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Eunjeong Ko",
+        "raw_affiliation_strings": [
+          "Department of Rehabilitation Psychology & Special Education, University of Wisconsin-Madison"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Rehabilitation Psychology & Special Education, University of Wisconsin-Madison",
+            "institution_ids": [
+              "https://openalex.org/I135310074"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 4,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5122382740"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I135310074"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.0797377,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": "64",
+      "issue": "2",
+      "first_page": "169",
+      "last_page": "177"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T10137",
+      "display_name": "Multiple Sclerosis Research Studies",
+      "score": 0.5673999786376953,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2734",
+        "display_name": "Pathology and Forensic Medicine"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T10137",
+        "display_name": "Multiple Sclerosis Research Studies",
+        "score": 0.5673999786376953,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2734",
+          "display_name": "Pathology and Forensic Medicine"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10793",
+        "display_name": "Diabetes Management and Education",
+        "score": 0.035599999129772186,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2712",
+          "display_name": "Endocrinology, Diabetes and Metabolism"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11639",
+        "display_name": "Mental Health and Patient Involvement",
+        "score": 0.031300000846385956,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3600",
+          "display_name": "General Health Professions"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/36",
+          "display_name": "Health Professions"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/conceptualization",
+        "display_name": "Conceptualization",
+        "score": 0.8579999804496765
+      },
+      {
+        "id": "https://openalex.org/keywords/rehabilitation",
+        "display_name": "Rehabilitation",
+        "score": 0.8235999941825867
+      },
+      {
+        "id": "https://openalex.org/keywords/rehabilitation-counseling",
+        "display_name": "Rehabilitation counseling",
+        "score": 0.6869999766349792
+      },
+      {
+        "id": "https://openalex.org/keywords/context",
+        "display_name": "Context (archaeology)",
+        "score": 0.5913000106811523
+      },
+      {
+        "id": "https://openalex.org/keywords/multiple-sclerosis",
+        "display_name": "Multiple sclerosis",
+        "score": 0.5393999814987183
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C90734943",
+        "wikidata": "https://www.wikidata.org/wiki/Q17008777",
+        "display_name": "Conceptualization",
+        "level": 2,
+        "score": 0.8579999804496765
+      },
+      {
+        "id": "https://openalex.org/C2778818304",
+        "wikidata": "https://www.wikidata.org/wiki/Q1819478",
+        "display_name": "Rehabilitation",
+        "level": 2,
+        "score": 0.8235999941825867
+      },
+      {
+        "id": "https://openalex.org/C188389365",
+        "wikidata": "https://www.wikidata.org/wiki/Q3610326",
+        "display_name": "Rehabilitation counseling",
+        "level": 3,
+        "score": 0.6869999766349792
+      },
+      {
+        "id": "https://openalex.org/C2779343474",
+        "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+        "display_name": "Context (archaeology)",
+        "level": 2,
+        "score": 0.5913000106811523
+      },
+      {
+        "id": "https://openalex.org/C2780640218",
+        "wikidata": "https://www.wikidata.org/wiki/Q8277",
+        "display_name": "Multiple sclerosis",
+        "level": 2,
+        "score": 0.5393999814987183
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.47679999470710754
+      },
+      {
+        "id": "https://openalex.org/C2778755073",
+        "wikidata": "https://www.wikidata.org/wiki/Q10858537",
+        "display_name": "Scale (ratio)",
+        "level": 2,
+        "score": 0.435699999332428
+      },
+      {
+        "id": "https://openalex.org/C98045186",
+        "wikidata": "https://www.wikidata.org/wiki/Q205663",
+        "display_name": "Process (computing)",
+        "level": 2,
+        "score": 0.4246000051498413
+      },
+      {
+        "id": "https://openalex.org/C99508421",
+        "wikidata": "https://www.wikidata.org/wiki/Q2678675",
+        "display_name": "Physical medicine and rehabilitation",
+        "level": 1,
+        "score": 0.40130001306533813
+      },
+      {
+        "id": "https://openalex.org/C75630572",
+        "wikidata": "https://www.wikidata.org/wiki/Q538904",
+        "display_name": "Applied psychology",
+        "level": 1,
+        "score": 0.3192000091075897
+      },
+      {
+        "id": "https://openalex.org/C71924100",
+        "wikidata": "https://www.wikidata.org/wiki/Q11190",
+        "display_name": "Medicine",
+        "level": 0,
+        "score": 0.31859999895095825
+      },
+      {
+        "id": "https://openalex.org/C1862650",
+        "wikidata": "https://www.wikidata.org/wiki/Q186005",
+        "display_name": "Physical therapy",
+        "level": 1,
+        "score": 0.28290000557899475
+      },
+      {
+        "id": "https://openalex.org/C2779473830",
+        "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+        "display_name": "MEDLINE",
+        "level": 2,
+        "score": 0.26330000162124634
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1177/10522263251413173",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1177/10522263251413173",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S190353498",
+          "display_name": "Journal of Vocational Rehabilitation",
+          "issn_l": "1052-2263",
+          "issn": [
+            "1052-2263",
+            "1878-6316"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310318577",
+          "host_organization_name": "IOS Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310318577"
+          ],
+          "host_organization_lineage_names": [
+            "IOS Press"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Vocational Rehabilitation",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "content_urls": null,
+    "referenced_works_count": 39,
+    "referenced_works": [
+      "https://openalex.org/W76179235",
+      "https://openalex.org/W1516332708",
+      "https://openalex.org/W1603888811",
+      "https://openalex.org/W1650954022",
+      "https://openalex.org/W1968234505",
+      "https://openalex.org/W1993910336",
+      "https://openalex.org/W2002851739",
+      "https://openalex.org/W2010388577",
+      "https://openalex.org/W2010937021",
+      "https://openalex.org/W2020104367",
+      "https://openalex.org/W2028902836",
+      "https://openalex.org/W2043003327",
+      "https://openalex.org/W2043770015",
+      "https://openalex.org/W2047559973",
+      "https://openalex.org/W2060397065",
+      "https://openalex.org/W2081520319",
+      "https://openalex.org/W2087586058",
+      "https://openalex.org/W2101900933",
+      "https://openalex.org/W2130674063",
+      "https://openalex.org/W2143302737",
+      "https://openalex.org/W2146937813",
+      "https://openalex.org/W2169953318",
+      "https://openalex.org/W2501301825",
+      "https://openalex.org/W2588755553",
+      "https://openalex.org/W2755388157",
+      "https://openalex.org/W2770218867",
+      "https://openalex.org/W2901279103",
+      "https://openalex.org/W2905260217",
+      "https://openalex.org/W2907142824",
+      "https://openalex.org/W2944338238",
+      "https://openalex.org/W2951888190",
+      "https://openalex.org/W2975699840",
+      "https://openalex.org/W3137569469",
+      "https://openalex.org/W4211048507",
+      "https://openalex.org/W4247075144",
+      "https://openalex.org/W4248822618",
+      "https://openalex.org/W4289521090",
+      "https://openalex.org/W4413415056",
+      "https://openalex.org/W4415613121"
+    ],
+    "related_works": [],
+    "abstract_inverted_index": {
+      "Background:": [
+        0
+      ],
+      "As": [
+        1
+      ],
+      "a": [
+        2,
+        92
+      ],
+      "comprehensive": [
+        3
+      ],
+      "and": [
+        4,
+        8,
+        23,
+        26,
+        52,
+        62,
+        66,
+        76,
+        81,
+        84,
+        101,
+        120,
+        144,
+        149,
+        153
+      ],
+      "holistic": [
+        5
+      ],
+      "health,": [
+        6
+      ],
+      "wellness,": [
+        7
+      ],
+      "self-advocacy": [
+        9
+      ],
+      "framework,": [
+        10
+      ],
+      "self-management": [
+        11,
+        74,
+        119,
+        130
+      ],
+      "has": [
+        12
+      ],
+      "an": [
+        13,
+        113,
+        123
+      ],
+      "important": [
+        14
+      ],
+      "but": [
+        15
+      ],
+      "underdeveloped": [
+        16
+      ],
+      "role": [
+        17
+      ],
+      "in": [
+        18,
+        29,
+        58,
+        78,
+        86,
+        131,
+        151
+      ],
+      "assessment,": [
+        19
+      ],
+      "health": [
+        20,
+        95,
+        100
+      ],
+      "promotion,": [
+        21
+      ],
+      "case": [
+        22,
+        63,
+        82
+      ],
+      "career": [
+        24,
+        102
+      ],
+      "planning,": [
+        25,
+        65
+      ],
+      "employment": [
+        27
+      ],
+      "support": [
+        28
+      ],
+      "rehabilitation": [
+        30,
+        59,
+        79,
+        132,
+        147,
+        155
+      ],
+      "counseling.": [
+        31
+      ],
+      "Objective:": [
+        32
+      ],
+      "In": [
+        33
+      ],
+      "this": [
+        34,
+        48
+      ],
+      "article": [
+        35
+      ],
+      "we": [
+        36
+      ],
+      "(1)": [
+        37
+      ],
+      "define": [
+        38
+      ],
+      "self-management,": [
+        39
+      ],
+      "(2)": [
+        40
+      ],
+      "explore": [
+        41,
+        54
+      ],
+      "the": [
+        42,
+        87,
+        116,
+        126,
+        141
+      ],
+      "continually": [
+        43
+      ],
+      "evolving": [
+        44
+      ],
+      "process": [
+        45
+      ],
+      "of": [
+        46,
+        73,
+        89,
+        115,
+        118,
+        125,
+        129,
+        146
+      ],
+      "refining": [
+        47
+      ],
+      "fundamentally": [
+        49
+      ],
+      "client-centered": [
+        50
+      ],
+      "construct,": [
+        51
+      ],
+      "(3)": [
+        53
+      ],
+      "its": [
+        55
+      ],
+      "potential": [
+        56
+      ],
+      "utility": [
+        57
+      ],
+      "counseling": [
+        60,
+        133,
+        148,
+        156
+      ],
+      "evaluation": [
+        61
+      ],
+      "conceptualization,": [
+        64
+      ],
+      "services.": [
+        67
+      ],
+      "Method:": [
+        68
+      ],
+      "We": [
+        69
+      ],
+      "describe": [
+        70
+      ],
+      "effective": [
+        71
+      ],
+      "integration": [
+        72
+      ],
+      "scales": [
+        75
+      ],
+      "constructs": [
+        77
+      ],
+      "assessment": [
+        80
+      ],
+      "conceptualization": [
+        83
+      ],
+      "planning": [
+        85
+      ],
+      "context": [
+        88
+      ],
+      "multiple": [
+        90
+      ],
+      "sclerosis,": [
+        91
+      ],
+      "prevalent": [
+        93
+      ],
+      "chronic": [
+        94
+      ],
+      "condition": [
+        96
+      ],
+      "with": [
+        97,
+        140
+      ],
+      "potentially": [
+        98
+      ],
+      "significant": [
+        99
+      ],
+      "impacts.": [
+        103
+      ],
+      "The": [
+        104
+      ],
+      "Multiple": [
+        105
+      ],
+      "Sclerosis": [
+        106
+      ],
+      "Self-Management": [
+        107
+      ],
+      "Scale": [
+        108
+      ],
+      "(MSSM)": [
+        109
+      ],
+      "is": [
+        110,
+        137
+      ],
+      "described": [
+        111
+      ],
+      "as": [
+        112,
+        122
+      ],
+      "exemplar": [
+        114
+      ],
+      "evolution": [
+        117
+      ],
+      "used": [
+        121
+      ],
+      "example": [
+        124
+      ],
+      "proposed": [
+        127
+      ],
+      "application": [
+        128
+      ],
+      "practice.": [
+        134,
+        157
+      ],
+      "Conclusion:": [
+        135
+      ],
+      "Self-management": [
+        136
+      ],
+      "both": [
+        138
+      ],
+      "consistent": [
+        139
+      ],
+      "established": [
+        142
+      ],
+      "values": [
+        143
+      ],
+      "principles": [
+        145
+      ],
+      "useful": [
+        150
+      ],
+      "guiding": [
+        152
+      ],
+      "informing": [
+        154
+      ]
+    },
+    "counts_by_year": [],
+    "updated_date": "2026-03-13T14:20:09.374765",
+    "created_date": "2026-01-09T00:00:00"
+  },
+  "crossref": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          12
+        ]
+      ],
+      "date-time": "2026-03-12T00:58:31Z",
+      "timestamp": 1773277111179,
+      "version": "3.50.1"
+    },
+    "reference-count": 56,
+    "publisher": "SAGE Publications",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              1,
+              8
+            ]
+          ],
+          "date-time": "2026-01-08T00:00:00Z",
+          "timestamp": 1767830400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100005253",
+        "name": "Office of Special Education and Rehabilitative Services",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "H264K200003"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "H264K200003"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100005253",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.sagepub.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Journal of Vocational Rehabilitation"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          3
+        ]
+      ]
+    },
+    "abstract": "<jats:sec>\n                    <jats:title>Background:</jats:title>\n                    <jats:p>As a comprehensive and holistic health, wellness, and self-advocacy framework, self-management has an important but underdeveloped role in assessment, health promotion, case and career planning, and employment support in rehabilitation counseling.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Objective:</jats:title>\n                    <jats:p>In this article we (1) define self-management, (2) explore the continually evolving process of refining this fundamentally client-centered construct, and (3) explore its potential utility in rehabilitation counseling evaluation and case conceptualization, planning, and services.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Method:</jats:title>\n                    <jats:p>We describe effective integration of self-management scales and constructs in rehabilitation assessment and case conceptualization and planning in the context of multiple sclerosis, a prevalent chronic health condition with potentially significant health and career impacts. The Multiple Sclerosis Self-Management Scale (MSSM) is described as an exemplar of the evolution of self-management and used as an example of the proposed application of self-management in rehabilitation counseling practice.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusion:</jats:title>\n                    <jats:p>Self-management is both consistent with the established values and principles of rehabilitation counseling and useful in guiding and informing rehabilitation counseling practice.</jats:p>\n                  </jats:sec>",
+    "DOI": "10.1177/10522263251413173",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          8
+        ]
+      ],
+      "date-time": "2026-01-08T18:20:26Z",
+      "timestamp": 1767896426000
+    },
+    "page": "169-177",
+    "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "The Evolving and Often Overlooked Potential of Self-Management in Rehabilitation Counseling: The Example of Multiple Sclerosis Self-Management"
+    ],
+    "prefix": "10.1177",
+    "volume": "64",
+    "author": [
+      {
+        "given": "Malachy",
+        "family": "Bishop",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Rehabilitation Psychology & Special Education, University of Wisconsin-Madison"
+          }
+        ]
+      },
+      {
+        "given": "Michael",
+        "family": "Frain",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Florida Atlantic University- Boca Raton"
+          }
+        ]
+      },
+      {
+        "given": "Tolga",
+        "family": "Zencir",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Rehabilitation Psychology & Special Education, University of Wisconsin-Madison"
+          }
+        ]
+      },
+      {
+        "given": "Eunjeong",
+        "family": "Ko",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Rehabilitation Psychology & Special Education, University of Wisconsin-Madison"
+          }
+        ]
+      }
+    ],
+    "member": "179",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          8
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_3_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.11124/JBIES-20-00020"
+      },
+      {
+        "key": "e_1_3_3_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0738-3991(02)00032-0"
+      },
+      {
+        "key": "e_1_3_3_4_1",
+        "first-page": "35",
+        "article-title": "Development and initial analysis of multiple sclerosis self-management scale",
+        "volume": "9",
+        "author": "Bishop M.",
+        "year": "2007",
+        "unstructured": "Bishop M., Frain M. (2007). Development and initial analysis of multiple sclerosis self-management scale. International Journal of Multiple Sclerosis Care, 9(2), 35–42. https://doi.org/10.7224/1537-2073-9.2.35",
+        "journal-title": "International Journal of Multiple Sclerosis Care"
+      },
+      {
+        "key": "e_1_3_3_5_1",
+        "article-title": "Self-management in multiple sclerosis",
+        "author": "Bishop M.",
+        "year": "2017",
+        "unstructured": "Bishop M., Frain M. (2017). Self-management in multiple sclerosis. In E. Martz (Ed.), Promoting self-management of chronic impairments: Theories and practice (pp. 382–405). Oxford University Press.",
+        "journal-title": "Promoting self-management of chronic impairments: Theories and practice"
+      },
+      {
+        "key": "e_1_3_3_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1891/0047-2220.50.3.210"
+      },
+      {
+        "key": "e_1_3_3_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0034355208320000"
+      },
+      {
+        "key": "e_1_3_3_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0023679"
+      },
+      {
+        "key": "e_1_3_3_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-2009-480"
+      },
+      {
+        "key": "e_1_3_3_10_1",
+        "first-page": "105",
+        "volume-title": "The psychological and social aspects of illness and disability",
+        "author": "Bishop M.",
+        "year": "2024",
+        "unstructured": "Bishop M., Park S., Livneh H., Rumrill P. (2024). Psychosocial adaptation to chronic illness and disability (CID): A primer for rehabilitation counselors. In Marini I., Fleming A., Bishop M. (Eds.), The psychological and social aspects of illness and disability (8th ed., pp. 105–122). Springer.",
+        "edition": "8"
+      },
+      {
+        "key": "e_1_3_3_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.288.19.2469"
+      },
+      {
+        "key": "e_1_3_3_12_1",
+        "first-page": "243",
+        "article-title": "Self-management support: A win–win solution for the 21st century",
+        "volume": "33",
+        "author": "Bycroft J.",
+        "year": "2006",
+        "unstructured": "Bycroft J., Tracey J. (2006). Self-management support: A win–win solution for the 21st century. New Zealand Family Physician, 33(4), 243–248.",
+        "journal-title": "New Zealand Family Physician"
+      },
+      {
+        "key": "e_1_3_3_13_1",
+        "unstructured": "Centers for Disease Control and Prevention National Center on Birth Defects and Developmental Disabilities Division of Human Development and Disability. (2025). Disability and Health Data System (DHDS) Data [online]. https://dhds.cdc.gov"
+      },
+      {
+        "key": "e_1_3_3_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/2374373518812078"
+      },
+      {
+        "key": "e_1_3_3_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0145721708323640"
+      },
+      {
+        "key": "e_1_3_3_16_1",
+        "unstructured": "Commission on Rehabilitation Counselor Certification. (2022). Code of professional ethics for certified rehabilitation counselors.www.crccertification.com"
+      },
+      {
+        "key": "e_1_3_3_17_1",
+        "first-page": "231",
+        "article-title": "Sensitivity of one person to another",
+        "volume": "25",
+        "author": "Dembo T.",
+        "year": "1964",
+        "unstructured": "Dembo T. (1964). Sensitivity of one person to another. Rehabilitation Literature, 25(8), 231–235.",
+        "journal-title": "Rehabilitation Literature"
+      },
+      {
+        "issue": "4",
+        "key": "e_1_3_3_18_1",
+        "first-page": "1",
+        "article-title": "The utilization of psychological knowledge in rehabilitation",
+        "volume": "8",
+        "author": "Dembo T.",
+        "year": "1970",
+        "unstructured": "Dembo T. (1970). The utilization of psychological knowledge in rehabilitation. Welfare in Review, 8(4), 1–7.",
+        "journal-title": "Welfare in Review"
+      },
+      {
+        "key": "e_1_3_3_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1540-4560.1982.tb00848.x"
+      },
+      {
+        "key": "e_1_3_3_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/10361-008"
+      },
+      {
+        "key": "e_1_3_3_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/jrc.2017.9"
+      },
+      {
+        "key": "e_1_3_3_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.pec.2014.09.005"
+      },
+      {
+        "key": "e_1_3_3_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41572-018-0041-4"
+      },
+      {
+        "key": "e_1_3_3_24_1",
+        "unstructured": "Flinders Program. (2017). Introduction: The flinders chronic condition management program.https://www.flindersprogram.com.au/wp-content/uploads/Flinders-Program-Information-Paper.pdf"
+      },
+      {
+        "key": "e_1_3_3_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/14651858.CD005108.pub2"
+      },
+      {
+        "key": "e_1_3_3_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1891/2168-6653.29.2.153"
+      },
+      {
+        "key": "e_1_3_3_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0034355209333334"
+      },
+      {
+        "key": "e_1_3_3_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.pec.2018.12.028"
+      },
+      {
+        "key": "e_1_3_3_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7224/1537-2073.2013-019"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_3_3_30_1",
+        "article-title": "Self-management education and regular practitioner review for adults with asthma",
+        "author": "Gibson P. G.",
+        "year": "2003",
+        "unstructured": "Gibson P. G., Powell H., Wilson A. J., Abramson M., Haywood P., Bauman A., Hensley M. J., Walters E. H., Roberts J. L. (2003). Self-management education and regular practitioner review for adults with asthma. Cochrane Database of Systematic Reviews, (1), CD001117. https://doi.org/10.1002/14651858.CD001117",
+        "journal-title": "Cochrane Database of Systematic Reviews"
+      },
+      {
+        "key": "e_1_3_3_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2105/AJPH.2014.302041"
+      },
+      {
+        "key": "e_1_3_3_32_1",
+        "volume-title": "Annual report on people with disabilities in America: 2024",
+        "author": "Houtenville A.",
+        "year": "2024",
+        "unstructured": "Houtenville A., Bach S. (2024). Annual report on people with disabilities in America: 2024. University of New Hampshire, Institute on Disability. https://www.researchondisability.org/sites/default/files/media/2024-03/2024-annual-report-a11y-1.pdf"
+      },
+      {
+        "key": "e_1_3_3_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/JCN.0000000000000581"
+      },
+      {
+        "key": "e_1_3_3_34_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5694/j.1326-5377.2007.tb00807.x"
+      },
+      {
+        "key": "e_1_3_3_35_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/jech.2006.053538"
+      },
+      {
+        "key": "e_1_3_3_36_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1891/9780826120694"
+      },
+      {
+        "issue": "3",
+        "key": "e_1_3_3_37_1",
+        "first-page": "11",
+        "article-title": "Self-management of chronic illness: A model for the future (self care and older adults)",
+        "volume": "17",
+        "author": "Lorig K.",
+        "year": "1993",
+        "unstructured": "Lorig K. (1993). Self-management of chronic illness: A model for the future (self care and older adults). Generations, 17(3), 11–14. http://www.jstor.org/stable/44877774",
+        "journal-title": "Generations"
+      },
+      {
+        "key": "e_1_3_3_38_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1207/S15324796ABM2601_01"
+      },
+      {
+        "key": "e_1_3_3_39_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/01.mlr.0000233678.80203.c1"
+      },
+      {
+        "key": "e_1_3_3_40_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/art.21604"
+      },
+      {
+        "key": "e_1_3_3_41_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09638280701400730"
+      },
+      {
+        "key": "e_1_3_3_42_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/oxfordhb/9780197525456.013.0009"
+      },
+      {
+        "key": "e_1_3_3_43_1",
+        "unstructured": "National Multiple Sclerosis Society. (2025a). MS prevalence.https://www.nationalmssociety.org/about-the-society/who-we-are/research-we-fund/ms-prevalence"
+      },
+      {
+        "key": "e_1_3_3_44_1",
+        "unstructured": "National Multiple Sclerosis Society. (2025b). Disease modification: The benefits of and considerations for using disease-modifying therapies (DMTs) for multiple sclerosis. https://www.nationalmssociety.org/for-professionals/for-healthcare-professionals/managing-and-treating-ms/disease-modification"
+      },
+      {
+        "key": "e_1_3_3_45_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s13311-017-0571-6"
+      },
+      {
+        "key": "e_1_3_3_46_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.pec.2006.12.002"
+      },
+      {
+        "key": "e_1_3_3_47_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11136-010-9661-1"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_3_3_48_1",
+        "first-page": "37",
+        "article-title": "Health and wellness: People with disabilities discuss barriers and facilitators to well being",
+        "volume": "69",
+        "author": "Putnam M.",
+        "year": "2003",
+        "unstructured": "Putnam M., Geenen S., Powers L., Saxton M. (2003). Health and wellness: People with disabilities discuss barriers and facilitators to well being. Journal of Rehabilitation, 69(1), 37–45.",
+        "journal-title": "Journal of Rehabilitation"
+      },
+      {
+        "key": "e_1_3_3_49_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/17518420701688649"
+      },
+      {
+        "key": "e_1_3_3_50_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-191020"
+      },
+      {
+        "key": "e_1_3_3_51_1",
+        "first-page": "49",
+        "volume-title": "Disability handbook",
+        "author": "Rumrill P.",
+        "year": "2017",
+        "unstructured": "Rumrill P., Bishop M., Koch L. (2017). Chronic illness. In Andrew J., Andrew M. J. (Eds.), Disability handbook (pp. 49–60). Aspen Professional Services."
+      },
+      {
+        "key": "e_1_3_3_52_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.msard.2025.106816"
+      },
+      {
+        "key": "e_1_3_3_53_1",
+        "unstructured": "Tomasky S. I. (2023). Patient expertise & self-management [Master’s thesis]. The University of Texas at Austin. https://repositories.lib.utexas.edu/server/api/core/bitstreams/7912a787-e7ea-4f14-972e-b61bc2fbe2f0/content"
+      },
+      {
+        "key": "e_1_3_3_54_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/ijerph19159452"
+      },
+      {
+        "key": "e_1_3_3_55_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/ane.12465"
+      },
+      {
+        "key": "e_1_3_3_56_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3109/09638288.2014.993435"
+      },
+      {
+        "key": "e_1_3_3_57_1",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1037/10589-000",
+        "volume-title": "Physical disability: A psychosocial approach",
+        "author": "Wright B.",
+        "year": "1983",
+        "unstructured": "Wright B. (1983). Preface to the second edition: Value-laden beliefs and principles. In Wright B. A. (Ed.), Physical disability: A psychosocial approach (pp. x–xxvi). Harper Collins Publishers."
+      }
+    ],
+    "container-title": [
+      "Journal of Vocational Rehabilitation"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/10522263251413173",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/10522263251413173",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/10522263251413173",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          11
+        ]
+      ],
+      "date-time": "2026-03-11T10:42:17Z",
+      "timestamp": 1773225737000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/10.1177/10522263251413173"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          8
+        ]
+      ]
+    },
+    "references-count": 56,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            3
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1177/10522263251413173"
+    ],
+    "URL": "https://doi.org/10.1177/10522263251413173",
+    "relation": {},
+    "ISSN": [
+      "1052-2263",
+      "1878-6316"
+    ],
+    "issn-type": [
+      {
+        "value": "1052-2263",
+        "type": "print"
+      },
+      {
+        "value": "1878-6316",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          8
+        ]
+      ]
+    }
+  }
+}

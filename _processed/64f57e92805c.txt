@@ -1,0 +1,1847 @@
+VOCATIONAL REHABILITATION PROGRAM 
+FEDERAL FISCAL YEAR 2016  
+TECHNICAL ASSISTANCE GUIDE 
+ 
+ 
+ 
+U.S. DEPARTMENT OF EDUCATION 
+OFFICE OF SPECIAL EDUCATION AND  
+REHABILITATIVE SERVICES 
+REHABILITATION SERVICES ADMINISTRATION 
+STATE MONITORING AND PROGRAM IMPROVEMENT DIVISION
+
+TABLE OF CONTENTS 
+ 
+I.  Scope ...........................................................................................................................................1 
+A.  The Federal Mandate ............................................................................................................. 1 
+B.  Technical Assistance Visits ................................................................................................... 1 
+1.  General ............................................................................................................................... 1 
+2.  Focus Areas ........................................................................................................................ 2 
+II.  Overview of the Process .............................................................................................................3 
+A.  Selection of VR Agencies ..................................................................................................... 3 
+B.  Duration of the Monitoring Process ...................................................................................... 3 
+C.  Stages of the Monitoring Process .......................................................................................... 3 
+1.  Planning and Preparation .................................................................................................... 3 
+2.  On-site Activities ................................................................................................................ 4 
+3.  Follow-up Activities ........................................................................................................... 5 
+D.  The Technical Assistance Summary Report.......................................................................... 5 
+E.  Corrective Actions ................................................................................................................. 6 
+F.  Involvement of Consultants in the Technical Assistance Visits ............................................ 6 
+G.  Evaluation of the Technical Assistance Visit Process ........................................................... 6 
+III.  Competitive Integrated Employment ........................................................................................7 
+A.  Overview ............................................................................................................................... 7 
+B.  Competitive Integrated Employment—General Requirements ............................................. 8 
+C.  Employment Outcomes--Customized Employment ............................................................ 10 
+D.  Employment Outcomes—Uncompensated Outcomes ........................................................ 10 
+E.  Impact of an Order of Selection on Competitive Integrated Employment .......................... 12 
+IV.  Pre-Employment Transition Services .....................................................................................14 
+A.  Overview ............................................................................................................................. 14 
+B.  Planning for and Coordination of Pre-Employment Transition Services ............................ 16 
+C.  State Educational Agency (SEA) Agreement ...................................................................... 17 
+D.  Provision of Pre-Employment Transition Services ............................................................. 18 
+1.  Required Activities Under Section 113(b) ....................................................................... 18
+
+2.  Authorized Activities Under Section 113(c) .................................................................... 20 
+3.  Pre-Employment Transition Coordination Activities Under Section 113(d) ................... 21 
+E.  Order of Selection ................................................................................................................ 21 
+F.  Policies Regarding Pre-Employment Transition Services ................................................... 22 
+G.  Fiscal Requirements for the Provision of Pre-Employment Transition Services ................ 23 
+1.  Reserve Calculation and Expenditure .............................................................................. 23 
+2.  Non-Federal Share ............................................................................................................ 24 
+3.  Meeting the Requirement to Reserve at least 15 Percent of the VR Allotment for the 
+Provision of Pre-Employment Transition Services ............................................................... 24 
+4.  Internal Controls for Tracking Expenditures Incurred with the Amount of Funds 
+Reserved for the Provision of Pre-Employment Transition Services .................................... 25 
+5.  Third-Party Cooperative Arrangements ........................................................................... 27 
+V.  The State Supported Employment Services Program ..............................................................28 
+A.  Overview ............................................................................................................................. 28 
+B.  Extended Time Frame for Provision of Supported Employment Services ......................... 30 
+C.  Competitive Integrated Employment and Short-Term Basis .............................................. 31 
+D.  Extended Services for Youth with the Most Significant Disabilities .................................. 32 
+E.  Transitional Employment .................................................................................................... 33 
+F.  Requirements for an Employment Outcome in Supported Employment ............................ 34 
+G.  Closure of the Supported Employment Service Record ...................................................... 35 
+H.  Fiscal Elements of the Provision of Supported Employment Services ............................... 36 
+1.  Reservation of Supported Employment Funds for the Provision of Services to Youth with 
+the Most Significant Disabilities (§363.22)........................................................................... 36 
+2.  Supported Employment Match (non-Federal share) (§363.23) ........................................ 37 
+3.  Administrative Costs (§603(c)) ........................................................................................ 39 
+4.  Supported Employment Related Requirements................................................................ 39 
+5.  SF-425 Reserve and Match Reporting ............................................................................. 39 
+6.  Further Resources for Supported Employment ................................................................ 40 
+I.  General Questions ................................................................................................................. 41
+
+I.  Scope 
+ 
+A.  The Federal Mandate 
+ 
+Section 107(b) of the Rehabilitation Act of 1973 (Act), as amended by title IV of the Workforce 
+Innovation and Opportunity Act (WIOA), requires the Commissioner of the Rehabilitation 
+Services Administration (RSA) to provide technical assistance to State vocational rehabilitation 
+(VR) agencies to improve the quality of vocational rehabilitation (VR) services p
+rovided to, 
+and promote the achievement of high quality employment outcomes by, individuals 
+with disabilities.  To fulfill, in part, this requirement, RSA has developed this protocol through 
+which it will review the progress of VR agencies toward compliance with new requirements 
+under the Act, as amended by WIOA, and provide technical assistance in Federal fiscal year 
+(FFY) 2016 to assist States in complying with those requirements.  
+ 
+B.  Technical Assistance Visits 
+1.  General 
+With the signing of WIOA into law on July 22, 2014, section 506(d) of WIOA made clear that 
+the amendments to the Rehabilitation Act took effect on the date of enactment (July 22, 2014) 
+unless WIOA specified otherwise.  RSA published a Notice of Proposed Rulemaking on April 
+16, 2015 (see 80 FR 21059).  RSA submitted the final regulations to the Office of the Federal 
+Register (OFR) on June 30, 2016, for publication, and those regulations are currently pending 
+placement on public inspection at the OFR and publication in the Federal Register.  The version 
+of the regulations pending final review and publication by the OFR, and posted on the 
+Department’s website at http://www2.ed.gov/about/offices/list/osers/rsa/wioa-final-rules.html, 
+may vary slightly from the published document if minor technical or formatting changes are 
+made during the OFR review process.  Only versions published in the Federal Register are the 
+official final regulations.  RSA anticipates that the final implementing regulations will be 
+published in the Federal Register in early August, 2016.  The final regulations will take effect 30 
+days after publication in the Federal Register. 
+ 
+Because most amendments to the Rehabilitation Act have been in effect since July 2014, VR 
+agencies must ensure that their policies and procedures incorporate and implement all new 
+requirements under the Act, as amended by WIOA.  To facilitate this process, and to support this 
+undertaking by its grantees, RSA will implement a technical assistance effort.  As part of this 
+technical assistance effort, the State Monitoring and Program Improvement Division (SMPID) of 
+RSA will conduct five technical assistance visits in the last quarter of FFY 2016.  Each of the 
+five teams within SMPID will conduct one visit prior to September 30, 2016, including 
+preparation activities for the visit, as well as on-site activities. 
+ 
+The specific programs covered during the technical assistance visits under this protocol include: 
+ 
+• The VR program, authorized under Title I of the Act; and 
+• The Supported Employment program, authorized under Title VI of the Act. 
+ 
+1
+
+Following these technical assistance visits, RSA will continue to assist all VR agencies to 
+implement new policies and procedures required by the Act, as well as its implementing 
+regulations once they take effect, through further technical assistance and monitoring in 
+accordance with section 107 of the Act.  This protocol will be revised and updated subsequent to 
+the conduct of the FFY 2016 technical assistance visits in order to incorporate concerns and 
+issues raised during this initial effort.  
+2.  Focus Areas 
+This protocol includes three focus areas covering: 
+• Competitive integrated employment; 
+• Pre-employment transition services for students with disabilities, including the 
+requirement for a State to reserve and use at least 15 percent of the VR allotment to 
+provide, or arrange for the provision of, pre-employment transition services; and 
+• Supported employment for individuals with the most significant disabilities, including the 
+requirement for a State to reserve and use 50 percent of its Supported Employment 
+program allotment to provide supported employment services, including extended 
+services, to youth with the most significant disabilities. 
+The nature and scope of each focus area is discussed in greater detail in the sections that follow 
+in this protocol.  In general, however, the technical assistance visits will afford the opportunity 
+for VR agencies to receive focused and directed guidance to assist each agency to review the 
+new requirements pertaining to each of the focus areas, identify and answer specific questions, 
+and assist each VR agency to be fully compliant with the Act, as well as the implementing 
+regulations once they take effect 30 days after publication in the Federal Register.  As a result of 
+the visits, the RSA teams, in collaboration with the VR agencies visited, may identify: 
+• Policies and procedures to be revised for VR agencies to comply with requirements of the 
+Act, as amended by WIOA, and its implementing regulations (once they take effect); and  
+• The need, and resources, for further technical assistance. 
+2
+
+II.  Overview of the Process 
+A.  Selection of VR Agencies 
+ 
+In FFY 2016, RSA will select five VR agencies, one each from the five teams within SMPID, to 
+receive technical assistance through this protocol.  The review teams will choose from among 
+States with combined agencies because it is not practical for the review teams to effectively 
+prepare for and conduct visits to States with both general and blind agencies during the limited 
+amount of time available in the remainder of FFY 2016.  In future monitoring and technical 
+assistance efforts, RSA will choose from combined, or general and blind VR agencies as 
+appropriate.   
+B.  Duration of the Monitoring Process 
+As noted above, all technical assistance visits will be conducted and concluded within FFY 2016.  
+Any reports generated from the visits will be issued in FFY 2017 in a manner and at a time to be 
+determined by the Commissioner, but as soon as possible to ensure prompt State compliance 
+with all program requirements under the Act, as amended by WIOA, and its implementing 
+regulations once those regulations take effect. 
+ 
+C.  Stages of the Monitoring Process 
+1.  Planning and Preparation 
+Each of the five VR agency selected for a technical assistance visit in FFY 2016 will be 
+contacted as soon as possible, but no later than August 1, 2016, by the individual from the review 
+team who will lead the visit.  This may or may not be the RSA liaison to that particular State.  At 
+this time, the review teams will: 
+• Introduce the team member who will lead the technical assistance effort, and the other 
+members of the team who will participate in the on-site visit;  
+• Jointly with the VR agencies, select dates for the on-site visits; and  
+• Identify stakeholders who may participate in the technical assistance visit as appropriate, 
+including State Rehabilitation Council (SRC) members, the Client Assistance Program, 
+and community rehabilitation programs (CRP).  
+In preparation for the on-site visits, the technical assistance teams will conduct teleconferences 
+as determined by the teams and VR agencies to: 
+• Discuss the technical assistance visit process and the substance of the focus areas 
+identified in this protocol with VR agency management; 
+• Gather information pertinent to the focus areas from representatives of the VR agency, 
+SRC and Client Assistance Program, as appropriate; and 
+• Develop the agenda for the technical assistance visit with VR agency management and 
+personnel. 
+3
+
+Additionally, the teams will review documents requested from the VR agencies related to each of 
+the focus areas prior to the on-site visits.  These documents may include, but are not limited to: 
+• Policies and procedures related to the three focus areas; 
+• Fiscal information pertinent to the reservation of funds or other administrative 
+requirements for the provision of pre-employment transition services to students with 
+disabilities and the provision of supported employment services, including extended 
+services, to youth with the most significant disabilities; and  
+• Reports, audits, or other materials pertaining to the three focus areas. 
+The teams will use the information obtained through the review of these documents, the analysis 
+of programmatic and fiscal data, and the teleconferences noted above to identify, in collaboration 
+with the VR agencies, on-site activities and to develop the agenda.   
+2.  On-site Activities 
+The technical assistance teams will schedule the on-site visits with each selected VR agency, 
+accommodating as much as possible the schedules of VR agency management and personnel 
+given the timeline established for the technical assistance visits.  The on-site technical assistance 
+teams will consist of at least two program specialists, and one fiscal specialist from SMPID.  On-
+site activities will revolve around the three identified focus areas, and be dedicated to the 
+provision of technical assistance regarding the new requirements related to those three focus 
+areas.  Activities during the visit may include: 
+• A brief entrance meeting to introduce the RSA team and VR agency management and 
+personnel, and to review the on-site agenda; 
+• Review of significant changes to the VR and Supported Employment program resulting 
+from the passage of WIOA; 
+• Technical assistance activities related to the three focus areas covered by this protocol; 
+• Meetings with senior program and fiscal managers, VR counselors, school personnel, 
+SRC and Client Assistance Program representatives, and other groups or individuals as 
+appropriate; and  
+• An optional brief wrap-up meeting to discuss next steps.  
+On-site activities may also include site visits to locations apart from the primary administrative 
+offices of the VR agency, if appropriate, but the focus of the technical assistance visits will be to 
+work with VR program leaders and staff to ensure effective implementation of new policies and 
+procedures required by WIOA. 
+The RSA team or the VR agency director may invite VR agency management and personnel, the 
+leadership of the designated state agency (DSA) and the chairperson of the SRC to participate in 
+any of the scheduled meetings if deemed appropriate, or if determined they may benefit from the 
+technical assistance.  Other participants may include:  
+• VR agency supervisors and counselors; 
+4
+
+• State educational and local school district staff responsible for the provision of VR 
+services to students or youth with disabilities, particularly those students receiving pre-
+employment transition services or supported employment services; 
+• The DSA director; 
+• Other staff from the DSA responsible for fiscal or administrative oversight; 
+• Representatives of CRPs, specifically those contracted to provide pre-employment 
+transition services to students with disabilities or supported employment services, 
+including extended services, to youth with the most significant disabilities; and 
+• State auditors. 
+3.  Follow-up Activities 
+Subsequent to the on-site visits, the technical assistance teams may require further 
+documentation from the VR agencies to supplement information obtained prior to or during the 
+visits.  The RSA teams will also continue to provide follow-up technical assistance as needed, 
+and direct the VR agency leaders and staff to additional resources and tools.   
+The RSA teams may schedule a follow-up teleconference with the VR agency after the on-site 
+visit to clarify any concerns or issues, or answer any questions pertaining to the three focus areas 
+identified in this protocol.  The VR agency may wish to share with RSA draft policies and 
+procedures that result from the provision of technical assistance related to the on-site visits. 
+D.  The Technical Assistance Summary Report 
+Following the on-site visit, the technical assistance teams will develop a technical assistance 
+summary report.  The summary report will contain: 
+ 
+• A description of the technical assistance visit process, including dates of the visit; and 
+• A summary of the primary technical assistance concerns and issues identified by and 
+discussed with the VR agency leaders and staff, and the identification of any related 
+ongoing technical assistance needs.  
+The RSA teams will complete and provide a draft technical assistance summary report to each 
+VR agency visited within the first quarter of FFY 2017.  The VR agencies will then have 14 
+calendar days to submit written responses to the draft reports directly to the teams responsible for 
+the development of the reports.  The VR agency responses to the report should include: 
+• The identification of factual errors;  
+• Supporting documentation or data, as needed, to substantiate any suggested corrections or 
+revisions to the report; and 
+• Requests for further technical assistance to assist the VR agency to fully implement the 
+requirements of the Rehabilitation Act, as amended by WIOA. 
+The technical assistance teams may engage in discussions with VR agency management and 
+personnel to assist the agencies with the development of the responses to the draft reports.  In 
+addition, the teams may conduct teleconferences with the VR agencies to clarify information 
+included in the VR agency responses and request additional documentation to support statements 
+5
+
+made in the responses.  Preliminary discussions may also occur at this time between the agencies 
+and the technical assistance teams as to whom they believe will best be equipped to provide any 
+technical assistance that is identified as a result of the on-site visit. 
+Once completed, the RSA teams will provide electronic copies of the final technical assistance 
+summary reports to the selected VR agencies and the SRCs.  SMPID will then publish the 
+reports on the RSA website
+ and the teams will notify the VR agencies, SRCs representatives, and 
+other stakeholders involved in the technical assistance visit of the location of the reports on the 
+website. 
+ 
+E.  Corrective Actions 
+ 
+Although these visits are tailored to the provision of technical assistance regarding the three 
+identified focus areas, it is possible that the RSA teams will identify areas of non-compliance 
+while providing the technical assistance.  If the RSA teams identify any areas of non-compliance 
+in the course of conducting the technical assistance visits, any necessary corrective actions for 
+those areas of non-compliance will be addressed outside the technical assistance visit process 
+outlined in this guide, and in a manner to be determined by the Commissioner.  The RSA teams 
+will inform the VR agency of any identified areas of non-compliance as soon as possible, either 
+via teleconference, or in writing if there is a need for the VR agency to implement any corrective 
+actions. 
+ 
+F.  Involvement of Consultants in the Technical Assistance Visits 
+ 
+It is within the discretion of the VR agencies to involve contracted consultants in any or all 
+stages of the technical assistance visits, including the exchange of information and conduct of 
+teleconferences/video conferences in preparation for the on-site visit, meetings held on-site, 
+follow-up teleconferences, the development of draft reports and responses to those reports. 
+Nonetheless, the RSA teams will direct all communication to VR agency management and staff, 
+and other stakeholders when appropriate, and not to the consultants.  It is the responsibility of the 
+VR agencies to share information with the consultants throughout the course of the technical 
+assistance visit process as they deem necessary and consistent with their involvement. 
+ 
+G.  Evaluation of the Technical Assistance Visit Process 
+ 
+All participants in the FFY 2016 technical assistance visits may, at any point in the process, 
+provide written comments and suggestions for improvement of the process to RSA.  Any 
+comments received will assist RSA as it revises this protocol for full implementation in 
+subsequent fiscal years. 
+6
+
+III.  Competitive Integrated Employment 
+ 
+A.  Overview 
+ 
+The Act, as amended by WIOA, emphasizes the achievement of competitive integrated 
+employment.  The foundation of the VR program is the principle that individuals with 
+disabilities, including those with the most significant disabilities, are capable of achieving high 
+quality, competitive integrated employment when provided the necessary services and supports.  
+To increase the employment of individuals with disabilities in the competitive integrated labor 
+market, the workforce system must provide individuals with disabilities opportunities to 
+participate in job-driven training and to pursue high quality employment outcomes.  To reinforce 
+this principle, the Act, as amended by WIOA, contains several critical changes that form the 
+basis for this focus area.  In addition, the implementing regulations, once published and in effect, 
+will contain further critical changes that affect this focus area.  The changes related to 
+competitive integrated employment that the technical assistance teams will cover, both from the 
+Act itself and from the final regulations, include:  
+ 
+• The new definition of “competitive integrated employment” in section 7(5) of the 
+Rehabilitation Act and §361.5(c)(9) of the implementing regulations that combines, 
+clarifies, and enhances the two separate definitions of “competitive employment” and 
+“integrated setting” for the purpose of employment under the VR program in prior
+1 
+§361.5(b)(11) and (b)(33)(ii), respectively; 
+• The revision of the definition of “employment outcome” in §361.5(c)(15) that 
+specifically identifies customized employment as an employment outcome under the VR 
+program, and requires that all employment outcomes achieved through the VR program 
+be in competitive integrated employment or supported employment, thereby eliminating 
+uncompensated outcomes, such as homemakers and unpaid family workers, from the 
+scope of the definition for purposes of the VR program; and 
+• The requirement in section 102(b)(4)(A) of the Act and §361.46(a) of the implementing 
+regulations that the individualized plan for employment (IPE) include a specific 
+employment goal consistent with the general goal of competitive integrated employment. 
+To facilitate the provision of technical assistance by RSA, and in preparation for the on-site visit, 
+RSA and the VR agency jointly will review applicable documentation related to the achievement 
+of competitive integrated employment, which may include: 
+• Policies related to the achievement of employment outcomes, including those in 
+competitive integrated employment; 
+• Relevant descriptions from the most recently submitted VR services portion of the 
+Unified or Combined State Plan, including goals and priorities and reports of progress on 
+these goals and priorities; and 
+• Relevant data from the VR Case Service Report (RSA-911) for the most recently 
+completed fiscal year. 
+1 All references to “prior” regulations in this guide refer to the VR regulations that have been in effect since 2001, 
+and which will remain in effect until the regulations implementing the amendments to the Rehabilitation Act made 
+by WIOA take effect 30 days after publication in the Federal Register. 
+7
+
+In gathering information related to this focus area, RSA may consult: 
+• The VR agency director and other senior managers; 
+• VR agency counselors and staff; and 
+• SRCs. 
+ 
+B.  Competitive Integrated Employment—General Requirements 
+ 
+To satisfy the definition of “competitive integrated employment” in section 7(5) of the 
+Rehabilitation Act and §361.5(c)(9) of the implementing regulations, the employment outcome 
+must satisfy the criteria of three major components of the definition, including competitive 
+earnings, integrated location, and opportunities for advancement.  These components and their 
+criteria are explored through the review of documentation, available data, and the questions 
+below. 
+ 
+Documentation Review:  VR agency policies related to the achievement of employment 
+outcomes in competitive integrated employment; the VR services portion of the approved 
+Unified or Combined State Plan; and RSA-911 data describing the number and percentages of 
+individuals who achieved employment outcomes in competitive integrated employment, their 
+hours worked, and wages earned. 
+Discussion Questions: 
+1.  Describe the overall policies and procedures used by the VR agency to ensure that individuals 
+have the opportunity and supports necessary to achieve employment outcomes in competitive 
+integrated employment. 
+2.  Describe how the VR agency and/or VR counselor determines that an individual has achieved 
+an employment outcome with competitive earnings consistent with the earnings component set 
+forth in the definition of “competitive integrated employment.”  This description should take into 
+account the following considerations: 
+a. Does the State have a minimum wage that is higher than the Federal minimum wage?  
+b. Do any local areas in the state have a minimum wage higher than the Federal or State 
+minimum wage? 
+c. Describe the process used by the VR agency or VR counselor to determine that the 
+individual has achieved employment with wages comparable to the customary wages 
+paid by the employer to employees without disabilities in similar positions. 
+d. Describe how the VR agency or VR counselor determines if the benefits provided by an 
+employer to the individual are comparable to the benefits received by an employee 
+without disabilities in the same or similar position. 
+3.  Describe the process used by the VR agency and/or VR counselor to determine if an 
+employment setting is integrated.  Specifically, that the employment setting is: 
+a. Typically found in the community (i.e., in the competitive labor market); and 
+b. One in which the employee with a disability interacts for the purpose of performing the 
+duties of the position with other employees within the particular work unit and the entire 
+8
+
+work site, and, as appropriate to the work performed, other persons (e.g., customers and 
+vendors), who are not individuals with disabilities (not including supervisory personnel 
+or individuals who are providing services to such employee) to the same extent that 
+employees who are not individuals with disabilities and who are in comparable positions 
+interact with these persons. 
+4.  Describe the process used by the VR agency or VR counselor to determine that the 
+employment setting provides the individual with opportunities for advancement comparable with 
+those available to employees without disabilities in similar positions. 
+5.  How many individuals achieved employment outcomes in competitive integrated 
+employment, including self-employment and customized employment, in FFY 2015? 
+6.  What were the average hours worked and average hourly wages of these individuals who 
+achieved employment outcomes in competitive integrated employment in FFY 2015? 
+7.  How many individuals had their VR service records closed because they chose to pursue 
+extended (non-integrated) employment rather than an employment outcome in competitive 
+integrated employment or supported employment? 
+8.  Of the individuals achieving employment outcomes in competitive integrated employment in 
+FFY 2015, how many of these individuals achieved self-employment outcomes, and what 
+percentage of the total employment outcomes does this represent for the VR agency in that year? 
+9.   Describe the VR agency’s policy regarding the achievement of employment outcomes in 
+self-employment.  The policy should take into account the following considerations: 
+a. How are self-employment goals selected? 
+b. How are self-employment IPEs developed? 
+c. What resources are used to help ensure self-employment plans are successful, and that the 
+plan will result in an outcome with competitive earnings for the individual? 
+10.  How does the VR Counselor determine when an individual has achieved an employment 
+outcome in self-employment? 
+11.  Describe the policies and/or procedures the VR agency or VR Counselor will use to 
+determine that the wages an individual earns in self-employment are comparable to non-disabled 
+individuals in similar self-employed occupations. 
+12.  Describe the process the VR agency or VR counselor will use to determine and document 
+the wages of individuals in self-employment at exit and in the second quarter after exit, as well 
+as employment in the second and fourth quarters after exit, since such wage and employment 
+information are not contained in the State’s quarterly wage records.  Data regarding earnings at 
+exit are necessary to determine whether the individual actually achieved an employment outcome 
+in self-employment in accordance with the criteria of the definition of “competitive integrated 
+employment.”  Data regarding an individual’s earnings in the second quarter after exit is 
+necessary for the VR agency to comply with the common performance accountability system 
+requirements set forth in section 116 of WIOA.  
+9
+
+13.  Does the VR agency anticipate assisting eligible individuals to achieve self-employment 
+outcomes in subsistence occupations?  If so, describe the policies and/or procedures that will be 
+used to provide VR services to assist eligible individuals to achieve these outcomes.  
+14.  Describe the procedures that will be used by the VR agency to collect and report 
+employment in the second and fourth full quarters after exit and median wage information in the 
+second full quarter after exit for all individuals achieving employment outcomes in competitive 
+integrated employment, not including those individuals who achieved employment outcomes in 
+self-employment.  The procedures regarding the collection of wage and employment data for 
+individuals achieving employment outcomes in self-employment are discussed in question 
+number 12 above.  The procedures described should take into account the following 
+considerations: 
+a. Does the VR agency have agreements in place to obtain Unemployment Insurance (UI) 
+wage data for purposes of matching that data with individuals served by the VR program? 
+b. What barriers exist in the State to obtaining these data for matching purposes? 
+15.  What technical assistance does the VR agency need in the area of competitive integrated 
+employment? 
+ 
+C.  Employment Outcomes--Customized Employment 
+ 
+Section 7(11) of the Act, as amended by WIOA, and §361.5(c)(15) of the implementing 
+regulations add customized employment to the definition of “employment outcome.”  
+“Customized employment” is a form of competitive integrated employment designed to meet the 
+needs of individuals with significant disabilities and employers through flexible strategies.  See 
+361.5(c)(11) for a complete definition of “customized employment.” The following questions 
+address this specific form of competitive integrated employment. 
+ 
+Documentation Review:  VR agency policies related to the provision of customized employment 
+services necessary to assist an eligible individual to achieve an employment outcome in 
+customized employment, and RSA-911 data describing the provision of customized employment 
+services. 
+Discussion Questions: 
+16.  What policies does the VR agency have in place regarding the provision of customized 
+employment services so that an individual may achieve an employment outcome in customized 
+employment? 
+17.  How many individuals received customized employment services in FFY 2015? 
+18.  Does the VR agency need technical assistance in the area of customized employment? 
+ 
+D.  Employment Outcomes—Uncompensated Outcomes 
+ 
+As noted above, WIOA amended the Act by emphasizing the achievement of competitive 
+integrated employment by individuals with disabilities, including individuals with the most 
+10
+
+significant disabilities.  The Act, as amended by WIOA, refers extensively to competitive 
+integrated employment, including in the statement of the purpose for the VR program, as well as 
+in requirements for developing IPEs, providing services to students and youth with disabilities, 
+and the limitations on the payment of subminimum wages in section 511 of the Act, as added by 
+WIOA.  In particular, section 102(b)(4)(A) of the Act, as amended by WIOA, and §361.46(a) of 
+the implementing regulations require that the specific employment goal identified in the IPE be 
+consistent with the general goal of competitive integrated employment. 
+ 
+The changes made by WIOA provide a marked contrast to the Act, as amended by the 
+Workforce Investment Act of 1998 (WIA).  Under WIA, the emphasis in the Act was on 
+achieving integrated employment.  Consequently, in 2001, the Secretary amended the definition 
+of “employment outcome” by requiring all employment outcomes in the VR program be in 
+integrated settings (see prior §361.5(b)(16)).  In so doing, the Secretary eliminated sheltered 
+employment as an employment outcome.  At that time, because we considered homemaker and 
+unpaid family worker outcomes to occur in integrated settings, these outcomes continued to 
+constitute an “employment outcome,” for purposes of the VR program. 
+By contrast, given the pervasive emphasis on achieving competitive integrated employment— 
+not just integrated employment—throughout the Act, as amended by WIOA, the Secretary has 
+determined that uncompensated employment outcomes, including homemaker and unpaid family 
+worker outcomes, are no longer consistent with the Act.  For this reason, the Secretary believes it 
+is no longer an appropriate exercise of the Secretary’s discretion under section 7(11)(C) of the 
+Act to include uncompensated outcomes within the definition of “employment outcome” in 
+§361.5(c)(15) implementing section 7(11) of the Act, as amended by WIOA.   
+Competitive integrated employment requires the payment of wages at or above the applicable 
+Federal, State, or local minimum wage.  Neither homemakers nor unpaid family workers earn a 
+wage.  Therefore, individuals achieving uncompensated outcomes, such as homemakers and 
+unpaid family workers cannot be determined to have achieved an employment outcome in 
+competitive integrated employment. 
+To assist VR agencies to implement the change in the definition of “employment outcome” and 
+to ensure that individuals with disabilities do not experience a disruption in services, VR 
+agencies may continue to provide services to individuals with uncompensated employment goals 
+on their IPE, so long as the IPE was approved prior to the effective date of the final regulations, 
+until June 30, 2017, unless a longer period of time is required based on the needs of the 
+individual with the disability, as documented in the individual’s service record.  This should 
+allow VR agencies sufficient time to complete the provision of VR services to, and close the 
+service records of, individuals pursuing uncompensated outcomes, such as homemakers and 
+unpaid family workers, in accordance with IPEs that were approved prior to the effective date of 
+the final regulations.   
+This section is designed to explore the extent to which the VR agency currently is assisting 
+individuals with disabilities to pursue uncompensated outcomes, such as homemaker and unpaid 
+family worker outcomes, and the agency’s need for technical assistance as it implements the 
+revised definition of “employment outcome,” once the regulatory definition takes effect. 
+11
+
+Documentation Review:  VR agency policies related to assisting eligible individuals to achieve 
+employment outcomes, including those pertaining to homemaker and unpaid family worker 
+outcomes, and RSA-911 data describing the number and percentages of individuals who 
+achieved employment outcomes, including homemaker and unpaid family worker outcomes. 
+Discussion Questions: 
+19.  How many individuals exited the VR program in FFY 2015 with uncompensated 
+employment outcomes as homemaker or unpaid family worker? 
+20.  Describe the VR agency’s policies related to assisting eligible individuals to achieve 
+uncompensated outcomes, including homemaker and unpaid family worker outcomes. 
+21.  Describe the VR agency’s plans to revise, or its revised, policies related to the achievement 
+of employment outcomes consistent with §361.5(c)(15) of the implementing regulations. 
+22.  For individuals seeking uncompensated outcomes after the effective date of the final 
+regulations, what policies and procedures are, or will be, in place to ensure they are referred to 
+other Federal, State, and local programs that can best meet their needs? 
+23.  What independent living (IL) and other services are available in the State that may be 
+appropriate for individuals seeking uncompensated outcomes? 
+24.  Does the VR agency believe that these IL and other programs have adequate funding and 
+capacity to serve individuals seeking uncompensated outcomes who are referred by the VR 
+agency? 
+25.  What policies and/or procedures does the VR agency have in place to ensure that VR 
+services that provide independent living skills training are provided under the VR program only 
+when necessary to assist eligible individuals to achieve an employment outcome in competitive 
+integrated employment or supported employment? 
+26.  How many individuals have a goal of homemaker or unpaid family worker identified on 
+their IPE, as approved prior to the effective date of the final regulations? 
+27.  What policies and/or procedures are in place to ensure these individuals complete their goal 
+by June 30, 2017, or a longer period based on the needs of the individual? 
+28.  What impact will the VR agency’s remaining projected homemaker and unpaid family 
+worker outcomes have on the performance indicators during the baseline data period? 
+29.  Does the VR agency request technical assistance in this area? 
+E.  Impact of an Order of Selection on Competitive Integrated Employment  
+Section 101(a)(5)(D) of the Act, as amended by WIOA, and §361.36(a)(3)(v) of the 
+implementing regulations permit a VR agency to elect to serve eligible individuals who require 
+specific services or equipment to maintain that employment, whether or not those individuals are 
+receiving VR services under the order of selection.  This exemption from the order of selection 
+12
+
+applies only to those services and equipment needed to maintain the individual’s employment.  It 
+does not permit the VR agency to provide VR services and equipment not directly tied to 
+maintaining the individual’s current employment.  If the VR agency elects to exercise this 
+flexibility, it must indicate so in the VR services portion of the Unified or Combined State Plan.   
+Documentation Review:  VR agency policies related to the implementation of an order of 
+selection, and the assurances and descriptions in the VR services portion of the Unified or 
+Combined State Plan related to the order of selection. 
+Discussion Questions: 
+30.  Describe the VR agency’s current implementation of an order of selection.  The description 
+should take into account the following considerations:   
+a. Has the VR agency implemented an order of selection? 
+b. If so, what is the primary justification for implementing the order? 
+c. How many priority categories does the VR agency have and how many are open? 
+d. If the agency has not implemented an order of selection, does the VR agency anticipate 
+implementing such an order?  
+e. If the VR agency has implemented an order, does the agency anticipate closing additional 
+categories under its current order?   
+31.  Is the VR agency serving individuals who are at risk of losing employment outside an order 
+of selection as permitted by section 101(a)(5)(D) of the Act?  If not, does it plan to do so?  If it 
+does plan to do so, did the State include a description of these plans in its VR services portion of 
+the Unified or Combined State Plan? 
+32.  Does the VR agency request technical assistance in this area? 
+a. If so, has the VR agency estimated the number of individuals who will be served and the 
+average cost per case of serving these individuals? 
+b. Has the VR agency adjusted its order of selection estimates for the individuals it will be 
+able to serve under IPEs? 
+13
+
+IV.  Pre-Employment Transition Services 
+ 
+A.  Overview 
+ 
+The Act, as amended by WIOA (Act), places heightened emphasis on the provision of services, 
+including pre-employment transition services, to students and youth with disabilities to ensure 
+they have meaningful opportunities to receive training and other services necessary to achieve 
+employment outcomes in competitive integrated employment.  The Act and its implementing 
+regulations in 34 CFR part 361 contain several new terms and requirements related to pre-
+employment transition services. 
+ 
+Pre-employment transition services, defined in section 7(30) of the Act, as amended by WIOA, 
+and §361.5(c)(42) of the implementing regulations, include both required activities and 
+authorized activities specified in section 113 of the Act and the implementing regulations in 
+§361.48(a).  Pre-employment transition services also include pre-employment transition 
+coordination activities.   
+There are five required activities (most beneficial to a student in the early stages of employment 
+exploration) that are provided directly to eligible or potentially eligible students with disabilities.  
+These are outlined below in the Provision of Pre-Employment Transition Services section.   
+There are nine authorized activities described in §361.48(a)(3) that VR agencies may 
+implement to improve the transition of students with disabilities from school to postsecondary 
+education or an employment outcome. 
+Pre-employment transition coordination activities, described in §361.48(a)(4), include activities 
+that each local VR agency office must engage in to coordinate and facilitate the provision of pre-
+employment transition services to students with disabilities. 
+Section 113(a) of the Act requires that VR agencies provide, or arrange for the provision of, pre-
+employment transition services to students with disabilities who are eligible or potentially 
+eligible for VR services.  The term “potentially eligible” is specific to the provision of pre-
+employment transition services but is not defined in the Act.  The implementing regulations in 
+§361.48(a)(1) will clarify that all students with disabilities, regardless of whether or not they 
+have applied or been determined eligible for the VR program, are potentially eligible to receive 
+pre-employment transition services.   A “student with a disability,” defined in section 7(37) of 
+the Act, as amended by WIOA, and §361.5(c)(51) of the implementing regulations, has three 
+components:  age requirements; educational program attendance; and the requirement that the 
+individual is eligible for and receiving special education or related services under the Individuals 
+with Disabilities Education Act (IDEA), or is an individual with a disability, for purposes of 
+section 504 of the Act.  The minimum age for the receipt of pre-employment transition services, 
+the minimum age for the provision of transition services under IDEA, and the maximum age for 
+the receipt of services under IDEA are State-dependent; thus, the implementing definition of 
+“student with a disability” may vary from State to State.   
+A student with a disability enrolled in any educational program, including a secondary education 
+program, an alternative secondary education program (e.g., general education equivalency testing 
+preparation programs), postsecondary vocational training programs, and postsecondary 
+14
+
+educational programs, is “potentially eligible” for pre-employment transition services under the 
+VR program.  An individual who is deemed to meet the definition of a “student with a disability” 
+because he or she is eligible for purposes of section 504 of the Act is not required to be receiving 
+services under that section. 
+The Act also defines the term “youth with a disability” as an individual with a disability who is 
+age 14 through 24.  Because this is a broad age range with no educational attendance 
+requirement, all individuals who meet the definition of a “student with a disability” will meet the 
+definition of a “youth with a disability but not all “youth with disabilities” will meet the 
+definition of a “student with a disability.”   The distinctions between the definitions of “student 
+with a disability” and “youth with a disability” are critical for purposes of the various authorities 
+for providing transition-related services, including pre-employment transition services.  For 
+example, pre-employment transition services provided under section 113 of the Act, as amended 
+by WIOA, and §361.48(a) of the implementing regulations are only available to students with 
+disabilities.  However, transition services provided for the benefit of a group of individuals under 
+section 103(b)(7) of the Act, as amended by WIOA, and §361.49(a)(7) of the implementing 
+regulations may be provided to both students and youth with disabilities.  Youth with disabilities 
+who are not students may receive transition-related services identified in an IPE under section 
+103(a) of the Act, but may not receive pre-employment transition services because these services 
+are limited to students with disabilities.   On the other hand, students with disabilities may 
+receive pre-employment transition services with or without an IPE under section 113 of the Act, 
+or may receive pre-employment transition services and/or transition services under an IPE in 
+accordance with section 103(a)(15) of the Act.   
+In States implementing an order of selection, if a student applies for VR services and is assigned 
+to a closed order of selection priority category prior to receiving pre-employment transition 
+services, he or she may not receive pre-employment transition services or individualized 
+transition services until moved from the waiting list to an open priority category.  However, if a 
+student with a disability is receiving pre-employment transition services prior to assignment to a 
+closed priority category, the VR agency must continue providing any of the required activities 
+under pre-employment transition services.   
+To facilitate the provision of technical assistance by RSA, and in preparation for the on-site visit, 
+RSA and the VR agency jointly will review applicable documentation related to pre-employment 
+transition services, which may include: 
+• State educational agency (SEA) and local educational agency (LEA) agreements;  
+• Policies related to the provision of pre-employment transition services; 
+• A sample third-party cooperative arrangement contract for the provision of pre-
+employment transition services, if the agency has such an agreement;  
+• An on-the-job training agreement, if the agency has such an agreement;  
+• Assurance 4(c) and descriptions (j), (m) and (o) and any other relevant information from 
+the most recently submitted VR services portion of the Unified or Combined State Plan; 
+• Federal Financial Report (SF-425) reporting procedures, especially as those procedures 
+relate to the proper accounting and reporting of expenditures with funds reserved under 
+section 110(d)(1) of the Act for the provision of pre-employment transition services for 
+students with disabilities; 
+15
+
+• Supporting documentation for expenditures incurred with funds reserved for the 
+provision of pre-employment transition services and reported in line 12b of the SF-425; 
+and 
+• Updated policies or procedures for tracking expenditures for the provision of pre-
+employment transition services for: 
+o Purchased services and services provided by VR agency personnel; and 
+o Related procedures to exclude administrative costs from expenditures paid with 
+funds reserved under section 110(d)(1) for the provision of pre-employment 
+transition services because section 110(d)(2) prohibits such costs from being paid 
+for with funds reserved under section 110(d)(1). 
+In gathering information related to pre-employment transition services, RSA may consult: 
+• The VR agency director and other senior managers; 
+• VR agency fiscal officers and staff; 
+• VR agency counselors; 
+• VR agency transition coordinators and staff; 
+• Educational agencies; and  
+• Service providers. 
+ 
+B.  Planning for and Coordination of Pre-Employment Transition Services 
+ 
+Statewide Assessment and Strategies  
+ 
+Under section 101(a)(15) of the Act and the implementing regulations in §361.29(a)(1)(i)(D), 
+VR agencies must include, in the comprehensive statewide needs assessment (CSNA), the VR 
+needs of youth and students with disabilities, including their need for pre-employment transition 
+services or other transition services, and an assessment of that need, as well as the extent to 
+which services are coordinated with transition services under IDEA.  The VR services portion of 
+the Unified or Combined State Plan must describe the strategies the State will use to improve and 
+expand VR services for students and youth with disabilities, including pre-employment transition 
+services for students with disabilities pursuant to section 101(a)(25) of the Act and the 
+implementing regulations in §361.29(d)(3) and (4). 
+Documentation Review:  Descriptions (j) and (o) in the VR services portion of the most recently 
+approved Unified or Combined State Plan. 
+Discussion Questions: 
+1.  Describe the VR agency’s methods for identifying students and youth with disabilities in the 
+State and assessing their needs for pre-employment transition services and transition services, as 
+appropriate. 
+ 
+2.  Describe the needs of students and youth with disabilities identified in the most recent CSNA.  
+If one has not been conducted or if it was conducted prior to the enactment of WIOA, describe 
+how the needs will be identified and assessed in the next CSNA.  
+ 
+16
+
+3.  Describe the strategies that have been used or will be used to expand VR services for students 
+and youth with disabilities, including pre-employment transition services for students with 
+disabilities.  
+ 
+4.  Does the VR agency require technical assistance in this area? 
+ 
+C.  State Educational Agency (SEA) Agreement 
+ 
+Under section 101(a)(11)(D) of the Rehabilitation Act and the implementing regulations in 
+§361.22, VR agencies must develop policies and procedures for coordinating with educational 
+officials to facilitate the provision of VR services, including pre-employment transition services.  
+Additionally, the VR services portion of the Unified or Combined State Plan must contain plans, 
+policies, and procedures for coordination between the VR agency and the SEA to facilitate the 
+transition of students from the receipt of educational services, including pre-employment 
+transition services, to the receipt of VR services as required in §361.22(a)(1).  Implementing 
+regulations specific to the formal interagency agreement (see §361.22(b)) have been revised to 
+incorporate pre-employment transition services that must be included during interagency 
+coordination of transition services.  VR agencies are permitted to provide consultation and 
+technical assistance to educational agencies through alternative means (e.g., video conferences 
+and conference calls).  The implementing regulations also added §361.22(b)(5) and (6) to 
+incorporate requirements from section 511.  Finally, a new paragraph (c) was added to §361.22 
+to incorporate the construction clause in section 101(c) of the Act. 
+ 
+Documentation Review:  Current formal interagency agreement between the VR agency and the 
+SEA and, if applicable, between the VR agency and the LEA.   
+Discussion Questions: 
+5.  Has the formal interagency agreement with the SEA been revised to be consistent with:   
+a. Requirements in §361.22(b) once they take effect;  
+b. Requirements related to the coordination and provision of pre-employment transition 
+services in §361.48(a) once they take effect; and  
+c. Coordination of responsibilities under section 511 of the Rehabilitation Act and 
+implementing regulations in 34 CFR part 397 once they take effect? 
+If so, describe the revisions made to the formal interagency agreement with the SEA. 
+ 
+6.  Describe how the VR agency is coordinating and facilitating the provision of pre-employment 
+transition services with the LEAs and SEA, taking into account the following considerations:   
+a. Has a process for determining programmatic and fiscal responsibilities been developed 
+and implemented?  If so, describe.   
+b. How are the agencies determining responsibility for those services that may be both a 
+special education or related service under IDEA and a VR service under the 
+Rehabilitation Act? 
+17
+
+7.  Has the VR agency provided joint guidance, consultation and technical assistance, as well as 
+training to VR and educational staff, regarding the requirements related to the provision of pre-
+employment transition services? 
+ 
+8.  Does the VR agency require technical assistance in this area? 
+ 
+D.  Provision of Pre-Employment Transition Services 
+ 
+Pre-employment transition services include the required activities, authorized activities, and pre-
+employment transition coordination activities listed in section 113 of the Act, as amended by 
+WIOA, and §361.48(a) of the implementing regulations.  The required activities, or direct 
+services, are to be provided or arranged for in collaboration with the LEA and must be made 
+available Statewide to all students with disabilities in need of such services, regardless of 
+whether they have applied, or been determined eligible, for the VR program.  These services can 
+be provided prior to application and after eligibility determination or IPE development, so long 
+as the definition of “student with a disability” in section 7(37) of the Act, as amended by WIOA, 
+and §361.5(c)(51) of the implementing regulations is met.  Students with disabilities who have 
+not applied for VR services, but are receiving pre-employment transition services, would be 
+considered “recipients” of VR services for purposes of §361.28 of the implementing regulations 
+that address third-party cooperative arrangements.  As such, VR agencies may enter into third-
+party cooperative arrangements for the provision of pre-employment transition services so long 
+as all requirements of §361.28 are met.  
+ 
+Documentation Review:  VR agency policies for the provision of pre-employment transition 
+services to students with disabilities and, as appropriate, third-party cooperative arrangements. 
+Discussion Questions: 
+9.  What is the minimum age at which students in the State may begin receiving pre-employment 
+transition services?  How was this determined? 
+a. What is the minimum age for the provision of transition services under IDEA? 
+b. What is the maximum age in the State for the receipt of services under IDEA by students 
+with disabilities?  
+10.  What questions does the VR agency have regarding who may receive pre-employment 
+transition services?  Does the agency need technical assistance in this area? 
+1.  Required Activities Under Section 113(b) 
+In accordance with section 113(b) of the Act, as amended by WIOA, and §361.48(a)(2) of the 
+implementing regulations, pre-employment transition services include five required activities: 
+1. Job exploration counseling; 
+2. Work-based learning experiences; 
+3. Counseling on opportunities for enrollment in comprehensive transition or postsecondary 
+educational programs; 
+4. Workplace readiness training to develop social skills and independent living; and 
+18
+
+5. Instruction in self-advocacy, including instruction in person-centered planning and peer 
+mentoring.   
+Pre-employment transition services are designed to help students with disabilities begin to 
+identify career interests that will be further explored through additional VR services, such as 
+transition services. 
+ 
+Documentation Review:  VR agency policies for the provision of pre-employment transition  
+services. 
+ 
+Discussion Questions: 
+11.  Describe how the VR agency is providing pre-employment transition services, taking into 
+account the following: 
+a. Are pre-employment transition services being provided to students with disabilities who 
+are: 
+ Potentially eligible; 
+ VR applicants or eligible individuals; or   
+ Eligible individuals with an IPE? 
+b. Which pre-employment transition services are being provided in a group setting (e.g., 
+classroom, employment, or community) or on an individualized or customized basis? 
+c. Are pre-employment transition services being provided by VR agency staff or purchased 
+from a school or other provider(s)?  
+d. If purchased, who are providing pre-employment transition services?  Are all five 
+required activities or only a portion of the required activities being provided by these 
+providers?  
+e. Are any of the required pre-employment transition services delivered through third-party 
+cooperative arrangements?  If so, describe these arrangements.  
+f. Describe how your agency is ensuring the provision of pre-employment transition 
+services is available Statewide. 
+g. How are students with disabilities involved in the selection of pre-employment transition 
+services and providers? 
+h. At what point may students with disabilities participating in required activities receive 
+transition or other VR services? 
+12.  Describe how job exploration counseling is being provided and the setting (group or 
+individual). 
+ 
+13.  Describe how work-based learning experiences are being coordinated and provided, taking 
+into account the following considerations:  
+a. How are students with disabilities involved in the identification and selection of work-
+based learning experiences? 
+b. Are these work-based learning services being provided in a school or community-based 
+setting?  Are they provided during or after school hours?  Are they provided in a group 
+setting or on an individualized basis? 
+19
+
+c. Are these work-based learning experiences actual work experiences or are they 
+simulated/mock work experiences?  Are they paid or unpaid?  Are they in integrated 
+settings or in non-integrated settings?  If the experiences are in non-integrated settings, 
+how is the search for all possible integrated settings being exhausted before a non-
+integrated work experience is initiated?   
+d. If these work-based learning experiences are paid, are students earning competitive 
+wages, or wages consistent with those paid to students without disabilities, or a training 
+stipend?  Are these set up as on-the-job trainings in the community? (If set up as an on-
+the-job training (OJT), request an OJT Agreement.) 
+14.  Describe how counseling on opportunities for enrollment in comprehensive transition or 
+postsecondary educational programs at institutions of higher education is being provided and the 
+setting in which it is provided (group and/or individual settings). 
+15.  Describe how workplace readiness training is being coordinated and provided, including 
+types of training activities and settings. 
+ 
+16.  Describe how instruction in self-advocacy is being provided and by whom. 
+ 
+17.  What other related VR services are provided while students are receiving pre-employment 
+transition services and by whom? 
+ 
+18.  What technical assistance does the VR agency require in this area? 
+2.  Authorized Activities Under Section 113(c) 
+Authorized activities are described in section 113(c) of the Act, as amended by WIOA, and 
+§361.48(a)(3) of the implementing regulations and may be provided to improve the transition of 
+students with disabilities from school to postsecondary education or an employment outcome.  
+The authorized activities must support the provision or arrangement for the provision of the 
+required activities under section 113(b) of the Act, as amended by WIOA, and may be provided 
+only if funds reserved under section 110(d)(1) remain after the provision of the required 
+activities described in section 113(b) of the Act, as amended by WIOA. As part of the 
+Comprehensive Statewide Needs Assessment, States should determine the number of potential 
+individuals eligible for pre-employment transition services.  These data will enable the States to 
+target the amount of the reserved funds necessary for ensuring the “required” pre-employment 
+transition services are provided to students with disabilities.  To the extent the States demonstrate 
+that they have made the required pre-employment transition services available to the population 
+identified in the Comprehensive Statewide Needs Assessment, the States have met the 
+requirement to provide the “required” pre-employment transition services prior to the 
+“authorized” activities.  Any reserved funds remaining beyond the targeted amount necessary for 
+the “required” activities may then be used for “authorized” activities in section 113(c) of the Act 
+and §361.48(a)(3) of the implementing regulations. 
+  
+Discussion Questions: 
+ 
+20
+
+19.  What process is the VR agency using to determine whether funds reserved under section 
+110(d)(1) are remaining and, therefore, available to provide authorized activities? 
+ 
+20.  Which authorized activities have been provided, coordinated or arranged by the VR agency? 
+ 
+21.  What technical assistance does the VR agency require in this area? 
+3.  Pre-Employment Transition Coordination Activities Under Section 113(d) 
+VR agencies must participate in pre-employment transition coordination activities described in 
+section 113(d) of the Act, as amended by WIOA, and §361.48(a)(4) of the implementing 
+regulations.  The VR agency may engage in these activities using alternate means (e.g., video 
+conferences and teleconferences).  
+Discussion Questions: 
+22.  Describe how the VR agency is facilitating and engaging in the required pre-employment 
+transition coordination activities. 
+ 
+23.  Describe the VR agency’s efforts to engage with education programs to collaboratively 
+provide pre-employment transition services, including: 
+a. Planning activities; and 
+b. Joint activities. 
+24.  What challenges, if any, is the VR agency experiencing in collaborating with education 
+programs and other partners to provide pre-employment transition coordination activities? 
+ 
+25.  What technical assistance does the VR agency require in this area? 
+ 
+E.  Order of Selection 
+ 
+Neither section 101(a)(5) of the Act nor §361.36(d) of the implementing regulations exempts 
+students with disabilities from any of the order of selection requirements, which apply to all VR 
+program applicants.  However, as specified in §361.36(e)(3)(A), the designated State unit must 
+continue to provide pre-employment transition services to students with disabilities who were 
+receiving such services prior to being determined eligible for VR services.  In addition, VR 
+agencies may provide general transition services that benefit a group of students with disabilities 
+in a group setting pursuant to section 103(b)(7) of the Rehabilitation Act, as amended by WIOA, 
+and §361.49(a)(7) of the implementing regulations to ensure the continuation of some beneficial 
+services in the event that a student with a disability is assigned to a closed priority category prior 
+to receiving pre-employment transition services. 
+ 
+Documentation Review:  State Plan assurance 4(c) and description (m) to determine if an OOS 
+has been established and implemented. 
+ 
+Discussion Questions: 
+ 
+21
+
+26.  Describe any impact that order of selection requirements have had on the provision of pre-
+employment transition services. 
+ 
+27.  What pre-employment transition services are being provided to students with disabilities 
+who are on the waiting list?  
+ 
+28.  How many students with disabilities are on the waiting list without being able to receive pre-
+employment transition services because they were assigned to a closed category before receiving 
+pre-employment transition services? 
+ 
+29.  What technical assistance does the VR agency require in this area? 
+ 
+F.  Policies Regarding Pre-Employment Transition Services 
+ 
+The new definitions and requirements related to pre-employment transition services and students 
+with disabilities under the Act, as amended by WIOA, require policy revisions and development 
+of new policies.  As specified in §361.50(a), VR agencies are required to develop and maintain 
+written policies regarding the nature and scope of VR services, which include pre-employment 
+transition services.  This section serves as a guide to begin discussion of the VR agency’s 
+policies with respect to the provision of pre-employment transition services to students with 
+disabilities. 
+ 
+Documentation Review:  VR agency policies relating to pre-employment transition services to 
+students with disabilities. 
+ 
+Discussion Questions: 
+ 
+30.  What is the VR agency’s process for revising and implementing policy?  Who is involved in 
+the process and how long does the process usually take from drafting to implementation? 
+ 
+31.  Has the VR agency developed or revised policies or begun developing or revising policies to 
+address pre-employment transition services requirements?  If so, at what stage of the process is 
+the development or revision? 
+ 
+32.  Describe the policies and procedures that have or will be developed or revised to address 
+pre-employment transition services requirements (e.g. referrals, collaborative service provision, 
+and service agreements, etc.).  
+ 
+33.  What changes are required in the VR agency’s case management system to accommodate 
+the policy/procedure changes?  Does the VR agency have a plan or schedule for making these 
+changes if any are needed? 
+ 
+34.  Describe the preparation of VR staff (administrators, supervisors, counselors, and support 
+staff) to implement the provision of pre-employment transition service policies. 
+ 
+22
+
+G.  Fiscal Requirements for the Provision of Pre-Employment Transition Services  
+ 
+Section 110(d)(1) of the Act, as amended by WIOA, and §361.65(a)(3) of the implementing 
+regulations require States to reserve not less than 15 percent of their Federal VR award funds for 
+the provision of pre-employment transition services authorized in section 113 of the Act and 
+§361.48(a).  Federal VR expenditures that are reportable and can be incurred with funds reserved 
+under section 110(d)(1) for the provision of pre-employment transition services include: 
+ 
+• The five required activities, described in section 113(b) of the Act, as amended by 
+WIOA, and §361.48(a)(2) of the implementing regulations once they take effect;  
+• Authorized activities described in section 113(c) of the Act, as amended by WIOA, and 
+§361.48(a)(3) of the implementing regulations once they take effect; and  
+• Pre-employment transition coordination activities described in section 113(d) of the Act, 
+as amended by WIOA, and §361.48(a)(4) of the implementing regulations once they take 
+effect. 
+ 
+So that Federal VR funds reserved for the provision of pre-employment transition services are 
+only spent on the allowable services identified in section 113 of the Act, as amended by WIOA, 
+and §361.48(a) of the implementing regulations once they take effect, States must ensure that 
+methods of administration are established to ensure accurate data collection and fiscal 
+accountability as required in §361.12.  The Uniform Guidance at 2 CFR 200.402(a) (formerly 34 
+CFR 80.20(a) of the Education Department General Administrative Regulations) requires States 
+to develop financial management systems that permit the preparation of reports and the tracing of 
+funds to a level of expenditure adequate to establish that such funds have been used according to 
+the Federal statutes, regulations, and the terms and conditions of the Federal award.  As part of 
+the VR allotment, funds reserved for the provision of pre-employment transition services have 
+the same match requirement as all Federal VR funds, per §361.60.  States are permitted to carry 
+over any unobligated Federal VR funds reserved for the provision of pre-employment transition 
+services so long as they have met the requisite matching requirement for those funds by the end 
+of the year of appropriation, in accordance with section 19 of the Act and §361.64 of the 
+implementing regulations.  In addition, States are not permitted to use funds reserved under 
+section 110(d)(1) to pay for administrative costs associated with the provision of pre-
+employment transition services or for providing any other VR services (see section 110(d)(2) of 
+the Act, as amended by WIOA, and §361.65(a)(3)(ii)(B) of the implementing regulations). 
+ 
+On April 13, 2016, RSA published a Pre-Employment Transition Services FAQ document 
+addressing many questions RSA received about calculating the amount to be reserved and 
+managing, tracking, and spending VR funds for the provision of pre-employment transition 
+services.  The document is available online at: 
+http://www2.ed.gov/programs/rsabvrs/fiscal-
+resources/index.html. 
+1.  Reserve Calculation and Expenditure 
+Documentation Review:  Available SF-425 Financial Reports, written policies or procedures for 
+the tracking of expenditures for pre-employment transition services. 
+ 
+Discussion Questions: 
+23
+
+35.  Describe how the VR agency calculates the amount it will reserve for the provision of pre-
+employment transition services to students with disabilities, so that the State reserves at least 15 
+percent of its VR allotment for this purpose.  Does the VR agency account for adjustments to the 
+State VR allotment, including continuing resolutions, maintenance of effort penalties, and any 
+increase or decrease to the allotment resulting from the reallotment process? 
+ 
+36.  How does the VR agency plan for, or adjust to, any State allotment adjustments throughout 
+the year in an effort to meet the reservation of funds requirement for the provision of pre-
+employment transition services? 
+ 
+37.  Does the VR agency request technical assistance with calculating the amount of VR funds to 
+be reserved for the provision of pre-employment transition services? 
+2.  Non-Federal Share 
+Since the funds reserved for the provision of pre-employment transition services are part of the 
+VR allotment, the non-Federal share (matching) requirements are the same as those for all VR 
+grant funds. 
+ 
+Discussion Questions: 
+ 
+38.  How does the VR agency ensure that the required 21.3 percent non-Federal share is satisfied 
+for the VR grant, including the amount of the grant reserved for the provision of pre-employment 
+transition services to students with disabilities? 
+ 
+39.  Is the VR agency aware that any non-Federal expenditures incurred for the provision of pre-
+employment transition services, that are in excess of the requisite non-Federal share amount, 
+may be spent on any other allowable VR expenditure?  The State is not required to use any 
+excess non-Federal expenditures for matching additional Federal funds for the provision of pre-
+employment transition services.  
+ 
+40.  Is the VR agency spending any non-Federal share on pre-employment transition services, 
+and if so, how much? 
+ 
+41.  Is the VR agency reporting any non-Federal share for reserve purposes in line 12b of the VR 
+SF-425 report?  Pre-employment transition services expenditures may only count toward the 
+amount of funds to be reserved if they are incurred with Federal VR funds. 
+ 
+42.  Does the VR agency request technical assistance related to the non-Federal share for the 
+amount of funds to be reserved for the provision of pre-employment transition services? 
+ 
+3.  Meeting the Requirement to Reserve at least 15 Percent of the VR Allotment for the 
+Provision of Pre-Employment Transition Services 
+ 
+Identify the extent to which the State satisfied the requirement to reserve at least 15 percent of its 
+VR allotment for the provision of pre-employment transition services to students with disabilities 
+for the most recently completed Federal VR award. 
+24
+
+Discussion Questions: 
+ 
+43.  How does the State monitor its progress toward meeting the reserve requirement on a 
+frequent or ongoing basis?  
+ 
+44.  If the State satisfied the requirement to reserve at least 15 percent of its VR allotment for the 
+provision of pre-employment transition services, identify the amount and percentage of Federal 
+expenditures for pre-employment transition services that were actually incurred. 
+ 
+45.  If the amount of VR funds reserved for the provision of pre-employment transition services 
+was significantly above the 15 percent minimum, how is the VR agency managing the impact on 
+the provision of VR services to all other eligible individuals? 
+ 
+46.  Are VR program resources, as a whole, strained in a manner that the VR agency is 
+concerned with its ability to continue serving all eligible individuals?  If so, how is the agency 
+addressing this potential impact given the new requirement to reserve at least 15 percent of the 
+VR allotment for the provision of pre-employment transition services to students with 
+disabilities? 
+ 
+47.  If the State did not reserve at least 15 percent of its VR allotment for the provision of pre-
+employment transition services, identify the amount and percentage of Federal expenditures for 
+pre-employment transition services that was expended. 
+ 
+48.  What additional plans or adjustments has the VR agency made to increase its pre-
+employment transition services expenditures in an effort to meet the State’s reserve requirement? 
+ 
+49.  In addition to the Federal VR funds, are other funding sources used to pay for pre-
+employment transition services?  If so, are these State or local funds?  Are they reported on the 
+SF-425 report? 
+ 
+50.  Does the VR agency request technical assistance with determining whether it met the 15 
+percent reserve requirement? 
+ 
+4.  Internal Controls for Tracking Expenditures Incurred with the Amount of Funds 
+Reserved for the Provision of Pre-Employment Transition Services 
+ 
+Discussion Questions: 
+ 
+51.  Describe the VR agency’s internal controls for tracking expenditures reported as spent on  
+pre-employment transition services. 
+ 
+52.  How does the VR agency pay for pre-employment transition services? 
+ 
+53.  Describe how the VR agency treats pre-employment transition services for tracking and 
+accounting purposes, taking into account the following considerations:   
+25
+
+a. Are reserve funds and pre-employment transition services treated as a separate cost 
+objective, or tracked through some other mechanism to differentiate these services from 
+other VR services? 
+b. If purchased through vendors or CRPs, describe and review documentation regarding the 
+internal controls established to track pre-employment transition services expenditures for 
+students with disabilities.  For example, does the contract itemize services to determine 
+those that meet reserve purposes and those that do not?  
+c. If provided by VR agency staff, describe and review documentation regarding the 
+internal controls established to track personnel time, ensuring that only expenditures for 
+VR agency personnel time spent on the provision of pre-employment transition services 
+to students with disabilities is reported for purposes of using the funds reserved for the 
+provision of pre-employment transition services.  
+d. In instances where an individual may be receiving other VR services, in addition to pre-
+employment transition services, what mechanisms does the VR agency have in place to 
+ensure only appropriate expenditures are included and reported as being paid for with 
+funds reserved for the provision of pre-employment transition services? 
+e. How does the VR agency ensure administrative costs associated with the provision of 
+pre-employment transition services are not paid for with the funds reserved under section 
+110(d)(1) of the Rehabilitation Act for the provision of pre-employment transition 
+services? 
+ 
+54.  What are the challenges the VR agency has experienced in the tracking and reporting of 
+expenditures for pre-employment transition services?  Does the VR agency need further 
+technical assistance in this area? 
+ 
+55.  Is the VR agency providing “authorized” pre-employment transition activities pursuant to 
+section 113(c) of the Rehabilitation Act in an effort to meet its reserve requirement? 
+a. Are these activities purchased or conducted by VR agency personnel? 
+b. What internal control mechanisms does the VR agency have in place to track VR agency 
+personnel time spent on the provision of “authorized” activities? 
+c. How does the VR agency ensure administrative costs associated with the provision of the 
+authorized activities are not paid with the funds reserved under section 110(d)(1) of the 
+Act for the provision of pre-employment transition services? 
+ 
+56.  What process does the VR agency, or other entity (e.g., DSA), use to report pre-employment 
+transition services expenditures in line 12b of the VR SF-425 report? 
+a. What entity is responsible for reporting and submitting the SF-425 report? 
+b. Describe the process in place to gather the pre-employment transition services 
+expenditure data to be reported on the SF-425 report. 
+c. What review processes are established for the VR agency to review the SF-425 report 
+(including pre-employment transition services expenditure data) prior to submission to 
+ensure accuracy? 
+ 
+57.  Describe how the VR agency monitors and evaluates the provision of pre-employment 
+transition services through: 
+a. VR agency staff; 
+26
+
+b. Purchased services from vendors; or 
+c. Third-party cooperative arrangements.  
+ 
+58.  Does the VR agency request technical assistance related to establishing internal controls for 
+tracking pre-employment transition services expenditures, or reporting these expenditures on the 
+SF-425 report? 
+5.  Third-Party Cooperative Arrangements 
+Discussion Questions: 
+ 
+59.  Does the VR agency provide pre-employment transition services through third-party 
+cooperative arrangements?  If so, do these arrangements include a budget with itemized services 
+or are they flat fee-for-service arrangements?  
+ 
+60. How does the VR agency ensure administrative costs are paid for with regular VR funds, and 
+not paid for with funds reserved for the provision of pre-employment transition services? 
+ 
+61.  How is the non-Federal share provided under the third-party cooperative arrangement, if the 
+agency engages in such arrangements? 
+ 
+62.  When the non-Federal share is not provided by the cooperating agency in cash, how does the 
+agency ensure that only certified personnel expenditures or other direct expenditures incurred 
+under the contract with the cooperating agency for the direct provision of VR services to 
+recipients under the third-party cooperative arrangement are reported as an allowable source of 
+match, in accordance with §361.28(c)(3)? 
+ 
+63.  Does the VR agency request technical assistance related to third-party cooperative 
+arrangements that facilitate the provision of pre-employment transition services to students with 
+disabilities? 
+ 
+27
+
+V.  The State Supported Employment Services Program  
+ 
+A.  Overview 
+ 
+The State Supported Employment Services program (Supported Employment program), 
+authorized under title VI of the Rehabilitation Act, as amended by WIOA (Act) provides grants 
+to assist States in developing and implementing collaborative programs with appropriate entities 
+to provide programs of supported employment services for individuals with the most significant 
+disabilities, including youth with the most significant disabilities, to enable them to achieve a 
+supported employment outcome in competitive integrated employment.  Grants made under the 
+Supported Employment program, with implementing regulations to be published in 34 CFR part 
+363, supplement grants issued to States under the VR program, with implementing regulations to 
+be published in 34 CFR part 361. 
+ 
+WIOA made several significant changes to title VI of the Act, which governs the State Supported 
+Employment Services program.  All of the amendments to title VI are consistent with those made 
+throughout the Act, namely to maximize the potential of individuals with disabilities, especially 
+those individuals with the most significant disabilities, to achieve competitive integrated 
+employment and to expand services for youth with the most significant disabilities. 
+ 
+The definition of “supported employment” is found in Part 361, the regulations implementing the 
+VR program, along with several other definitions applicable to the Supported Employment 
+program because the VR program provides supported employment services as well.  The 
+regulation in §361.5(c)(53) implements section 7(38) of the Act, as amended by WIOA, and 
+includes new provisions including “customized employment,” defined separately at section 7(7) 
+of the Act, and “working on a short-term basis” toward competitive integrated employment. 
+ 
+§361.5(c)(53) Supported employment. (i) Supported employment means competitive 
+integrated employment, including customized employment, or employment in an 
+integrated work setting in which an individual with a most significant disability, 
+including a youth with a most significant disability, is working on a short-term basis 
+toward competitive integrated employment that is individualized, and customized, 
+consistent with the unique strengths, abilities, interests, and informed choice of the 
+individual, including with ongoing support services for individuals with the most 
+significant disabilities—  
+(A) For whom competitive integrated employment has not historically occurred, or for 
+whom competitive integrated employment has been interrupted or intermittent as a result 
+of a significant disability; and  
+(B) Who, because of the nature and severity of their disabilities, need intensive supported 
+employment services and extended services after the transition from support provided by 
+the designated State unit, in order to perform this work.  
+(ii) For purposes of this part, an individual with a most significant disability, whose 
+supported employment in an integrated setting does not satisfy the criteria of competitive 
+integrated employment, as defined in paragraph (c)(9) of this section is considered to be 
+working on a short-term basis toward competitive integrated employment so long as the 
+individual can reasonably anticipate achieving competitive integrated employment—  
+28
+
+(A) Within six months of achieving a supported employment outcome; or  
+(B) In limited circumstances, within a period not to exceed 12 months from the 
+achievement of the supported employment outcome, if a longer period is necessary based 
+on the needs of the individual, and the individual has demonstrated progress toward 
+competitive earnings based on information contained in the service record.  
+Other changes made in the Act, as amended by WIOA, and in the implementing regulations, 
+include:  
+• Extending the time frame for the provision of supported employment services from 18 
+months to 24 months in the definition of “supported employment services” in the Act in 
+section 7(39)(C), and in the implementing VR program regulations  34 CFR 
+361.5(c)(54)(iii) and also in the Supported Employment program regulations in 
+§363.50(b)(1); 
+• Requiring in section 602 of the Act, the definition of supported employment in section 
+7(38) and the implementing regulation in §363.1 that supported employment must be in 
+competitive integrated employment or, if not in competitive employment, in an integrated 
+setting in which the individual is working toward competitive integrated employment on 
+a short-term basis;  
+• Requiring in section 603(d) of the Act and §363.22 of the implementing regulations a 
+reservation of 50 percent of a State’s allotment under the Supported Employment 
+program for the provision of supported employment services, including extended 
+services, to youth with the most significant disabilities; 
+• Requiring in section 606(b)(7)(I) of the Act and the implementing regulations in §363.23 
+not less than a 10 percent match for the amount of funds reserved to serve youth with the 
+most significant disabilities; 
+• Reducing in section 606(b)(7)(H) of the Act and the implementing regulations at §363.51 
+the amount of funds that may be spent on administrative costs; and 
+• Removing the definition of “transitional employment” from the implementing regulations 
+in 34 CFR 361.5(c), as well as from the definition of “supported employment” in the 
+implementing regulations in 34 CFR 361.5(c)(53) and the definition of “ongoing support 
+services” from the implementing regulations in 34 CFR 361.5(c)(37) because Congress 
+removed the definition of “transitional employment” from section 7 of the Act.  We 
+believe the removal of this term expressed deliberate Congressional intent to ensure 
+people with mental illness, for which transitional employment was most commonly used, 
+have full access to competitive integrated employment, as would other individuals with 
+the most significant disabilities. 
+ 
+In the course of providing technical assistance in this focus area, RSA will provide technical 
+assistance to VR agencies in both program specific and fiscal accountability areas related to the 
+Supported Employment program.  Program specific technical assistance refers to the 
+Rehabilitation Act, and VR and Supported Employment program implementing regulations at 34 
+CFR 361 and 34 CFR 363, respectively.  Fiscal accountability provides technical assistance 
+regarding compliance with the new fiscal requirements under the program, the Uniform 
+Guidance, and reporting requirements. 
+ 
+29
+
+To facilitate the provision of technical assistance in both program and fiscal areas, and in 
+preparation for the on-site visit, RSA and the VR agency will review applicable documentation 
+and resources related to the Supported Employment program, including, but not limited to: 
+ 
+• VR agency policies and procedures related to the provision of supported employment and 
+extended services; 
+• Third-Party cooperative arrangements and/or cooperative agreements with employers, 
+State Agencies, private nonprofit organizations, and other groups, which fund extended 
+services;  
+• Third-party cooperative arrangements and/or cooperative agreements with supported 
+employment vendors and associated CRPs;  
+• Supported Employment Assurances 5, 6, and 7 and descriptions e., j.1.A., k.2.B., l.2., n, 
+o, p, and q and any additional information from the VR Services Portion of the most 
+recently submitted Unified or Combined State Plan; 
+• Federal Financial Report (SF-425) for the Supported Employment program reporting 
+procedures; 
+• Supporting documentation for amount of funds reserved, expended and reported on the 
+SF-425 for the provision of supported employment services, including extended services, 
+for youth with the most significant disabilities under the Supported Employment program 
+(reserve expenditures);  
+• Supporting documentation for amount of non-Federal funds used to provide match and 
+reported on the SF-425 for the provision of supported employment services, including 
+extended services, for youth with the most significant disabilities under the Supported 
+Employment program (match expenditures);  
+• Updated policies or procedures for tracking expenditures for the provision of supported 
+employment services for purchased services and services provided by VR agency 
+personnel 
+• Procedures to exclude administrative costs from reserve expenditures; and 
+• Performance data related to the number and percentage of individuals with the most 
+significant disabilities receiving supported employment services and achieving supported 
+employment outcomes. 
+ 
+In gathering supported employment related information, RSA may consult: 
+ 
+• The VR agency director and other senior managers; 
+• VR agency counselors; 
+• VR agency supported employment coordinators and staff;  
+• Supported employment vendors and associated CRPs; 
+• Entities with which the VR agency has third-party cooperative arrangements; and  
+• Entities with which the VR agency has arrangements to fund extended services. 
+ 
+B.  Extended Time Frame for Provision of Supported Employment Services 
+ 
+Section 7(39)(C) of the Act, as amended by WIOA, extends the time frame for the provision of 
+supported employment services by the VR agency from 18 months to no longer than 24 months, 
+30
+
+unless under special circumstances the eligible individual and the rehabilitation counselor jointly 
+agree to extend the time to achieve the employment outcome identified in the IPE.  The 
+extension provides additional time for individuals with the most significant disabilities to receive 
+services and supports necessary after placement to achieve an employment outcome in supported 
+employment, either in competitive integrated employment or working on a short-term basis to 
+achieve competitive integrated employment. 
+ 
+Documentation Review:  VR agency policies related to the provision of supported employment 
+services and the achievement of supported employment, RSA-911 data describing the provision 
+of supported employment services. 
+Discussion Questions:  
+ 
+1.  At what point in the VR process does the VR agency begin providing supported employment 
+services? 
+ 
+2.  What types of supported employment services does the agency provide and how are they 
+determined? 
+ 
+3.  Does the agency have data on the average length of time that supported employment services 
+are provided to individuals with the most significant disabilities? 
+ 
+4.  How does the VR agency determine when an extension of time is needed to provide 
+supported employment services to an individual with a most significant disability?  How is that 
+documented? 
+ 
+5.  Does the VR agency have any training and/or technical assistance needs or concerns 
+pertaining to the extended time frame for the provision of supported employment services? 
+ 
+C.  Competitive Integrated Employment and Short-Term Basis 
+ 
+Section 7(38) and the implementing regulation in 34 CFR 363.1 require that supported 
+employment be in competitive integrated employment or, if not, in an integrated setting in which 
+the individual is working toward competitive integrated employment on a short-term basis.  
+Short-term basis is defined in §363.1(c) as follows: 
+ 
+Short-term Basis. For purposes of this part, an individual with a most significant 
+disability, whose supported employment in an integrated setting does not satisfy the 
+criteria of competitive integrated employment, as defined in 34 CFR 361.5(c)(9), is 
+considered to be working on a short-term basis toward competitive integrated 
+employment so long as the individual can reasonably anticipate achieving competitive 
+integrated employment—  
+(1) Within six months of achieving a supported employment outcome; or,  
+(2) In limited circumstances, within a period not to exceed 12 months from the 
+achievement of the supported employment outcome, if a longer period is necessary based 
+on the needs of the individual, and the individual has demonstrated progress toward 
+competitive earnings based on information contained in the service record.  
+31
+
+The six-month short-term basis period, and the additional six months that may be available in 
+limited circumstances, begins after an individual has completed up to 24 months of supported 
+employment services (unless a longer period of time is necessary based upon the individual’s 
+needs) and the individual has achieved a supported employment outcome, meaning that the 
+individual is stable in the supported employment placement for a minimum period of 90 days 
+following the transition to extended services. 
+ 
+Documentation Review:  VR agency policies related to the provision of supported employment 
+services and the achievement of supported employment outcome, RSA-911 data describing the 
+provision of supported employment services. 
+Discussion Questions:  
+ 
+6.  How is the VR agency implementing the short-term basis requirement? 
+ 
+7.  Has the VR agency developed procedures for tracking the short-term basis period? 
+ 
+8.  What expected or actual impact has the short-term basis requirement had on the achievement 
+of competitive integrated employment outcomes in supported employment?  What types of 
+activities has the VR agency implemented to ensure competitive integrated employment can be 
+reasonably achieved within six (6) months of achieving an employment outcome in supported 
+employment, or in limited circumstances, within a period not to exceed 12 months from the 
+achievement of the supported employment outcome? 
+ 
+9.  How does the VR agency determine and document the need to extend the short-term basis 
+period? 
+ 
+10.  What impact has the short-term basis requirement had on the VR counselor’s and the 
+individual’s decision to seek a supported employment outcome?  
+ 
+11.  What impact has the short-term basis requirement had on the provision of supported 
+employment services? 
+ 
+12.  What training or technical assistance needs does the VR agency have regarding the short-
+term basis requirement? 
+ 
+D.  Extended Services for Youth with the Most Significant Disabilities 
+ 
+Prior to the passage of WIOA, VR agencies were not permitted to expend Supported 
+Employment or VR program funds for extended services.  Section 604(b)(2) of the Act, as 
+amended by WIOA, mandates that the VR agency make available extended services for youth 
+with the most significant disabilities for a period not to exceed four years.  The Act defines 
+“youth with a disability” in section 7(42) as an individual with a disability who is not younger 
+than 14 years of age, and not older than 24 years of age. 
+ 
+32
+
+This new requirement is contained in the definition of “extended services” in 34 CFR 
+361.5(c)(19)(v) of the implementing regulations and is an authorized service in in §363.4(a)(2) 
+of the implementing regulations until such time that a youth reaches the age of 25 and no longer 
+meets the definition of a youth with a disability under implementing regulation 34 CFR 
+361.5(c)(58), or has received up to four years of extended services provided by the VR agency, 
+whichever occurs first.  Although the VR agency must discontinue funding extended services 
+once a youth reaches age 25 or has received up to four years of extended services provided by 
+the VR agency, it should explore the availability of funding from other sources. 
+ 
+Documentation Review:  VR agency policies related to the provision of supported employment 
+services and the achievement of supported employment outcomes, RSA-911 data describing the 
+provision of supported employment services, Federal Financial Report (SF-425) for the 
+Supported Employment program. 
+Discussion Questions: 
+ 
+13.  To what extent has the VR agency funded extended services for youth with the most 
+significant disabilities since the Act was amended by WIOA? 
+ 
+14.  What are the sources of funds for extended services for youth with the most significant 
+disabilities?  How does the VR agency leverage other public and private funds to increase 
+resources for extended services and expand supported employment opportunities? 
+ 
+15.  Does the VR agency have cooperative agreements with State agencies, private nonprofit 
+organizations, employers or other entities to provide ongoing support services and other 
+appropriate extended services for individuals with the most significant disabilities?  
+ 
+16.  Has the VR agency developed or amended any cooperative agreements as a result of the 
+requirement for the VR agency to provide extended services for youth with the most significant 
+disabilities with supported employment or VR Program funds? 
+ 
+17.  Has the VR agency encountered challenges in the development, revision or implementation 
+of its extended services cooperative agreements? 
+ 
+18.  Does the VR agency have any training and/or technical assistance needs pertaining to the 
+implementation of extended services for youth with the most significant disabilities funded by 
+the VR & Supported Employment programs? 
+ 
+E.  Transitional Employment 
+ 
+Congress removed all references to transitional employment from the Act, thus the term has been 
+removed in the implementing regulations, both as a separate definition and from the definitions 
+of ”supported employment” and “ongoing support services” in §§361.5(c)(53) and 361.5(c)(37) 
+respectively, of the implementing regulations.  Transitional employment may be provided as a 
+VR service that can lead to an employment outcome, but does not constitute a supported 
+employment outcome within the meaning of the definition of “supported employment” in 34 
+CFR 361.5(c)(53) and §363.1(b) and (c) of the implementing regulations.  Therefore, transitional 
+33
+
+employment would not be an appropriate placement for employment on a short-term basis or as 
+an employment outcome. 
+ 
+Discussion Questions: 
+ 
+19.  What impact has the removal of transitional employment for individuals with the most 
+significant disabilities had on supported employment outcomes?  Has transitional employment 
+continued to be offered as a VR service leading to competitive integrated employment? 
+ 
+20.  Is the VR agency considering/implementing any new supported employment programs, 
+methodologies or initiatives to promote access to competitive integrated employment for 
+individuals with the most significant disabilities due to mental illness?  
+ 
+F.  Requirements for an Employment Outcome in Supported Employment 
+ 
+The four requirements that must be satisfied for a supported employment outcome, consistent 
+with the statutory definition of “employment outcome” in 7(11) of the Act are set forth in 
+§363.54 of the implementing regulations.  First, the individual must have completed supported 
+employment services, which may be received for up to 24 months, or longer if the counselor and 
+the individual have determined that such services are needed to support and maintain the 
+individual in supported employment. Any other VR services listed on the individualized plan for 
+employment provided to individuals who are working on a short-term basis toward the 
+achievement of competitive integrated employment in supported employment need not be 
+completed prior to satisfying the achievement of an employment outcome.  Second, the 
+individual has transitioned to extended services provided either by the VR agency for youth with 
+the most significant disabilities, or another provider, consistent with the provisions of 
+§§363.4(a)(2) and 363.22 in the implementing regulations. Third, the individual has maintained 
+employment and achieved stability in the work setting for a minimum of 90 days after 
+transitioning to extended services and, finally, the employment must be individualized and 
+customized consistent with the strengths, abilities, interests, and informed choice of the 
+individual. 
+ 
+Documentation Review:  VR agency policies related to the provision of supported employment 
+services and the achievement of supported employment outcomes, RSA-911 data describing the 
+provision of supported employment services. 
+ 
+Discussion Questions: 
+ 
+21.  What services, if any, does the VR agency continue to provide to individuals who are 
+working on a short-term basis toward the achievement of competitive integrated employment in 
+supported employment? 
+ 
+22.  Does the VR agency meet all of the requirements that must be satisfied for an employment 
+outcome in supported employment?  
+ 
+34
+
+23.  Does the VR agency need any additional training or technical assistance on the requirements 
+for an employment outcome in supported employment?  
+ 
+G.  Closure of the Supported Employment Service Record 
+ 
+Regulations implementing title VI, specifically §363.55, address when the service record of an 
+individual who has achieved an employment outcome in supported employment may be closed.  
+Separate requirements are specified for different scenarios, depending on whether individuals 
+with the most significant disabilities, including youth with the most significant disabilities, 
+achieve competitive integrated employment or work toward competitive integrated employment 
+on a short-term basis and whether they are receiving extended services and any other VR 
+services from the VR agency or from other service providers. 
+ 
+The service record for an individual with a most significant disability, including a youth with a 
+most significant disability, who has achieved an employment outcome in supported employment 
+in competitive integrated employment is closed at the time the individual achieves the 
+employment outcome and has satisfied the requirements for case closure in 34 CFR 361.56 of the 
+implementing regulations; and is not receiving extended services or any other VR service 
+provided by the VR agency with funds under title I or the Supported Employment program. 
+ 
+The service record of an individual with a most significant disability, including a youth with a 
+most significant disability who is working toward competitive integrated employment on a short-
+term basis and is receiving extended services from funds other than those allotted under the 
+Supported Employment program and implementing regulations in 34 CFR part 361 will be 
+closed when the individual achieves competitive integrated employment within the short-term 
+basis period established pursuant to implementing regulation §363.1(c); the individual satisfies 
+requirements for case closure in implementing regulation 34 CFR 361.56; and is no longer 
+receiving VR services provided by the VR agency with funds under the implementing 
+regulations in 34 CFR part 361.  If an individual does not achieve competitive integrated 
+employment within the short-term basis period, the service record will be closed.  
+ 
+The service record of a youth with a most significant disability who is receiving extended 
+services provided by the VR agency from funds under the Supported Employment program or 
+the VR program will be closed when the youth achieves an employment outcome in supported 
+employment in competitive integrated employment without entering the short-term basis period; 
+and is no longer eligible to receive extended services provided by the VR agency with funds 
+allotted under the Supported Employment program or the VR program because the individual no 
+longer meets age requirements established in the definition of a youth with a disability pursuant 
+to implementing regulation 34 CFR 361.5(c)(58); or has received extended services for a period 
+of four years; or has transitioned to extended services provided with funds other than those 
+allotted under the Supported Employment program or the VR program prior to meeting the age 
+or time restrictions.  Additionally, the requirements for case closure in implementing regulation 
+34 CFR 361.56 must be satisfied; and the individual may no longer be receiving any other VR 
+service from the VR agency provided with title I funds. 
+ 
+35
+
+The service record of a youth with a most significant disability who is working toward 
+competitive integrated employment on a short-term basis will be closed when the individual 
+achieves competitive integrated employment within the short-term basis period and is no longer 
+eligible to receive extended services provided by the VR agency with funds allotted under the 
+Supported Employment program or the VR program because the individual no longer meets age 
+requirements established in the definition of a youth with a disability; or has received extended 
+services for a period of four years; or has transitioned to extended services provided with funds 
+other than those allotted under the VR or Supported Employment programs prior to meeting the 
+age or time restrictions.  Additionally, the requirements for case closure in implementing 
+regulation 34 CFR 361.56 must be satisfied.  If a youth does not achieve competitive integrated 
+employment within the short-term basis period, the service record will be closed.  
+ 
+Documentation Review:  VR agency policies related to the provision of supported employment 
+services and the achievement of supported employment outcomes, RSA-911 data describing the 
+provision of supported employment services. 
+ 
+Discussion Questions: 
+ 
+24.  Does the VR agency understand the different scenarios outlined in the service record closure 
+requirements for youth?  For individuals working on a short-term basis? 
+ 
+25.  Has the VR agency closed any service records for youth with the most significant disabilities 
+who achieved an employment outcome in supported employment subsequent to receiving 
+extended services funded under the VR or Supported Employment programs? 
+ 
+26.  Does the VR agency have particular training and/or technical assistance needs pertaining to 
+when and how the service record for youth with most significant disabilities who have achieved 
+an employment outcome in supported employment may be closed?  
+ 
+H.  Fiscal Elements of the Provision of Supported Employment Services 
+ 
+1.  Reservation of Supported Employment Funds for the Provision of Services to Youth 
+with the Most Significant Disabilities (§363.22) 
+ 
+Section 603(d) of the Act, as amended by WIOA requires the State to reserve 50 percent of its 
+Federal Supported Employment program allotment for the provision of supported employment 
+services, including extended services, to youth with the most significant disabilities.  The reserve 
+will be affected by adjustments to a State’s allotment made throughout the year of appropriation, 
+including continuing resolutions and reallotment relinquishments or additions to the Federal 
+Supported Employment program award funds.  As with all VR and Supported Employment 
+program funds, States must implement processes necessary to ensure the proper accounting and 
+reporting of expenditures, including those incurred with reserved funds, to ensure the funds spent 
+were only for allowable and allocable purposes. 
+ 
+The reservation of funds for the provision of supported employment services for youth with the 
+most significant disabilities must be resolved at the State level when there are two agencies 
+36
+
+(General and Blind).  For this reason, RSA encourages agencies to coordinate to ensure State 
+compliance.  While RSA recommends that each VR agency, particularly when a State has two, 
+reserve 50 percent of its allotment to facilitate tracking of State compliance of the reservation 
+requirement, there is no statutory requirement that this be done.  If one of the two agencies uses 
+more of its funds than the other for reserve purposes, the State would be in compliance so long as 
+the State’s total funds reserved for the provision of supported employment services for youth 
+with the most significant disabilities is 50 percent of the State’s total Federal Supported 
+Employment program allotment, including any additional funds received during reallotment by 
+one or both agencies.  
+ 
+It is critical that each VR agency implement administrative methods and procedures that will 
+ensure proper data collection and financial accountability of these reserved funds, so that the VR 
+agency will be able to complete accurately all required forms, including financial reports, that 
+show the reservation and use of these funds for this purpose, as required by 2 CFR 200.302(a) of 
+the Uniform Administrative Requirements, Cost Principles and Audit Requirements for Federal 
+Awards. 
+ 
+Documentation Review:  Supporting documentation for reserve expenditures reported on the SF-
+425 for the State Supported Employment Services program, updated policies or procedures for 
+tracking expenditures for the provision of supported employment services: 
+ 
+Discussion Questions:  
+ 
+27.  What mechanisms has the grantee employed to track the 50 percent reserve funds and to 
+ensure those funds are only expended for allowable Supported Employment program reserve 
+costs?  Please explain the VR agency’s process for tracking the 50 percent reserve funds and for 
+ensuring that these funds are only expended for allowable Supported Employment program 
+reserve costs.  
+ 
+28.  Does the grantee plan to relinquish supported employment funds during reallotment in the 
+year of appropriation in the event that a certain amount of funds remain unexpended?  What 
+internal controls are in place to ensure only unneeded funds are relinquished? 
+ 
+29.  Does the VR agency have any particular training and/or technical assistance needs regarding 
+how to track the 50 percent supported employment reserve for youth with the most significant 
+disabilities? 
+ 
+2.  Supported Employment Match (non-Federal share) (§363.23) 
+ 
+Section 606(b)(7)(I) of the Act, as amended by WIOA, and implementing regulation §363.23 
+require that States must provide non-Federal expenditures in an amount that is not less than 10 
+percent of total expenditures for youth with the most significant disabilities.  Total expenditures 
+means both the Federal reserved funds and the non-Federal share incurred for the provision of 
+supported employment services, including extended services, to youth with the most significant 
+disabilities. Since the required non-Federal share is only applicable to the 50 percent reserved 
+funds for youth with the most significant disabilities, the non-Federal expenditures are required 
+37
+
+to be spent on supported employment services, including extended services, to youth with the 
+most significant disabilities.  However, the 10 percent non-Federal share cannot count toward 
+meeting the reserve requirements, which apply only to the Federal Supported Employment 
+program award funds.  For example, if a State’s total Federal Supported Employment allotment 
+is $2,000,000 and it draws down and expends $1,000,000 (50 percent) for the provision of 
+supported employment services, including extended services, to youth with the most significant 
+disabilities, the State would have to provide a match of $111,111 (($1,000,000 / 0.90) X 0.10) in 
+non-Federal expenditures for the provision of these services as well. 
+ 
+In the event that a State uses more than 50 percent of its allotment under the implementing 
+regulations of part 363 to provide supported employment services to youth with the most 
+significant disabilities, there is no requirement that the State provide non-Federal expenditures to 
+match the Federal funds in excess of the 50 percent of Supported Employment program funds 
+reserved and spent for this purpose.  For this reason, RSA encourages agencies (when a State has 
+two VR agencies) to coordinate to ensure State compliance.  Assuming all statutory, regulatory 
+and Federal cost principle requirements are met, the State may use non-Federal expenditures to 
+pay for allowable supported employment services, including extended services, to youth with the 
+most significant disabilities, whether paid directly by VR agencies, regardless of whether these 
+funds were obtained by State appropriations, interagency transfers from other public agencies or 
+private donations transferred to the VR agency’s account, or certified expenditures incurred by 
+another State or local public agency under a third-party cooperative arrangement.  Third-party in-
+kind contributions are not an allowable source of match under the Supported Employment 
+program, just as they are not an allowable source of match under the VR program. 
+ 
+The State can carry over to the succeeding fiscal year, only the funds that it has reserved and 
+matched in the fiscal year of appropriation.  If it does carry over those reserved funds, it may 
+spend those funds only for supported employment, including extended employment services for 
+youth with the most significant disabilities. 
+ 
+Documentation Review:  Supporting documentation for reserve and match expenditures reported 
+on the SF-425 for the State Supported Employment Services program, updated policies or 
+procedures for tracking expenditures for the provision of supported employment services: 
+ 
+Discussion Questions:  
+ 
+30.  What fiscal controls has the VR agency put into place to ensure that it has met its 
+requirement to match 10 percent of total Federal and non-Federal expenditures for reserve 
+purposes expended by the end of the year of appropriation? 
+ 
+31.  How will the State ensure that its match requirement is met by the end of the year of 
+appropriation, sufficient to fully expend the reserve in the year of appropriation, or carry over 
+unobligated reserve funds for obligation and expenditure into the carryover year? 
+ 
+32.  Does the VR agency have any particular training and/or technical assistance needs regarding 
+the Supported Employment program match, including the calculation? 
+ 
+38
+
+3.  Administrative Costs (§603(c)) 
+ 
+Under section 606(b)(7)(H) of the Act, as amended by WIOA, and implementing regulation 
+§363.51, a State may not use more than 2.5 percent of its Supported Employment program 
+allotment to pay for administrative costs.  Prior §363.51 limited administrative costs to 5 percent 
+of the State’s allotment.  With this change, more Supported Employment program funding will 
+be spent on providing direct services to individuals, including youth, with the most significant 
+disabilities.  However, just as in previous years, nothing prevents a State from using VR funds to 
+pay for Supported Employment program administrative costs. 
+ 
+Documentation Review:  Updated policies or procedures for tracking expenditures for the 
+provision of supported employment services for purchased services and services provided by VR 
+agency personnel; and related procedures to exclude administrative costs from reserve 
+expenditures. 
+ 
+Discussion Questions:  
+ 
+33.  How does the grantee track expenditures to ensure that administrative costs do not account 
+for more than 2.5 percent of its Supported Employment program allotment? 
+ 
+34.  Does the VR agency have any particular training and/or technical assistance needs regarding 
+the 2.5 percent limitation for the Supported Employment program allotment administrative 
+costs? 
+ 
+4.  Supported Employment Related Requirements 
+ 
+VR agencies must ensure that Supported Employment program funds received under title VI of 
+the Act, as amended by WIOA and the implementing regulations in 34 CFR part 363 are 
+expended solely on supported employment services provided after the individual has a job 
+placement in supported employment.  This is because supported employment services, defined in 
+section 7(39) of the Act, as amended by WIOA, are those ongoing support services “needed to 
+support and maintain an individual with a most significant disability in supported employment...”  
+Expenditures for pre-placement services such as work adjustment training, job development, and 
+job search/assistance and all pre-placement VR services, including pre-employment transition 
+services, cannot be allocated to the Supported Employment program.  Rather, these, and all pre-
+placement VR services, including pre-employment transition services, must be paid for with VR 
+funds until the individual obtains supported employment. 
+ 
+5.  SF-425 Reserve and Match Reporting 
+ 
+Beginning in FFY 2017, supported employment grantees will be required to submit completed 
+SF-425 Federal Financial Reports on a semi-annual basis.  Semi-annual reporting is necessary in 
+order for RSA to effectively monitor the matching and reservation of funds requirements under 
+WIOA.  The end dates for each reporting period in a fiscal year are 3/31 and 9/30.  Semi-annual 
+reports must be submitted no later than 45 days after the end of the reporting period.  Final 
+reports must be submitted no later than 90 days after the period of performance.  Period of 
+39
+
+performance means the time during which the non-Federal entity may incur new obligations to 
+carry out the work authorized under the Federal award. 
+ 
+See PD-15-06, Instructions for completing Federal Financial Reports (SF-425) for the State 
+Supported Employment Services program.  
+ 
+Documentation Review:  Supporting documentation for reserve expenditures reported on the SF-
+425 for the State Supported Employment Services program, updated policies or procedures for 
+tracking expenditures for the provision of supported employment services, updated policies or 
+procedures for tracking expenditures for the provision of supported employment services for 
+purchased services and services provided by VR agency personnel; and related procedures to 
+exclude administrative costs from reserve expenditures 
+ 
+Discussion Questions:  
+ 
+35.  Does the VR agency have any training and/or technical assistance needs pertaining to the 
+SF-425 Semi-annual match and reservation reporting requirements? 
+ 
+36.  Has the VR agency revised its internal policies and procedures to meet the new match and 
+reserve reporting requirements as outlined above? 
+ 
+37.  Describe the process the VR agency utilizes to track and report expenditures for the non-
+Federal share and 50 percent reserve on the SF-425 report. 
+ 
+38.  Does the VR agency have any training and/or technical assistance needs pertaining to SF-
+425 reserve and match reporting? 
+ 
+6.  Further Resources for Supported Employment 
+ 
+• Updated, detailed instructions for completing SF-425 Federal Financial Reports for the 
+Supported Employment program are provided in PD-15-06, available at the RSA website: 
+http://www.ed.gov/policy/speced/guid/rsa/pd/2015/pd-15-06.pdf . 
+ 
+• An overview of the specific requirements related to reservation of funds, State match, 
+administrative costs, extended services, and financial management is included as an 
+attachment to the Supported Employment Grant Award Notification, RSA-SE-1, which 
+may be accessed in G5. 
+ 
+• The RSA website now includes a match calculator for both the VR and Supported 
+Employment awards, which is available at https://rsa.ed.gov/match-calculator.cfm . 
+ 
+• The Department website has developed a page for its grantees dedicated to explaining 
+changes associated with the Uniform Guidance.  This is available here: 
+http://www2.ed.gov/policy/fund/guid/uniform-guidance/index.html .  
+ 
+40
+
+I.  General Questions 
+ 
+39.  What policies or activities has the VR agency implemented to assist individuals with the 
+most significant disabilities, including youth with most significant disabilities, to achieve an 
+outcome of supported employment in competitive integrated employment settings? 
+ 
+40.  What types of individualized and/or customized work settings have been established to assist 
+individuals with most significant disabilities, including youth with most significant disabilities, 
+to achieve an outcome of supported employment in competitive integrated employment? 
+ 
+41.  What comprehensive assessments and/or tools are used to identify consumers’ strengths, 
+abilities, interests, rehabilitation and job needs, informed choices, and ongoing support services? 
+ 
+42.  Has the VR agency summarized the results of the needs assessment of individuals with the 
+most significant disabilities, including youth with the most significant disabilities, conducted 
+under section 101(a)(15) of the Act and implementing regulation 34 CFR 361.29(a), with respect 
+to the rehabilitation and career needs of individuals with most significant disabilities and their 
+need for supported employment services? Does the results of this needs assessment address 
+needs relating to coordination?  
+ 
+41

@@ -1,0 +1,1281 @@
+FILENAME: 680dfa7d7282-Profile_of_Veterans_2017.pdf
+PATH: _raw/tacqe.com/680dfa7d7282-Profile_of_Veterans_2017.pdf
+
+Profile of Veterans: 2017
+Prepared by the National Center for Veterans Analysis and Statistics
+March 2019
+NCVAS  
+National Center for 
+Veterans Analysis and Statistics
+
+Data Source and Methods
+• Data for this analysis come from the 2017 American Community Survey (ACS) Public Use Microdata Sample 
+(PUMS).
+• The ACS is an ongoing survey that provides annual data on the social and economic characteristics of the U.S. population.
+• The ACS uses a series of monthly samples to produce annually updated data for the same small areas (census tracts and block groups) 
+formerly surveyed via the decennial census long-form sample.
+• The universe for this analysis is the civilian population 17 years and older living in the United States and Puerto 
+Rico.
+• This universe includes a weighted estimate of 18.3 million Veterans, of which 1.6 million were women.
+• The universe includes a weighted estimate of 278 million civilian population, of which 241 million were non-Veterans. 
+• The analysis is presented in four parts: (1) Veteran status (slides 4 to 23); (2) Veterans by sex (slides 24 to 31) ; (3) Minorities by 
+Veteran status (slides 32-41); and (4) Summary of results (slides 42-44).
+• Race categories are shown for the non-Hispanic population (e.g., White non-Hispanic, Black non-Hispanic, 
+Asian non-Hispanic).  Hispanics can be of any race.
+• “NHOPI” includes Native Hawaiians and or other Pacific Islanders.
+• “Some Other Race” includes individuals who did not report as belonging to any other race categories. 
+• “Two or More Races” includes individuals who chose two or more race categories.
+• The term “AIAN” is used for those individuals who identified themselves as American Indian or Alaska Natives.
+• All comparative statements have undergone statistical testing and are significant at the 90-percent confidence 
+level.
+• A “statistically significant difference” simply means there is statistical evidence that there is a difference; it does not mean the 
+difference is necessarily large, important or significant in the usual sense of the word.’
+• A “no statistically significant difference” means that there is statistical evidence that there is no difference in the comparative 
+percentages/rates.
+• For more information about the ACS, see:  http://www.census.gov/acs/www/.
+• Other data sources used are VetPop2016, the official Veteran population projection from the Department of 
+Veterans Affairs (VA) and the U.S. Veterans Eligibility Trends and Statistics, 2017 (USVets2017).  
+• These sources are based on the Federal fiscal year – October 1, 2016 through September 30, 2017 and will be identified throughout 
+this document, as appropriate.   
+2
+Prepared by the National Center for Veterans Analysis and Statistics
+
+Issues to consider when comparing Veterans and non-Veterans
+3
+Veterans are predominantly men (around 91 percent) whereas over half of all non-Veterans are 
+women.  This difference is particularly important to remember when doing any economic 
+comparisons.  In general, men earn more, were more likely to be employed, less likely to be 
+single parents, and less likely to live in poverty than women.  Any economic differences between 
+the total Veteran population and the total non-Veteran population will be exaggerated by the 
+differences in the sex ratios of the two groups.
+Veterans are significantly older than non-Veterans.  Veteran median age is around 64 compared 
+with 44 for non-Veterans.  Any characteristics correlated with age (e.g., employment, disability, 
+income) will be significantly affected by the differences in the age distributions of the two groups.
+There are issues of selection bias in any comparison of Veterans and non-Veterans.  Individuals in 
+the All-Volunteer Force are not randomly selected into the Armed Forces.  They choose to enlist 
+and are then chosen by the military based on specific criteria, both mental and physical, that may 
+set them apart from the population who chose not to enlist.  Any effects ascribed to military 
+service may be attributable to pre-service characteristics and not necessarily Veteran status.
+Source: U.S. Census Bureau, American Community Survey PUMS, 2017
+Prepared by the National Center for Veterans Analysis and Statistics
+
+Veteran and Non-Veteran 
+Population Totals
+18,263,035 Veterans    
+240,828,789 Non-Veterans
+4
+Source: U.S. Census Bureau, American Community Survey PUMS, 2017
+
+Male Veteran Male Non-Veteran
+Source: U.S. Census Bureau, American Community Survey PUMS, 2017
+Prepared by the National Center for Veterans Analysis and Statistics    
+Age Distribution of Men
+(in percent)
+Male Veterans on average were older than non-Veteran men.  In 2017, the median age of 
+male Veterans was 65 and the median age of non-Veteran men was 42.
+5
+1.2
+6.8 8.3
+13.6
+17.2
+28.3
+16.1
+8.6
+16.4
+19.9
+17.7 17.2 16.1
+8.6
+3.5
+0.7
+
+Female Veteran Female Non-Veteran
+As with male Veterans, a lower percentage of female Veterans were in the youngest age group—17 to 24 
+years old than their non-Veteran counterparts.  These are the ages when most men and women may still 
+be serving in the military and have not yet become Veterans.  The median age of female Veterans was 51 
+and non-Veteran women was 47 in 2017. 
+Age Distribution of Women
+(in percent)
+Source: U.S. Census Bureau, American Community Survey PUMS, 2017
+Prepared by the National Center for Veterans Analysis and Statistics    6
+3.3
+14.1
+17.9
+22.5 22.9
+10.5
+5.5
+3.3
+13.1
+16.9 15.8 16.2 16.5
+12.1
+6.4
+3.1
+*Age difference between Veteran and Non-Veteran women is not statistically significant at the 90 percent confidence level.
+
+Male Veterans were more likely to be White not Hispanic than non-Veterans and women Veterans.  
+Female Veterans were more likely to be Nonwhite not Hispanic than non-Veteran women.  Both male 
+and female Veterans were less likely to be Hispanic than their non-Veteran counterparts.
+Men Women
+Source: U.S. Census Bureau, American Community Survey PUMS, 2017
+Prepared by the National Center for Veterans Analysis and Statistics    
+Race Distribution
+(in percent)
+Notes: (1) “Nonwhite” includes Black, American Indian/Alaska Native, Native Hawaiian or Other Pacific Islander, 
+some other race, and two or more races; (2) Refer to slide 27 for a detailed distribution of race and ethnicity.
+Veteran Non-VeteranVeteran Non-Veteran
+7
+78.0
+14.8
+7.1
+60.6
+20.4 19.0
+White Non-Hispanic Nonwhite Non-Hispanic Hispanic
+65.2
+25.3
+9.5
+62.4
+21.0
+16.6
+White Non-Hispanic Nonwhite Non-Hispanic Hispanic
+
+Men Women
+Source: U.S. Census Bureau, American Community Survey PUMS, 2017
+Prepared by the National Center for Veterans Analysis and Statistics    
+Veteran Non-Veteran Veteran Non-Veteran
+Marital Status Distribution
+(in percent)
+Veterans were more likely to be married or divorced and less likely to have never married 
+compared with non-Veterans.  
+8
+64.7
+15.2
+10.0 10.2
+48.8
+9.2
+3.6
+38.5
+Married Divorced or
+Separated
+Widowed Never married
+50.9
+22.8
+10.3
+16.0
+47.6
+12.5 11.3
+28.6
+Married Divorced or
+Separated
+Widowed Never married
+
+Men Women
+Source: U.S. Census Bureau, American Community Survey PUMS, 2017
+Prepared by the National Center for Veterans Analysis and Statistics    
+Veteran Non-Veteran Veteran Non-Veteran
+Education Levels Distribution
+(in percent)
+Female Veterans were more likely to have some college, bachelor’s degree and an 
+advanced degree than male Veterans and female non-Veterans.  
+9
+35.3 37.0
+16.4
+11.3
+44.2
+27.9
+17.7
+10.2
+High school
+graduate or less
+Some college Bachelor's degree Advanced degree
+20.9
+42.4
+21.3
+15.4
+38.9
+31.3
+18.9
+10.9
+High school
+graduate or less
+Some college Bachelor's degree Advanced degree
+
+Occupation of Employed Women
+(in percent)
+Class of Worker of Employed Women
+(in percent)
+Veteran Non-Veteran Veteran Non-Veteran
+The percentage of female Veterans working in management, business, science and arts occupations 
+was about 8 percentage points higher than that of non-Veteran women in 2017.  These include 
+occupations such as engineers, educators, doctors, and various types of managers. About 34 percent of 
+female Veterans worked for local, state, or Federal government, compared to 16 percent of non-
+Veteran women. 
+Source: U.S. Census Bureau, American Community Survey PUMS, 2017
+Prepared by the National Center for Veterans Analysis and Statistics    
+Note: “All Other” includes Farming, fishing, and forestry; Construction, 
+extraction, maintenance, and repair. 
+10
+61.2
+33.8
+5.0
+77.2
+15.9
+7.0
+Private Government Self-employed
+*Difference between Veteran and Non-Veteran women is not 
+statistically significant at the 90 percent confidence level.
+50.5
+26.9
+14.6
+5.9
+2.1
+42.7
+29.3
+21.1
+5.9
+1.0
+Management,
+professional
+Sales, office Service Production,
+transportation*
+All other
+
+Occupation of Employed Men
+(in percent)
+Class of Worker of Employed Men
+(in percent)
+Veteran Non-Veteran Veteran Non-Veteran
+A higher percentage of male Veterans were in management, business, science, arts and transportation 
+occupations compared with non-Veteran men in 2017.  The percentage of male Veterans working for 
+local, state, or Federal governments were twice that of non-Veteran men. 
+Source: U.S. Census Bureau, American Community Survey PUMS, 2017
+Prepared by the National Center for Veterans Analysis and Statistics    
+Note: “All Other” includes Farming, fishing, and forestry; 
+construction, extraction, maintenance, and repair. 
+11
+35.5
+19.0
+14.7 15.9 14.9
+33.8
+17.9 16.9 15.7 15.0
+Management,
+professional*
+Production,
+transportation
+Sales, office All other* Service*
+67.3
+25.0
+7.6
+78.9
+10.2 10.8
+Private Government Self-employed
+*Difference between Veteran and Non-Veteran men is not statistically 
+significant at the 90 percent confidence level.
+
+Source: U.S. Census Bureau, American Community Survey PUMS, 1-year estimates 2009 to 2017 
+Prepared by the National Center for Veterans Analysis and Statistics    
+Occupations of Employed Veterans and Non-Veterans
+(in percent)
+A higher percentage of employed Veterans were in production, transportation and other occupations 
+than employed non-Veterans over time. Management, business, science and arts occupations remained 
+steady regardless of the employed Veteran status.  
+12
+*Difference between Veteran and Non-Veteran is not 
+statistically significant at the 90% confidence level.
+Notes: (1) "All other" includes military; farming, fishing and forestry; 
+construction, extraction, maintenance, and repair.
+(2) The prevalence of occupations are not statistically significant at the 
+90 percent level from year to year.
+0
+5
+10
+15
+20
+25
+30
+35
+40
+Management, Professional
+Veteran Non-Veteran
+0
+5
+10
+15
+20
+25
+30
+35
+40
+Production, Transportation
+Veteran Non-Veteran
+0
+5
+10
+15
+20
+25
+30
+35
+40
+Sales, Office
+Veteran Non-Veteran
+0
+5
+10
+15
+20
+25
+30
+35
+40
+Service
+Veteran Non-Veteran
+0
+5
+10
+15
+20
+25
+30
+35
+40
+Other Occupations
+Veteran Non-Veteran
+
+Men Women
+Veterans were more likely to live above 400 percent of poverty level compared to non-
+Veterans. Fewer Veterans lived at or below poverty level than non-Veterans.
+Poverty Level Distributions
+(in percent)
+Source: U.S. Census Bureau, American Community Survey PUMS, 2017
+Prepared by the National Center for Veterans Analysis and Statistics    13
+*Difference between Veteran and Non-Veteran women is not 
+statistically significant at the 90 percent confidence level.
+Note: Families in the “0 to 99 percent” are in poverty.  Categories above 100 percent are used by 
+public and private programs to determine eligibility. The official poverty thresholds do not vary 
+geographically, but they are updated for inflation using Consumer Price Index. The official poverty 
+definition uses money income before taxes and does not include capital gains or noncash benefits 
+(such as public housing, Medicaid, and food stamps). For more information, visit: 
+http://www.census.gov/hhes/www/poverty/about/overview/measure.html .
+In-Poverty by Veteran Status
+(in percent)
+9.4 6.5 7.7
+15.1 14.7
+46.5
+13.7
+8.6 8.9
+15.9
+13.5
+39.4
+0 to 99% 100 to
+149%
+150 to
+199%
+200 to
+299%*
+300 to
+399%
+400%  or
+higher
+Age Veteran Non-Veteran
+25 to 34 Years Old 8.4 10.1
+35 to 44 Years Old 5.2 9.3
+Age Veteran Non-Veteran
+25 to 34 Years Old 11.4 15.9
+35 to 44 Years Old 9.0 13.5
+6.4 6.2 7.5
+16.2 15.9
+47.8
+10.9 7.4 8.4
+15.8 14.2
+43.2
+0 to 99% 100 to
+149%
+150 to
+199%
+200 to
+299%*
+300 to
+399%
+400% or
+higher
+Veteran Non-Veteran Veteran Non-Veteran
+
+Men WomenVeteran Non-Veteran Veteran Non-Veteran
+Both male and female Veterans were more likely to have a combination of public and private health 
+insurance coverage compared with their non-Veteran counterparts.  The high percentage of male 
+Veterans in this category was likely due to Medicare, use of VA health care and second career after 
+retirement than non-Veterans.  Male and female Veterans had lower uninsured rates than non-Veterans 
+in 2017.
+Source: U.S. Census Bureau, American Community Survey PUMS, 2017
+Prepared by the National Center for Veterans Analysis and Statistics    
+Health Insurance Coverage Distribution
+(in percent)
+14
+45.0
+19.9
+31.4
+3.8
+54.8
+22.6
+14.0
+8.6
+Private only Public only Public and
+private
+No coverage
+26.7 25.8
+44.7
+2.8
+60.1
+18.0
+8.6
+13.3
+Private only Public only Public and private No coverage
+
+Source: U.S. Census Bureau, American Community Survey PUMS, 1-year estimates 2009 to 2017 
+Prepared by the National Center for Veterans Analysis and Statistics    
+Uninsured Rates for Veterans Who Did Not Use VAHC and non-Veterans, 2009-2017
+(in percent)
+The percentage of uninsured non-Veterans was more than double that of uninsured Veterans 
+who did not use VA health care (VAHC) in all years 2009 to 2017.  
+15
+*The year to year change for Veterans is not statistically significant at the 90 percent confidence level for 2009 to 2010, 2 010 to 2011 and 2011 to 2012.
+0
+5
+10
+15
+20
+25
+2009 2010 2011 2012 2013 2014 2015 2016 2017
+Uninsured Rate
+Veterans who did not use VAHC non-Veterans
+Bulk of the provisions of ACA takes effect 
+including the health exchanges and federal 
+subsidies for health insurance coverage, 
+prohibits denial of coverage to adults with pre-
+existing conditions and requires large 
+employers to provide coverage to those who 
+worked at least 30 hours per week.
+Affordable Care Act signed into law.
+Several provisions begin to take effect including 
+allowing adults with existing conditions to join 
+temporary high-risk status and dependent children 
+allowed to stay on parents’ insurance until age 26.
+
+Source: U.S. Census Bureau, American Community Survey PUMS, 1-year estimates 2009 to 2017 
+Prepared by the National Center for Veterans Analysis and Statistics    
+Insurance Type for Veterans Who Did Not Use Veteran Affairs Health Care and 
+non-Veterans, 2009-2017
+(in percent)
+A higher percentage of Veterans who did not use VA health care (VAHC) had private only and 
+public and private health care coverage than non-Veterans over time.  
+16
+0
+5
+10
+15
+20
+25
+30
+35
+Public Coverage  Only
+0
+5
+10
+15
+20
+25
+30
+35
+Public and Private Coverage
+0
+20
+40
+60
+80
+Private Coverage Only
+Veterans who did not use
+VAHC
+non-Veterans
+*Difference between Veteran and non-Veteran men is not statistically significant at the 90 percent confidence level.
+
+* The numbers from the chart do not sum to the total number of VA users. Veterans who used multiple programs are 
+counted in each individual program, but only once in the overall total.
+** Contains Veterans who received Special Housing Allowance or Special Adaptive Housing benefits. 
+17
+Approximately 9.8 million Veterans used at least one VA benefit or service in FY 2017.  
+Forty five percent of all VA users received benefits or services from multiple programs.*
+Source: U.S. Veterans Eligibility Trends and Statistics, 2017
+Prepared by the National Center for Veterans Analysis and Statistics    
+VA Benefits Utilization by Program - Veterans only: FY 2017
+0.1
+0.2
+0.6
+1.1
+2.9
+4.8
+6.1
+0 1 2 3 4 5 6 7
+Vocational Rehab.
+Memorial
+Benefits
+Education
+Life Insurance
+Loan Guaranty**
+Compensation or
+Pension
+Health Care
+Number of Veterans (Millions)
+About 7.3 million Veterans 
+used at least one benefit 
+provided by the Veterans 
+Benefits Administration (VBA)
+
+In 2017, both male and female Veterans who worked full-time, year-round had higher 
+median earnings than their non-Veteran counterparts.  Veterans of both sexes also had 
+higher personal incomes than non-Veterans.
+Median Earnings of Year-Round Full-Time
+Workers by Sex and Veteran Status 
+Median Personal Income by Sex and 
+Veteran Status
+Source: U.S. Census Bureau, American Community Survey PUMS, 2017.  
+Prepared by the National Center for Veterans Analysis and Statistics    
+“Earnings” refer to salary, wages, and self employment income. 
+“Year-round full-time(YRFT) refers to employment of 50 or more weeks per 
+year and 35 or more hours per week.  Median earnings are calculated for 
+the YRFT employed population with earnings greater than zero and less 
+than 65 years of age. 
+“Income” refers to the total of earnings and other sources of 
+income such as pension, Supplement Security Income, public 
+assistance, etc. Median Income is calculated for the total population 
+with personal income greater than zero. 
+18
+$50,986
+$40,000
+$40,939
+$29,999
+Male Veterans
+Male Non-Veterans
+Female Veterans
+Female Non-Veterans
+$39,485
+$29,998
+$31,810
+$19,193
+Male Veterans
+Male Non-Veterans
+Female Veterans
+Female Non-Veterans
+
+In most age groups, Veteran men have higher median household income than non-
+Veteran men.  
+Source: U.S. Census Bureau, American Community Survey PUMS, 2017
+Prepared by the National Center for Veterans Analysis and Statistics
+19
+*Difference between Veteran and non-Veteran men is not statistically significant at the 90 percent confidence level.
+Note: Income of Households: This includes the income of the householder and all other individuals 15 years old and over in the household, whether they are related to 
+the householder or not. Because many households consist of only one person, average household income is usually less than average family income. The median divides 
+the income distribution into two equal parts: one-half of the cases falling below the median and one-half above the median.
+Median Household Income of Men by Veteran Status: 2017
+Veteran Men Non-Veteran Men
+Median Household Income $61,986 $67,995
+$43,286
+$58,981
+$74,000
+$82,792
+$77,999
+$63,959
+$34,704
+$47,491
+$60,170
+$68,000
+$90,107
+$83,917
+$63,737
+$47,757
+75 years and older
+65 to 74 years old
+55 to 64 years old
+45 to 54 years old
+35 to 44 years old
+25 to 34 years old*
+17 to 24 years old Veteran Non-Veteran
+
+Veteran women had higher median household income than non-Veteran women. 
+Source: U.S. Census Bureau, American Community Survey PUMS, 2017
+Prepared by the National Center for Veterans Analysis and Statistics
+20
+Note: Income of Households: This includes the income of the householder and all other individuals 15 years old and over in the household, whether they are related to 
+the householder or not. Because many households consist of only one person, average household income is usually less than average family income. The median divides 
+the income distribution into two equal parts: one-half of the cases falling below the median and one-half above the median.
+Female Veterans Female Non-Veterans
+Median Household Income $60,223 $50,398
+Median Household Income of Women by Veteran Status: 2017
+$41,100
+$58,299
+$69,991
+$65,000
+$51,443
+$28,091
+$46,491
+$63,979
+$77,006
+$71,802
+$56,971
+$44,638
+75 years and older
+65 to 74 years old
+55 to 64 years old
+45 to 54 years old
+35 to 44 years old
+25 to 34 years old
+17 to 24 years old
+Veteran Non-Veteran
+$31,520
+$26,892
+
+Veteran women live in households were most likely to have internet access, use/own a 
+computer compared to Veterans and non-Veterans men.
+Men Women
+Source: U.S. Census Bureau, American Community Survey PUMS, 2017
+Prepared by the National Center for Veterans Analysis and Statistics    
+Note: “Computer” refers to a laptop or desktop.
+Veteran Non-VeteranVeteran Non-Veteran
+21
+Internet Access and Computer Use in the Household
+(in percent)
+*Difference between Veteran and Non-Veteran women is not 
+statistically significant at the 90 percent confidence level.
+84.2
+71.3
+78.4
+4.2
+88.2 85.4
+79.6
+2.5
+Internet access Smartphone Computer Dial-up
+89.6
+83.0 83.2
+2.7
+85.4
+80.3
+75.0
+2.4
+Internet access Smartphone Computer Dial-up*
+Total Total 
+Veterans Non-Veterans
+(%) (%)
+Internet access 84.6 86.7
+Smartphone 72.2 82.6
+Computer 78.8 77.1
+Dial-up 4.1 2.5
+
+Veterans were more likely to have health insurance and less likely to be in poverty than non-Veterans.   
+Veterans live in households that were less likely to receive food stamps than their non-Veteran 
+counterparts. Veteran men were more likely to live in a household with no children than non-Veteran men.
+Men Women
+Source: U.S. Census Bureau, American Community Survey PUMS, 2017
+Prepared by the National Center for Veterans Analysis and Statistics    
+Veteran Non-VeteranVeteran Non-Veteran
+22
+Selected Characteristics between Veterans and Non-Veterans
+(in percent)
+*Difference between Veteran and Non-Veteran women is not 
+statistically significant at the 90 percent confidence level.
+3.8
+9.4
+3.2
+11.3
+30.4
+8.6
+13.7
+3.7
+15.7
+33.0
+No health
+Insurance
+coverage
+In poverty Unemployed* Food stamps
+household
+recipient
+Has children in
+the household
+2.8
+6.4
+3.6 5.8
+15.313.3
+10.9
+4.8
+9.4
+31.8
+No health
+Insurance
+coverage
+In poverty Unemployed Food stamps
+household
+recipient
+Has children in
+household
+
+The three states with the highest percentage of Veterans in 2017 were Alaska, Maine 
+and Montana.
+Sources: VetPop2016, as of 9/30/2017 and U.S. Census Bureau, American Community Survey PUMS, 2017
+Prepared by the National Center for Veterans Analysis and Statistics
+23
+States with the Highest 
+Percent Veteran: 2017
+States with the Highest 
+Number of Veterans: 2017
+State Percent
+Alaska 9.2
+Maine 9.0
+Montana 9.0
+Washington 8.7
+New Hampshire 8.3
+State Veterans
+California 1,789,862
+Texas 1,603,328
+Florida 1,594,218
+Pennsylvania 872,301
+New York 838,129
+Percent Veteran
+
+Veteran Population Totals by Gender
+16,621,853 Male Veterans
+1,641,182 Female Veterans
+24
+Source: U.S. Census Bureau, American Community Survey PUMS, 2017.
+
+25
+According to ACS data, female Veterans are significantly different than male Veterans. 
+Following legislative changes, female Veterans started entering the military branches in 
+greater numbers during more recent periods of service.  A higher percent of female 
+Veterans are minorities.  Fewer Veterans are women. As of 09/30/2017, VetPop2016 
+estimates 1.9 million of the 19.6 million living Veterans are women, or about 9.5 percent of 
+living Veterans are women. 
+Female Veterans are younger than male Veterans.  The median age for female Veterans is 
+51, and the median age for male Veterans is 65.  Any characteristics correlated with age 
+(e.g., employment and income) will be affected by the differences in the age distributions of 
+the two groups.
+Issues to Consider When Analyzing Female Veterans
+
+The largest cohort of male Veterans served during the Vietnam Era while the largest cohort 
+of female Veterans served during Post-9/11.
+Male Veterans Female Veterans
+Note: Periods of service shown here are coded with multiple 
+dispersed into categories with most recent period of service.Source: U.S. Census Bureau, American Community Survey PUMS, 2017
+Prepared by the National Center for Veterans Analysis and Statistics    
+Period of Military Service of Veterans
+(in percent)
+26
+35.5
+24.4 23.6
+12.3
+1.5 2.7
+Post-9/11 Peacetime Pre-9/11 Vietnam WWII Korea
+17.7
+22.4
+13.1
+35.9
+3.2
+7.7
+Post-9/11 Peacetime Pre-9/11 Vietnam WWII Korea
+Period of Service Dates
+• Post-9/11: Sept. 2001 to present
+• Pre-9/11: Aug. 1990 to Aug. 2001
+• Vietnam Era: Aug.1964 to April 1975
+• Korean War: July 1950 to Jan. 1955
+• World War II: Dec. 1941 to Dec, 1946
+• Peacetimes: Jan. 1947 to June 1950; Feb. 1955 to July 1964 and May 1975 to July 1990
+
+A higher percent of female Veterans were racially and ethnically diverse than male Veterans.
+Source: U.S. Census Bureau, American Community Survey PUMS, 2017
+Prepared by the National Center for Veterans Analysis and Statistics
+27
+*Difference between male Veterans and female Veterans is not statistically significant at the 90 percent confidence level.
+78.0
+10.8
+0.7 1.6 0.1 0.1 1.6
+7.1
+65.2
+18.9
+0.8 2.2 0.3 0.2 2.9
+9.5
+White Black or African
+American
+AIAN Asian NHOPI Some other race* Two or more races Hispanic
+Race and Ethnicity of Veterans by Gender: 2017
+(in percent)
+Male Veterans Female Veterans
+Note:  Races categories are shown for the non-Hispanic population.  Hispanics can be of any race.
+
+A higher percent of female Veterans had higher education attainment and were enrolled in 
+higher education compared to male Veterans.  
+Source: U.S. Census Bureau, American Community Survey PUMS, 2017
+Prepared by the National Center for Veterans Analysis and Statistics
+28
+Veterans Enrolled in Higher Education by Gender:  2017 
+(in percent)
+Male Veterans Female Veterans
+All Ages 3.9 10.8
+17 to 24 Years Old 29.5 36.6
+25 to 34 Years Old 22.4 31.6
+35 to 44 Years Old 10.5 15.1
+35.3 37.0
+16.4
+11.3
+20.9
+42.4
+21.3
+15.4
+High School or less Some College Bachelor's Degree Advanced Degree
+Education Level of Veterans by Gender: 2017
+(in percent)
+Male Veteran Female Veteran
+
+A higher percent of female Veterans had a service connected disability, had no personal 
+income, and were in poverty than male Veterans. A lower percent of female Veterans used 
+VA health care, but a higher percent only used VA health care than male Veterans.
+Source: U.S. Census Bureau, American Community Survey PUMS, 2017
+Prepared by the National Center for Veterans Analysis and Statistics 29
+22.8
+35.9
+11.4
+2.8 2.8
+6.4
+25.1
+32.7
+18.9
+3.8
+7.4
+9.4
+Has a service connected
+disability
+Uses VA Health Care Uses VA Health Care only No health Insurance
+coverage
+No income In poverty
+Selected Variables of Veterans by Gender: 2017
+Male Veteran Female Veteran
+
+Female Veterans had a lower median household income than male Veterans.
+Source: U.S. Census Bureau, American Community Survey PUMS, 2017
+Prepared by the National Center for Veterans Analysis and Statistics
+30
+*Difference between male Veterans and female Veterans is not statistically significant at the 90 percent confidence level.
+Note: Income of Households: This includes the income of the householder and all other individuals 15 years old and over in the household, whether they are related to 
+the householder or not. Because many households consist of only one person, average household income is usually less than average family income. The median divides 
+the income distribution into two equal parts: one-half of the cases falling below the median and one-half above the median.
+Veterans Men Women
+Median Household Income $61,986 $60,223 
+Households Using SNAP/Food Stamps 5.8% 11.3%
+$31,520
+$46,491
+$63,979
+$77,006
+$71,802
+$56,971
+$44,638
+$47,491
+$60,170
+$68,000
+$90,107
+$83,917
+$63,737
+$47,757
+75 years and older
+65 to 74 years old
+55 to 64 years old
+45 to 54 years old
+35 to 44 years old
+25 to 34 years old
+17 to 24 years old*
+Median Household Income of Veterans by Gender: 2017
+Male Veteran Female Veteran
+
+District of Columbia*, Virginia, and Alaska were the top three states with 
+the highest percentage of Veteran women. 
+Sources: VetPop2016, as of 9/30/2017 and U.S. Census Bureau, American Community Survey PUMS, 2017
+Prepared by the National Center for Veterans Analysis and Statistics
+31
+States with the Highest Percentage 
+of Veteran Women: 2017
+States with the Highest Number of 
+Veteran Women: 2017
+State Percent
+District of Columbia* 14.0%
+Virginia 13.6%
+Alaska 13.3%
+Maryland 12.6%
+Georgia 12.1%
+State Women
+Texas 168,967
+California 142,904
+Florida 142,193
+Virginia 99,399
+Georgia 84,894
+*District of Columbia is listed as a state for the purpose of this slide only.
+Percentage of Veterans who were Women: 2017
+
+Total Minority Veterans Comparisons
+4,221,136 Veterans
+92,473,066 Non-Veterans
+32
+Source: U.S. Census Bureau, American Community Survey PUMS, 2017
+
+Issues to consider when analyzing minority groups
+The sample size of minority Veteran groups were small and could result in larger standard errors, 
+making determination of statistically significant difference between groups difficult. Due to diversity 
+across race and ethnicity, it is preferable not to analyze all minority subpopulations as one monolithic 
+group.
+The study of Hispanics highlights some of the issues involved when minorities are combined all 
+together for analysis.  Hispanics are a diverse population.  Mexicans, Puerto Ricans, Cubans, Central 
+Americans, and South Americans differ significantly in many respects.  The differences between these 
+subpopulations can be lost when all are placed one group, “Hispanics.”  Academic research typically 
+analyze Hispanic subgroups separately when the data allow; however, in this study subgroup data were 
+not available.
+33
+Prepared by the National Center for Veterans Analysis and Statistics
+
+The Veteran population is getting more diverse with
+the Post-9/11 and Pre-9/11 cohorts having the highest percentages of minorities. 
+34
+Source: U.S. Census Bureau, American Community Survey PUMS, 2017 
+Prepared by the National Center for Veterans Analysis and Statistics 
+Veteran Race and Hispanic Origin by Period of Service 
+(in percent)
+White
+Black or 
+African 
+American AIAN Asian NHOPI
+Some Other  
+Race
+Two or 
+More Races Hispanic
+64.9 14.6 0.8 2.8 0.2 0.2 13.5
+Post-9/11
+(Sept.2001 to present) 2.8
+Pre-9/11
+69.5 15.8 0.9 1.8 0.2 0.2 9.3(Aug. 1990 to Aug. 2001) 2.4
+Vietnam Era Only
+82.6 9.1 0.6 1.2 0.1 0.1 5.0(Aug. 1964 to April 1975) 1.2
+Korean Conflict Only
+88.1 5.2 0.4 1.2 0.1 0.1 4.4(July 1950 to Jan. 1955) 0.6
+World War II Only
+90.9 3.6 0.2 1.5 0.1 0.1 2.8(Dec. 1941 to Dec. 1946) 0.8
+Peacetime Only
+77.6 12.9 0.6 1.2 0.1 0.1 5.9
+(Jan. 1947 to June 1950; Feb. 1955 to July 1964; 
+May 1975 to July 1990) 1.4
+Note: Periods of military service shown here are coded with Veterans who have multiple periods of service being placed into t heir most recent 
+period of service.
+
+Minority Veterans made up about 23 percent of the total Veteran population while non-
+Veteran minorities made 38 percent of the total civilian population in 2017.  
+The two largest minority Veteran groups were Black or African American (12 percent) and 
+Hispanic (7 percent).
+35Sources: U.S. Census Bureau, American Community Survey PUMS, 2017 
+Prepared by the National Center for Veterans Analysis and Statistics 
+Note:  Races categories are shown for the non-Hispanic population.  Hispanics can be of any race.
+0.7 1.6
+11.5
+7.3
+0.2 0.1
+1.7
+0.6
+6.0
+11.9
+17.7
+0.2 0.2
+1.8
+AIAN Asian Black or African
+American
+Hispanic NHOPI* Some other race Two or more
+races*
+Minorities by Veteran Status
+(in percent)
+Veteran Non-Veteran
+*Difference between Veteran and non-Veteran minorities is not statistically significant at the 90 percent confidence level.
+
+Minority Veterans had much higher median personal incomes than non-Veterans. 
+Source: U.S. Census Bureau, American Community Survey PUMS, 2017
+Prepared by the National Center for Veterans Analysis and Statistics 
+Median Personal Income by Race and Hispanic Origin
+36
+$25,000
+$28,991
+$29,849
+$29,873
+$41,963
+$25,926
+$27,996
+$23,995
+$48,000
+$49,847
+$48,993
+$43,735
+$59,580
+$43,962
+$45,593
+$38,598
+Hispanic
+Two or more races
+Some other race
+NHOPI
+Asian
+AIAN
+Black or African
+American
+Total population
+Veteran Non-Veteran
+
+Black or African American Veterans were more likely to have lower unemployment rates 
+than their non-Veteran counterparts.  Minority Veterans were less likely to be in poverty 
+than non-Veteran minorities.    
+Source: U.S. Census Bureau, American Community Survey PUMS, 2017
+Prepared by the National Center for Veterans Analysis and Statistics 
+Unemployment by Race and Hispanic Origin 
+(in percent)
+37
+*Difference between Veteran and non-Veteran minorities is not statistically significant at the 90 percent confidence level.
+In Poverty by Race and Hispanic Origin 
+(in percent)
+Notes: (1) Unemployment rate based on population 17 to 65 years of age;  (2) Poverty rate excludes persons living in group quarters.
+17.9
+14.5
+15.4
+15.3
+11.1
+24.6
+19.9
+8.8
+8.1
+7.9
+7.2
+7.1
+12.5
+11.1
+Hispanic
+Two or more races
+Some other race
+NHOPI
+Asian
+AIAN
+Black or African
+American
+Veteran Non-Veteran
+3.2
+4.1
+3.1
+2.7
+1.9
+5.3
+5.0
+2.9
+3.5
+2.6
+5.4
+2.2
+5.9
+3.3
+Hispanic*
+Two or more races*
+Some other race*
+NHOPI*
+Asian*
+AIAN*
+Black or African
+American
+Veteran Non-Veteran
+
+A lower percentage of minority Veterans live in households received food stamps than 
+minority non-Veterans.  Minority Veterans were less likely to live in households with 
+children than minority non-Veterans. 
+Source: U.S. Census Bureau, American Community Survey PUMS, 2017
+Prepared by the National Center for Veterans Analysis and Statistics 38
+*Difference between Veteran and non-Veteran minorities is 
+not statistically significant at the 90 percent confidence level.
+Food Stamp Household Recipient by Race and 
+Hispanic Origin 
+(in percent)
+Note:  The food stamp program is also known as the Supplemental 
+Nutrition Assistance Program (SNAP). Food stamp-recipient household  
+defined as a household where someone received food stamps.
+Households with Children by Race and Hispanic 
+Origin 
+(in percent)
+21.4
+15.8
+14.9
+23.2
+7.1
+25.0
+26.2
+9.0
+9.5
+12.3
+10.2
+4.5
+12.7
+12.8
+Hispanic
+Two or more races
+Some other race*
+NHOPI
+Asian
+AIAN
+Black or African
+American
+Veteran Non-Veteran
+41.9
+32.7
+31.8
+39.1
+36.7
+30.0
+29.3
+25.3
+23.7
+19.5
+28.8
+21.5
+17.9
+16.6
+Hispanic
+Two or more races
+Some other race
+NHOPI*
+Asian
+AIAN
+Black or African
+American
+Veteran Non-Veteran
+
+VA Use Rate by Race/Ethnicity: 2017
+(in percent)
+Source: U.S. Veterans Eligibility Trends and Statistics, 2017
+Prepared by the National Center for Veterans Analysis and Statistics    
+Native Hawaiian/Pacific Islander, Black or African American, and Hispanic Veterans were 
+more likely to utilize VA benefits than any other racial group while AIAN and Other race 
+Veterans were the least likely to use any VA benefits.
+39
+*Includes Veterans of two or more races.
+48.0
+53.9
+44.8
+41.6
+59.0
+53.0
+42.7
+White Black or
+African American
+Asian AIAN NHOPI Hispanic Other*
+Overall rate: 49.2
+
+The likelihood of a disabled Veteran seeking treatment from a VA Health Care facility 
+varied with race and ethnicity; however, rates for Black or African American, Hispanic, 
+and AIAN were higher than the overall rate of VHA use.
+Service-connected Disabled Veterans Receiving Compensation and
+VA Health Care use by Race/Ethnicity: 2017
+(in percent)
+Source: U.S. Veterans Eligibility Trends and Statistics, 2017
+Prepared by the National Center for Veterans Analysis and Statistics    
+40
+67.6
+77.4
+62.5
+70.9 66.5 68.5 71.5
+32.4
+22.6
+37.5
+29.1 33.5 31.5 28.5Disabled, but did 
+not use health care
+Disabled & used 
+health care
+
+Puerto Rico, District of Columbia* and Hawaii were the top three states with the highest 
+percentage of Veterans who were minorities.
+Sources: VetPop2016, as of 9/30/2017 and U.S. Census Bureau, American Community Survey PUMS, 2017
+Prepared by the National Center for Veterans Analysis and Statistics
+41
+States with the Highest Percentage
+of Veterans who were minorities: 2017
+States with the Highest Number of 
+minority Veterans: 2017
+Percent
+Puerto Rico 98.7
+District of Columbia* 63.7
+Hawaii 63.7
+New Mexico 41.0
+Maryland 38.3
+State Minority Veterans
+California 628,963
+Texas 564,675
+Florida 347,821
+Georgia 265,255
+Virginia 219,961
+*District of Columbia is listed as a state for the purpose of this slide only.
+Percentage of Veterans who were Minorities: 2017
+
+Summary of Veteran and Non-Veteran Comparisons
+According to data from the 2017 American Community Survey, male Veterans were older, more likely 
+to be White non-Hispanic, more likely to be married, less likely to be uninsured, less likely to live 
+below poverty, and had higher personal incomes than male non-Veterans.  Employed male Veterans 
+were more likely to work in production or transportation, and more likely to work for
+local, state, or Federal governments than their non-Veteran counterparts.  Full-time, year-round male
+Veterans earned about $10,000 more than similar non-Veterans counterparts.  Some differences
+between male Veterans and male non-Veterans may be attributable to age.  The median age of
+male Veterans in 2017 was 65 years while the median age of male non-Veterans was 42 years.
+A lower percentage of female Veterans were in the youngest age group—17 to 24 years old than 
+female non-Veterans.  These are the ages when most men and women may still be serving in the 
+military and have not yet become Veterans.  The median age of female Veterans was 51 and 
+female non-Veterans was 47 in 2017.  Female Veterans were more likely to be Nonwhite non
+Hispanic, more likely to be divorced or separated, less  likely to be uninsured, less likely to live below
+poverty, and had higher personal incomes than female non-Veterans.  Employed female Veterans
+were more likely to be in management, business, science and arts occupations, less likely to be in sales
+or service occupations, and more likely to work in local, state, or Federal government than female 
+non-Veterans.  Full-time, year-round female Veterans earned about $10,000 more than female non-
+Veterans. 
+42
+Prepared by the National Center for Veterans Analysis and Statistics
+
+The largest living cohort of male Veterans served during the Vietnam Era (August 1964 to
+April 1975) while the largest living cohort of female Veterans served during the Post-9/11
+period (September 2001 or later).
+Compared with male Veterans, female Veterans were more likely to have completed
+some college, a Bachelor’s degree, or an advanced degree, be enrolled in college, more
+likely to have a service-connected disability rating, less likely to use VA health care at all
+but more likely to use VA health care only, have no personal income, and live in
+poverty.
+Employed female Veterans were more likely to work in management, business, science
+and arts occupations than employed male Veterans.
+Some differences between male and female Veterans may be attributable to age as male
+Veterans are significantly older than female Veterans. The median age of male Veterans
+was 65 years in 2017, compared with 51 years for female Veterans.
+Summary of Veteran Comparisons
+43
+Prepared by the National Center for Veterans Analysis and Statistics
+
+Summary of Minority Veterans Comparison
+44Prepared by the National Center for Veterans Analysis and Statistics 
+• Minority Veterans appear to be better off in key socioeconomic indicators (income, 
+employment, poverty, and health care coverage) than their non-Veteran minority 
+counterparts.
+• Understanding demographics of minority groups can help VA provide benefits and 
+services to minority Veterans, assess their needs and anticipate future needs. 
+Minority Veterans -
+1. Made up approximately 23 percent of the total Veteran population 
+2. Made up approximately 35 percent of the female Veteran population
+3. Were younger than White, non-Hispanic Veterans
+4. Had a median age of 53 to 59 versus 66 for White, non-Hispanic Veterans
+• Demographic implications of the All-Volunteer Force continue to affect composition 
+of Veteran population over time -
+1. Older Veterans are from a draft-era military—one which was overwhelmingly 
+men and White. 
+2. We project the Veteran population will decrease from 18.6 million in 2017 to 
+12.9 million in 2040.  Over this time, the proportion of minorities among all 
+Veterans will increase from 23 percent to 34 percent.
+
+Contact Information
+Department of Veterans Affairs
+Office of Enterprise Integration
+National Center for Veterans Analysis and Statistics
+For general inquiries, please email us at VANCVAS@va.gov.
+45

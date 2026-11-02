@@ -1,0 +1,586 @@
+1 
+ 
+UNITED STATES DEPARTMENT OF EDUCATION 
+OFFICE OF SPECIAL EDUCATION AND REHABILITATIVE SERVICES 
+REHABILITATION SERVICES ADMINISTRATION 
+WASHINGTON, DC 20202 
+ 
+      TECHNICAL ASSISTANCE CIRCULAR 
+      RSA-TAC-26-01 
+      DATE: January 26, 2026 
+ 
+ADDRESSEES: STATE VOCATIONAL REHABILITATION AGENCIES 
+ STATE REHABILITATION COUNCILS 
+ 
+SUBJECT: Modification Requirements for Workforce Innovation and Opportunity 
+Act (WIOA) State Plans for Program Years (PYs) 2026 and 2027 
+ 
+PURPOSE: 
+ 
+This Technical Assistance Circular (TAC) outlines the priorities, modification requirements, 
+submission process, and deadline for the required modification of the WIOA Unified and 
+Combined State Plans (State Plans) for PY 2026 and PY 2027, in accordance with Sections 102 
+and 103 of WIOA.   
+ 
+In accordance with WIOA, its implementing regulations, and the information collection request 
+(ICR) WIOA Unified and Combined State Plan Requirements, approved under Office of 
+Management and Budget (OMB) control number 1205-0522, states must submit a two-year 
+modification of their WIOA Unified or Combined State Plans (a four-year plan) to the U.S. 
+Departments of Labor and Education (the Departments). While states should generally submit 
+plan modifications by March 3, 2026, using the online portal described in Section 4.d. of this 
+guidance, the Departments are offering additional flexibility to empower states to align the 
+planning submission timeline with Perkins V and submit plan modifications until April 30, 2026. 
+If states want to avail themselves of this additional flexibility, states must notify their relevant  
+Employment and Training Administration (ETA) Regional Administrator in writing by March 3, 
+2026, and provide an explanation of the state’s need for additional time as well as an estimated 
+date of submission (which cannot be later than April 30, 2026). Once submitted, the Departments 
+will review and provide a decision within 90 days for the core programs, as required by section 
+102(c)(2)(B) and (3)(B) of WIOA. 
+ 
+BACKGROUND:  
+ 
+This joint guidance outlines the WIOA planning requirements for the required two-year 
+modification of the four-year State Plan and provides submission deadlines and procedures. 
+WIOA requires the Governor of each state to submit a Unified or Combined State Plan that 
+includes a four-year strategy and operational plan for the continuing implementation of the 
+state’s workforce development system, with an update after two years. States must have federally 
+approved State Plans to receive funding under the six core programs (Adult, Dislocated Worker, 
+Youth, Adult Education and Family Literacy Act (AEFLA), Wagner-Peyser, and the Vocational 
+Rehabilitation (VR) programs). All states have approved four-year WIOA State Plans for PYs 
+2024-2027.
+
+2 
+ 
+ 
+WIOA requires that states review their plan every two years and update State Plan strategies to 
+account for changes in the labor market and economic conditions or other factors affecting the 
+implementation of the State Plan. Such factors may include: reorganization of State agencies 
+administering WIOA programs, redesignation of local areas or establishment of new planning 
+regions, the addition of new partner programs such as Perkins V
+1 into a Combined State Plan, 
+changes to methodology used to determine local allocation of funds, and other significant 
+strategic or operational changes within states. States may also elect to change from a Unified to a 
+Combined State Plan to include additional partners, such as Perkins V, during the modification 
+process to maximize alignment between programs.  
+ 
+Under WIOA, the Unified and Combined State Plans communicate the State’s vision for its 
+public workforce system and broader talent development system. WIOA planning requirements 
+seek to align federal investments in job training and education programs, improve service 
+delivery efficiency, and match individuals’ skills with high-paying job opportunities and 
+employers. Cross-program planning promotes a shared understanding of the workforce needs and 
+enables the public workforce system to provide a wider range of services that require 
+coordination to meet the needs of employers, youth and adult learners, and workers, including 
+individuals with disabilities and individuals facing barriers to entering and persisting in paid 
+employment.   
+ 
+WIOA PLANNING PRIORITIES:  
+  
+On April 23, 2025, President Trump issued Executive Order 14278 titled “Preparing Americans 
+for High-Paying Skilled Trade Jobs of the Future” that directed the U.S. Departments of Labor, 
+Education, and Commerce to articulate a comprehensive worker investment and development 
+strategy. Subsequently, these Departments published “America's Talent Strategy; Building the 
+Workforce for the Golden Age” that articulates a shared vision for America’s workforce 
+development efforts, including the public workforce system, with five strategic pillars. States are 
+encouraged to review their currently approved State Plans and align their strategies and 
+investments to these pillars, which are summarized below.  
+ 
+PILLAR I: Industry-Driven Strategies: The skill demands and hiring needs of industry must 
+drive how workforce development programs train and prepare the participants they serve. Local 
+employers should play a central role in defining in-demand skills, validating training models, and 
+steering investments toward the roles and credentials that propel workers into secure, well-
+paying, and high-need American jobs. The public workforce system can support this pillar by 
+prioritizing Registered Apprenticeships, Integrated Education and Training programs, and other 
+high-quality work-based learning models; organizing employers into industry sector partnerships 
+to identify high-wage, high-skill, or in-demand industry sectors and occupations and design 
+workforce strategies to address their needs; aligning eligible training programs to career 
+pathways within the state or regional economy; and targeting investments towards employer-led 
+upskilling initiatives designed to fill talent shortages in priority industries.  
+ 
+ 
+1 Perkins V is the Carl D. Perkins Career and Technical Education Act of 2006, as amended by the Strengthening 
+Career and Technical Education for the 21st Century Act.
+
+3 
+ 
+PILLAR II: Worker Mobility: Individuals returning to the workforce or seeking better career 
+opportunities should be able to take tangible steps that lead to upward mobility and long-term 
+economic independence. Next-generation workforce and labor market intelligence tools should 
+help participants identify their skills, understand skills-aligned career options, and take 
+intentional steps toward better-paying jobs. The public workforce system can support this pillar 
+through several targeted strategies such as: clearly identifying credentials that are valued in the 
+labor market to support informed decision making and support jobseekers to earn such 
+credentials; developing informed customer choice policies designed to mitigate benefits cliffs; 
+advancing innovative use of technology and labor market data, including employing 
+competency-based assessments and benefits cliff navigation tools during intake into the public 
+workforce system; and integrating Artificial Intelligence (AI)-powered tools including 
+comprehensive talent marketplaces composed of comprehensive learner records or learning and 
+employment records solutions, credential registries, and skills-based job description generators, 
+that allow workers to advance based on demonstrated competencies. The public workforce 
+system can also help connect disconnected workers to training opportunities that lead to self-
+sufficiency. 
+ 
+PILLAR III: Integrated Systems: The public workforce system must be unified, navigable, and 
+built around the needs of its users. Job seekers should be able to access training and employment 
+opportunities without getting lost in a maze of government agencies, and employers should be 
+able to engage with the system just as easily to find talent and grow their workforce. The public 
+workforce system can support this pillar by integrating disparate funding streams and improving 
+service delivery through adopting shared eligibility standards across programs; implementing 
+and scaling virtual service delivery practices to reduce overhead expenses; and advancing 
+education and workforce alignment, streamlining intake processes, and implementing digital 
+tools that help frontline staff guide individuals to the right services. 
+ 
+PILLAR IV: Accountability: Taxpayer funded workforce development programs must deliver 
+measurable and transparent results for job seekers and employers. Ineffective training providers 
+should be removed from public funding lists. Grantees’ funding models should tie resources to 
+outcomes, including through the expanded use of pay-for-performance contracts to ensure public 
+investments generate measurable returns in employment, earnings, and credential attainment. 
+The public workforce system can support this pillar by identifying and eliminating ineffective 
+activities, adopting state-driven measures of program performance, establishing state and local 
+area postsecondary attainment and labor force participation goals, redirecting funding to 
+programs and providers that demonstrate success in connecting Americans with high-wage jobs, 
+and enhancing data linkages, including by exploring enhanced wage records, and publishing 
+education and training programs in structured, open, linked, and interoperable data formats, to 
+produce valid and transparent data that assess the return on investment and the impact on closing 
+talent gaps. 
+ 
+PILLAR V: Flexibility and Innovation: The public workforce system must be adaptable and 
+designed for continuous iteration, with exponentially faster feedback loops between employers, 
+educators, and training providers to ensure that programs can evolve in step with economic 
+shifts, particularly those driven by AI. States and local communities need more control to tailor 
+solutions to their regional economies without being constrained by outdated program rules or 
+processes. The public workforce system can support this pillar by leveraging existing statutory 
+authorities to promote flexibility and innovation within the system, braiding federal and state
+
+4 
+ 
+funding streams from multiple sources to support integrated career pathways, creating new 
+models of workforce innovation built to match the speed and scale of AI-driven economic 
+transformation, prioritizing AI literacy and skills development across the public workforce 
+system, and developing pilot projects to drive rapid reskilling and fuel other AI-era innovations. 
+ 
+ADDITIONAL PLANNING PRIORITIES: 
+ 
+It is particularly critical, for purposes of developing and submitting the State Plan modification 
+for PYs 2026 and 2027, that states reassess economic and labor market information (LMI) and 
+adjust strategies for what may now be a different set of growing and declining industries, 
+occupations, and skills, thereby ensuring the State Plan modification reflects changes in the labor 
+market and economic conditions and other factors affecting implementation of the State Plan as 
+required by section 102(c)(3)(A) of WIOA. Additionally, State Plans must not only include the 
+in-demand sectors and occupations, but also the employment needs of employers and the 
+associated competencies required in those industries and occupations, and align training provided 
+through the workforce system with the hiring needs. LMI informs the public workforce system 
+by offering data insights to keep up with a rapidly changing economic environment driven by AI, 
+advanced industries, and new national priorities. State planners must work closely with the LMI 
+directors within their states to understand the current and growing needs of their economy. The 
+State Plan modification must reflect any such strategic re-focusing. The Departments encourage 
+states to widely share State LMI, including the State LMI used in State Plans across State 
+agencies, regardless of inclusion in the WIOA State Plan, to support data-informed decisions. 
+For example, such data analysis could support Perkins V subrecipients in carrying out 
+comprehensive local needs assessments in tandem with public workforce system stakeholder 
+engagement at the state and local area levels.
+2    
+ 
+Moreover, states are encouraged to reassess how their public education and workforce systems 
+capture, verify, and communicate the competencies (knowledge, skills, and abilities) individuals 
+acquire. Talent marketplaces solutions enable student and worker employment and mobility 
+more effectively—mapping skills to occupational and employer needs in real time. Talent 
+marketplaces also allow for individuals to own and make portable their skills and learning 
+assertions—controlling what, where, when, and with whom verified skills and credentials are 
+shared. 
+ 
+States are particularly encouraged to prepare for implementation of Workforce Pell Grants 
+connecting jobseekers and students with high-quality short-term training authorized under 
+Section 83002 of the One Big Beautiful Bill Act (Public Law 119-21). Workforce Pell Grants 
+will provide access to federal financial aid for students enrolled in high-quality, short-term 
+workforce programs that are defined as at least 150 clock hours of instruction and less than 600 
+clock hours (or the equivalent in credit hours) and at least 8 weeks, but less than 15 weeks, in 
+duration, among other criteria. Steps to prepare for Workforce Pell might include using the latest 
+labor market information to refresh the state’s identification of in-demand industry sectors and 
+occupations, deepening system integration across education and workforce systems, and 
+enhancing data collection, i.e., by enhancing unemployment insurance wage records that allow 
+states to establish program-to-occupational linkages and to crosswalk education and training 
+ 
+2 Section 135(c) of Perkins V requires comprehensive local needs assessments.
+
+5 
+ 
+programs to competency-based, industry-recognized qualifications frameworks, and data 
+sharing. 
+ 
+As states develop their plan modifications for PYs 2026 and 2027, grantees must not use federal 
+funds in any manner that violates the United States Constitution, Title VI or Title VII of the Civil 
+Rights Act of 1964 (42 U.S.C. § 2000d et seq. or 42 U.S.C. § 2000e et seq.), Title IX of the 
+Education Amendments of 1972 (20 U.S.C. § 1681 et seq.), section 504 of the Rehabilitation Act 
+(29 U.S.C. § 794), the Age Discrimination Act of 1975 (42 U.S.C. 6101 et seq.), Title II of the 
+Americans with Disabilities Act of 1990 (42 U.S.C. § 12131 et seq.), the Boy Scouts of America 
+Equal Access Act of 2001 (20 U.S.C. § 7905), section 117 of the Higher Education Act of 1965, 
+as amended (20 U.S.C. § 1011f), or other applicable federal law.  
+ 
+It is important to note the provisions of Executive Orders 14151, 14168, 14173, and 14190 as 
+well as the U.S. Department of Justice’s July 29, 2025, non-regulatory “Guidance for Recipients 
+of Federal Funding Regarding Unlawful Discrimination.” States and subgrantees that have 
+implemented diversity, equity, and inclusion (DEI) activities, and any other initiatives that 
+discriminate on the basis of race, color, religion, sex, or national origin may risk violating federal 
+civil rights laws referenced above and jeopardizing federal funding. This includes any 
+discriminatory equity ideology in violation of a Federal anti-discrimination law. The definition 
+of “discriminatory equity ideology” is in Section 2(b) of Executive Order 14190. To the extent 
+that a U.S. Department of Education (the Department) grantee uses grant funds for unallowable 
+activities, the Department reserves the right to take appropriate enforcement action including 
+under section 451 of the General Education Provisions Act (GEPA), which may include the 
+recovery of funds under section 452 of GEPA.
+ 
+ 
+PLANNING REQUIREMENTS: 
+ 
+States must use the ICR WIOA Unified and Combined State Plan Requirements (OMB control # 
+1205-0522) to develop and submit both the WIOA Unified or Combined State Plan and the two-
+year modification. A copy of the ICR, which complies with statutory requirements set forth in, as 
+appropriate, sections 102 and 103 of WIOA, is available at 
+https://www.dol.gov/agencies/eta/wioa/resources. A copy of these requirements is also available 
+through the State Plan portal (https://wioaplans.dol.gov), developed specifically for the required 
+electronic submission.  
+ 
+Note that the ICR includes a requirement for states to describe how they will use State merit staff 
+for the provision of Wagner-Peyser Employment Services. The U.S. Department of Labor will 
+notify states of any changes to this planning requirement because of ongoing rulemaking related 
+to proposed flexibility in Employment Service staffing, as described in the notice of proposed 
+rulemaking entitled “Wagner-Peyser Act Employment Service Staffing,” published on July 1, 
+2025 (90 FR 28239).    
+ 
+ 
+STAKEHOLDER COLLABORATION AND COMMENT:  
+ 
+The State Workforce Development Board (State Board) assists the Governor in the development, 
+implementation, and modification of the State Plan and convenes all relevant programs, required 
+partners, and stakeholders. The Departments encourage inclusion of the State LMI, chief 
+information officers, State higher education executive officers, education and articulation offices,
+
+6 
+ 
+Career and Technical Education agencies, and workforce and education evaluation offices (or 
+their equivalent) during plan development and modification to obtain labor market data and 
+related evidence and analysis.  
+ 
+States are also encouraged to engage the Perkins V eligible agency and stakeholders in the 
+modification processes, even if the Perkins V program is not already included in the State Plan. 
+The Departments have received feedback from states and recognize that some states may need 
+additional time to conduct planning activities as they align WIOA and Perkins V programs prior 
+to the submission of their plan modifications. As such, as noted above, the Departments will 
+accept plan modifications through April 30, 2026, to accommodate cross-program planning for 
+this cycle (see Section 2 of this guidance). States are encouraged to hold concurrent public 
+engagement sessions with Perkins V stakeholders from other core and partner programs to the 
+public workforce system. These stakeholders may include state and local educational agencies, 
+community and technical colleges, State workforce agencies, business and industry partners, and 
+others. A combination of virtual and in-person stakeholder engagement sessions are encouraged 
+at both the state and local area levels. The State Plan must be developed with the assistance of 
+the State Board, as required by Section 101(d) of WIOA, and in coordination with administrators 
+that have optimal policymaking authority for the core programs and required one-stop partner 
+programs. For Combined State Plans, the portions of the plan that cover partner programs other 
+than the core programs are subject to any public comment requirements applicable to those 
+partner programs.
+3 States must provide the opportunity for public comment and input which 
+allows interested stakeholders to participate actively, effectively, and transparently in the 
+development of the plan and the modification, including via accessible means for individuals 
+with disabilities. The Governor must ensure that the State Plan modification is developed with an 
+opportunity for public comment from representatives of:  
+ 
+• Local Workforce Development Boards and chief elected officials;  
+• businesses;  
+• labor organizations;  
+• community-based organizations;  
+• State educational agencies; 
+• adult education providers;  
+• faith-based organizations;  
+• institutions of higher education;  
+• other stakeholders with an interest in the services provided by the six core programs; 
+and  
+• the general public, including individuals with disabilities.   
+ 
+The State Board also must make information regarding the modification of the State Plan and 
+planning process available to the public through electronic and accessible means and by holding 
+regularly occurring open meetings in accordance with state law prior to the submission of the 
+State Plan.
+4 
+ 
+ 
+3 See 20 CFR § 676.143(c)(3) and 34 CFR §§ 361.143(c)(3) and 463.143(c)(3). 
+4 See WIOA Section 101(g) and 20 CFR § 676.130(d) and 34 CFR §§ 361.130(d) and 463.130(d).
+
+7 
+ 
+INSTRUCTIONS FOR STATE PLAN MODIFICATION SUBMISSION: 
+ 
+States must submit their modification of their State Plan via the State Plan Portal which has been 
+developed for the purpose of cross-program collaboration in states and to facilitate the 
+simultaneous receipt and review of plans across multiple federal agencies. While multiple 
+individuals in states may enter content into the portal, only one individual from each state may 
+submit to the Departments the entire plan on behalf of the Governor for all included programs. 
+The Office of the Governor for each state must notify the Departments of the individual 
+designated to submit the plan modification on behalf of the Governor for all programs included 
+in the State Plan, even if that designee has not changed since the PY 2024 submission. By 
+February 2, 2026, the Governor’s office must submit a letter or email with the name of the 
+designee to WIOA.Plan@dol.gov with a copy to the appropriate ETA Regional Office.   
+  
+To request a State Plan portal user account or to update existing account login information, visit 
+https://wioaplans.dol.gov. Previously approved WIOA State Plans are available within the portal; 
+content from currently approved four-year plans will be available in the data entry fields for 
+editing or updating, so state editors can either delete entire sections or update specific portions of 
+the plan.  
+ 
+PERFORMANCE NEGOTIATIONS FOR CORE PROGRAMS: 
+ 
+To outline the requirements for reaching agreement on the negotiated levels of performance for 
+the states outlined in WIOA section 116, the Departments issued joint guidance titled, 
+Negotiations and Sanctions Guidance for the WIOA Core Programs, ETA TEGL 11-19 (Change 
+2), OCTAE Program Memorandum 20-2 (revised January 2025), and RSA TAC-20-02 (revised 
+January 2025). The Departments will continue to negotiate program specific levels of 
+performance. The Unified and Combined State Plan ICR Appendix 1, also discussed in 
+Attachment I of this guidance, reflects which indicators the Departments will negotiate for which 
+programs for PYs 2026 and 2027. See Attachment I for instructions on submitting expected 
+levels of performance and establishing negotiated levels of performance. 
+ 
+WAIVERS: 
+ 
+As articulated in ETA TEGL 05-25: Maximizing Innovation in Workforce Innovation and 
+Opportunity Act Programs, states are encouraged to request waivers of existing WIOA statutory 
+or regulatory requirements that can help overcome specific barriers to innovation and align with 
+the Five Strategic Pillars for workforce investment. Waivers are a tool for reducing barriers to 
+WIOA implementation and spurring innovative programming options. The Secretary of Labor’s 
+waiver authority is outlined in WIOA sec. 189(i)(3)(A); the Secretary may waive certain 
+provisions of WIOA Title I subtitles A, B, and E and provisions found in Sections 8-10 of the 
+Wagner-Peyser Act. States may submit WIOA Title I and III waiver requests as part of their 
+State Plan or as a separate waiver plan. For more information on the process for states to request 
+waivers, see ETA TEGL 08-18: Workforce Innovation and Opportunity Act (WIOA) Title I and 
+Wagner-Peyser Act Waiver Requirements and Request Process. States are encouraged to involve 
+the Perkins eligible agency and stakeholders in the development of innovation and flexibility 
+waivers.
+
+8 
+ 
+States are encouraged to review all currently approved waivers, along with their respective 
+expiration dates, to consider renewing or resubmitting new waivers.5  Therefore, states should 
+submit new waiver requests as part of the State Plan modification submission for re-
+consideration if they wish to continue implementing particular waivers that had been approved 
+previously but are expiring. As articulated in waiver approval letters, states agreed to meet 
+certain performance or other program measures resulting from the waiver. States requesting a 
+waiver must provide the most recent data available about the outcomes of the waiver in the 
+renewal request.
+6 The Department of Labor will consider this information as part of its thorough 
+consideration on whether to approve the requested waiver. Find waiver-related resources at 
+https://www.dol.gov/agencies/eta/wioa/waivers.  
+  
+INQUIRIES:   
+ 
+Ed Vitelli, Chief 
+Technical Assistance Unit  
+Edward.Vitelli@ed.gov 
+ 
+ 
+       
+ 
+Christopher Pope 
+Director, State Monitoring and Program 
+Improvement Division,  
+delegated the authority to perform the functions and 
+duties of the Commissioner 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 For waivers related to the 75% out-of-school youth expenditure requirement, waivers are in effect for the full 
+amount of time that states have to spend program year funds.  
+6 See 20 CFR § 679.620(d)(7).
+
+9 
+ 
+Attachment I: WIOA Performance Accountability and Instructions for the Core Programs 
+ 
+State Plan modifications must identify expected levels of performance for each primary indicator 
+of performance for the two years covered by the plan modification. The state must reach 
+agreement with the Secretary of Labor, in conjunction with the Secretary of Education, on the 
+negotiated levels of performance for the indicators for each of the two years of the plan 
+modification.   
+ 
+The Adult, Dislocated Worker, Youth, Adult Education and Family Literacy Act and Vocational 
+Rehabilitation programs will have sufficient data available to make reasonable determinations of 
+expected levels of performance for the following indicators for PYs 2026 and 2027:   
+ 
+• Employment
+7 (Second Quarter after Exit); 
+• Employment8  (Fourth Quarter after Exit); 
+• Median Earnings (Second Quarter after Exit); 
+• Credential Attainment Rate; and 
+• Measurable Skill Gains.  
+ 
+The Wagner-Peyser Act Employment Service program will have sufficient data available to 
+make a reasonable determination of expected levels of performance for the following indicators 
+for PYs 2026 and 2027:  
+ 
+• Employment (Second Quarter after Exit);  
+• Employment (Fourth Quarter after Exit); and  
+• Median Earnings (Second Quarter after Exit).  
+ 
+The Credential Attainment Rate and Measurable Skill Gains indicators do not apply to the 
+Wagner-Peyser Act Employment Service program; therefore, this program will not submit 
+expected levels of performance for these indicators.   
+ 
+The Departments determined that the Effectiveness in Serving Employers (ESE) indicator will be 
+measured as a shared outcome across all six core programs within each state to ensure a holistic 
+approach to serving employers. The approach to measuring ESE was defined in the Workforce 
+Innovation and Opportunity Act Effectiveness in Serving Employers Performance Indicator final 
+rule (89 FR 13814 (Feb. 23, 2024)) (Final Rule). This final rule took effect March 25, 2024, and 
+defined the ESE primary indicator of performance, as required by WIOA section 116(b)(2), as 
+Retention with the Same Employer. 
+ 
+For the PYs 2026-2027 plan modifications, the Departments used the transition authority under 
+section 503(a) of WIOA to designate the ESE primary indicator of performance as a “baseline” 
+indicator. A “baseline” indicator is one for which states do not propose an expected level of 
+performance and do not come to agreement with the Departments on negotiated levels of 
+performance because sufficient data are not available to establish such performance levels. As a 
+result, “baseline” indicators are not used in the end of the year adjustment of performance levels 
+ 
+7 For Title I Youth programs, employment, education or training. 
+8 For Title I Youth programs, employment, education or training.
+
+10 
+ 
+and are not used to determine failure to meet adjusted levels of performance for purposes of 
+sanctions. The Departments designated indicators as “baseline” based on the likelihood of a state 
+having insufficient data with which to make a reasonable determination of an expected level of 
+performance.   
+ 
+Include the state's expected levels of performance for the primary indicators of performance 
+described in section 116(b)(2)(A) of WIOA.
+  Each state must then update its plan modification to 
+include the agreed-upon negotiated levels of performance before the Departments approve the 
+plan modification.   
+Title I – Adult Program 
+  
+ PY 2026 
+Expected Level 
+PY 2026 
+Negotiated Level  
+PY 2027 
+Expected Level 
+PY 2027 
+Negotiated Level  
+Employment (2nd Quarter after Exit)      
+Employment (4th Quarter after Exit)       
+Median Earnings (2nd Quarter after Exit)        
+Credential Attainment Rate       
+Measurable Skill Gains         
+  
+Title I – Dislocated Worker Program 
+  
+ PY 2026 
+Expected Level 
+PY 2026 
+Negotiated Level  
+PY 2027 
+Expected Level 
+PY 2027 
+Negotiated Level  
+Employment (2nd Quarter after Exit)      
+Employment (4th Quarter after Exit)       
+Median Earnings (2nd Quarter after Exit)        
+Credential Attainment Rate       
+Measurable Skill Gains         
+ 
+Title I – Youth Program 
+  
+ PY 2026 
+Expected Level 
+PY 2026 
+Negotiated Level  
+PY 2027 
+Expected Level 
+PY 2027 
+Negotiated Level  
+Employment (2nd Quarter after Exit)      
+Employment (4th Quarter after Exit)       
+Median Earnings (2nd Quarter after Exit)        
+Credential Attainment Rate       
+Measurable Skill Gains
+
+11 
+ 
+Title II – Adult Education and Family Literacy Act Program 
+  
+ 
+Title III – Wagner-Peyser Act Employment Service Program 
+  
+ PY 2026 
+Expected Level 
+PY 2026 
+Negotiated Level  
+PY 2027 
+Expected Level 
+PY 2027 
+Negotiated Level  
+Employment (2nd Quarter after Exit)      
+Employment (4th Quarter after Exit)       
+Median Earnings (2nd Quarter after Exit)        
+ 
+Title IV – Vocational Rehabilitation Program 
+  
+ PY 2026 
+Expected Level 
+PY 2026 
+Negotiated Level  
+PY 2027 
+Expected Level 
+PY 2027 
+Negotiated Level  
+Employment (2nd Quarter after Exit)      
+Employment (4th Quarter after Exit)       
+Median Earnings (2nd Quarter after Exit)        
+Credential Attainment Rate       
+Measurable Skill Gains         
+ 
+All WIOA Core Programs 
+  
+  PY 2026  
+Expected Level 
+PY 2026  
+Negotiated Level 
+PY 2027  
+Expected Level 
+PY 2027  
+Negotiated Level 
+Effectiveness in Serving 
+Employers 
+Baseline Baseline Baseline Baseline 
+ 
+Additional Indicators of Performance  
+1. 
+2. 
+3. 
+ 
+ PY 2026 
+Expected Level 
+PY 2026 
+Negotiated Level  
+PY 2027 
+Expected Level 
+PY 2027 
+Negotiated Level  
+Employment (2nd Quarter after Exit)      
+Employment (4th Quarter after Exit)       
+Median Earnings (2nd Quarter after Exit)        
+Credential Attainment Rate       
+Measurable Skill Gains

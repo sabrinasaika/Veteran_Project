@@ -1,0 +1,1527 @@
+{
+  "source_type": "jvr_pdf_candidate",
+  "doi": "10.1177/10522263251376362",
+  "doi_url": "https://doi.org/10.1177/10522263251376362",
+  "source_url": "https://journals.sagepub.com/doi/10.1177/10522263251376362",
+  "attempted_pdf_urls": [
+    "https://journals.sagepub.com/doi/pdf/10.1177/10522263251376362",
+    "https://journals.sagepub.com/doi/10.1177/10522263251376362",
+    "https://doi.org/10.1177/10522263251376362",
+    "https://content.iospress.com/download?id=10.1177/10522263251376362"
+  ],
+  "selected_pdf_url": "",
+  "selected_final_url": "",
+  "download_status": "unavailable",
+  "match": {
+    "veteran_hits": [
+      "va "
+    ],
+    "pathway_hits": [
+      "employment",
+      "employed",
+      "job"
+    ],
+    "disability_hits": [
+      "disability",
+      "disabilities"
+    ]
+  },
+  "openalex": {
+    "id": "https://openalex.org/W4414228819",
+    "doi": "https://doi.org/10.1177/10522263251376362",
+    "title": "Specialised Recruitment Agents in a low and Middle-Income Country: Intermediaries Between Employers and Persons with Disabilities Seeking Employment",
+    "display_name": "Specialised Recruitment Agents in a low and Middle-Income Country: Intermediaries Between Employers and Persons with Disabilities Seeking Employment",
+    "publication_year": 2025,
+    "publication_date": "2025-09-16",
+    "ids": {
+      "openalex": "https://openalex.org/W4414228819",
+      "doi": "https://doi.org/10.1177/10522263251376362"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/10522263251376362",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1177/10522263251376362",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S190353498",
+        "display_name": "Journal of Vocational Rehabilitation",
+        "issn_l": "1052-2263",
+        "issn": [
+          "1052-2263",
+          "1878-6316"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310318577",
+        "host_organization_name": "IOS Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310318577"
+        ],
+        "host_organization_lineage_names": [
+          "IOS Press"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc",
+      "license_id": "https://openalex.org/licenses/cc-by-nc",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Vocational Rehabilitation",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://doi.org/10.1177/10522263251376362",
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5079717670",
+          "display_name": "Refilwe Morwane",
+          "orcid": "https://orcid.org/0000-0001-8881-2297"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I69552723",
+            "display_name": "University of Pretoria",
+            "ror": "https://ror.org/00g0p6g84",
+            "country_code": "ZA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I69552723"
+            ]
+          }
+        ],
+        "countries": [
+          "ZA"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "R E Morwane",
+        "raw_affiliation_strings": [
+          "University of Pretoria",
+          "Centre for Augmentative and Alternative Communication, University of Pretoria, Pretoria, South Africa"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of Pretoria",
+            "institution_ids": [
+              "https://openalex.org/I69552723"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Centre for Augmentative and Alternative Communication, University of Pretoria, Pretoria, South Africa",
+            "institution_ids": [
+              "https://openalex.org/I69552723"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5023743885",
+          "display_name": "Shakila Dada",
+          "orcid": "https://orcid.org/0000-0001-6170-4763"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I69552723",
+            "display_name": "University of Pretoria",
+            "ror": "https://ror.org/00g0p6g84",
+            "country_code": "ZA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I69552723"
+            ]
+          }
+        ],
+        "countries": [
+          "ZA"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "S Dada",
+        "raw_affiliation_strings": [
+          "University of Pretoria",
+          "Centre for Augmentative and Alternative Communication, University of Pretoria, Pretoria, South Africa"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of Pretoria",
+            "institution_ids": [
+              "https://openalex.org/I69552723"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Centre for Augmentative and Alternative Communication, University of Pretoria, Pretoria, South Africa",
+            "institution_ids": [
+              "https://openalex.org/I69552723"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5065063660",
+          "display_name": "Juan Bornman",
+          "orcid": "https://orcid.org/0000-0001-9685-3750"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I69552723",
+            "display_name": "University of Pretoria",
+            "ror": "https://ror.org/00g0p6g84",
+            "country_code": "ZA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I69552723"
+            ]
+          }
+        ],
+        "countries": [
+          "ZA"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "J Bornman",
+        "raw_affiliation_strings": [
+          "University of Pretoria",
+          "Centre for Augmentative and Alternative Communication, University of Pretoria, Pretoria, South Africa"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of Pretoria",
+            "institution_ids": [
+              "https://openalex.org/I69552723"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Centre for Augmentative and Alternative Communication, University of Pretoria, Pretoria, South Africa",
+            "institution_ids": [
+              "https://openalex.org/I69552723"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 3,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5079717670"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I69552723"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.25587631,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": "63",
+      "issue": "3",
+      "first_page": "312",
+      "last_page": "324"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11514",
+      "display_name": "Disability Education and Employment",
+      "score": 0.9988999962806702,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3311",
+        "display_name": "Safety Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11514",
+        "display_name": "Disability Education and Employment",
+        "score": 0.9988999962806702,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3311",
+          "display_name": "Safety Research"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11631",
+        "display_name": "Retirement, Disability, and Employment",
+        "score": 0.9976000189781189,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3317",
+          "display_name": "Demography"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13532",
+        "display_name": "Education Systems and Policy",
+        "score": 0.9751999974250793,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3304",
+          "display_name": "Education"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/intermediary",
+        "display_name": "Intermediary",
+        "score": 0.786899983882904
+      },
+      {
+        "id": "https://openalex.org/keywords/seekers",
+        "display_name": "Seekers",
+        "score": 0.7276999950408936
+      },
+      {
+        "id": "https://openalex.org/keywords/equity",
+        "display_name": "Equity (law)",
+        "score": 0.5982999801635742
+      },
+      {
+        "id": "https://openalex.org/keywords/qualitative-research",
+        "display_name": "Qualitative research",
+        "score": 0.5489000082015991
+      },
+      {
+        "id": "https://openalex.org/keywords/supported-employment",
+        "display_name": "Supported employment",
+        "score": 0.4165000021457672
+      },
+      {
+        "id": "https://openalex.org/keywords/qualitative-property",
+        "display_name": "Qualitative property",
+        "score": 0.3278000056743622
+      },
+      {
+        "id": "https://openalex.org/keywords/job-loss",
+        "display_name": "Job loss",
+        "score": 0.28450000286102295
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C139569457",
+        "wikidata": "https://www.wikidata.org/wiki/Q1666223",
+        "display_name": "Intermediary",
+        "level": 2,
+        "score": 0.786899983882904
+      },
+      {
+        "id": "https://openalex.org/C2776493517",
+        "wikidata": "https://www.wikidata.org/wiki/Q1479542",
+        "display_name": "Seekers",
+        "level": 2,
+        "score": 0.7276999950408936
+      },
+      {
+        "id": "https://openalex.org/C199728807",
+        "wikidata": "https://www.wikidata.org/wiki/Q2578557",
+        "display_name": "Equity (law)",
+        "level": 2,
+        "score": 0.5982999801635742
+      },
+      {
+        "id": "https://openalex.org/C144133560",
+        "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+        "display_name": "Business",
+        "level": 0,
+        "score": 0.5669999718666077
+      },
+      {
+        "id": "https://openalex.org/C190248442",
+        "wikidata": "https://www.wikidata.org/wiki/Q839486",
+        "display_name": "Qualitative research",
+        "level": 2,
+        "score": 0.5489000082015991
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.43299999833106995
+      },
+      {
+        "id": "https://openalex.org/C2778965245",
+        "wikidata": "https://www.wikidata.org/wiki/Q2499074",
+        "display_name": "Supported employment",
+        "level": 3,
+        "score": 0.4165000021457672
+      },
+      {
+        "id": "https://openalex.org/C39549134",
+        "wikidata": "https://www.wikidata.org/wiki/Q133080",
+        "display_name": "Public relations",
+        "level": 1,
+        "score": 0.38830000162124634
+      },
+      {
+        "id": "https://openalex.org/C87156501",
+        "wikidata": "https://www.wikidata.org/wiki/Q7268708",
+        "display_name": "Qualitative property",
+        "level": 2,
+        "score": 0.3278000056743622
+      },
+      {
+        "id": "https://openalex.org/C2993469481",
+        "wikidata": "https://www.wikidata.org/wiki/Q41171",
+        "display_name": "Job loss",
+        "level": 3,
+        "score": 0.28450000286102295
+      },
+      {
+        "id": "https://openalex.org/C206345919",
+        "wikidata": "https://www.wikidata.org/wiki/Q20380951",
+        "display_name": "Resource (disambiguation)",
+        "level": 2,
+        "score": 0.2734000086784363
+      },
+      {
+        "id": "https://openalex.org/C2994503098",
+        "wikidata": "https://www.wikidata.org/wiki/Q6869278",
+        "display_name": "Job training",
+        "level": 3,
+        "score": 0.26260000467300415
+      },
+      {
+        "id": "https://openalex.org/C2777211547",
+        "wikidata": "https://www.wikidata.org/wiki/Q17141490",
+        "display_name": "Training (meteorology)",
+        "level": 2,
+        "score": 0.26080000400543213
+      },
+      {
+        "id": "https://openalex.org/C75630572",
+        "wikidata": "https://www.wikidata.org/wiki/Q538904",
+        "display_name": "Applied psychology",
+        "level": 1,
+        "score": 0.2590999901294708
+      },
+      {
+        "id": "https://openalex.org/C2779116948",
+        "wikidata": "https://www.wikidata.org/wiki/Q17118983",
+        "display_name": "Help-seeking",
+        "level": 3,
+        "score": 0.25850000977516174
+      },
+      {
+        "id": "https://openalex.org/C2992911641",
+        "wikidata": "https://www.wikidata.org/wiki/Q261362",
+        "display_name": "Job placement",
+        "level": 3,
+        "score": 0.2547000050544739
+      },
+      {
+        "id": "https://openalex.org/C509550671",
+        "wikidata": "https://www.wikidata.org/wiki/Q126945",
+        "display_name": "Medical education",
+        "level": 1,
+        "score": 0.25380000472068787
+      },
+      {
+        "id": "https://openalex.org/C2777902257",
+        "wikidata": "https://www.wikidata.org/wiki/Q5038919",
+        "display_name": "Career Pathways",
+        "level": 2,
+        "score": 0.251800000667572
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1177/10522263251376362",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1177/10522263251376362",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S190353498",
+          "display_name": "Journal of Vocational Rehabilitation",
+          "issn_l": "1052-2263",
+          "issn": [
+            "1052-2263",
+            "1878-6316"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310318577",
+          "host_organization_name": "IOS Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310318577"
+          ],
+          "host_organization_lineage_names": [
+            "IOS Press"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Vocational Rehabilitation",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.1177/10522263251376362",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1177/10522263251376362",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S190353498",
+        "display_name": "Journal of Vocational Rehabilitation",
+        "issn_l": "1052-2263",
+        "issn": [
+          "1052-2263",
+          "1878-6316"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310318577",
+        "host_organization_name": "IOS Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310318577"
+        ],
+        "host_organization_lineage_names": [
+          "IOS Press"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc",
+      "license_id": "https://openalex.org/licenses/cc-by-nc",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Vocational Rehabilitation",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "content_urls": null,
+    "referenced_works_count": 34,
+    "referenced_works": [
+      "https://openalex.org/W1939206072",
+      "https://openalex.org/W1971797777",
+      "https://openalex.org/W1998341005",
+      "https://openalex.org/W2007147974",
+      "https://openalex.org/W2018739580",
+      "https://openalex.org/W2053116474",
+      "https://openalex.org/W2067404301",
+      "https://openalex.org/W2078505606",
+      "https://openalex.org/W2079354197",
+      "https://openalex.org/W2083595591",
+      "https://openalex.org/W2099569191",
+      "https://openalex.org/W2119366833",
+      "https://openalex.org/W2138619651",
+      "https://openalex.org/W2296314894",
+      "https://openalex.org/W2588778922",
+      "https://openalex.org/W2623103368",
+      "https://openalex.org/W2680347116",
+      "https://openalex.org/W2737573078",
+      "https://openalex.org/W2762670863",
+      "https://openalex.org/W2911439198",
+      "https://openalex.org/W2914690720",
+      "https://openalex.org/W2938453885",
+      "https://openalex.org/W2971035958",
+      "https://openalex.org/W3006148933",
+      "https://openalex.org/W3176826731",
+      "https://openalex.org/W3201556908",
+      "https://openalex.org/W4225140276",
+      "https://openalex.org/W4282939003",
+      "https://openalex.org/W4312010477",
+      "https://openalex.org/W4318818285",
+      "https://openalex.org/W4323844876",
+      "https://openalex.org/W4384524096",
+      "https://openalex.org/W4392769749",
+      "https://openalex.org/W4393470545"
+    ],
+    "related_works": [],
+    "abstract_inverted_index": {
+      "Background": [
+        0
+      ],
+      "Persons": [
+        1
+      ],
+      "with": [
+        2,
+        41,
+        126,
+        155
+      ],
+      "disabilities": [
+        3,
+        156
+      ],
+      "in": [
+        4,
+        9,
+        32,
+        99
+      ],
+      "South": [
+        5
+      ],
+      "Africa": [
+        6
+      ],
+      "experience": [
+        7
+      ],
+      "challenges": [
+        8
+      ],
+      "accessing": [
+        10
+      ],
+      "training": [
+        11
+      ],
+      "and": [
+        12,
+        33,
+        38,
+        66,
+        82,
+        97,
+        131,
+        133,
+        138
+      ],
+      "employment": [
+        13
+      ],
+      "opportunities.": [
+        14
+      ],
+      "Objective": [
+        15
+      ],
+      "This": [
+        16
+      ],
+      "study": [
+        17
+      ],
+      "aimed": [
+        18
+      ],
+      "to": [
+        19,
+        36,
+        94
+      ],
+      "determine": [
+        20
+      ],
+      "the": [
+        21,
+        74,
+        110,
+        113,
+        160
+      ],
+      "role": [
+        22
+      ],
+      "of": [
+        23,
+        112,
+        153,
+        162
+      ],
+      "specialised": [
+        24,
+        46
+      ],
+      "recruitment": [
+        25,
+        47
+      ],
+      "agencies": [
+        26,
+        48,
+        144
+      ],
+      "by": [
+        27,
+        105
+      ],
+      "exploring": [
+        28
+      ],
+      "activities": [
+        29
+      ],
+      "they": [
+        30
+      ],
+      "engage": [
+        31
+      ],
+      "services": [
+        34,
+        88
+      ],
+      "provided": [
+        35
+      ],
+      "employers": [
+        37
+      ],
+      "job": [
+        39
+      ],
+      "seekers": [
+        40
+      ],
+      "a": [
+        42,
+        121
+      ],
+      "disability.": [
+        43
+      ],
+      "Method": [
+        44
+      ],
+      "Twenty-five": [
+        45
+      ],
+      "were": [
+        49,
+        63,
+        89,
+        92
+      ],
+      "interviewed": [
+        50
+      ],
+      "through": [
+        51
+      ],
+      "semi-structured": [
+        52
+      ],
+      "individual": [
+        53
+      ],
+      "telephonic": [
+        54
+      ],
+      "interviews.": [
+        55
+      ],
+      "A": [
+        56
+      ],
+      "qualitative": [
+        57
+      ],
+      "research": [
+        58
+      ],
+      "design": [
+        59
+      ],
+      "was": [
+        60,
+        71,
+        157
+      ],
+      "employed.": [
+        61
+      ],
+      "Data": [
+        62
+      ],
+      "transcribed": [
+        64
+      ],
+      "verbatim": [
+        65
+      ],
+      "analysed": [
+        67
+      ],
+      "thematically.": [
+        68
+      ],
+      "Findings": [
+        69
+      ],
+      "It": [
+        70,
+        140
+      ],
+      "found": [
+        72
+      ],
+      "that": [
+        73,
+        145,
+        150
+      ],
+      "SRAs": [
+        75,
+        106
+      ],
+      "assume": [
+        76
+      ],
+      "four": [
+        77,
+        117,
+        148,
+        166
+      ],
+      "roles:": [
+        78
+      ],
+      "recruitment,": [
+        79,
+        95
+      ],
+      "placement,": [
+        80,
+        96
+      ],
+      "trainer,": [
+        81
+      ],
+      "consultation.": [
+        83
+      ],
+      "Within": [
+        84
+      ],
+      "these": [
+        85
+      ],
+      "roles,": [
+        86
+      ],
+      "various": [
+        87
+      ],
+      "provided,": [
+        90
+      ],
+      "which": [
+        91
+      ],
+      "related": [
+        93
+      ],
+      "support": [
+        98,
+        135,
+        163
+      ],
+      "equity": [
+        100
+      ],
+      "compliance.": [
+        101
+      ],
+      "These": [
+        102
+      ],
+      "roles": [
+        103,
+        118,
+        149
+      ],
+      "assumed": [
+        104,
+        146
+      ],
+      "largely": [
+        107
+      ],
+      "depended": [
+        108
+      ],
+      "on": [
+        109,
+        159
+      ],
+      "size": [
+        111
+      ],
+      "organisation": [
+        114
+      ],
+      "Conclusion": [
+        115
+      ],
+      "The": [
+        116
+      ],
+      "collectively": [
+        119
+      ],
+      "foster": [
+        120
+      ],
+      "supportive": [
+        122
+      ],
+      "environment": [
+        123
+      ],
+      "for": [
+        124
+      ],
+      "employees": [
+        125
+      ],
+      "disabilities.": [
+        127
+      ],
+      "Training": [
+        128
+      ],
+      "dispels": [
+        129
+      ],
+      "misconceptions,": [
+        130
+      ],
+      "pre-": [
+        132
+      ],
+      "post-employment": [
+        134
+      ],
+      "ensures": [
+        136
+      ],
+      "access": [
+        137
+      ],
+      "accommodations.": [
+        139
+      ],
+      "is": [
+        141
+      ],
+      "evident": [
+        142
+      ],
+      "from": [
+        143
+      ],
+      "all": [
+        147,
+        165
+      ],
+      "successful": [
+        151
+      ],
+      "placement": [
+        152
+      ],
+      "persons": [
+        154
+      ],
+      "dependent": [
+        158
+      ],
+      "provision": [
+        161
+      ],
+      "within": [
+        164
+      ],
+      "roles.": [
+        167
+      ]
+    },
+    "counts_by_year": [],
+    "updated_date": "2026-03-07T16:01:11.037858",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  "crossref": {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          22
+        ]
+      ],
+      "date-time": "2025-10-22T00:37:47Z",
+      "timestamp": 1761093467076,
+      "version": "build-2065373602"
+    },
+    "reference-count": 44,
+    "publisher": "SAGE Publications",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              16
+            ]
+          ],
+          "date-time": "2025-09-16T00:00:00Z",
+          "timestamp": 1757980800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              16
+            ]
+          ],
+          "date-time": "2025-09-16T00:00:00Z",
+          "timestamp": 1757980800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100001321",
+        "name": "National Research Foundation",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "NFSG180510327750"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "NFSG180510327750"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100001321",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100016961",
+        "name": "National Institute for the Humanities and Social Sciences",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "NIHSS/ SDS17/1187"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "NIHSS/ SDS17/1187"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100016961",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.sagepub.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Journal of Vocational Rehabilitation"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          11
+        ]
+      ]
+    },
+    "abstract": "<jats:sec>\n            <jats:title>Background</jats:title>\n            <jats:p>Persons with disabilities in South Africa experience challenges in accessing training and employment opportunities.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Objective</jats:title>\n            <jats:p>This study aimed to determine the role of specialised recruitment agencies by exploring activities they engage in and services provided to employers and job seekers with a disability.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Method</jats:title>\n            <jats:p>Twenty-five specialised recruitment agencies were interviewed through semi-structured individual telephonic interviews. A qualitative research design was employed. Data were transcribed verbatim and analysed thematically.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Findings</jats:title>\n            <jats:p>It was found that the SRAs assume four roles: recruitment, placement, trainer, and consultation. Within these roles, various services were provided, which were related to recruitment, placement, and support in equity compliance. These roles assumed by SRAs largely depended on the size of the organisation</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Conclusion</jats:title>\n            <jats:p>The four roles collectively foster a supportive environment for employees with disabilities. Training dispels misconceptions, and pre- and post-employment support ensures access and accommodations. It is evident from agencies that assumed all four roles that successful placement of persons with disabilities was dependent on the provision of support within all four roles.</jats:p>\n          </jats:sec>",
+    "DOI": "10.1177/10522263251376362",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          16
+        ]
+      ],
+      "date-time": "2025-09-16T18:04:43Z",
+      "timestamp": 1758045883000
+    },
+    "page": "312-324",
+    "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Specialised Recruitment Agents in a low and Middle-Income Country: Intermediaries Between Employers and Persons with Disabilities Seeking Employment"
+    ],
+    "prefix": "10.1177",
+    "volume": "63",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-8881-2297",
+        "authenticated-orcid": false,
+        "given": "R E",
+        "family": "Morwane",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "University of Pretoria"
+          }
+        ]
+      },
+      {
+        "given": "S",
+        "family": "Dada",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Pretoria"
+          }
+        ]
+      },
+      {
+        "given": "J",
+        "family": "Bornman",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Pretoria"
+          }
+        ]
+      }
+    ],
+    "member": "179",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          16
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_3_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jid.3659"
+      },
+      {
+        "key": "e_1_3_3_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10869-018-9602-5"
+      },
+      {
+        "key": "e_1_3_3_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/13582291231162315"
+      },
+      {
+        "key": "e_1_3_3_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4102/ajod.v12i0.1178"
+      },
+      {
+        "key": "e_1_3_3_6_1",
+        "volume-title": "Qualitative inquiry and research design: Choosing among five approaches",
+        "author": "Creswell J. W.",
+        "year": "2018",
+        "unstructured": "Creswell J. W., Poth C. N. (2018). Qualitative inquiry and research design: Choosing among five approaches (4th ed.). Sage Publications.",
+        "edition": "4"
+      },
+      {
+        "key": "e_1_3_3_7_1",
+        "unstructured": "Department of Labour (1998). The Employment Equity Act no 55 of 1998. Department of labour. Retrieved from www.labour.gov.za"
+      },
+      {
+        "key": "e_1_3_3_8_1",
+        "volume-title": "Technical assistance guidelines on the employment of people with disabilities (TAG)",
+        "author": "Department of Labour",
+        "year": "2002",
+        "unstructured": "Department of Labour. (2002). Technical assistance guidelines on the employment of people with disabilities (TAG). Department of Labour, Chief Directorate of Communication/Labour Relations."
+      },
+      {
+        "key": "e_1_3_3_9_1",
+        "volume-title": "The code of good practice (The Code)",
+        "author": "Department of Labour",
+        "year": "2004",
+        "unstructured": "Department of Labour. (2004). The code of good practice (The Code). Department of Labour, Chief Directorate of Communication/Labour Relations."
+      },
+      {
+        "issue": "37539",
+        "key": "e_1_3_3_10_1",
+        "article-title": "Employment Services Act 4 of 2014",
+        "volume": "587",
+        "author": "Department of Labour",
+        "year": "2014",
+        "unstructured": "Department of Labour. (2014). Employment Services Act 4 of 2014. Government Gazette, 587(37539). https://www.gov.za/documents/employment-services-act-7-apr-2014-0000",
+        "journal-title": "Government Gazette"
+      },
+      {
+        "key": "e_1_3_3_11_1",
+        "unstructured": "Department of Labour. (2024). Commission on employment equity (2023–2024). Retrieved from: https://www.labour.gov.za/DocumentCenter/Reports/Annual%20Reports/Employment%20Equity/2024/24th%20Commission%20for%20Employment%20Equity%20Annual%20Report.pdf"
+      },
+      {
+        "key": "e_1_3_3_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-211163"
+      },
+      {
+        "key": "e_1_3_3_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10803-019-03923-3"
+      },
+      {
+        "key": "e_1_3_3_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10926-008-9154-z"
+      },
+      {
+        "key": "e_1_3_3_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/2158244014522633"
+      },
+      {
+        "key": "e_1_3_3_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1365-2648.2007.04569.x"
+      },
+      {
+        "key": "e_1_3_3_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0034355213509841"
+      },
+      {
+        "key": "e_1_3_3_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-2011-0548"
+      },
+      {
+        "key": "e_1_3_3_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/WOR-162265"
+      },
+      {
+        "key": "e_1_3_3_20_1",
+        "article-title": "The disability data report 2023: Disability data initiative",
+        "author": "Hanass-Hancock J.",
+        "year": "2023",
+        "unstructured": "Hanass-Hancock J., Mitra S., Murthy G. V. S., Palmer M., Pinilla-Roncancio M., Rivas Velarde M. (2023). The disability data report 2023: Disability data initiative. Fordham Research Consortium on Disability. https://disabilitydata.ace.fordham.edu/disability-data-report-2023/",
+        "journal-title": "Fordham Research Consortium on Disability"
+      },
+      {
+        "key": "e_1_3_3_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1938965511424151"
+      },
+      {
+        "key": "e_1_3_3_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10926-013-9433-1"
+      },
+      {
+        "issue": "11",
+        "key": "e_1_3_3_23_1",
+        "first-page": "2696",
+        "article-title": "Prioritising barriers and solutions to improve employment for persons with developmental disabilities",
+        "volume": "42",
+        "author": "Khayatzadeh-Mahani A.",
+        "year": "2019",
+        "unstructured": "Khayatzadeh-Mahani A., Wittevrongel K., Nicholas D. B., Zwicker J. D. (2019). Prioritising barriers and solutions to improve employment for persons with developmental disabilities. Disability and Rehabilitation, 42(11), 2696–2706. https://doi.org/10.1080/09638288.2019.1570356",
+        "journal-title": "Disability and Rehabilitation"
+      },
+      {
+        "key": "e_1_3_3_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/jar.12375"
+      },
+      {
+        "key": "e_1_3_3_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10672-013-9216-z"
+      },
+      {
+        "key": "e_1_3_3_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09585192.2014.934896"
+      },
+      {
+        "key": "e_1_3_3_27_1",
+        "volume-title": "Research methodology: A step-by-step guide for beginners",
+        "author": "Kumar R.",
+        "year": "2011",
+        "unstructured": "Kumar R. (2011). Research methodology: A step-by-step guide for beginners (3rd ed.). SAGE Publications.",
+        "edition": "3"
+      },
+      {
+        "key": "e_1_3_3_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4102/sajhrm.v22i0.2355"
+      },
+      {
+        "key": "e_1_3_3_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/jar.13231"
+      },
+      {
+        "key": "e_1_3_3_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4324/9781003266068-47"
+      },
+      {
+        "issue": "0",
+        "key": "e_1_3_3_31_1",
+        "article-title": "Barriers to and facilitators of employment of persons with disabilities in low- and middle-income countries: A scoping review",
+        "volume": "10",
+        "author": "Morwane R. E.",
+        "year": "2021",
+        "unstructured": "Morwane R. E., Dada S., Bornman J. (2021). Barriers to and facilitators of employment of persons with disabilities in low- and middle-income countries: A scoping review. African Journal of Disability, 10(0), a833. https://doi.org/10.4102/ajod.v10i0.833",
+        "journal-title": "African Journal of Disability"
+      },
+      {
+        "key": "e_1_3_3_32_1",
+        "unstructured": "National Council of and for Persons with Disabilities (2016). Looking for a job. Retrieved from http://disabilityinfosa.co.za/mobility-impairments/looking-for-a-job/"
+      },
+      {
+        "key": "e_1_3_3_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-191018"
+      },
+      {
+        "key": "e_1_3_3_34_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1362361317702507"
+      },
+      {
+        "key": "e_1_3_3_35_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/rep0000119"
+      },
+      {
+        "key": "e_1_3_3_36_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.16993/sjdr.860"
+      },
+      {
+        "key": "e_1_3_3_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ridd.2020.103603"
+      },
+      {
+        "key": "e_1_3_3_38_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09687590600918370"
+      },
+      {
+        "key": "e_1_3_3_39_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-221221"
+      },
+      {
+        "key": "e_1_3_3_40_1",
+        "unstructured": "Statistics South Africa. (2014). Census 2011. Profile of persons with disability in South Africa. Report no. 03-01-59 (2014). https://www.statssa.gov.za/publications/Report-03-01-59/Report-03-01- 592011.pdf"
+      },
+      {
+        "key": "e_1_3_3_41_1",
+        "unstructured": "Statistics South Africa. (2025). Quarterly Labour Force Survey. Retrieved from: https://www.statssa.gov.za/?p=18398"
+      },
+      {
+        "key": "e_1_3_3_42_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1049731517715316"
+      },
+      {
+        "key": "e_1_3_3_43_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/1359432X.2017.1387536"
+      },
+      {
+        "key": "e_1_3_3_44_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3109/09638288.2011.631679"
+      },
+      {
+        "key": "e_1_3_3_45_1",
+        "volume-title": "World report on disability",
+        "author": "World Health Organization, & World Bank",
+        "year": "2011",
+        "unstructured": "World Health Organization, & World Bank (2011). World report on disability. World Health Organization. https://www.who.int/publications/i/item/9789241564182"
+      }
+    ],
+    "container-title": [
+      "Journal of Vocational Rehabilitation"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/10522263251376362",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/10522263251376362",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/10522263251376362",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          21
+        ]
+      ],
+      "date-time": "2025-10-21T11:41:24Z",
+      "timestamp": 1761046884000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/10.1177/10522263251376362"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          16
+        ]
+      ]
+    },
+    "references-count": 44,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            11
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1177/10522263251376362"
+    ],
+    "URL": "https://doi.org/10.1177/10522263251376362",
+    "relation": {},
+    "ISSN": [
+      "1052-2263",
+      "1878-6316"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "1052-2263"
+      },
+      {
+        "type": "electronic",
+        "value": "1878-6316"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          16
+        ]
+      ]
+    }
+  }
+}

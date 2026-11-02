@@ -1,0 +1,1493 @@
+{
+  "source_type": "jvr_pdf_candidate",
+  "doi": "10.1177/10522263261430705",
+  "doi_url": "https://doi.org/10.1177/10522263261430705",
+  "source_url": "https://journals.sagepub.com/doi/10.1177/10522263261430705",
+  "attempted_pdf_urls": [
+    "https://journals.sagepub.com/doi/pdf/10.1177/10522263261430705",
+    "https://journals.sagepub.com/doi/10.1177/10522263261430705",
+    "https://doi.org/10.1177/10522263261430705",
+    "https://content.iospress.com/download?id=10.1177/10522263261430705"
+  ],
+  "selected_pdf_url": "",
+  "selected_final_url": "",
+  "download_status": "unavailable",
+  "match": {
+    "veteran_hits": [
+      "va "
+    ],
+    "pathway_hits": [
+      "employment",
+      "employment outcome",
+      "employment outcomes"
+    ],
+    "disability_hits": []
+  },
+  "openalex": {
+    "id": "https://openalex.org/W7138429254",
+    "doi": "https://doi.org/10.1177/10522263261430705",
+    "title": "Online Technical Assistance to Enhance Employment Outcomes for Adults with Serious Mental Health Conditions in Public Behavioral Health Systems: What Works in a Virtual Setting?",
+    "display_name": "Online Technical Assistance to Enhance Employment Outcomes for Adults with Serious Mental Health Conditions in Public Behavioral Health Systems: What Works in a Virtual Setting?",
+    "publication_year": 2026,
+    "publication_date": "2026-03-17",
+    "ids": {
+      "openalex": "https://openalex.org/W7138429254",
+      "doi": "https://doi.org/10.1177/10522263261430705"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/10522263261430705",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/10522263261430705",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S190353498",
+        "display_name": "Journal of Vocational Rehabilitation",
+        "issn_l": "1052-2263",
+        "issn": [
+          "1052-2263",
+          "1878-6316"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310318577",
+        "host_organization_name": "IOS Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310318577"
+        ],
+        "host_organization_lineage_names": [
+          "IOS Press"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Vocational Rehabilitation",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5070783235",
+          "display_name": "Joseph Marrone",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Joseph Marrone",
+        "raw_affiliation_strings": [
+          "Boston University"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Boston University",
+            "institution_ids": []
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5077810371",
+          "display_name": "Jane K. Burke-Miller",
+          "orcid": "https://orcid.org/0000-0002-5480-9433"
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "Jane K Burke-Miller",
+        "raw_affiliation_strings": [
+          "Boston University"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Boston University",
+            "institution_ids": []
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5026134035",
+          "display_name": "Marianne Farkas",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Marianne Farkas",
+        "raw_affiliation_strings": [
+          "Boston University"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Boston University",
+            "institution_ids": []
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 0,
+    "institutions_distinct_count": 3,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5077810371"
+    ],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.94200988,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": null,
+      "issue": null,
+      "first_page": null,
+      "last_page": null
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11519",
+      "display_name": "Digital Mental Health Interventions",
+      "score": 0.2037999927997589,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3202",
+        "display_name": "Applied Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11519",
+        "display_name": "Digital Mental Health Interventions",
+        "score": 0.2037999927997589,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3202",
+          "display_name": "Applied Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11759",
+        "display_name": "Occupational Therapy Practice and Research",
+        "score": 0.16189999878406525,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3609",
+          "display_name": "Occupational Therapy"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/36",
+          "display_name": "Health Professions"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10629",
+        "display_name": "Health Policy Implementation Science",
+        "score": 0.1298000067472458,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3600",
+          "display_name": "General Health Professions"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/36",
+          "display_name": "Health Professions"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/agency",
+        "display_name": "Agency (philosophy)",
+        "score": 0.7099999785423279
+      },
+      {
+        "id": "https://openalex.org/keywords/mental-health",
+        "display_name": "Mental health",
+        "score": 0.5763999819755554
+      },
+      {
+        "id": "https://openalex.org/keywords/virtual-machine",
+        "display_name": "Virtual machine",
+        "score": 0.3479999899864197
+      },
+      {
+        "id": "https://openalex.org/keywords/qualitative-research",
+        "display_name": "Qualitative research",
+        "score": 0.3303999900817871
+      },
+      {
+        "id": "https://openalex.org/keywords/qualitative-property",
+        "display_name": "Qualitative property",
+        "score": 0.2915000021457672
+      },
+      {
+        "id": "https://openalex.org/keywords/mental-model",
+        "display_name": "Mental model",
+        "score": 0.2897999882698059
+      },
+      {
+        "id": "https://openalex.org/keywords/public-health",
+        "display_name": "Public health",
+        "score": 0.2825999855995178
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C108170787",
+        "wikidata": "https://www.wikidata.org/wiki/Q3951828",
+        "display_name": "Agency (philosophy)",
+        "level": 2,
+        "score": 0.7099999785423279
+      },
+      {
+        "id": "https://openalex.org/C134362201",
+        "wikidata": "https://www.wikidata.org/wiki/Q317309",
+        "display_name": "Mental health",
+        "level": 2,
+        "score": 0.5763999819755554
+      },
+      {
+        "id": "https://openalex.org/C75630572",
+        "wikidata": "https://www.wikidata.org/wiki/Q538904",
+        "display_name": "Applied psychology",
+        "level": 1,
+        "score": 0.45559999346733093
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.4275999963283539
+      },
+      {
+        "id": "https://openalex.org/C144133560",
+        "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+        "display_name": "Business",
+        "level": 0,
+        "score": 0.4049000144004822
+      },
+      {
+        "id": "https://openalex.org/C56739046",
+        "wikidata": "https://www.wikidata.org/wiki/Q192060",
+        "display_name": "Knowledge management",
+        "level": 1,
+        "score": 0.3862000107765198
+      },
+      {
+        "id": "https://openalex.org/C195094911",
+        "wikidata": "https://www.wikidata.org/wiki/Q14167904",
+        "display_name": "Process management",
+        "level": 1,
+        "score": 0.37929999828338623
+      },
+      {
+        "id": "https://openalex.org/C25344961",
+        "wikidata": "https://www.wikidata.org/wiki/Q192726",
+        "display_name": "Virtual machine",
+        "level": 2,
+        "score": 0.3479999899864197
+      },
+      {
+        "id": "https://openalex.org/C509550671",
+        "wikidata": "https://www.wikidata.org/wiki/Q126945",
+        "display_name": "Medical education",
+        "level": 1,
+        "score": 0.33739998936653137
+      },
+      {
+        "id": "https://openalex.org/C190248442",
+        "wikidata": "https://www.wikidata.org/wiki/Q839486",
+        "display_name": "Qualitative research",
+        "level": 2,
+        "score": 0.3303999900817871
+      },
+      {
+        "id": "https://openalex.org/C159110408",
+        "wikidata": "https://www.wikidata.org/wiki/Q121176",
+        "display_name": "Nursing",
+        "level": 1,
+        "score": 0.3154999911785126
+      },
+      {
+        "id": "https://openalex.org/C87156501",
+        "wikidata": "https://www.wikidata.org/wiki/Q7268708",
+        "display_name": "Qualitative property",
+        "level": 2,
+        "score": 0.2915000021457672
+      },
+      {
+        "id": "https://openalex.org/C2982912361",
+        "wikidata": "https://www.wikidata.org/wiki/Q1851867",
+        "display_name": "Mental model",
+        "level": 2,
+        "score": 0.2897999882698059
+      },
+      {
+        "id": "https://openalex.org/C138816342",
+        "wikidata": "https://www.wikidata.org/wiki/Q189603",
+        "display_name": "Public health",
+        "level": 2,
+        "score": 0.2825999855995178
+      },
+      {
+        "id": "https://openalex.org/C2779622097",
+        "wikidata": "https://www.wikidata.org/wiki/Q1417724",
+        "display_name": "Capacity building",
+        "level": 2,
+        "score": 0.27889999747276306
+      },
+      {
+        "id": "https://openalex.org/C3019565508",
+        "wikidata": "https://www.wikidata.org/wiki/Q444835",
+        "display_name": "Virtual world",
+        "level": 2,
+        "score": 0.2736000120639801
+      },
+      {
+        "id": "https://openalex.org/C5395021",
+        "wikidata": "https://www.wikidata.org/wiki/Q1061410",
+        "display_name": "Program evaluation",
+        "level": 2,
+        "score": 0.2669000029563904
+      },
+      {
+        "id": "https://openalex.org/C3018769082",
+        "wikidata": "https://www.wikidata.org/wiki/Q1506693",
+        "display_name": "Serious game",
+        "level": 2,
+        "score": 0.26660001277923584
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.2590999901294708
+      },
+      {
+        "id": "https://openalex.org/C194969405",
+        "wikidata": "https://www.wikidata.org/wiki/Q170519",
+        "display_name": "Virtual reality",
+        "level": 2,
+        "score": 0.25589999556541443
+      },
+      {
+        "id": "https://openalex.org/C89785696",
+        "wikidata": "https://www.wikidata.org/wiki/Q2290753",
+        "display_name": "Theory of planned behavior",
+        "level": 3,
+        "score": 0.25450000166893005
+      },
+      {
+        "id": "https://openalex.org/C28718268",
+        "wikidata": "https://www.wikidata.org/wiki/Q4118620",
+        "display_name": "Needs assessment",
+        "level": 2,
+        "score": 0.2531000077724457
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1177/10522263261430705",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1177/10522263261430705",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S190353498",
+          "display_name": "Journal of Vocational Rehabilitation",
+          "issn_l": "1052-2263",
+          "issn": [
+            "1052-2263",
+            "1878-6316"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310318577",
+          "host_organization_name": "IOS Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310318577"
+          ],
+          "host_organization_lineage_names": [
+            "IOS Press"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Vocational Rehabilitation",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "score": 0.4435107409954071,
+        "id": "https://metadata.un.org/sdg/8",
+        "display_name": "Decent work and economic growth"
+      }
+    ],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "content_urls": null,
+    "referenced_works_count": 34,
+    "referenced_works": [
+      "https://openalex.org/W1642877986",
+      "https://openalex.org/W1709968558",
+      "https://openalex.org/W1891987747",
+      "https://openalex.org/W2010049072",
+      "https://openalex.org/W2039340339",
+      "https://openalex.org/W2041728758",
+      "https://openalex.org/W2130171603",
+      "https://openalex.org/W2139727863",
+      "https://openalex.org/W2410726653",
+      "https://openalex.org/W2586135497",
+      "https://openalex.org/W2604385736",
+      "https://openalex.org/W2886750325",
+      "https://openalex.org/W2917813403",
+      "https://openalex.org/W3012551692",
+      "https://openalex.org/W3087168114",
+      "https://openalex.org/W3092441239",
+      "https://openalex.org/W3120934348",
+      "https://openalex.org/W3168556000",
+      "https://openalex.org/W3178862851",
+      "https://openalex.org/W3203781295",
+      "https://openalex.org/W4205267317",
+      "https://openalex.org/W4224441870",
+      "https://openalex.org/W4281396505",
+      "https://openalex.org/W4288724246",
+      "https://openalex.org/W4289637481",
+      "https://openalex.org/W4313389649",
+      "https://openalex.org/W4399021599",
+      "https://openalex.org/W4399021620",
+      "https://openalex.org/W4401082653",
+      "https://openalex.org/W4405057768",
+      "https://openalex.org/W4405075030",
+      "https://openalex.org/W4406626533",
+      "https://openalex.org/W4409039402",
+      "https://openalex.org/W4413901971"
+    ],
+    "related_works": [],
+    "abstract_inverted_index": {
+      "Background": [
+        0
+      ],
+      "Technical": [
+        1
+      ],
+      "Assistance": [
+        2
+      ],
+      "(TA)": [
+        3
+      ],
+      "can": [
+        4
+      ],
+      "be": [
+        5
+      ],
+      "an": [
+        6,
+        64,
+        173,
+        204
+      ],
+      "effective": [
+        7
+      ],
+      "implementation": [
+        8
+      ],
+      "science": [
+        9
+      ],
+      "tool": [
+        10
+      ],
+      "to": [
+        11,
+        14,
+        30,
+        33,
+        42,
+        60,
+        71,
+        112,
+        185,
+        215,
+        223,
+        229
+      ],
+      "address": [
+        12
+      ],
+      "barriers": [
+        13,
+        166
+      ],
+      "incorporating": [
+        15
+      ],
+      "evidence-based": [
+        16
+      ],
+      "practices": [
+        17
+      ],
+      "in": [
+        18,
+        23,
+        124,
+        147
+      ],
+      "behavioral": [
+        19
+      ],
+      "health.": [
+        20
+      ],
+      "The": [
+        21,
+        54,
+        170,
+        191
+      ],
+      "growth": [
+        22
+      ],
+      "virtual": [
+        24,
+        94,
+        136,
+        156,
+        219
+      ],
+      "training": [
+        25
+      ],
+      "and": [
+        26,
+        47,
+        62,
+        107,
+        116,
+        131,
+        133,
+        145,
+        151,
+        161,
+        165,
+        198,
+        210,
+        234
+      ],
+      "communication": [
+        27
+      ],
+      "provides": [
+        28
+      ],
+      "potential": [
+        29,
+        48
+      ],
+      "expand": [
+        31
+      ],
+      "access": [
+        32
+      ],
+      "TA.": [
+        34,
+        52
+      ],
+      "Given": [
+        35
+      ],
+      "this": [
+        36,
+        57
+      ],
+      "potential,": [
+        37
+      ],
+      "there": [
+        38,
+        225
+      ],
+      "is": [
+        39,
+        194,
+        221,
+        226
+      ],
+      "a": [
+        40,
+        178,
+        195,
+        211,
+        227
+      ],
+      "need": [
+        41,
+        228
+      ],
+      "evaluate": [
+        43,
+        63
+      ],
+      "the": [
+        44,
+        155,
+        159
+      ],
+      "feasibility,": [
+        45
+      ],
+      "acceptability,": [
+        46
+      ],
+      "impact": [
+        49
+      ],
+      "of": [
+        50,
+        56,
+        89,
+        92,
+        126,
+        135,
+        154,
+        158
+      ],
+      "remote": [
+        51
+      ],
+      "Objective": [
+        53
+      ],
+      "purpose": [
+        55
+      ],
+      "project": [
+        58,
+        171
+      ],
+      "was": [
+        59,
+        121
+      ],
+      "develop": [
+        61,
+        186
+      ],
+      "Enhanced-Online": [
+        65
+      ],
+      "TA": [
+        66,
+        119,
+        160,
+        175,
+        220
+      ],
+      "Response": [
+        67
+      ],
+      "(E-OTAR)": [
+        68
+      ],
+      "model": [
+        69,
+        163,
+        193
+      ],
+      "intended": [
+        70
+      ],
+      "build": [
+        72
+      ],
+      "system": [
+        73
+      ],
+      "capacity": [
+        74,
+        141,
+        187
+      ],
+      "for": [
+        75,
+        79,
+        182,
+        188
+      ],
+      "enhancing": [
+        76,
+        189
+      ],
+      "employment": [
+        77,
+        216
+      ],
+      "outcomes": [
+        78
+      ],
+      "adults": [
+        80
+      ],
+      "with": [
+        81
+      ],
+      "serious": [
+        82
+      ],
+      "mental": [
+        83
+      ],
+      "health": [
+        84
+      ],
+      "conditions.": [
+        85
+      ],
+      "Method": [
+        86
+      ],
+      "E-OTAR": [
+        87,
+        192
+      ],
+      "consisted": [
+        88
+      ],
+      "40–80": [
+        90
+      ],
+      "hours": [
+        91
+      ],
+      "tailored": [
+        93
+      ],
+      "sessions": [
+        95
+      ],
+      "over": [
+        96
+      ],
+      "12–24": [
+        97
+      ],
+      "months": [
+        98
+      ],
+      "across": [
+        99
+      ],
+      "15": [
+        100
+      ],
+      "sites": [
+        101,
+        202
+      ],
+      "nationwide": [
+        102
+      ],
+      "using": [
+        103
+      ],
+      "web-based": [
+        104
+      ],
+      "technologies.": [
+        105
+      ],
+      "Qualitative": [
+        106
+      ],
+      "quantitative": [
+        108
+      ],
+      "measures": [
+        109
+      ],
+      "were": [
+        110
+      ],
+      "used": [
+        111
+      ],
+      "assess": [
+        113
+      ],
+      "facilitators,": [
+        114
+      ],
+      "barriers,": [
+        115
+      ],
+      "outcomes.": [
+        117,
+        217
+      ],
+      "Results": [
+        118
+      ],
+      "utility": [
+        120
+      ],
+      "rated": [
+        122
+      ],
+      "highly": [
+        123
+      ],
+      "areas": [
+        125
+      ],
+      "shared": [
+        127
+      ],
+      "information/resources,": [
+        128
+      ],
+      "goal": [
+        129
+      ],
+      "development": [
+        130
+      ],
+      "refinement,": [
+        132
+      ],
+      "amount": [
+        134
+      ],
+      "contact.": [
+        137
+      ],
+      "Sites": [
+        138
+      ],
+      "reported": [
+        139
+      ],
+      "enhanced": [
+        140
+      ],
+      "through": [
+        142
+      ],
+      "increased": [
+        143
+      ],
+      "knowledge": [
+        144
+      ],
+      "improvements": [
+        146
+      ],
+      "agency": [
+        148
+      ],
+      "coordination,": [
+        149
+      ],
+      "referrals,": [
+        150
+      ],
+      "expectations.": [
+        152
+      ],
+      "Acceptability": [
+        153
+      ],
+      "nature": [
+        157
+      ],
+      "other": [
+        162
+      ],
+      "facilitators": [
+        164
+      ],
+      "are": [
+        167
+      ],
+      "presented.": [
+        168
+      ],
+      "Conclusion": [
+        169
+      ],
+      "developed": [
+        172
+      ],
+      "online": [
+        174
+      ],
+      "model,": [
+        176
+      ],
+      "offering": [
+        177
+      ],
+      "relatively": [
+        179
+      ],
+      "low-cost": [
+        180
+      ],
+      "method": [
+        181
+      ],
+      "assisting": [
+        183
+      ],
+      "organizations": [
+        184
+      ],
+      "services.": [
+        190
+      ],
+      "feasible": [
+        196
+      ],
+      "option": [
+        197
+      ],
+      "works": [
+        199
+      ],
+      "effectively": [
+        200
+      ],
+      "when": [
+        201
+      ],
+      "have": [
+        203
+      ],
+      "active": [
+        205
+      ],
+      "local": [
+        206
+      ],
+      "team,": [
+        207
+      ],
+      "clear": [
+        208
+      ],
+      "goals,": [
+        209
+      ],
+      "continued": [
+        212
+      ],
+      "system-wide": [
+        213
+      ],
+      "commitment": [
+        214
+      ],
+      "As": [
+        218
+      ],
+      "likely": [
+        222
+      ],
+      "burgeon,": [
+        224
+      ],
+      "incorporate": [
+        230
+      ],
+      "structured": [
+        231
+      ],
+      "needs": [
+        232
+      ],
+      "analysis": [
+        233
+      ],
+      "evaluation": [
+        235
+      ],
+      "tools.": [
+        236
+      ]
+    },
+    "counts_by_year": [],
+    "updated_date": "2026-03-18T06:31:55.123368",
+    "created_date": "2026-03-18T00:00:00"
+  },
+  "crossref": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          20
+        ]
+      ],
+      "date-time": "2026-03-20T10:23:40Z",
+      "timestamp": 1774002220953,
+      "version": "3.50.1"
+    },
+    "reference-count": 36,
+    "publisher": "SAGE Publications",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              17
+            ]
+          ],
+          "date-time": "2026-03-17T00:00:00Z",
+          "timestamp": 1773705600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100009157",
+        "name": "National Institute on Disability, Independent Living, and Rehabilitation Research",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "NIDILRR grant 90RT5029"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "NIDILRR grant 90RT5029"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100009157",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.sagepub.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Journal of Vocational Rehabilitation"
+    ],
+    "abstract": "<jats:sec>\n                    <jats:title>Background</jats:title>\n                    <jats:p>Technical Assistance (TA) can be an effective implementation science tool to address barriers to incorporating evidence-based practices in behavioral health. The growth in virtual training and communication provides potential to expand access to TA. Given this potential, there is a need to evaluate the feasibility, acceptability, and potential impact of remote TA.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Objective</jats:title>\n                    <jats:p>The purpose of this project was to develop and evaluate an Enhanced-Online TA Response (E-OTAR) model intended to build system capacity for enhancing employment outcomes for adults with serious mental health conditions.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Method</jats:title>\n                    <jats:p>E-OTAR consisted of 40–80 hours of tailored virtual sessions over 12–24 months across 15 sites nationwide using web-based technologies. Qualitative and quantitative measures were used to assess facilitators, barriers, and outcomes.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>TA utility was rated highly in areas of shared information/resources, goal development and refinement, and amount of virtual contact. Sites reported enhanced capacity through increased knowledge and improvements in agency coordination, referrals, and expectations. Acceptability of the virtual nature of the TA and other model facilitators and barriers are presented.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusion</jats:title>\n                    <jats:p>The project developed an online TA model, offering a relatively low-cost method for assisting organizations to develop capacity for enhancing services. The E-OTAR model is a feasible option and works effectively when sites have an active local team, clear goals, and a continued system-wide commitment to employment outcomes. As virtual TA is likely to burgeon, there is a need to incorporate structured needs analysis and evaluation tools.</jats:p>\n                  </jats:sec>",
+    "DOI": "10.1177/10522263261430705",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          17
+        ]
+      ],
+      "date-time": "2026-03-17T10:22:32Z",
+      "timestamp": 1773742952000
+    },
+    "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Online Technical Assistance to Enhance Employment Outcomes for Adults with Serious Mental Health Conditions in Public Behavioral Health Systems: What Works in a Virtual Setting?"
+    ],
+    "prefix": "10.1177",
+    "author": [
+      {
+        "given": "Joseph",
+        "family": "Marrone",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Boston University"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5480-9433",
+        "authenticated-orcid": false,
+        "given": "Jane K",
+        "family": "Burke-Miller",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Boston University"
+          }
+        ]
+      },
+      {
+        "given": "Marianne",
+        "family": "Farkas",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Boston University"
+          }
+        ]
+      }
+    ],
+    "member": "179",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          17
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_3_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1176/appi.ps.202000774"
+      },
+      {
+        "key": "e_1_3_3_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/01632787241234882"
+      },
+      {
+        "key": "e_1_3_3_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1176/appi.ajp.21100970"
+      },
+      {
+        "key": "e_1_3_3_5_1",
+        "article-title": "Advances in employment policy for individuals with serious mental illness",
+        "author": "Bazelon Center.",
+        "year": "2018",
+        "unstructured": "Bazelon Center. (2018). Advances in employment policy for individuals with serious mental illness. Bazelon Center for Mental Health Law. https://www.bazelon.org/wp-content/uploads/2018/10/Supported-Employment-Report_Oct-2018.pdf",
+        "journal-title": "Bazelon Center for Mental Health Law"
+      },
+      {
+        "key": "e_1_3_3_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1049731514537687"
+      },
+      {
+        "key": "e_1_3_3_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/10522263241300831"
+      },
+      {
+        "key": "e_1_3_3_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1468-2850.2011.01244.x"
+      },
+      {
+        "key": "e_1_3_3_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/wps.20784"
+      },
+      {
+        "key": "e_1_3_3_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pgph.0003967"
+      },
+      {
+        "key": "e_1_3_3_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s41347-022-00270-6"
+      },
+      {
+        "key": "e_1_3_3_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1176/ps.2006.57.10.1391"
+      },
+      {
+        "key": "e_1_3_3_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1377/hlthaff.2016.0001"
+      },
+      {
+        "key": "e_1_3_3_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.genhosppsych.2022.01.004"
+      },
+      {
+        "key": "e_1_3_3_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3109/09638237.2015.1036972"
+      },
+      {
+        "key": "e_1_3_3_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11414-014-9439-2"
+      },
+      {
+        "key": "e_1_3_3_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/prj0000239"
+      },
+      {
+        "key": "e_1_3_3_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-130666"
+      },
+      {
+        "key": "e_1_3_3_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s43477-020-00002-z"
+      },
+      {
+        "key": "e_1_3_3_20_1",
+        "first-page": "3",
+        "article-title": "All change is difficult, no matter how long you put it off",
+        "volume": "21",
+        "author": "Marrone J.",
+        "year": "2019",
+        "unstructured": "Marrone J., Farkas M., Abramson L. (2019). All change is difficult, no matter how long you put it off. American Journal of Psychiatric Rehabilitation, 21, 3–4.",
+        "journal-title": "American Journal of Psychiatric Rehabilitation"
+      },
+      {
+        "key": "e_1_3_3_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1176/appi.ps.201900522"
+      },
+      {
+        "key": "e_1_3_3_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1176/appi.ps.20240083"
+      },
+      {
+        "key": "e_1_3_3_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/prj0000458"
+      },
+      {
+        "key": "e_1_3_3_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/01454455251371023"
+      },
+      {
+        "key": "e_1_3_3_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1176/appi.ps.201800281"
+      },
+      {
+        "key": "e_1_3_3_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.encep.2014.04.008"
+      },
+      {
+        "key": "e_1_3_3_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/gmh.2025.5"
+      },
+      {
+        "key": "e_1_3_3_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/prj0000253"
+      },
+      {
+        "key": "e_1_3_3_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/01632787241237246"
+      },
+      {
+        "key": "e_1_3_3_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10597-022-00972-4"
+      },
+      {
+        "key": "e_1_3_3_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1176/appi.ps.202100199"
+      },
+      {
+        "key": "e_1_3_3_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s13012-015-0209-1"
+      },
+      {
+        "key": "e_1_3_3_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12909-022-03598-y"
+      },
+      {
+        "key": "e_1_3_3_34_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s43058-024-00618-4"
+      },
+      {
+        "key": "e_1_3_3_35_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpsyt.2022.1057915"
+      },
+      {
+        "key": "e_1_3_3_36_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s13012-021-01132-0"
+      },
+      {
+        "key": "e_1_3_3_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.childyouth.2019.02.040"
+      }
+    ],
+    "container-title": [
+      "Journal of Vocational Rehabilitation"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/10522263261430705",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/10522263261430705",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/10522263261430705",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          20
+        ]
+      ],
+      "date-time": "2026-03-20T07:46:19Z",
+      "timestamp": 1773992779000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/10.1177/10522263261430705"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          17
+        ]
+      ]
+    },
+    "references-count": 36,
+    "alternative-id": [
+      "10.1177/10522263261430705"
+    ],
+    "URL": "https://doi.org/10.1177/10522263261430705",
+    "relation": {},
+    "ISSN": [
+      "1052-2263",
+      "1878-6316"
+    ],
+    "issn-type": [
+      {
+        "value": "1052-2263",
+        "type": "print"
+      },
+      {
+        "value": "1878-6316",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          17
+        ]
+      ]
+    },
+    "article-number": "10522263261430705"
+  }
+}

@@ -1,0 +1,502 @@
+FILENAME: rsa-tac-23-02-pdf-86c21c55b950.pdf
+PATH: _raw/rsa.ed.gov/rsa-tac-23-02-pdf-86c21c55b950.pdf
+
+U.S. DEPARTMENT OF EDUCATION       
+OFFICE OF SPECIAL EDUCATION AND REHABILITATIVE SERVICES 
+REHABILITATION SERVICES ADMINISTRATION 
+WASHINGTON, D.C. 20202 
+ 
+ 
+      TECHNICAL ASSISTANCE CIRCULAR 
+RSA-TAC-23-02 
+      DATE: April 13, 2023  
+ 
+ADDRESSEES: STATE VOCATIONAL REHABILITATION AGENCIES  
+STATE REHABILITATION COUNCILS  
+CLIENT ASSISTANCE PROGRAMS 
+AMERICAN INDIAN VOCATIONAL REHABILITATION SERVICES          
+PROJECTS 
+ 
+SUBJECT: Federal Requirements Governing the Composition and Membership of, 
+and Appointments to, the State Rehabilitation Councils 
+ 
+PURPOSE:  
+ 
+On January 18, 2017, the Rehabilitation Services Administration (RSA) issued Policy Directive 
+(PD) 17-01 titled “Retirement of Certain Policy Issuances.” Through that PD, RSA retired the 
+policy issuances that were outdated due to changes in law, regulations, or reporting requirements 
+resulting from the amendments to the Rehabilitation Act of 1973 (Rehabilitation Act) made by 
+title IV of the Workforce Innovation and Opportunity Act (WIOA), including Technical 
+Assistance Circular (TAC) 12-01, “Federal Requirements Governing the Composition and 
+Membership of, and Appointments to, the State Rehabilitation Councils.” Through this TAC 23-
+02, RSA reissues the guidance from TAC 12-01, addresses a technical change related to the 
+membership of the representative of the American Indian Vocational Rehabilitation Services 
+(AIVRS) projects, and clarifies the appointment of, and term limits for, the director of vocational 
+rehabilitation (VR) agencies (see Questions 3, 5, and 12).  
+ 
+Section 101(a)(21) of the Rehabilitation Act, as amended by WIOA, requires the State to assure 
+in the VR Services Portion of the Unified or Combined State Plan that either the designated State 
+agency (DSA) is an independent State commission that is consumer-controlled, or the State has 
+established a State Rehabilitation Council (SRC) that meets the requirements set forth in Section 
+105 of the Rehabilitation Act. Except for those States in which the DSA is an independent State 
+commission established pursuant to Section 101(a)(21)(A)(i) of the Rehabilitation Act, a State 
+must establish a SRC so that the State can receive funding for the administration and operation of 
+the VR program (Section 105(a)(1) of the Rehabilitation Act). However, the Rehabilitation Act 
+does not prohibit a State from establishing both an independent commission and a SRC if it 
+chooses to do so. 
+ 
+Among its several responsibilities, the SRC reviews, evaluates, and advises the agency regarding 
+its performance and effectiveness in the delivery of services and the effect of service provision
+
+2 
+ 
+on the achievement of employment outcomes by individuals with disabilities (Section 105(c)(1) 
+of the Rehabilitation Act). Additionally, the SRC ensures that the voice of the community of 
+stakeholders is heard as agencies develop and implement policies and procedures that directly 
+affect the individuals served by the VR agency (Sections 101(a)(16) and 105(c)(2) and (6) of the 
+Rehabilitation Act).1 
+ 
+When constituted in accordance with Federal requirements, the SRC brings together a variety of 
+individuals with disabilities, disability groups, VR professionals, service providers, and leaders 
+in the community, including those representing business, industry, and labor. To ensure that each 
+SRC is properly constituted so that it is able to carry out its mandated functions, RSA provides, 
+through this TAC, guidance to VR agencies and SRCs regarding the Federal requirements 
+concerning the composition and membership of, and appointments to, the SRC.2 
+ 
+TECHNICAL ASSISTANCE:  
+ 
+The information contained in this TAC is presented below in a series of frequently asked 
+questions by VR agencies and SRCs. Except where otherwise noted, all requirements discussed 
+herein also apply to SRCs established in States with a separate VR agency serving individuals 
+who are blind and visually impaired.   
+ 
+1. Who has the authority to appoint members to the SRC? 
+ 
+Except in a very limited number of States, the governor must appoint the members of the SRC 
+(Section 105(b)(3) of the Rehabilitation Act; 34 C.F.R. § 361.17(a)). However, in those few 
+States where the State’s constitution or statutes vest authority to carry out activities under the 
+Rehabilitation Act in another entity, including one or more houses of the legislature or an 
+independent board, the chief officer of that entity has the authority to make the appointments to 
+the SRC (Id.). For example, a State’s constitution may establish an elected board of education 
+that is structurally independent from the State’s executive branch and from the control of the 
+governor. In such circumstances, the State’s statute may identify the elected board as the entity 
+charged with the responsibility to carry out the activities under the Rehabilitation Act. In that 
+case, the board’s president, as its chief officer, has the authority to appoint the members of the 
+SRC. 
+ 
+When making the appointments, the appointing authority must do so only after receiving 
+recommendations from representatives of organizations representing a broad range of individuals 
+with disabilities. To the greatest extent practicable, the appointing authority must take into 
+account the extent to which minority populations are represented on the SRC (Id.). This 
+requirement is consistent with the Rehabilitation Act that emphasizes outreach to individuals 
+from minority backgrounds and the need for the VR program to better reflect the culturally 
+diverse population of the United States. 
+ 
+1 A complete list of the SRC’s mandated functions and responsibilities are in Section 105(c) of the Rehabilitation 
+Act and its implementing regulations in 34 C.F.R. § 361.17(h). 
+2 This TAC does not address Federal requirements, in Section 101(a)(21)(A)(i) of the Rehabilitation Act and 34 
+C.F.R. § 361.16(a)(1), pertaining to the composition and functions of an independent commission established for the 
+purpose of overseeing and administering a State’s VR program.
+
+3 
+ 
+ 
+2. Must the director of the designated State unit (DSU) be a member of the SRC? 
+ 
+Yes, regardless of whether the SRC is established pursuant to Section 105(b)(1)(A) or (B) of the 
+Rehabilitation Act, the director of the DSU must be appointed to the SRC as an ex officio, 
+nonvoting member (Section 105(b)(2) of the Rehabilitation Act; 34 C.F.R. § 361.17(b)(i)(xii)). 
+In those States where one SRC represents two DSUs—one for individuals who are blind and one 
+for all other individuals with disabilities—both directors must be appointed to the SRC . These 
+member(s) of the SRC serve in an ex officio, nonvoting capacity. 
+ 
+3. Must the director of the DSU be appointed by the governor or other appointing 
+authority? 
+ 
+Yes. There is no basis in the Rehabilitation Act or VR program regulations to exempt the 
+director of the VR agency from the regulatory requirements that the governor or other appointing 
+authority in each State must appoint the director of the VR agency to the SRC. As previously 
+discussed, VR program regulations in 34 C.F.R. § 361.17(a)(1) require that the governor or other 
+appointing authority, as applicable, appoint the members of the SRC. The regulations then 
+specify the members of the SRC, including the director of the VR agency (34 C.F.R. § 
+361.17(b)(1)(xii)). The provisions in 34 C.F.R. § 361.17(a)(1) contain no exceptions to the 
+requirement that the governor appoint the members of the SRC with respect to any of the 
+individuals listed in 34 C.F.R. § 361.17(b)(1). 
+ 
+Although the Rehabilitation Act and the VR program regulations do not define the term, RSA 
+recognizes that an “ex officio” member can refer to an individual who serves on an entity, such 
+as an advisory council, by virtue of the position they hold with a particular group or organization, 
+and that in some cases, but not all, individuals who represent their organizations in an ex officio 
+capacity on advisory councils may not be required to be officially appointed to the councils. 
+However, this is not the case with respect to the appointment of ex officio members to the SRC. 
+The regulations specify that two members of the SRC serve in an ex officio capacity—a 
+qualified VR counselor if employed by the DSU and the director of the DSU (34 C.F.R. § 
+361.17(b)(1)(iv) and (xii)). While these provisions describe these two members as non-voting, no 
+mention is made therein to their appointment. Rather, as stated above, the provisions that address 
+the appointment of members to the SRC make no exceptions to the list contained in 34 C.F.R. § 
+361.17(b)(1).   
+ 
+4. What are the other composition and membership requirements for the SRC? 
+ 
+The membership requirements, set forth in Section 105(b) of the Rehabilitation Act and 34 
+C.F.R. § 361.17(b), ensure that various constituencies of the VR program have a voice in the 
+conduct of the VR program in the State. A SRC must be comprised of at least 15 members 
+(Section 105(b)(1)(A) and (B) of the Rehabilitation Act; 34 C.F.R. §§ 361.17(b)(1) and (3)). 
+However, a separate SRC for agencies serving individuals who are blind and visually impaired 
+may consist of fewer than 15 members, if State law establishing this lower minimum number of 
+members was in effect on October 29, 1992, the day of enactment of the Rehabilitation Act 
+Amendments of 1992 (Section 105(b)(1)(C); 34 C.F.R. § 361.17(b)(4)).
+
+4 
+ 
+ 
+A majority of SRC members must be individuals with disabilities who do not work for the DSU 
+(Section 105(b)(4)(A) of the Rehabilitation Act; 34 C.F.R. § 361.17(c)(1)). In those States that 
+establish a separate SRC for the agency serving the blind, the majority of that SRC must be 
+composed of individuals who are blind and do not work for the DSU (Section 105(b)(4)(B) of 
+the Rehabilitation Act; 34 C.F.R. § 361.17(c)(2)). 
+ 
+In accordance with Section 105(b)(1)(A) of the Rehabilitation Act and 34 C.F.R. § 361.17(b)(1), 
+States may appoint more than 15 members to the SRC, so long as the membership includes all of 
+the required representatives described below: 
+ 
+ at least one representative of the Statewide Independent Living Council (SILC)—who 
+must be either the chairperson or another designee of the SILC; 
+ at least one representative of a parent training and information center established pursuant 
+to Section 682(a) of the Individuals with Disabilities Education Act; 
+ at least one representative of the Client Assistance Program (CAP) who must be either 
+the CAP director or another individual recommended by the CAP; 
+ at least one qualified VR counselor with knowledge of and experience with the VR 
+program. This individual serves as a nonvoting, ex officio member if they are employed 
+by the DSA; 
+ at least one representative of community rehabilitation program service providers; 
+ four representatives of business, industry, and labor; 
+ representatives of disability advocacy groups: (a) representing a cross section of 
+individuals with physical, cognitive, sensory, and mental disabilities; and, (b) 
+representing individuals with disabilities who have difficulty representing themselves or 
+are unable to represent themselves due to their disabilities; 
+ at least one former or current applicant for, or recipient of, VR services; 
+ at least one representative of the directors of AIVRS projects, if such projects are funded 
+under Section 121 of the Rehabilitation Act in such State; 
+ at least one representative of the State educational agency responsible for the public 
+education of students with disabilities; and  
+ at least one representative from the State workforce development board. 
+ 
+There is no statutory basis to require additional SRC members from other State entities (e.g., the 
+State’s Council on Developmental Disabilities, entities carrying out programs under the Assistive 
+Technology Act of 1998, and groups of, or representing, individuals with intellectual and 
+developmental disabilities in the State). However, the Rehabilitation Act does not prohibit a 
+State from electing to add more members to its SRC if it determines this is appropriate. 
+ 
+Pursuant to Section 105(b)(1)(B) of the Rehabilitation Act and 34 C.F.R. § 361.17(b)(3)(i), 
+States that have established a separate SRC for a VR agency serving individuals who are blind 
+and visually impaired must satisfy all of the above membership requirements, with only a few 
+exceptions permitted. In particular, instead of including representatives of a cross section of 
+disability groups, the SRC for a separate agency serving the blind and visually impaired must 
+include at least one individual who represents an advocacy group for the blind (34 C.F.R. § 
+361.17(b)(3)(ii)(A)). In addition, this SRC must include at least one representative of an
+
+5 
+ 
+individual who is blind, has multiple disabilities, and has difficulty representing themself or is 
+unable due to disabilities to represent themself (34 C.F.R. § 361.17(c)(3)(ii)(B)). 
+ 
+RSA recommends that appointing officials, and those who advise them, make every effort to 
+ensure, whenever practicable, that the SRC includes representation from more than one advocacy 
+group in those States where there are more than one advocacy group representing individuals 
+with disabilities, including more than one advocacy group representing individuals who are 
+blind. In those States where there is one SRC representing both DSUs for the VR program, RSA 
+encourages the appointing authority to appoint representatives from a cross section of disability 
+groups that include those advocacy groups of the blind.  
+ 
+5. What changes did WIOA make to SRC composition and membership requirements in 
+the Rehabilitation Act? 
+ 
+Section 105(b)(1) of the Rehabilitation Act, as amended by WIOA, made only one change to the 
+composition and membership requirements of the SRC. Specifically, WIOA amended Section 
+105(b)(1)(A)(ix) of the Rehabilitation Act, which outlines the SRC composition requirement 
+related to the AIVRS projects funded under Section 121 of the Rehabilitation Act. Unlike most 
+programs in which funds are awarded to a State or an entity in a State, RSA awards Section 121 
+grant funds to the governing bodies of Indian Tribes located on Federal or State reservations and 
+consortia of such governing bodies. If an AIVRS project’s reservation crosses State lines, it 
+would be included in the AIVRS projects represented on the SRC in each State in which the 
+reservation exists. In that context, the distinctions between “funded,” as used in WIOA, and 
+“carried out,” as had been used previously, provides no substantive differences in practical 
+meaning. For that reason, RSA considers this change primarily technical in nature.  
+ 
+6. Can an entity be represented on the SRC by an individual who is not a member or 
+employee of that entity? 
+ 
+With few exceptions, Section 105(b) of the Rehabilitation Act and 34 C.F.R. § 361.17(b)(1) 
+require that “representatives” of specified organizations must be appointed to sit on the SRC. 
+Neither the Rehabilitation Act nor its implementing regulations require that the representatives 
+be employees or members of those organizations. Therefore, RSA has interpreted this to mean 
+that those organizations may be represented by individuals who are not members or employees 
+of those organizations (preamble to the Final Regulations, 66 FR 4380, 4422 (Jan. 17, 2001)). 
+ 
+As noted elsewhere in this TAC, while the organizations and entities represented on the SRC 
+must provide their recommendations of representatives, the final appointment decision is vested 
+in the governor or other appointing authority. Although RSA strongly encourages that the 
+representatives be active members or employees of those organizations, RSA also recognizes 
+that the appointing authority may appoint a nonmember or someone who is not employed by that 
+organization. RSA recommends that careful consideration be given, prior to such a decision, to 
+whether such an individual can truly represent the organization for which they are being 
+appointed. For a SRC member to best carry out their responsibilities on the SRC, RSA expects 
+that if someone who is not a member or employee of that entity is appointed, that member would
+
+6 
+ 
+be closely affiliated with and knowledgeable about the entity whose interests the individual is 
+charged with representing. 
+ 
+7. Which SRC members may vote? 
+ 
+With limited exceptions, all members of the SRC have the right to vote on matters before the 
+council. The first of the exceptions prohibits representatives who are employed by the VR 
+agency or its DSA from voting on SRC matters (34 C.F.R. § 361.17(b)(2)). For example, the 
+director of the DSU serves as an ex officio and is a nonvoting member (Section 105(b)(2) of the 
+Rehabilitation Act; 34 C.F.R. § 361.17(b)(1)(xii)). Similarly, the member who serves as a 
+qualified VR counselor, if that individual works for the VR agency at the time they are appointed 
+to the council, also serves as an ex officio and is a nonvoting member (Section 105(b)(1)(A)(iv); 
+34 C.F.R. § 361.17(b)(1)(iv)). However, if the CAP representative is from a CAP that is housed 
+within the VR agency, that individual representative is not so restricted and, therefore, may vote 
+on matters before the SRC (34 C.F.R. § 361.17(b)(2)).   
+ 
+The second of the exceptions pertains to those matters before the council when a conflict of 
+interest—or the appearance of a conflict of interest  – exists (e.g., when the vote would result in a 
+direct financial gain for that individual or the organization they represent). In such 
+circumstances, individuals must not vote on such matters. Members also must not vote when 
+there is an appearance of a conflict of interest under State law (Section 105(e) of the 
+Rehabilitation Act; 34 C.F.R. § 361.17(g)). If there is a conflict of interest, or the appearance of a 
+conflict of interest, the SRC member must recuse themself from that particular vote, explaining 
+to the council as necessary the reason for the recusal.  
+ 
+8. When an individual with a disability is appointed to represent an agency or entity on 
+the SRC, does this count toward the majority representation of individuals with 
+disabilities?  
+ 
+Yes, so long as the individual is not an employee of a State VR agency. As noted above, the SRC 
+must be composed of a majority of individuals with disabilities who are voting members (Section 
+105(b)(4); 34 C.F.R. § 361.17(c)). This requirement applies even if more than the minimum of 
+15 individuals are appointed to serve on the council. 
+ 
+9. Can one person represent more than one agency or stakeholder group on the SRC?  
+ 
+No, a member of the SRC can represent only one agency or organization on the council at a time. 
+For example, an individual who is a former or current applicant or client of VR services may not 
+also serve as a representative of a disability group, even though that individual may be affiliated 
+with such a group.   
+ 
+RSA recognizes that some States have difficulty maintaining a sufficient pool of qualified 
+individuals to serve on the SRC. Nevertheless, Section 105(b) of the Rehabilitation Act and 
+34 C.F.R. § 361.17(b) require that the SRC have at least 15 members, each of whom represents a 
+specific component of the disability community. Because each member represents a different
+
+7 
+ 
+interest, sometimes one that is divergent from that of other members, RSA maintains that each 
+organizational requirement must be met separately. 
+ 
+10. How is the chairperson of the SRC selected? 
+ 
+Every SRC must have a chairperson. The members of the SRC must select the chairperson from 
+among the voting members of the SRC (Section 105(b)(5)(A) of the Rehabilitation Act; 34 
+C.F.R. § 361.17(d)(1)). Therefore, ex officio members of the SRC, such as the director of the 
+DSU or a qualified VR counselor employed by the DSU, cannot be selected to serve as the 
+chairperson. The governor may veto the council’s choice of chairperson if State law grants this 
+authority to the governor (Id.). In States where the governor does not have a veto power, or in 
+which another entity is granted the authority to make appointments to the SRC, that entity may 
+select a chairperson or require the SRC to select a chairperson (Section 105(b)(5)(B) of the 
+Rehabilitation Act; 34 C.F.R. § 361.17(d)(2)). There is nothing in Federal law to prohibit a SRC 
+from selecting co-chairs. 
+ 
+Although not required, RSA strongly recommends that a chairperson of the SRC be an individual 
+with a disability or, in the case of a SRC for agencies serving the blind and visually impaired, 
+that the chairperson be blind or visually impaired. RSA also encourages SRC members to select 
+a chairperson in accordance with the council’s bylaws and with attention to a number of factors, 
+including availability of the individual to take on the responsibility of serving as chairperson, 
+demonstrated leadership skills, and a minimum potential for conflicts of interest that might result 
+in frequent recusals from voting or actively participating in the work of the council. 
+ 
+11. How long can a member serve on the SRC?  
+ 
+Each SRC member must be appointed to serve no more than two consecutive full three-year 
+terms (Section 105(b)(6)(A)and (B) of the Rehabilitation Act; 34 C.F.R. § 361.17(e)(1)). This 
+rule does not apply to the individuals representing the CAP or the AIVRS project (Id.). If a 
+council member is appointed to replace a former member who did not complete their term, the 
+new council member must be appointed for the remainder of the vacated term for which they are 
+being appointed—not a full three -year term (Section 105(b)(6)(A)(i) of the Rehabilitation Act; 
+34 C.F.R. § 361.17(e)(2)). Once that initial term is completed, the individual may be appointed 
+to fill a second term of three years (Section 105(b)(6)(A)(i) and (B) of the Rehabilitation Act; 34 
+C.F.R. § 361.17(e)(2)).   
+ 
+When each SRC was originally established, the length of the members’ terms were to be 
+staggered, so that the SRC remained fully constituted as the initial terms expired; however, no 
+single term was to be longer than three years (Section 105(b)(6)(A)(ii) of the Rehabilitation Act; 
+34 C.F.R. § 361.17(e)(3)). This staggered approach to the setting of the length of a member’s 
+term also can be used in the rare instance when the SRC must be re-established after the terms of 
+all members have lapsed.
+
+8 
+ 
+12. Is the director of the DSU exempt from the term limit requirements? 
+ 
+Yes. The limitation of membership of two consecutive terms does not apply to the service of VR 
+agency directors on the SRC. The director of a VR agency, like all members, is appointed to the 
+SRC for a three-year term (34 C.F.R. § 361.17(e)(1)). At the conclusion of the three-year term, 
+the VR director must be reappointed by the governor or other appointing authority. The limit of 
+two consecutive terms does not apply to VR directors as it is possible for only one individual to 
+qualify to fill this role on the SRC at any point in time. Therefore, specific statutory or regulatory 
+language such as that exempting the representatives of the CAP and AIVRS projects from the 
+term limit is not required for RSA to maintain this position. 
+ 
+13. Can a member of the SRC continue to serve on the council once their term has expired? 
+ 
+It has come to RSA’s attention that some States have enacted statutes or regulations, or have 
+adopted policies, permitting a member of an advisory council in general, or the SRC specifically, 
+to continue in their role on the council after the term of membership, set by Federal law, has 
+expired, until the governor reappoints the individual or appoints another person to replace that 
+member. Whether these statutes, regulations, or policies are consistent with the provisions of the 
+Rehabilitation Act and its implementing regulations is a matter of Federal constitutional 
+principle. 
+ 
+The Rehabilitation Act typically grants wide flexibility to States in the implementation of 
+Federal requirements governing the administration and operation of the VR program. 
+Nonetheless, Section 105 of the Rehabilitation Act is prescriptive with respect to SRC 
+membership criteria, as well as the length and number of terms a member is permitted to serve. 
+Although the Rehabilitation Act provides for a few exceptions to each of these requirements 
+(e.g., the CAP representative is not limited in the number of terms they can serve), even the 
+exceptions are very specifically detailed. The specificity of these particular requirements is 
+intended to ensure that the SRC is well qualified to carry out its responsibilities and functions in 
+a meaningful manner. 
+ 
+Consequently, the Supremacy Clause of the U.S. Constitution dictates that the very clear and 
+specific language contained in the provisions of the Rehabilitation Act and implementing 
+regulations pertaining to the terms of service for SRC members supersede such State statutes and 
+regulations. If permitted, the implementation of the State's statutes or regulations would both 
+interfere with and undermine the proper implementation of the Rehabilitation Act. The 
+implementation of a State’s policy allowing a SRC member to sit beyond their term would have 
+the direct effect of undermining the provisions of Section 105 of the Rehabilitation Act 
+specifying the time limit for SRC membership. Therefore, no member of the SRC to whom term 
+limits apply can continue to serve on the council once their term has expired unless they are 
+reappointed, if eligible. 
+ 
+In an effort to minimize the effect SRC vacancies may have on the council’s ability to continue 
+its work, the Rehabilitation Act created two safeguards. First, Section 105(b)(7)(A) of the 
+Rehabilitation Act makes it clear that a vacancy must not affect the ability of the remaining SRC 
+members to perform their duties. Second, Section 105(b)(7)(B) of the Rehabilitation Act permits
+
+9 
+ 
+the appointing authority to delegate the authority to the remaining SRC members to fill a 
+vacancy once the appointing authority has made the original appointment. 
+ 
+14. Can the same individual serve two terms representing one agency or entity and then 
+serve additional terms representing a different agency or entity? 
+ 
+There is nothing in Federal law to prohibit an individual, whose term of membership has expired 
+or who has left the SRC, from being appointed to a new term. However, this appointment must 
+be done consistent with the term-limit requirements already discussed. In other words, if an 
+individual has served the maximum number of terms as a representative of a particular 
+organization, they may not be immediately reappointed to that same membership slot or any 
+other membership slot. A meaningful break in service must occur before that individual may sit 
+as a member of the SRC again. Both the Rehabilitation Act and its implementing regulations are 
+very clear that “members” are appointed, and that “members” have specific term limits. In other 
+words, both the Rehabilitation Act and its implementing regulations speak in terms of the 
+individuals serving on the council, not the seats they represent. Therefore, in order to give 
+meaning to the specificity of the term limits imposed by Federal law, no member should be 
+appointed—after having already served the maximum time allowed —to a new membership seat 
+until a meaningful break in service to the council has passed. Because neither the Rehabilitation 
+Act nor its implementing regulations define this break in service, RSA encourages SRCs to 
+consider addressing this issue through its bylaws so that criteria may be established to govern 
+when an individual may be appointed to the SRC again. 
+ 
+15. How is a SRC member replaced if they cannot complete their term?  
+ 
+The governor or other appointing authority in the State must select a member to fill a vacant 
+position in the middle of a term in the same manner as members appointed to a full term (Section 
+105(b)(7)(A) of the Rehabilitation Act; 34 C.F.R. § 361.17(f)(1)). However, the appointing 
+authority can delegate this responsibility to the remaining members of the SRC after making the 
+initial appointment (Id.). The substituting member must be appointed for the entire remainder of 
+the departing member’s term (Section 105(b)(6)(A)(i) of the Rehabilitation Act; 34 C.F.R. § 
+361.17(e)(2)). RSA interprets these statutory and regulatory provisions to permit a member, who 
+completed the term of a vacating member, to be appointed for a consecutive full three-year term.  
+ 
+16. Can members be removed from the SRC, by whom, and under what circumstances? 
+ 
+Neither the Rehabilitation Act nor its implementing regulations specify requirements governing 
+the removal of a SRC member whose term has not expired. Each SRC has adopted bylaws that 
+provide guidelines on how all aspects of the SRC are to be managed, which could include the 
+varying circumstances that could cause the possible removal of an active member of the council. 
+The council should then make a recommendation for removal to the governor or other appointing 
+authority. The governor or appointing authority would ultimately make the decision since they 
+made the original appointment.
+
+10 
+ 
+17. Can SRC members receive compensation for their service on the council? 
+ 
+Members are not compensated for their service, which is voluntary, but may be compensated for 
+expenses incurred in the course of their service or be compensated for lost income as a result of 
+attending to council business. This may include attending council meetings, hearings, and forums 
+sponsored by the council or for receiving training which is deemed necessary by the council for 
+the purpose of facilitating the members’ ability to carry out their assigned duties as council 
+members (Section 105(g) of the Rehabilitation Act; 34 C.F.R. § 361.17(k)). 
+ 
+Examples of expenses that may be reimbursed include childcare expenses, costs associated with 
+personal assistance services, reasonable accommodations for individuals with disabilities, and 
+other necessary expenses for individual members to participate in the work of the council. 
+Compensation may be made for lost wages that occur as a direct result of participating in council 
+activities. 
+ 
+RSA encourages SRCs to plan meetings and other activities of the council and its established 
+committees to minimize the need for individuals to take time from work, and thus reduce the 
+need for compensation for lost wages, in order to maximize the resources of the council for other 
+council activities. There is no Federal requirement that compensation be equivalent to the wages 
+earned by the individual, and, therefore, the level may be set by the council in accordance with 
+its bylaws. RSA encourages SRCs to consider carefully the balance between maximizing the 
+council’s resources, and minimizing the inconvenience and expenses incurred by members in the 
+course of participating on the council so that individuals are not unduly deterred from serving. 
+  
+SUMMARY:  
+ 
+The SRC plays an important role in advising and guiding State VR agencies to ensure the 
+effective delivery of VR services to eligible individuals with disabilities in the community.  
+RSA believes that the SRC should represent as great a diversity of voices from the disability 
+community as possible, including racial, ethnic, cultural, linguistic, and gender diversity, as well 
+as a wide range of physical, intellectual, and mental health disabilities. All of the requirements 
+discussed above are intended to support these goals of ensuring that the voices of individuals 
+with disabilities served by State VR agencies are heard, along with the voices of the community 
+of stakeholders, business and labor leaders, and VR service providers who work together to assist 
+individuals with disabilities in achieving competitive integrated employment.  
+ 
+CITATIONS:  
+ 
+Section 105 of the Rehabilitation Act of 1973, as amended by Title IV of the Workforce 
+Innovation and Opportunity Act 
+ 
+VR program regulations in 34 C.F.R. § 361.16 and 34 C.F.R. § 361.17
+
+11 
+ 
+INQUIRIES:   
+ 
+Suzanne Mitchell 
+Chief, Vocational Rehabilitation Unit 
+(202) 245-7454 
+Suzanne.Mitchell@ed.gov  
+ 
+ 
+ 
+__________________/s/___________________ 
+Carol L. Dobak 
+Deputy Commissioner,  
+delegated the authority to perform the  
+functions and duties of the Commissioner 
+ 
+ 
+cc: Council of State Administrators of Vocational Rehabilitation 
+ National Council of State Agencies for the Blind 
+ National Coalition of State Rehabilitation Councils 
+ Consortia of Administrators of Native American Rehabilitation  
+ National Disability Rights Network

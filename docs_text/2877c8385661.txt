@@ -1,0 +1,3003 @@
+FILENAME: 4b4809bcfda7-The-Evolution-and-Potential-of-Career-Pathways.pdf
+PATH: _raw/tacqe.com/4b4809bcfda7-The-Evolution-and-Potential-of-Career-Pathways.pdf
+
+i
+
+The Evolution and Potential of Career Pathways 
+This report was produced under U.S. Department of Education Contract No. ED-VAE-12-C-
+0068 with Jobs for the Future. The views expressed herein do not necessarily represent the 
+positions or policies of the Department of Education. No official endorsement by the U.S. 
+Department of Education of any product, commodity, service, or enterprise mentioned in this 
+publication is intended or should be inferred.  
+For the reader’s convenience, this publication contains information about and from outside 
+organizations, including hyperlinks and URLs. Inclusion of such information does not constitute 
+the Department’s endorsement. 
+This report is in the public domain. Authorization to reproduce it in whole or in part is granted. 
+While permission to reprint this publication is not necessary, the citation should be: U.S. 
+Department of Education, Office of Career, Technical, and Adult Education. (2015, April). The 
+Evolution and Potential of Career Pathways. Washington, D.C.: Author. 
+This report is available at: http://www.cte.ed.gov/ 
+ii
+
+Acknowledgements 
+The Office of Career, Technical, and Adult Education (OCTAE) acknowledges the important 
+contributions to this report made by the following people: Mary Gardner Clagett, Director for 
+Workforce Policy, Van Nguyen and Dimitri Linde, Program Managers, Jobs for the Future, as 
+well as Rebecca Arnold, Consultant, for their analysis and writing.  
+The Purpose of this Paper 
+Career Pathways systems provide a framework for organizing and formally aligning the 
+education, workforce, and supportive services needed by a wide range of individuals to attain the 
+credentials required for family-suppoting careers. This paper provides a context for the increased 
+attention that Career Pathways approaches have received in recent years—by examining the 
+evolution and efficacy of pathways strategies for building a skilled workforce. The paper looks 
+back nearly 30 years to examine prior initiatives that over time have contributed to the 
+development of today’s Career Pathways framework and initiatives.  
+Who Should Read the Paper? 
+The strategies highlighted in this paper, and the knowledge about how Career Pathways 
+approaches have evolved, will be useful to state and local stakeholders (state and local officials, 
+education and training providers, workforce and economic development leaders, employers, 
+community-based organizations (CBOs), and others) who are interested in the establishment of 
+comprehensive education and workforce development systems that help students, jobseekers and 
+workers attain the competencies and credentials that are needed for high demand careers; and 
+that provide employers with the skilled workers needed in high demand industries and 
+occupations. 
+iii
+
+iv
+
+Table of Contents 
+The	  Evolution and	  Potential	  of Career Pathways...................................................................... ii
+ 
+Table of  Contents ..................................................................................................................................v
+ 
+Executive	  Summary............................................................................................................................. 1
+ 
+I. Introduction ....................................................................................................................................... 3
+ 
+II. Joint	  Framework for  Career Pathways Systems Development........................................ 6
+ 
+III. The Urgen t	  Need for a Skilled Workforce ............................................................................. 8
+ 
+IV. The Evolution  of Career Pathways Systems........................................................................10
+ 
+V. Lessons	  Learned............................................................................................................................14
+ 
+Holistic Approaches ⇒ Cross-­‐System Partnerships ......................................................................... 14
+ 
+Employer Eng agement and Responsiveness to Labor Market Needs/Sector Strategies ..... 15
+ 
+Program De sign	  ⇒ Redesign .................................................................................................................... 16
+ 
+Pursuit of	   Needed Funding, Sustainability, and Scale ...................................................................... 17
+ 
+Policy Cha nge and	  Alignment................................................................................................................... 18
+ 
+Identifying an d Implementing Cross-­‐System Data	  and Accountability	  Systems.................... 18
+ 
+VI. Going	  Forward..............................................................................................................................20
+ 
+Appendix	  A: Snapshots	  of  Career-­‐Related	  Education & Training	  Programs .................23
+ 
+Career Academies ......................................................................................................................................... 23
+ 
+Southern R egional Education Board, High Schools That Work .................................................... 25
+ 
+Tech-­‐Pr ep ........................................................................................................................................................ 27
+ 
+School-­‐To-­‐Wo rk ............................................................................................................................................ 29
+ 
+Building Li nkages ......................................................................................................................................... 31
+ 
+Career Clus ters Initiative ........................................................................................................................... 32
+ 
+Pathways t o	  Advancement Project ......................................................................................................... 33
+ 
+The Co mmunity College Bridges to Opportunity Initiative............................................................ 35
+ 
+Career Pat hways Efforts in	  Oregon........................................................................................................ 37
+ 
+Career Pat hways Efforts in	  Washington	  (I-­‐BEST) ............................................................................. 39
+ 
+College and	   Career Transitions Initiative ............................................................................................ 41
+ 
+Adult Ed ucation Coordination and Planning Project ....................................................................... 43
+ 
+Department of  Labor Sector-­‐Based Initiatives ................................................................................... 45
+ 
+The Co mmunity -­‐Based Job	  Training Grants........................................................................................ 47
+ 
+The Wo rkforce Innovation in Regional Economic Development (WIRED) Initiative ........... 49
+ 
+Breaking Th rough Initiative ................................ ................................ ..................................................... 51
+ 
+Programs of  Study ........................................................................................................................................ 53
+ 
+Rigorous Pr ograms of Study Through Statewide Articulation Agreements ............................. 54
+ 
+Promoting R igorous Programs of Study ................................ ................................ ............................... 56
+ 
+v
+
+Shifting	  Gears................................................................................................................................................. 58
+ 
+Policy t o	  Performance ................................................................................................................................ 60
+ 
+The Tra de Adjustment Assistance Community College and Career Training (TAACCCT) ... 62
+ 
+Career Pa thways Technical Assistance Initiative .............................................................................. 64
+ 
+The W orkforce Innovation Fund (WIF) ................................ ................................ ................................ 65
+ 
+Pathways to	   Prosperity Network ............................................................................................................ 66
+ 
+Accelerating Op portunity .......................................................................................................................... 68
+ 
+The All iance for Quality Career Pathways ........................................................................................... 70
+ 
+Appendix B: Federal  Career Pathways	  TA/Grants..................................................................72
+ 
+Advancing Career and Technical Education (CTE)	  in State and Local Career Pathways
+ 
+Systems ............................................................................................................................................................ 73
+ 
+Moving P athways Forward: S upporting Career Pathways Integration .................................... 75
+ 
+Career Pat hways Policy Academies ....................................................................................................... 76
+ 
+Credentials and	   Career Pathways Technical Assistance Project ................................................. 77
+ 
+Youth Ca reer Connect ................................................................................................................................ .  78
+ 
+Endnotes ...............................................................................................................................................79
+ 
+vi
+
+Executive Summary 
+For years, U.S. policymakers and practitioners have expressed the need to equip America’s 
+current and future workforce with the education, skills, and credentials required by high-demand 
+businesses and industries—so workers can achieve and maintain economic prosperity, employers 
+can remain competitive, and the U.S. economy can continue to grow. One has only to look at the 
+8.6 million workers who remain unemployed in March 2015, even as the U.S. economy 
+continues to rebound and employers actively seek skilled workers, to understand the urgency for 
+these efforts.1 Of
+ equal concern are the 3.4 million young people, aged 16 to 24, who are looking 
+for but cannot find work.2 
+On July 22, 2014, the United States took two game-changing actions that will move the nation 
+toward addressing these concerns and achieving the above-described goals. Congress passed and 
+President Obama signed into law the bipartisan Workforce Innovation and Opportunity Act 
+(WIOA), which calls for cross-system alignment; education and training that is focused on the 
+needs of high-demand industry sectors and occupations; regional collaboration focused on the 
+skill needs of regional economies; and the establishment of Career Pathways systems that make 
+it easier for all Americans to attain the skills and credentials needed for family-supporting jobs 
+and careers. 
+On the same day, Vice President Biden issued the Ready to Work: Job-Driven Training and 
+American Opportunity report, thereby laying out a vision for measuring the effectiveness of job-
+training programs and announcing an array of actions that can be taken, in combination with the 
+new workforce law, to achieve the skilling of America’s workforce. 
+To help states and local communities organize and carry out this challenging but necessary work, 
+the U.S. Departments of Education (ED), Labor (DOL), and Health and Human Services (HHS) 
+began to collaborate, even before the passage of WIOA and the issuance of the Vice President’s 
+report, on ways to align the resources and programs under their jurisdictions that support skills 
+development in the U.S. Examining prior initiatives as well as current innovative practices, the 
+three Departments identified
+ a groundbreaking framework for developing and implementing 
+Career Pathways systems in support of a skilled American workforce. 
+In April 2012, these same Departments issued a “joint commitment to promote the use of Career 
+Pathways approaches as a promising strategy to help adults acquire marketable skills and 
+industry-recognized credentials through better alignment of education, training and employment, 
+and human and social services among public agencies and with employers.”3 At that time, the 
+three Departments agreed upon a definition and a framework for the development of Career 
+1
+
+Pathways, including the identification of Six Key Elements or actions that states and local 
+communities can take to build Career Pathways systems.4 
+This framework and much of the work that is already underway in states and local communities 
+has been built upon lessons learned in carrying out workforce education and training programs 
+over the past 30 years. When looking at what has worked in career-related education and training 
+programs historically, it becomes clear that a comprehensive Career Pathways systems approach 
+holds significant promise for providing Americans with the skills and credentials needed for 
+high-demand jobs and careers. 
+This paper provides context for the increasing emphasis on Career Pathways in recent legislation 
+and in response to America’s continuing need for a skilled workforce. It examines the evolution 
+of Career Pathways approaches through a chronology of federal, state, and local workforce 
+education and training efforts upon which today’s Career Pathways efforts have been built. Most 
+importantly, this paper identifies strategies and program components that have proven effective 
+in helping individuals to persist in education and training and to attain 
+credentials necessary for 
+obtaining in-demand jobs. The strategies highlighted in this paper, and the knowledge about how 
+Career Pathways approaches have evolved, will be particularly useful to state and local 
+stakeholders as 
+they work to develop and implement Career Pathways systems that move 
+students, jobseekers, and workers most effectively and efficiently to valued credentials and 
+careers. 
+2
+
+I. Introduction
+The U.S. economy continues to rebound with employment growth averaging 269,000 new jobs 
+per month over the past 12 months.5 By many accounts, the economic environment is ripe for 
+employment expansion, yet employers continue to have difficulty finding the skilled workers 
+needed for in-demand jobs; far too many Americans do not possess the skills or credentials 
+required for such jobs. Of those Americans who lack
+ the skills required for in-demand 
+occupations, many do not know how or where to access the information, training, and credentials 
+needed for these family-supporting careers. 
+In his 
+Ready to Work: Job-Driven Training and American Opportunity report, Vice President 
+Biden details specific actions that the United States can take to grow the economy and allow the 
+American middle class to fully reap the benefits of the country’s new economic opportunities.6 
+These recommendations and related strategies are in large part based on evidence documented in 
+an accompanying report on effective practices in the nation’s job training programs: What Works 
+in Job Training: A Synthesis of Evidence.7 The findings from What Works in Job Training are 
+organized in the Vice President’s report as a job-driven checklist for use in determining the 
+effectiveness of over 25 federal discretionary grant programs in the workforce education and 
+training areas (Figure 1). 
+3
+
+Figure 1. Job-Driven Checklist from Ready to Work: Job- Driven Training and American Opportunity Report.8 
+Job-Driven Checklist 
+! ENGAGING EMPLOYERS. Wor k up-front with employers to determine local or
+regional hiring needs and design training programs that are responsive to those needs.
+! EARN AND LEARN. Of fer work-based learning opportunities with employers—
+including on-the-job training, internships, pre-apprenticeships, and Registered
+Apprenticeships—as training paths to employment.
+! SMART CHOICES. Ma ke better use of data to drive accountability, inform what
+programs are offered and what is taught, and offer user-friendly information for job
+seekers to choose programs and pathways that work for them and are likely to result in
+jobs.
+! MEASUREMENT MATTERS
+ . Measure and evaluate employment and earnings
+outcomes.
+! STEPPING STONES. Pr omote a seamless progression from one educational stepping
+stone to another, and across work-based training and education, so individuals’ efforts
+result in progress.
+! OPENING DOORS. Br
+ eak down barriers to accessing job-driven training and hiring for
+any American who is willing and able to work, including access to job supports and
+relevant guidance.
+!
+REGIONAL PARTNERSHIPS. Create regional collaborations among American Job
+Centers, education institutions, labor, and non-profits.
+This checklist and other information on system innovations and evidence-based practices should 
+help states and local communities drive systems change through implementation of WIOA. 
+WIOA, signed into law on July 22, 2014, encourages states and local communities to implement 
+many of the practices described in Ready to Work. The Act requires: 
+• Cross-system alignment, strategic planning, performance measurement, and data
+collection/utilization
+• A renewed focus on training for in-demand industry sectors and occupations
+• Increased emphasis on the use of labor market information (LMI) to identify in-demand
+industries and occupations
+4
+
+• Regional convening, collaboration, planning, and service delivery
+• Local workforce boards to convene, facilitate, and leverage system stakeholders, which may 
+include convening industry partnerships to guide sector-based training initiatives
+• State and local workforce systems to connect with adult education, postsecondary education, 
+and other partners—establishing Career Pathways that integrate basic and/or English  
+language education with occupational training
+• Increased services to out-of-school youth, requiring that 75 percent of youth funds be 
+dedicated toward serving out-of-school youth, with an emphasis on Career Pathways 
+approaches that provide connections with postsecondary education. 
+5
+
+In their work to provide guidance f
+or 
+the development and implementation of 
+Career Pathways systems, the three 
+Departments issued a joint commitment 
+to the use of
+ Career Pathways as a 
+“promising strategy to help adults 
+acquire marketable skills and industry-
+recognized credentials.” They also 
+agreed upon a framework for 
+developing and implementing Career 
+Pathways systems that included a 
+definition of Career Pathways and the 
+identification of “Six Key Elements” 
+or actions that states and local 
+communities can take to build Career 
+Pathways systems.
+9 
+As defined in an April 12, 2012 letter 
+from ED, DOL, and HHS, Career Pathways are “[a] series of connected education and training 
+strategies and support services that enable individuals to secure industry-relevant certification 
+II. Joint Framework for Career Pathways Systems
+Development
+To take full advantage of both the changes enacted in WIOA and the actions outlined in the Vice 
+President’s Ready to Work report, states and local communities must align the multiple federal, 
+state, and local programs that prepare America’s workforce. It will be important to build 
+comprehensive education and training systems where students, jobseekers, and workers can 
+receive: the information needed to pinpoint the careers they want to pursue; assistance to identify 
+the most efficient routes to skills and credentials needed for those careers
+; and the education and 
+support services needed to persist in and complete their programs of study and attain credentials 
+for high-demand careers. 
+Career Pathways systems provide a framework for organizing and formally aligning the 
+education, workforce, and supportive services needed to guide a wide range of individuals 
+successfully through the continuum of education and training courses that are necessary for 
+credential attainment and family-
+supporting careers. Figure 2. Career Pathways: Six Key Elements.
+6
+
+and obtain employment within an occupational area and to advance to higher levels of future 
+education and employment in that area.”10
+The Six Key Elements identified in the joint framework are actions that states and local areas 
+can take to develop and implement Career Pathways systems: 
+1. Build Cross-System Partnerships
+2. Engage Employers/Identify Key Industry Sectors
+3. Design Education and Training Programs that Meet the Needs of Participants
+4. Identify Funding for Sustainability and Scale
+5. Align Policies and Programs
+6. Align Cross-System Data and Performance Measurement
+There are obvious similarities between the Career Pathways Six Key Elements and the elements 
+in the Vice President’s Job-Driven Checklist. Both tools are built upon lessons learned over a 
+number of years in carrying out career-related education and training initiatives
+, and both 
+recognize the potential of a Career Pathways systems approach to meeting the education and 
+training needs of America’s workforce. 
+Figure 3. Comparison of Career Pathways: Six Key Elements and Job-Driven Checklist. 
+Career Pathways: Six Key Elements 
+1. Build Cross-System Partnerships
+2. Engage Employers/Identifying Key
+Industry Sectors 
+3. Design Education and Training
+Programs that Meet the Needs of 
+Participants 
+4. Identify Funding for Sustainability and
+Scale 
+5. Align Policies and Programs
+6. Align Cross-System Data and
+Performance Measurement 
+Job-Driven Checklist: 
+! Regional Partnerships.
+! Engaging Employers.
+! Opening Doors: break down barriers, 
+provide job supports and guidance. 
+! Earn and Learn: work-based learning, 
+Pre- and Registered Apprenticeships. 
+! Stepping Stones: a seamless progression 
+from one educational level to next. 
+! Smart Choices: better use of data to drive 
+accountability, inform programs and 
+pathways. 
+! Measurement Matters: measure and 
+evaluate employment/earnings outcomes. 
+7
+
+III. The Urgent Need for a Skilled Workforce
+In a highly competitive global economy, America’s economic future, the prosperity of its 
+citizens, and the success of U.S. employers increasingly depend on the education and skills of the 
+workforce. Yet the education and skill levels of American youth and adults are not keeping pace 
+with today’s economy or that of the future. And Americans’ education and skill rankings have 
+also declined when compared to other countries. 
+The percentage of U.S. jobs requiring postsecondary education and training is expected to 
+reach 
+a new high in 2020 at 65 percent.11 The Center on Education and the Workforce (CEW) at 
+Georgetown University projects that the United States will face shortages of three million 
+workers with Associate’s degrees or higher and five million workers with technical certificates 
+and credentials by 2020.12
+These findings are corroborated by three separate surveys carried out over the past three years, to 
+determine if there actually is a skills gap in the U.S. labor market. The Manpower Group 
+conducted a Talent Shortage Survey, finding that 48 percent of U.S. employers are having a hard 
+time filling jobs.13 In 2011 and 2012, Deloitte surveyed U.S. manufacturers, finding that two-
+thirds were experiencing a moderate to severe shortage of quality workers—wit h 600,000 jobs 
+going unfilled—limiting expansion and productivity. Deloitte estimated that closing the skills 
+gap in manufacturing and related industries could result in the employment of 3.85 million 
+workers.1
+4 The most recent survey conducted by the Business Roundtable (BRT) found that of 
+126 Chief Executive Officers in the U.S. who participated in the survey: 97 percent report that 
+the skills gap is a problem; 28 percent project that at least half of new entry-level hires lack basic 
+STEM skills; and 62 percent report problems finding qualified applicants for IT jobs. The BRT 
+survey also found that employers will need to hire nearly one million employees with basic 
+STEM knowledge and more than 600,000 employees with advanced STEM knowledge in the 
+next five years.15
+At a time when “medium to high levels of mathematics and computational knowledge are 
+required in 70 percent of all jobs,” the 2013 OECD Programme for the International Assessment 
+of Adult Competencies (PIAAC) study found that the United States ranked third from the bottom 
+in mathematics when compared to other countries.1
+6 In literacy, the United States ranked below 
+average on the PIAAC and on the National Assessment of Adult Literacy (NAAL), yet for 90 
+percent of jobs, reading comprehension is “very or extremely important to succeed.”17
+The PIACC study found that the gaps in performance persist from one generation to the next, 
+there are large differences in performance between racial/ethnic groups in the U.S., and young 
+people in the U.S. are not doing much better than older generations of Americans (nor are they 
+keeping up with their peers internationally).18 In OECD’s 2012 Programme for International 
+8
+
+Student Assessment (PISA), a study examining 15-year-old students’ reading, mathematics, 
+science skills, and cross-curricular competencies such as problem solving, U.S. students scored 
+“in the middle,” with scores stagnating over the last 10 years. While U.S. students, did not 
+necessarily score lower than they had in prior years, they were overtaken by other countries in 
+math, reading, and science. 
+So what impact are these deficits having on American workers, employers, and the U.S. 
+economy? There is no question that skills deficits have an adverse impact on earnings. CEW 
+estimates 
+that postsecondary certificates result in a 27 percent earnings increase for men and a 16 
+percent earnings increase for women over high school diploma holders (these salary figures 
+increase substantially when people work in their fields of certification). Occupational Associate’s 
+degrees yield an $8,000 increase annually for men and a $7,000 increase annually for women 
+over high school diploma holders.19 Despite the earnings benefits of credentials, approximately 
+35 percent of Americans over 25 do not have any postsecondary education or training, and U.S. 
+sub-baccalaureate attainment is merely 16th among Organization for Economic Co-operation and 
+Development (OECD) countries.20
+To address these challenges, the PIAAC study recommended that the U.S. address its skills 
+deficiencies through wide-ranging solutions, including strategies targeted to secondary 
+institutions, community colleges, and employers. The OECD called upon community colleges to 
+address young adults’ basic skill needs, recommending improved “quality, coherence, and 
+transparency” in postsecondary career and technical education to improve system efficacy.21 It 
+recommended the integration of basic skills instruction and career development, citing  
+Washington state’s Integrated Basic Education and Skills Training program (I-BEST) and a 
+contextualized General Educational Development (GED) program, to improve learners’ 
+employment prospects, with jobs becoming “… springboard[s] for further learning and career 
+development.”22 The OECD also endorsed integrated instruction at the secondary level, 
+specifically citing the Math-in-CTE program23—mathematics lessons taught in a career and 
+technical context, with collaboration between mathematics and Career and Technical Education 
+(CTE) instructors—as an exemplar of effective integration. Additionally, the OECD encouraged 
+employer-based basic skills education and training to address incumbent workers’ needs. 
+In response to concerns raised in the PISA and PIAAC studies and as the result of independent 
+research and observations about the education and skills of America’s current and future 
+workforce, efforts are underway to identify and implement the systemic changes necessary to 
+ensure that U.S. students, jobseekers, and workers will again rise to the top of the world’s 
+rankings for education, skills, and postsecondary credential attainment. The Career Pathways 
+approach and its strategies for aligning and reforming education and training systems have been 
+shown over time to be effective in helping a wide range of individuals attain the educational 
+milestones, skills, and credentials required by employers in high-demand occupations. 
+9
+
+IV. The Evolution of Career Pathways Systems
+Today’s Career Pathways initiatives are built upon lessons learned in carrying out workforce-
+related education and training programs over the past 30-plus years. In examining these 
+programs, it is clear that the strategies that constitute today’s Career Pathways approaches have 
+evolved over time. 
+The timeline in Figure 4 presents many of the initiatives that have contributed to the 
+development of Career Pathways systems in states and local communities and to the 
+development of the joint framework. The earliest programs tested strategies for helping youth 
+make successful transitions from secondary education to postsecondary education/training and 
+employment (e.g., Career Academies, High Schools That Work, Tech-Prep, and School-to-
+Work). They aligned academic and occupational learning and worked closely with employers. 
+Later programs focused on similar strategies for helping low-skilled adults attain postsecondary 
+credentials and family-supporting employment (e.g., Breaking Through, Shifting Gears, Policy 
+to Performance, and Accelerating Opportunity). These initiatives and more, which are described 
+in greater detail in Appendix A, range in size, scope, and funding sources—leading the way for 
+further state and local Career Pathways development. 
+10
+
+Figure 4. Timeline of Milestones Leading to Current Career Pathways Systems.
+	
+// U.S. Department of Education (ED)  U.S. Department of Labor (DOL) çç U.S. Department of Health and Human Services (HHS) øø Non-Profit/Philanthropic  State 
+‘69... '87... 1990 '91 '92 '93 '94 '95 '96 '97 '98 '99 2000 '01 '02 '03 '04 '05 '06 '07 '08 '09 2010 '11 '12 '13 '14 '15 '16 '17 
+Career Academies ( ongoing ) /çø /çø /çø /çø /çø /çø /çø /çø /çø /çø /çø /çø /çø /ç 
+
+
+
+
+
+
+High Schools that Work (HSTW) ( ongoing ) ø ø ø ø ø ø ø ø ø ø ø ø ø ø ø ø ø ø ø ø ø ø ø ø ø ø ø ø ø ø ø ø ø ø ø ø ø  
+Tech-Prep education programs included in Carl D. Perkins 
+Vocational and Applied Technology Education Act of 1990 ///////////////////////////////
+School-to-Work Programs / / / / / / / /
+Building Linkages / / / /
+ED adopts 16 career clusters for career and technical education /
+Two Oregon community colleges build Career Pathways 
+I-BEST piloted; Washington state funds I-BEST model ( ongoing ) 
+Career Clusters Initiative ///
+Community College Bridges to Opportunity Initiative ø ø ø ø ø ø ø ø  
+College and Career Transitions Initiative (CCTI) //////////
+Adult Education Coordination and Planning (AECAP) Project //////////
+National Governors Association’s Pathways to Advancement Project ø ø ø ø
+Oregon Pathways Statewide Initiative ( ongoing ) 
+Arkansas Career Pathways Initiative ( ongoing ) 
+Breaking Through Initiative ( ongoing ) ø ø ø ø ø ø ø ø ø ø ø ø ø ø
+Workforce Innovation in Regional Economic Development (WIRED) Grants 
+Community-Based Job-Training Grants (CBJTG) 
+Carl D. Perkins Career and Technical Education Act of 2006 includes programs of study ( ongoing ) ////////////////
+Oregon Adult Basic Skills Pathways Initiative ( ongoing ) 
+Innovative Strategies for Increasing Self-Sufficiency (ISIS) study of Career Pathways programs ççççççççççççççççççççççç
+Shifting Gears ø ø ø ø ø ø ø
+
+
+
+
+Adult Basic Education Policy to Performance Initiative /////////
+Trade Adjustment Assistance Community College and Career Training Grant Programs (TAACCCT) ( ongoing ) 
+Promoting Rigorous Programs of Study (RPOS) /////////
+Designing Instruction for Career Pathways ///////
+Career Pathways Initiative 
+Accelerating Opportunity ( ongoing ) ø ø ø ø ø  
+Workforce Innovation Fund (WIF) ( ongoing ) 
+Pathways to Prosperity Network ( ongoing ) ø ø ø ø ø  
+Advancing Career and Technical Education in State and Local Career Pathways Systems /////
+The Alliance for Quality Career Pathways ø ø ø ø
+Federal Joint Letter on Career Pathways / ç
+
+To further show how initiatives in the timeline have evolved over time, Figure 5 summarizes 
+major strategies carried out under these programs, leading to many of today’s Career Pathways 
+key elements and components. Many of these programs were the focus of evaluations that, while 
+varying in type and rigor, have provided important information on participant outcomes. A 
+number of these studies examined individual strategies to determine their impact on participants’ 
+success. Over time these efforts have informed the design of subsequent programs and helped 
+federal agencies, states, and local areas to determine which portfolio of program options offer the 
+most compelling outcomes. 
+Findings from the majority of these initiatives have shown that the most impressive gains were 
+achieved by comprehensive, holistic approaches rather than stand-alone interventions. This has 
+resulted in a call for systemic changes that would bring the resources and expertise of the 
+education, workforce, human services, and economic development systems together, as well as 
+the resources and expertise of system stakeholders (including employers), to improve U.S. 
+students’, jobseekers’, and workers’ labor market skills and educational attainment. Many of the 
+individual strategies that were employed in earlier programs comprise the portfolio of strategies 
+and services that constitute a Career Pathways systems approach to career-related education and 
+training. These earlier lessons informed development of the joint framework for Career Pathways 
+system development—most notably, the Six Key Elements. Lessons learned from this prior 
+work, and from the strategies carried out and evaluated as shown in Figure 5, are summarized in 
+the following Section V, which is organized around the Six Key Elements. 
+12
+
+' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' '
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+              
+	
+	
+	
+	
+	
+	
+
+Figure 5. Strategies of Career -Related Education and Training Programs Over the Past 30 -Plus Years. 
+AQCP (Metrics for Career Pathways 
+Strategies Embedded in Career-Related Education and Training Programs systems) 
+State Criteria: 
+Path
+ways to 
+Advancement (Adults) 
+• C
+areer Pathways 
+HSTW (Youth) � 
+• Rigorous academic/ 
+technical focus � 
+• Dual enrollment 
+• Work-based & Active 
+learning � 
+• Student supports 
+• Exposure to careers 
+• Teacher collaboration 
+• Continuous 
+School-to-Work (Youth) 
+• Integrated academic & 
+technical 
+• School & work-based 
+learning 
+• Connecting activities � 
+• Employers as partners 
+• Sequenced coursework 
+secondary-postsecondary 
+• Career Knowledge � 
+• Focus on high skill, high 
+wage jobs 
+Career Clusters 
+Initiative (CTE) 
+• 16 Career Clusters � 
+• 79 Pathways 
+• Career Ready Practices 
+WA I-BEST (Adults) 
+• Integrated ABE/ 
+Postsecondary � 
+• Co-teaching 
+• Degree & Certificate 
+Attainment (1 year 
+of postsecondary) 
+Contextualization/ 
+Acceleration � 
+• Adult Education & 
+Postsecondary Linkages 
+• Postsecondary 
+credentials 
+• Workforce & Econ Dept 
+connections 
+• LMI 
+OR Career Pathways 
+(Adults) � 
+Polic
+y to Performance 
+(Adults) 
+• Assist states to build 
+ABE Transition Systems 
+• Data-based policy 
+changes enabling ABE to 
+education & employment 
+goals 
+• TA to build 
+comprehensive/ 
+coordinated systems 
+• Policy tools to 
+move adults along 
+postsecondary & 
+TAACCCT (Adults) 
+improvement • Transition “systems” • Wrap around supports 
+• Roadmaps 
+• Stackable Credentials 
+��
+• Degree & Certificate 
+Attainment ��
+• High demand 
+occupations employment continuum 
+•  Acceleration 
+•  Retention/completion 
+•  High demand industry 
+focus 
+•  Strengthened online 
+technology 
+•  Scaling evidence-
+based & Innovative 
+strategies (e.g., Career 
+pathways, sector- and 
+work-based learning, 
+use of education/
+employment data)
+•  Shared Vision & Strategy 
+•  Engage e mployers and integrate sector 
+strategy principles 
+•  Collaborate to make resources 
+available 
+•  Implement supportive state 
+policies 
+•  Use data and shared measures 
+Local Criteria: 
+•
+ Commit to a shared vision and strategy 
+•
+ Engage employers and integrate sector 
+strategy principles 
+•  Collaborate to make resources 
+available 
+•  Implement supportive local/r
+egional 
+policies 
+•  Implement and integrate evidence-
+based practices and processes 
+•
+ Use data and shared measures
+69... 87... 1990 '91 92 93 94 95 96 97 98 '99 2000 '01 02 03 '04 '05 '06 07 '08 '09 2010 11 12 13 14 15 16 17 
+Tech Prep (Youth) Building Linkages Adult Education Coordination & Planning (AECAP) WIRED (Youth and Adults) Shifting Gears Pathways to Prosperity 
+(ED&DOL
+) (Adults/ESL) • Sector-based training • Re
+al-world application of skills, including STEM •  Secondary-
+Postsecondary consortia 
+•
+ Secondary-
+Postsecondary linkages 
+(2+2)
+ (Sequential courses of 
+study, articulation, dual 
+credit) 
+• Emphasis on counseling 
+• Professional 
+development 
+• Increased focus on math 
+& science 
+Career Academies 
+(Youth) 
+• Small learning 
+communities 
+• Combined academic/ 
+technical curricula 
+• Employer partnerships 
+• Workforce/ 
+Postsecondary focus 
+• Connecting s
+tate 
+academic with industry 
+skill standards 
+• Industry-recognized, 
+portable certificates 
+• Model career clusters & 
+pathways (Manufacturing 
+& Health) 
+• Planning & interagency coordination (Adult Education, • Regional stakeholder collaboratives Labor, Human Services, K-12 Education, and Juvenile 
+Justice. • Workforce & Economic Development 
+• Planning, data, professional development, customer Sector-Based Initiatives (Adults) service, cross-referral, targeted instruction, integrated 
+coursework 
+College & Career Transitions Initiative (CCTI) 
+• Secondary/Postsecondary partnerships 
+•  Focus on e mployer needs 
+•  Single, high demand industries 
+•  Industry Partnerships 
+• Ties to Economic Development
+• Program Study Plans in Career Cluster 
+• Sequenced courses from 9th grade through 2 years of Community-based Job Training Grants 
+postsecondary (CJTG) (Youth & Adults) 
+• Career ladders/Occupational Pathways 
+• Partnerships with employers, colleges, K-12 
+• Mostly for-credit courses 
+•  Student Centered Models 
+•  Dual Enrollment 
+•  Dissemination of tools/l essons learned
+• Distance & Online learning 
+Community College Bridges to Opportunity (Adults) • Articulation Agreements 
+• Dual Enrollment 
+Breaking Through (Community Colleges) 
+•  Policy & program changes to align adult, occupational • Developmental bridge programs (Dev Ed to 
+& college-level programs Credit Courses)
+• Professional-technical bridge programs 
+(DevEd to technical training) 
+• Career Pathways 
+•  Low-skilled adults 
+•  Regional career pathways 
+•  Identification/removal of barriers 
+•
+ Support services 
+•  Student outcomes data to drive change 
+•  Advancing strong leaders for policy 
+innovation
+• Four “high-leverage” strategies: 
+•  Aligned ABE, Workforce, 
+Postsecondary 
+•  Enacting policy changes 
+•  Aligning systems 
+•  Increased state 
+commitment/leadership 
+•  Data to drive efforts 
+•  Strategic 
+communications
+Programs of Study (CTE) 
+•  Legislation & Policies 
+•  Partnerships 
+•  Professional development 
+•  Accountability & Evaluation Systems 
+•  College & Career Readiness Standards 
+•  Course s equences 
+•
+ Credit Transfer Agreements 
+•  Guidance, counseling, a cademic advisement 
+•
+ Teaching & learning strategies 
+•  Technical skills assessment
+• Skills valued by employers 
+• 9-14 Pathways with dual enrollment 
+• College & Career readiness, reduced need for 
+remediation 
+• Sector-based employer participation 
+• Aligned systems 
+• Integration of academic- CTE, especially STEM 
+• Work-based learning 
+WIF 
+•  Career Pathways 
+•  Sector-based initiatives 
+•  W
+ork-based learning strategies 
+•  Creative uses of technology
+•  Other system innovation strategies 
+•  
+Pay for Success
+Accelerating Opportunity 
+acc
+eleration; comprehensive supports; 
+labor marke
+t payoffs; aligning programs for 
+low-skilled adults. 
+•  ABE to postsecondary articulation agreements 
+•  High demand sector-based pathways 
+•  Acceleration, contextualization, use of technology 
+•  Dual Enrollment (I-BEST like) 
+•  Comprehensive Supports 
+•  Stackable credentials (bypassing DevEd) 
+•  College-level technical credits, transcripted 
+• Employer Partnerships (WIBs)
+
+V. Lessons Learned
+Important lessons emerged from experiences on the ground and from evaluations of past 
+programs. They have contributed significantly to the knowledge base regarding effective career-
+related education and training programs, and informed the development of the Career Pathways 
+approach and Six Key Elements (as described below).  
+Holistic Approaches ⇒
+Cross-System Partnerships 
+Siloed programs with different funding streams, governance, rules, and cultures are inefficient. 
+Such incoherence decreases the likelihood that students will complete training, slows credential 
+attainment, increases foregone earnings, increases program and student costs, and reduces the 
+availability of quality workers for the labor market.24 Collaboration among system partners has 
+been a key strategy in most of the initiatives that have preceded today’s Career Pathways efforts, 
+though the degree of collaboration has varied across programs. 
+Building comprehensive Career Pathways systems in states and regions requires aligning 
+multiple federal, state, and local programs and committing to systems change from public and 
+private stakeholders (including employers, representatives of workers, and other key 
+stakeholders). To succeed, states, localities/regions, and public and private partners must agree 
+upon a common vision and goals for the system and identify the value-add that each partner 
+brings to the table and receives from the partnership.  
+Systems-building strategies such as collaboration, system alignment, and course 
+sequencing/articulation agreements were highlighted in a number of studies as important to 
+program success. For example, the final report of the national Tech-Prep evaluation indicated 
+that consortia improved educator collaboration and employer engagement. The evaluation 
+highlighted a problem, however: despite 96 percent of Tech-Prep consortia having articulation 
+agreements, merely 15 percent of students received articulated credit—in part due to the “diffuse 
+and unstructured” implementation of Tech-
+Prep, which made a “seamless transition” to 
+postsecondary education difficult.25 This data informed recommendations for using programs of 
+study that combine all the elements of Tech-Prep into a “structured” and “comprehensive” 
+approach that could facilitate postsecondary transitions and be used for “whole school change.”26
+There were similar threads about the importance of comprehensive models in the national 
+evaluation on School-to-Work (STW), supporting Programs of Study and Career Pathways.27
+Additionally, the STW report indicated that regional cooperation supported STW 
+14
+
+implementation—especially related to employer communication, professional development, and 
+developing common practices—and would support future “system-building efforts.” 28
+The importance of regional collaboration has also been examined in evaluations of sector-based 
+strategies,
+29 as well as in the earlier implemented Workforce Innovation in Regional Economic 
+Development (WIRED) initiative to advance regional labor market preparation where 80 percent 
+of respondents collaborated regionally, though the degree varied across regions.
+30 Regional 
+collaboration is particularly important to meeting the skill needs of high-demand industry sectors 
+and regional economies. 
+Employer Engagement and Responsiveness to Labor Market 
+Needs/Sector Strategies 
+As much as collaborative partnerships have become critical to Career Pathways efforts, employer 
+engagement is also recognized as essential to developing and implementing effective Career 
+Pathways systems. Employers have played increasingly important roles in career-related 
+education and training initiatives over time. Even before School-to-Work stressed partnering 
+with employers in the mid-1990s, business and industry were recognized as important advisors 
+for carrying out CTE and workforce programs. By 1998, the Workforce Investment Act viewed 
+employers, for the first time, as customers of the nation’s workforce system and equal in 
+importance to system participants. In many of DOL’s and ED’s subsequent formula and 
+discretionary grant initiatives, employers have been viewed as partners and customers of 
+education and training programs. 
+Comprehensive Career Pathways systems are intended to encourage and expand the number of 
+students, jobseekers, and workers who earn industry-recognized, postsecondary credentials that 
+correspond to the skill needs of employers in high-demand industry sectors. As a result, Career 
+Pathways systems involve employers and other stakeholders in: identifying the skills that are 
+needed by high-demand employers; determining how students are deemed proficient in these 
+skills; identifying the credentials that employer
+s value in making labor market decisions; 
+providing work-based learning opportunities for students; and identifying how to validate 
+curricula and credentials. Employers should also be involved in the design of programs to ensure 
+that curricula and instructional strategies are relevant and meet the needs of high-demand 
+industries and occupations. 
+With funding from the Charles Stewart Mott Foundation, a rigorous study—the Sectoral 
+Employment Impact Study—of sector-based training initiatives by Public Private Ventures (PPV) 
+found in 2003 that participation in sector training initiatives 
+resulted in improved consistency of 
+employment, higher wages and hours worked, and greater attainment of jobs with benefits.31
+15
+
+Although some aspects of the programs varied, shared characteristics included targeting high-
+demand industry sectors; integrating technical, job readiness, and basic skills education; 
+significant support services; and being nimble, modifying programs or curricula in response to 
+changes in industry needs, funding, or partners’ service availability.32
+Program Design ⇒
+Redesign 
+Program design in career-related education and training programs should promote student 
+success and timely progress to completion, credential attainment, and entry into or progress 
+within careers in high-demand, family-supporting occupations. Career Pathways should be 
+flexible, non-duplicative, and accelerated—i.e., structured to accommodate the unique needs of 
+youth and adults. Each educational level should be carefully articulated to the next, without 
+duplication, and with effective academic supports, career supports, and counseling, particularly 
+at points of entry and transition. 
+According to research conducted by the Community College Research Center (CCRC) at 
+Columbia University, a “guided pathways approach”33 improves student outcomes. This 
+approach includes the following features: 
+• Create clear roadmaps to success that simplify students’ choices
+• Clearly define program learning outcomes that align with end goals
+• Monitor student progress, providing frequent feedback and integrated supports 34
+These findings point to the need for well-defined pathways with sequenced courses that students 
+select soon after enrollment.35 And these recommendations are consistent with lessons learned in 
+the programs and initiatives that have laid the groundwork for today’s Career Pathways work. 
+Numerous state and local Career Pathways efforts—such as I-BEST; programs that were part of 
+the Breaking Through and Shifting Gears initiatives; Accelerating Opportunity (AO); and a 
+number of state CTE Programs—not only employ these strategies through a comprehensive 
+approach to service delivery but have also been the focus of evaluations demonstrating the 
+positive results of combined redesign strategies. The Breaking Through evaluation, for example, 
+showed positive employment, credential attainment, and program completion outcomes as the 
+result of accelerated learning, comprehensive supports for students, labor market payoffs, and 
+aligned
+ programs for low-skilled adults.36 Similarly, the I-BEST evaluations demonstrated that 
+participants had higher credit attainment, credential attainment, and greater earnings than other 
+comparable, non-I-BEST students.37 These findings support the I-BEST approach of integrating 
+basic and occupational skills training, awarding college credit, team teaching (basic 
+16
+
+skills and CTE), contextualized instruction, acceleration, and student supports—including 
+courses that provide additional instruction and study skill development.38
+These redesign strategies, along with participant-centered services and structural changes to 
+programs (e.g., on- and off-ramps along pathways, modularized curricula, convenient class-times 
+and locations, non-semester-based scheduling, and training in cohorts) have shown positive 
+outcomes, especially when provided in combination. 
+Pursuit of Needed Funding, Sustainability, and Scale 
+The Career Pathways evolution demonstrates a move from discrete pilot programs to scaled 
+impact, which is necessary over time for systemic change. For example, beginning in 
+Washington as a pilot, I-BEST now operates across the state in every community college, 
+providing on-ramps to employment-focused academic programs. In Oregon, Career Pathways 
+also began as pilots in two community colleges, and now Career Pathways roadmaps exist in all 
+Oregon community colleges. Similarly, the Breaking Through initiative funded program 
+innovations at leadership colleges, then disseminated and implemented lessons learned through a 
+broader set of learning colleges. The subsequent Accelerating Opportunity initiative built upon 
+these approaches, aiming to serve 40,000 students in pathways with marketable, stackable 
+credentials, and yielding 18,000 students with a credential and one-term of college credit.39
+To sustain Career Pathways efforts and to take these initiatives to scale over time requires 
+pursui
+ng, leveraging, “braiding,” and wisely using public and private funding. Because of 
+declining federal, state, and local education and training investments, it is important that states 
+and local communities become adept at seeking out nontraditional sources of funding—whether 
+from private philanthropies, businesses, or resource contributions like increased full-time 
+equivalent (FTE) an
+d tiered funding strategies—and using those resources as the foundation for 
+sustaining and scaling Career Pathways systems for youth and adults. However, even in these 
+times of fiscal constraint, there are examples of states that have appropriated new funding for 
+innovative CTE and Career Pathways efforts. 
+In 2012, Kansas initiated its Excel in Career Technical Education Initiative with the enactment 
+of Senate Bill 155, providing free college tuition for high school students taking postsecondary 
+technical education courses that lead to credentials in high-demand occupations in the state. The 
+initiative also provides an incentive to school districts, a $1000 award for each student earning 
+an industry-recognized credential in a high-demand occupation within six months of graduation. 
+In the first full year of its implementation, Kansas experienced significant enrollment growth in 
+postsecondary career technical education: a 58 percent increase in headcount and a 57 percent 
+17
+
+increase in college credit hours earned over the previous year. Following graduation in May 
+2013, the program awarded 711 secondary students with industry-recognized credentials.40
+Kansas followed implementation of Senate Bill 155 with a similar initiative for adult students in 
+designated Career Pathways programs. 
+Policy Change and Alignment 
+Each state and local area that is developing a comprehensive Career Pathways system has a 
+unique set of statutory and administrative policies that affect their ability to align programs and 
+achieve cross-system goals. Similarly, each participating state and local agency sets and/or 
+oversees statutory requirements, rules, regulations, goals, performance measures, and policies 
+that affect program funding. 
+There are numerous examples of states and individual initiatives that have pursued and adopted 
+policy changes, enabling them to develop and expand Career Pathways systems. Some of the 
+policy changes that have been 
+pursued include: encouragement for dual and co-enrollment of 
+students (providing college credit for students while they are still in high school or in adult 
+education programs, respectively); articulation agreements that prearrange the acceptance of 
+credit from one educational institution to the next (e.g., high school CTE coursework that counts 
+toward college acceptance or for credit on a college transcript); increased flexibility in 
+determining eligibility for state student aid to increase the availability of financial aid for 
+postsecondary occupational coursework; and eliminating barriers to cross-system alignment. 
+Several initiatives have outlined processes for collecting and analyzing policy-related data to 
+undergird large-scale system planning, including the Accelerating Opportunity and Policy to 
+Performance
+41 initiatives and the Career Pathways Technical Assistance Toolkit.42
+Identifying and Implementing Cross -System Data and 
+Accountability Systems 
+To measure the impact and ensure the quality and coherence of comprehensive Career Pathways 
+systems, states must find ways to: collect, share, and utilize cross-system data; and measure 
+performance for participants and for programs system-wide. Identifying appropriate cross-system 
+outcome measures and holding partner programs accountable for making progress based on those 
+measures will require developing structures and strategies for gathering and sharing quantitative 
+and qualitative data across agencies and partners. Individual programs authorized under WIOA 
+are required to use common measures for performance measurement going forward, but are not 
+required to measure performance as a single system. 
+18
+
+The Shifting Gears initiative focused not only on spurring systemic change through collaboration 
+and new ways of thinking among its six participating states but also on the use of data to inform 
+the states’ work. All six states participating in the initiative gained a better understanding about 
+the role that data plays in supporting program improvement and performance outcomes, but also 
+recognized the complexities of building comprehensive State Longitudinal Data Systems. 
+All six states also learned about the infrastructure challenges and limitations in their capacity to 
+analyze data once collected on transitions between adult basic education, workforce development 
+programs, and community and technical college systems. The Shifting Gears initiative asked 
+states to use data to improve completion rates for low skilled adults who were working to earn 
+industry-recognized postsecondary credentials. The initiative recognized that wise use of data is 
+critical for identifying and improving student outcomes, but also for correcting problems within 
+education and training systems, especially at points of student transition. 
+To achieve greater data and performance measurement goals, Shifting Gears states worked to 
+link and track the progress of participants in Adult Education, Postsecondary Education, and 
+Workforce Development systems. Some states built their capacity to use Unemployment Wage 
+(UI) record systems to track the employment and earnings of participating students and 
+determine their longer-term employment and earnings outcomes. The states analyzed data, 
+particularly at transition points, to determine strategies and benchmarks for helping students 
+persist in and complete programs of study. They carried out "gap analysis"—
+ better enabling 
+them to better focus their education and training efforts on high-wage, high-demand industries 
+that offer a better chance of providing jobs for low-skilled adults after completion of their 
+education.43
+The Shifting Gears initiative serves as a model for other Career Pathways systems about the 
+importance of shared data and performance measurement while also providing examples of the 
+challenges in this work. 
+19
+
+VI. Going Forward
+Today, the U.S. continues to explore new opportunities for augmenting and expanding career-
+focused learning, including expanded and better uses of technology for delivering course 
+offerings, competency-based learning, awarding credit for prior learning, providing credit for 
+non-credit coursework, and moving more training to the credit side of colleges so all coursework 
+can be transcripted and counted 
+toward higher credentials over time. 
+Public and private efforts are also underway to ensure that education and training programs fully 
+meet the skill needs of employers in high-demand industries. A growing number of employers 
+and industry associations are working with education and training stakeholders to identify the 
+competencies and credentials that are needed in high-demand industry sectors. Toward these 
+ends, DOL has worked in recent years to develop competency models for major industries and 
+occupations that are aligned with its efforts to encourage sector-based education and training 
+initiatives.44 DOL has also aligned this work with ED’s efforts to identify and build out career 
+clusters, Programs of Study in CTE, as well as organize and codify the employability skills 
+necessary for success in the labor market at all employment levels and in all sectors.45 This 
+promising work continues today and provides rich content for developing curricula and 
+designing programs for Career Pathways systems. 
+Since the joint framework was developed in 2012, the interagency work group comprised of staff 
+from ED, DOL and HHS has continued to work to provide guidance on the development of 
+Career Pathways systems. In April 2014, the three Departments identified essential components 
+of Career Pathways systems (Figure 6); and issued a Request for Information on Adoption of 
+Career Pathways Approaches, generating public comments from a wide ranges of stakeholders 
+who offered: descriptions of existing career pathways systems; information about the roles and 
+responsibilities of career pathways partners; information about connections to economic 
+development strategies; information about how pathways systems are funded; input on how 
+participant outcomes are measured; and feedback about how providers ensure that pathways stay 
+current with labor market trends, among other issues. This feedback can be found in the 
+summary of responses to the Request for Information.46
+20
+
+Today, ED, DOL, and HHS are 
+implementing new technical 
+assistance and grant initiatives 
+focused on helping states and local 
+communities to build Career 
+Pathways systems. These efforts 
+test new ideas and innovations 
+through pilot programs, encourage 
+system alignment and policy 
+changes, and build on evidence-
+based practices. DOL is in the 
+process of revising its Career 
+Pathways toolkit, originally 
+published in September 2011. 
+Career Pathways system 
+development efforts are also 
+expanding far beyond the work of 
+the three Departments. 
+Across the country, states and local 
+communities are trying to respond 
+to employers’ increased demands 
+for academic, employability, and 
+technical skills from the current 
+and future workforce. But this is 
+occurring at a time of limited 
+public resources, constraining the 
+expansion of programs and service 
+offerings. 
+The newly enacted WIOA 
+emphasizes program alignment, 
+business engagement, training for 
+in-demand industry sectors and 
+occupations, establishing Career 
+Pathways systems, and developing 
+cross-system data and performance 
+measurement systems. The 
+Vice 
+President’s Ready to Work report 
+Figure 6. Career Pathways: Essential Components 
+In April 2014, the U.S. Departments of Education, Labor, 
+and Health and Human Services, through an interagency 
+working group, identified the components that Career 
+Pathways systems should include: 
+• Aligning systems: secondary, postsecondary, and
+workforce development
+• Rigorous, sequential, connected, and efficient coursework
+that connects basic education and skills training and
+integrates education and training
+• Multiple entry and exit points
+• Comprehensive support services, such as career
+counseling, childcare, and transportation
+• Financial supports or flexibility to accommodate the
+demands of the labor market in order to allow individuals
+to meet their ongoing financial needs and obligations
+• Active engagement of business in targeted industry
+sectors that aligns with the skill needs of industries
+important to the local, regional, and/or state economies
+• Appropriate curriculum and instructional strategies that
+make work a central context for learning and work-
+readiness skills
+• Credit for prior learning and adopting other strategies that
+accelerate the educational and career advancement of the
+participant
+• Organized services to meet the particular needs of adults,
+including accommodating work schedules with flexible
+and non-semester-based scheduling, alternative class
+times and locations, and the innovative use of technology
+• A focus on secondary and postsecondary industry
+recognized credentials, sector-specific employment, and
+advancement over time in education and employment
+within that sector
+• A collaborative partnership among workforce, education,
+human service agencies, business, and other community
+stakeholders to manage the system
+21
+
+provides an action plan for making America’s workforce and training system more job-driven, 
+integrated, and effective. Both call on states and local communities to “fundamentally rethink the 
+pathways to well-paying, middle-class jobs, and open those pathways to all Americans”
+47 while 
+recognizing that there are many successful efforts and programs already underway across the 
+country on which we can and should build. When looking at what has worked in career-related 
+education and training programs over the years, it becomes clear that a comprehensive Career 
+Pathways systems approach holds significant promise for providing Americans with the skills and 
+credentials needed for high-demand jobs and careers. 
+22
+
+Appendix A: Snapshots of Career-Related Education 
+& Training Programs 
+The following are examples of federal, state, and local workforce education and training efforts 
+around which today’s Career Pathways efforts have been built. 
+Career Academies 
+Summary Table 
+Name of Program 
+(timeline) 
+Career Academies (1969–Present) 
+Targeted Population High school students 
+Major Purpose of 
+Program 
+The program stresses small learning communities that 
+combine academic and technical curricula around a career 
+theme. 
+Partners Secondary and postsecondary education systems and 
+employers 
+Funding Source(s) Existing state and local funding 
+Nonprofit/philanthropy 
+Notable 
+Achievements/Outcomes 
+Evaluation showed a substantial earnings advantage for male 
+students in Career Academies; Career Academies can meet 
+students’ dual needs for academic and labor market 
+preparation.
+48
+For Further Information 
+(website or publication) 
+http://www.mdrc.org/project/career-academies-exploring-
+college-and-career-options-ecco#featured_content 
+The high school reform model known as Career Academies began with establishment of the first 
+academy in Philadelphia in 1969, and has expanded since that time to over 2,500 Career 
+Academies across the United States today. This high school reform strategy stresses small 
+learning communities that combine academic and technical curricula around a career theme. The 
+23
+
+Manpower Demonstration Research Corporation (MDRC) began a rigorous, scientific evaluation 
+of the initiative in 1993 that has informed the field and later program development. 
+In its evaluation, MDRC noted that Career Academies feature: small learning communities, 
+combining academic skills and technical curricula associated with a career; employer 
+partnerships; and an objective of improving students’ active participation in learning and 
+transitions to the workforce and/or postsecondary education.
+49 Lessons learned through Career 
+Academies can be seen throughout the later development of CTE’s Tech-Prep, School-to-Work, 
+High Schools That Work, and other later CTE initiatives—all linking secondary and 
+postsecondary programming, aligning academic and occupational learning, and working closely 
+with employers. 
+MDRC’s evaluation of Career Academies was a 15-year random assignment study, tracking 
+approximately 1,400 students. The study found that Career Academies substantially increased 
+earnings—to a statistically significant degree for men but not women—with a nearly $17,000 
+earnings advantage for Career Academies 
+students over eight years, as compared with students 
+not enrolled in Career Academies. Men posted an even greater “real earnings” advantage—a 
+staggering $30,000 over eight years (incorporating wage, hours, and employment stability). The 
+study noted that Career Academies were a “viable pathway to a range of postsecondary 
+education opportunities,” and were equivalent to other non-academy alternatives. The study also 
+found that Career Academies can prepare students with labor market skills leading to earnings 
+gains while simultaneously meeting colleges’ academic entry demands. The study recognized, 
+however, the difficulty of implementing Career Academies “on a large scale with high levels of 
+fidelity [to the program model].” 
+50
+24
+
+Southern Regional Education Board, High Schools That Work 
+Summary Table 
+Name of Program 
+(timeline) 
+Southern Regional Education Board, High Schools That Work 
+(HSTW) (1987–Present) 
+Targeted Population High school and postsecondary students 
+Major Purpose of 
+Program 
+HSTW is designed to enhance students’ college and career 
+preparation through a rigorous academic and technical course 
+of study. 
+Partners State and local K-12 and postsecondary education systems; 
+employers 
+Funding Source(s) Nonprofit/philanthropy 
+Notable 
+Achievements/Outcomes 
+Correlation between academic achievement and extensive 
+HSTW model implementation, completion of rigorous courses, 
+and students’ perceptions of teacher collaboration.
+51
+For Further Information 
+(website or publication) 
+http://www.sreb.org/page/1078/high_schools_that_work.html 
+HSTW, while not federally sponsored, is closely aligned with Career Academies, School-to-
+Work and other secondary education reform efforts that focus on enhancing secondary students’ 
+transition to college and careers. HSTW provides a rigorous academic and technical course of 
+study (reducing the need for postsecondary remediation) along with comprehensive program 
+design elements (e.g., high expectations, dual enrollment, work-based learning, active learning, 
+student supports, exposure to careers, teacher collaboration, and a continuous improvement 
+approach).52 Students choose a concentration, academic or career/technical, the latter consisting 
+of at least four courses that integrate literacy and math and are linked to employer certifications 
+or postsecondary credentials. HSTW encourages schools to use the senior year for an intensive 
+focus on postsecondary preparation—coursework that reflects postsecondary standards, enables 
+students to earn postsecondary credits through dual enrollment and other approaches, or career 
+preparation that allows students to enroll in industry-approved programs in which they can earn 
+postsecondary credentials.
+53
+25
+
+A study of HSTW found a correlation between academic achievement and: 1) completion of 
+rigorous English/language arts and mathematics courses, 2) more frequent discussions with a 
+counselor/teacher about high school courses, and 3) students’ perceptions that academic/CTE 
+teachers collaborated. 
+54 Additionally, students at high-implementation HSTW schools (those 
+with the highest presence of HSTW model elements based on student reports) have greater 
+academic achievement in core subjects, as compared with students in low-implementation 
+HSTW schools.
+55 The HSTW school improvement framework is based on the belief that most 
+students can master complex academic and technical concepts if schools create an environment 
+that encourages them to make the effort to succeed. 
+A major focus of HSTW is high-quality CTE, including a new initiative called Advanced Career 
+(AC), focused on mastery of the Common Core State Standards as part of authentic projects that 
+are meaningful to students. As part of this initiative, HSTW is partnering with a 12-
+state 
+consortium where each state is developing a four-course sequence of study around a career 
+area(s) it has identified as important to its economic development and for which there is a 
+growing demand. Key elements of the initiative include: application-based learning of essential 
+academics in reading, writing, mathematics, and science, and of rigorous technical content; 
+contextual curriculum mapped to college- and career-readiness standards; authentic, project-
+based scenarios that ground students in the real-world use of technical and academic knowledge; 
+teacher training designed to prepare teachers to implement rigorous CTE courses with embedded 
+academics; curricula that incorporates engaging instruction, guidance, and advisement; and 
+summative assessment of academic and technical knowledge and skills.
+56
+26
+
+Tech-Prep 
+Summary Table 
+Name of Program 
+(timeline) 
+Tech-Prep (1990–2006) 
+Targeted Population High school and postsecondary students 
+Major Purpose of 
+Program 
+Tech-Prep was intended to link secondary and postsecondary 
+education through a “sequential course of study” that aligned 
+technical skills attainment with core academic subjects, 
+resulting in Associate’s degrees, certificates or four-year 
+degrees. 
+Partners State and local secondary and postsecondary CTE systems 
+Funding Source(s) U.S. Department of Education 
+Notable 
+Achievements/Outcomes 
+The national Tech-Prep evaluation found that: 19 percent of 
+Tech-Prep high school graduates continued into an articulated 
+community college program; curriculum improvements were 
+made; and articulation agreements were developed in 96 
+percent of consortia.
+57
+For Further Information 
+(website or publication) 
+http://www2.ed.gov/programs/techprep/index.html 
+The Tech-Prep Education Act first appeared in the Carl D. Perkins Vocational and Applied 
+Technology Education Act of 1990. It provided funding to consortia of local educational 
+agencies and postsecondary educational institutions to develop and operate Tech-Prep programs. 
+Tech-Prep was intended to link secondary and postsecondary education through a “sequential 
+course of study” that aligned technical skills attainment with core academic subjects, resulting in 
+Associate’s degrees, certificates, or four-year degrees.58 Secondary and postsecondary 
+articulation agreements, institutional linkages, sequencing, and dual credit (where high school 
+students take postsecondary classes for college credit) began in Tech-Prep. 
+The final report of the national Tech-Prep evaluation in 1998 found that Tech-Prep yielded 
+important benefits in many communities including: increased emphasis on counseling and career 
+guidance, curriculum improvement, and articulation between secondary and postsecondary CTE. 
+27
+
+The evaluation further noted that Tech-Prep: opened new lines of communication and 
+opportunities for professional development for teachers on successful practices; focused 
+academic classes more on problem solving and applied contextual learning; increased employer 
+contact with schools; and brought attention to the need for an increased focus on math and 
+science for CTE students. The evaluation found, however, that the flexibility Congress afforded 
+to local consortia on how to implement Tech-Prep programs resulted in many local areas 
+implementing individual elements of Tech-Prep rather than the intended combination of 
+elements. A primary recommendation from the final report was that Tech-Prep should be 
+implemented as a structured program of study that would include the combination of elements.59
+Tech-Prep Definition 
+Section 203(c) of Perkins IV states that a “tech-prep program” includes a program of study 
+carried out under an articulation agreement between the participants in the consortium that: 
+• Combines a minimum of two ye ars of secondary education (as determined under state
+law) with a minimum of two years of postsecondary education in a non-duplicative,
+sequential course of study, or an apprenticeship program of not less than two years
+following secondary education instruction
+• Integrates academic and career and technical education instruction, and utilizes work-
+bas
+ed and worksite learning experiences where appropriate and available
+• Provides technical preparation in a career field, including high-skill, high-wage, or
+high-
+demand occupations
+• Builds student competence in technical skills and in core academic subjects (as
+def
+ined in section 9101 of the Elementary and Secondary Education Act of 1965), as
+appropriate, through applied, contextual, and integrated instruction, in a coherent
+sequence of courses
+• Leads to technical skill proficiency, an industry-recognized credential, a certificate, or
+a de
+gree, in a specific career field
+• Leads to placement in high-skill or high-wage employment, or to further education
+• Utilizes career and technical education programs of study, to the extent practicable
+28
+
+School-To-Work 
+Summary Table 
+Name of Program 
+(timeline) 
+School-to-Work (STW) (1994–2001) 
+Targeted Population High school students 
+Major Purpose of Integrating academic and technical education and work-based 
+Program learning; engaging employers as partners; sequenced 
+coursework linking secondary and postsecondary studies; 
+expanding students’ career knowledge; improving students’ 
+preparation for “high-skill, high-wage” jobs; and supporting 
+states to develop school-to-work transition systems rather than 
+discrete programs. 
+Partners State and local secondary and postsecondary education 
+systems, workforce systems, and employers 
+Funding Source(s) U.S. Department of Education 
+U.S. Department of Labor 
+Notable 
+Achievements/Outcomes 
+School-to-Work students were found to have multiple 
+measures of positive academic, persistence, and career 
+outcomes.
+60
+The Report to Congress on the National Evaluation of School-
+to-Work Implementation, issued in 1999, indicated that some 
+STW programs used “career pathways guidance tools” or 
+charts: STW partnerships listed clusters of careers with 
+pathways, relevant courses, and postsecondary 
+programs/majors, thereby increasing students’ awareness of 
+careers and the requisite steps to pursue career interests. Multi-
+district partnerships increased employer engagement and 
+communication. Additionally, regional cooperation through 
+Tech
+-Prep consortia (one-quarter of STW partnerships 
+overlapped with Tech-Prep consortia) or Workforce 
+Investment Boards was a suggestion for supporting “system-
+building efforts.”
+61
+29
+
+For Further Information 
+(website or publication) 
+http://www2.ed.gov/pubs/Biennial/95-96/eval/410-97.pdf 
+http://files.eric.ed.gov/fulltext/ED430094.pdf 
+Like Tech-Prep, the School-to-Work 
+Opportunities Act of 1994 sought to link 
+secondary students to careers and 
+postsecondary education. The U.S. 
+Departments of Education and Labor 
+administered this initiative jointly. 
+Select goals of School-to-Work included: 
+integrating academic and technical 
+education and work-based learning; 
+engaging employers as partners; 
+sequenced coursework linking secondary 
+and postsecondary studies; expanding 
+students’ career knowledge; improving 
+students’ preparation for “high-skill, high-
+wage” jobs; and supporting states to 
+develop school-to-work transition systems 
+rather than discrete programs.
+62,63 
+A 2001 research report commissioned by 
+the National School-to-Work Office 
+summarized evaluation and study findings 
+on School-to-Work. Students were found 
+to: maintain good grades; take challenging 
+courses; have better attendance than 
+comparable students; stay in and complete 
+School-to-Work Transition System 
+Requirements 
+“School-based learning, including a coherent 
+multiyear sequence of integrated academic and 
+vocational instruction—involving at least two 
+years of secondary education and one or two 
+years of postsecondary education—tied to 
+occupational skill standards and challenging 
+academic standards. 
+Work-based learning, providing students with 
+workplace mentoring and a planned program 
+of work experience linked to schooling. 
+Connecting activities, to ensure coordination 
+of 
+work- and school-based learning 
+components by involving employers, 
+improving secondary-postsecondary linkages, 
+and providing technical assistance.” 
+(http://www2.ed.gov/pubs/Biennial/95-
+96/eval/410-97.pdf) 
+high school (including those who were thought to be “at risk” of dropping out of school or 
+having other negative consequences); be just as likely if not more so to attend college; choose 
+majors early in their college careers; define their career interests and goals; participate in higher 
+quality work-based learning experiences; and have better long-term labor market outcomes than 
+comparable students.64 The 1999 report to Congress indicated that some STW consortia were 
+involved in developing and offering students career cluster tools to inform course taking and 
+career choices.
+65 
+30
+
+Building Linkages 
+Summary Table 
+Name of Program 
+(timeline) 
+Building Linkages (1996–1999) 
+Targeted Population High School and Postsecondary Students/Employers 
+Major Purpose of 
+Program 
+Connected state academic standards with industry skill 
+standards for occupations, preparing students for 
+postsecondary education and employer expectations, and 
+furthering “industry-endorsed portable certificates.” 
+Partners Secondary and postsecondary education and employer groups 
+in manufacturing and health 
+Funding Source(s) U.S. Department of Education 
+U.S. Department of Labor 
+Notable 
+Achievements/Outcomes 
+Creation of model career cluster standards and pathways that 
+formed the foundation for the Career Clusters Initiative. 
+For Further Information 
+(website or publication) 
+www.league.org/league/projects/ccti/files/CCTI_Pathway_Boo 
+k.pdf
+The Building Linkages project, funded by the Departments of Education and Labor, connected 
+state academic standards with industry skill standards for occupations, preparing students for 
+postsecondary education and employer expectations, and furthering “industry-endorsed portable 
+certificates.”
+66,67 Additionally, the Building Linkages project “used career pathways as an 
+organizational tool to connect skill standards [and] as an educational tool . . . to increase the 
+integration of standards, for both academics and industry, and provide a base to organize 
+curricula, instruction, and assessments.”
+68 Building Linkages developed model career cluster 
+standards and pathways—through collaboration among secondary/postsecondary education and 
+employer groups—for manufacturing and health.
+69,70
+31
+
+Career Clusters Initiative 
+Summary Table 
+Name of Program 
+(timeline) 
+Career Clusters Initiative (2001–2002) 
+Targeted Population CTE Students/Employers 
+Major Purpose of 
+Program 
+The Office of Career, Technical, and Adult Education 
+(OCTAE) funded Oklahoma and the National Association of 
+State Directors of Career and Technical Education Consortium 
+(NASDCTEc) to compile all occupations into the 16 career 
+cluster framework and create employer- and postsecondary-
+validated standards for the clusters.
+71
+Partners State CTE systems, NASDCTEc 
+Funding Source(s) U.S. Department of Education 
+Notable 
+Achievements/Outcomes 
+Identifying 16 career clusters used for developing programs of 
+study in CTE and for developing employer- and 
+postsecondary-validated standards for those clusters. 
+For Further Information 
+(website or publication) 
+http://www.careerclusters.org 
+In 1999, OCTAE recognized the 16 career clusters, some of which were developed through 
+Building Linkages.72 Subsequently, it sought a framework for skills development and 
+academic/technical content within the career clusters.73 Accordingly, OCTAE funded Oklahoma 
+and the National Association of State Directors of Career and Technical Education Consortium 
+(NASDCTEc) to compile all occupations into the 16-career cluster framework and create 
+employer- and postsecondary-validated standards for the clusters.
+74 The knowledge and skills 
+were organized into “foundation standards”: the shared knowledge and skills for all occupations 
+in a career cluster and more specific “pathway standards” for particular careers within the 
+cluster.
+75 In many states and localities, these standards continue to drive the instructional content 
+and course sequencing of modern CTE programs. NASDCTEc has reorganized the foundation 
+skills standards from the 16 clusters and 79 pathways into the new Common Career Technical 
+Core, a framework that includes “Career Ready Practices” for clusters and pathways.
+76
+32
+
+Pathways to Advancement Project 
+Summary Table 
+Name of Program 
+(timeline) 
+Pathways to Advancement Project (2003–2005) 
+Targeted Population Low-skilled, working adults 
+Major Purpose of 
+Program 
+Increase low-skilled working adults’ attainment of 
+postsecondary credentials. 
+Partners Adult and postsecondary education (and to varying degrees 
+workforce and human services) systems in Arkansas, Hawaii, 
+Kansas, Maine, Massachusetts, Michigan, Ohio, and Oregon 
+Funding Source(s) Lumina Foundation 
+Notable 
+Achievements/Outcomes 
+Policy changes in the states included developing Career 
+Pathways, aligning workforce education and economic 
+development policy, linking adult and postsecondary 
+education, and using LMI to drive policy and program 
+changes.
+77
+For Further Information 
+(website or publication) 
+http://www.nga.org/cms/home/nga-center-for-best-
+practices/center-publications/page-edu-publications/col2-
+content/main-content-list/the-pathways-to-advancement-
+proj.html 
+The mission of the National Governors Association’s (NGA) Pathways to Advancement project, 
+supported by the Lumina Foundation for Education, was to increase low-skilled working adults’ 
+attainment of postsecondary credentials. States conducted data and policy analyses, and used this 
+information to drive decisions on policy and program changes.78 States received technical 
+assistance from NGA and experts in the field. 
+Policy changes in the states included developing Career Pathways, aligning workforce education 
+and economic development policy, linking adult and postsecondary education, and using LMI to 
+drive policy and program changes.
+79 For example, Arkansas developed its Career Pathways 
+program using TANF funds, and Oregon (see: Career Pathways Efforts in Oregon) established a 
+Statewide Pathways Initiative to expand its Career Pathways offerings.
+80 The project modeled 
+33
+
+the type of state-level analysis of data and policies that provide the foundation for creating 
+Career Pathways systems. 
+34
+
+The Community College Bridges to Opportunity Initiative 
+Summary Table 
+Name of Program 
+(timeline) 
+The Community College Bridges to Opportunity Initiative 
+(2003–2008) 
+Targeted Population Low-skilled adults 
+Major Purpose of 
+Program 
+To improve the education and training of low-skilled adults by 
+addressing the policy and systemic barriers to alignment. 
+Partners Adult and postsecondary education systems in Colorado, 
+Kentucky, Louisiana, New Mexico, Ohio, and Washington 
+Funding Source(s) Ford Foundation 
+Notable 
+Achievements/Outcomes 
+The initiative led to several outcomes, including I-BEST, 
+regional Career Pathways, and significant legislative action in 
+three states to improve system alignment.
+81
+For Further Information 
+(website or publication) 
+http://www.fordfoundation.org/pdfs/library/Bridges_to_Opport 
+unity_for_Underprepared_Adults.pdf 
+The Ford Foundation funded Bridges to Opportunity to improve education and training for 
+“underprepared adults,” including the current workforce, and to improve employment 
+opportunities by removing “systemic barriers to success.”
+82 The initiative’s model elements 
+included: implementing policy changes that encouraged community colleges to align Adult Basic 
+Education, occupational, and college-level programs, and offer requisite support services; using 
+data on student outcomes to drive policy and program changes; and advancing strong leaders to 
+drive policy innovation.
+83
+The initiative led to several significant outcomes, including the development of: I-BEST in 
+Washington; Kentucky’s regional Career Pathways, forged by partnerships with education, 
+Workforce Investment Boards, social services and employers; and significant legislative action 
+in Ohio, Louisiana, and Washington that “improved alignment within and across programs, 
+services, and education levels in order to break down barriers to advancement and create clearer 
+paths to educational and economic advancement for students and a pipeline of qualified workers 
+for employers.”
+84 Like the Pathways to Advancement project, Bridges to Opportunity helped 
+35
+
+participating states forge the policy frameworks necessary to build and implement Career 
+Pathways systems that aligned programs and services. 
+36
+
+Career Pathways Efforts in Oregon 
+Summary Table 
+Name of Program 
+(timeline) 
+Oregon’s Career Pathways Efforts (1999–Present) 
+Targeted Population Low-skilled working adults 
+Major Purpose of 
+Program 
+Increase low-skilled working adults’ attainment of 
+postsecondary credentials and employment in high-demand 
+industry sectors. 
+Partners Adult and postsecondary education and workforce systems 
+Funding Source(s) Private philanthropy 
+NGA Pathways to Advancement project 
+Combined federal and state WIA and Perkins resources 
+Notable 
+Achievements/Outcomes 
+Oregon developed Career Pathways programs in every 
+community college, with “chunked” stackable credentials (with 
+labor market value); roadmaps showing pathways in every 
+college; and pathways for low-skilled adults leading from 
+Adult Education to Postsecondary credential attainment.
+85
+For Further Information 
+(website or publication) 
+www.MyPathCareers.org/cp 
+Following the initial efforts of three community colleges and spurred on by the state’s 
+involvement in the Pathways to Advancement project, Oregon founded the Oregon Pathways 
+Statewide Initiative in 2003, focusing on degree and certificate attainment in high-demand 
+occupations. In 2005, all colleges developed “pathways action plans” to implement the Career 
+Pathways approach in their institutions. In 2006, Oregon began a similar approach specifically 
+aimed at low-skilled adults (rather than community college students more generally), founding 
+the Oregon Pathways for Adult Basic Skills Transition to Education and Work Initiative. OPABS 
+aimed to improve the transition to postsecondary education and training, offering accelerated, 
+contextualized basic skills courses, and individual learner “courses of study.”
+86
+37
+
+Between 2004 and 2012, Oregon built an extensive infrastructure of more than 350 web-based 
+career pathway “roadmaps” showing students and jobseekers how to access and pursue pathways 
+that lead to postsecondary credentials and high-demand employment. 
+38
+
+Career Pathways Efforts in Washington (I-BEST) 
+Summary Table 
+Name of Program 
+(timeline) 
+Integrated Basic Education and Skills Training Program (I-
+BEST) (2001–Present) 
+Targeted Population Low-skilled adults 
+Major Purpose of 
+Program 
+Increase low-skilled adults’ attainment of postsecondary 
+credentials and high-demand industry employment. 
+Partners State and local adult and postsecondary education systems (and 
+to varying degrees, workforce systems) 
+Funding Source(s) Private philanthropy (e.g., Bridges to Opportunity initiative) 
+Combined federal and state Perkins, WIA, and other resources 
+Notable 
+Achievements/Outcomes 
+Integrating ABE/ESL instruction and occupational skills 
+training linked to college credit and credentials; resulting in 
+significant participant credential attainment and wage 
+increases. Replication of I-BEST model is on-going around the 
+country 
+For Further Information 
+(website or publication) 
+http://www.sbctc.ctc.edu/college/e_integratedbasiceducationan 
+dskillstraining.aspx 
+Washington’s Career Pathways development work began in 2001 in response to: enrollment 
+projections that showed a significant increase the number of students who needed Adult Basic 
+Education (ABE) and English as a Second Language (ESL) services in the state and a 
+recognition that these individuals would need postsecondary education to obtain good jobs.
+87
+Through its involvement in the previously described Bridges to Opportunity initiative, 
+Washington: identified systemic barriers to low-skilled adults’ entry into and completion of 
+programs linked to credentials and employment; urged community colleges to develop programs 
+to tackle these obstacles; and promoted systemic improvement through policy change.
+88 A study 
+of Washington’s adult basic skills students showed that those who earned one year of college 
+credit and a credential (the “tipping point”) saw substantial wage increases. These findings 
+spurred the creation of a pilot of Integrated Basic Education and Skills Training (I-BEST).
+89
+39
+
+I-BEST offered integrated ABE/ESL instruction and occupational skills linked to college credit
+and certificates. The 2004-2005 I-BEST pilot demonstrated positive impacts on credit receipt
+and completion of workforce training programs, leading the Washington legislature to approve
+nearly $5 million to expand I-BEST in 2007.
+90 Washington’s Career Pathways approach began
+with program changes to address obstacles for low-skilled adults; created pilots to test for
+outcomes; and shared outcomes information statewide and with policymakers in order to scale
+and build policy support for the program.
+Today, the I-BEST program is operating in all of Washington’s 34 community and technical 
+colleges, serving more than 3,000 students each year. There are more than 170 approved 
+programs, expanding each year since the 2006 launch of the 
+statewide I-BEST program. State 
+Board staff members provide colleges with technical assistance and information on best practices 
+to ensure low-income students successfully complete integrated programs and find careers with a 
+family-supporting wage. 
+Research conducted by the Community College Research Center (CCRC) and the Workforce 
+Training and Education Coordinating Board found that I-BEST students outperform similar 
+students enrolled in traditional basic skills programs. They found that I
+-BEST students are: 
+• Three times more likely to earn college credits
+• Nine times more likely to earn a workforce credential
+• Employed at double the hours per week (35 hours versus 15 hours)
+• Earning an average of $2,310 more per year than similar adults not in I-BEST91
+In January 2013, the Washington State Board for Community and Technical Colleges conducted 
+a return on investment analysis of I-BEST, finding that “I-BEST Tipping Point Completers gain 
+an annual ROI of 12.4 percent per year, more than three times greater than a traditional 
+investment, reflecting substantial increases in students’ earnings.”
+92
+40
+
+College and Career Transitions Initiative 
+Summary Table 
+Name of Program 
+(timeline) 
+College and Career Transitions Initiative (CCTI) (2003–2008) 
+Targeted Population Community colleges 
+Major Purpose of 
+Program 
+Programs provided templates outlining academic and CTE 
+course sequences in Career Pathways including details for 
+dual-enrollment. 
+Partners Secondary and postsecondary CTE systems in Anne Arundel 
+Community College (MD), Central Piedmont Community 
+College (NC), Corning Community College (NY), Fox Valley 
+Technical College (WI), Ivy Tech Community College of 
+Indiana (IN), Lehigh Carbon Community College (PA), Lorain 
+County Community College (OH), Maricopa Community 
+College (AZ), Miami Dade College (FL), Northern Virginia 
+Community College (VA), Prince George’s Community 
+College (MD), San Diego Miramar College (CA), Sinclair 
+Community College (OH), Southwestern Oregon Community 
+College (OR), St. Louis Community College (MO) 
+Funding Source(s) U.S. Department of Education 
+Notable 
+Achievements/Outcomes 
+Fifteen community college partner sites saw decreased 
+remediation rates and increased postsecondary entrance and 
+persistence rates.
+93 The fifteen colleges expanded to include 
+hundreds of colleges in the CCTI Network, focused on high 
+school-to-college transitions. 
+For Further Information 
+(website or publication) 
+http://www.league.org/league/projects/ccti/network/index.htm 
+In 2003, OCTAE and the League for Innovation in the Community College began CCTI with 15 
+community colleges partnering with high schools, employers, and some four-year colleges to 
+develop model pathways from secondary through postsecondary education.94 CCTI sites created 
+Career Pathways program of study plans, with courses sequenced from ninth grade through two 
+41
+
+years of postsecondary education and focused on a particular career cluster and aligned with 
+cluster standards, high school graduation and college entrance requirements.95, 96 Students 
+appeared to have lower remediation rates than a national sample of students and persist in CCTI 
+pathways.
+97 The League believed an important indicator of CCTI’s success was “integration of 
+the pathway model into the mission statements and strategic plans of the CCTI colleges.”98
+42
+
+Adult Education Coordination and Planning Project 
+Summary Table 
+Name of Program 
+(timeline) 
+Adult Education Coordination and Planning (AECAP) Project 
+(2003–2008) 
+Targeted Population Low-skilled adults 
+Major Purpose of 
+Program 
+To develop and test processes for state and local planning and 
+interagency coordination and to facilitate the expansion and 
+quality of adult education and workforce services. 
+Partners Arizona, Florida, Georgia, Maryland, Missouri, and 
+Washington 
+Funding Source(s) U.S. Department of Education 
+Notable 
+Achievements/Outcomes 
+The AECAP project provided lessons for implementing a 
+national demonstration project in Adult Basic Education 
+pertaining to: the application process; selection of local pilot 
+sites; project model; and planning, orientation of staff, and 
+provision of technical assistance. 
+For Further Information 
+(website or publication) 
+http://www.abtassociates.com/reports/Alamprese_Shared_Goal 
+s_Common_Ground_June_2009.pdf 
+AECAP was designed to develop and test processes for state and local planning and interagency 
+coordination to facilitate expansion of adult education and workforce services. The state partners 
+were adult education (ABE), labor, human services, K-12 education, and juvenile justice. 
+The state ABE staff and their partners used the AIDDE© planning process99—that begins with 
+analysis of a challenge, followed by the design of a plan to address the problem, and collection 
+of data to determine the impact of the approach.
+100 AECAP assisted states with identifying areas 
+of service that could benefit from coordinated activities, resulting in: a database with data 
+elements for WIA Titles I and II outcomes that ABE and One-Stop providers could use to track 
+clients’ referrals and use of each others’ services; an ESOL curriculum in customer service 
+training that could be used nationally in ABE programs and One-Stop Centers integrating ESOL 
+and occupational training; and a statewide professional development system for ABE program 
+improvement. Work at local pilot sites resulted in coordinated service models that provided 
+43
+
+targeted instructional services for specific ABE populations and integrated ABE/ESL and 
+occupational courses leading to employment or postsecondary training. 
+44
+
+Department of Labor Sector-Based Initiatives 
+Summary Table 
+Name of Program 
+(timeline) 
+Department of Labor Sector-Based Initiatives (2005–Present) 
+Targeted Population Traditionally Adults (increasingly Youth and CTE Students) 
+Major Purpose of 
+Program 
+Sector initiatives are built around the needs of employers and 
+businesses in a specific high-demand industry. 
+Partners Employers from a targeted industry sector, education and 
+training providers, economic development partners 
+Funding Source(s) U.S. Department of Labor 
+Notable 
+Achievements/Outcomes 
+Participation in comprehensive sector training initiatives 
+results in improved consistency of employment, higher wages 
+and hours worked, and greater attainment of jobs with benefits. 
+For Further Information 
+(website or publication) 
+Maguire, Sheila, Joshua Freely, Carol Clymer, & Maureen 
+Conway. “Job Training That Works: Findings from the 
+Sectoral Employment Impact Study.” Issue 7. May 2009. New 
+York, NY: Public/Private Ventures. 
+In addition to Career Pathways, sector-based initiatives are supported by a growing body of 
+evidence, and are the focus of many federal and philanthropic workforce investments. Sector-
+based training initiatives have tended to target high-demand industry sectors; integrate technical, 
+job-readiness, and basic skills education (where necessary); and provide significant support 
+services.
+101 While sector initiatives have broader goals that extend beyond skills development, 
+the most successful sector initiatives provide sector-based education and training through some 
+form of Career Pathways approach to training that offers individuals, including those who are 
+low-skilled, the opportunity to earn stackable credentials with value in the labor market that lead 
+to high-demand employment and careers. 
+For years, the U.S. Department of Labor has encouraged the development of sector-based job 
+training initiatives that are built around the needs of employers and businesses in specific high
+-
+demand industries. Sector initiatives have existed for at least 25 years, but have gained 
+significant popularity in building regional economies and related workforce development efforts. 
+45
+
+Several high-leverage DOL grant programs have marshaled sector strategies to meet employers’ 
+and individuals’ skill needs. Two of these discretionary grant programs include the Community-
+Based Job Training Grants and the Workforce Innovation in Regional Economic Development 
+grants. A rigorous study found that participation in sector training initiatives resulted in 
+improved consistency of employment, higher wages and hours worked, and greater attainment of 
+jobs with benefits.
+102
+46
+
+The Community-Based Job Training Grants 
+Summary Table 
+Name of Program 
+(timeline) 
+The Community-Based Job Training Grants (CBJTG) (2005– 
+2010) 
+Targeted Population The current and future workforce 
+Major Purpose of 
+Program 
+To train workers and build the capacity of community colleges 
+to meet the skill needs of industry in high-demand occupations. 
+Partners Employers, workforce systems, school districts, community 
+colleges, and other stakeholders 
+Funding Source(s) U.S. Department of Labor 
+Notable 
+Achievements/Outcomes 
+Development of career ladders or occupational pathways that 
+required articulation arrangements.103 Formation of strong 
+local partnerships. 
+For Further Information 
+(website or publication) 
+http://wdr.doleta.gov/research/FullText_Documents/ETAOP_2 
+013_18.pdf 
+Community-Based Job Training Grant (CBJTG) grantees partnered with employers, workforce 
+investment boards, school districts, and other stakeholders to build the capacity of community 
+and technical colleges for training workers in high-growth occupations. The DOL provided 
+funding to 279 initiatives in 49 states between 2005 and 2009. 
+A broad range of industries were served by the grant-funded initiatives, including healthcare, 
+advanced manufacturing, aerospace/aviation, construction, energy, and transportation. Nearly 90 
+percent of grantees provided for-credit courses that would lead to a degree or certificate, but 
+many participants indicated that it was important to have a mix of short- and long-term training 
+programs so that students could experience success quickly. Many grant recipients also 
+developed and employed distance learning, online programs, and work-based learning, including 
+simulation labs, internships, work-study, on-the-job training, and apprenticeships. A key strategy 
+was to integrate industry-recognized credentials into academic degrees or CTE certificates. 
+In the project evaluation, the Urban Institute found that many grantees developed career ladders 
+that articulated dual enrollment for high school students as well as credit 
+between community 
+and technical colleges and four-year colleges and experience-based articulations that allowed 
+47
+
+students to earn credit for skills mastered on-the-job.”104 Other findings from the program 
+evaluation included: the importance of industry partnerships; the importance of peer-to-peer 
+partnerships; the need for longer startup time for sector-based training programs; and the 
+importance of supports for low-income, low-skilled participants. 
+48
+
+The Workforce Innovation in Regional Economic Development 
+(WIRED) Initiative 
+Summary Table 
+Name of Program 
+(timeline) 
+The Workforce Innovation in Regional Economic 
+Development (WIRED) Initiative (2006–2010) 
+Targeted Population K-12, Community colleges, universities 
+Major Purpose of 
+Program 
+The initiative reinforced the economic development strategies 
+of clusters, partnerships, regional competitiveness, and asset 
+mapping. 
+Partners Employers from high-demand industry sectors, economic 
+development, workforce systems, K-12 and postsecondary 
+education systems, private sector funders 
+Funding Source(s) U.S. Department of Labor 
+Notable 
+Achievements/Outcomes 
+Grantees engaged regional stakeholders from multiple sectors 
+to address the challenges associated with building a globally 
+competitive workforce. 
+For Further Information 
+(website or publication) 
+http://www.doleta.gov/pdf/wired%20fact%20sheet.pdf 
+http://wdr.doleta.gov/research/FullText_Documents/ETAOP_2 
+013_22_Interim_Report.pdf 
+The WIRED initiative, launched in November 2005, stressed the critical role that talent 
+development plays in creating effective regional economic development strategies. Three rounds 
+of grants were awarded to 39 grantees across the country. Grantees engaged regional 
+collaboratives featuring broad representation with members of business, workforce development, 
+economic development, education, and government.
+105 
+The WIRED initiative reinforced the economic development strategies of clusters, partnerships, 
+regional competitiveness, and asset mapping (identifying state and/or regional resources and 
+their capacity).
+106 A summary of early evaluations states that WIRED “paint[s] a picture of 
+engaged and effective regional partnerships that are facilitating training (including 
+entrepreneurial activities) and educational pipeline investment, especially in STEM areas.”
+107 
+The second interim report for WIRED’s Generations II and III grantees indicated that regional 
+49
+
+collaboratives had broad representation with members of business, workforce development, 
+economic development, education, and government. Additionally, 90 percent of grantee survey 
+responses indicated: “I feel optimistic about our ability to improve the job skills of our regional 
+workforce” and “The collaborative group includes a diverse range of stakeholders involved in 
+many different aspects of regional transformation.” Finally, participants believed that the work 
+was beginning to yield “positive outcomes” and generally rated their regional collaborative as 
+“midway on a continuum between coordination and cooperation.”
+108
+Anecdotal information indicates that the WIRED initiative made many contributions to today’s 
+regional sector-based work. 
+50
+
+Breaking Through Initiative 
+Summary Table 
+Name of Program 
+(timeline) 
+Breaking Through Initiative (2005–2009) 
+Targeted Population Low-skilled adults 
+Major Purpose of 
+Program 
+Prescribed specific “high-leverage” strategies for institutions to 
+improve low-skilled adults’ entry into and completion of 
+occupational and technical programs. 
+Partners Community colleges including: Central New Mexico 
+Community College; Community College of Denver; 
+Cuyahoga Community College; Owensboro Community and 
+Technical College; Portland Community College; and 
+Southeast Arkansas College, Arkansas 
+Ten participating learning colleges including: Cerritos College; 
+Community College of Southern Nevada; Houston Community 
+College; LaGuardia Community College; Mott Community 
+College; Northampton Community College; North Shore 
+Community College; Piedmont Community College; 
+Tallahassee Community College; and York County 
+Community College. 
+Funding Source(s) The Charles Stewart Mott Foundation; The North Carolina 
+GlaxoSmithKline Foundation; The Ford Foundation; The Bill 
+& Melinda Gates Foundation; The Walmart Foundation 
+Notable 
+Achievements/Outcomes 
+Evaluation results demonstrate high rates of certificate 
+attainment, entry into credit pathways, and positive 
+employment outcomes.
+109 
+For Further Information 
+(website or publication) 
+http://www.jff.org/initiatives/breaking-through 
+http://occrl.illinois.edu/sites/default/files/BT_Final_Report_12-
+20-08(2)[1]_0.pdf 
+The Breaking Through initiative prescribed specific “high-leverage” strategies for institutions to 
+improve low-skilled adults’ entry into and completion of occupational and technical programs, 
+thus leading to credentials and improved employment outcomes. The four “high-leverage” 
+51
+
+strategies were: accelerating learning; comprehensive supports for students; labor market payoffs 
+(e.g., connecting skills with labor market needs, career awareness, and “chunking” training into 
+shorter segments with “stackable” credentials); and aligning programs for low-skilled adults.
+110 
+The models present in Breaking Through colleges included developmental bridge programs 
+(linking developmental education to credit-bearing courses), Career Pathways, and professional-
+technical bridge programs (linking developmental education to technical training programs).
+111 
+While the initial phase of Breaking Through centered on institutional practices and programs, 
+later work has focused on policy changes, scale, and evaluation of practices. 
+The program evaluation of Breaking Through reported the following results from 2006 to 2009: 
+•	 78 percent of participants completed their Breaking Through programs and entered credit 
+pathways in construction, nursing, nurse assistant certificatio
+n, and manufacturing. 
+•	 78 percent of students who were unemployed before starting a Breaking Through career 
+pathway program were employed—72 percent in their career pathway field. 
+•	 47 percent of the students who started in 2006 earned at least one certificate; 14 percent 
+earned an Associate’s degree in a high-demand field. 
+•	 87 percent of the initial group of students were employed; 97 percent of those employed 
+were working in the field of their pathway program. 112 
+52
+
+Programs of Study 
+Summary Table 
+Name of Program 
+(timeline) 
+Programs of Study (POS) (2006–Present) 
+Targeted Population Secondary and postsecondary CTE students 
+Major Purpose of 
+Program 
+Legislative requirement to establish POS as defined in Perkins 
+IV 
+Partners Secondary and postsecondary CTE systems 
+Funding Source(s) U.S. Department of Education 
+Notable 
+Achievements/Outcomes 
+Offering guidance to the field regarding the legislative 
+definition of programs of study; providing new grant 
+opportunities in rigorous programs of study. 
+For Further Information 
+(website or publication) 
+http://cte.ed.gov/initiatives/programs-of-study 
+The 2006 reauthorization of the Carl D. Perkins Career and Technical Education Act (Perkins 
+IV) emphasized the importance of aligning secondary and postsecondary CTE programs by 
+requiring states and local recipients of funds to create career and technical Programs of Study 
+(POS), as defined in the “Perkins IV Programs of Study Requirements” box. 
+Perkins IV Programs of Study Requirements, section 122(c)(1)(A): 
+• Incorporate secondary and postsecondary elements 
+•	 Include coherent and rigorous content aligned with challenging academic standards 
+and relevant career and technical content in a coordinated, non-duplicative progression 
+of courses that align secondary to postsecondary education 
+•	 May include dual or concurrent enrollment programs or other ways to acquire 
+pos
+tsecondary education credit 
+•	 Lead to an industry-recognized credential or certificate at the postsecondary level, or 
+a
+n Associate’s or Baccalaureate degree 
+53
+
+Rigorous Programs of Study Through Statewide Articulation 
+Agreements 
+Summary Table 
+Name of Program 
+(timeline) 
+Promoting Rigorous Programs of Study through Statewide 
+Articulation Agreements (RPOS1) (2008–2009) 
+Targeted Population CTE secondary and postsecondary students 
+Major Purpose of 
+Program 
+OCTAE awarded two-year competitive grants to six states to 
+develop rigorous POS and then to institutionalize those POS 
+models through statewide articulation agreements. 
+Partners Secondary and postsecondary CTE systems in Florida, Hawaii, 
+Indiana, Nebraska, New Hampshire, and South Carolina 
+Funding Source(s) U.S. Department of Education 
+Notable 
+Achievements/Outcomes 
+The RPOS1 project emphasized four POS components that 
+later became part of the POS Design Framework released by 
+OCTAE in 2010: partnerships; policies and procedures; college 
+and career readiness standards; and course sequences. 
+For Further Information 
+(website or publication) 
+http://cte.ed.gov/nationalinitiatives/rposdesignframework.cfm 
+OCTAE made the expansion of high-quality POS a focus of its technical assistance efforts. The 
+2008 Promoting Rigorous Programs of Study through Statewide Articulation Agreements 
+(RPOS1) initiative was among the first of these national efforts. This two-year competitive grant 
+program funded six states to develop a new or existing CTE program into a rigorous POS that 
+included the opportunity for students to earn postsecondary credits in high school. The funded 
+states were required to establish a partnership to guide development of the POS. 
+At a minimum, the Partnerships included: the state agencies responsible for the administration of 
+CTE, secondary education, and postsecondary education; at least one state workforce agency; 
+and representatives of employers and of faculty and administrators from the state’s secondary 
+and postsecondary education institutions who were familiar with the CTE courses, industry-
+recognized standards, or technical skill proficiencies that were to be embedded in the POS. 
+54
+
+Grantees focused on POS development in the following areas: 
+• Florida: health sciences and manufacturing (biotechnology) 
+• Hawaii: marketing, entrepreneurship, and retail 
+• Indiana: transportation, distribution, and logistics 
+• Nebraska: transportation, distribution, and logistics 
+• New Hampshire: finance and health sciences 
+• South Carolina: engineering technology and mechatronics 
+Following the RPOS1 grant program, OCTAE worked with states, national associations, and 
+other partners to develop a “Programs of Study Design Framework.” Through this work, 10 
+essential components and subcomponents were established for the development of high
+-quality 
+POS that lead to postsecondary education and careers in high-demand occupations. 
+Programs of Study–10 Essential Components: 
+• Legislation and policies 
+• Partnerships 
+• Professional development 
+• Accountability and evaluation systems 
+• College and car eer readiness standards 
+• Course sequences 
+• Credit transfer agreements 
+• Guidance, counseling, and academic advisement 
+• Teaching and learning strategies 
+• Technical skills assessment 
+55
+
+Promoting Rigorous Programs of Study 
+Summary Table 
+Name of Program 
+(timeline) 
+Promoting Rigorous Programs of Study (RPOS2) (2010–2014) 
+Targeted Population CTE secondary and postsecondary students 
+Major Purpose of 
+Program 
+The funded states were required to develop rigorous programs 
+of study (RPOS) that incorporated the 10 key components of 
+effective programs identified in the POS Design Framework. 
+Partners Arizona, Kansas, Maryland, Montana, Utah, and Wisconsin 
+Funding Source(s) U.S. Department of Education 
+Notable 
+Achievements/Outcomes 
+Project states are working with state and local partners to 
+further students’ transitions from secondary to postsecondary 
+education or employment. States and localities have policies to 
+incentivize implementation of the POS Design Framework. 
+Partnerships among academic and CTE teachers at secondary 
+and postsecondary levels, and business and industry partners 
+are stronger and sustainable. Career guidance initiatives were 
+launched. Participating states’ capacity for effective use of data 
+has expanded, but challenges remain to fully operationalize 
+state longitudinal data systems. 
+113
+For Further Information 
+(website or publication) 
+http://cte.ed.gov/docs/RPOS_Y3_Rpt_10022013_Final.pdf 
+http://cte.ed.gov/nationalinitiatives/rpos_grants_overview.cfm 
+OCTAE launched RPOS2 in 2010 to assess the contribution of CTE Programs of Study on 
+secondary students’ educational outcomes at the secondary and postsecondary levels. 
+Participating states were tasked with implementing rigorous programs of study (RPOS) in 
+accordance with OCTAE’s Programs of Study Design Framework.
+114 State-level CTE staff in 
+each state worked with three or more secondary local education agencies (LEAs) in urban, 
+suburban, and rural locations, and one or more partnering postsecondary institutions, to 
+implement a POS in a targeted CTE program. 
+56
+
+Grantees focused on POS development in the following areas: 
+• Arizona: education and training 
+• Kansas: advanced manufacturing 
+• Maryland: transportation, distribution, and logistics 
+• Montana: architecture and construction 
+• Utah: health sciences 
+• Wisconsin: advanced manufacturing115 
+The implementation efforts embedded in the project enabled states to design, implement, and 
+evaluate their CTE programs through data collection and analysis. Project activities included 
+teacher professional development and coaching to integrate literacy and math skills into CTE 
+coursework, opportunities for CTE students to earn postsecondary credits in high school, and the 
+development of new technical skill assessments. Increased emphasis was placed on career 
+guidance by creating personalized plans of study for CTE students. Technical assistance to 
+participating states focused on performance measurement and how to collect and analyze state 
+longitudinal data on program outcomes for program improvement. 
+57
+
+Shifting Gears
+ 
+Summary Table
+ 
+Name of Program 
+(timeline) 
+Shifting Gears (2007–2011) 
+Targeted Population Low-skilled workers 
+Major Purpose of 
+Program 
+To aid participating states in adopting innovative strategies and 
+changing policies to better serve low-skilled workers in the 
+Adult Basic Education, workforce development, and 
+community and technical college systems. 
+Partners Illinois, Indiana, Michigan, Minnesota, Ohio, and Wisconsin 
+Funding Source(s) The Joyce Foundation 
+Notable 
+Achievements/Outcomes 
+By the end of the five-year period, four of the six Shifting 
+Gears states had implemented innovative Career Pathways and 
+bridge programs to serve low-skilled adults.
+116 
+For Further Information 
+(website or publication) 
+http://www.joycefdn.org/shifting -gears/shifting-gears-
+overview/ 
+Shifting Gears, funded by The Joyce Foundation, supported six Great Lakes states to implement 
+a systems change agenda, aligning Adult Basic Education, workforce development, and 
+community/technical colleges in order to improve low-skilled adults’ postsecondary credential 
+attainment. Through the initiative, four of the states: served 4,000 low-skilled adults; adopted 
+Career Pathways approaches—with “bridges” linking Adult Basic Education programs with 
+postsecondary education and training; and had substantial “system penetration” of innovation, 
+rather than discrete institutional innovations.
+117 
+Illinois developed an Adult Basic Education bridge that integrates and connects basic skills with 
+postsecondary occupational education in key industry sectors, and involves customized 
+instruction, career development, and student transition services. Indiana created a career pathway 
+strategy, known as WorkINdiana, which provides Adult Basic Education students with access to 
+targeted pre-postsecondary occupational training, leading to certifications valued in the labor 
+market and that apply for credit at Ivy Tech Community College. Wisconsin implemented a 
+career pathway and bridge program, known as RISE (Regional Industry Skills Education), which 
+58
+
+integrates basic skills and occupational instruction at the community college for adult education 
+participants.118 
+59
+
+Policy to Performance 
+Summary Table 
+Name of Program 
+(timeline) 
+Policy to Performance (2009–2012) 
+Targeted Population Low-skilled adults 
+Major Purpose of 
+Program 
+To expand the capacity of states to develop, implement, and 
+evaluate data-based policies that support adult learners’ 
+transitions. 
+Partners Alabama, California, Louisiana, Massachusetts, New York, 
+Texas, Virginia, and Wisconsin 
+Funding Source(s) U.S. Department of Education 
+Notable 
+Achievements/Outcomes 
+All of the project states enhanced ABE transitions to 
+postsecondary education or employment, identified transition 
+practices that can assist ABE learners in moving to a next step, 
+and specified policies or guidelines to direct and guide 
+transition activities.
+119 
+For Further Information 
+(website or publication) 
+http://www2.ed.gov/rschstat/eval/sectech/factsheet/supporting 
+-states-development.html 
+OCTAE’s Policy to Performance project was designed to advance states’ systems change and 
+policy development efforts to help adults make transitions from ABE to postsecondary 
+education, training, and employment. Policy to Performance provided state ABE agencies with 
+strategies and tools to work with other agency partners, such as higher education and workforce 
+development partners, to align services and policies toward a coherent set of activities 
+comprising state ABE transition systems. 
+The findings from a Policy to Performance evaluation indicated that partnership development 
+was “a critical process for ABE state leaders to increase coordination in the delivery of local 
+transition services, expand resources, and position adult education as a significant component of 
+a comprehensive state education and training system.”
+120 Challenges identified in the report 
+included the availability of evidence-based practices regarding ABE transition approaches, as 
+60
+
+well as variability in the approaches used in pilot tests within a state, making larger scale 
+conclusions difficult.121 
+61
+
+The Trade Adjustment Assistance Community College and Career 
+Training (TAACCCT) 
+Summary Table 
+Name of Program 
+(timeline) 
+The Trade Adjustment Assistance Community College and 
+Career Training (TAACCCT) Grant Program (2010–Present) 
+Targeted Population Trade-impacted dislocated workers 
+Major Purpose of 
+Program 
+Provides community colleges and other eligible institutions of 
+higher education with multi-year grants to expand and improve 
+their ability to deliver education and training that meets the 
+skill needs of high-demand employers for trade-impacted 
+dislocated workers. 
+Partners Community colleges, employers, and other partners 
+Funding Source(s) U.S. Department of Labor 
+Notable 
+Achievements/Outcomes 
+The first three rounds of TAACCCT grants have served more 
+than 800 colleges to build their capacity (through innovation 
+and evidence-based strategies) to prepare participants for 
+employment in high-skill, in-demand occupations. 
+For Further Information 
+(website or publication) 
+http://www.doleta.gov/taaccct/ 
+In 2010, Congress authorized $2 billion over four years to fund the TAACCCT program. 
+TAACCCT provides community colleges and other eligible institutions of higher education with 
+multi-year grants to expand and improve their ability to deliver education and career training 
+programs that: a) can be completed in two years or less; b) are suited for workers who are 
+eligible for training under the TAA for Workers program; and c) prepare program participants 
+for employment in high-wage, high-skill occupations. The Department of Labor is implementing 
+the TAACCCT program in partnership with ED. 
+The first three rounds of TAACCCT grants have served more than 800 colleges. Key goals 
+identified in the early rounds were to: accelerate progress for low-skilled workers, improve 
+retention and achievement rates and/or reduce time to completion, build programs that meet 
+industry needs, and strengthen online and technology-enabled learning. The final round was 
+62
+
+designed to scale Career Pathways, sector-based initiatives, work-based learning offerings and 
+improve the way data is used in assessing programs throughout the country. 
+63
+
+Career Pathways Technical Assistance Initiative 
+Summary Table 
+Name of Program 
+(timeline) 
+Career Pathways Technical Assistance Initiative (2010–2011) 
+Targeted Population Low-skilled adults 
+Major Purpose of 
+Program 
+To assist states in developing Career Pathways systems. 
+Partners Kansas, Kentucky, Maryland, Minnesota, Montana, New 
+Mexico, Ohio, Pennsylvania, Virginia, Gila River Indian 
+Community (Arizona), and Tucson Indian Center (Arizona) 
+Funding Source(s) U.S. Department of Labor 
+Notable 
+Achievements/Outcomes 
+Carried out two institutes, a web-based community of practice, 
+and built a Career Pathways toolkit (including a readiness 
+assessment) to provide technical assistance to states and local 
+communities in developing Career Pathways systems.
+122
+For Further Information 
+(website or publication) 
+https://learnwork.workforce3one.org/ 
+In 2010 and 2011, DOL carried out a technical assistance initiative, in collaboration with ED and 
+HHS, that assisted nine states and two Native American entities in developing Career Pathways 
+programs and systems. As part of this project, the departments used the “Career Pathways: Six 
+Key Elements” as a centerpiece of its technical assistance strategy. The Career Pathways Toolkit 
+was originally developed through this initiative and is still used today. The initiative informed 
+the joint letter providing a common definition and framework for Career Pathways systems that 
+was later developed and signed by DOL, ED, and HHS in April of 2012.
+123
+64
+
+The Workforce Innovation Fund (WIF) 
+Summary Table 
+Name of Program 
+(timeline) 
+The Workforce Innovation Fund (WIF) (2011–Present) 
+Targeted Population Participants in programs administered by the Employment and 
+Training Administration (ETA), US DOL 
+Major Purpose of 
+Program 
+Evidence-based workforce practices. 
+Partners ETA eligible formula and discretionary grant recipients 
+Funding Source(s) U.S. Department of Labor 
+Notable 
+Achievements/Outcomes 
+The 26 grantees are responsible for their own program 
+evaluations. A national evaluation coordinator is in place to 
+ensure high-quality evaluations by assisting evaluators with 
+the evaluation design and tools, facilitating communication 
+among evaluators, and conducting analyses across studies.
+124 
+For Further Information http://innovation.workforce3one.org 
+The Workforce Innovation Fund (WIF) is the DOL’s grant program focused on promoting 
+evidence-based and innovative strategies for improving services and programming in the 
+nation’s workforce investment system. This grant program for states and local WIA funding 
+recipients encourages the development and implementation of proven and innovative strategies 
+similar to those in the TAACCCT grants, such as Career Pathways, sector-based initiatives, 
+work-based learning, creative uses of technology, and Pay for Success. These grants also stress 
+the importance of collecting and sharing data to increase system performance and management. 
+The end goals are improved outcomes and reduced costs for workforce organizations, as well as 
+system innovation and improvement. Through these grants, DOL is providing additional and 
+more flexible resources, but also trying to “remove administrative, statutory, and regulatory 
+barriers to support greater coordination in the delivery of services, particularly among agencies 
+and programs with overlapping missions and clients.”
+125 
+Evaluation efforts are ongoing; data is not yet available. 
+65
+
+Pathways to Prosperity Network 
+Summary Table 
+Name of Program 
+(timeline) 
+Pathways to Prosperity Network (2011–Present) 
+[Nonprofit/Philanthropy] 
+Targeted Population High school students 
+Major Purpose of 
+Program 
+To create statewide 9-14 systems of Career Pathways that 
+ensure more youth complete high school, attain postsecondary 
+credentials aligned with LMI, and enter into careers. 
+Partners State and local secondary and postsecondary education systems 
+in: Arizona, California, Delaware, Georgia, Illinois, 
+Massachusetts, Missouri, New York, Ohio, and Tennessee 
+Funding Source(s) The Carnegie Corporation of New York, The James Irvine 
+Foundation, The Joyce Foundation, SAP, U.S. Department of 
+Labor 
+Notable 
+Achievements/Outcomes 
+Recent publication detailing states’ practices and 
+recommended policies to support 9-14 systems. 
+For Further Information 
+(website or publication) 
+http://www.jff.org/initiatives/pathways -prosperity-network 
+In 2011, the Harvard Graduate School of Education released a report, Pathways to Prosperity: 
+Meeting the Challenge of Preparing Young Americans for the 21st Century, that called for an 
+intensive effort on the part of employers, educators, and government leaders to build st
+atewide 9-
+14 systems that link work and learning, are aligned with regional labor market demand, and help 
+ensure that young people have the skills and credentials they need to succeed. 
+Support for the 
+report evolved into the Pathways to Prosperity Network, through which ten states are launching 
+or dramatically expanding Pathways initiatives that combine rigorous academics with technical 
+education and work-based learning. Key sectors identified for building Career Pathways include 
+STEM fields including information technology, health care, and advanced manufacturing. 
+Pathways to Prosperity recently identified lessons from its work in 2012 to 2014, finding that: 
+“Effective programs” offer real-world application of skills that employers value; community 
+colleges may help build pathways beginning as early as ninth grade; employer participation by 
+66
+
+sector is key; system and resource alignment is critical; academic and CTE programs must be 
+integrated; and workforce-based learning is critical.126 
+67
+
+Accelerating Opportunity 
+Summary Table 
+Name of Program 
+(timeline) 
+Accelerating Opportunity (2012–Present) 
+[Nonprofit/Philanthropy] 
+Targeted Population Low-skilled adults 
+Major Purpose of 
+Program 
+Multi-state reform effort that uses Career Pathways to change 
+the way adult education and other education and workforce 
+services are provided to low-skilled individuals. 
+Partners State adult and postsecondary education systems in: 
+Design Phase—Alabama, Georgia, Illinois, Kansas, Kentucky, 
+Louisiana, Mississippi, New Mexico, North Carolina, Oregon, 
+and Wisconsin 
+Implementation Phase—Arkansas, Georgia, Illinois, Kansas, 
+Kentucky, Louisiana, and Mississippi 
+Funding Source(s) Bill & Melinda Gates Foundation, The Joyce Foundation, W.F. 
+Kellogg Foundation, Kresge Foundation, Open Society 
+Foundation, The Annie E. Casey Foundation, The University 
+of Phoenix Foundation, The Blank Foundation 
+Notable 
+Achievements/Outcomes 
+Thirty-seven percent of all Accelerating Opportunity students 
+are earning 12 or more college credits. In Kentucky, 68 percent 
+of Accelerating Opportunity students are earning a credential, 
+compared to 9 percent of the comparison group. 
+Since January 2012, Kansas community and technical colleges 
+have enrolled over 3,500 students in over 30 career pathway 
+programs. To date, these students have earned over 4,000 
+industry-recognized credentials in areas such as healthcare, 
+welding, manufacturing and aero-structures. Over 1,150 
+students have completed a 12-credit hour pathway and 910 are 
+employed.
+127 
+For Further Information 
+(website or publication) 
+http://www.jff.org/initiatives/accelerating -opportunity 
+68
+
+Accelerating Opportunity aims to improve postsecondary credential attainment for low-skilled 
+adults, breaking the cycle of poverty by combining Adult Basic Education and career and 
+technical training into an integrated curriculum supplemented by embedded student supports— 
+merging lessons learned and best practices from Breaking Through and Washington’s I-BEST 
+program.
+128 Early data from Accelerating Opportunity show that the initiative is producing 
+similar outcomes to those in Washington’s I-BEST program: 37 percent of all Accelerating 
+Opportunity students are earning 12 or more college credits and in Kentucky, 68 percent of 
+Accelerating Opportunity students are earning a credential, relative to 9 percent of the 
+comparison group. 
+69
+
+The Alliance for Quality Career Pathways 
+Summary Table 
+Name of Program 
+(timeline) 
+The Alliance for Quality Career Pathways (AQCP) (2012– 
+2014) 
+Targeted Population All Career Pathways students/participants 
+Major Purpose of 
+Program 
+The Alliance’s goal is to help state and local/regional 
+partnerships strengthen Career Pathways systems by 
+identifying common performance metrics. 
+Partners Arkansas, California, Illinois, Kentucky, Massachusetts, 
+Minnesota, Oregon, Virginia, Washington, and Wisconsin 
+Funding Source(s) The Joyce Foundation, The Irvine Foundation, Greater Twin 
+Cities United Way 
+Notable 
+Achievements/Outcomes 
+The Alliance framework provides a clear set of criteria and 
+indicators for what constitutes a quality state and local/regional 
+Career Pathways system, as well as metrics to assess 
+participant progress and success. The framework is designed to 
+help Career Pathways partners continuously improve their 
+systems. 
+For Further Information 
+(website or publication) 
+http://www.clasp.org/issues/postsecondary/pages/aqcp -
+framework-version -1-0 
+The Alliance for Quality Career Pathways—administered by the Center for Law and Social 
+Policy (CLASP) and funded by The Joyce Foundation, The Irvine Foundation, and Greater Twin 
+Cities United Way—worked with states to identify essential features and functions of Career 
+Pathways and identify metrics for measuring the quality of state and local Career Pathways 
+systems. The AQCP focused on helping states in the more advanced stages of Career Pathways 
+development to analyze and evaluate the components of their systems. 
+Phase I of the AQCP work (July 2012 through May 2014) was to develop a consensus 
+framework that includes criteria and performance indicators of quality Career Pathways systems 
+and a set of interim and outcome metrics for measuring and managing Career Pathways 
+70
+
+participant progress and success. CLASP and the AQCP states endeavored to align their work 
+with the Career Pathways framework developed by ED, DOL, and HHS. 
+71
+
+Appendix B: Federal Career Pathways TA/Grants 
+The following federal Career Pathways technical assistance initiatives are underway to assist 
+states in moving their Career Pathways system development efforts forward. All of these 
+initiatives use the joint framework and are augmenting existing tools from the DOL’s Career 
+Pathways Toolkit to guide the technical assistance that is provided and incorporate best practices 
+and lessons learned. 
+72
+
+Advancing Career and Technical Education (CTE) in State and 
+Local Career Pathways Systems 
+Summary Table 
+Name of Project 
+(timeline) 
+Advancing CTE in Career Pathways (2012–2015) 
+Targeted Population All individuals who benefit from participation in Career 
+Pathways systems (e.g., secondary CTE students, out-of-school 
+youth, low-skilled adults, dislocated workers, existing workers) 
+Major Purpose of Project Phase I: To assist states in integrating their CTE programs of 
+study with state and local Career Pathways development 
+efforts. 
+Phase II: To assist in developing Career Pathways in 
+transportation. 
+Partners State and local CTE, K-12, adult and postsecondary education, 
+workforce, human services, economic development, and other 
+system stakeholders (including employers) in Colorado, 
+Kansas, Massachusetts, Minnesota, and Oregon 
+Funding Source(s) U.S. Department of Education 
+U.S. Department of Transportation 
+Anticipated Outcomes Developing comprehensive Career Pathways systems that 
+include CTE programs of study 
+For Further Information 
+(website or publication) 
+http://cte.ed.gov/nationalinitiatives/advancing_cte.cfm 
+This OCTAE project is assisting five states and participating local areas to integrate or align their 
+POS with state and local Career Pathways system development efforts. 
+Work began with identifying commonalities in definitions, key elements, and components of 
+POS and Pathways. The contractor, Jobs for the Future, developed a crosswalk that showed 
+significant similarities between the two frameworks, and used that information to build an 
+integrated model through which the work of CTE programs of study can be aligned with the 
+work underway in developing and implementing broader Career Pathways systems. 
+73
+
+To date, the five participating states, Colorado, Kansas, Massachusetts, Minnesota, and Oregon, 
+are making progress including: 
+• Incorporating state and local CTE systems into broader Career Pathways system
+development efforts
+• Increasing the use of LMI to identify high-demand industry sectors and occupations upon
+which to build education and training programs
+• Building-out employer engagement strategies to increase buy
+-in of business and industry
+for pathways development
+• Developing comprehensive Career Pathways in high-demand occupations—from
+secondary to and through postsecondary education and training that results in industry-
+recognized credentials
+• Deploying cross-system data and performance metrics that will assist states and
+communities to build high-quality systems that measure system-wide performance and
+efficacy of interventions
+• Leveraging and braiding cross-system resources 74
+
+Moving Pathways Forward:
+ 
+Supporting Career Pathways Integration
+ 
+Summary Table 
+Name of Project 
+(timeline) 
+Moving Pathways Forward: Supporting Career Pathways 
+Integration (2013–2016) 
+Targeted Population Low-skilled adults 
+Major Purpose of Project To provide transitions for low-skilled adults to the 21st-century 
+workforce. 
+Partners State adult education, CTE, K-12, and postsecondary 
+education, workforce, human services, economic development, 
+and other system stakeholders (including employers) 
+Funding Sources U.S. Department of Education 
+Anticipated Outcomes Technical assistance services will be available to assist states 
+in developing and implementing their Career Pathways 
+systems and facilitating local programs’ provision of Career 
+Pathways services. 
+For Further Information 
+(website or publication) 
+https://lincs.ed.gov/programs/movingpathways/technical-
+assistance 
+OCTAE is implementing a new technical assistance initiative to support states in advancing 
+Career Pathways systems that will provide transitions for low-skilled adults to employment. 
+Moving Pathways Forward: Supporting Career Pathways Integration is a three-year project that 
+is providing three levels of tiered assistance: a national online information exchange, tier 1, and 
+customized TA to two state cohorts, tiers 2 and 3, for developing and advancing their Career 
+Pathways systems. This work is building on previous federal and state investments, including 
+OCTAE’s earlier Pathways to Performance investment. 
+Intensive TA is being provided to 14 states through tier 3 of the project: Indiana, Iowa, 
+Kentucky, Michigan, Minnesota, Montana, New Jersey, Ohio, Oregon, Rhode Island, Virginia, 
+West Virginia, and Wisconsin. States receiving TA will have access to: customized virtual 
+support to enhance and/or expand existing Career Pathways system activities; subject matter 
+expertise to assist in addressing state-specific challenges; and opportunities to share with and 
+learn from other states in other stages of Career Pathways systems development.
+129
+75
+
+Career Pathways Policy Academies 
+Summary Table 
+Name of Project 
+(timeline) 
+Career Pathways Policy Academies (2014–Present) 
+Targeted Population TANF recipients 
+Major Purpose of Project To provide Career Pathways opportunities for TANF 
+recipients. 
+Partners State TANF agencies 
+Funding Sources U.S. Department of Health and Human Services 
+Anticipated Outcomes Enabling TANF agencies to better understand and integrate 
+with Career Pathways efforts within their states. 
+For Further Information 
+(website or publication) 
+www.acf.hhs.gov 
+The Administration for Children and Families, U.S. Department of Health and Human Services, 
+is developing Career Pathways Policy Academies, contracted through ICF International. This 
+project will provide customized technical assistance to two separate state cohorts to help TANF 
+agencies better understand Career Pathways strategies and integrate them into funded 
+employment and training activities. To date the Academies have produced two initiatives: the 
+Pathways to Family Stability initiative and the Families 2gether initiative; both programs are 
+providing TA to three to five states. 
+76
+
+Credentials and Career Pathways Technical Assistance Project 
+Summary Table 
+Name of Project 
+(timeline) 
+Credentials and Career Pathways Technical Assistance Project 
+(2014–2015) 
+Targeted Population All individuals, especially out-of-school youth and low-skilled 
+adults 
+Major Purpose of Project To assist states in developing and expanding Career Pathways 
+systems. 
+Partners Career Pathways stakeholders 
+Funding Sources U.S. Department of Labor 
+Anticipated Outcomes Increased participation of workforce system grantees in Career 
+Pathways 
+For Further Information 
+(website or publication) 
+https://learnwork.workforce3one.org 
+In 2014, the Employment and Training Administration began work with Manhattan Strategies 
+Group (MSG) to encourage further adoption of the interagency Career Pathways framework. 
+Their work includes: hosting a national convening of thought leaders to discuss policies that 
+support implementation of Career Pathways (September 2014); launching a national peer 
+network—Pathways to Success; working to refresh the existing Career Pathways model and 
+toolkit using state champions and subject matter experts; and then disseminating information on 
+these new tools once developed, so workforce systems will be better able to effectively 
+implement Career Pathways in their states and local areas. Given the recent passage of WIOA, 
+Career Pathways technical assistance to be provided under this project is being reframed to align 
+with all of the major strategies endorsed by the law, including sector strategies and credential 
+attainment. 
+77
+
+Youth Career Connect 
+Summary Table 
+Name of Project (timeline) Youth Career Connect (2014–2015) 
+Targeted Population High School Students—encouraging participation of low-
+income and underrepresented students. 
+Major Purpose of Project Grants to local partnerships for scaling evidence-based high 
+school models that will more fully prepare youth with the 
+knowledge, skills, and industry-relevant education needed for 
+pathways to successful careers. 
+Partners Local education agencies, workforce investment boards, 
+institutions of higher education, and employers 
+Funding Source(s) U.S. Department of Labor 
+U.S. Department of Education 
+Anticipated Outcomes Prepare youth with the knowledge, skills, and industry-relevant 
+education needed for pathways to successful careers. 
+For further information 
+(website or publication) 
+http://www.doleta.gov/ycc/ 
+Using revenues from the H-1B visa program in 2014, the DOL awarded $107 million in 24 new 
+grants ranging from $2.2 million to $7 million to local partnerships for projects in 2014-15 that 
+would scale up evidence-based high school models to transform teaching and learning. Youth 
+Career Connect grantees will incorporate project-based learning in high-demand STEM fields, 
+requiring high-level employer engagement, as well as integrate industry-recognized credentials 
+and postsecondary education into high school curricula. Grantees will also feature strong 
+partnerships that provide work-based learning opportunities, exposure to different career paths, 
+mentors for students as well as professional development for staff, and individualized career and 
+academic counseling for students. 
+78
+
+Endnotes
+ 
+1 U.S. Bureau of Labor Statistics. 2015. The Employment Situation—March 2015 . Available at: 
+http://www.bls.gov/news.release/empsit.nr0.htm 
+2 U.S. Bureau of Labor Statistics. 2014. Employment and Unemployment Among Youth—Summer 
+2014. Available at: http://www.bls.gov/news.release/pdf/youth.pdf 
+3 Dann-Messier, Brenda, Jane Oates & George Sheldon. 2012. Joint Commitment Letter From 
+U.S. Departments of Education, Health and Human Services, and Labor. Available at: 
+http://cte.ed.gov/docs/RPOS_2012/Joint_Letter_Career_Pathways.pdf 
+4 See: Dann-Messier et al. (2012). 
+5 U.S. Bureau of Labor Statistics. 2015. The Employment Situation—March 2015 . Available at: 
+http://www.bls.gov/news.release/empsit.nr0.htm 
+6 Office of the Vice President of the United States. 2014. Ready to Work: Job-Driven Training 
+and American Opportunity. Available at: 
+https://www.whitehouse.gov/sites/default/files/docs/skills_report.pdf 
+7 U.S. Departments of Commerce, Education, Health and Human Services, and Labor. 2014. 
+What Works in Job Training: A Synthesis of Evidence. Available at: 
+http://www.dol.gov/asp/evaluation/jdt/jdt.pdf 
+8 See: Office of the Vice President of the United States (2014). 
+9 See: Dann-Messier et al. (2012). 
+10 See: Dann-Messier et al. (2012). 
+11 Carnevale, Anthony P., Nicole Smith & Jeff Strohl. “Recovery: Job Growth and Education 
+Requirements Through 2020.” Center on Education and the Workforce, Georgetown University. 
+June 2013. 
+12 See: Carnevale et al. (2013). 
+79
+
+13 ManpowerGroup. 2013. Talent Shortage Survey. Available at: 
+http://www.manpowergroup.us/campaigns/talent-shortage-2013/ 
+14 Deloitte. 2015. The skills gap in U.S. manufacturing: 2015 and beyond. Available at: 
+http://www2.deloitte.com/content/dam/Deloitte/us/Documents/manufacturing/us-pip-the-
+manufacturing-institute-and-deloitte-skills-gap-in-manufacturing-study.pdf 
+15 The Business Roundtable. 2014. Closing the Skills Gap. Available at: 
+http://businessroundtable.org/sites/default/files/reports/BRT-SkillGap.pdf 
+16 OECD Skills Surveys. 2013. http://www.oecd.org/site/piaac/ 
+17 See: OECD Skills Surveys (2013). 
+18 See: OECD Skills Surveys (2013). 
+19 Carnevale, Anthony P., Tamara Jayasundera & Andrew R. Hanson. “Career and Technical 
+Education: Five Ways that Pay.” Center on Education and the Workforce, Georgetown 
+University. September 2012. 
+20 See: Carnevale et al. (2012). Including estimates from the Current Population Survey 2011. 
+Baccalaureate attainment is second among OECD countries, but these numbers do not speak to 
+the attainment of lower-skilled individuals. 
+21 Kuczera, Malgorzata & Simon Field. A Skills beyond School Review of the United States. 
+OECD Reviews of Vocational Education and Training, OECD Publishing. Available at: 
+http://www.oecd.org/edu/skills-beyond-
+school/ASkillsbeyondSchoolReviewoftheUnitedStates.pdf 
+22 OECD. 2013. “Time for the U.S. to Reskill: What the Survey of Adult Skills Says.” OECD 
+Skills Studies, OECD Publishing. Available at: 
+http://skills.oecd.org/Survey_of_Adult_Skills_US.pdf. 
+23 See: OECD (2013). 
+24 Clagett, Mary Gardner & Ray Uhalde. 2012 The Promise of Career Pathways Systems 
+Change. Jobs for the Future: Boston, MA. Available at: 
+http://www.jff.org/sites/default/files/publications/CareerPathways_JFF_Paper_060112.pdf 
+80
+
+25 Hershey, Alan M., Marsha K. Silverberg, Tom Owens & Lara K. Hulsey. 1998 Focus For the 
+Future: The Final Report of the National Tech-Prep Evaluation. Available at: 
+http://www.mathematica-mpr.com/~/media/publications/PDFs/Tech.pdf 
+26 See: Hershey et al. (1998). 
+27 Hershey, Alan M., Marsha. K Silverberg, Joshua Haimson, Paula Hudis & Russell Jackson. 
+1999 Expanding Options for Students: Report to Congress on the National Evaluation of School-
+to-Work Implementation. Available at: http://files.eric.ed.gov/fulltext/ED430094.pdf 
+28 See: Hershey et al. (1999). 
+29 Maguire, Sheila, Joshua Freely, Carol Clymer & Maureen Conway. 2009. “Job Training That 
+Works: Findings from the Sectoral Employment Impact Study.” Public/Private Ventures. Issue 
+7. May. Available at: 
+http://knowledgecenter.completionbydesign.org/sites/default/files/33%20Maguire%202009.pdf 
+30 Hollenbeck, K. & Nancy Hewat. 2012. Partners, Networks, and the Economic Context for 
+Generation II and III WIRED Regions. U.S. Department of Labor, Employment and Training 
+Administration. Available at: 
+http://wdr.doleta.gov/research/FullText_Documents/ETAOP_2013_22_Interim_Report.pdf 
+31 See: Maguire et al. (2009). 
+32 See: Maguire et al. (2009). 
+33 Jenkins, Davis & Sung-Woo Cho. 2013. “Get With the Program … and Finish It: Building 
+Guided Pathways to Accelerate Student Completion.” New Directions for Community Colleges, 
+Issue 164, Winter 2013: 27–35. 
+34 See: Jenkins & Cho (2013). 
+35 See: Jenkins & Cho (2013). 
+36 Bragg, Debra D. & Elisabeth Allanbrook Barnett. 2008. Final Report of the Charles Stewart 
+Mott Breaking Through Initiative. Office of Community College Research and Leadership. 
+Available at: http://occrl.illinois.edu/files/Projects/breaking_through/BT_Final_Report.pdf 
+81
+
+37 Washington State Board for Community & Technical Colleges. 2012. Washington’s 
+Community and Technical Colleges Integrated Basic Education and Skills Training (I-BEST). 
+Available at http://www.sbctc.ctc.edu/college/abepds/WEB_IBESTone-pager_11.5.12.pdf 
+38 Wachen, John, Davis Jenkins, Clive Belfield, & Michelle Van Noy. 2012 Contextualized 
+College Transition Strategies for Adult Basic Skills Students: Learning from Washington State’s 
+I-BEST Program Model. New York, NY: Community College Research Center, Teachers
+College, Columbia University. Available at: http://ccrc.tc.columbia.edu/media/k2/attachments/i-
+best-program-final-phase-report.pdf
+39 Jobs for the Future: Accelerating Opportunity. n.d. http://www.jff.org/initiatives/accelerating-
+opportunity 
+40 The Kansas Board of Regents. 2014. Kansas Initiatives to be Highlighted at White House 
+Event. Available at: 
+http://www.kansasregents.org/about/news_releases/2014_news_releases/503-
+kansas_initiatives_to_be_highlighted_at_white_house_event 
+41 Alamprese, Judith A. 2012. Policy to Performance: State ABE Transition Systems Report. 
+Available at http://lincs.ed.gov/publications/pdf/P2PStateSystemsReport_Nov2012.pdf 
+42 U.S. Department of Labor. 2011. Career Pathways Toolkit. Available at: 
+https://learnwork.workforce3one.org/view/2001135442016073646/info 
+43 Foster, Marcie. 2010. Transmissions, The quarterly e-newsletter for Shifting Gears. Available 
+at: http://archive.constantcontact.com/fs015/1101981639992/archive/1103245466213.html 
+44 Competency Model Clearinghouse. n.d. http://www.careeronestop.org/CompetencyModel 
+45 PCRN National Initiatives: Employability Skills Framework. n.d. 
+http://cte.ed.gov/initiatives/employability-skills-framework 
+46 U.S. Department of Education. 2015. Career Pathways: Approaches for the Delivery of 
+Education, Training, Employment and Human Services. Available at: 
+http://lincs.ed.gov/publications/pdf/CP_RFI.pdf 
+47 See: Office of the Vice President of the United States (2014). 
+82
+
+48 Kemple, James, J. & Cynthia J. Willner. 2008, Career Academies: Long-Term Impacts on 
+Labor Market Outcomes, Educational Attainment, and Transitions to Adulthood. MDRC. 
+Available at: http://www.mdrc.org/sites/default/files/full_50.pdf 
+49 See: Kemple & Willner (2008). 
+50 See: Kemple & Willner (2008). 
+51 Southern Regional Education Board. 2009. High Schools that Work: An Enhanced Design to 
+Get All Students to Standards. Available at: http://publications.sreb.org/2009/05V07-
+R09_HSTW_enhanced_design_2009.pdf 
+52 See: Southern Regional Education Board (2009). 
+53 See: Southern Regional Education Board (2009). 
+54 Kaufman, Phillip, Denise Bradby, & Peter Teitelbaum. 2000. High Schools that Work and 
+Whole School Reform: Raising Academic Achievement of Vocational Completers through the 
+Reform of School Practice. MPR and the National Center for Research in Vocational Education. 
+Available at: 
+http://www.sreb.org/page/1386/high_schools_that_work_and_whole_school_reform.html 
+55 Bottoms, Gene, Alice Presson & Lingling Han. High School Reform Works—When 
+Implemented: A Comparative Study of High- and Low-implementation Schools. Southern 
+Regional Education Board. Available at 
+http://publications.sreb.org/2004/04V06_HighSchoolReformWorks.pdf 
+56 Southern Regional Education Board: Advanced Career. n.d. 
+http://www.sreb.org/page/1608/Advanced_Career.html 
+57 See: Hershey et al. (1998). 
+58 U.S. Department of Education Programs: Tech-Prep Education. n.d. 
+http://www2.ed.gov/programs/techprep/index.html 
+59 See: Hershey et al. (1998). 
+60 Hughes, Katherine, L., Thomas R. Bailey & Melinda Mechur. 2001. School-to-Work: Making 
+a Difference in Education. Institute on Education and the Economy, Teachers College, Columbia 
+University. Available at: http://www.tc.columbia.edu/iee/papers/stw.pdf. 
+83
+
+61 See: Hershey et al. (1999).
+62 See: Hughes et al. (2001). 
+63 School-To-Work Opportunities Act. n.d. http://www2.ed.gov/pubs/Biennial/95-96/eval/410-
+97.pdf
+64 See: Hughes et al. (2001). 
+65 See: Hershey et al. (1999). 
+66 School-To-Work Opportunities Act: Industry Association/Business Consortium Solicitation. 
+1999. http://www.doleta.gov/grants/sga/99-005sga.cfm 
+67 Ruffing, Katherine. (n.d.) The History of Career Clusters. National Association of State 
+Directors of Career Technical Education Consortium. Available at: 
+http://occrl.illinois.edu/sites/default/files/Projects/perkins/Resources/Careerclusterhistory.doc 
+68 See: Ruffing (n.d.). 
+69 See: Ruffing (n.d.). 
+70 Warford, Laurance J., 2006. Pathways to Student Success: Case Studies From The College and 
+Career Transitions Initiative. Phoenix, AZ: League for Innovation in the Community College. 
+Available at: www.league.org/league/projects/ccti/files/CCTI_Pathway_Book.pdf 
+71 See: Warford (2006). 
+72 See: Warford (2006). 
+73 See: Warford (2006). 
+74 See: Warford (2006). 
+75 See: Warford (2006). 
+76 The Common Career Technical Core. n.d. http://www.careertech.org/CCTC 
+77 National Governors Association. 2009. The Pathways to Advancement Project: How States 
+Can Expand Postsecondary Educational Opportunities for Working Adults. Available at: 
+84
+
+http://www.nga.org/files/live/sites/NGA/files/pdf/0901EDUPATHWAYSADVANCEMENT.PD 
+F 
+78 See: NGA (2009). 
+79 See: NGA (2009). 
+80 See: NGA (2009). 
+81 Jenkins, Davis. 2008. Bridges to Opportunity for Underprepared Adults, A State Policy Guide 
+for College Leaders. The Ford Foundation. Available at: 
+http://www.fordfoundation.org/pdfs/library/Bridges_to_Opportunity_for_Underprepared_Adults. 
+pdf 
+82 See: Jenkins (2008).
+ 
+83 See: Jenkins (2008).
+ 
+84 See: Jenkins (2008).
+ 
+85 See: NGA (2009).
+ 
+86 Oregon Student Persistence and Completion Initiatives. n.d. 
+https://ccwd.oregon.gov/studentsuccess/SSdocs.aspx?p=1&h=4 
+87 See: Jenkins (2008).
+ 
+88 See: Jenkins (2008).
+ 
+89 See: Jenkins (2008).
+ 
+90 See: Jenkins (2008).
+ 
+91 Washington State Board for Community and Technical Colleges. 2012. Integrated Basic
+ 
+Education and Skills Training (I-BEST). Available at: 
+http://www.sbctc.ctc.edu/college/abepds/WEB_IBESTone-pager_11.5.12.pdf 
+92 Washington State Board for Community and Technical Colleges. 2013. Investments in I-BEST 
+Programs: A Cost Benefit to Students and Society. Available at: 
+http://sbctc.edu/college/abe/InvestmentsinI-BESTPrograms_000.pdf 
+85
+
+93 Message from CCTI Project Director. n.d. 
+http://www.league.org/league/projects/ccti/network/index.htm 
+94 See: Warford, 2006.
+ 
+95 See: Warford, 2006.
+ 
+96 CCTI Project: Ivy Tech Community College of Indiana. 2005. 
+http://www.league.org/league/projects/ccti/projects/files/ITSC_Career_Pathway_2005.pdf 
+97 Kempner, Ken & Laurance Warford. 2009. “The Promise of the College and Career 
+Transitions Initiative.” Techniques, Volume 84, No. 7. October. Available at: 
+http://files.eric.ed.gov/fulltext/EJ858237.pdf 
+98 See: Kempner & Warford (2009). 
+99 The AIDDE© planning process is a systemic change implementation process, developed by 
+Judy Alamprese (Abt Associates) that is based on shared leadership, the use of data and research 
+to make decisions, and frequent feedback to make course corrections. 
+100 Alamprese, Judith, A. (Abt Associates) 2009. Final Report: Shared Goals, Common Ground: 
+State and Local Coordination and Planning to Strengthen Adult Basic Education Services. 
+Available at: 
+http://www.abtassociates.com/reports/Alamprese_Shared_Goals_Common_Ground_June_2009. 
+pdf 
+101 See: Maguire et al. (2009).
+ 
+102 See: Maguire et al. (2009).
+ 
+103 Eyster, Lauren, Alexandra Stancyk, Demetra Smith Nightingale, Karin Martinson & John 
+Trutko. 2009. Characteristics of the Community-Based Job Training Program. Urban Institute. 
+Available at: http://www.urban.org/uploadedpdf/412022_job_training_grant.pdf
+ 
+104 See: Eyster et al. (2009).
+ 
+105 See: Hollenbeck & Hewat (2012). 
+106 Hewat, Nancy & Kevin Hollenbeck. 2009. Nurturing America’s Growth in the Global 
+Marketplace Through Talent Development: An Interim Report on the Evaluation of Generations 
+86
+
+II and III of WIRED. U.S. Department of Labor, Employment and Training Administration. 
+Available at: http://research.upjohn.org/cgi/viewcontent.cgi?article=1005&context=reports 
+107 Hollenbeck, Kevin & Nancy Hewat. 2010. “Evaluation of Regional Collaborations for 
+Economic Development: Lessons from the Employment and Training Administration’s WIRED 
+Initiative.” Employment Research. Volume 17, Issue 3. Available at: 
+http://research.upjohn.org/empl_research/vol17/iss3/1 
+108 See: Hollenbeck & Hewat (2010).
+ 
+109 See: Bragg & Barnett (2008).
+ 
+110 Jobs for the Future. 2010. Breaking Through Practice Guide. Available at:
+ 
+http://www.jff.org/publications/breaking-through-practice-guide 
+111 See: Bragg & Barnett (2008).
+ 
+112 See: Bragg & Barnett (2008).
+ 
+113 Staklis, Sandra & Steve Klein. 2013. Promoting Rigorous Career and Technical Education 
+Programs of Study, Year 3 Quantitative Analysis Report. U.S. Department of Education. 
+Available at: http://cte.ed.gov/docs/RPOS_Y3_Rpt_10022013_Final.pdf
+ 
+114 PCRN Program of Study, Design Framework, n.d. 
+https://s3.amazonaws.com/PCRN/docs/POS_Framework.pdf 
+115 National Initiatives: Programs of Study. n.d. 
+http://cte.ed.gov/nationalinitiatives/rpos_grants_overview.cfm 
+116 Price, Derek & Brandon Roberts. 2012. Strengthening State Systems for Adult Learners: An 
+Evaluation of the First Five Years of Shifting Gears. The Joyce Foundation. Available at: 
+http://www.joycefdn.org/assets/1/7/SG_Strengthening_State_Systems_Report_-_final.pdf 
+117 See: Price & Roberts (2012). 
+118 See: Price & Roberts (2012). 
+119 See: Alamprese (2012). 
+120 See: Alamprese (2012). 
+87
+
+121 See: Alamprese (2012).
+ 
+122 See: U.S. Department of Labor (2011). (Career Pathways Toolkit)
+ 
+123 See: Dann-Messier et al. (2012).
+ 
+124 Workforce Innovation Fund Evaluation. 2013. 
+http://innovation.workforce3one.org/blog/view/workforce-innovation-fund-evaluation 
+125 U.S. Department of Labor. 2011. Notice of Availability of Funds and Solicitation for Grant 
+Applications for Workforce Innovation Fund Grants. Available at: 
+http://www.doleta.gov/grants/pdf/SGA-DFA-PY-11-05.pdf 
+126 Pathways to Prosperity Network (JFF and Harvard Graduate School of Education). 2014. The 
+Pathways to Prosperity Network: A State Progress Report, 2012-2014. Available at: 
+http://www.jff.org/publications/pathways-prosperity-network-state-progress-report-2012-2014 
+127 The Kansas Board of Regents: Accelerating Opportunity Kansas. n.d. 
+http://www.kansasregents.org/workforce_development/accelerating_opportunity_kansas 
+128 See: Jobs for the Future: Accelerating Opportunity (n.d.). 
+129 Moving Pathways Forward: Technical Assistance. n.d. 
+https://lincs.ed.gov/programs/movingpathways/technical-assistance 
+88

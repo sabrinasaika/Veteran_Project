@@ -1,0 +1,1556 @@
+FILENAME: dcl-23-03-0-pdf-858bdfdbd9fc.pdf
+PATH: _raw/rsa.ed.gov/dcl-23-03-0-pdf-858bdfdbd9fc.pdf
+
+UNITED STATES DEPARTMENT OF EDUCATION 
+OFFICE OF SPECIAL EDUCATION AND REHABILITATIVE SERVICES 
+ 
+ 
+400 MARYLAND AVE. S.W., WASHINGTON, DC 20202-2600 
+www.ed.gov 
+The Department of Education’s mission is to promote student achievement and preparation for global competitiveness 
+by fostering educational excellence and ensuring equal access. 
+Date: September 8, 2023 
+DCL-23-03 
+Dear Colleagues:  
+Through this Dear Colleague Letter (DCL-23-03) the Rehabilitation Services Administration 
+(RSA) is transmitting a copy of the revised Vocational Rehabilitation Financial Report (RSA-17) 
+form and instructions for the State Vocational Rehabilitation Services (VR) program. The Office 
+of Management and Budget has approved this information collection (OMB control number 
+1820-0017) until September 30, 2026. The revisions to the RSA-17 are effective for the VR 
+program for new VR grant awards issued on or after October 1, 2023 (Federal fiscal year (FFY) 
+2024). The RSA-17 collects semiannual cumulative VR financial data on an award-by-award 
+basis.  
+For your convenience, the edits to the form and instructions: 
+• Clarify the Federal data reported must tie directly to the Federal Award Identification 
+Number identified in box A.1 of the form; 
+• Update the Uniform Guidance (2 C.F.R. Part 200) citations to include the OMB revisions 
+that became effective November 12, 2020; 
+• Revise the form so the asterisks identify which line items are required, instead of which items 
+are not required, in order to make the form consistent with the electronic version of the form 
+in the RSA Management Information System; 
+• Revise the instructions to Section F to clarify that reporting of expenditures pursuant to an 
+approved cost allocation plan is not required in Section F; 
+• Revise the title to Section G to read “Select Federal and Non-Federal Expenditures.” The 
+word “select” was added to clarify that the total of Section G is not equal to the sum of all 
+Federal and non-Federal expenditures (Note: 
+The RSA-17 does not include the Schedule III 
+RSA-2 reporting elements); 
+• Revise the title and instructions for line 15 (Expenditures Incurred for the Provision of Pre-
+employment Transition Services and Certain Other VR Services Needed to Access or Benefit 
+from Pre-Employment Transition Services Provided by Agency Staff Only). The instructions 
+now reference the Notice of Policy Interpretation (85 FR 11848 (Feb. 28, 2020)). 
+• Relocate line 38a to 15a and revise the title and instructions to include other VR services that 
+support access to and participation in pre-employment transition services; 
+• Relocate line 38b to 15b to reflect that only Federal expenditures for authorized pre-
+employment transition services should be reported.  
+• Revise the instructions for Establishment, Development, or Improvement of Community 
+Rehabilitation Programs (CRP) (line 39a) to reflect that data reporting is required; 
+• Revise the instructions for Date Report Submitted (line 47) to indicate that data entry is not 
+required;
+
+• Update Certification Section (I) to make it consistent with how the RSA-17 form is 
+structured in the RSAMIS; and 
+• Include minor miscellaneous typographical edits.  
+This DCL rescinds and replaces the previous RSA-17 instructions (DCL-20-02) issued August 
+14, 2020.  
+If you have any questions about completing the RSA-17, please contact the Financial 
+Management Specialist assigned to your agency.  
+Sincerely, 
+________/s/_________ 
+ 
+Carol L. Dobak 
+Deputy Commissioner, 
+delegated the authority to perform  
+the functions and duties of the Commissioner 
+Attachment
+
+RSA-17 OMB Control Number: 1820-0017 
+ 
+VOCATIONAL REHABILITATION FINANCIAL REPORT (RSA-17) 
+A. Grant Award Information 
+1. Federal Award Identification 
+Number 
+ 
+2. Federal Fiscal Year 
+ 
+3. Grant Period (From/To) 
+ 
+4. Recipient Organization 
+5. Basis of Accounting* 
+☐ Accrual 
+☐ Cash 
+6. Reporting Period 
+End Date 
+ 
+7. Final Report* 
+ 
+8. UEI Number 
+ 
+9. Recipient Account Number or Identifying Number 
+ 
+B. Federal Funds Amount 
+10. Total Federal Funds Awarded  
+11. Federal Cash Receipts*  
+12. Federal Cash Disbursements*  
+13. Federal Cash on Hand  
+14. Federal Share of Expenditures* (do not include program income)  
+15. Federal Expenditures Incurred for the Provision of Pre-employment Transition 
+Service Activities and Certain Other VR Services Needed to Access or Benefit from 
+Pre-Employment Transition Services (only include expenses charged to the Federal 
+funds required to be reserved for pre-employment transition services) 
+ 
+a. Required and Coordination Pre-employment Transition Service Activities and 
+Other VR Services that Support Access to and Participation in Pre-Employment 
+Transition Services* 
+ 
+b. Authorized Pre-employment Transition Service Activities*  
+16. Federal Share for Establishment of Facilities for CRP Purposes*  
+17. Federal Share for Construction of Facilities for CRP Purposes*  
+18. Federal Share of Unliquidated Obligations*  
+19. Total Federal Share  
+20. Unobligated Balance of Federal Funds  
+C. Federal Program Income Amount 
+21. Total Federal Program Income Received*   
+22. Program Income Expended in Accordance with the Addition Alternative*  
+23. SSA Payments Transferred to the State Independent Living Services Program*  
+24. SSA Payments Transferred to the Independent Living Services for Older Individuals 
+who are Blind Program* 
+ 
+25. SSA Payments Transferred to the Client Assistance Program*  
+26. SSA Payments Transferred to the State Supported Employment Services Program*  
+27. Unexpended Program Income  
+D. Reporting Non-Federal Share in the FFY of Appropriation (1st - 4th Qtr.) Amount 
+28. Total Non-Federal Share of Expenditures (1st - 4th Qtr.)*  
+29. Non-Federal Share of Unliquidated Obligations (1st - 4th Qtr.)*  
+30. Non-Federal Share for Establishment of Facilities for CRP Purposes (1st – 4th Qtr.)*  
+31. Non-Federal Share for Construction of Facilities for CRP Purposes (1st - 4th Qtr.)*  
+*Data entry is required.
+
+RSA-17 OMB Control Number: 1820-0017 
+ 
+E. Reporting Non-Federal Share in the Carryover Year (5th – 8th Qtr.) Amount 
+32. Non-Federal Expenditures for Unliquidated Obligations Reported on the 4th Quarter 
+Report, Line 29, Liquidated After the 4th Quarter (5th – 8th Qtr.)* 
+ 
+33. Additional New Non-Federal Expenditures (5th – 8th Qtr.)*  
+34. Non-Federal Share for Establishment of Facilities for CRP Purposes (5th – 8th Qtr.)*  
+35. Non-Federal Share for Construction of Facilities for CRP Purposes (5th – 8th Qtr.)*  
+F. Indirect Expenses 
+36. Federal Cognizant Agency for Indirect Costs: 
+a. Type* b. Rate* c. Period 
+From* 
+d. Period 
+To* 
+e. Base* f. Amount 
+Charged 
+g. Federal 
+Share* 
+       
+       
+       
+   h. Totals    
+G. Select Federal and Non-Federal Expenditures  
+(Include Program Income —  Do NOT Include Unliquidated Obligations) Amount 
+37. Administrative Expenditures*  
+38. N/A 
+39. Services to Groups 
+a. Establishment, Development, or Improvement of CRP*  
+b. Telecommunication Systems*  
+c. Special Services to Provide Nonvisual Access to Information*  
+d. Technical Assistance to Businesses*  
+e. Business Enterprise Program (Randolph-Sheppard Program)*  
+f. Transition Consultation and Technical Assistance*  
+g. Transition Services to Youth and Students*  
+h. Establishment, Development, or Improvement of Assistive Technology*  
+i. Support for Advanced Training*  
+40. American Job Center Infrastructure Expenditures*  
+41. Total Innovation and Expansion (I&E) Expenditures  
+a. I&E Expenditures Supporting State Rehabilitation Council Resource Plan*  
+b. I&E Expenditures Supporting Statewide Independent Living Council Resource Plan*  
+H. Remarks 
+42. Remarks 
+I. Certification: By signing this report, I certify that it is true, complete, and accurate to the best 
+of my knowledge. I am aware that any false, fictitious, or fraudulent information may subject 
+me to criminal, civil, or administrative penalties. (U.S. Code, Title 18, Section 1001) 
+43. Full Legal Name of Signer*  
+a. Certifying Official Title*  
+44. Telephone* (Area code, number)  
+a. Telephone Extension (if any)*  
+45. Email Address*  
+46. Signature*  
+47. Date Report Submitted   
+*Data entry is required. Expiration: 09/30/2026
+
+RSA-17 OMB Control Number: 1820-0017 
+ 
+Paperwork Burden Statement 
+According to the Paperwork Reduction Act of 1995, no persons are required to respond to a 
+collection of information unless such collection displays a valid OMB control number. The valid 
+OMB control number for this information collection is 1820-0017. Public reporting burden for 
+this collection of information is estimated to average 32.7 minutes/hours per response, including 
+time for reviewing instructions, searching existing data sources, gathering and maintaining the 
+data needed, and completing and reviewing the collection of information. The obligation to 
+respond to this collection is voluntary. If you have any comments concerning the accuracy of the 
+time estimate, suggestions for improving this individual collection, or if you have comments or 
+concerns regarding the status of your individual form, application or survey, please contact 
+David Steele, U.S. Department of Education, Rehabilitation Services Administration, Rm 4A-
+210, Washington, D.C. 20202 or email RSAfiscal@ed.gov
+.
+
+RSA-17 OMB Control Number: 1820-0017 
+1 
+I. General Information 
+ 
+The RSA-17 is a cumulative report that captures the financial status of a specific Federal VR 
+grant award identified by the Federal Award Identification Number (FAIN) in data element 
+A.1 (e.g., H126A230XXX) at a specific point in time. Awardees use the form to report 
+cumulative obligations and expenses that are calculated by adding all transactions from the 
+beginning of the period of performance for the award (i.e., beginning of the reporting period) 
+to the end of the reporting period specified on the RSA-17. This means the Federal award 
+data reported throughout the RSA-17, including but not limited to those in Section B, Federal 
+Funds, must specifically account for Federal award drawdowns, disbursements, expenditures, 
+obligations, and unobligated funds directly associated with the FAIN identified in data 
+element A.1.  
+ 
+Awardees are required to maintain supporting documentation to substantiate the financial 
+data reported on the RSA-17, as is true for any financial reports submitted by the awardee 
+(2 C.F.R. § 200.302(a)). Additionally, the awardee’s financial and accounting systems must 
+be sufficient to permit the preparation of reports required by general and program-specific 
+terms and conditions; and the tracing of funds to a level of expenditures adequate to establish 
+that such funds have been used according to the Federal statutes, regulations, and the terms 
+and conditions of the Federal award (Id.). This means awardees must ensure their supporting 
+documentation identifies transactions that directly tie back to the FAIN identified in A.1, not 
+just transactions that occurred during the reporting period. 
+ 
+The RSA-17 will be available online the next working day after the end date of the reporting 
+period. An awardee is required to submit an RSA-17 report semi-annually for every grant 
+award’s period of performance, regardless of whether expenses were incurred during any 
+reporting period. If expenses were not incurred during a particular reporting period, the 
+awardee should report a zero for the appropriate line items.  
+ 
+Forms must be submitted electronically through the RSA Management Information System 
+(RSAMIS). In addition, awardees should maintain a hard copy of the report, signed by the 
+certifying official, for verification purposes.  
+ 
+To enter data into this form online, visit rsa.ed.gov
+. To enter data, individuals must have a 
+user ID. If you do not have a user ID, the procedures for obtaining one are located at: 
+  
+rsa.ed.gov/help/technical-support  
+ 
+Agencies are responsible for having internal controls necessary to ensure RSA-17 data are 
+accurate and reliable upon submission to RSA. Agencies may request that an RSA-17 report 
+be re-opened for revision. The RSA Financial Management Specialist
+ assigned to the 
+awardee will review the request and, if necessary, place the form in an edit status to permit 
+the awardee to make changes. It is particularly important that an awardee revise its 4
+th 
+quarter RSA-17 report if any accounting adjustments made after the report has been 
+submitted change the amounts reported as of the end of the 4th quarter reporting period. For 
+example, sometimes awardees may make accounting adjustments using journal vouchers to
+
+RSA-17 OMB Control Number: 1820-0017 
+2 
+reassign expenditures, already reported in a prior period, to another funding source (e.g., 
+Federal or State). These adjustments, after the expenditure has been reported, would require 
+revisions to the previously submitted financial reports based upon when the obligation or 
+expenditure was incurred.  
+ 
+If any of the information in pre-populated or calculated data fields is inaccurate, please 
+contact the RSA Financial Management Specialist
+ assigned to your award. 
+Questions regarding the RSA-17 report or instructions may be sent to RSAfiscal@ed.gov or 
+mailed to: 
+ 
+U.S. Department of Education 
+OSERS, Rm 4A-210 
+400 Maryland Avenue, SW  
+Washington, DC 20202 
+ 
+II. Definitions and Technical Assistance 
+ 
+A. Allowable Cost — A cost incurred by an awardee that is (1) reasonable and necessary 
+for the performance of the award and allocable; (2) in conformance with any limitations 
+or exclusions set forth in the Uniform Guidance; (3) consistent with policies and 
+procedures that apply uniformly to both Federally-financed and other activities of the 
+non-Federal entity; (4) accorded consistent treatment as a direct or indirect cost; (5) 
+determined in accordance with generally accepted accounting principles, except for 
+State and local governments; (6) not included as a cost used to meet cost sharing or 
+matching requirements of any other Federally-financed program in either the current or 
+prior period; (7) adequately documented; and (8) incurred during the approved budget 
+period (2 C.F.R. § 200.403). Only allowable VR program costs are reported on the 
+RSA-17. 
+ 
+B. Applicable Credits — Applicable credits are t hose receipts or reduction-of-expenditure 
+type transactions that offset or reduce expense items allocable to the Federal award as 
+direct or indirect (i.e., facilities and administration (F&A)) costs. Examples of such 
+transactions are purchase discounts, rebates or allowances, recoveries or indemnities on 
+losses, insurance refunds or rebates, and adjustments of overpayments or erroneous 
+charges. To the extent that such credits accruing to or received by the non-Federal 
+entity relate to allowable costs, they must be credited to the Federal award either as a 
+cost reduction or a cash refund (2 C.F.R. § 200.406(a)). The applicable credit must be 
+applied to the Federal fiscal year (FFY) from which the initial cost expenditure was 
+made. 
+ 
+If the initial expense was paid with non-Federal funds, the applicable credit is applied 
+to the fund from which the initial expenditure was made (in other words, non-Federal 
+funds). For expenses funded by both non-Federal and Federal funds, the credit is 
+applied to each funding source in proportion to the initial amounts paid.
+
+RSA-17 OMB Control Number: 1820-0017 
+3 
+C. Carryover — The unobligated balance of authorized Federal funds that an awardee may 
+obligate and expend in a subsequent FFY provided the State met the matching 
+requirements by the end of the FFY of appropriation (Section 19 of the Rehabilitation 
+Act of 1973, as amended (Rehabilitation Act) and 34 C.F.R. § 361.64). 
+ 
+D. Disbursement — The  act of paying out money. 
+ 
+E. Expenditures — Charges made by a non- Federal entity to a project or program for 
+which a Federal award was received. In accordance with 2 C.F.R. § 200.1: 
+ 
+(a) The charges may be reported on a cash or accrual basis, as long as the 
+methodology is disclosed and is consistently applied. 
+ 
+(b)  For reports prepared on a cash basis, expenditures are the sum of: 
+(1)  Cash disbursements for direct charges for property and services; 
+(2)  The amount of indirect expense charged; 
+(3)  The value of third- party in-kind contributions applied; and 
+(4)  The amount of cash advance payments and payments made to subrecipients. 
+ 
+(c)  For reports prepared on an accrual basis, expenditures are the sum of: 
+(1)  Cash disbursements for direct charges for property and services; 
+(2)  The amount of indirect expense incurred; 
+(3)  The value of third- party in-kind contributions applied; and 
+(4)  The net increase or decrease in the amounts owed by the non-Federal entity 
+for: 
+(i)  Goods and other property received; 
+(ii)  Services performed by employees, contractors, subrecipients, and 
+other payees; and 
+(iii)  Programs for which no current services or performance are required 
+such as annuities, insurance claims, or other benefit payments. 
+ 
+Note:  References to subrecipients in the definition above are not applicable to the VR 
+program since there is no authority under the Rehabilitation Act or its 
+implementing regulations for subawarding, also known as subgranting 
+(34 C.F.R. § 76.50).  
+ 
+F. Federal Fiscal Year (FFY) of Appropriation — The FFY of appropriation is the FFY 
+for which Congress appropriated funds to the U.S. Department of Education 
+(Department) from which the Department awards program grants, specifically the 
+period from October 1 through September 30. For example, the FFY 2023 VR grants 
+were made from the 2023 FFY of appropriation, which covered the period of October 
+1, 2022 through September 30, 2023. 
+ 
+G. Financial Obligations — W hen referencing a recipient's or subrecipient's use of funds 
+under a Federal award, means orders placed for property and services, contracts and 
+subawards made, and similar transactions that require payment. There is no authority
+
+RSA-17 OMB Control Number: 1820-0017 
+4 
+for subawards, as defined in 2 C.F.R. § 200.1, under the VR program. Additionally, the 
+future period in which obligations may be liquidated is limited by Federal requirements 
+and the terms and conditions applicable to the award.  
+ 
+Education Department General Administrative Regulations (EDGAR) at 
+34 C.F.R. § 76.707 provide additional guidance regarding when obligations are made. 
+For example, travel is considered obligated when the travel is taken, and personnel 
+expenditures for State agency employees are considered obligated when the employee 
+performs the services. In determining when an obligation is made, awardees must also 
+follow their State laws, regulations, and policies and procedures, as applicable. 
+If the awardee has not met the requirements of Section 19 of the Rehabilitation Act to 
+carry over Federal funds for obligation and expenditure in the subsequent fiscal year, 
+the awardee must incur all obligations, for which it has provided sufficient match funds, 
+by the end of the FFY of appropriation (i.e., September 30). In this circumstance, the 
+period of performance and the FFY of appropriation are the same. 
+ 
+If the awardee has met the carryover requirements by the end of the FFY of 
+appropriation, the period of performance will be extended to include the carryover 
+period (subsequent FFY). This will enable the awardee to incur new obligations against 
+Federal award funds during the carryover period, as indicated by the revised period of 
+performance on the Grant Award Notification (GAN). In other words, in this 
+circumstance, the period of performance covers two FFYs – the FFY of appropriation 
+plus the carryover year. 
+ 
+Regardless of the accounting basis an awardee uses, it must assign, track, and report 
+financial obligations made against Federal and non-Federal sources. 
+ 
+H. Liquidation — The issuance of payment for an obligation. 
+ 
+I. Period of Performance — M eans the total estimated time interval between the start of 
+an initial Federal award and the planned end date, which may include one or more 
+funded portions, or budget periods. Identification of the period of performance in the 
+Federal award per 2 C.F.R.§200.211(b)(5) does not commit the awarding agency to 
+fund the award beyond the currently approved budget period (2 C.F.R. § 200.1). The 
+Department, as the Federal awarding agency, must include start and end dates of the 
+period of performance in the Federal award. For purposes of the Department’s GANs, 
+the period of performance is referred to as the Federal Funding Period (Box 6 of the 
+GAN). 
+ 
+J. Program Income — Program income means gross income earned  by the non-Federal 
+entity that is directly generated by a supported activity or earned as a result of the 
+Federal award during the period of performance. (2 C.F.R. § 200.1 and 
+34 C.F.R. § 361.63). Program income cannot be used to meet the non-Federal share 
+requirement (34 C.F.R. § 361.63(c)(4)). Sources of program income include, but are 
+not limited to:
+
+RSA-17 OMB Control Number: 1820-0017 
+5 
+• Payments from the Social Security Administration (SSA) for assisting SSA 
+beneficiaries and recipients to achieve employment outcomes, including the Cost 
+Reimbursement and Ticket programs; 
+• Payments received from workers’ compensation funds; payments received from 
+insurers, consumers, or others for services to defray part or all the costs of services 
+provided to particular individuals; and  
+• Income generated by a State-operated community rehabilitation program for 
+activities authorized under this part (34 C.F.R. § 361.63(b)).  
+ 
+Program income does not include rebates, credits, discounts, and interest earned on any 
+of them (2 C.F.R. § 200.1).  
+ 
+In accordance with 34 C.F.R. § 361.63(c)(3)(ii), “to the extent available, the non-
+Federal entity must disburse funds available from program income (including 
+repayments to a revolving fund), rebates, refunds, contract settlements, audit 
+recoveries, and interest earned on such funds before requesting additional cash 
+payments.” Program income received in the VR program and transferred to an 
+allowable program is considered disbursed for purposes of the VR program. 
+ 
+K. Reporting Period — The time period for which the awardee reports financial 
+information on any given report. For example, for purposes of the 4th quarter report, the 
+reporting period covers the period from October 1 through September 30. 
+  
+L. Unliquidated Financial Obligations — For financial reports prepared on a cash basis, 
+unliquidated financial obligations are obligations incurred by the non-Federal entity 
+that have not been paid (liquidated). For reports prepared on an accrual expenditure 
+basis, these are financial obligations incurred by the non-Federal entity for which an 
+expenditure has not been recorded (2 C.F.R. § 200.1). 
+Regardless of the accounting basis an awardee uses, it must assign, track, and report 
+financial obligations made against Federal and non-Federal sources. 
+ 
+M. Unobligated Balance — The amount of funds under a Federal award that the non-
+Federal entity has not obligated or expended. The amount is computed by subtracting 
+the cumulative amount of the non-Federal entity's unliquidated financial obligations 
+and expenditures of funds under the Federal award from the cumulative amount of the 
+funds that the Federal awarding agency or pass-through entity authorized the non-
+Federal entity to obligate. (2 C.F.R. § 200.1). 
+ 
+III. Form Instructions 
+ 
+A. Grant Award Information 
+ 
+1. Federal Award Identification Number:  
+• Data entry not required.
+
+RSA-17 OMB Control Number: 1820-0017 
+6 
+The awardee’s grant award number listed in Box 2 of the GAN is the default 
+entry. 
+  
+2. Federal Fiscal Year: 
+• Data entry not required. 
+ 
+The FFY of appropriation as listed in Box 2 of the GAN is the default entry. 
+  
+3. Grant Period (From/To): 
+• Data entry not required. 
+ 
+The Federal Funding Period in Box 6 of the GAN is the default entry. This data 
+element represents the period for which the funds were awarded (34 C.F.R. § 
+77.1(c)). The Uniform Guidance uses the term “period of performance” rather 
+than “grant period.” Period of performance is defined in 2 C.F.R. § 200.1 in a 
+manner like the EDGAR definition of “grant period.” An awardee may neither 
+obligate nor pay expenditures for costs of a grant award that are incurred prior to 
+the start of the period of performance. For example, the cost for VR services 
+provided to a consumer prior to the start of the period of performance for a grant 
+award may not be charged to that grant award. Rather, those obligations must be 
+charged to the prior grant award or another funding source. Additionally, an 
+awardee may not obligate award funds after the end of the period of performance 
+for a grant award. 
+  
+During the FFY of appropriation, the Federal Funding Period listed in Box 6 of 
+the GAN will be from October 1 to September 30 of that FFY. This represents the 
+one-year period for which the award is made and in which the awardee may incur 
+new obligations against the award. Section 19(a)(1) of the Rehabilitation Act 
+permits States to carry over Federal funds for obligation and expenditure in the 
+subsequent FFY provided certain conditions are met (see the Carryover Grant 
+Award Notification Attachment for additional details). This means that States 
+may carry over the unobligated balance of Federal funds for one FFY beyond the 
+FFY of appropriation so long as the conditions of Section 19 of the Rehabilitation 
+Act were satisfied. For example, the FFY of appropriation for FFY 2023 awards 
+began on October 1, 2022 and ends on September 30, 2023. The carryover period 
+for FFY 2023 awards starts on October 1, 2022 and ends on September 30, 2023. 
+  
+Upon submission of the State’s 4
+th quarter RSA-17 report(s) (which is for the 
+reporting period ending September 30 of the FFY of appropriation), an RSA 
+Financial Management Specialist will review the report(s) to determine whether 
+the State met the requirements necessary to carry over funds for obligation and 
+liquidation in the subsequent FFY. If the State met the requirements of Section 19 
+of the Rehabilitation Act to carry over funds, RSA will process an administrative 
+change to the appropriate GAN(s) extending the period of performance to include 
+the carryover period.
+
+RSA-17 OMB Control Number: 1820-0017 
+7 
+Unless the Department authorizes an extension for the carryover period consistent 
+with the requirements of Section 19 of the Rehabilitation Act, a non-Federal 
+entity must liquidate all obligations incurred under the Federal award not later 
+than 120 calendar days after the end date of the period of performance, as 
+specified on the GAN (2 C.F.R. § 200.344(b)). 
+  
+4. Recipient Organization: 
+• Data entry not required. 
+  
+The organization’s name and address listed in Box 1 of the GAN is the default 
+entry. 
+  
+5. Basis of Accounting: 
+ 
+Specify whether the awardee used a cash or accrual basis for recording Federal 
+and non-Federal grant award transactions that form the basis for the financial data 
+submitted on the RSA-17.  
+ 
+For cash basis accounting, expenses are recorded when they are paid. The 
+transaction remains at the obligation stage until the liability is eliminated by the 
+disbursement of cash (in other words, the liquidation of the obligation).  
+Accrued expenditures are recorded when goods or services are received, 
+regardless of when cash is received or paid. The accrual method of accounting 
+elevates an obligation to an expenditure once the liability to pay has been created, 
+as opposed to when the expenditure is actually paid.  
+ 
+An awardee must report expenditures using either a cash or accrual basis of 
+accounting (2 C.F.R. § 200.34). However, if an awardee changes from one basis 
+of accounting to another, the awardee must inform RSA of the change. To ensure 
+awardees are not utilizing separate bases of accounting for reports covering the 
+same period of performance, changes to an awardee’s basis of accounting should 
+coincide with the end of the period of performance for the grant award, thereby 
+ensuring consistency for the entire period of performance. 
+  
+6. Reporting Period End Date: 
+• Data entry not required. 
+ 
+The default reporting period end date corresponds with the end of the required 
+semi-annual reporting period. The period covered is always the beginning date of 
+the grant through the end of the reporting period. Therefore, the RSA-17 collects 
+cumulative data for the period of performance. An example is included in the 
+table below:
+
+RSA-17 OMB Control Number: 1820-0017 
+8 
+Reporting Period – FFY 2024 Award Reporting Period  
+End Date Quarter 
+October 1, 2023 – March 31, 2024 March 31, 2024 2 
+Apri1 1, 2024 – September 30, 2024  September 30, 2024 4 
+*October 1, 2024 – March 31, 2025 March 31, 2025 6 
+*April 1, 2025 – September 30, 2025 September 30, 2025 8 
+*These reports are only used if the State has met the requirements of Section 19 
+of the Rehabilitation Act necessary to carry over Federal funds for obligation and 
+expenditure in the succeeding FFY. 
+ 
+The RSA-17 reports must be submitted – 
+ 
+• 30 calendar days after the end of the reporting period if the report is not the 
+final report; and 
+• 120 calendar days after the end of the reporting period if the report is the final 
+report (2 C.F.R. § 200.329(c)(1)). 
+ 
+If RSA has approved a late liquidation request, the final RSA-17 report will be 
+due 30 days after the end date of the approved liquidation period. 
+ 
+7. Final Report: 
+ 
+Check the Final Report box if the report being submitted is the awardee’s final 
+report for the period of performance. The awardee submits the final RSA-17 
+report for the reporting period in which the Reporting Period End Date (line 6) is 
+the same as the end of the period of performance.  
+ 
+Refer to the example table in the instructions for line 6 above. 
+  
+• For an awardee that 1) did not receive a carryover year or 2) has obligated all 
+its FFY 2024 Federal funds by September 30, 2024, the Reporting Period End 
+Date and the end of the period of performance would both occur on 
+September 30, 2024. In this case, the 4th quarter report for the period ending 
+September 30, 2024, would be the final report and is due 120 days after 
+September 30, 2024. 
+• For an awardee that receives a carryover year for the FFY 2024 grant award 
+and RSA extends the period of performance for that award, the Reporting 
+Period End Date and the end of the period of performance would both occur 
+on September 30, 2025. In this case, the FFY 2024 VR award 8th quarter 
+report, for the period ending September 30, 2025, would be the final report 
+and would be due January 28, 2026 – 120 days after the end of the period of 
+performance for the FFY 2024 grant award (including the carryover period).
+
+RSA-17 OMB Control Number: 1820-0017 
+9 
+Also see the definitions of “Financial Obligations” and “Period of Performance” 
+in the definitions section. 
+ 
+8. UEI Number:  
+• Data entry not required.  
+ 
+The Unique Entity Identifier (UEI) is the official identifier for doing business 
+with the U.S. Government. The UEI associated with the Federal Award 
+Identification Number, line 1, in the Department’s grant management system is 
+the default entry. This is the UEI listed in Box 8 of the GAN. The UEI number 
+must be active and currently registered in the System for Award Management 
+(SAM) (https://www.sam.gov
+). Entities registering in SAM.gov are assigned a 
+UEI as part of the registration process. 
+  
+9. Recipient Account Number or Identifying Number: 
+• Data entry optional.  
+• Data entry limited to 30 characters. 
+ 
+Enter an account number or other identifying number from the statewide 
+accounting system, assigned by the awardee to the award. This number can be 
+used for grant management and is not required by the Department or RSA. 
+ 
+B. Federal Funds 
+ 
+10. Total Federal Funds Awarded: 
+• Data entry not required. 
+  
+This data element represents the total amount of Federal funds awarded by the 
+Department to the awardee for the specific FFY as of the end of the reporting 
+period. The amount listed may change due to award adjustments that could reflect 
+funds awarded by continuing resolutions, reductions for maintenance of effort 
+shortfalls required by statute, awardee-requested inter-agency transfers or 
+deobligations, and/or the reallotment or relinquishment of Federal funds. 
+  
+11. Federal Cash Receipts: 
+ 
+Enter the cumulative amount of Federal grant funds that the awardee has drawn 
+down and received from the amount awarded as listed above on line 10, Total 
+Federal Funds Awarded, per the Department’s grants management system. This 
+amount (Federal cash receipts) is obtained by running a G5 External Award 
+Activity Report (https://www.g5.gov) using date parameters. 
+  
+• The date parameters entered in G5 will be the start date of the award and the 
+reporting period end date.  
+• For final reports, the date parameters entered in G5 will be the start date of the 
+award and the date award funds were liquidated. Because an awardee may
+
+RSA-17 OMB Control Number: 1820-0017 
+10 
+draw down funds during the liquidation period or upon receipt of an approved 
+late liquidation request, the end date of the G5 External Award Activity 
+Report may be past the end of the period of performance of the award. This 
+does not change the reporting period end date. 
+ 
+Awardees may want to maintain copies of the G5 External Award Activity 
+Reports as supporting documentation that verifies the accuracy of the amount 
+reported. Awardees should not include requests for drawdowns that were not 
+received during the reporting period. 
+ 
+12. Federal Cash Disbursements: 
+ 
+Enter the cumulative amount of actual disbursements made by the awardee from 
+the Federal VR funds drawn down and received during the reporting period from 
+line 11, Federal Cash Receipts. Disbursements are the sum of actual cash 
+expenditures made for direct charges for goods and services, the amount of 
+indirect expenses charged to the award, and the amount of payments made to 
+contractors/vendors. 
+ 
+13. Federal Cash on Hand (line 11 minus line 12): 
+• Data entry not required. 
+  
+If more than three business days of cash are on hand, awardees must provide an 
+explanation on line 42, Remarks, as to why the drawdown was made prematurely 
+or other reasons for the excess cash. Awardees must minimize the time elapsing 
+between drawdown of Federal funds and disbursement by the awardee in 
+accordance with Cash Management Improvement Act (CMIA) requirements and 
+Department guidance. 
+ 
+14. Federal Share of Expenditures: 
+ 
+Enter the total amount of expenditures incurred with Federal VR funds (also 
+known as Federal expenditures). Do not include expenditures incurred with 
+program income (e.g., program income received as SSA reimbursements for VR 
+services provided to SSA recipients and beneficiaries) received by the awardee on 
+this line. Such program income expenditures will be reported in Section C, 
+Federal Program Income. 
+  
+• For reports prepared on a cash basis, the awardee should report Federal fund 
+expenditures as the sum of cash disbursements for direct charges for goods 
+and services, the amount of indirect expenses charged, and the amount of 
+payments made to contractors/vendors.  
+• For reports prepared on an accrual basis, awardees should report Federal fund 
+expenditures as the sum of cash disbursements for direct charges for goods 
+and services, the amount of indirect expenses incurred, the amount of 
+payments made to contractors/vendors, and the increase or decrease in the
+
+RSA-17 OMB Control Number: 1820-0017 
+11 
+amounts owed by the recipient for goods received and services performed by 
+employees, contractors/vendors, and other payees.  
+ 
+Awardees must include the total of all Federal VR fund expenditures incurred on 
+line 14, and must break out expenditures for certain categories, as described for 
+lines 15, 16 and 17. For example, awardees must report the amount expended on 
+pre-employment transition services (which is reported on line 14 as part of the 
+total of Federal Share of Expenditures) separately in line 15, Federal Expenditures 
+Incurred for the Provision of Pre-employment Transition Service Activities and 
+Certain Other VR Services Needed to Access or Benefit from Pre-Employment 
+Transition Services Provided. 
+ 
+15. Federal Expenditures Incurred for the Provision of Pre-employment Transition 
+Service Activities and Certain Other VR Services Needed to Access or Benefit 
+from Pre-Employment Transition Services Provided: 
+ 
+Expenditures reported in this section are only for activities charged to Federal 
+funds reserved for pre-employment transition services.  
+ 
+Report in this category all expenditures for pre-employment transition service 
+activities and certain other VR services needed by a student with a disability to 
+access or benefit from pre-employment transition services, which is also included 
+in the total amount of Federal funds reported on line 14, Federal Share of 
+Expenditures. Awardees are responsible for ensuring the tracking of time and 
+attendance includes the ability to track staff time spent providing the “required,” 
+“authorized,” and “coordination” pre-employment transition service activities, 
+respectively. Only in this manner, can an awardee ensure that it can provide all 
+“required” pre-employment transition services needed by students with 
+disabilities in the State and coordination activities, as described in Section 113(b) 
+and (d), respectively, of the Rehabilitation Act, before providing other 
+“authorized” pre-employment transition services permitted under Section 113(c) 
+of the Rehabilitation Act.  
+ 
+Include in this section only those expenditures incurred for services for which the 
+reserved funds may be used (i.e., required, authorized and coordination pre-
+employment transition service activities) as well as other VR services necessary 
+to access or benefit from the required pre-employment transition services (see 
+Notice of Policy Interpretation (85 FR 11848 (Feb. 28, 2020)). An awardee may 
+use the reserved funds to pay for certain VR services that are needed by any 
+student with a disability to access pre-employment transition services (e.g., 
+interpreter and reader services); however the awardee may use the reserved funds 
+to pay for other VR services that a student with a disability needs to benefit from 
+pre-employment transition services only if that student has been determined 
+eligible for the VR program and those other services have been identified on the 
+individualized plan for employment as necessary to participate in the pre-
+employment transition services (Id.).
+
+RSA-17 OMB Control Number: 1820-0017 
+12 
+Do not include awardee administrative expenses related to rent, utilities, and 
+supplies, etc., in this section because section 110(d)(2) of the Rehabilitation Act 
+prohibits the awardee from using the reserved funds to pay for the administrative 
+costs it incurs in providing or arranging for the provision of pre-employment 
+transition services. 
+  
+a.  Required and Coordination Pre-employment Transition Service Activities  and 
+Other VR Services that Support Access to and Participation in Pre-Employment 
+Transition Services: 
+ 
+Enter the total amount of allowable Federal expenditures for required and 
+coordination pre-employment transition service activities and other VR 
+services that support access to and participation in pre-employment transition 
+services that were charged to the funds required to be reserved for pre-
+employment transition services. 
+ 
+b. Authorized Pre-employment Transition Service Activities: 
+ 
+Enter the total amount of Federal expenditures for the provision of authorized 
+pre-employment transition service activities charged to the funds required to be 
+reserved for pre-employment transition services. Do not include authorized pre-
+employment transition service activities not charged to the funds reserved for 
+pre-employment transition services. 
+ 
+16. Federal Share for Establishment of Facilities for CRP Purposes: 
+ 
+Enter the Federal share of expenditures incurred for the establishment of facilities 
+for Community Rehabilitation Program (CRP) purposes, which was also included 
+in the total amount of Federal expenditures reported on line 14, Federal Share of 
+Expenditures. Include only those Federal expenditures on line 16 for activities 
+that would meet the definition of “establishment of a facility for a public or 
+nonprofit community rehabilitation program” at 34 C.F.R. § 361.5(c)(17). Do not 
+include expenditures for staffing or other costs associated with establishment 
+projects, such as those additional costs included in the definition of 
+“establishment, development, or improvement of a public or nonprofit community 
+rehabilitation program” at 34 C.F.R. § 361.5(c)(16). If no funds were used for this 
+purpose during the reporting period, enter zero on this line. 
+  
+17. Federal Share for Construction of Facilities for CRP Purposes: 
+ 
+Enter the Federal share of expenditures incurred for the construction of facilities 
+for CRP purposes, which was also included in the total amount of Federal 
+expenditures reported on line 14, Federal Share of Expenditures. Only include 
+those expenditures, paid with Federal funds, for activities that would meet the 
+definition of “construction of a facility for a public or nonprofit community 
+rehabilitation program” at 34 C.F.R. § 361.5(c)(10). Do not include expenditures
+
+RSA-17 OMB Control Number: 1820-0017 
+13 
+for staffing or other costs associated with establishment projects, such as those 
+additional costs included in the definition of “establishment, development, or 
+improvement of a public or nonprofit community rehabilitation program” at 34 
+C.F.R. § 361.5(c)(16). If no funds were used for this purpose during the reporting 
+period, enter zero on this line. 
+  
+18. Federal Share of Unliquidated Obligations: 
+ 
+Enter the Federal portion of unliquidated obligations incurred by the awardee. 
+Unliquidated obligations include orders placed for property and services, 
+contracts, and similar transactions during a given period that require payment by 
+the awardee but have not yet been paid or charged to the VR grant award. These 
+include direct and indirect obligations for goods and services incurred by the 
+awardee, as well as amounts due to contractors/vendors. When submitting a final 
+RSA-17 report, this data element should be zero because all obligations must be 
+liquidated prior to the submission of the final financial reports and grant closure.  
+ 
+Do not include on line 18 – 
+• Expenditures reported on line 12, Federal Cash Disbursements;  
+• Expenditures reported on line 14, Federal Share of Expenditures; and 
+• Future fund commitments for which an obligation or expense has not been 
+incurred during the reporting period, in accordance with 34 C.F.R. § 76.707. 
+ 
+Awardees have 120 days from the end of the period of performance to liquidate 
+Federal obligations (2 C.F.R § 200.344(b)). If awardees are unable to liquidate all 
+obligations within the liquidation period, 120 days after the period of performance 
+ends, awardees must submit a late liquidation request in accordance with the 
+Department’s guidance. If approved, the awardee must liquidate the approved 
+obligations and submit the final report within 30 days after the approved late 
+liquidation extension date.  
+ 
+Requirements for obligations, located at 34 C.F.R. § 76.707 of EDGAR, identify 
+when obligations are made for Departmental awards. All awardees, regardless of 
+the basis of accounting used, must assign, track, and report unliquidated 
+obligations to RSA, based on their assignment to a Federal or non-Federal fund 
+source. 
+ 
+19. Total Federal Share (sum of lines 14 and 18): 
+• Data entry not required. 
+ 
+20. Unobligated Balance of Federal Funds (line 10 minus line 19): 
+• Data entry not required.  
+ 
+For the final report, this figure represents the amount of Federal VR funds 
+awarded that the awardee did not obligate or draw down.
+
+RSA-17 OMB Control Number: 1820-0017 
+14 
+C. Federal Program Income 
+ 
+21. Total Federal Program Income Received: 
+ 
+Enter the total amount of program income received by the awardee under the VR 
+program as of the end of the reporting period. All program income received by the 
+VR program is to be reported as Federal program income earned. This means 
+that awardees must report, and use, program income earned under the VR 
+program as an addition to the Federal grant funds received under the VR 
+program (34 C.F.R. § 361.63(c)(3)(i)). In other words, awardees may not use 
+program income to reduce the amount of the Federal VR award.  
+ 
+Program income is considered received in the FFY in which the awardee receives 
+the funds (34 C.F.R. § 361.63 and 2 C.F.R. § 200.1). Therefore, the amount 
+reported should not change after the awardee submits its 4th quarter report for the 
+FFY of appropriation in which the program income is received. Any program 
+income received during the subsequent FFY, even if the awardee is operating 
+under a carryover year from the prior FFY’s grant award, must be reported on the 
+RSA-17 for the next FFY’s grant award. 
+ 
+While all program income received by the awardee, including reimbursements 
+from the Social Security Administration (SSA), is entered on line 21, the 
+expenditure of program income is reported below on lines 22 through 26 as 
+appropriate. For example, if the VR program receives $100,000 in SSA payments 
+and expends those funds in the VR program, the awardee must include the 
+$100,000 on line 21 and then report the expenditure of those on line 22. 
+ 
+An awardee may choose to transfer SSA payments received by the VR program to 
+certain formula grant programs funded under the Rehabilitation Act, as permitted 
+by Section 108 of the Rehabilitation Act and 34 C.F.R. § 361.63(c)(2). The 
+authority to transfer program income received from SSA in accordance with 
+Section 108 of the Rehabilitation Act and 34 C.F.R. § 361.63(c)(2) is unique only 
+to program income received from SSA. There is no legal authority for the 
+awardee to transfer other forms of program income earned under the VR program 
+to another program for that program’s use. Therefore, only SSA reimbursement 
+program income transferred to other eligible programs can be reported on lines 23 
+through 26. Each program receiving SSA payments for its use must report the 
+funds as program income received for that program.  
+ 
+For example, if the VR program receives $100,000 in SSA payments, but 
+transfers the entire amount to the Independent Living for Older Individuals who 
+are Blind (OIB) program, the VR program must report the receipt of the $100,000 
+on line 21 and the expenditure of those funds under line 24 below. In so doing, the 
+VR program would report that the funds were “expended” by reporting the 
+transfer on line 24, SSA Payments Transferred to the Independent Living Services 
+for Older Individuals who are Blind Program. In addition, in this example, the
+
+RSA-17 OMB Control Number: 1820-0017 
+15 
+OIB program would report the program income on its SF-425 line 10l as received, 
+report the program income as transferred from the VR program in the Remarks 
+section on line 12, Remarks, on its own SF-425. 
+ 
+Program income from SSA payments transferred to other eligible programs is 
+restricted to the grant award year that corresponds to the FFY of appropriation in 
+which it was received in the VR program. For example, SSA payments received 
+in the VR program in FFY 2024 may be transferred to the OIB program for 
+expenditures and reporting purposes for its FFY 2024 OIB award. This means the 
+transfer may occur during the FFY 2024 grant year or, in rare circumstances and 
+when applicable, during the FFY 2024 carryover year of the OIB grant award, 
+which occurs in FFY 2025. In the rare event that the program income is expended 
+during the FFY 2024 carryover year (which occurs in FFY 2025), all program 
+income information must be reported as occurring during the FFY 2024 period of 
+performance, not the FFY 2025 grant award’s period of performance. 
+ 
+22. Program Income Expended in Accordance with the Addition Alternative: 
+ 
+Enter the amount of program income reported on line 21, Total Federal Program 
+Income Received, that was expended to supplement the Federal share of the total 
+expenditures of the VR program (in other words, in addition to the Federal VR 
+expenditures incurred). The amount reported represents actual disbursements 
+under the VR program and does not include any SSA payments transferred to 
+other eligible programs, reported in lines 23 through 26. The expenditure of all 
+program income funds must meet the same standards of allowability, 
+reasonableness, and allocability (2 C.F.R. §§ 200.403 through 200.405) that are 
+applicable to Federal funds (Section 108 of the Rehabilitation Act and 
+34 C.F.R. § 361.63(c)(3), and 2 C.F.R. §§ 200.307(e)(2)). 
+ 
+23. SSA Payments Transferred to the State Independent Living Services (SILS) 
+Program: 
+ 
+Enter the amount of SSA program income reported on line 21, Total Program 
+Income Received under the VR program, but transferred from the VR program to 
+the SILS program, as permitted by Section 108 of the Rehabilitation Act and 
+34 C.F.R. § 361.63(c)(2). The SILS program should consult with the U.S. 
+Department of Health and Human Services regarding how transferred program 
+income received should be reported for its program on its financial reports. 
+ 
+24. SSA Payments Transferred to the Independent Living Services for Older 
+Individuals Who are Blind (OIB) Program: 
+ 
+Enter the amount of SSA program income reported on line 21, Total Program 
+Income Received under the VR program, but transferred by the VR program to 
+the OIB program, as permitted by Section 108 of the Rehabilitation Act and 34 
+C.F.R. § 361.63(c)(2). This amount must also be reported as program income
+
+RSA-17 OMB Control Number: 1820-0017 
+16 
+earned on the corresponding SF-425 submitted by the OIB program. See the 
+instructions for line 21, Total Federal Program Income Received, for additional 
+information. 
+  
+25. SSA Payments Transferred to the Client Assistance Program (CAP): 
+ 
+Enter the amount of SSA program income reported on line 21, Total Federal 
+Program Income Received under the VR program, but transferred by the VR 
+program to the CAP, as permitted by Section 108 of the Rehabilitation Act and 34 
+C.F.R. § 361.63(c)(2). This amount must also be reported as program income 
+earned on the corresponding SF-425 submitted by the CAP. See the instructions 
+for line 21, Total Federal Program Income Received, for additional information. 
+ 
+26. SSA Payments Transferred to the State Supported Employment Services 
+(Supported Employment) Program: 
+ 
+Enter the amount of SSA program income reported on line 21, Total Federal 
+Program Income Received under the VR program, but transferred by the VR 
+program to the Supported Employment program, as permitted by Section 108 of 
+the Rehabilitation Act and 34 C.F.R. § 361.63(c)(2)). This amount must also be 
+reported as program income earned on the corresponding SF-425 submitted by the 
+Supported Employment program. See the instructions for line 21, Total Federal 
+Program Income Received for additional information. 
+ 
+27. Unexpended Program Income (line 21 minus lines 22, 23, 24, 25 and 26): 
+• Data entry not required.  
+ 
+When submitting a final report, this line should be zero.  
+ 
+Note: In accordance with 34 C.F.R. § 361.63(c)(3)(ii), “to the extent available, 
+the non-Federal entity must disburse funds available from program income 
+(including repayments to a revolving fund), rebates, refunds, contract settlements, 
+audit recoveries, and interest earned on such funds before requesting additional 
+cash payments.” Program income received in the VR program and transferred to 
+an allowable program is considered disbursed for purposes of the VR program 
+and this requirement. 
+ 
+D. Reporting Non-Federal Share in the FFY of Appropriation  
+(1st through 4th Quarter) 
+  
+Overview: Information from this section is used to ensure the awardee provides the 
+requisite cost share of non-Federal expenditures incurred during the FFY of 
+appropriation. At the end of the 4
+th quarter, the awardee’s non-Federal share is based 
+upon the sum of lines 28, Total Non-Federal Share of Expenditures (4th Quarter) and 
+29, Non-Federal Share of Unliquidated Obligations (4th Quarter). In using this 
+calculation, RSA considers the awardee’s unliquidated non-Federal obligations to be
+
+RSA-17 OMB Control Number: 1820-0017 
+17 
+expenditures incurred at the time the awardee incurred the obligation to pay the cost 
+with non-Federal funds consistent with 34 C.F.R. § 76.707. As such, the awardee’s 
+non-Federal share of unliquidated obligations is credited toward meeting the awardee’s 
+match requirement. The match calculated by adding the amounts on lines 28 and 29, as 
+just described, at the end of the FFY of appropriation (i.e., at the end of the 4th quarter), 
+determines whether the awardee has preliminarily satisfied its match requirement for 
+the grant award and, thus, is able to carry Federal funds over to the subsequent fiscal 
+year to the extent such funds remain available for obligation. In Section E below, 
+awardees report the amount of liquidations from the amount of non-Federal 
+unliquidated obligations incurred in the FFY of appropriation, as reported on line 29, 
+but liquidated during the carryover year, which will be used to determine the actual 
+match for the award based on final report data. 
+ 
+Third-party in-kind contributions are not an allowable source of non-Federal share 
+under the VR program and, therefore, should not be reported as non-Federal 
+expenditures (34 C.F.R. § 361.60(b)(2)). 
+ 
+28. Total Non-Federal Share of Expenditures  
+(1st through 4th Quarter): 
+ 
+Enter the total amount of non-Federal VR expenditures incurred for the reporting 
+period. Do not include expenditures incurred with program income because such 
+expenditures cannot be used to meet the non-Federal share requirement (34 C.F.R. 
+§ 361.63(c)(4)). Do not include non-Federal unliquidated obligations, as those 
+will be reported on line 29. 
+ 
+Include on line 28 all non-Federal expenditures incurred under the VR program, 
+including those in excess of the amount required to satisfy the non-Federal share 
+(match) requirement under the VR program (i.e., 21.3 percent of the State’s total 
+expenditures under the VR program) (34 C.F.R. § 361.60(a)(1) and (b)(1)). 
+Awardees must report on line 28 all non-Federal expenditures incurred under the 
+VR program, regardless of the source of funding, even if the amount reported 
+exceeds the amount of non-Federal share required to match the total Federal 
+funds awarded. This information is necessary for RSA to assess whether the State 
+has met its maintenance of effort requirement under Section 111(a)(2)(B) of the 
+Rehabilitation Act and 34 C.F.R. § 361.62. 
+ 
+This amount must include the non-Federal share of actual cash disbursements or 
+expenditures (less any non-Federal portion of rebates, refunds, or other applicable 
+credits assignable to the VR award), including payments to contractors, and any 
+expenses included in line 30, Non-Federal Share for Establishment of Facilities 
+for CRP Purposes, and line 31, Non-Federal Share for Construction of Facilities 
+for CRP Purposes.
+
+RSA-17 OMB Control Number: 1820-0017 
+18 
+29. Non-Federal Share of Unliquidated Obligations  
+(1st through 4th Quarter): 
+ 
+Enter the amount of unliquidated obligations to be paid with non-Federal funds 
+meeting the non-Federal share requirements in 34 C.F.R. § 361.60(b). Non-
+Federal share can only be credited as match when obligated, in accordance with 
+34 C.F.R. § 76.707, in the FFY of appropriation for an award (i.e., October 1 
+through September 30). See line 32 for information about unliquidated obligations 
+counted as non-Federal share that are liquidated after the 4th quarter report for the 
+FFY of appropriation (i.e., in the carryover year). When the 4
+th quarter is marked 
+final, enter zero on line 29. 
+ 
+Non-Federal share expected from third-party cooperative arrangement (TPCA) 
+certified expenditures of public agency staff salaries, when the TPCA staff has not 
+yet completed the work, may not be included as an unliquidated obligation (or 
+expenditure) because these expenditures cannot be certified until after the staff 
+works the requisite number of hours. Pursuant to 34 C.F.R. § 76.707(b), an 
+obligation for services performed by State agency employees, including TPCA 
+staff, is incurred at the time the work is performed. 
+  
+30. Non-Federal Share for Establishment of Facilities for CRP Purposes  
+(1st through 4th Quarter): 
+ 
+Enter the non-Federal share of expenditures, also included on line 28, Total Non-
+Federal Share of Expenditures, incurred during the FFY of appropriation, for the 
+establishment of facilities for CRP purposes. Non-Federal expenditures for the 
+purpose of establishing a facility for a CRP will not be counted toward the State’s 
+maintenance of effort (34 C.F.R. § 361.62(b)); however, these non-Federal 
+expenditures count toward satisfying the State’s match requirement.  
+ 
+Do not include Federal funds used for this purpose. Only include those 
+expenditures, paid with non-Federal funds, for activities that would meet the 
+definition of “establishment of a facility for a public or nonprofit community 
+rehabilitation program” at 34 C.F.R. § 361.5(c)(17). Do not include the 
+expenditures reported on line 28 for staffing or other costs associated with 
+establishment projects, such as those additional costs included in the definition of 
+“establishment, development, or improvement of a public or nonprofit community 
+rehabilitation program” at 34 C.F.R. § 361.5(c)(16), as these costs will be 
+reported on line 39a. If no funds were used for purposes identified in 
+34 C.F.R. § 361.5(c)(17) during the reporting period, enter zero on this line. 
+  
+31. Non-Federal Share for Construction of Facilities for CRP Purposes  
+(1st through 4th Quarter): 
+ 
+Enter the non-Federal share of expenditures, also included on line 28, Total Non-
+Federal Share of Expenditures, incurred during the FFY of appropriation, for the
+
+RSA-17 OMB Control Number: 1820-0017 
+19 
+construction of facilities for CRP purposes. Non-Federal expenditures for the 
+purpose of constructing a facility for a CRP will not be counted toward the State’s 
+maintenance of effort (Section 101(a)(17)(C) and 34 C.F.R. § 361.62(b)).  
+ 
+Do not include Federal funds used for this purpose. Only include those 
+expenditures, paid with non-Federal funds, for activities that would meet the 
+definition of “construction of a facility for a public or nonprofit community 
+rehabilitation program” at 34 C.F.R. § 361.5(c)(10). Do not include the 
+expenditures reported on line 28 for staffing or other costs associated with 
+establishment projects, such as those additional costs included in the definition of 
+“establishment, development, or improvement of a public or nonprofit community 
+rehabilitation program” at 34 C.F.R. § 361.5(c)(16), as these costs will be 
+reported on line 39a. If no funds were used for purposes identified in 
+34 C.F.R. § 361.5(c)(10) during the reporting period, enter zero on this line. 
+  
+E. Reporting Non-Federal Share in the Carryover Year  
+(5
+th through 8th Quarter) 
+ 
+Overview: As noted in section D above, all non-Federal expenditures and obligations 
+used for match purposes must be incurred during the FFY of appropriation. During the 
+carryover year, the awardee must liquidate all unliquidated obligations reported on line 
+29 as having been incurred by the end of the FFY of appropriation but not liquidated by 
+that time. All unliquidated obligations reported on line 29 for match purposes, incurred 
+prior to the end of the FFY of appropriation, must be liquidated by the end of the 
+liquidation period for that award (i.e., 120 days after the end of the 8
+th quarter (period 
+of performance)). However, we recognize unliquidated obligations sometimes fall 
+through during the carryover year and must be cancelled or deobligated. When this 
+occurs, the awardee can no longer count those obligations toward satisfying its match 
+requirement. 
+  
+If non-Federal unliquidated obligations from the end of the 4th quarter, needed to 
+carryover funds, are cancelled, but the awardee had access to additional non-Federal 
+funds prior to end of the 4th quarter, then the awardee may adjust its accounting records 
+to reassign Federal expenditures paid prior to the end of the FFY of appropriation to 
+non-Federal funds to increase the amount of non-Federal share the awardee reported as 
+incurred by the end of the FFY of appropriation. The awardee has the flexibility during 
+the carryover year to make accounting adjustments with respect to expenditures 
+incurred prior to the end of the FFY of appropriation to ensure it continues to satisfy its 
+non-Federal share and/or maintenance of effort requirement. Such accounting 
+adjustments must be consistent with the State and awardee policies/procedures and 
+Generally Accepted Accounting Principles (GAAP). As a result, based on the Final 
+RSA-17 report, the actual total match provided by an awardee is the sum of lines 28, 
+Total Non-Federal Share of Expenditures (4
+th Quarter) and 32, Non-Federal 
+Expenditures for Unliquidated Obligations Reported on Line 29 - Liquidated After the 
+4th Quarter (8th Quarter). To be clear, the amount listed on line 32 only reflects the 
+liquidation in the carryover year of non-Federal obligations incurred prior to the end of
+
+RSA-17 OMB Control Number: 1820-0017 
+20 
+the FFY of appropriation. These are not new expenditures or obligations incurred 
+during the carryover year, which are reported below on line 33. 
+  
+32. Non-Federal Expenditures for Unliquidated Obligations Reported on Line 29 -
+Liquidated After the 4th Quarter (5th through 8th Quarter): 
+ 
+• This line is only used when the FFY of appropriation 4th quarter report is not 
+submitted as the Final report. The State must have met the requirements of 
+Section 19 of the Rehabilitation Act for carrying over funds to report an 
+amount on this line item. If the State did not qualify for carrying over Federal 
+funds because it did not satisfy the requirements of Section 19, the awardee 
+must mark its 4th quarter report final and the awardee has 120 days after the 
+end of the period of performance to liquidate all obligations unless a late 
+liquidation request has been approved by RSA. When the 4
+th quarter is marked 
+final under these circumstances, line 32 should remain blank. 
+  
+For awardees in States that met the requirements of Section 19 of the 
+Rehabilitation Act to carry over Federal funds, use line 32 to enter the amount of 
+liquidations from the amount of non-Federal unliquidated obligations reported on 
+line 29, Non-Federal Share of Unliquidated Obligations, of the awardee’s 4
+th 
+quarter RSA-17 report that were liquidated during the subsequent reporting 
+period. The amount reported on line 32 reflects only the non-Federal obligations 
+that were reported on line 29 as incurred on or prior to September 30 of the FFY 
+of appropriation, but which were not liquidated by that date; line 32 reflects the 
+amount of those reported unliquidated obligations that have been liquidated 
+during the carryover year. Awardees may not report new non-Federal 
+expenditures on line 32 (i.e., non-Federal expenditures incurred during the 
+carryover year should be reported on line 33). Non-Federal share can only be 
+counted as match when obligated by September 30 of the FFY of appropriation of 
+an award as indicated on line 29 of the awardee’s 4
+th quarter RSA-17 and 
+liquidated within 120 days after the end of the period of performance for that 
+award. 
+  
+Unliquidated obligations reported on the 4
+th quarter report (i.e., those that were 
+incurred during the FFY of appropriation) that are cancelled during the 
+carryover period, or otherwise not liquidated after the FFY of appropriation, may 
+not be used toward satisfying the match requirement for the FFY of appropriation 
+for that award because those obligations never came to fruition for the VR 
+program. This means, an awardee may not have access to its full Federal award 
+for obligation and use in the carryover year if there were no excess non-Federal 
+expenditures incurred prior to September 30 of the FFY of appropriation to cover 
+the loss of these unliquidated obligations that “fell through” in the carryover year.  
+Funds for obligations reported on line 29, Non-Federal Share of Unliquidated 
+Obligations, cancelled during the carryover period, may not be re-obligated or 
+liquidated for expenditures incurred during the carryover period and counted as 
+match for the period of performance for the award because, pursuant to Section 19
+
+RSA-17 OMB Control Number: 1820-0017 
+21 
+of the Rehabilitation Act, match must be satisfied by the end of the FFY of 
+appropriation in order to carry over funds to the subsequent year.  
+ 
+If non-Federal unliquidated obligations from the end of the 4
+th quarter, needed to 
+carryover funds, are cancelled, but the awardee had access to additional non-
+Federal funds prior to end of the 4
+th quarter, then the awardee may adjust its 
+accounting records to reassign Federal expenditures paid prior to the end of the 
+FFY of appropriation to non-Federal funds to increase the amount of non-Federal 
+share the State reported as having incurred by the end of the FFY of 
+appropriation. This will result in a surplus of Federal cash on hand because 
+Federal funds previously used to pay for an expenditure have now been adjusted 
+to be paid with non-Federal funds. In this instance, the RSA-17 submitted by the 
+awardee for the 4
+th quarter of the FFY of appropriation must be revised to reflect 
+an increased non-Federal share of expenditures, line 28, and a decreased amount 
+of Federal expenditures, line 14. The awardee should ensure its internal controls 
+address how the excess cash on hand is managed to ensure compliance with the 
+Cash Management Improvement Act (CMIA) requirements and note in the 
+Remarks section (line 42) of the RSA-17 the reason for the excess Federal cash on 
+hand. 
+ 
+The awardee is responsible for ensuring that all RSA-17 data submitted, including 
+changes, are reflected in the State’s accounting system and consistent with the 
+State’s and awardee’s accounting policies/procedures and GAAP. Accounting 
+adjustments to expenditures incurred in a prior period (e.g., through the 4
+th 
+quarter) require the awardee to request a revision to the prior reporting period 
+submission that coincides with when the expenditure occurred. 
+ 
+33. Additional New Non-Federal Expenditures (5th through 8th Quarter): 
+ 
+For purposes of the VR program, an awardee must report all non-Federal 
+expenditures in the FFY in which those expenditures are incurred for purposes of 
+satisfying the maintenance of effort (MOE) requirement at Section 111(a)(2)(B) 
+of the Rehabilitation Act because MOE is determined on an FFY basis, not on the 
+basis of a period of performance for an entire grant award. Enter on line 33 the 
+amount, if any, of new non-Federal expenditures incurred during the carryover 
+year. The amount on line 33, if any, represents new expenditures and obligations 
+incurred during the carryover year, in accordance with 34 C.F.R. § 76.707. The 
+amount reported on line 33 must not include the liquidation of obligations that 
+were incurred during the FFY of appropriation, and reported on line 29, then 
+liquidated during the carryover year and reported on line 32. The non-Federal 
+expenditures reported on line 33, if any, will not count toward the match 
+requirement of either the prior FFY year of appropriation or the current FFY, but 
+will count toward the current FFY’s MOE requirement.
+
+RSA-17 OMB Control Number: 1820-0017 
+22 
+34. Non-Federal Share for Establishment of Facilities for CRP Purposes  
+(5th through 8th Quarter): 
+ 
+Enter the non-Federal share of expenditures, also included on line 33, Additional 
+New Non-Federal Expenditures, incurred during the carryover year, for the 
+establishment of facilities for CRP purposes. Non-Federal expenditures for the 
+purpose of establishing a facility for a CRP will not be counted toward the State’s 
+maintenance of effort (34 C.F.R. § 361.62(b)).  
+ 
+Do not include Federal funds used for this purpose. Only include those 
+expenditures, paid with non-Federal funds, for activities that would meet the 
+definition of “establishment of a facility for a public or nonprofit community 
+rehabilitation program” at 34 C.F.R. § 361.5(c)(17). Do not include expenditures 
+for staffing or other costs associated with establishment projects, such as those 
+additional costs included in the definition of “establishment, development, or 
+improvement of a public or nonprofit community rehabilitation program” at 34 
+C.F.R. § 361.5(c)(16), as these costs will be reported on line 39a. If no funds were 
+used for purposes identified in 34 C.F.R. § 361.5(c)(17) during the reporting 
+period, enter zero on this line. 
+ 
+35. Non-Federal Share for Construction of Facilities for CRP Purposes  
+(5th through 8th Quarter): 
+ 
+Enter the non-Federal share of expenditures, also included on line 33, Additional 
+New Non-Federal Expenditures, incurred during the carryover year, for the 
+construction of facilities for CRP purposes. Non-Federal expenditures for the 
+purpose of constructing a facility for a CRP will not be counted toward the State’s 
+maintenance of effort (Section 101(a)(17)(C) and 34 C.F.R. § 361.62(b)).  
+ 
+Do not include Federal funds used for this purpose. Only include those 
+expenditures, paid with non-Federal funds, for activities that would meet the 
+definition of “construction of a facility for a public or nonprofit community 
+rehabilitation program” at 34 C.F.R. § 361.5(c)(10). Do not include expenditures 
+for staffing or other costs associated with establishment projects, such as those 
+additional costs included in the definition of “establishment, development, or 
+improvement of a public or nonprofit community rehabilitation program” at 34 
+C.F.R. § 361.5(c)(16), as these costs will be reported on line 39a. If no funds were 
+used for purposes identified in 34 C.F.R. § 361.5(c)(10) during the reporting 
+period, enter zero on this line. 
+  
+F. Indirect Expenses 
+ 
+Indirect costs (2 C.F.R. § 200.1) are generally charged to Federal awards via an 
+approved indirect cost rate or cost allocation plan. Any awardee that wishes to claim 
+indirect costs under Federal grants through an indirect cost rate must prepare an indirect 
+cost rate proposal (2 C.F.R. § 200.1) and submit it to the cognizant Federal agency for
+
+RSA-17 OMB Control Number: 1820-0017 
+23 
+indirect costs for approval (2 C.F.R. part 200, Appendix VII, paragraph D). Awardees 
+claiming indirect expenses based on a cost allocation plan (2 C.F.R. part 200, Appendix 
+VII, paragraph F.3), rather than an indirect cost rate, must develop, document, maintain 
+for audit, or submit, as appropriate, a narrative cost allocation methodology for indirect 
+costs to the cognizant agency for review, negotiation, and approval. Awardees must 
+ensure internal controls are adequate to report indirect costs timely and accurately.   
+ 
+Note: Indirect costs will be reported in Section F, line 36 and Section G, Administrative 
+Expenditures, line 37, as well as the applicable Federal, Program Income, and non-
+Federal sections (B, C and D). Cost allocation plan costs will not be reported in Section 
+F, line 36, but will be reported in Section G, Administrative line 37, as well as the 
+applicable Federal, Program Income, and non-Federal sections (B, C and D). 
+ 
+Awardees with indirect cost rates that change between State fiscal years must use 
+separate rows for each approved indirect cost rate applicable to expenditures incurred 
+during the period of performance. 
+ 
+36. Federal Cognizant Agency for Indirect Costs:  
+ 
+Enter the name of the Federal cognizant agency that approved the awardee’s 
+indirect cost rate. 
+ 
+a. Type of Rate(s):  
+ 
+Select whether the approved indirect cost rate is Provisional, Predetermined, 
+Final, or Fixed. 
+ 
+b. Rate:  
+ 
+Enter the approved indirect cost rate(s) in effect during the reporting period as 
+a whole number (e.g., enter “8.5” if the approved rate is 8.5 percent, instead of 
+0.085). 
+ 
+c.  Period From: 
+ 
+Enter the beginning effective date(s) for the approved indirect cost rate(s). 
+ 
+d. Period To:  
+ 
+Enter the ending date(s) for the approved indirect cost rate(s). 
+ 
+e. Base:  
+ 
+Enter the amount of the base against which the approved indirect cost rate(s) 
+was applied. The base includes expenditures to which the approved indirect 
+cost rate may be applied.
+
+RSA-17 OMB Control Number: 1820-0017 
+24 
+ 
+f. Amount Charged (line 36b multiplied by line 36e): 
+• Data entry not required. 
+ 
+g. Federal Share: 
+ 
+Enter the Federal share of the amount in 36f, Amount Charged. 
+ 
+h. Totals:  
+• Data entry not required. 
+ 
+G. Select Federal and Non-Federal Expenditures (Include Expenditures Incurred 
+with Program Income — Do NOT I nclude Unliquidated Obligations) 
+ 
+The expenditures reported in this section are a subset of those in Sections B, C and D, 
+and will not reconcile to those data elements. 
+ 
+37. Administrative Expenditures: 
+ 
+Include on this line all expenditures incurred in the performance of administrative 
+functions under the VR program, including expenses related to program planning, 
+development, monitoring, evaluation, and infrastructure expenditures for the one-
+stop service delivery system. See definition of “administrative costs,” for 
+purposes of the VR program, at 34 C.F.R. § 361.5(c)(2). This should include both 
+direct and indirect administrative expenditures, regardless of whether 
+expenditures are charged in accordance with an approved indirect cost rate or cost 
+allocation plan. Include program income expenditures, but do not include any 
+unliquidated obligations. Examples include, but are not limited to expenditures 
+for:  
+ 
+• Quality assurance;  
+• Budgeting, accounting, financial management and information systems;  
+• Providing program information to the public;  
+• Technical assistance and support services to other State agencies, private 
+nonprofit organizations, and businesses and industries, except for technical 
+assistance and support services described in § 361.49(a)(4);  
+• The State Rehabilitation Council and other advisory committees; 
+• Professional organization membership dues for designated State unit 
+(DSU) employees;  
+• The removal of architectural barriers in State VR agency offices and State-
+operated rehabilitation facilities;  
+• Operating and maintaining DSU facilities, equipment, and grounds, as 
+well as the infrastructure of the one-stop system;  
+• Supplies;  
+• Administration of Comprehensive System of Personnel Development, 
+including personnel administration, training, and staff development;
+
+RSA-17 OMB Control Number: 1820-0017 
+25 
+• Administrative salaries, including support staff;  
+• Travel expenditures; 
+• Conducting reviews of determinations made by personnel of the DSU; and 
+legal expenses (34 C.F.R. § 361.5(c)(2)). 
+ 
+In addition, include personnel costs of regional, district and field office 
+supervisors who do not manage a participant caseload or perform the functions of 
+a VR counselor. Furthermore, report costs of field office rent, utilities, and 
+supply costs, etc., and any staff travel to carry out the program that is not 
+related to the provision of VR services (34 C.F.R. § 361.5(c)(2)(xii)). 
+ 
+38. Not Applicable 
+ 
+39. Services to Groups: 
+ 
+Enter the amount of Federal and non-Federal funds, including program income, 
+expended for each of the following services to groups of individuals with 
+disabilities in accordance with Section 103(b) of the Rehabilitation Act and 
+34 C.F.R. § 361.49.  
+ 
+a. Establishment, Development, or Improvement of CRPs: 
+(34 C.F.R. § 361.49(a)(1)) 
+ 
+This includes Federal and non-Federal costs for the establishment, 
+development, or improvement of a public or nonprofit CRP 
+(34 C.F.R. § 361.5(c)(16)); the establishment of a facility for a public or 
+nonprofit CRP (34 C.F.R. § 361.5(c)(17)); and the construction of a facility 
+for a public or nonprofit CRP (34 C.F.R. § 361.5(c)(10)). 
+ 
+b. Telecommunication Systems: (34 C.F.R. § 361.49(a)(2)) 
+ 
+c. Special Services to Provide Nonvisual Access to Information: 
+(34 C.F.R. § 361.49(a)(3)) 
+ 
+d. Technical Assistance to Businesses: (34 C.F.R. § 361.49(a)(4)) 
+ 
+e. Business Enterprise Program, including the Randolph-Sheppard program: 
+(34 C.F.R. § 361.49(a)(5)) 
+ 
+Report the Federal and non-Federal expenditures, as well as Randolph-
+Sheppard set-aside expenditures spent on allowable activities under 34 C.F.R. 
+§ 361.49(a)(5), including management and supervision services, purchase of 
+new or replacement equipment, repair of equipment. Include Federal and non-
+Federal expenditures spent on initial stocks and supplies (up to the first six 
+months) and initial operating expenses (up to the first six months).
+
+RSA-17 OMB Control Number: 1820-0017 
+26 
+f. Transition Consultation and Technical Assistance: (34 C.F.R. § 361.49(a)(6)) 
+ 
+g. Transition Services to Youth and Students: (34 C.F.R. § 361.49(a)(7)) 
+ 
+Section 103(b) of the Rehabilitation Act, as amended by the Workforce 
+Innovation and Opportunity Act (WIOA) authorizes VR services provided for 
+the benefit of groups of individuals with disabilities, including transition 
+services for students and youth with disabilities, who may not have applied for 
+or been determined eligible for vocational rehabilitation services. (Section 
+103(b)(7) of the Rehabilitation Act and 34 C.F.R. § 361.49(a)(7)). These 
+specific transition services are to benefit a group of students with disabilities 
+or youth with disabilities and are not individualized services directly related to 
+an individualized plan for employment (IPE) goal, which are reported in 
+Section B. line 15. 
+ 
+These expenditures may not be charged to the funds reserved for the provision 
+of pre-employment transition services.  
+ 
+h. Establishment, Development, or Improvement of Assistive Technology: 
+(34 C.F.R. § 361.49(a)(8)) 
+ 
+i. Support for Advanced Training: (34 C.F.R. § 361.49(a)(9)) 
+ 
+40. American Job Center Infrastructure Expenditures: 
+ 
+Enter the total amount of Federal and Non-Federal funds disbursed for payment of 
+American Job Center (AJC)/one-stop center infrastructure expenditures. The 
+Federal share amount listed on line 40 is also included on line 14, which identifies 
+the total amount of all Federal expenditures incurred under the VR program for all 
+purposes, and line 37, Administrative Expenditures. Similarly, the non-Federal 
+share included in line 40 is included in line 28 or 33, in accordance with those 
+line-item instructions, which include the total amount of non-Federal expenditures 
+incurred under the VR program for all purposes, and line 37, Administrative 
+Expenditures.  
+ 
+Infrastructure expenditures for AJCs are defined as non-personnel costs that are 
+necessary for the general operation of the one-stop center, including: rental of the 
+facilities; utilities and maintenance; equipment (including assessment-related and 
+assistive technology for individuals with disabilities); and technology to facilitate 
+access to the one-stop center, including technology used for the center’s planning 
+and outreach activities (WIOA Section 121(h)(4), 34 C.F.R. § 361.700). This list 
+is not exhaustive. For example, expenditures for the development and use of the 
+common identifier (i.e., AJC signage) and supplies, as defined in the Uniform 
+Guidance at 2 C.F.R. § 200.1, used to support the general operation of the one-
+stop center, may be considered allowable infrastructure expenditures. It is 
+important to note that VR funds used to pay for the VR program’s proportional
+
+RSA-17 OMB Control Number: 1820-0017 
+27 
+share of the infrastructure costs of the AJCs are considered “administrative costs,” 
+as defined in 34 C.F.R. § 361.5(c)(2)(viii), for purposes of the VR program. 
+Non-personnel expenditures include all expenditures that are not compensation 
+for personal services. For example, payments for technology-related services 
+performed by vendors or contractors are non-personnel expenditures and may be 
+identified as infrastructure expenditures if they are necessary for the general 
+operation of the one-stop center. Such expenditures may include service contracts 
+with vendors or contractors, equipment, and supplies. Do not include in line 40 
+any non-cash, third-party in-kind contributions, or additional costs including 
+career services and shared operating costs or shared services, including personnel 
+costs. 
+ 
+For additional information about infrastructure expenditures, refer to 
+TAC 17-03: Infrastructure Funding of the One-Stop Delivery System. 
+ 
+41. Innovation and Expansion (I&E) Expenditures: 
+ 
+Enter the total amount of Federal and non-Federal funds expended for the 
+development and implementation of innovative approaches to expand and 
+improve the provision of vocational rehabilitation services to individuals with 
+disabilities in accordance with (Section 101(a)(18) of the Rehabilitation Act and 
+34 C.F.R. § 361.35). 
+ 
+a. I&E Expenditures Supporting State Rehabilitation Council Resource Plan: 
+Of the total amount of I&E expenditures reported on line 41, enter the amount 
+that was expended for I&E expenditures supporting the State Rehabilitation 
+Council resource plan (34 C.F.R. § 361.35(a)(2)). 
+ 
+b. I&E Expenditures Supporting the State Independent Living Council Resource 
+Plan: 
+ 
+Of the total amount of I&E expenditures reported on line 41, enter the amount 
+that was expended for I&E expenditures supporting the State Independent 
+Living Council resource plan (34 C.F.R. § 361.35(a)(3)). 
+ 
+H. Remarks 
+ 
+42. Remarks: 
+ 
+This section can be used, as needed, to clarify and explain amounts reported and 
+changes from amounts previously reported. If line 13, Federal Cash On Hand, 
+indicates more than three business days of cash are on hand, awardees must 
+provide an explanation as to why the drawdown was made prematurely or other 
+reasons for the excess cash.
+
+RSA-17 OMB Control Number: 1820-0017 
+28 
+I. Certification 
+ 
+By signing this report, I certify to the best of my knowledge and belief that the report is 
+true, complete, and accurate, and the expenditures, disbursements and cash receipts are 
+for the purposes and objectives set forth in the terms and conditions of the Federal 
+award. I am aware that any false, fictitious, or fraudulent information, or the omission 
+of any material fact, may subject me to criminal, civil or administrative penalties for 
+fraud, false statements, false claims or otherwise. (U.S. Code Title 18, Section 1001 
+and Title 31, Sections 3729-3730 and 3801-3812). 
+ 
+43. Full Legal Name of Signer:* 
+ 
+Enter the full name of the certifying official that is legally authorized to submit 
+the form and attest to the certification above. 
+ 
+a. Certifying Official Title:* 
+ 
+Enter the official title of the certifying official that is legally authorized to submit 
+the form and attest to the certification above. 
+ 
+44. Telephone (Area code, number):* 
+ 
+Enter the telephone number of the authorized certifying official. 
+ 
+a. Telephone Extension (if any):* 
+ 
+45. Email Address: 
+ 
+Enter the email address of the authorized certifying official. 
+ 
+46. Signature:* 
+ 
+By checking this box and typing the full legal name above, the individual has 
+electronically signed the form. 
+ 
+47. Date Report Submitted: 
+• Data entry not required.

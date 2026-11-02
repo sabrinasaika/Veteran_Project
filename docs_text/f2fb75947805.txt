@@ -1,0 +1,12 @@
+FILENAME: match-20calculator-xlsx-91a76bc67379.xlsx
+PATH: _raw/rsa.ed.gov/match-20calculator-xlsx-91a76bc67379.xlsx
+
+=== SHEET: Sheet1 ===
+Calculating Non-Federal Share based on Grant Award Amount							
+ Program	Grant Award Amount	 Federal Share	State Share	Non-Federal Share (State Match)			
+State Vocational Rehabilitation (VR) Services program		0.787	0.213	0			
+State Supported Employment Services - B program or Independent Living Services for Older Individuals Who Are Blind (OIB) program		0.9	0.1	0			
+Calculating Maximum Amount of Federal Funds Potentially Available Based on Non-Federal Share Amount							
+ Program	 Non-Federal Share (State Match) Available 	 State Share	 Federal Share	Maximum Amount of Federal Funds Potentially Available Based on Non-Federal Share Amount 			
+State Vocational Rehabilitation (VR) Services program		0.213	0.787	0			
+State Supported Employment Services - B program or Independent Living Services for Older Individuals Who Are Blind (OIB) program		0.1	0.9	0

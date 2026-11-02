@@ -1,0 +1,1592 @@
+{
+  "source_type": "jvr_pdf_candidate",
+  "doi": "10.1177/10522263251413800",
+  "doi_url": "https://doi.org/10.1177/10522263251413800",
+  "source_url": "https://journals.sagepub.com/doi/10.1177/10522263251413800",
+  "attempted_pdf_urls": [
+    "https://journals.sagepub.com/doi/pdf/10.1177/10522263251413800",
+    "https://journals.sagepub.com/doi/10.1177/10522263251413800",
+    "https://doi.org/10.1177/10522263251413800",
+    "https://content.iospress.com/download?id=10.1177/10522263251413800"
+  ],
+  "selected_pdf_url": "",
+  "selected_final_url": "",
+  "download_status": "unavailable",
+  "match": {
+    "veteran_hits": [
+      "va "
+    ],
+    "pathway_hits": [
+      "employment",
+      "supported employment"
+    ],
+    "disability_hits": [
+      "disabilities"
+    ]
+  },
+  "openalex": {
+    "id": "https://openalex.org/W7125798538",
+    "doi": "https://doi.org/10.1177/10522263251413800",
+    "title": "Exploring Technology Use to Facilitate Supported Employment Service Delivery to Individuals with IDD Living in Rural Areas",
+    "display_name": "Exploring Technology Use to Facilitate Supported Employment Service Delivery to Individuals with IDD Living in Rural Areas",
+    "publication_year": 2026,
+    "publication_date": "2026-01-27",
+    "ids": {
+      "openalex": "https://openalex.org/W7125798538",
+      "doi": "https://doi.org/10.1177/10522263251413800"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/10522263251413800",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/10522263251413800",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S190353498",
+        "display_name": "Journal of Vocational Rehabilitation",
+        "issn_l": "1052-2263",
+        "issn": [
+          "1052-2263",
+          "1878-6316"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310318577",
+        "host_organization_name": "IOS Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310318577"
+        ],
+        "host_organization_lineage_names": [
+          "IOS Press"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Vocational Rehabilitation",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5123915013",
+          "display_name": "Holly N Whittenburg",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I72951846",
+            "display_name": "Washington State University",
+            "ror": "https://ror.org/05dk0ce17",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I72951846"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Holly N Whittenburg",
+        "raw_affiliation_strings": [
+          "Department of Teaching & Learning, Washington State University, Pullman, Washington, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Teaching & Learning, Washington State University, Pullman, Washington, USA",
+            "institution_ids": [
+              "https://openalex.org/I72951846"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5124035564",
+          "display_name": "Joshua P Taylor",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I72951846",
+            "display_name": "Washington State University",
+            "ror": "https://ror.org/05dk0ce17",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I72951846"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Joshua P Taylor",
+        "raw_affiliation_strings": [
+          "Department of Teaching & Learning, Washington State University, Pullman, Washington, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Teaching & Learning, Washington State University, Pullman, Washington, USA",
+            "institution_ids": [
+              "https://openalex.org/I72951846"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5123946648",
+          "display_name": "Don D McMahon",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I72951846",
+            "display_name": "Washington State University",
+            "ror": "https://ror.org/05dk0ce17",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I72951846"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Don D McMahon",
+        "raw_affiliation_strings": [
+          "Department of Teaching & Learning, Washington State University, Pullman, Washington, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Teaching & Learning, Washington State University, Pullman, Washington, USA",
+            "institution_ids": [
+              "https://openalex.org/I72951846"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5124031754",
+          "display_name": "Sara Park",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I135310074",
+            "display_name": "University of Wisconsin–Madison",
+            "ror": "https://ror.org/01y2jtd41",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I135310074"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Sara Park",
+        "raw_affiliation_strings": [
+          "University of Wisconsin-Madison"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of Wisconsin-Madison",
+            "institution_ids": [
+              "https://openalex.org/I135310074"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5123917018",
+          "display_name": "Jeffrey Meyer",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I135310074",
+            "display_name": "University of Wisconsin–Madison",
+            "ror": "https://ror.org/01y2jtd41",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I135310074"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Jeffrey Meyer",
+        "raw_affiliation_strings": [
+          "University of Wisconsin-Madison"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of Wisconsin-Madison",
+            "institution_ids": [
+              "https://openalex.org/I135310074"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5124003972",
+          "display_name": "Catherine A Anderson",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I135310074",
+            "display_name": "University of Wisconsin–Madison",
+            "ror": "https://ror.org/01y2jtd41",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I135310074"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Catherine A Anderson",
+        "raw_affiliation_strings": [
+          "University of Wisconsin-Madison"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of Wisconsin-Madison",
+            "institution_ids": [
+              "https://openalex.org/I135310074"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5123955795",
+          "display_name": "Ángel Bonilla",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I72951846",
+            "display_name": "Washington State University",
+            "ror": "https://ror.org/05dk0ce17",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I72951846"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Ángel Bonilla",
+        "raw_affiliation_strings": [
+          "Department of Teaching & Learning, Washington State University, Pullman, Washington, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Teaching & Learning, Washington State University, Pullman, Washington, USA",
+            "institution_ids": [
+              "https://openalex.org/I72951846"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 7,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5123915013"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I72951846"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.22447924,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": "64",
+      "issue": "2",
+      "first_page": "135",
+      "last_page": "145"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11015",
+      "display_name": "Down syndrome and intellectual disability research",
+      "score": 0.3776000142097473,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2739",
+        "display_name": "Public Health, Environmental and Occupational Health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11015",
+        "display_name": "Down syndrome and intellectual disability research",
+        "score": 0.3776000142097473,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2739",
+          "display_name": "Public Health, Environmental and Occupational Health"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12207",
+        "display_name": "Assistive Technology in Communication and Mobility",
+        "score": 0.22120000422000885,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3609",
+          "display_name": "Occupational Therapy"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/36",
+          "display_name": "Health Professions"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11514",
+        "display_name": "Disability Education and Employment",
+        "score": 0.12309999763965607,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3311",
+          "display_name": "Safety Research"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/service-delivery-framework",
+        "display_name": "Service delivery framework",
+        "score": 0.714900016784668
+      },
+      {
+        "id": "https://openalex.org/keywords/rural-area",
+        "display_name": "Rural area",
+        "score": 0.6161999702453613
+      },
+      {
+        "id": "https://openalex.org/keywords/service",
+        "display_name": "Service (business)",
+        "score": 0.599399983882904
+      },
+      {
+        "id": "https://openalex.org/keywords/intervention",
+        "display_name": "Intervention (counseling)",
+        "score": 0.5113000273704529
+      },
+      {
+        "id": "https://openalex.org/keywords/service-provider",
+        "display_name": "Service provider",
+        "score": 0.5041999816894531
+      },
+      {
+        "id": "https://openalex.org/keywords/best-practice",
+        "display_name": "Best practice",
+        "score": 0.3862999975681305
+      },
+      {
+        "id": "https://openalex.org/keywords/appropriate-technology",
+        "display_name": "Appropriate technology",
+        "score": 0.3580999970436096
+      },
+      {
+        "id": "https://openalex.org/keywords/service-system",
+        "display_name": "Service system",
+        "score": 0.3449000120162964
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C68595000",
+        "wikidata": "https://www.wikidata.org/wiki/Q2274177",
+        "display_name": "Service delivery framework",
+        "level": 3,
+        "score": 0.714900016784668
+      },
+      {
+        "id": "https://openalex.org/C144133560",
+        "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+        "display_name": "Business",
+        "level": 0,
+        "score": 0.6696000099182129
+      },
+      {
+        "id": "https://openalex.org/C129047720",
+        "wikidata": "https://www.wikidata.org/wiki/Q175185",
+        "display_name": "Rural area",
+        "level": 2,
+        "score": 0.6161999702453613
+      },
+      {
+        "id": "https://openalex.org/C2780378061",
+        "wikidata": "https://www.wikidata.org/wiki/Q25351891",
+        "display_name": "Service (business)",
+        "level": 2,
+        "score": 0.599399983882904
+      },
+      {
+        "id": "https://openalex.org/C2780665704",
+        "wikidata": "https://www.wikidata.org/wiki/Q959298",
+        "display_name": "Intervention (counseling)",
+        "level": 2,
+        "score": 0.5113000273704529
+      },
+      {
+        "id": "https://openalex.org/C116537",
+        "wikidata": "https://www.wikidata.org/wiki/Q2169973",
+        "display_name": "Service provider",
+        "level": 3,
+        "score": 0.5041999816894531
+      },
+      {
+        "id": "https://openalex.org/C162853370",
+        "wikidata": "https://www.wikidata.org/wiki/Q39809",
+        "display_name": "Marketing",
+        "level": 1,
+        "score": 0.41990000009536743
+      },
+      {
+        "id": "https://openalex.org/C184356942",
+        "wikidata": "https://www.wikidata.org/wiki/Q830382",
+        "display_name": "Best practice",
+        "level": 2,
+        "score": 0.3862999975681305
+      },
+      {
+        "id": "https://openalex.org/C528615729",
+        "wikidata": "https://www.wikidata.org/wiki/Q537823",
+        "display_name": "Appropriate technology",
+        "level": 2,
+        "score": 0.3580999970436096
+      },
+      {
+        "id": "https://openalex.org/C15587899",
+        "wikidata": "https://www.wikidata.org/wiki/Q7455812",
+        "display_name": "Service system",
+        "level": 3,
+        "score": 0.3449000120162964
+      },
+      {
+        "id": "https://openalex.org/C3017715821",
+        "wikidata": "https://www.wikidata.org/wiki/Q688498",
+        "display_name": "Assistive technology",
+        "level": 2,
+        "score": 0.34040001034736633
+      },
+      {
+        "id": "https://openalex.org/C142546437",
+        "wikidata": "https://www.wikidata.org/wiki/Q2661195",
+        "display_name": "Descriptive research",
+        "level": 2,
+        "score": 0.320499986410141
+      },
+      {
+        "id": "https://openalex.org/C3018552312",
+        "wikidata": "https://www.wikidata.org/wiki/Q315412",
+        "display_name": "Assisted living",
+        "level": 2,
+        "score": 0.31610000133514404
+      },
+      {
+        "id": "https://openalex.org/C207267971",
+        "wikidata": "https://www.wikidata.org/wiki/Q120208",
+        "display_name": "Emerging technologies",
+        "level": 2,
+        "score": 0.30979999899864197
+      },
+      {
+        "id": "https://openalex.org/C159110408",
+        "wikidata": "https://www.wikidata.org/wiki/Q121176",
+        "display_name": "Nursing",
+        "level": 1,
+        "score": 0.3091000020503998
+      },
+      {
+        "id": "https://openalex.org/C2778818304",
+        "wikidata": "https://www.wikidata.org/wiki/Q1819478",
+        "display_name": "Rehabilitation",
+        "level": 2,
+        "score": 0.30660000443458557
+      },
+      {
+        "id": "https://openalex.org/C2983812674",
+        "wikidata": "https://www.wikidata.org/wiki/Q134808",
+        "display_name": "Delivery system",
+        "level": 2,
+        "score": 0.273499995470047
+      },
+      {
+        "id": "https://openalex.org/C39896193",
+        "wikidata": "https://www.wikidata.org/wiki/Q380344",
+        "display_name": "Descriptive statistics",
+        "level": 2,
+        "score": 0.27239999175071716
+      },
+      {
+        "id": "https://openalex.org/C2779958979",
+        "wikidata": "https://www.wikidata.org/wiki/Q3473027",
+        "display_name": "Rural health",
+        "level": 3,
+        "score": 0.2583000063896179
+      },
+      {
+        "id": "https://openalex.org/C21333345",
+        "wikidata": "https://www.wikidata.org/wiki/Q1519843",
+        "display_name": "Health technology",
+        "level": 3,
+        "score": 0.2547999918460846
+      },
+      {
+        "id": "https://openalex.org/C21547014",
+        "wikidata": "https://www.wikidata.org/wiki/Q1423657",
+        "display_name": "Operations management",
+        "level": 1,
+        "score": 0.25360000133514404
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1177/10522263251413800",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1177/10522263251413800",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S190353498",
+          "display_name": "Journal of Vocational Rehabilitation",
+          "issn_l": "1052-2263",
+          "issn": [
+            "1052-2263",
+            "1878-6316"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310318577",
+          "host_organization_name": "IOS Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310318577"
+          ],
+          "host_organization_lineage_names": [
+            "IOS Press"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Vocational Rehabilitation",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "content_urls": null,
+    "referenced_works_count": 29,
+    "referenced_works": [
+      "https://openalex.org/W2021757135",
+      "https://openalex.org/W2046007620",
+      "https://openalex.org/W2104836964",
+      "https://openalex.org/W2169731898",
+      "https://openalex.org/W2314824676",
+      "https://openalex.org/W2765338052",
+      "https://openalex.org/W2766014918",
+      "https://openalex.org/W2769043151",
+      "https://openalex.org/W2806621019",
+      "https://openalex.org/W2975381016",
+      "https://openalex.org/W2975595193",
+      "https://openalex.org/W3004120787",
+      "https://openalex.org/W3083775576",
+      "https://openalex.org/W3172894093",
+      "https://openalex.org/W3179965861",
+      "https://openalex.org/W3205141098",
+      "https://openalex.org/W4213350940",
+      "https://openalex.org/W4280521637",
+      "https://openalex.org/W4281249564",
+      "https://openalex.org/W4310714236",
+      "https://openalex.org/W4311315149",
+      "https://openalex.org/W4319079588",
+      "https://openalex.org/W4367315271",
+      "https://openalex.org/W4377097363",
+      "https://openalex.org/W4384696972",
+      "https://openalex.org/W4386193228",
+      "https://openalex.org/W4395675670",
+      "https://openalex.org/W4402186703",
+      "https://openalex.org/W7087133090"
+    ],
+    "related_works": [],
+    "abstract_inverted_index": {
+      "Background": [
+        0
+      ],
+      "Employment": [
+        1,
+        80
+      ],
+      "specialists": [
+        2,
+        61,
+        81
+      ],
+      "providing": [
+        3,
+        146
+      ],
+      "supported": [
+        4
+      ],
+      "employment": [
+        5,
+        60
+      ],
+      "(SE)": [
+        6
+      ],
+      "to": [
+        7,
+        20,
+        52,
+        129,
+        149,
+        181,
+        195
+      ],
+      "individuals": [
+        8
+      ],
+      "with": [
+        9,
+        65,
+        152,
+        184
+      ],
+      "intellectual": [
+        10
+      ],
+      "and": [
+        11,
+        73,
+        98,
+        112,
+        120,
+        133,
+        192
+      ],
+      "developmental": [
+        12
+      ],
+      "disabilities": [
+        13
+      ],
+      "(IDD)": [
+        14
+      ],
+      "in": [
+        15,
+        55,
+        77,
+        88,
+        157
+      ],
+      "rural": [
+        16,
+        63,
+        150,
+        182
+      ],
+      "communities": [
+        17
+      ],
+      "face": [
+        18
+      ],
+      "barriers": [
+        19
+      ],
+      "effective": [
+        21
+      ],
+      "service": [
+        22,
+        57,
+        107,
+        124,
+        141,
+        179,
+        190
+      ],
+      "delivery.": [
+        23
+      ],
+      "Technology": [
+        24,
+        154
+      ],
+      "offers": [
+        25
+      ],
+      "promise": [
+        26
+      ],
+      "for": [
+        27,
+        59
+      ],
+      "enhancing": [
+        28
+      ],
+      "services,": [
+        29
+      ],
+      "yet": [
+        30
+      ],
+      "little": [
+        31
+      ],
+      "research": [
+        32
+      ],
+      "has": [
+        33
+      ],
+      "been": [
+        34
+      ],
+      "conducted": [
+        35
+      ],
+      "on": [
+        36,
+        70,
+        94,
+        105
+      ],
+      "how": [
+        37
+      ],
+      "technology": [
+        38,
+        76,
+        99,
+        113,
+        170,
+        176
+      ],
+      "can": [
+        39
+      ],
+      "be": [
+        40
+      ],
+      "incorporated": [
+        41,
+        161
+      ],
+      "into": [
+        42,
+        177
+      ],
+      "SE.": [
+        43,
+        78
+      ],
+      "Objective": [
+        44
+      ],
+      "The": [
+        45
+      ],
+      "purpose": [
+        46
+      ],
+      "of": [
+        47,
+        75,
+        139,
+        159,
+        166
+      ],
+      "this": [
+        48
+      ],
+      "pilot": [
+        49,
+        91
+      ],
+      "study": [
+        50
+      ],
+      "was": [
+        51,
+        144,
+        171
+      ],
+      "explore": [
+        53
+      ],
+      "changes": [
+        54
+      ],
+      "SE": [
+        56,
+        95,
+        140,
+        167,
+        178
+      ],
+      "delivery": [
+        58,
+        142,
+        180
+      ],
+      "supporting": [
+        62
+      ],
+      "residents": [
+        64,
+        183
+      ],
+      "IDD": [
+        66,
+        185
+      ],
+      "after": [
+        67
+      ],
+      "receiving": [
+        68
+      ],
+      "training": [
+        69
+      ],
+      "best": [
+        71,
+        96
+      ],
+      "practices": [
+        72,
+        97
+      ],
+      "use": [
+        74,
+        155
+      ],
+      "Method": [
+        79
+      ],
+      "from": [
+        82,
+        127
+      ],
+      "two": [
+        83
+      ],
+      "community": [
+        84
+      ],
+      "rehabilitation": [
+        85
+      ],
+      "providers": [
+        86
+      ],
+      "participated": [
+        87
+      ],
+      "a": [
+        89
+      ],
+      "6-month": [
+        90
+      ],
+      "intervention": [
+        92
+      ],
+      "focused": [
+        93
+      ],
+      "use.": [
+        100,
+        114
+      ],
+      "Monthly": [
+        101
+      ],
+      "data": [
+        102
+      ],
+      "were": [
+        103
+      ],
+      "collected": [
+        104
+      ],
+      "direct": [
+        106,
+        147
+      ],
+      "time,": [
+        108,
+        110
+      ],
+      "travel": [
+        109,
+        131
+      ],
+      "mileage,": [
+        111
+      ],
+      "Descriptive": [
+        115
+      ],
+      "analyses": [
+        116
+      ],
+      "investigated": [
+        117
+      ],
+      "differences": [
+        118
+      ],
+      "pre-": [
+        119,
+        128
+      ],
+      "post-intervention.": [
+        121
+      ],
+      "Results": [
+        122
+      ],
+      "Direct": [
+        123
+      ],
+      "time": [
+        125,
+        132,
+        143
+      ],
+      "increased": [
+        126,
+        156,
+        189
+      ],
+      "post-intervention;": [
+        130
+      ],
+      "mileage": [
+        134
+      ],
+      "decreased.": [
+        135
+      ],
+      "A": [
+        136
+      ],
+      "larger": [
+        137
+      ],
+      "proportion": [
+        138
+      ],
+      "spent": [
+        145
+      ],
+      "services": [
+        148,
+        187
+      ],
+      "consumers": [
+        151
+      ],
+      "IDD.": [
+        153
+      ],
+      "terms": [
+        158
+      ],
+      "tools": [
+        160
+      ],
+      "as": [
+        162,
+        164
+      ],
+      "well": [
+        163
+      ],
+      "range": [
+        165
+      ],
+      "activities": [
+        168
+      ],
+      "that": [
+        169
+      ],
+      "used": [
+        172
+      ],
+      "within.": [
+        173
+      ],
+      "Conclusion": [
+        174
+      ],
+      "Incorporating": [
+        175
+      ],
+      "enhanced": [
+        186
+      ],
+      "through": [
+        188
+      ],
+      "efficiency": [
+        191
+      ],
+      "innovative": [
+        193
+      ],
+      "approaches": [
+        194
+      ],
+      "addressing": [
+        196
+      ],
+      "problems.": [
+        197
+      ]
+    },
+    "counts_by_year": [],
+    "updated_date": "2026-03-27T05:58:40.876381",
+    "created_date": "2026-01-28T00:00:00"
+  },
+  "crossref": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          12
+        ]
+      ],
+      "date-time": "2026-03-12T00:58:01Z",
+      "timestamp": 1773277081773,
+      "version": "3.50.1"
+    },
+    "reference-count": 32,
+    "publisher": "SAGE Publications",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              1,
+              27
+            ]
+          ],
+          "date-time": "2026-01-27T00:00:00Z",
+          "timestamp": 1769472000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+      }
+    ],
+    "funder": [
+      {
+        "name": "Vocational Rehabilitation Technical Assistance Center for Quality Employment",
+        "award": [
+          "CFDA H264-K200003"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "CFDA H264-K200003"
+            ]
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.sagepub.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Journal of Vocational Rehabilitation"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          3
+        ]
+      ]
+    },
+    "abstract": "<jats:sec>\n                    <jats:title>Background</jats:title>\n                    <jats:p>Employment specialists providing supported employment (SE) to individuals with intellectual and developmental disabilities (IDD) in rural communities face barriers to effective service delivery. Technology offers promise for enhancing services, yet little research has been conducted on how technology can be incorporated into SE.  </jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Objective</jats:title>\n                    <jats:p>The purpose of this pilot study was to explore changes in SE service delivery for employment specialists supporting rural residents with IDD after receiving training on best practices and use of technology in SE.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Method</jats:title>\n                    <jats:p>Employment specialists from two community rehabilitation providers participated in a 6-month pilot intervention focused on SE best practices and technology use. Monthly data were collected on direct service time, travel time, mileage, and technology use. Descriptive analyses investigated differences pre- and post-intervention.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>Direct service time increased from pre- to post-intervention; travel time and mileage decreased. A larger proportion of SE service delivery time was spent providing direct services to rural consumers with IDD. Technology use increased in terms of tools incorporated as well as range of SE activities that technology was used within.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusion</jats:title>\n                    <jats:p>Incorporating technology into SE service delivery to rural residents with IDD enhanced services through increased service efficiency and innovative approaches to addressing problems.</jats:p>\n                  </jats:sec>",
+    "DOI": "10.1177/10522263251413800",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          27
+        ]
+      ],
+      "date-time": "2026-01-27T17:47:04Z",
+      "timestamp": 1769536024000
+    },
+    "page": "135-145",
+    "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Exploring Technology Use to Facilitate Supported Employment Service Delivery to Individuals with IDD Living in Rural Areas"
+    ],
+    "prefix": "10.1177",
+    "volume": "64",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-8893-657X",
+        "authenticated-orcid": false,
+        "given": "Holly N",
+        "family": "Whittenburg",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8512-6926",
+        "authenticated-orcid": false,
+        "given": "Joshua P",
+        "family": "Taylor",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0348-4042",
+        "authenticated-orcid": false,
+        "given": "Don D",
+        "family": "McMahon",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9584-5003",
+        "authenticated-orcid": false,
+        "given": "Sara",
+        "family": "Park",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Wisconsin-Madison"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7764-9639",
+        "authenticated-orcid": false,
+        "given": "Jeffrey",
+        "family": "Meyer",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Wisconsin-Madison"
+          }
+        ]
+      },
+      {
+        "given": "Catherine A",
+        "family": "Anderson",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Wisconsin-Madison"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0008-7407-5159",
+        "authenticated-orcid": false,
+        "given": "Ángel",
+        "family": "Bonilla",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "179",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          27
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_3_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/01626434241239922"
+      },
+      {
+        "key": "e_1_3_3_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1891/0047-2220.50.3.227"
+      },
+      {
+        "key": "e_1_3_3_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/004005991304600207"
+      },
+      {
+        "key": "e_1_3_3_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/21651434231152872"
+      },
+      {
+        "key": "e_1_3_3_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10803-017-3374-z"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_3_3_7_1",
+        "first-page": "109",
+        "article-title": "Website barriers to employment for people with disabilities",
+        "volume": "17",
+        "author": "Couture K. A.",
+        "year": "2017",
+        "unstructured": "Couture K. A., Johnson K. R. (2017). Website barriers to employment for people with disabilities. Journal of Business Diversity, 17(1), 109–117.",
+        "journal-title": "Journal of Business Diversity"
+      },
+      {
+        "key": "e_1_3_3_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1352/1934-9556-51.4.215"
+      },
+      {
+        "key": "e_1_3_3_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-319-64786-9_2"
+      },
+      {
+        "key": "e_1_3_3_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/cl2.1185"
+      },
+      {
+        "key": "e_1_3_3_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10803-014-2221-8"
+      },
+      {
+        "key": "e_1_3_3_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1352/2326-6988-10.4.297"
+      },
+      {
+        "key": "e_1_3_3_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/jar.13005"
+      },
+      {
+        "key": "e_1_3_3_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-191048"
+      },
+      {
+        "key": "e_1_3_3_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-221223"
+      },
+      {
+        "key": "e_1_3_3_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/215416472205700204"
+      },
+      {
+        "issue": "2",
+        "key": "e_1_3_3_17_1",
+        "first-page": "47",
+        "article-title": "Rehabilitation counseling in rural settings: A phenomenological study on barriers and supports",
+        "volume": "85",
+        "author": "Landon T.",
+        "year": "2019",
+        "unstructured": "Landon T., Connor A., McKnight-Lizotte M., Peña J. (2019). Rehabilitation counseling in rural settings: A phenomenological study on barriers and supports. Journal of Rehabilitation, 85(2), 47–57.",
+        "journal-title": "Journal of Rehabilitation"
+      },
+      {
+        "key": "e_1_3_3_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/01626434231165977"
+      },
+      {
+        "key": "e_1_3_3_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-319-64786-9_3"
+      },
+      {
+        "key": "e_1_3_3_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.33043/3dq2d32d"
+      },
+      {
+        "key": "e_1_3_3_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/jar.13152"
+      },
+      {
+        "key": "e_1_3_3_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fresc.2022.877555"
+      },
+      {
+        "key": "e_1_3_3_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1352/1934-9556-51.5.376"
+      },
+      {
+        "key": "e_1_3_3_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/0144929X.2021.1954693"
+      },
+      {
+        "key": "e_1_3_3_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JVR-221182"
+      },
+      {
+        "key": "e_1_3_3_26_1",
+        "volume-title": "Employment disparity grows for rural Americans with disability",
+        "author": "Research and Training Center on Disability in Rural Communities",
+        "unstructured": "Research and Training Center on Disability in Rural Communities. (2019, January). Employment disparity grows for rural Americans with disability. The University of Montana, Rural Institute for Inclusive Communities."
+      },
+      {
+        "key": "e_1_3_3_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1201/9781003028239-13"
+      },
+      {
+        "key": "e_1_3_3_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.chc.2019.12.001"
+      },
+      {
+        "key": "e_1_3_3_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/su13116144"
+      },
+      {
+        "key": "e_1_3_3_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1352/1934-9556-52.4.296"
+      },
+      {
+        "key": "e_1_3_3_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1540796918777730"
+      },
+      {
+        "key": "e_1_3_3_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/21651434231186351"
+      },
+      {
+        "key": "e_1_3_3_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1108/S1479-363620200000014005"
+      }
+    ],
+    "container-title": [
+      "Journal of Vocational Rehabilitation"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/10522263251413800",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/10522263251413800",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/10522263251413800",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          11
+        ]
+      ],
+      "date-time": "2026-03-11T10:42:02Z",
+      "timestamp": 1773225722000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/10.1177/10522263251413800"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          27
+        ]
+      ]
+    },
+    "references-count": 32,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            3
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1177/10522263251413800"
+    ],
+    "URL": "https://doi.org/10.1177/10522263251413800",
+    "relation": {},
+    "ISSN": [
+      "1052-2263",
+      "1878-6316"
+    ],
+    "issn-type": [
+      {
+        "value": "1052-2263",
+        "type": "print"
+      },
+      {
+        "value": "1878-6316",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          27
+        ]
+      ]
+    }
+  }
+}

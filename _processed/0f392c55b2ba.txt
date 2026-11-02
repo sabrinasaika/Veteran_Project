@@ -1,0 +1,1363 @@
+400 MARYLAND AVE. S.W., WASHINGTON, DC 20202-2600 
+www.ed.gov 
+The Department of Education’s mission is to promote student achievement and preparation for global competitiveness 
+by fostering educational excellence and ensuring equal access. 
+ 
+UNITED STATES DEPARTMENT OF EDUCATION 
+OFFICE OF SPECIAL EDUCATION AND REHABILITATIVE SERVICES 
+Date: September 28, 2023 
+DCL-23-04 
+ 
+Dear Colleagues:  
+ 
+Through this Dear Colleague Letter (DCL-23-04), the Rehabilitation Services Administration 
+(RSA) is transmitting a copy of the revised Case Service Report (RSA-911)
+ for the State 
+Vocational Rehabilitation (VR) Services and State Supported Employment Services programs. 
+On September 25, 2023, the Office of Management and Budget (OMB) approved this 
+information collection (OMB control number 
+1820-0508) through September 30, 2026.  
+ 
+DCL-23-04.xlsx
+ 
+Through DCL-23-04, RSA is also rescinding the frequently-asked questions document related to 
+the RSA-911 issued August 8, 2016.  
+ 
+Implementation Timeline 
+ 
+This version of the RSA-911 becomes effective July 1, 2024, when VR agencies must begin 
+collecting and reporting these data for program year (PY) 2024. VR agencies must continue to 
+report RSA-911 data, in accordance with PD-19-03
+, for the remainder of PY 2023. On August 
+15, 2024, RSA will have collected the fourth quarter RSA-911 reports for PY 2023 and RSA will 
+rescind PD-19-03.  
+ 
+In accordance with 34 C.F.R. § 361.12, VR agencies must implement policies and procedures 
+that ensure the proper and efficient administration of the VR program, including those necessary 
+to carry out all functions for which the State is responsible under this program. So that each VR 
+agency is able to collect and report on these data effective July 1, 2024, each VR agency’s 
+internal controls should ensure that its:    
+ 
+1. Data collection system is capable of capturing and reporting all the required Data 
+Elements contained in DCL-23-04; 
+2. Staff have completed training necessary to ensure the collection and reporting of the 
+required Data Elements; and 
+3. Internal control processes to ensure the accuracy and validity of the RSA-911 data 
+have been implemented.  
+ 
+Use of RSA-911 Data 
+ 
+RSA uses the data collected through the RSA-911 to describe the performance of the VR and 
+Supported Employment programs in the Annual Report to the Congress and the President as
+
+2 
+ 
+required by Sections 13 and 101(a)(10) of the Rehabilitation Act of 1973 (Rehabilitation Act), as 
+amended by the Workforce Innovation and Opportunity Act (WIOA). RSA also uses these data 
+to assess the performance of the VR program through the calculation the WIOA performance 
+indicators. In addition, RSA uses these data to support its other responsibilities under the 
+Rehabilitation Act such as during the conduct of the annual reviews and monitoring of VR 
+agencies required by section 107 of the Rehabilitation. Other important management activities, 
+such as the provision of technical assistance, program planning, and budget development are 
+greatly enhanced through the use of RSA-911 data. In addition, RSA uses RSA-911 data in the 
+exchange of data with the Social Security Administration, as required by section 131 of the 
+Rehabilitation Act, and the National Institute on Disability, Independent Living, and 
+Rehabilitation Research within the U.S. Department of Health and Human Services. Finally, 
+RSA-911 data is used widely by researchers for disability-related analyses and reports.  
+ 
+Submission Requirements 
+ 
+VR agencies must report RSA-911 data on a quarterly basis no later than 45 days after the end of 
+each quarter in accordance with the following schedule:   
+ 
+1. Reporting Period: July 1-September 30  
+Report Due: November 15 
+2. Reporting Period: October 1-December 31 
+Report Due: February 15 
+3. Reporting Period: January 1-March 31  
+Report Due: May 15 
+4. Reporting Period: April 1-June 30   
+Report Due: August 15  
+ 
+So that a VR agency can be considered to have met the data submission requirement, the data 
+must be submitted in accordance with the timeline above and be accurate.  
+ 
+Electronic Submission 
+ 
+VR agencies must submit RSA-911 quarterly reports through the Rehabilitation Service 
+Administration Management Information System (RSAMIS) at rsa.ed.gov. Each VR Director is 
+responsible for ensuring submission and certification of RSA-911 data. The VR Director may 
+delegate this responsibility to another individual who is authorized to certify the data on behalf 
+of the VR agency. Prior to the submission of the quarterly report, the VR Director or the 
+individual formally delegated the authority to submit the quarterly report will be required to 
+certify that the RSA-911 data are true, complete, and accurate, and the expenditures reported are 
+for the purposes and objectives set forth in the terms and conditions of the Federal award.  
+ 
+Data Element Sequence 
+ 
+The RSA-911 Data Elements have been categorized to indicate the point in the VR or supported 
+employment process when the data should be collected. The Data Elements are designed to 
+collect information at that particular point (e.g., application, eligibility). By collecting and
+
+3 
+ 
+reporting applicable data at the correct point in the VR process, VR agencies help to ensure data 
+validity.  
+ 
+VR agencies must submit a comma delimited data file through the RSAMIS. Although some 
+Data Elements may be left blank, a comma delimited space must be included for each Data 
+Element in each submission. The Data Element number refers to the location of the reported 
+response in the comma delimited text string (e.g., the second comma delimited position in the 
+text file is the Program Year Quarter).  
+ 
+The RSA-911, issued in PD-19-03, included a total of 313 Data Elements. Through DCL-23-04, 
+RSA has deleted four Data Elements and has added seven new Data Elements. As a result, the 
+revised RSA-911 includes a total of 316 Data Elements. Because of these revisions, VR agencies 
+report 98 Data Elements blank. For example, RSA deleted Data Element 77 (Highest Elementary 
+or Secondary School Grade Completed at Program Entry) in DCL-23-04. Thus, VR agencies 
+must leave Data Element 77 blank.  
+ 
+The seven new Data Elements are numbered 408 through 414. For example, RSA added Data 
+Element 408 (Eligibility Status). For a complete list of revisions, please see Attachment I.  
+ 
+Data Element Types 
+ 
+Each Data Element has an associated type that serves as a guide for submitting valid values:  
+ 
+• VARCHAR n: Data can include any letters or numbers with a maximum length defined 
+by “n.” All variable character (VARCHAR) Data Elements that require numbers use only 
+positive numbers. 
+• DATE (YYYYMMDD): Data can include dates in the eight-digit format of year, month, 
+and day. All dates reported on the RSA-911 must be in the format of (YYYYMMDD), 
+where (YYYY) is year, (MM) is month and (DD) is day. For Year (YYYY), record the 
+calendar year using all four digits of the year (e.g., 2019). For Month (MM), record the 
+months using two digits (e.g., 01 for January). For Day (DD), record the day of the month 
+using two digits. When the day is a single digit, add a "0" prefix (e.g., 04).  
+• Decimal n,x: Data can include a decimal number with a total of number of “n” digits, of 
+which “x” can be after the decimal point. 
+• INT n: Data can include any integer (whole number) with a maximum length of integers 
+as defined by “n.” All integers must be positive.  
+ 
+Reporting Requirements  
+ 
+RSA-911 Data Elements are mandated by the Rehabilitation Act. Applicable portions of the 
+Rehabilitation Act explicitly or implicitly require specific Data Elements for the VR and 
+Supported Employment programs. In addition, reporting requirements to support the 
+performance accountability system under Section 116 of title I of WIOA are applicable to the 
+VR program. Section 116 requires the reporting of data needed to calculate State performance on 
+the primary indicators of performance for the core programs. In addition, States must report 
+information on barriers to employment for participants under each of the core programs.
+
+4 
+ 
+ 
+In accordance with 34 C.F.R. § 361.150(a)(1), for purposes of the VR program, an individual 
+is a “participant” if he or she has an approved individualized plan for employment (IPE) and 
+has begun receiving VR services. A “reportable individual,” in accordance with 34 C.F.R. 
+§ 361.150(b), is an individual who has taken action that demonstrates an intent to use program 
+services and who meets specific program criteria for reporting, which may include the provision 
+of identifying information, the use of a self-service system, or receipt of information-only 
+services or activities. The following are considered reportable individuals for the VR program:  
+ 
+• Individuals who have applied for VR services, but have not yet met the definition of 
+“participant;” and  
+• Students with disabilities receiving pre-employment transition services prior to applying 
+and being determined eligible for VR services and having an approved IPE (e.g., the 
+student does not meet the definition of a “participant”).  
+ 
+A key difference between a “participant” and “reportable individual,” for purposes of the 
+common performance accountability system, is that only “participants” are included in 
+performance calculations for determining levels of performance for the primary indicators of 
+performance. Furthermore, there currently is no requirement for the collection and reporting of 
+outcome data for reportable individuals. Only participants require six quarters of post-exit 
+reporting. 
+ 
+Internal Controls  
+ 
+As stated earlier, in accordance with 34 C.F.R. § 361.12, VR agencies must implement policies 
+and procedures that ensure the proper and efficient administration of the VR program, including 
+those necessary to carry out all functions for which the State is responsible under this program. 
+These methods must include procedures to ensure accurate data collection and financial 
+accountability. It is incumbent on VR agencies to establish policies and procedures that ensure 
+the accurate collection, retention, and timely reporting of all data. The Uniform Administrative 
+Requirements, Cost Principles, and Audit Requirements for Federal Awards (Uniform Guidance) 
+(2 C.F.R. § 200.61) defines internal controls as: a process, implemented by a non-Federal entity, 
+designed to provide reasonable assurance regarding the achievement of objectives in the 
+following categories: Effectiveness and efficiency of operations; Reliability of reporting for 
+internal and external use; and Compliance with applicable laws and regulations.  
+ 
+VR agencies must establish and maintain internal control processes necessary to ensure 
+the State’s ability to meet the internal control requirements. RSA is responsible for the review 
+and monitoring of VR agencies to determine whether a State is complying substantially with the 
+provisions of the VR services portion of the Unified or Combined State Plan. The reliability and 
+validity of RSA-911 data may be subject to desk review, monitoring, and/or audits. Sections 
+107(b) and (c) of the Act specify the remedies available to RSA if a State fails to satisfy Federal 
+requirements governing the VR program, including requirements related to data reporting. States 
+that do not meet the data reporting requirements may also face potential consequences resulting 
+from audit findings stemming from Inspector General, State, or Single Audits.
+
+5 
+ 
+Supporting Documentation  
+ 
+The requirements in 34 C.F.R. § 361.47 and 34 C.F.R. § 361.56, taken together, require VR 
+agencies to maintain supporting documentation in an individual’s case file, particularly regarding 
+eligibility determinations, development of the IPE, VR services provided, and case closure. It is 
+important to note that the use of a case management system does not remove the requirement for 
+the VR agency to maintain either hard copies or scanned copies of required supporting 
+documentation in the individual’s service record. A case management system is merely a data 
+entry process and it is susceptible to data entry errors.  
+ 
+On December 19, 2018, the Departments issued joint guidance titled, “Guidance for Validating 
+Jointly Required Performance Data Submitted under WIOA” (RSA-TAC-19-01
+). This guidance 
+provides States with a general framework for data validation. Specifically, the Departments 
+developed the joint guidance pursuant to Section 116(d)(5) of WIOA, which requires the 
+Departments to establish data validation guidelines to ensure the information contained in 
+program reports is valid and reliable. VR agencies must develop data validation procedures 
+consistent with these guidelines. 
+ 
+Participant Individual Record Layout (PIRL)  
+ 
+The PIRL is derived from the Joint Performance Information Collection Request and provides a 
+standardized set of Data Elements, definitions, and reporting instructions that will be used to 
+describe the characteristics, activities, and outcomes of WIOA participants. Under the PIRL, a 
+“participant” for the purpose of the VR program is an individual who has an approved and signed 
+IPE and has begun to receive services. VR agencies are required to collect participant 
+information that corresponds with the Data Elements and descriptions delineated within the 
+PIRL. Once collected, RSA will aggregate this information as specified in the WIOA Annual 
+Statewide Performance Report Specifications, which details the common Data Elements and 
+technical specifications necessary for calculation of the State and Local Area performance report 
+elements that will be used in reporting across all core programs. Where there is a direct 
+correlation between a PIRL Data Element and an RSA-911 Data Element, the PIRL Data 
+Element number and name have been included. A list of the PIRL Data Elements and the 
+methodology used to calculate them is posted on the U.S. Department of Labor’s Employment 
+and Training Administration’s website
+.  
+ 
+Case Service Records  
+ 
+The case service record documents the application for and/or provision of VR and supported 
+employment services to individuals with disabilities, including the outcomes they achieve. An 
+individual may have multiple records resulting from repeated involvement with the VR program. 
+For example, an individual may receive pre-employment transition services and/or other VR 
+services in secondary school and then years later apply for additional VR services. These two 
+periods of participation in the VR program constitute separate records.  
+ 
+VR agencies are required to report data on open records on a quarterly basis. A record is opened 
+either when an individual applies for VR services or, when a student with a disability begins
+
+6 
+ 
+receiving pre-employment transition services. Application or receipt of pre-employment 
+transition services initiate the quarterly reporting requirement for all individuals with an open 
+record.  
+ 
+The case service record is considered closed when the individual has a Date of Exit and all of the 
+required Data Elements, including the post-exit Data Elements, when required, have been 
+reported. For a student with a disability who solely received pre-employment transition services 
+and has not applied to receive other VR services, the record is closed when the individual no 
+longer meets the definition of a student with a disability, as reported in RSA-911 Data Element 
+22 (Student with a Disability). Once a student with a disability receives a pre-employment 
+transition service, the student must be reported on the RSA-911 even if the student is not 
+receiving a pre-employment transition service in a quarter if the student meets the definition of a 
+student with a disability.  
+ 
+However, if a student with a disability has applied and been determined eligible for VR services 
+and has an approved and signed IPE, the student’s case service record would be “closed” when 
+the student satisfies the definition of “exit” at 34 CFR 361.150(c) because his or her record is 
+closed pursuant to 34 CFR 361.43 or 361.56. At that time, the student would be considered to 
+have exited the VR program for purposes of WIOA’s performance accountability system as a 
+participant.  
+ 
+For all other reportable individuals under the VR program, the individual will be determined to 
+have “exited” the VR program as of the date reported in RSA-911 Data Element 353 (Date of 
+Exit). Duplicate individual records will not be accepted. For example, records with the same 
+Social Security Number and Date of Application would be considered a duplicate record. If an 
+individual has multiple exits within the same program year, each exit must be reported and 
+cannot overlap. For example, if an individual had more than one Date of Application in a quarter, 
+the Date of Exit associated with the first application must be a date before the second Date of 
+Application. 
+ 
+Unique Individuals  
+ 
+All data submitted for the same reporting period must be associated with a unique individual. 
+Therefore, VR agencies must assign each individual a Unique Identifier that allows RSA to 
+report an unduplicated count of individuals receiving services in accordance with the WIOA 
+PIRL. RSA also uses the unique identifier to calculate a count of unique program participants for 
+each State, which will be reported on the WIOA Annual Report. In addition, the unique identifier 
+provides RSA a means to communicate with agencies regarding an individual without the 
+exchange of Personally Identifiable Information (PII). RSA will use Unique Identifier and Social 
+Security Number to identify a unique individual within the dataset. If an individual does not have 
+a Social Security Number (SSN) or chooses not to provide an SSN, only the Unique Identifier is 
+reported. An individual’s SSN is reported only once to RSA with the Unique Identifier. After 
+that, the Unique Identifier is the only Data Element reported with each quarterly report.
+
+7 
+ 
+Edit Checks  
+ 
+RSA will periodically update its edit checks that detail, by Data Element, the edit checks 
+required to ensure the integrity of data submissions and compliance with applicable statute, 
+regulations, and policy guidance. RSA’s edit checks describe constraints that must be satisfied 
+by the data. Each data submission will be analyzed to determine whether the data is consistent 
+with RSA’s edit checks. Data submissions that fail to pass RSA’s edit checks will be returned to 
+the VR agency for correction and resubmission. Any corrections made must be consistent with 
+the VR agency’s case management system and the supporting documentation maintained by the 
+VR agency. VR agencies are responsible for ensuring that any data submitted conforms to RSA’s 
+edit checks and data submission requirements. Compliance with RSA’s edit checks is but one 
+component of the VR agency’s internal controls system necessary to ensure the integrity of RSA-
+911 data. VR agencies should not imply the correctness or completeness of data submissions 
+from compliance with the RSA’s edit checks alone.   
+ 
+RSA’s edits checks will also be available for testing, through the RSAMIS, when RSA is not 
+collecting RSA-911 quarterly reports as outlined above. RSA encourages VR agencies to test 
+their RSA-911 quarterly reports during these timeframes.   
+ 
+Correction Procedures 
+ 
+Despite the rigorous internal controls VR agencies have implemented and continually refine 
+related to collecting and reporting accurate RSA-911 data, RSA recognizes that VR agencies will 
+occasionally report information that is incorrect. As a result, RSA has established three ways VR 
+agencies may address them. When a VR agency identifies a reporting error and regardless of the 
+specific correction procedure it uses to fix the error, RSA encourages the VR agency to reassess 
+the effectiveness of its internal controls to inform whether they should be enhanced to avoid 
+future errors in reporting.  
+ 
+1. Correct the error internally and report the corrected information on future RSA-911 reports 
+within the Program Year’s reporting period 
+ 
+Within the Program Year’s reporting period, VR agencies may internally correct any Data 
+Element, that does not identify the individual. In other words, VR agencies may update, without 
+RSA’s approval, any Data Element except the following four:   
+ 
+1. Data Element 5: Unique Identifier;  
+2. Data Element 6: Social Security Number;  
+3. Data Element 7: Date of Application; and  
+4. Data Element 96: Start Date of Pre-Employment Transition Services 
+ 
+Example: A VR counselor records an applicant’s date of birth in the case management system 
+and the agency reports this date to RSA on its Q1 report. However, in Q2, the VR agency 
+discovers that the applicant was born on a different date. The VR agency may report the 
+corrected date of birth on its Q2 report. In this example, RSA will use the birthdate reported in 
+Q2 in the annual report calculations.
+
+8 
+ 
+ 
+Data Elements 5, 6, 7, and 96 cannot be updated, in this way, because RSA uses these Data 
+Elements to uniquely identify cases and track students with disabilities who receive pre-
+employment transition services. If a VR agency reports information that changes these Data 
+Elements in future RSA-911 reports, RSA will consider this as a newly reported case. If the VR 
+agency is aware that one or more of these Data Elements has changed for any reason (e.g., 
+correction to a Social Security Number, merge that results in a Unique ID change, inaccurate 
+date reported) then corrections must be made to the record on each of the previously reported 
+reports in RSA’s database before the VR agency may report the corrected Unique ID, SSN, Date 
+of Application, or Start Date of Pre-Employment Transition Services. In these instances, VR 
+agencies must contact RSA to request a correction per the procedures outlined next.  
+ 
+2. Request a correction to Unique Identifier, Social Security Number, Date of Application, or 
+Start Date of Pre-Employment Transition Services 
+ 
+VR agencies must request all corrections to Data Elements, 5, 6, 7, and 96 by sending a file to 
+RSAData@ed.gov
+. The file must include, as appropriate, the following:  
+ 
+• Previously Reported Unique ID 
+• Revised Unique ID 
+• Previously Reported Application Date 
+• Revised Application Date 
+• Revised SSN 
+• Previously Reported Start Date of Pre-Employment Transition Services 
+• Revised Start Date of Pre-Employment Transition Services 
+ 
+VR agencies may submit a csv file or Excel file and must use the following format: 
+ 
+Previous 
+Unique ID 
+Revised 
+Unique ID 
+Previous 
+Application Date 
+Revised 
+Application Date 
+Revised  
+SSN 
+ZZ0100004239 ZZ0100004240 11/05/2015 11/15/2015 999999999 
+ZZ0100004589  7/26/2016 7/26/2015  
+ZZ0100012362 ZZ0100012372    
+ZZ0200014876    555555555 
+ 
+Only the Data Elements requiring correction should be included in the file. If the VR agency is 
+only correcting the Unique ID, the VR agency should not include values for Application Date, 
+SSN, or Start Date of Pre-Employment Transition Services. SSNs should include all nine 
+numbers without dashes. The csv or Excel file must be encrypted if it contains SSNs.  
+ 
+All corrections to Data Elements 5, 6, 7, and 96 must be submitted within 44 days after the 
+quarter. In other words, RSA will not accept correction requests submitted on the 45
+th day when 
+the quarterly report is due by 11:59PM Eastern. This change is necessary to ensure RSA is able 
+to make corrections to the database in a timely manner and ensure all VR agencies meet the 
+reporting deadline.
+
+9 
+ 
+3. Request that RSA Disapprove an RSA-911 Report and Resubmit 
+ 
+Finally, VR agencies may request that RSA disapprove a submitted RSA-911 report so the VR 
+agency may resubmit with corrected information. If a VR agency submits an RSA-911 report 
+and later identifies that it reported widespread errors related to the WIOA performance 
+indicators, it may be more effective to resubmit the report in its entirety. VR agencies may 
+request that RSA disapprove a quarterly report by emailing RSAData@ed.gov
+. The email must 
+include the following information: 
+ 
+• VR Agency Name;  
+• Program Year and Quarter 
+• Justification to resubmit quarterly report; and 
+• Summary of refinements the VR agency has made to its internal control to prevent 
+incorrect reporting in the future.  
+ 
+If approved, RSA will inform the VR agency the date by which the VR agency must resubmit the 
+quarterly report. RSA will only consider requests to disapprove quarterly reports and allow VR 
+agencies to resubmit them if the request is made within the Program Year’s reporting period. For 
+example, if a VR agency requests to resubmit its Program Year 2024 Q1, Q2, Q3, or Q4 report 
+before August 15, 2025 (when the Program Year 2024 reporting period concludes), RSA will 
+consider the request. If a VR agency requests to resubmit a prior Program Year’s quarterly report 
+and the reporting period for that Program Year has concluded, RSA will not consider this 
+request.  
+ 
+RSA reminds VR agencies that it must use the RSA-911 data submitted as of August 15, when 
+the fourth quarter’s reporting period concludes, to produce the WIOA Annual Reports
+. As a 
+result, RSA will not accept data corrections after August 15. RSA will review changes made to 
+Data Elements and reserves the right to reject changes VR agencies propose for all Data 
+Elements.  
+ 
+Inquiries 
+ 
+Please email any questions related to the revised RSA-911
+ to RSA’s Data Collection and 
+Analysis Unit at RSAData@ed.gov.  
+ 
+ 
+ 
+Sincerely, 
+ 
+    /s/    
+ 
+Carol L. Dobak 
+Deputy Commissioner, 
+delegated the authority to perform  
+the functions and duties of the Commissioner 
+Attachment
+
+10 
+ 
+Attachment I: Summary of Revisions to Case Service Report (RSA-911) 
+ 
+Number Data Element (DE) Name Change 
+1 Program Year No 
+2 Program Year Quarter No 
+4 Agency Code No 
+5 Unique Identifier No 
+6 Social Security Number Modified reporting instructions 
+7 Date of Application Modified reporting instructions 
+8 Date of Birth No 
+9 Gender Modified DE name, code values and reporting 
+instructions 
+10 American Indian/Alaska Native Modified reporting instructions 
+11 Asian Modified reporting instructions 
+12 Black/African American Modified reporting instructions 
+13 Native Hawaiian/Other Pacific Islander Modified reporting instructions 
+14 White Modified reporting instructions 
+15 Ethnicity: Hispanic/Latino Modified reporting instructions 
+16 Veteran No 
+18 State Postal Code of Residence No 
+19 County FIPS Code  No 
+20 ZIP Code Modified reporting instructions 
+21 Source of Referral No 
+394 Monthly Public Support at Application No 
+395 Medical Insurance Coverage at Application No 
+22 Student with a Disability Modified reporting instructions 
+38 Date of Eligibility Determination Modified reporting instructions 
+39 Date of Eligibility Determination Extension Modified DE name and reporting instructions  
+408 Eligibility Status New DE 
+40 Date of Placement on OOS Waiting List Modified reporting instructions 
+41 Date of Exit from OOS Waiting List Modified reporting instructions 
+42 Individual with a Disability Modified reporting instructions 
+43 Primary Disability No 
+44 Secondary Disability No 
+45 Significance of Disability Modified code values and reporting instructions 
+46 Start Date of Trial Work Experience No 
+47 End Date of Trial Work Experience No 
+399 Date of IPE Development Extension Modified DE name and reporting instructions  
+398 Date of Initial IPE Modified reporting instructions 
+49 Supported Employment Goal on Current IPE Modified code values and reporting instructions 
+50 Employment at Initial IPE Modified code values and reporting instructions 
+51 Primary Occupation at Initial IPE Modified reporting instructions 
+52 Hourly Wage at Initial IPE Modified reporting instructions 
+53 Hours Worked in a Week at Initial IPE Modified reporting instructions 
+54 Adult Modified Code Values 
+55 Adult Education Modified Code Values 
+56 Dislocated Worker Modified Code Values 
+57 Job Corps Modified Code Values
+
+11 
+ 
+Number Data Element (DE) Name Change 
+58 Vocational Rehabilitation Modified code values and reporting instructions 
+59 Wagner-Peyser Employment Service Modified Code Values 
+60 Youth Modified Code Values 
+61 Youth Build Modified data type, code values, and reporting 
+instructions 
+62 Long-Term Unemployed Modified Code Values 
+63 Exhausting TANF within 2 Years Modified Code Values 
+64 Foster Care Youth Modified code values and reporting instructions 
+65 Homeless Individual, Homeless Children and 
+Youths, or Runaway Youth 
+Modified Code Values 
+66 Ex-Offender Modified Code Values 
+67 Low Income Modified Code Values 
+68 English Language Learner Modified Code Values 
+69 Basic Skills Deficient/Low Levels of Literacy Modified Code Values 
+70 Cultural Barriers Modified Code Values 
+71 Single Parent Modified Code Values 
+72 Displaced Homemaker Modified Code Values 
+73 Migrant and Seasonal Farmworker Modified code values and reporting instructions 
+74 State Definition for Age of Students with 
+Disabilities 
+Modified reporting instructions 
+77 Highest Elementary or Secondary School 
+Grade Completed at Program Entry  
+Deleted DE 
+78 Enrolled in Secondary Education Leading to 
+Recognized Secondary Credential 
+Modified DE name, code values and reporting 
+instructions 
+400 Enrolled in Secondary School Equivalency 
+Program Leading to Recognized Secondary 
+Credential 
+Modified DE name, code values and reporting 
+instructions 
+79 Date Received Special Education Certificate of 
+Completion 
+Deleted DE 
+81 Date Attained Secondary School Diploma 
+during Program Participation 
+Modified DE name and reporting instructions  
+82 Date Attained Recognized Secondary School 
+Equivalency during Program Participation 
+Modified DE name and reporting instructions  
+84 Enrolled in Postsecondary Education or Career 
+or Technical Training Leading to Recognized 
+Postsecondary Credential 
+Modified DE name, code values and reporting 
+instructions 
+85 Date Enrolled During Program Participation in 
+an Education or Training Program Leading to a 
+Recognized Credential or Employment 
+Modified DE name and reporting instructions  
+401 Date Completed/Disenrolled During Program 
+Participation in an Education or Training 
+Program Leading to a Recognized Credential or 
+Employment 
+Modified DE name and reporting instructions  
+86 Completed Some Postsecondary Education, No 
+Degree or Certificate 
+Deleted DE 
+87 Date Attained Associate Degree Modified reporting instructions 
+88 Date Attained Bachelor's Degree Modified reporting instructions 
+89 Date Attained Master’s Degree Modified reporting instructions 
+90 Date Attained Graduate Degree Modified reporting instructions
+
+12 
+ 
+Number Data Element (DE) Name Change 
+93 Date Attained Vocational/Technical License Modified reporting instructions 
+94 Date Attained Vocational/Technical Certificate 
+or Certification 
+Modified reporting instructions 
+95 Date Attained Other Recognized Credential Modified reporting instructions 
+96 Start Date of Pre-Employment Transition 
+Services 
+Modified reporting instructions 
+97 Job Exploration Counseling, Service Provided 
+by VR Agency Staff 
+No 
+98 Job Exploration Counseling, Service Provided 
+through VR Agency Purchase 
+No 
+99 Job Exploration Counseling, Purchased Service 
+Provider Type 
+No 
+100 Job Exploration Counseling, VR Program 
+Expenditure for Purchased Service 
+No 
+103 Work Based Learning Experience, Service 
+Provided by VR Agency Staff 
+No 
+104 Work Based Learning Experience, Service 
+Provided through VR Agency Purchase 
+No 
+105 Work Based Learning Experience, Purchased 
+Service Provider Type 
+No 
+106 Work Based Learning Experience, VR Program 
+Expenditure for Purchased Service 
+No 
+109 Counseling on Enrollment Opportunities, 
+Service 
+ Provided by VR Agency Staff 
+No 
+110 Counseling on Enrollment Opportunities, 
+Service 
+ Provided through VR Agency Purchase 
+No 
+111 Counseling on Enrollment Opportunities, 
+Purchased Service Provider Type 
+No 
+112 Counseling on Enrollment Opportunities, VR 
+ Program Expenditure for Purchased Service 
+No 
+115 Workplace Readiness Training, Service 
+Provided by VR Agency Staff 
+No 
+116 Workplace Readiness Training, Service 
+Provided through VR Agency Purchase 
+No 
+117 Workplace Readiness Training, Purchased 
+Service Provider Type 
+No 
+118 Workplace Readiness Training, VR Program 
+Expenditure for Purchased Service 
+No 
+121 Instruction in Self Advocacy, Service Provided 
+by VR Agency Staff 
+No 
+122 Instruction in Self Advocacy, Service Provided 
+through VR Agency Purchase 
+No 
+123 Instruction in Self Advocacy, Purchased 
+Service Provider Type 
+No 
+124 Instruction in Self Advocacy, VR Program 
+Expenditure for Purchased Service 
+No 
+127 Start Date of Initial VR Service on or after IPE Modified reporting instructions
+
+13 
+ 
+Number Data Element (DE) Name Change 
+128 Date of Most Recent Career Service  Deleted DE 
+130 Graduate College or University, Service 
+Provided through VR Agency Purchase 
+Modified reporting instructions 
+131 Graduate College or University, Purchased 
+Service Provider Type 
+No 
+132 Graduate College or University, Amount of VR 
+Title I Funds Expended 
+Modified reporting instructions 
+134 Graduate College or University, Service 
+Provided by Comparable Services and Benefits 
+Providers 
+No 
+135 Graduate College or University, Comparable 
+Service Provider Type 
+Modified reporting instructions 
+137 Four-Year College or University Training, 
+Service Provided through VR Agency Purchase 
+Modified reporting instructions 
+138 Four-Year College or University Training, 
+Purchased Service Provider Type 
+No 
+139 Four-Year College or University Training, 
+Amount of VR Funds Expended for Service 
+(Title I) 
+Modified reporting instructions 
+141 Four-Year College or University Training, 
+Service Provided by Comparable Services and 
+Benefits Providers 
+Modified reporting instructions 
+142 Four-Year College or University Training, 
+Comparable Services and Benefits Provider 
+Type 
+No 
+144 Junior or Community College Training, Service 
+Provided through VR Agency Purchase 
+Modified reporting instructions 
+145 Junior or Community College Training, 
+Purchased Service Provider Type 
+No 
+146 Junior or Community College Training, 
+Amount of VR Funds Expended for Service 
+(Title I) 
+Modified reporting instructions 
+148 Junior or Community College Training Service 
+Provided by Comparable Services and Benefits 
+Providers 
+Modified reporting instructions 
+149 Junior or Community College Training, 
+Comparable Services and Benefits Provider 
+Type 
+No 
+150 Occupational or Vocational Training, Service 
+Provided by VR Agency Staff (in-house) 
+Modified reporting instructions 
+151 Occupational or Vocational Training, Service 
+Provided through VR Agency Purchase 
+Modified reporting instructions 
+152 Occupational or Vocational Training, 
+Purchased Service Provider Type 
+No 
+153 Occupational or Vocational Training, Amount 
+of VR Funds Expended for Service (Title I) 
+No 
+155 Occupational or Vocational Training, Service 
+Provided by Comparable Services and Benefits 
+Providers 
+Modified reporting instructions
+
+14 
+ 
+Number Data Element (DE) Name Change 
+156 Occupational or Vocational Training, 
+Comparable Services and Benefits Provider 
+Type 
+No 
+157 On The Job Training, Service Provided by 
+ VR Agency Staff (in-house) 
+Modified reporting instructions 
+158 On The Job Training, Service Provided through 
+VR Agency Purchase 
+Modified reporting instructions 
+159 On The Job Training, Purchased Service 
+Provider Type 
+No 
+160 On The Job Training, Amount of VR Funds 
+Expended for Service (Title I) 
+No 
+162 On The Job Training, Service Provided by 
+Comparable Services and Benefits Providers 
+Modified reporting instructions 
+163 On The Job Training, Comparable Services and 
+Benefits Provider Type 
+No 
+164 Registered Apprenticeship Training, Service 
+Provided through VR Agency Purchase 
+Modified reporting instructions 
+165 Registered Apprenticeship Training, Purchased 
+Service Provider Type 
+No 
+166 Registered Apprenticeship Training, Amount 
+of VR Funds Expended for Service (Title I) 
+No 
+168 Registered Apprenticeship Training, Service 
+Provided by Comparable Services and Benefits 
+Providers 
+Modified reporting instructions 
+169 Registered Apprenticeship Training, 
+Comparable Services and Benefits Provider 
+Type 
+No 
+170 Basic Academic Remedial or Literacy 
+Training, Service Provided by VR Agency 
+Staff (in-house) 
+Modified reporting instructions 
+171 Basic Academic Remedial or Literacy 
+Training, Service Provided through VR Agency 
+Purchase 
+Modified reporting instructions 
+172 Basic Academic Remedial or Literacy 
+Training, Purchased Service Provider Type 
+No 
+173 Basic Academic Remedial or Literacy 
+Training, Amount of VR Funds Expended for 
+Service (Title I) 
+No 
+175 Basic Academic Remedial or Literacy 
+Training, Service Provided by Comparable 
+Services 
+ and Benefits Providers 
+Modified reporting instructions 
+176 Basic Academic Remedial or Literacy 
+Training, Comparable Services and Benefits 
+Provider Type 
+No 
+177 Job Readiness Training, Service, Provided by 
+VR Agency Staff (in-house) 
+Modified reporting instructions 
+178 Job Readiness Training, Service Provided 
+through VR Agency Purchase 
+Modified reporting instructions 
+179 Job Readiness Training, Service, Purchased 
+Service Provider Type 
+No
+
+15 
+ 
+Number Data Element (DE) Name Change 
+180 Job Readiness Training, Service, Amount of 
+VR Funds Expended for Service (Title I) 
+No 
+182 Job Readiness Training, Service Provided by 
+Comparable Services and Benefits Providers 
+Modified reporting instructions 
+183 Job Readiness Training, Comparable Services 
+and Benefits Provider Type 
+No 
+184 Disability Related Skills Training, Service 
+Provided by VR Agency Staff (in-house) 
+Modified reporting instructions 
+185 Disability Related Skills Training, Service 
+Provided through VR Agency Purchase 
+Modified reporting instructions 
+186 Disability Related Skills Training, Purchased 
+Service Provider Type 
+No 
+187 Disability Related Skills Training, Amount of 
+VR Funds Expended for Service (Title I) 
+No 
+189 Disability Related Skills Training, Service 
+Provided by Comparable Services and Benefits 
+Providers 
+Modified reporting instructions 
+190 Disability Related Skills Training, Comparable 
+Services and Benefits Provider Type 
+No 
+191 Miscellaneous Training, Service Provided by 
+VR Agency Staff (in-house) 
+Modified reporting instructions 
+192 Miscellaneous Training, Service Provided 
+through VR Agency Purchase 
+Modified reporting instructions 
+193 Miscellaneous Training, Purchased Service 
+Provider Type 
+No 
+194 Miscellaneous Training, Amount of VR Funds 
+Expended for Service (Title I) 
+No 
+196 Miscellaneous Training, Service Provided by 
+Comparable Services and Benefits Providers 
+Modified reporting instructions 
+197 Miscellaneous Training, Comparable Services 
+and Benefits Provider Type 
+No 
+198 Randolph-Sheppard Entrepreneurial Training, 
+Service Provided by VR Agency Staff (in-
+house) 
+Modified reporting instructions 
+199 Randolph-Sheppard Entrepreneurial Training, 
+Service Provided through VR Agency Purchase 
+Modified reporting instructions 
+200 Randolph-Sheppard Entrepreneurial Training, 
+Purchased Service Provider Type 
+No 
+201 Randolph-Sheppard Entrepreneurial Training, 
+Amount of VR Funds Expended for Service 
+(Title I) 
+No 
+203 Randolph-Sheppard Entrepreneurial Training, 
+Service Provided by Comparable Services and 
+Benefits Providers 
+Modified reporting instructions 
+204 Randolph-Sheppard Entrepreneurial Training, 
+Comparable Services and Benefits Provider 
+Type 
+No 
+205 Customized Training, Service Provided by VR 
+Agency Staff (in-house) 
+Modified reporting instructions
+
+16 
+ 
+Number Data Element (DE) Name Change 
+206 Customized Training, Service Provided 
+through VR Agency Purchase 
+Modified reporting instructions 
+207 Customized Training, Purchased Service 
+Provider Type 
+No 
+208 Customized Training, Amount of VR Funds 
+Expended for Service (Title I) 
+No 
+210 Customized Training, Service Provided by 
+Comparable Services and Benefits Providers 
+Modified reporting instructions 
+211 Customized Training, Comparable Services 
+and Benefits Provider Type 
+No 
+402 Work Based Learning Experience, Service 
+Provided by VR Agency Staff (in-house) 
+Modified reporting instructions 
+403 Work Based Learning Experience, Service 
+Provided through VR Agency Purchase 
+Modified reporting instructions 
+404 Work Based Learning Experience, Purchased 
+Service Provider Type 
+No 
+405 Work Based Learning Experience, Amount of 
+VR Funds Expended for Service (Title I) 
+No 
+406 Work Based Learning Experience, Service 
+Provided by Comparable Services and Benefits 
+Providers 
+Modified reporting instructions 
+407 Work Based Learning Experience, Comparable 
+Services and Benefits Provider Type 
+No 
+212 Assessment, Service Provided by VR Agency 
+Staff (in- house) 
+No 
+213 Assessment, Service Provided through VR 
+Agency Purchase 
+No 
+214 Assessment, Purchased Service Provider Type No 
+215 Assessment, Amount of VR Funds Expended 
+for Service (Title I) 
+No 
+217 Assessment, Service Provided by Comparable 
+Services and Benefits Providers 
+No 
+218 Assessment, Comparable Services and Benefits 
+Provider Type 
+No 
+219 Diagnosis and Treatment of Impairments, 
+Service Provided by VR Agency Staff (in-
+house) 
+Modified reporting instructions 
+220 Diagnosis and Treatment of Impairments, 
+Service Provided through VR Agency Purchase 
+Modified reporting instructions 
+221 Diagnosis and Treatment of Impairments, 
+Purchased Service Provider Type 
+No 
+222 Diagnosis and Treatment of Impairments, 
+Amount of VR Funds Expended for Service 
+(Title I) 
+No 
+224 Diagnosis and Treatment of Impairments, 
+Service Provided by Comparable Services and 
+Benefits Providers 
+Modified reporting instructions 
+225 Diagnosis and Treatment of Impairments, 
+Comparable Services and Benefits Provider 
+ Type 
+No
+
+17 
+ 
+Number Data Element (DE) Name Change 
+226 Vocational Rehabilitation Counseling and 
+Guidance, Service Provided by VR Agency 
+Staff (in-house) 
+Modified reporting instructions 
+227 Vocational Rehabilitation Counseling and 
+Guidance, Service Provided by through VR 
+Agency Purchase 
+Modified reporting instructions 
+228 Vocational Rehabilitation Counseling and 
+Guidance, Purchased Service Provider Type 
+No 
+229 Vocational Rehabilitation Counseling and 
+Guidance, Amount of VR Funds Expended for 
+Service (Title I) 
+No 
+231 Vocational Rehabilitation Counseling and 
+Guidance, Service Provided by Comparable 
+Services and Benefits Providers 
+Modified reporting instructions 
+232 Vocational Rehabilitation Counseling and 
+Guidance, Comparable Services and Benefits 
+Provider Type 
+No 
+233 Job Search Assistance, Service Provided by VR 
+Agency Staff (in-house) 
+Modified reporting instructions 
+234 Job Search Assistance, Service Provided 
+through VR Agency Purchase 
+Modified reporting instructions 
+235 Job Search Assistance, Purchased Service 
+Provider Type 
+No 
+236 Job Search Assistance, Amount of VR Funds 
+Expended for Service (Title I) 
+No 
+238 Job Search Assistance, Service Provided by 
+Comparable Services and Benefits Providers 
+Modified reporting instructions 
+239 Job Search Assistance, Comparable Services 
+and Benefits Provider Type 
+No 
+240 Job Placement Assistance, Service Provided by 
+VR  Job Placement Assistance, Agency Staff 
+(in-house) 
+Modified reporting instructions 
+241 Job Placement Assistance, Service Provided 
+through VR Agency Purchase 
+Modified reporting instructions 
+242 Job Placement Assistance, Purchased Service 
+Provider Type 
+No 
+243 Job Placement Assistance, Amount of VR 
+Funds Expended for Service (Title I) 
+Modified reporting instructions 
+245 Job Placement Assistance, Service Provided by 
+Comparable Services and Benefits Providers 
+No 
+246 Job Placement Assistance, Comparable 
+Services 
+ and Benefits Provider Type 
+No 
+247 Short Term Job Supports, Service Provided by 
+VR Agency Staff (in-house) 
+Modified reporting instructions 
+248 Short Term Job Supports, Service Provided 
+through VR Agency Purchase 
+Modified reporting instructions 
+249 Short Term Job Supports, Purchased Service 
+Provider Type 
+No
+
+18 
+ 
+Number Data Element (DE) Name Change 
+250 Short Term Job Supports, Amount of VR 
+Funds Expended for Service (Title I) 
+No 
+252 Short Term Job Supports, Service Provided by 
+ Comparable Services and Benefits Providers 
+Modified reporting instructions 
+253 Short Term Job Supports, Comparable Services 
+and Benefits Provider Type 
+No 
+254 Supported Employment Services, Service 
+Provided by VR Agency Staff (in-house) 
+Modified reporting instructions 
+255 Supported Employment Services, Service 
+Provided through VR Agency Purchase 
+Modified reporting instructions 
+256 Supported Employment Services, Purchased 
+Service Provider Type 
+No 
+257 Supported Employment Services, Amount of 
+VR Funds Expended for Service (Title I) 
+No 
+258 Supported Employment Services, Amount of 
+SE Funds Expended for Service (Title VI) 
+No 
+259 Supported Employment Services, Service 
+Provided by Comparable Services and Benefits 
+Providers 
+Modified reporting instructions 
+260 Supported Employment Services, Comparable 
+Services and Benefits Provider Type 
+No 
+261 Information and Referral Services, Service 
+Provided by VR Agency Staff (in-house) 
+No 
+262 Information and Referral Services, Service 
+Provided through VR Agency Purchase 
+No 
+263 Information and Referral Services, Purchased 
+Service Provider Type 
+No 
+264 Information and Referral Services, Amount of 
+VR Funds Expended for Service (Title I) 
+No 
+266 Information and Referral Services, Service 
+Provided by Comparable Services and Benefits 
+Providers 
+No 
+267 Information and Referral Services, Comparable 
+Services and Benefits Provider Type 
+No 
+268 Benefits Counseling, Service Provided by VR 
+Agency Staff (in-house) 
+No 
+269 Benefits Counseling, Service Provided through 
+VR Agency Purchase 
+No 
+270 Benefits Counseling, Purchased Service 
+Provider Type 
+No 
+271 Benefits Counseling, Amount of VR Funds 
+Expended for Service (Title I) 
+No 
+273 Benefits Counseling, Service Provided by 
+ Comparable Services and Benefits Providers 
+No 
+274 Benefits Counseling, Comparable Services and 
+Benefits Provider Type 
+No 
+275 Customized Employment Services, Service 
+Provided by VR Agency Staff (in-house) 
+Modified reporting instructions 
+276 Customized Employment Services, Service 
+Provided through VR Agency Purchase 
+Modified reporting instructions
+
+19 
+ 
+Number Data Element (DE) Name Change 
+277 Customized Employment Services, Purchased 
+Service Provider Type 
+No 
+278 Customized Employment Services, Amount of 
+VR Funds Expended for Service (Title I) 
+No 
+279 Customized Employment Services, Amount of 
+SE Funds Expended for Service (Title VI) 
+No 
+280 Customized Employment Services, Service 
+Provided by Comparable Services and Benefits 
+Providers 
+Modified reporting instructions 
+281 Customized Employment Services, 
+Comparable Services and Benefits Provider 
+Type 
+No 
+282 Extended Services, Service Provided by VR 
+Agency Staff (in-house) 
+Modified reporting instructions 
+283 Extended Services, Service Provided through 
+VR Agency Purchase 
+Modified reporting instructions 
+284 Extended Services, Purchased Service Provider 
+Type 
+No 
+285 Extended Services, Amount of VR Funds 
+Expended for Service (Title I) 
+No 
+286 Extended Services, Amount of SE Funds 
+Expended for Service (Title VI) 
+No 
+287 Transportation Data Elements, Service 
+Provided by VR Agency Staff (in-house) 
+No 
+288 Transportation Data Elements, Service 
+Provided through VR Agency Purchase 
+No 
+289 Transportation Data Elements, Purchased 
+Service Provider Type 
+No 
+290 Transportation Data Elements, Amount of VR 
+Funds Expended for Service (Title I) 
+No 
+292 Transportation Data Elements, Service 
+Provided by Comparable Services and Benefits 
+Providers 
+No 
+293 Transportation Data Elements, Comparable 
+Services and Benefits Provider Type 
+No 
+294 Maintenance, Service Provided by VR Agency 
+Staff (in-house) 
+No 
+295 Maintenance, Service Provided through VR 
+Agency Purchase 
+No 
+296 Maintenance, Purchased Service Provider Type No 
+297 Maintenance, Amount of VR Funds Expended 
+for Service (Title I) 
+No 
+299 Maintenance, Service Provided by Comparable 
+Services and Benefits Providers 
+No 
+300 Maintenance, Comparable Services and 
+Benefits Provider Type 
+No 
+301 Rehabilitation Technology, Service Provided 
+by VR Agency Staff (in-house) 
+Modified reporting instructions 
+302 Rehabilitation Technology, Service Provided 
+through VR Agency Purchase 
+Modified reporting instructions
+
+20 
+ 
+Number Data Element (DE) Name Change 
+303 Rehabilitation Technology, Purchased Service 
+Provider Type 
+No 
+304 Rehabilitation Technology, Amount of VR 
+Funds Expended for Service (Title I) 
+No 
+306 Rehabilitation Technology, Service Provided 
+by Comparable Services and Benefits 
+Providers 
+Modified reporting instructions 
+307 Rehabilitation Technology, Comparable 
+Services and Benefits Provider Type 
+No 
+308 Personal Assistance Services, Service Provided 
+by VR Agency Staff (in-house) 
+No 
+309 Personal Assistance Services, Service Provided 
+through VR Agency Purchase 
+No 
+310 Personal Assistance Services, Purchased 
+Service Provider Type 
+No 
+311 Personal Assistance Services, Amount of VR 
+Funds Expended for Service (Title I) 
+No 
+313 Personal Assistance Services, Service Provided 
+by Comparable Services and Benefits 
+Providers 
+No 
+314 Personal Assistance Services, Comparable 
+Services and Benefits Provider Type 
+No 
+315 Technical Assistance Services related to Self-
+Employment, Service Provided by VR Agency 
+Staff (in-house) 
+Modified DE name and reporting instructions  
+316 Technical Assistance Services related to Self-
+Employment, Service Provided through VR 
+Agency Purchase 
+Modified DE name and reporting instructions  
+317 Technical Assistance Services related to Self-
+Employment, Purchased Service Provider Type 
+Modified DE Name 
+318 Technical Assistance Services related to Self-
+Employment, Amount of VR Funds Expended 
+for Service (Title I) 
+Modified DE Name 
+320 Technical Assistance Services related to Self-
+Employment, Service Provided by Comparable 
+Services and Benefits Providers 
+Modified DE name and reporting instructions  
+321 Technical Assistance Services related to Self-
+Employment, Comparable Services and 
+Benefits Provider Type 
+Modified DE Name 
+322 Reader Services, Service Provided by VR 
+Agency Staff (in-house) 
+No 
+323 Reader Services, Service Provided through VR 
+Agency Purchase 
+No 
+324 Reader Services, Purchased Service Provider 
+Type 
+No 
+325 Reader Services, Amount of VR Funds 
+Expended for Service (Title I) 
+No 
+327 Reader Services, Service Provided by 
+Comparable Services and Benefits Providers 
+No
+
+21 
+ 
+Number Data Element (DE) Name Change 
+328 Reader Services, Comparable Services and 
+Benefits Provider Type 
+No 
+329 Interpreter Services, Service Provided by VR 
+Agency Staff (in-house) 
+Modified reporting instructions 
+330 Interpreter Services, Service Provided through 
+VR Agency Purchase 
+Modified reporting instructions 
+331 Interpreter Services, Purchased Service 
+Provider Type 
+No 
+332 Interpreter Services, Amount of VR Funds 
+Expended for Service (Title I) 
+No 
+334 Interpreter Services, Service Provided by 
+Comparable Services and Benefits Providers 
+Modified reporting instructions 
+335 Interpreter Services, Comparable Services and 
+Benefits Provider Type 
+No 
+336 Other Services, Service Provided by VR 
+Agency Staff (in-house) 
+Modified reporting instructions 
+337 Other Services, Service Provided through VR 
+Agency Purchase 
+Modified reporting instructions 
+338 Other Services, Purchased Service Provider 
+Type 
+No 
+339 Other Services, Amount of VR Funds 
+Expended for Service (Title I) 
+No 
+341 Other Services, Service Provided by 
+Comparable Services and Benefits Providers 
+No 
+342 Other Services, Comparable Services and 
+Benefits Provider Type 
+No 
+409 Home Modification, Service Provided by VR 
+Agency Staff (in-house) 
+New DE 
+410 Home Modification, Service Provided through 
+VR Agency Purchase 
+New DE 
+411 Home Modification, Purchased Service 
+Provider Type 
+New DE 
+412 Home Modification, Amount of VR Funds 
+Expended for Service (Title I) 
+New DE 
+413 Home Modification, Service Provided by 
+Comparable Services and Benefits Providers 
+New DE 
+414 Home Modification, Comparable Services and 
+Benefits Provider Type 
+New DE 
+343 Measurable Skill Gains: Educational 
+Functional Level (EFL) 
+Modified reporting instructions 
+344 Measurable Skill Gains: Secondary Diploma or 
+Equivalency  
+Modified DE name and reporting instructions  
+345 Measurable Skill Gains: Secondary or 
+Postsecondary Transcript/Report Card 
+Modified reporting instructions 
+346 Measurable Skill Gains: Training Milestone No 
+347 Measurable Skill Gains: Skills Progression No 
+350 Start Date of Employment in Primary 
+Occupation 
+No 
+353 Date of Exit Modified reporting instructions
+
+22 
+ 
+Number Data Element (DE) Name Change 
+354 Type of Exit Modified reporting instructions 
+355 Reason for Program Exit Modified reporting instructions 
+356 Employment Outcome at Exit Modified code values and reporting instructions 
+357 Primary Occupation at Exit Modified reporting instructions 
+359 Hourly Wage at Exit Modified reporting instructions 
+360 Hours Worked in a Week at Exit No 
+396 Monthly Public Support at Exit No 
+397 Medical Insurance Coverage at Exit No 
+376 Date Enrolled in Post-Exit Education or 
+Training Program Leading to a Recognized 
+Postsecondary Credential 
+Modified reporting instructions 
+377 Date of Attainment of Post-Exit Recognized 
+Credential 
+Modified reporting instructions 
+378 Type of Recognized Secondary or 
+Postsecondary Credential Attained Post-Exit 
+Modified DE name, code values and reporting 
+instructions 
+379 Employment - First Quarter After Exit Quarter Modified reporting instructions 
+383 Employment - Second Quarter After Exit 
+Quarter 
+Modified reporting instructions 
+385 Quarterly Wages - Second Quarter After Exit 
+Quarter 
+Modified reporting instructions 
+386 Employment - Third Quarter After Exit Quarter Modified reporting instructions 
+389 Employment - Fourth Quarter After Exit 
+Quarter 
+Modified reporting instructions 
+392 Retention with the Same Employer in the 
+Second Quarter and Fourth Quarter After Exit  
+Modified reporting instructions

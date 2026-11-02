@@ -1,0 +1,62 @@
+[
+  {
+    "id": "tbi_wheelchair",
+    "question": "I'm a veteran with TBI, recently divorced, and I use a wheelchair. What employment pathways and VA programs would fit me best?",
+    "reference_answer": "A strong answer should recommend VR&E, discuss supported employment or other structured VR tracks, identify accessible seated or remote-friendly occupations, mention accommodations for cognitive and mobility limitations, and note evidence gaps or the need for individualized assessment.",
+    "expected_topics": ["VR&E", "wheelchair accessibility", "TBI", "supported employment", "accommodations"]
+  },
+  {
+    "id": "ptsd_back_pain",
+    "question": "I'm a veteran with PTSD and chronic back pain. I can sit for only short periods, have trouble sleeping, and want a low-stress job that could eventually be remote. What VA programs, accommodations, and employment pathways would fit me best?",
+    "reference_answer": "A strong answer should recommend VR&E, discuss low-stress and remote-compatible pathways, mention accommodations like flexible scheduling, telework, ergonomic equipment, and frequent breaks, and connect the recommendation to PTSD and chronic pain.",
+    "expected_topics": ["VR&E", "PTSD", "chronic back pain", "telework", "ergonomic accommodations"]
+  },
+  {
+    "id": "vision_loss_anxiety",
+    "question": "I'm a veteran with vision loss and anxiety, recently unemployed, and I want to know whether self-employment, remote administrative work, or customer support would be more realistic. Please compare the options and tell me which VR&E track fits best.",
+    "reference_answer": "A strong answer should compare the listed options, discuss accessibility and anxiety-related considerations, identify a likely VR&E track, and mention assistive technology or accommodations relevant to vision loss.",
+    "expected_topics": ["vision loss", "anxiety", "self-employment", "remote work", "assistive technology"]
+  },
+  {
+    "id": "hearing_loss_federal_jobs",
+    "question": "I'm a veteran with hearing loss and mild depression. I want stable work and I am interested in federal jobs or administrative roles. What employment pathways and support programs should I explore?",
+    "reference_answer": "A strong answer should discuss VR&E and possibly federal or administrative pathways, mention accommodations for hearing loss, and recommend stable structured roles with relevant support programs.",
+    "expected_topics": ["hearing loss", "federal jobs", "administrative roles", "VR&E", "accommodations"]
+  },
+  {
+    "id": "spinal_cord_remote_it",
+    "question": "I'm a veteran with a spinal cord injury and depression. I want to move into remote IT or data-related work. What pathway, training support, and accommodations should I consider?",
+    "reference_answer": "A strong answer should discuss VR&E or related training support, remote IT or data pathways, mobility accommodations, and the role of structured training or certification in reaching the goal.",
+    "expected_topics": ["spinal cord injury", "remote IT", "data work", "training support", "accommodations"]
+  },
+  {
+    "id": "ptsd_migraines_low_stress",
+    "question": "I'm a veteran with PTSD and migraines. Crowded environments and unpredictable schedules are hard for me. What low-stress employment options and VA support programs should I consider?",
+    "reference_answer": "A strong answer should recommend VR&E and low-stimulation or predictable work options, connect the recommendation to PTSD and migraine triggers, mention accommodations such as flexible scheduling, reduced-noise environments, telework or hybrid work where realistic, and identify support programs like supported employment, counseling, or related VA rehabilitation services.",
+    "expected_topics": ["PTSD", "migraines", "low-stress work", "predictable schedule", "VR&E", "accommodations"]
+  },
+  {
+    "id": "amputation_anxiety_training_vs_placement",
+    "question": "I'm a veteran with traumatic amputation and anxiety, and I want to know whether vocational training or direct job placement would be a better route for me through VR&E.",
+    "reference_answer": "A strong answer should compare vocational training versus direct job placement through VR&E, explain which route is more realistic depending on current skills and adjustment needs, mention accommodations related to mobility or prosthetic use as relevant, and connect the recommendation to anxiety, structured support, and the veteran's readiness for employment.",
+    "expected_topics": ["traumatic amputation", "anxiety", "vocational training", "direct job placement", "VR&E", "accommodations"]
+  },
+  {
+    "id": "multiple_sclerosis_fatigue_part_time_remote",
+    "question": "I'm a veteran with multiple sclerosis and fatigue, and I'm looking for part-time remote work that could later become full-time. What employment pathways and accommodations fit best?",
+    "reference_answer": "A strong answer should recommend VR&E or related vocational support, identify part-time remote-friendly pathways that can scale toward full-time work, mention fatigue-aware accommodations such as flexible scheduling, reduced hours, rest breaks, and assistive technology, and connect the advice to multiple sclerosis and energy variability.",
+    "expected_topics": ["multiple sclerosis", "fatigue", "part-time remote work", "flexible scheduling", "accommodations", "VR&E"]
+  },
+  {
+    "id": "chronic_pain_mci_compare_roles",
+    "question": "I'm a veteran with chronic pain and mild cognitive impairment, and I want to know whether medical coding, data entry, or customer support would be the best fit. Please compare them.",
+    "reference_answer": "A strong answer should compare medical coding, data entry, and customer support against the veteran's chronic pain and mild cognitive impairment, identify the strongest fit with reasoning, mention cognitive and ergonomic accommodations, and connect the recommendation to realistic training or support pathways such as VR&E.",
+    "expected_topics": ["chronic pain", "mild cognitive impairment", "medical coding", "data entry", "customer support", "accommodations"]
+  },
+  {
+    "id": "ptsd_housing_instability_employment_gap",
+    "question": "I'm a veteran with PTSD, housing instability, and a long employment gap. What VA programs and realistic employment pathways could help me re-enter the workforce?",
+    "reference_answer": "A strong answer should recommend realistic re-entry pathways through VA programs, mention VR&E and other stabilization-oriented supports relevant to PTSD and housing instability, address the long employment gap with stepwise options such as supported employment, transitional work, or structured training, and explain accommodations or wraparound support that make sustained re-entry more realistic.",
+    "expected_topics": ["PTSD", "housing instability", "employment gap", "supported employment", "VR&E", "re-entry pathways"]
+  }
+]

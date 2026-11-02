@@ -1,0 +1,720 @@
+FILENAME: pd-15-06-pdf-c9fd3af714b9.pdf
+PATH: _raw/rsa.ed.gov/pd-15-06-pdf-c9fd3af714b9.pdf
+
+UNITED STATES DEPARTMENT OF EDUCATION 
+OFFICE OF SPECIAL EDUCATION AND REHABILITATIVE SERVICES 
+REHABILITATION SERVICES ADMINISTRATION 
+WASHINGTON, DC 20202 
+ 
+ 
+POLICY DIRECTIVE 
+RSA-PD-15-06 
+DATE:  March 12, 2015 
+ 
+ 
+ADDRESSEES:  STATE VOCATIONAL REHABILITATION AGENCIES  
+    
+SUBJECT: Instructions for completing the Federal Financial Report (SF-425) for the 
+State Supported Employment Services program.  
+ 
+POLICY 
+STATEMENT: The Office of Management and Budget (OMB) requires that grantees use 
+the SF-425 to report financial data for grant awards.  Through this Policy 
+Directive (PD), the Rehabilitation Services Administration (RSA) is 
+transmitting a copy of the SF-425 and revised instructions for completing 
+the form for the State Supported Employment Services (SE) program.  
+Revised instructions specific to the SE program are necessitated by 
+statutory changes to the Rehabilitation Act of 1973, as amended by the 
+Workforce Innovation and Opportunity Act (WIOA).  
+ 
+ Previously, instructions for completing the SF-425 for the SE program, as 
+well as several other programs, were included in RSA-PD-11-03, issued 
+on October 26, 2010.  Given the significant changes to the SE program 
+made by WIOA, we have determined it necessary to develop separate SF-
+425 instructions specific to the SE program which are transmitted via this 
+PD.  As a result, for purposes of the SE program, this PD supersedes RSA-
+PD-11-03.  
+ 
+ For your convenience, the revisions to RSA-PD-11-03 instructions for the 
+SE program: 
+• require submission of SF-425 reports on a semi-annual basis rather 
+than on an annual basis;  
+• where applicable, add regulation references for the Uniform 
+Administrative Requirements, Cost Principles, and Audit 
+Requirements for Federal Awards (2 CFR part 200); 
+• ensure consistency with 2 CFR part 200; 
+• clarify the distinction between reporting requirements for the cash 
+versus accrual basis of accounting for line 10e; 
+• clarify types of Federal expenditures required to report in line 10e; 
+• clarify reporting requirements for program income in line 10l; 
+1
+
+• remove line 12a – Innovation and Expansion Amount for the State 
+Vocational Rehabilitation (VR) Grants Program, which is not 
+applicable to the SE program;  
+• create a new line 12a – Expenditures for Youth with the Most 
+Significant Disabilities, for grantees to report the amount of 
+Federal expenditures incurred for youth with the most significant 
+disabilities; 
+• remove line 12c – In-Service Training for VR State Grants 
+Program, which is not applicable to the SE program; and 
+• clarify requirements related to certifying the SF-425. 
+ 
+ RSA uses the SF-425 data to monitor the financial status of the SE 
+program and to assess grantee compliance with the fiscal requirements 
+contained in the Rehabilitation Act of 1973 (Rehabilitation Act), as 
+amended by WIOA.  Therefore, the reports must be accurate and 
+submitted timely.   
+ 
+SE grantees must submit completed SF-425 reports on a semi-annual 
+basis.  Semi-annual reporting is necessary in order for RSA to effectively 
+monitor the matching and reservation of funds requirements under WIOA.  
+The end dates for each reporting period in a fiscal year are 3/31 and 9/30.  
+Semi-annual reports must be submitted no later than 45 days
+1 after the end 
+of the reporting period.  Final reports must be submitted no later than 90 
+days after the period of performance.  Period of performance means the 
+time during which the non-Federal entity may incur new obligations to 
+carry out the work authorized under the Federal award.   
+ 
+Obligations made during the period of performance may be liquidated at any 
+point during the liquidation period, which ends 90 days after the period of 
+performance.  If, however, the timing of liquidating obligations precludes 
+submission of the final SF-425 within 90 days following the period of 
+performance, grantees must submit a late liquidation request in accordance 
+with the Department of Education’s Policy Memorandum regarding 
+extension of liquidation periods.  If the late liquidation request is approved, 
+the grantee must submit the final SF-425 after the funds have been 
+liquidated, but no later than 45 days after the end of the extension period.   
+ 
+  
+1 Although the Office of Management and Budget (OMB) published in its December 7, 2007 Federal Register 
+Notice (72 FR 69236) that interim reports are due within 45 days of the interim reporting end dates instead of within 
+30 days as originally identified, OMB has not revised the Federal Financial Report instructions to reflect this 
+change.  Grantees are, nevertheless, permitted to exercise the 45-day period as published by OMB within the Federal 
+Register. 
+ 
+2
+
+Electronic Submission 
+ 
+Reports must be submitted electronically through the RSA website.  In 
+addition, and as is done for other reports submitted to RSA electronically, 
+grantees are responsible for maintaining a hardcopy of the report for 
+verification purposes, signed by the certifying official who is authorized to 
+legally bind the non-Federal entity.  By certifying the report, the grantee is 
+certifying that it is aware that any false, fictitious, or fraudulent 
+information, or the omission of any material fact, may subject them to 
+criminal, civil or administrative penalties for fraud, false statements, false 
+claims or otherwise (2 CFR 200.415). 
+ 
+To enter data into this report online, visit https://rsa.ed.gov
+.  To enter data, 
+individuals must have a user ID and password.  If you do not have a user 
+ID, select Info for New Users for instructions.  The procedures for 
+obtaining a user ID are also located in the "Getting Started" section of the 
+RSA Website User Guide at: 
+ 
+http://www2.ed.gov/rschstat/eval/rehab/rsamis/rsamis_help.html 
+ 
+If you have any questions about completing the SF-425, please contact the 
+RSA Fiscal Unit contact for your award.  
+ 
+CITATIONS  
+IN LAW: Sections 3(b), 19, 108, 603, 604, 606, and 608 of the Rehabilitation Act of 
+1973, as amended by WIOA. 
+ 
+CITATIONS IN 
+REGULATIONS: 34 CFR 76.702, 76.707, 76.709; 34 CFR 77.1; 2 CFR 200.1, 200.80, 
+200.301, 200.302, 200.303, 200.306, 200.307, 200.309, 200.327, 200.328, 
+200.343, 200.408; and 34 CFR 363.51 and 363.52.  
+  
+EFFECTIVE  
+DATE  OF  
+POLICY:  Immediately Upon Issuance 
+ 
+ 
+EXPIRATION  
+DATE:  Until Retired 
+ 
+  
+3
+
+INQUIRIES 
+TO: RSA Fiscal Unit Staff  
+ 
+ 
+ 
+       /s/ 
+Janet L. LaBreck 
+Commissioner 
+Rehabilitation Services Administration 
+ 
+Attachment 
+ 
+cc: Council of State Administrators of Vocational Rehabilitation 
+National Council of State Agencies for the Blind 
+4
+
+Page of
+1
+pages
+4b. EIN
+From: To:
+a. Type b. Rate c. Period 
+From
+Period To d. Base
+g. Totals: 0
+b. Signature of Authorized Certifying Official
+14. Agency use only:
+e. Date Report Submitted (Month, Day, Year)
+Standard Form 425 - Revised 10/11/2011
+OMB Approval Number: 0348-0061
+Expiration Date: 2/28/2015
+12. Remarks: Attach any explanations deemed necessary or information required by Federal sponsoring agency in compliance with governing legislation:
+13. Certification: By signing this report, I certify to the best of my knowledge and belief that the report is true, complete, and accurate, and the 
+expenditures, disbursements and cash receipts are for the purposes and intent set forth in the award documents.  I am aware that any false, 
+fictitious, or fraudulent information may subject me to criminal, civil, or administrative penalties. (U.S. Code, Title 18, Section 1001)
+c. Telephone (Area code, number, and extension)a. Typed or Printed Name and Title of Authorized Certifying Official
+0 0
+    m. Program income expended in accordance with the deduction alternative
+f. Federal Share
+    n. Program income expended in accordance with the addition alternative
+    o. Unexpended program income (line l minus line m or line n)
+11. 
+Indirect 
+Expense
+e. Amount Charged
+Program Income:
+    l. Total Federal share of program income earned
+Recipient Share:
+     i. Total recipient share required
+     j. Recipient share of expenditures
+    k. Remaining recipient share to be provided (line i minus j)
+    g. Total Federal share (sum of lines e and f)
+    h. Unobligated balance of Federal funds (line d minus g)
+    d. Total Federal funds authorized
+8. Project/Grant Period (Month, Day, Year)
+    c. Cash on Hand (line a minus b)
+(Use lines d-o for single grant reporting)
+Federal Cash (To report multiple grants separately, also use FFR Attachment):
+    a. Cash Receipts
+(Use lines a-c for single or combined multiple grant reporting)
+FEDERAL FINANCIAL REPORT
+(Follow form instructions)
+1. Federal Agency and Organizational Element to 
+Which Report is Submitted
+2. Federal Grant or Other Identifying Number Assigned by Federal Agency (To 
+report multiple grants, use FFR Attachment)
+Paperwork Burden Statement   
+According to the Paperwork Reduction Act, as amended, no persons are required to respond to a collection of information unless it displays a valid OMB Control Number. The 
+valid OMB control number for this information collection is 0348-0061. Public reporting burden for this collection of information is estimated to average 1.5 hours per response, 
+including time for reviewing instructions, searching existing data sources, gathering and maintaining the data needed, and completing and reviewing the collection of 
+information. Send comments regarding the burden estimate or any other aspect of this collection of information, including suggestions for reducing this burden, to the Office of 
+Management and Budget, Paperwork Reduction Project (0348-0061), Washington, DC 20503.
+3. Recipient Organization (Name and complete address including Zip code)
+4a. DUNS Number
+10. Transactions Cumulative
+7. Basis of Accounting6. Report Type5. Recipient Account Number or Identifying 
+Number (To report multiple grants, use FFR 
+Attachment)
+9. Reporting Period End Date (Month, Day, Year)
+d. Email Address
+    e. Federal share of expenditures
+     f. Federal share of unliquidated obligations
+    b. Cash Disbursements
+Federal Expenditures and Unobligated Balance:
+Quarterly
+Semi-Annual
+Annual
+Final
+Cash
+Accrual
+
+FEDERAL FINANCIAL REPORT (ACCESSIBLE VERSION) 
+1.  Federal Agency and Organizational Element to Which Report is Submitted   _________________________  
+2.  Federal Grant or Other Identifying Number Assigned by Federal Agency  _________________________  
+3.  Recipient Organization  _________________________  
+4a.  DUNS Number  _________________________  
+4b.  EIN  _________________________  
+5.  Recipient Account Number or Identifying Number  _________________________  
+6.  Report Type  _________________________  
+7.  Basis of Accounting  _________________________  
+8.  Project/Grant Period From  _________________________  
+8.  Project/Grant Period To  _________________________  
+9.  Reporting Period End Date  _________________________  
+10.  Transactions 
+a.  Cash Receipts  _________________________  
+b.  Cash Disbursements  _________________________  
+c.  Cash on Hand (line a minus b)  _________________________  
+d.  Total Federal funds authorized  _________________________  
+e.  Federal share of expenditures  _________________________  
+f.  Federal share of unliquidated obligations  _________________________  
+g.  Total Federal share (sum of lines e and f)  _________________________  
+h.  Unobligated balance of Federal funds (line d minus g)  _________________________  
+i.  Total recipient share required  _________________________  
+j.  Recipient share of expenditures  _________________________  
+k.  Remaining recipient share to be provided (line i minus j)  _________________________  
+l.  Total Federal program income earned  _________________________  
+m.  Program income expended in accordance with the deduction alternative   _________________________  
+n.  Program income expended in accordance with the addition alternative   _________________________  
+o.  Unexpended program income (line l minus line m or line n)  _________________________  
+ 
+11. Indirect Expense 
+  a. Type of 
+Rate b. Rate c. Period 
+From Period To d. Base e. Amount 
+Charged 
+f. Federal 
+Share 
+Row 1               
+Row 2               
+g. Totals              
+ 
+12. Remarks 
+ 
+13. Certification - By signing this report, I certify that it is true, complete, and accurate to the best of my 
+knowledge. I am aware that any false, fictitious, or fraudulent information may subject me to criminal, civil, 
+or administrative penalties. (U.S. Code, Title 218, Section 1001). In addition, I agree to maintain a hardcopy of 
+the report, signed by the certifying official, for verification purposes.  
+a. Name and Title of Authorized Certifying Official  ______________________________________________  
+b. Signed  ______________________________________________  
+c. Telephone (Area code, number)  ______________________________________________  
+c. Telephone (Extension if any)  ______________________________________________  
+d. Email address  ______________________________________________  
+e. Date Report Submitted  ______________________________________________  
+ 
+14. Agency use only: Standard Form 425 - OMB Approval Number: 0348-0061 
+  
+6
+
+PAPERWORK BURDEN STATEMENT 
+According to the Paperwork Reduction Act, as amended, no persons are required to respond to a 
+collection of information unless it displays a valid OMB Control Number. The valid OMB 
+control number for this information collection is 0348-0061. Public reporting burden for this 
+collection of information is estimated to average 1.5 hours per response, including time for 
+reviewing instructions, searching existing data sources, gathering and maintaining the data 
+needed, and completing and reviewing the collection of information. Send comments regarding 
+the burden estimate or any other aspect of this collection of information, including  
+suggestions for reducing this burden, to the Office of Management and Budget, Paperwork 
+Reduction Project ( 0348-0060), Washington, DC 20503. 
+ 
+  
+7
+
+SF-425 FORM:  STATE SE SERVICES PROGRAM REPORTING INSTRUCTIONS 
+ 
+While the SF-425 report is designed for single grant and multiple grant award reporting, the U.S. 
+Department of Education’s (Department’s) policy is that multiple grant award reporting is not 
+permitted for Department grants.  The SF-425 attachment (SF-425A), which is to be used for 
+reporting multiple grants, is not to be used for Department grants and is not included with this 
+PD.  As such, references to multiple grant reporting and to the SF-425A in items 2, 5 and 10 of 
+the SF-425 are not applicable to Department grantees.  The Department requires grantees to 
+complete a separate SF-425 for each grant they receive.  
+ 
+1. Federal Agency and Organizational Element to Which Report is Submitted:   
+Data entry is not required for this field.  RSA is the default entry. 
+ 
+2. Federal Grant or Other Identifying Number Assigned by Federal Agency:  
+Data entry is not required for this field.  The grantee’s grant award number is the default 
+entry.  This is the Award Number listed in Box 2 of the Grant Award Notification (GAN).  
+The grant award number is also referred to as the Federal Award Identification Number 
+(FAIN).  If the information on the form is not correct, please notify the RSA Fiscal Unit 
+contact for your award. 
+ 
+3. Recipient Organization:  
+Data entry is not required for this field.  The organization’s name and address associated 
+with the grant will be the default entry.  This is the organization information listed in Box 1 
+of the GAN.  If the information on the form is not correct, please notify the RSA Fiscal Unit 
+contact for your award. 
+ 
+4a.  DUNS Number: 
+Data entry is not required for this field.  The Grantee Data Universal Numbering System 
+(DUNS) number associated with the grant will be the default entry.  This is the DUNS 
+number listed in Box 8 of the GAN.  If the information on the form is not correct, please 
+notify the RSA Fiscal Unit contact for your award. 
+ 
+4b. EIN: 
+Data entry is not required for this field.  The Employer Identification Number (EIN) 
+associated with the grantee will be the default entry.  This number is also known as the Tax 
+Identification Number (TIN).  If the information on the form is not correct, please notify the 
+RSA Fiscal Unit contact for your State. 
+ 
+5. Recipient Account Number or Identifying Number: 
+ This is an optional data element.  Enter an account number or any other identifying number 
+assigned by the grantee to the award.  This number is for the grantee’s use only and is not 
+required by RSA.  Data entry is limited to 30 characters. 
+ 
+6. Report Type: 
+Indicate if the report is final.  A report can be marked as final prior to the end of the period 
+of performance if the grantee has liquidated its obligations and no additional reporting is 
+8
+
+required for the grant award.  The final report must indicate that Federal and non-Federal 
+obligations have been liquidated.  There must be no cash on hand and program income must 
+be disbursed. 
+ 
+7. Basis of Accounting (Cash/Accrual): 
+ Specify whether a cash or accrual basis was used for recording transactions related to the 
+grant award and for preparing the SF-425.  For cash basis accounting, expenses are recorded 
+when they are paid.  Accrual basis of accounting refers to the accounting method where 
+expenses are reported when incurred.  Accrued expenditures are recorded when goods or 
+services are received, regardless of when cash is received or paid.   
+ 
+Note:  A grantee can report using either a cash or accrual basis of accounting.  However, if a 
+grantee changes from one basis to another, the grantee should inform RSA of the change.  
+To ensure grantees are not utilizing separate bases of accounting for reports covering the 
+same fiscal year, changes should coincide with the end of the fiscal year. 
+ 
+8. Project/Grant Period (From/To): 
+Data entry is not required for this field.  The grant period will be entered by default and will 
+be the same as Box 6 on the GAN that documents when Federal sponsorship begins and 
+ends.  The grant period represents the period for which the funds were awarded in 
+accordance with 34 CFR 77.1.  The grant period is one year.  However, Federal funds with 
+a matching requirement that remain unobligated at the end of the year of appropriation may 
+be carried over for obligation in the succeeding fiscal year only to the extent that the agency 
+complied with the applicable matching requirement for the SE program (e.g., the 10 percent 
+match requirement for the 50 percent of the SE funds reserved for the provision of services 
+to youth with the most significant disabilities) for the fiscal year in which the funds were 
+awarded  (Sections 19 and 606(b)(7)(I) of the Rehabilitation Act, and 34 CFR 76.709). 
+ 
+9. Reporting Period End Date: 
+ Data entry may be required for this field if the grantee is submitting a final report.  The 
+default reporting period end date will correspond with the required reporting period (3/31 
+and 9/30).  The period covered is always the beginning date of the grant through the end of 
+the reporting period.  When submitting a final SF-425 form:   
+• if all funds are obligated by 9/30 of the fiscal year in which the award was made and 
+liquidated within 90 days of that time, the reporting period end date shall be 9/30 of the 
+fiscal year in which the award was made;  
+• if Federal funds are carried over for obligation in the succeeding fiscal year, and all funds 
+are obligated by either 3/31 or 9/30 of the carryover year and liquidated within 90 days 
+following the period of performance, the reporting period end date for the final report 
+shall be 9/30 of the carryover year; and 
+• if Federal funds are carried over for obligation in the succeeding fiscal year, a late 
+liquidation request extension has been approved, and funds were obligated by 9/30 of the 
+carryover year and liquidated by the approved date for late liquidation, the reporting 
+period end date for the final report shall remain 9/30 of the carryover year, but the final 
+report shall be due 45 days after the end date of the approved late liquidation extension 
+period. 
+9
+
+10. Transactions 
+ 
+ 10a. Federal Cash Receipts:  
+The grantee must enter the net drawdown amount on line 10a, which is obtained by 
+running a G5 External Award Activity Report (https://www.g5.gov) using date 
+parameters.   
+• For annual reports, the date parameters will be the start date of the award and the 
+reporting period end date.   
+• For final reports, the date parameters will be the start date of the award and the 
+date award funds were liquidated.  Because an agency may draw down funds 
+during the liquidation period or upon receipt of an approved late liquidation 
+request, the end date of the G5 External Award Activity Report may be past the 
+end of the period of performance of the award.  This does not change the 
+reporting period end date listed on the SF-425. 
+   
+The Federal SE net drawdown amount will be shown on the G5 report and should be 
+entered as the amount on line 10a of the SF-425 form.  Grantees may want to 
+maintain copies of the G5 External Award Activity Reports as supporting 
+documentation that verifies the accuracy of the amount reported on line 10a. 
+ 
+10b. Federal Cash Disbursements: 
+  Enter the cumulative amount of actual disbursements made from Federal SE funds 
+drawn down during the reporting period.  Disbursements are the sum of actual cash 
+expenditures made for direct charges for goods and services, the amount of indirect 
+expenses charged to the award, and the amount of cash advances and payments made 
+to contractors/vendors. 
+ 
+10c. Federal Cash on Hand (10a minus 10b equals 10c): 
+ Data entry is not required for this field.  This data element is calculated automatically.  
+If more than three business days of cash are on hand, RSA requires an explanation on 
+line 12, Remarks, explaining why the drawdown was made prematurely or other 
+reasons for the excess cash.  Grantees must minimize the time elapsing between the 
+drawdown of Federal funds and disbursement by the grantee in accordance with 
+Federal requirements (31 CFR part 205; 2 CFR 200.305(b)). 
+ 
+10d. Total Federal Funds Authorized: 
+Data entry is not required for this field.  This data element is updated automatically 
+and represents the total amount of Federal funds awarded to the grantee as of the end 
+of the reporting period. 
+ 
+10e. Federal Share of Expenditures: 
+ Enter the amount of expenditures incurred with Federal funds (also known as Federal 
+fund expenditures).   
+• For reports prepared on a cash basis, the agency should report Federal fund 
+expenditures as the sum of cash disbursements for direct charges for goods and 
+10
+
+services, the amount of indirect expenses charged, and the amount of payments 
+made to contractors/vendors.   
+• For reports prepared on an accrual basis, grantees should report Federal fund 
+expenditures as the sum of cash disbursements for direct charges for goods and 
+services, the amount of indirect expenses incurred, the amount of payments made 
+to contractors/vendors, and the increase or decrease in the amounts owed by the 
+recipient for goods received and services performed by employees, 
+contractors/vendors, and other payees. 
+ 
+Do not include Federal program income received by the grantee on line 10e.   See 
+line 10l for instructions regarding the reporting of Federal program income.  
+ 
+Grantees must include all Federal fund expenditures incurred under the SE program 
+on line 10e, including SE program Federal expenditures incurred for the provision of 
+SE services to youth with the most significant disabilities and Federal expenditures 
+incurred for the provision of extended services to youth with the most significant 
+disabilities (SE services to youth with the most significant disabilities).  The amount 
+expended for youth with the most significant disabilities, included in 10e, must also 
+be reported separately in Section 12, line 12a – Remarks, to demonstrate the grantee 
+has met the 50 percent reserve requirement, matching requirement, and CMIA 
+requirements. 
+ 
+10f. Federal Share of Unliquidated Obligations: 
+ Enter the Federal portion of unliquidated obligations incurred by the grantee.  
+Unliquidated obligations include direct and indirect expenses for goods and services 
+incurred by the grantee, but not yet paid or charged to the SE grant award, including 
+amounts due to contractors/vendors.  When submitting a final SF-425 report, this line 
+should be zero. 
+ 
+ On line 10f, do not include: 
+1. expenditures reported on line 10e; and 
+2. future fund commitments (e.g., a long term contract) for which an obligation or 
+expense has not been incurred pursuant to 34 CFR 76.707.  
+ 
+Note:  Grantees have 90 days from the end of the period of performance to liquidate 
+Federal obligations (2 CFR 200.328(b)(1)), which applies regardless of whether the 
+grantee uses a cash or accrual basis of accounting.  If the timing of liquidating 
+obligations precludes submission of the final SF-425 report within 90 days after the 
+period of performance, grantees must submit a late liquidation request.  The request 
+for late liquidation must be made in accordance with the Department’s guidance on 
+late liquidations.  If approved, the grantee must liquidate the approved obligations and 
+submit the final SF-425 report within 45 days after the approved late liquidation 
+extension date.  When submitting a final SF-425 report, line 10f should be zero. 
+ 
+  
+11
+
+10g. Total Federal Share (sum of 10e and 10f equals 10g): 
+ Data entry is not required for this field.  This data element is calculated automatically.  
+ 
+10h. Unobligated Balance of Federal Funds (10d minus 10g equals 10h): 
+ Data entry is not required for this field.  This data element is calculated automatically.  
+For the final report, this represents the amount of Federal SE funds awarded that the 
+grantee did not request or draw down. 
+ 
+10i. Total Recipient Share Required: 
+Data entry is not required for this field.  This data element is calculated automatically 
+using the following formula:  ((12a divided by 0.90) multiplied by 0.10).  The amount 
+calculated represents the non-Federal share required based upon the amount of 
+Federal expenditures for youth with the most significant disabilities (line 12a).   
+ 
+ Grantees are required to reserve 50 percent of the total SE Federal allotment for the 
+provision of SE services, including extended services, to eligible youth with the most 
+significant disabilities.  States must provide a 10 percent match for the 50 percent of 
+the award reserved for the provision of services to youth with the most significant 
+disabilities (Section 606(b)(7)(I) of the Rehabilitation Act).   
+ 
+ Note:  The amount calculated will not exceed the total non-Federal share required to 
+meet the 10 percent match requirement for 50 percent of the authorized Federal funds 
+listed on line 10d (the 50 percent representing the reserved funds for providing 
+services to youth with the most significant disabilities), regardless of the amount of 
+Federal SE funds a State expends on youth with the most significant disabilities that 
+are in excess of the 50 percent reserved.  
+ 
+10j. Recipient Share of Expenditures: 
+Enter ONLY the grantee’s total amount of non-Federal expenditures and unliquidated 
+obligations for the provision of SE services, including extended services, to eligible 
+youth with the most significant disabilities, that are used to satisfy the State’s non-
+Federal share requirement related to the 50 percent reserve.  This amount must 
+include the grantee’s non-Federal share of actual cash disbursements or outlays (less 
+any rebates, refunds, or other credits), including payments to contractors, and, the 
+grantee’s non-Federal share of unliquidated obligations (reported separately on line 
+12d – Remarks).  It is important to note that there is no match requirement for the 50 
+percent of SE funds not reserved for the provision of services to youth with the most 
+significant disabilities (e.g., the remaining 50 percent of the SE award).  The amount 
+reported on line 10j does not include Federal program income earned by the grantee.  
+See line 10l for instructions regarding reporting of Federal program income. 
+ 
+The amount reported on line 10j should be equal to or greater than the amount 
+reported on 10i (required non-Federal share amount) to ensure the portion of Federal 
+funds expended for SE services to youth with the most significant disabilities are 
+being drawn down proportionally in accordance with the Cash Management 
+Improvement Act (CMIA) (31.205.15(d)).  By 9/30 of the fiscal year in which the 
+12
+
+award was made, the grantee must have provided the requisite non-Federal share for 
+any Federal SE funds reserved for the provision of services to youth with the most 
+significant disabilities that will be carried over for obligation in the succeeding fiscal 
+year.   
+ 
+10k. Remaining Recipient Share to Be Provided (10i minus 10j equals 10k): 
+ Data entry is not required for this field.  This data element is calculated automatically.  
+If the amount is a positive number, this figure represents the required amount of non-
+Federal share the grantee was required to provide in order to match up to the 50 
+percent reserve of Federal funds expended for provision of services to youth with the 
+most significant disabilities, but did not, by the end of the grant period.  If the amount 
+is a negative number, this figure represents the amount of non-Federal share provided 
+that exceeds the non-Federal share required based upon the amount of Federal funds 
+drawn down. 
+ 
+10l. Total Federal Program Income Earned: 
+Enter the total amount of Federal program income (program income) earned and 
+received by the grantee as of the end of the reporting period.  Program income is 
+considered earned in the fiscal year in which the funds are received by the grantee (2 
+CFR 200.80).  Program income means gross income received by the grantee that is 
+directly generated by an allowable activity supported under the SE program (2 CFR 
+200.307).  Do not include refunds or rebates as program income. 
+ 
+Program income includes Social Security Administration (SSA) payments that the 
+grantee has chosen to transfer from the State VR program to the SE program in 
+accordance with regulations.  Program income from SSA payments recorded as 
+received in the VR program that the grantee has chosen to transfer to the SE program 
+is restricted to the grant award year that corresponds to the fiscal year in which it was 
+earned in the VR program.  For example, SSA payments earned and recorded in the 
+VR program in FY 2015 may be transferred to the SE program for expenditure and 
+reporting purposes under the FY 2015 award.  This means the transfer may occur 
+during the FY 2015 grant year or, if applicable, during the FY 2015 carryover year.   
+ 
+Include the amount of SSA payments recorded as received from the VR program 
+through a transfer in the total on line 10l and also report the amount of transferred 
+funds separately on line 12e - Program Income Transferred from VR program.  
+ 
+Program income earned may be expended in accordance with the deduction or 
+addition alternative. 
+ 
+10m. Program Income Expended in Accordance with the Deduction Alternative: 
+For those grantees using the deduction alternative, enter the amount of program 
+income that was used to reduce the Federal share of the total program costs.  The 
+grantee must expend program income funds in accordance with the same standards of 
+allowability, reasonableness and allocability (2 CFR 200.403, 200.404 and 200.405) 
+that are applicable to Federal funds (Section 108 of the Rehabilitation Act, 2 CFR 
+13
+
+200.307(e)(1), 200.401, and 200.408).  Be advised that if a grantee utilizes the 
+deduction alternative, the amount of program income entered will reduce the Federal 
+share, which will result in the return of these funds to the Federal award. 
+ 
+10n. Program Income Expended in Accordance with the Addition Alternative: 
+For those grantees using the addition alternative, enter the amount of program income 
+that was used to supplement the Federal share of the total program costs.  The amount 
+reported on line 10n represents actual disbursements (i.e., outlays of program income 
+by the grantee).  The outlay of all program income funds must meet the same 
+standards of allowability, reasonableness and allocability (2 CFR 200.403, 200.404 
+and 200.405) that are applicable to Federal funds (Section 108 of the Rehabilitation 
+Act and 2 CFR 200.307(e)(2), 200.401, and 200.408). 
+  
+10o. Unexpended Program Income (10l minus 10m or 10n equals 10o):  
+Data entry is not required for this field.  This data element is calculated automatically.  
+When submitting a final SF-425 report, this line should be zero.  Program income that 
+has not been disbursed by the end of the liquidation period must be returned to the 
+Federal award.  
+ 
+Note:  In accordance with 2 CFR 200.305(b)(5), “[t]o the extent available, the non-
+Federal entity must disburse funds available from program income (including 
+repayments to a revolving fund), rebates, refunds, contract settlements, audit 
+recoveries, and interest earned on such funds before requesting additional cash 
+payments” [emphasis added]. 
+ 
+11.  Indirect Expense:   
+Indirect costs are generally charged to Federal awards via an approved indirect cost rate or 
+cost allocation plan.  An indirect cost rate is simply the percentage relationship of indirect 
+costs to direct costs and is substantiated by a standardized set of work papers referred to as 
+the indirect cost proposal.  Any grantee that wishes to claim indirect costs under Federal 
+grants must prepare an indirect cost proposal and submit it to the cognizant Federal agency 
+for approval (2 CFR part 200 – Appendix VII, paragraph D).  Grantees claiming indirect 
+expense based on an approved cost allocation plan (CAP) (2 CFR part 200 – Appendix VII, 
+paragraph F.3), rather than an indirect cost rate, should follow the directions included in the 
+line item instructions below. 
+ 
+11a. Type of Rate(s): 
+ Select whether the approved indirect cost rate is Provisional, Predetermined, Final, or 
+Fixed.  If based on an approved CAP, select CAP. 
+ 
+11b. Rate: 
+ Enter the approved indirect cost rate(s) in effect during the reporting period.  CAPs 
+only, enter 100 percent of the costs attributable to this award.  
+ 
+  
+14
+
+11c. Period From; Period To: 
+ Enter the beginning and ending effective dates for the approved indirect cost rate(s) 
+or CAP. 
+ 
+11d. Base: 
+ Enter the amount of the base against which the approved indirect cost rate(s) was 
+applied.  The base includes allowable expenditures to which the approved indirect 
+cost rate may be applied.  For CAPs, enter the total amount of the CAP costs (include 
+both non-Federal and Federal shares).    
+ 
+11e. Amount Charged (11b multiplied by 11d equals 11e): 
+Data entry is not required for this field.  This data element is calculated automatically.   
+ 
+11f. Federal Share: 
+Enter the Federal share of the amount in 11e. 
+ 
+11g. Totals: 
+Data entry is not required for this field.  This data element is calculated automatically.   
+ 
+12. Remarks: 
+This section is used to report data elements unique to the SE program that are necessary to 
+ensure compliance with program requirements.  This section can also be used, as needed, to 
+clarify and explain amounts reported, including sources of matching funds, and changes 
+from amounts previously reported.   
+ 
+12a. Expenditures for Youth with the Most Significant Disabilities: 
+Enter the total amount of Federal SE expenditures reported on line 10e that were 
+incurred only for the provision of SE services, including extended services, to youth 
+with the most significant disabilities.  Do not include any Federal share of 
+unliquidated obligations from line 10f.  The amount reported on line 12a must be 
+included in the total amount reported on line 10e – Federal Share of Expenditures. 
+ 
+12b. Administrative Costs for Supported Employment Program: 
+ Enter the amount of administrative expenditures for the SE program.  Administrative 
+expenditures are limited to 2.5 percent of the grantee’s SE allotment (Section 603(c) 
+and 606(h) of the Rehabilitation Act and 34 CFR 363.51(b)).   
+ 
+12c. Not applicable. 
+  
+12d. Recipient Share of Unliquidated Obligations:  
+Enter that portion of unpaid obligations to be paid with non-Federal funds meeting 
+the non-Federal share requirements for the provision of SE services, including 
+extended services, to youth with the most significant disabilities (Section 606(b)(7)(I) 
+of the Rehabilitation Act). 
+  
+15
+
+12e. Program Income Transferred from VR Program: 
+Enter the amount of VR SSA payments transferred to the SE program.  If no program 
+income funds were transferred to the program, enter zero.  See instructions on lines 
+10l for further guidance (Section 108 of Rehabilitation Act).   
+ 
+13. Certification:   
+Through the electronic submission of this report, the grantee’s certifying official indicates: 
+“By signing this report, I certify to the best of my knowledge and belief that the report is 
+true, complete, and accurate, and the expenditures, disbursements and cash receipts are for 
+the purposes and objectives set forth in the terms and conditions of the Federal award.  I am 
+aware that any false, fictitious, or fraudulent information, or the omission of any material 
+fact, may subject me to criminal, civil or administrative penalties for fraud, false statements, 
+false claims or otherwise.” (2 CFR 200.415 and U.S. Code, Title 18, Section 1001). 
+ 
+13a. Typed or Printed Name and Title of Authorized Certifying Official: 
+Enter name and title of authorized certifying official.   
+ 
+13b. Signature of Authorized Certifying Official:  
+ Place a checkmark in the signed box to indicate that a hardcopy of the completed 
+form has been signed by the certifying official authorized to legally bind the grantee 
+and is maintained by the grantee. 
+ 
+13c. Telephone (Area Code, Number and Extension): 
+ Enter the telephone number (including area code and extension) of the individual 
+listed in line 13a. 
+ 
+13d. E-mail Address: 
+ Enter the email address of the individual listed in line 13a. 
+ 
+13e. Date Report Submitted: 
+ Enter the date that the report is submitted to RSA.   
+ 
+After the form is submitted electronically, RSA fiscal unit staff will mark the form as 
+received.  This action does not constitute approval or verification of the financial data 
+submitted by the grantee.   
+16

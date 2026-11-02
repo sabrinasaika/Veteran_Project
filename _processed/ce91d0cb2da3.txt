@@ -1,0 +1,62 @@
+URL: https://tacqe.com/staying-safe-online/
+
+Employer Assistance Resource Network
+Twitter
+Facebook
+LinkedIn
+Email
+Print
+December is Security Awareness Month, which makes it the perfect time to visit (or revisit) how secure your information is when browsing the Internet or simply using your personal computer and smartphone.
+Threats from viruses, malware, and hackers hunting for vulnerable sensitive data from all sources happen every day. Here are some ways to do what you can to stay safe online:
+Require (Strong) Passwords
+Far too many people prefer being able to open a device and start using it right away over taking the extra step to enter a password for the safety of their personal information. Even more when it comes to their work devices, because, well it’s not “their” information.
+You may think you’re guarding your phone with your life and it’s not going to happen to you, but not having a password, or not having a strong enough one can lead to all sorts of damaging consequences. One of them being
+identity theft
+.
+Consider this:
+47% of Americans
+experienced financial identity theft
+in 2020
+9 in 10 Americans
+encountered a fraud attempt
+in the past year
+There’s a new victim of identity theft every 2 seconds
+More about creating strong passwords
+Phishing
+Phishing is a fraudulent action of sending spam emails or text messages by imitating legitimate source. They trick you into clicking on a link that will send you to an imitation website where they hope you’ll enter your login credentials, credit card numbers, bank account information, etc.
+Anytime you receive an email or text message that claims to be from your bank, the IRS, the authorities, or a social network, etc., the first thing you should do is check who sent it. If it’s phishing, most of the time you will see that it’s from an email address that is not actually tied to the organization it’s claiming to be from.
+Tip:  If you don’t see an email address in the “From” section, hover your cursor on top of the name that’s shown. The sender’s actual email address will appear in the lower left-hand corner of the screen.
+Text messages are usually more difficult to tell, but most institutions nowadays use SMS short codes, which are the five- or six-digit numbers you’ll often see with special offers, rather than a typical 10-digit number.
+When In Doubt, Don’t Click
+If you’re not already certain that it’s a phishing attempt, we recommend doing an Internet search for the type of message you received by the source they are claiming to be from. Most businesses will have already been made aware of it and will have an article that explains that they will never send you such messages.
+Last, but not least,
+NEVER click on the links if you’re not 100% certain
+. It’s always better to not take the chance, and instead go to the actual website or person you know to follow-up. One in six people (33 million Americans)
+lost money to a scam last year.
+Stop Using Internet Explorer as Your Default Browser
+While Internet Explorer (IE) may have come pre-installed on your computer, Microsoft has been warning people for years that they will be
+ending support for Internet Explorer
+on most systems by June, 2022, and that date is approaching quickly.
+Support for older systems using Windows 7 and Windows 8 stopped in November 2020. In fact,
+Microsoft’s Security Chief even warned users
+back in 2019 that it should only be used selectively and not for every-day use.
+Between its lack of support, frequent vulnerabilities, and the fact that most developers don’t support it when making websites anymore, it’s no surprise that
+Internet Explorer used by less than 1% of users
+worldwide nowadays.
+We
+recommend Google Chrome
+or Safari (Mac only)
+as your default browser.
+Mozilla Firefox is safer
+, but if you are a JAWS 18 user, there are known compatibility issues with later versions of Firefox. Microsoft Edge is another alternative; however, it, too, has had issues with JAWS, is also used by less than 4% of users, and like IE, not as supported by many website developers.
+Cyber Security Resources
+There are many basic cyber security courses and other resources online for beginners to comprehend the concepts and make them more comfortable about issues which may seem complex in the beginning.
+Udemy: The Absolute Beginners Guide to Cyber Security 2021
+Learn Cyber Security concepts such as hacking, malware, firewalls, worms, phishing, encryption, biometrics, BYOD & more
+FTC: Cybersecurity Basics (PDF)
+Knowing some cybersecurity basics and putting them in practice will help you protect your business and reduce the risk of a cyber attack.
+Did you find this post useful?
+Click to like!
+Yippee!
+Sorry to hear that!
+Type and Press “enter” to Search

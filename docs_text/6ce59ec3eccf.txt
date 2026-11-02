@@ -1,0 +1,202 @@
+FILENAME: eta-9169-20annualreport-py2021-20tn-pdf-ebb17f696fec.pdf
+PATH: _raw/rsa.ed.gov/eta-9169-20annualreport-py2021-20tn-pdf-ebb17f696fec.pdf
+
+WIOA STATEWIDE AND LOCAL PREFORMANCE REPORT 
+PY2021
+PROGRAM
+STATE:     Tennessee                     
+
+From: 7/1/2021 To: 6/30/2022  X
+
+SUMMARY INFORMATION
+Service
+BY PARTICIPANT CHARACTERISTICS
+Num Rate Num Rate Num Rate Num Rate
+Negotiated 
+Target N/A N/A N/A 23.0%
+Actual 1,763 51.9% 1,609 45.0% 180 22.6% 493 36.0%
+768 50.3% 715 44.7% 83 23.9% 213 36.7%
+990 54.1% 893 46.4% 96 21.6% 269 36.0%
+‐‐ 0 0.0% 0 0.0% 0 0.0%
+399 61.0% 366 53.7% 107 31.6% 225 30.4%
+522 57.0% 494 50.6% 47 18.1% 175 39.2%
+529 50.6% 471 43.3% 20 16.1% 66 51.2%
+181 41.3% 166 37.1% ‐‐ 13 46.4%
+67 39.4% 71 32.7% ‐‐ 7 41.2%
+64 37.6% 41 25.2% ‐‐ 7 63.6%
+14 51.9% 13 48.1% 0 0.0% ‐‐
+17 54.8% 9 34.6% 0 0.0% 13 59.1%
+477 50.4% 424 41.0% 29 16.2% 100 37.9%
+0 0.0% 0 0.0% 0 0.0% 0 0.0%
+8 53.3% 10 41.7% 0 0.0% ‐‐
+1,294 52.6% 1,198 46.9% 153 24.6% 371 34.7%
+44 54.3% 43 48.9% ‐‐ 13 39.4%
+10 $6,264
+White 7,030 1,846 $4,422
+More Than One Race 198 52 $3,781
+$4,735
+60+ 479 151 $5,009
+Ethnicity/Race
+American Indian / Alaska Native 91 24 $3,473
+Asian  116 22 $3,960
+Black / African American 2,837 692 $3,524
+Hispanic / Latino 0 0 N/A
+Native Hawaiian / Pacific 
+Islander 29
+Age
+ < 16 ‐ 0 $7,196
+16 ‐ 18 2,465 445 $3,967
+19 ‐ 24 2,856 714 $3,952
+25 ‐ 44 2,766 821 $4,128
+45 ‐ 54 1,112 327 $5,189
+55 ‐ 59 446 134
+Total Statewide 10,126 2,592
+N/A
+Sex
+Female  4,352 1,094 $4,008
+Male 5,337 1,429 $4,351
+$4,200
+N/A 1.0% N/A
+Total Participants 
+Served
+(Cohort Period: 
+07/01/2021 ‐ 
+06/30/2022)
+Total Participants 
+Exited
+(Cohort Period: 
+07/01/2021 ‐ 
+06/30/2022)
+Employment Rate 
+(Q2)2 
+(Cohort Period: 
+07/01/2020 ‐ 
+06/30/2021)
+Employment Rate 
+(Q4)2 
+(Cohort Period: 
+01/01/2020 ‐ 
+12/31/2020)
+Median 
+Earnings        
+(Cohort Period: 
+07/01/2020 ‐ 
+06/30/2021)
+Credential Rate3       
+(Cohort Period: 
+01/01/2020 ‐ 
+12/31/2020)
+Measurable Skill 
+Gains3                    
+(Cohort Period: 
+07/01/2021 ‐ 
+06/30/2022)
+Earnings
+2,073                                                                          $5,121,276 $627
+Training Services 2,496                                      399                                                                             $2,640,690 $1,058
+Percent training‐related employment1: Percent  enrolled in more than one core program: Percent  Admin Expended:
+OMB Control Number 1205‐0526
+Expiration Date:  05‐31‐2024 ETA‐9169
+Statewide Performance Report
+TITLE (select one):                                                                                                                                      
+Title I Local Area: N/A Title  I Adult  Title II Adult Education
+REPORTING PERIOD COVERED (Required for current and three preceding years.) Title  I Dislocated Worker Title  III Wagner‐Peyser
+Title I Youth Title  IV Vocational Rehabilitation
+Title I and Title III combined
+Participants Served
+(Cohort Period: 
+07/01/2021 ‐ 06/30/2022)
+Participants Exited
+(Cohort Period: 07/01/2021 ‐ 06/30/2022)
+Funds Expended
+(Cohort Period: 07/01/2021 ‐ 
+06/30/2022)
+Cost Per Participant Served
+(Cohort Period: 07/01/2021 ‐ 
+06/30/2022)
+Career Services 8,170                                     
+1
+
+WIOA STATEWIDE AND LOCAL PREFORMANCE REPORT 
+PY2021
+BY EMPLOYMENT BARRIER4
+Num Rate Num Rate Num Rate Num Rate
+Negotiated 
+Target N/A N/A N/A 23.0%
+Actual 1,763 51.9% 1,609 45.0% 180 22.6% 493 36.0%
+18 42.9% 20 35.1% 4 25.0% 7 15.9%
+620 50.8% 549 43.4% 43 17.4% 141 30.0%
+1,763 51.9% 1,609 45.1% 180 22.6% 493 36.0%
+0 0.0% 0 0.0% 0 0.0% 0 0.0%
+49 51.0% 39 32.5% ‐‐ 4 40.0%
+1,622 50.4% 1,473 43.6% 170 22.5% 443 36.3%
+738 45.3% 698 38.7% 56 18.5% 210 37.5%
+‐‐ 0 0.0% 0 0.0% 0 0.0%
+1,763 51.9% 1,609 45.0% 180 22.6% 493 36.0%
+88 45.1% 77 40.3% 5 13.2% 15 44.1%
+19 63.3% 17 47.2% ‐‐ 10 12.5%
+Public Burden Statement (1205‐0526) 
+Persons are not required to respond to this collection of information unless it displays a currently valid OMB control number. Respondent’s reply to these reporting requirements is required to obtain 
+or retain benefits (Workforce Innovation
+ and Opportunity Act, Section 185(a)(2)). Public reporting burden for this collection of information is estimated to range between 240 and 360 minutes which 
+averages 300 minutes per response, including the time for reviewing instructions, searching existing data sources, gathering and maintaining the data needed, and completing and reviewing the 
+collection of information. Send comments regarding this burden estimate to the Office of Policy Development and Research ●  U.S. Department of Labor ● Room N‐5641 ● 200 ConsƟtuƟon Ave., NW, 
+● Washington, DC ● 20210. Do NOT send the completed 9169 applicaƟon to this address.
+Youth in foster care or aged out of system 243 39 $3,400
+1Applies to Title I only.
+2This indicator also includes those who entered into a training or education program for the Youth program.   
+3Credential Rate and Measurable Skill Gains do not apply to the Wagner‐Peyser program.
+4Barriers to Employment are determined at the point of entry into the program. 
+Migrant and Seasonal Farmworkers 44 4 $0
+Individuals with Disabilities (incl. youth) 10,126 2,592 $4,200
+Single Parents (incl. single pregnant 
+women) 487 127 $5,169
+Homeless Individuals / runaway youth 187 56 $3,126
+Long‐term Unemployed                                     
+(27 or more consecutive weeks) 9,068 2,341 $3,937
+Low‐Income Individuals 4,804 1,224 $3,591
+English Language Learners, Low Levels of 
+Literacy, Cultural Barriers 3,434 889 $3,628
+Exhausting TANF within 2 years (Part A Title 
+IV of the Social Security Act) 10,126 2,592 $4,200
+Ex‐offenders 55 20 N/A
+Total Statewide 10,126 2,592
+N/A
+$4,200
+Displaced Homemakers 265 48 $4,894
+Total Participants 
+Served
+(Cohort Period: 
+07/01/2021 ‐ 
+06/30/2022)
+Total Participants 
+Exited
+(Cohort Period: 
+07/01/2021 ‐ 
+06/30/2022)
+Employment Rate 
+(Q2)2 
+(Cohort Period: 
+07/01/2020 ‐ 
+06/30/2021)
+Employment Rate 
+(Q4)2 
+(Cohort Period: 
+01/01/2020 ‐ 
+12/31/2020)
+Median 
+Earnings        
+(Cohort Period: 
+07/01/2020 ‐ 
+06/30/2021)
+Credential Rate3       
+(Cohort Period: 
+01/01/2020 ‐ 
+12/31/2020)
+Measurable Skill 
+Gains3                    
+(Cohort Period: 
+07/01/2021 ‐ 
+06/30/2022)
+Earnings
+2

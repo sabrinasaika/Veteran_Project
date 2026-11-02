@@ -1,0 +1,43 @@
+FILENAME: fl-20methodology-20attachment-docx-eb476ea5e303.docx
+PATH: _raw/rsa.ed.gov/fl-20methodology-20attachment-docx-eb476ea5e303.docx
+
+ATTACHMENT 1
+FL METHODOLOGY FOR DISTRIBUTION OF FRRP TO FL VENDORS
+Every effort has been made by the FL SLA with the active participation of the State Committee of Vendors to develop an accurate and fair plan for the distribution of the Financial Relief and Restoration Payments (FRRP) funds available to FL blind vendors. A collaborative decision of the Committee and SLA targeted the period of March-December 2020 to determine vendor losses. This time period was selected as it was the time that the effects of the pandemic were felt on vendor sales and net profit in 2020. Focused on performing this task with all due diligence and applying the principle of comparing oranges to oranges and apples to apples, the collaborative effort of the SLA and Committee has developed the following plan.
+Eligible blind vendors includes only those that actively managed a facility under a Licensed Operator Facility Agreement (LOFA) during all or part of the targeted time period of March-December, 2020. It does not include six blind vendors who left a facility due to resignation, retirement or who were deceased in 2020 based on FAQ Q1. It does not include another blind vendor who was deceased in early 2021 as there is no vendor to provide the funds to. It does not include another vendor who was not in a facility at all during the Mar-Dec 2020 timeframe.
+Blind vendor losses were based on net profit data from blind vendor monthly business reports which are submitted on-line monthly.
+The following steps were followed in determining a blind vendor’s net loss during Mar-Dec 2020.
+STEP 1: Each vendor’s 2020 net profit reported for both Type 1 (Permanent) & Type 2 (Temporary) Licensed Operator Facility Agreements (LOFAs) that vendor held was added together. Most vendors had the same single facility in both 2020 and 2019.
+STEP 2: Each vendor’s 2019 net profit was based on the net profit of the vendor (could be themselves or a previous vendor) that had the same facility for the same corresponding months in 2020, as reported on the vendor’s monthly business report for both Type 1 & Type 2 (LOFAs). In most cases it was the same vendor in the same facility in both 2020 and 2019. In some cases, it was not as vendors moved from one facility to another at some point during these years. The net profit of vendors who had Type 2 facilities in 2019 but left them prior to 2020 was not considered since the vendor could not have had a loss from a facility in 2020 that they left for any reason the previous year.
+STEP 3: To determine loss/gain in 2020, the net profit from Step 1 was subtracted from the net profit in Step 2. The difference was either a loss or a gain.
+76 blind vendors had the same single facility during Mar-Dec 2020 and in Mar-Dec 2019 and their net profit in ’20 was compared to their net profit in ‘19.
+6 vendors had the same multiple facilities in Mar-Dec 2020 and in Mar-Dec 2019 and their net profits from all facilities in ’20 was compared to their net profits from the same facilities in ’19 for the same corresponding  months they were in the facilities in both years.
+3) 10 vendors had the same Type I facility in 2020 and 2019, plus in 2020, acquired an additional facility during the period Mar-Dec 2020 that they did not have in 2019. Their net profit loss or gain was determined by adding all the net profit in facilities they operated in 2020 and comparing it to the net profit of their Type I facility in 2019.
+4)  8 vendors had one facility for all or part of the Mar-Dec 2020 timeframe and did not have a facility or that facility in 2019. This is acceptable per RSA FAQ Q2. Their net profit loss/gain in 2020 was determined by comparing their net profit for the months they were in their facility in 2020 to the corresponding months of the previous vendor in the same facility in 2019.
+5)  14 blind vendors had either one or multiple facilities in 2020 and/or 2019 and a combination of comparisons was necessary to determine net profit loss/gain in 2020. While some of the circumstances differ from one another, their net profits were based on a combination of self-net profit comparisons from 2020 to 2019 for the same corresponding months they had the facility and comparisons that involved previous vendor net profit for the corresponding months.
+6)	7 vendors were determined ineligible based on RSA FAQ Q1. Five of these either resigned or retired during the Mar-Dec period in 2020. One vendor died in 2020 and another died in early 2021.
+7)  1 blind vendor was determined to be ineligible as their facility was closed from early 2020 throughout the remainder of the year. During this time the vendor was not considered a LOFA holder. The vendor does retain the rights to go back into the facility when it reopens per program policy if the vendor chooses and signs a new LOFA.
+SUMMARY
+The following are the results for the 121 Florida blind vendors who serviced facilities during the period March through December 2020 (NOTE: one additional blind vendor did not service a facility in the Mar-Dec 2020 period or the total would be 122). Based on the methods described above results for Florida vendors are below.
+121 Business Enterprise Blind Vendors operated facilities from March to December 2020.
+7 Vendors were determined not eligible. See 6) above.
+12 Blind Vendors had a net profit gain in 2020 vs. 2019.
+102 Blind Vendors had a net loss in 2020 vs. 2019 BEFORE including “other compensation” received in 2020.
+3 of the 102 Blind Vendors had a net gain in 2020 AFTER including “other compensation” received in 2020 and are no longer eligible.
+3 of the 102 eligible Blind Vendors DECLINED to receive FRRP funds.
+As a result of the above, 96 FL Bureau of Business Enterprise Vendors will be receiving FRRP funds.
+Percentage Amount to be distributed to vendors was determined by the following:
+Overall net losses of the 96 eligible blind vendors in 2020 were determined to be $2,955,633.85 before other compensation.
+Percentage of FRRP to be paid to eligible vendors with net profit loss was originally determined to be 46.77%. This was based on dividing the FL estimated appropriation of $1,382,435 by the original overall net profit loss of $2,955,633.85.
+This comparison of each vendor’s net loss after including compensation resulted in the percentage rate for FRRP funding being adjusted to 46.93% in order to disburse the additional FRRP funds.
+Each individual vendor’s original net loss less other compensation was then compared with that vendor’s original net loss multiplied by the FRRP % rate.  The vendor would receive the lesser of the two amounts.
+Lesser of (Net Loss x FRRP % rate) vs. (Net Loss - Other Compensation)
+Compensation was applied to vendors in the following way to calculate their eligibility to receive FRRP and the amount. NO FL VENDOR WILL RECEIVE FRRP THAT WILL CAUSE THEM TO HAVE A NET PROFIT GAIN. This formula was voted on unanimously by the State Committee of Vendors on April 20, 2021.
+Sample Formula and Calculation
+Vendor has reported net profit loss of $30,000 during the pandemic period March-December, 2020.
+For the example only and this is subject to change, the current percentage used to determine the amount of FRRP is estimated to be 46.93% of reported net profit or proceeds loss (30,000 X 46.93% = 14079). This would put the FRRP to be applied to this vendor at $14,079.
+Vendor received applicable compensation of $10,000.
+$30,000 minus $10,000.00 is $20,000. The gap is the difference between vendor loss less compensation and being made whole and represents the maximum this vendor could receive through FRRP.
+$20,000 is more than the calculated percentage amount of FRRP of $14,079. In this case, the gap has not been closed as the $14,079 payment does not exceed the amount of vendor loss less $10,000 compensation.
+In this scenario, the vendor will receive payment of $14,079.
+Formula: The Lesser of (Net Loss X 46.93%) or (Net Loss minus Compensation) = Amount of payment from FRRP

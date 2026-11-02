@@ -1,0 +1,1324 @@
+FILENAME: 2f7ea5327e8a-Framework_for_a_High_Quality_Opportunity_Youth_PreApprenticeship_-_05-10-2021.pdf
+PATH: _raw/tacqe.com/2f7ea5327e8a-Framework_for_a_High_Quality_Opportunity_Youth_PreApprenticeship_-_05-10-2021.pdf
+
+2 
+About This Report  
+This pre-apprenticeship framework outlines the six key characteristics of a high-quality pre-
+apprenticeship program with a focus on opportunity youth—young people aged 16 to 24 who are 
+disconnected from the workforce and education systems. Building on JFF’s existing Framework 
+for a High-Quality Pre-Apprenticeship Program, it provides specific recommendations for 
+aligning training for opportunity youth and offers examples of promising practices for existing 
+training programs. 
+Pre-apprenticeship programs, which vary in length, can be delivered by a range of entities and 
+are designed to prepare participants for success in Registered Apprenticeships or other high-
+quality apprenticeship programs and ultimately careers. 
+This framework can be used by new or existing programs to help guide their growth and 
+development in both creating formal pre-apprenticeships and strengthening their existing 
+training practices. 
+About JFF’s Center for Apprenticeship & Work-Based Learning 
+JFF is a national nonprofit that drives transformation in the American workforce and education 
+systems. For nearly 40 years, JFF has led the way in designing innovative and scalable solutions 
+that create access to economic advancement for all, including apprenticeship and work-based 
+learning. These programs are proven methods for connecting people to good careers while 
+providing employers with skilled workers. The center consolidates JFF’s broad skills and 
+expertise on these approaches into a unique offering. We partner with employers, government, 
+educators, industry associations, and others to build and scale effective, high-quality programs. 
+Visit www.jff.org/center. 
+ 
+ 
+ 
+ 
+ 
+Cover Photo 
+IT pre-apprentice Gregory Johns-Miller learns to replace a laptop keyboard during orientation 
+training at UTP headquarters. Source: Urban Technology Project
+
+3 
+About the AEMF Project 
+JFF’s Modernizing Apprenticeship for Opportunity Youth project is funded through an 
+Apprenticeship Expansion and Modernization Fund (AEMF) contract provided by the Office of 
+Apprenticeship within the U.S. Department of Labor’s Employment and Training 
+Administration. The project’s goal is to expand access to Registered Apprenticeships for 
+opportunity youth—young people aged 16 to 24 who are disconnected from the workforce and 
+education systems—by building the capacity of youth-serving organizations, workforce boards, 
+communities, and employers. JFF is partnering with Social Policy Research Associates, a 
+national leader in research, evaluation, and technical assistance on apprenticeship and career 
+pathways; the National Association of Workforce Boards; and the District 1199C Training & 
+Upgrading Fund to provide technical assistance to 15 sites comprising workforce development 
+boards and community-based organizations across the country. 
+This workforce product was funded by the U.S. Department of Labor’s Employment and 
+Training Administration. The product was created by the recipient and does not necessarily 
+reflect the official position of the U.S. Department of Labor. The department makes no 
+guarantees, warranties, or assurances of any kind, expressed or implied, with respect to such 
+information, including any information on linked sites and including, but not limited to, the 
+accuracy of the information or its completeness, timeliness, usefulness, adequacy, continued 
+availability, or ownership. This product is copyrighted by the institution that created it. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Source: American YouthWorks
+
+4 
+Acknowledgments  
+We would like to thank the U.S. Department of Labor for providing the funding to support this 
+work and for its commitment to advancing diversity, equity, and inclusion in the apprenticeship 
+and workforce systems. We would also like to thank our network of Apprenticeship Expansion 
+and Modernization Fund (AEMF) sites, which are working to modernize and expand pathways 
+to apprenticeship for opportunity youth.  
+ 
+We want to extend a special thank you to our colleagues Cheryl Feldman and Edison Freire for 
+their review of and contribution to this framework.  
+ 
+Finally, we would like to thank and acknowledge the programs and training providers featured 
+in this framework. We appreciate their thoughtful feedback and willingness to share promising 
+practices and recommendations for this work. These sites include: 
+• American YouthWorks  
+• The Wisconsin Regional 
+Training Partnership (WRTP) 
+• The Urban Technology Project 
+• The Corps Network 
+• PowerCorps Philadelphia 
+• YouthBuild Philadelphia 
+Charter School  
+• Institute for American 
+Apprenticeships  
+ 
+ 
+ 
+Source: YouthBuild Philly
+
+5 
+Table of Contents 
+Acknowledgments ........................................................................ 4  
+Adapting the Framework for Opportunity Youth ........................ 6 
+High-Quality Pre-Apprenticeships for Opportunity Youth .......... 8 
+a. Transparent Entry and Success Requirements ................................. 8 
+ 
+b. Alignment with Skills Sought by Local  
+Employers and High-Quality Apprenticeship Programs .................. 12 
+ 
+c. Culmination in One or More  
+Industry-Recognized Credentials ..................................................... 17 
+ 
+d. Development of Skills Through  
+Hands-On Activities and Work-Based Learning ............................. 20 
+ 
+e. Offering of Academic, Career Exploration,  
+and Wraparound Supports  ............................................................. 26 
+ 
+f. Transition into a Registered Apprenticeship  
+or Other High-Quality Apprenticeship Program ............................. 29 
+ 
+Conclusion .................................................................................... 33
+
+6 
+Adapting the Framework for Opportunity Youth 
+Apprenticeship can be a powerful tool for 
+keeping young people engaged in work and 
+education pathways while providing them 
+with quality mentoring, services, and 
+support. The structured earn-and-learn 
+program is used in a broad range of high-
+growth industries to train workers while 
+they receive pay and valuable classroom and 
+on-the-job education. However, opportunity 
+youth are often unable to take advantage of 
+apprenticeships due to prerequisite 
+requirements and a lack of awareness about 
+available programs. These barriers are 
+exacerbated in apprenticeship programs that 
+lack proper diversity, equity, and inclusion 
+practices. Pre-apprenticeship programs can 
+help young people build the skills, 
+capacities, and mindsets needed to enter 
+and succeed in an apprenticeship while 
+advancing equity across employers and 
+industries. 
+Getting opportunity youth involved in 
+apprenticeships can go a long way toward 
+ensuring that they are not left behind. High-
+quality pre-apprenticeships will apply a 
+strong lens of racial and social equity to all 
+facets of their program design and training 
+structure and will integrate best practices 
+that meet the diverse needs of the 
+participants and communities they serve. 
+  
+About Opportunity Youth 
+While there is a comprehensive 
+apprenticeship system for adults and a 
+growing movement to expand access to 
+apprenticeship for high school and college 
+students, young people who are 
+disconnected from the education and 
+workforce systems or who lack the 
+credentials and skills necessary to access 
+postsecondary pathways are often unable 
+to take advantage of this valuable training 
+opportunity.  
+As of January 2020, there were 4.9 
+million of these “opportunity youth” in the 
+United States, and according to an article 
+from the National Conference of State 
+Legislatures that number will grow to 
+roughly 10 million as a result of the 
+pandemic. Measure of America has also 
+projected that youth disconnection rates 
+will grow, estimating that more than 25 
+percent of all young people could become 
+disconnected from work and education. 
+For these young people, building skills 
+and gaining work experience are key to 
+upward mobility.
+
+7 
+Moreover, as employer demand for highly skilled workers increases as older workers retire and 
+the number of new technologies grows, opportunity youth can fill the resulting gap in the labor 
+market with the right training and support. Employers like State Street have even begun noting 
+higher retention rates for youth hired through partnerships with programs like Year Up than 
+“traditional hires.” While elements of this framework can help programs support opportunity 
+youth and expand access to careers, there is a critical need to advance racial and social equity in 
+our national systems, including workforce development. Making this approach a core 
+component of employer partnerships and embedding it into the provision of supportive 
+wraparound services will help pre-apprenticeships increase access to high-quality career 
+pathways for young people.  
+The purpose of this framework is to offer guidance to community-based organizations, training 
+providers, employers, and other practitioners interested in developing a quality pre-
+apprenticeship program that is aligned with the specific needs of opportunity youth and that 
+advances equity in the workforce. It adapts the quality elements of JFF’s Framework for a 
+High-Quality Pre-Apprenticeship Program and provides recommendations specific to 
+opportunity youth. These elements include: 
+• Transparent entry and success requirements  
+• Alignment of skill development with local employer and apprenticeship demand 
+• Provision of industry-recognized credentials   
+• Development of skills through work-based learning 
+• Inclusion of academic and career exploration, as well as wraparound supports 
+• Connections and transitions into a Registered Apprenticeship 
+This resource also spotlights several high-performing pre-apprenticeship programs for 
+opportunity youth. These spotlights offer examples for how the various components of pre-
+apprenticeship can be developed and highlight a range of approaches to designing trainings that 
+provide participants with the skills, competencies, and experience needed to access and progress 
+through career and education pathways. For a more detailed description of a high-performing 
+pre-apprenticeship program, see a deeper case study, JFF’s Making Apprenticeship Work for 
+Opportunity Youth, which shines a light onto the District 1199c Training & Upgrading Fund’s 
+behavioral health apprenticeship pathway for opportunity youth.
+
+8 
+High-Quality Pre-Apprenticeships  
+for Opportunity Youth 
+Transparent Entry 
+and Success 
+Requirements 
+Alignment with  
+Skills Sought by 
+Local Employers  
+and High-Quality 
+Apprenticeship 
+Programs 
+Culmination in One  
+or More Industry-
+Recognized 
+Credentials 
+Development of Skills 
+Through Hands-On 
+Activities and Work-
+Based Learning 
+Offering of Academic, 
+Career Exploration, 
+and Wraparound 
+Supports 
+Transition into  
+a Registered 
+Apprenticeship or 
+Other High-Quality 
+Apprenticeship 
+Program 
+ 
+Transparent Entry and Success Requirements 
+Pre-apprenticeship programs should ensure that their entry and success requirements are clear 
+and fully defined at the outset. This helps opportunity youth understand how to navigate and 
+persist through the program and, most importantly, puts them in the driver’s seat and 
+acknowledges their need for autonomy. At the same time, having clear and specific success 
+requirements helps ensure that individuals find success in pre-apprenticeship programs. Such 
+perspective is important to ensure there is equity in these important career pathway programs 
+for opportunity youth.  
+Pre-apprenticeship programs clearly articulate entry requirements, including 
+specific stipulations of requisite academic, employability, and social-emotional 
+skills.  
+Fully and fairly articulating the requirements and demands of pre-apprenticeship and 
+apprenticeship programs to the three distinct audiences (learners, staff and referral agencies) is 
+an important dimension of high-quality programs. These practices must start early, at the 
+recruitment stage. Ensuring program information is reaching communities with the least access 
+ensures equity of opportunity. The best programs and networks of providers include a pre-
+enrollment phase—a quality orientation that provides prospective candidates a chance to try on 
+the program; to get a feel for what’s coming. This phase includes built-in time for reflection and 
+for individual, youth-centered counseling to help candidates assess the program’s fit with their 
+career and life goals. At the same time, the best programs also work together as a network to 
+ensure best-fit opportunities for learners when one program may not be a good match.
+
+9 
+Programs that serve opportunity youth 
+should be explicit about eligibility 
+requirements. This includes properly 
+conveying the full range of academic, 
+technical and employability skills needed 
+to qualify. Programs should also explain 
+the specific foundational math and literacy 
+proficiencies required (and the fact that 
+these skills are often taught or reinforced 
+in a broader career context), the rigors of 
+classroom and related technical 
+instruction, and any other requirements 
+unique to a specific apprenticeship 
+placement, such as a high school diploma, 
+GED, entry exams, and driver’s license. 
+This specificity will help young people set 
+realistic expectations for their training as 
+they prepare for pathways beyond the pre-
+apprenticeship program. High quality pre-
+apprenticeship programs should provide 
+these services directly when possible or 
+partner with external providers who can. 
+In addition, programs should look at their 
+assessment method itself to ensure that it 
+is authentic and comprehensive, that it 
+provides a true indicator of young people’s 
+skills and readiness, and that it helps 
+identify areas of growth. Multifaceted 
+assessments that capture academic skills, 
+technical knowledge, and habits of mind, 
+as well as inform what might impede or 
+challenge a candidate from succeeding, are 
+preferred. For instance, a traditional “one-
+shot” assessment test that relies on recall 
+can prove to be a barrier, in particular for 
+those with learning disabilities (diagnosed 
+or undiagnosed). Instead of a one-size-
+fits-all approach, we encourage programs 
+to explore and apply a universal design for 
+American YouthWorks 
+American YouthWorks (AYW) delivers 
+education and workforce development services 
+to young adults in Central Texas, providing them 
+with opportunities to build careers, strengthen 
+their communities, and improve the 
+environment through education, on-the-job 
+training, and service.  
+ 
+AYW’s YouthBuild Austin program is a 
+comprehensive pre-apprenticeship model for 
+opportunity youth that combines secondary 
+education (HSD and GED), sector-based 
+vocational training, and wraparound support 
+services. A goal of AYW’s pre-apprenticeship is 
+to promote diversity and equity in 
+apprenticeship. As such, it purposely keeps entry 
+requirements at a minimum.  
+ 
+Its messages, materials, and assessment 
+activities are explicit and strategic as to 
+eligibility requirements and program 
+expectations and designed to support both 
+participants and referral providers. Providing 
+this clarity at the start of the program helps 
+many young people successfully complete their 
+training and prepares others who may return to 
+the program at a later time, once their lives have 
+stabilized to the point where they can follow 
+through on their initial motivation.  
+ 
+AYW applies the same level of clarity and 
+transparency to its assessments and designs 
+these activities to support participants and 
+referral providers. Assessments are not designed 
+to screen out candidates but rather to help staff 
+learn what services will most likely promote 
+youth success and inform best-fit career tracks.
+
+10 
+learning (UDL) framework. UDL is an evidence-based framework for designing inclusive 
+learning environments, instructional practices, and flexible educational tools and materials that 
+gives all individuals equal access and support for learning opportunities. The goal in this case, as 
+it should be in any assessment process, is to ensure fair and equal access to learning 
+opportunities. 
+Programs should also clearly outline the daily expectations of participants, including attendance 
+and scheduling, the number of study hours and assignments that will be completed outside of 
+scheduled program hours, required site visits, job shadows, internships, and interviews with 
+employers. Pre-apprenticeship programs, even in the same sector, often vary in duration. 
+Potential candidates need to know the duration of the specific program they are considering. At 
+the same time, all these requirements should be made clear to the provider network that refers 
+and supports participants, so they can help young people prepare for the rigors of a pre-
+apprenticeship. 
+Programs should clearly articulate expectations for participation, such as self-
+management, persistence skills, and other success requirements. 
+Pre-apprenticeship programs should clearly articulate self-management, persistence skills, and 
+any other non-academic or technical skills required for success in the program. Staff can deliver 
+and reinforce clear and consistent messages as to the importance of study skills, time 
+management, independent study, collaboration and teamwork, taking initiative, asking for help, 
+and being self-aware. One strategy is to help opportunity youth recognize what these skills, 
+behaviors, and attitudes look like, with concrete examples. Staff should also be realistic and 
+specific about how much content participants will need to learn, the pace of the work, and what 
+they’ll need to produce and achieve during what can be a fast-moving, shorter term pre-
+apprenticeship program.  
+Programs should clearly articulate requirements for successful transition from 
+the pre-apprenticeship program to at least one specific apprenticeship program, 
+including skills, credentials, and other aspects that ensure access to stable 
+employment. 
+Pre-apprenticeships are the first step in a longer career pathway within an occupation and 
+industry sector. The best programs explain upfront how the pre-apprenticeship training will 
+serve as the foundation for continuing career advancement within an occupation and across 
+occupational pathways. Beyond that, high-quality programs are explicit and intentional in 
+helping opportunity youth understand the specific workplace skills, attitudes, and habits 
+required of an occupation. This includes understanding the extent to which employers require 
+flexibility of an employee’s work schedule or work location. Identifying and flagging these
+
+11 
+requirements ahead of time gives opportunity youth the information they need to be properly 
+prepared for apprenticeship and to identify their best path after completing their pre-
+apprenticeship training.  
+High-quality programs identify and flag requirements, such as the  
+need for certain physical capabilities (such as lifting heavy boxes) or the absence 
+of specific criminal convictions, that cannot reasonably be overcome through 
+program supports.  
+Given the over-representation of young people, and in particular young people of color and 
+those from low-income families or communities, in the criminal justice system, programs may 
+need to identify any barriers to being hired in occupations and industries that the pre-
+apprenticeship connects to. Programs should not only identify these barriers but help 
+participants understand what they mean for their long-term goals and help them pivot to a 
+different occupational area if they are likely to be locked out of employment. Programs should 
+support participants by helping them understand how past convictions and incarceration may 
+impact their access to different career pathways, and by providing guidance around how to 
+discuss these barriers in job interviews. When possible, programs should also take steps to 
+remove these barriers by working with employers, workforce and community-based partners, 
+and the legal system. 
+Pre-apprenticeship programs should also clearly 
+identify and flag any physical requirements of the 
+pre-apprenticeship training, and of the pathways 
+connected to that training. This includes 
+assessing a young person’s level of comfort with 
+the physical requirements of a job and helping 
+them determine if that occupation is the best fit. 
+JFF also recommends that when and where 
+possible programs provide accommodations to 
+ensure that all young people can fully participate 
+in training. The Job Accommodation Network 
+(JAN) is a free and expert resource on job 
+accommodations and disability employment 
+issues that programs can leverage to support this 
+work. Programs should also work with Registered 
+Apprenticeship sponsors to add or ease 
+accessibility by removing as many of these 
+barriers to participation as possible.  
+   Source: PowerCorpsPHL
+
+12 
+ 
+ 
+Alignment with Skills Sought by Local Employers and High-Quality 
+Apprenticeship Programs 
+High-quality pre-apprenticeship programs help opportunity youth build skills that align with 
+the needs of employers and that are required in apprenticeships. Too often, pre-apprenticeship 
+programs do not deliver the appropriate in-demand skills and graduates are left without access 
+to the apprenticeships that can provide access to career pathways and family-sustaining wages. 
+Pre-apprenticeship programs should support participants in acquiring 
+employability skills such as teamwork, written communication, problem solving, 
+initiative, flexibility, and reliability. 
+Ensuring that participants gain employability skills is especially important for opportunity 
+youth who may have limited work experience. Programs should design their curriculum with 
+input from employers to address and provide the critical personal and workplace skills needed 
+across industries. JFF recommends that providers design daily activities that give young people 
+the opportunity to practice and reflect on employability skills. This could include collaborative 
+group projects that give young adults the opportunity to practice teamwork and communication 
+skills or role playing and simulations that help young adults understand how to have agency and 
+how to self-advocate in the workplace. Employers can be brought into these simulations to 
+highlight the importance of these skills, which are particularly important in the future of work 
+context as they are least likely to be automated. 
+Programs need to help participants acquire sufficient skills and academic 
+credentials for entry into a high-quality apprenticeship or an entry-level job with 
+advancement potential in the industry. 
+In addition to providing participants with the necessary employability skills, programs should 
+include the provision of academic credentials in their program design. This includes providing 
+opportunities for high school equivalency and diploma attainment and access to certifications 
+that can bolster skill development and increase a participant’s readiness for pathways beyond  
+Transparent Entry and 
+Success Requirements 
+Alignment with  
+Skills Sought by 
+Local Employers  
+and High-Quality 
+Apprenticeship 
+Programs 
+Culmination in One  
+or More Industry-
+Recognized 
+Credentials 
+Development of Skills 
+Through Hands-On 
+Activities and Work-
+Based Learning 
+Offering of Academic, 
+Career Exploration, 
+and Wraparound 
+Supports 
+Transition into  
+a Registered 
+Apprenticeship or 
+Other High-Quality 
+Apprenticeship 
+Program
+
+13 
+pre-apprenticeship training. Programs should 
+work with employers and apprenticeship 
+providers to determine which certifications are 
+most advantageous. Programs should also ensure 
+that the academic credentials and certifications 
+they offer will help opportunity youth beyond 
+entry-level employment and support their long-
+term career advancement. 
+Effective programs align curriculum with 
+a range of training and employment 
+pathways. 
+Successful pre-apprenticeships include 
+curriculum that connects participants to a range 
+of training and employment pathways. This is 
+especially important for opportunity youth who 
+may still be developing their long-term career 
+and education goals and can benefit from having 
+a range of options to explore. This approach can 
+help young people determine whether Registered 
+Apprenticeship is the best next step and if not, 
+what other pathways can meet their immediate 
+and long-term needs. It also helps them gain 
+critical foundational skills that can be used in a 
+range of post-program options.  
+The Competency Model Clearinghouse is a good 
+resource for both employability and industry-
+specific skills. For example, the Fundamentals of 
+Health Care Competency Model is a tool that 
+supports occupational mobility and the 
+development of transferable skills across allied 
+health pathways. In addition, contextualizing curriculum with industry specific skills, 
+competencies, and terminology can accelerate learning and skills. JFF recommends that 
+programs engage employers to get feedback on curriculum design and content as well as pair 
+curriculum with employer presentations and job shadowing to make the contextualization of 
+academic skills real and relevant.  
+WRTP’s Industrial 
+Manufacturing  
+Technician (IMT) Pathway 
+IMT is a nationally-recognized apprenticeship 
+program registered with the U.S. Department 
+of Labor that trains frontline manufacturing 
+production workers in foundational skills 
+manufacturers look for, in settings as diverse 
+as food processing, foundries, plastics, and 
+bio-medical production.  
+ 
+The Wisconsin Regional Training Partnership 
+(WRTP) is an apprenticeship intermediary 
+that developed and operates a certified pre-
+apprenticeship program that addresses 
+workers’ skills and training gaps and prepares 
+them for career advancement and advanced 
+standing in higher-skilled apprenticeships.  
+ 
+This pathway incorporates several 
+innovations, including a flexible approach that 
+enables IMT pre-apprentices and apprentices 
+to progress at their own pace and accelerates 
+their completion by demonstrating mastery of 
+skills and competencies. For example, WRTP 
+recently implemented IMTfolio, an e-portfolio 
+software that applies a universal design for 
+learning approach, in partnership with JFF 
+and CAST, to address the challenge of 
+assessing readiness for the IMT pathway.
+
+14 
+The strongest pre-apprenticeship programs design instruction and training to 
+reach underserved populations. 
+It is critical that pre-apprenticeship programs serving opportunity youth are designed to reach 
+all learners. There are a number of strategies to do this, including literacy circles, collaborative 
+group work, and projects, all of which can help opportunity youth take charge of their own 
+learning. Online learning platforms such as Khan Academy can be used simultaneously with 
+these strategies to address any skills gaps.  
+Programs should support participants in setting long-term goals with interim benchmarks and 
+milestones so they understand the progress they are making, especially when their ultimate 
+goals may take multiple months or even years to achieve. Interim benchmarks and incentives 
+help foster persistence on what can be a very tough but worthwhile journey. 
+JFF recommends that programs apply a universal design for learning (UDL) approach to pre-
+apprenticeship program instruction, training, and assessment. This helps providers design and 
+deliver content in a way that is accessible to all learners and that meets the needs of different 
+learning styles. Some strategies for implementing a UDL approach include: 
+• Building in opportunities for collaboration and engagement with peers and 
+instructors to support learning and processing of information. 
+• Delivering information and content through a range of modalities to meet the 
+diverse needs of tactile, visual, and auditory learners. This includes using multimedia, 
+visual aids, recorded content, and hands-on learning and instruction activities. 
+• Using e-portfolios to offer options for documenting skills and knowledge. Strong 
+examples of this come from CAST, a leader in the UDL field. In partnership with 
+YouthBuild, CAST has designed STEMfolio for opportunity youth interested in 
+pursuing STEM careers. Leveraging this technology, CAST co-designed the IMTfolio 
+with WRTP and JFF to support apprentices and pre-apprentices with learning 
+disabilities in the Industrial Manufacturing Technician Registered Apprenticeship 
+program. 
+• Incorporating opportunities for reflection to help participants process information 
+and demonstrate their understanding of the content.  
+Finally, high-quality pre-apprenticeship programs for opportunity youth should provide 
+productive and inclusive learning environments for participants. JFF recommends that 
+programs embed a healing-centered approach to program design. This is critical for opportunity 
+youth who have experienced trauma resulting from systemic racism, abuse, neglect, poverty, 
+and community violence. Although program staff are likely not clinicians, applying this lens can
+
+15 
+support the long-term success of participants within the pre-apprenticeship program and 
+beyond. JFF recommends that programs invest in professional development and learning to 
+support these efforts and partner with community partners to address issues of trauma in a way 
+that is informed and sensitive to the needs of participants. A recent National Fund for 
+Workforce Solutions guide, A Trauma-Informed Approach to Workforce, provides foundational 
+information, guidance, and examples of workforce development organizations and employers 
+who have implemented trauma-informed approaches. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: American YouthWorks
+
+16 
+ 
+  
+The Importance of Integrating a Trauma Lens in Pre-
+Apprenticeship Training 
+Trauma results from an event, series of events, or set of circumstances. Trauma from 
+systemic racism, abuse, neglect, poverty, and community violence can have lasting adverse 
+effects on an individual’s functioning and well-being. Trauma has become even more 
+prevalent during the COVID-19 pandemic and can impact opportunity youth and their 
+ability to persist in pre-apprenticeship training.  
+Applying a trauma-informed or healing-centered lens does not mean that staff diagnose 
+trauma or other behavioral health conditions. It does advocate taking a holistic approach, 
+acknowledging we do not live, work, and learn in a vacuum, and helps pre-apprenticeships 
+build supportive environments that are safe, inclusive, and productive for all participants. 
+Using a trauma and healing-centered lens means creating ways to help participants build 
+trust, skills for managing emotions, and a sense of self-worth in program systems and 
+practices. Healing-centered practices can be especially impactful because they employ an 
+asset-based approach that focuses on the strengths of young people and supports their 
+agency in their own well-being and care. This redefines trauma so that rather than being 
+defined as victims, young people are empowered and grounded in a sense of meaning and 
+purpose.  
+The Substance Abuse and Mental Health Services Administration (SAMHSA) has 
+developed six principles of a trauma-informed approach that can be useful in program 
+design. They include safety; trustworthiness and transparency; peer support; 
+collaboration and mutuality; empowerment, voice, and choice; and cultural, historical, 
+and gender issues. A trauma-informed approach includes having clear program guidelines 
+in place; ensuring consistency of expectations, activities, and feedback; explicitly 
+highlighting the impacts of structural racism and gender inequities; and offering 
+opportunities for reflection. These align with inclusive best practices that benefit all 
+participants.
+
+17 
+ 
+ 
+Culmination in One or More Industry-Recognized Credentials  
+A core feature of a high-quality pre-apprenticeship program is that it provides participants with 
+at least one industry-recognized credential or other short-term credential such as OSHA 10 or 
+CompTIA A+.These credentials are typically stackable and portable to support a participant’s 
+entry, growth and advancement along a career pathway. Stackable credentials are defined as a 
+sequence of certifications that can be attained over time and move an individual along a career 
+pathway. They allow learners to quickly switch between school and work while continuing to 
+progress toward a comprehensive credential like a degree. Stackable credentials also contribute 
+to higher-level certificates, degrees, or other credentials recognized across labor markets. It is 
+important to note that there are several types of credentials that can be stacked and they 
+encompass both micro-credentials and industry-recognized credentials which are discussed in 
+this section. Micro-credentials develop distinct skills that are usually earned through 
+performance-based assessments that showcase skills in specific topic areas. Industry credentials 
+typically involve demonstrating a broader set of skills that can be shown through attainment of a 
+certification (via exams). 
+ 
+Credentials should support direct entry into the workforce, be aligned with labor-
+market demand, and be validated by regional or national employers or industry 
+associations. 
+High-quality pre-apprenticeship programs engage with employers to provide requisite 
+credentials and certifications while designing training curriculum to identify and remove 
+barriers that may be experienced by opportunity youth when trying to obtain them. This is 
+especially important for opportunity youth, who too often can be guided into jobs that do not 
+offer pathways for advancement. 
+To ensure that the credentials being offered will provide the greatest value to young people, pre-
+apprenticeship programs should select those that are in highest demand with employers. 
+Programs should consult with their state labor market information entities and workforce 
+development boards to identify credentials and competencies sought by employers, and when 
+possible, programs should remove financial barriers associated with these credentials by 
+defraying the costs associated with them. This can include exam fees, the cost of books and  
+Transparent Entry and 
+Success Requirements 
+Alignment with  
+Skills Sought by  
+Local Employers  
+and High-Quality 
+Apprenticeship 
+Programs 
+Culmination in One  
+or More Industry-
+Recognized 
+Credentials 
+Development of Skills 
+Through Hands-On 
+Activities and Work-
+Based Learning 
+Offering of Academic, 
+Career Exploration, 
+and Wraparound 
+Supports 
+Transition into  
+a Registered 
+Apprenticeship or 
+Other High-Quality 
+Apprenticeship 
+Program
+
+18 
+materials, and costs associated with 
+transportation to and from exam sites. 
+Programs should 
+also gather information from state and 
+federal resources, employers, and industry 
+associations to inform their career pathways 
+and credential strategies. This will ensure 
+that training and credentialing offered aligns 
+with the reality of industry and employer 
+needs and expectations. 
+Credentials should be stackable and 
+portable. 
+Stacking credentials helps opportunity youth 
+adapt to shifting market demands and 
+improves their ability to advance along and 
+across career pathways, which is important 
+in ensuring that they have access to 
+economic mobility. One effective strategy is 
+to employ targeted short-term courses to 
+help learners acquire essential knowledge 
+and skills. These micro-credentials signal 
+proficiency in understanding and applying 
+the competencies needed for the 
+apprenticeship. The goal of using micro-
+credentials in this context is to lead to 
+formal industry recognition or preparation 
+for industry-recognized credentials. 
+For example, Pennsylvania-certified Smart 
+Manufacturing and Advanced Robotics 
+Training (SMART) developed a pre-
+apprenticeship program to develop a 
+pipeline of industry-certified workers ready 
+to enter internships, apprenticeship 
+programs, certificate and associate degree 
+programs, and in some cases, employment 
+in robotics. SMART organizes short, 
+The Urban Technology Project 
+(UTP) 
+UTP is a joint enterprise between 
+Communities in Schools of Philadelphia 
+and the School District of Philadelphia. 
+This pre-apprenticeship program targets 
+Philadelphia high school graduates ages 17 
+to 24 who are interested in information 
+technology. UTP is comprised of the 
+Computer Support Specialists Registered 
+IT Apprenticeship Program and the Pre-
+Apprenticeship Digital Service Fellows 
+AmeriCorps Program. The DSF 
+AmeriCorps Pre-Apprenticeship program 
+is a 1,700 hour program that combines 
+pre-apprenticeship training with national 
+service. It leverages the service experience 
+to offer work-based learning activities and 
+help participants contextualize their skill 
+development and classroom learning. 
+Pre-apprentices work to receive industry-
+recognized credentials, including Apple 
+Certified Macintosh Technician (ACMT), 
+Amazon Web Services (AWS), CompTIA 
+A+, and Google Apps for Education 
+Certification. The certifications provided 
+in the pre-apprenticeship are stackable 
+and portable and provide an example of 
+short-term credentials that equip 
+opportunity youth with requisite essential 
+skills for a longer-term apprenticeship or 
+career opportunities in the tech sector.
+
+19 
+targeted lessons and activities to help students earn certain parts of certifications in class and 
+robotic labs. Hands-on learning is included, and students are able to document their learning in 
+an electronic portfolio. This graphic provides an example of how SMART involves micro-
+credentials in its pre-apprenticeship program. 
+Figure 1: Carnegie Mellon Robotics Academy: Micro-Certifications. 
+(https://www.cmu.edu/roboticsacademy/Research/SMART/micro-certifications.html) 
+Finally, in non-traditional apprenticeship programs in healthcare, human services, and early 
+childhood, for example, it is also important to connect technical curriculum to college credits 
+leading to degree attainment. Thus, the pre-apprenticeship to apprenticeship model becomes a 
+degree pathway. Both credentials and the degree path ensure portability of skills and 
+competencies. 
+Pre-apprenticeship programs need to facilitate earning credentials that prepare 
+participants or align with the skills identified for training and curriculum. 
+It is important that every credential offered to a participant aligns with the reality of the 
+industry and the needs of employers. To ensure that the credentials provided through a high-
+quality pre-apprenticeship will properly prepare young people for entry into and success along a 
+career pathway, programs should partner with employers and apprenticeship sponsors to 
+determine which credentials are in highest demand and to validate their selections. Programs 
+should also work with employers and credential providers to then ensure that their training 
+curriculum properly prepares young people for any testing or requirements associated with 
+credential attainment and to address, where possible, any barriers that might be experienced by 
+opportunity youth participants.
+
+20 
+Programs should embed preparation for earning industry-recognized  
+credentials into the curriculum, including supports for test delivery  
+and credential attainment. 
+To ensure equitable access to credentials for all pre-apprenticeship participants, including 
+opportunity youth, JFF recommends that programs reduce any barriers participants may face, 
+including financial and academic. The cost of obtaining a credential can be expensive, especially 
+if they want or need to earn multiple credentials. To expand access for opportunity youth, JFF 
+recommends that pre-apprenticeship providers fund training and other costs associated with 
+obtaining credentials, including exam fees and costs associated with equipment, materials, and 
+transportation.  
+Additionally, programs should explore all available testing accommodations for young people 
+and whenever possible offer testing models that meet a diverse range of learning styles. This 
+includes adapting testing formats, offering additional time or practice testing, and employing a 
+universal design for learning strategy. This approach ensures that access to credential 
+attainment is equitable for all participants, including those with learning differences. To do this, 
+JFF recommends that training providers partner with credentialing agencies and employers to 
+assess when and where adaptions can be made. 
+ 
+ 
+Development of Skills Through Hands-On Activities and Work-Based 
+Learning 
+Work-based learning is a critical component of any successful training program, including pre-
+apprenticeship. It supports job attainment and career advancement by providing participants 
+with opportunities for career exploration, engagement with employers, and exposure to career 
+pathways. It has been shown to lead to stronger employee engagement, higher levels of 
+workplace satisfaction, and increased diversity and inclusion. For opportunity youth, work-
+based learning is especially important because it helps them gain the work experience frequently 
+required by employers while also helping them contextualize and connect their classroom 
+learning and on-the-job training. This approach, especially when designed with input and 
+Transparent Entry and 
+Success Requirements 
+Alignment with  
+Skills Sought by 
+Local Employers  
+and High-Quality 
+Apprenticeship 
+Programs 
+Culmination in One  
+or More Industry-
+Recognized 
+Credentials 
+Development of 
+Skills Through 
+Hands-On Activities 
+and Work-Based 
+Learning 
+Offering of Academic, 
+Career Exploration, 
+and Wraparound 
+Supports 
+Transition into  
+a Registered 
+Apprenticeship or 
+Other High-Quality 
+Apprenticeship 
+Program
+
+21 
+ownership from youth, can help young people better understand how the skills and 
+competencies they are building translate to a range of career pathways and advanced training 
+opportunities across occupations, industries, and sectors. 
+It is important to note the value of providing compensation to youth participants as part of 
+work-based learning and the pre-apprenticeship program in general. Monetary compensation 
+for the work completed by youth participants can help remove the financial barriers to training 
+completion they may face and demonstrates the program’s investment in their continued 
+success. 
+Programs should embed into the curriculum hands-on activities that are relevant 
+to the target occupation, including work-based or on-the-job learning. 
+Work-based learning activities should mirror the real-world work required for an occupation. 
+They should be aligned with the program’s overall curriculum, support diverse and transferable 
+skill development, and be informed by employers. Effective programs will help participants 
+identify target skills and understand how gains will be validated.  
+To strengthen the impact of work-based learning for opportunity youth specifically, JFF 
+recommends that, when and where possible, training providers engage with opportunity youth 
+to design these activities. This not only ensures that their voice is incorporated into program 
+design but also facilitates their engagement with employers, which can help build their social 
+capital and increase their connections to employment after training. Program staff should talk 
+with participants about their interests and their goals to ensure that activities not only meet 
+employer needs but also resonate with participants. Programs should also consider establishing 
+youth advisory councils or work-based learning work groups with employers and youth to create 
+opportunities for participants to provide regular feedback on design, facilitation, and structure. 
+The best pre-apprenticeship programs structure hands-on activities to make clear 
+what skills are gained, how they are validated, and how they can be applied in a 
+future career. 
+To strengthen the impact of work-based learning for opportunity youth, programs should 
+incorporate opportunities for reflection and career exposure into activities. This will help 
+participants understand the skills, strengths, and competencies they are building through work-
+based learning and how they are connected to their long-term career and education goals. This 
+approach facilitates a deeper understanding of what is needed to access a career pathway and 
+shows participants how the skills they are building can support their ability to pivot to different 
+occupations in other industries. Most importantly this approach helps participants understand 
+the value and assets they can bring to the workforce.
+
+22 
+Effective strategies for embedding reflection activities into work-based learning include: 
+• Creating portfolios that track skill development and credential attainment. 
+JFF recommends that programs empower young people to manage their own portfolios 
+to help them develop ownership and agency.  
+• Peer sharing through small group discussions or presentations. Creating 
+spaces for peers to learn from one another is critical for all participants but especially for 
+opportunity youth. Sharing perspectives and opinions, leading group discussions, and 
+presenting information not only helps young people think critically about their skill 
+building but also supports their continued learning and development of employability 
+skills.  
+• Leveraging a range of modalities for reflection. By offering a range of modalities 
+for reflection, including writing, video, and audio, programs can ensure that they are 
+meeting the diverse range of learning styles of their participants.  
+• Enabling engagement between participants and employer partners. Building 
+in intentional opportunities for young people to connect with employers has many 
+benefits. It helps participants connect their skill gains to specific occupations while also 
+building their social capital. Programs should design these spaces to include 
+conversations led by young people about what advancement looks like for them, based 
+on their long-term goals. 
+• Using existing career exploration tools provided by O*Net and Career 
+OneStop. These interactive platforms offer participants a more tactile and personally 
+reflective opportunity to think about work-based learning. 
+Programs should structure hands-on activities in a classroom, work site, or lab to 
+be experiential, problem-based, and designed with input from employers and 
+apprenticeship sponsors 
+Quality work-based learning activities are structured and adaptable for different learning 
+environments. They place an emphasis on problem-based learning and include input and 
+continuous feedback from employers and apprenticeship sponsors. Without this input, 
+programs run the risk of designing activities that do not properly prepare participants for career 
+pathways beyond their pre-apprenticeship training and do not provide them with the proper 
+career exploration and exposure.  
+JFF recommends that pre-apprenticeship programs bring employers into the process as 
+designers, facilitators, and investors so that participants are prepared for the requirements of 
+various occupations. This collaboration can help strengthen commitments to directly hire 
+opportunity youth once they’ve completed their training and increase funding for WBL 
+activities. It can also help employers better understand the value that youth bring to the
+
+23 
+workforce and the practices needed to create safe, positive, and supportive work environments. 
+Engagement with employers in work-based learning helps opportunity youth participants build 
+their understanding of what working in a particular occupation day to day might look like by 
+providing an opportunity for them to learn from employers directly. It can also support the 
+development of positive relationships with adults and expand their professional networks. 
+Pre-apprenticeship programs need to prioritize opportunities for work-based 
+learning in which the participant completes meaningful job tasks in a workplace. 
+It is essential that work-based learning activities meaningfully replicate the job tasks in real-
+world work environments so that opportunity youth develop an understanding of a range of jobs 
+and occupational pathways. This supports the success of opportunity youth by providing them 
+with the skills and competencies required beyond the technical skills and credentials required 
+for a job. 
+To maximize value and impact for opportunity youth, pre-apprenticeship programs should set 
+expectations for participation in work-based learning at the outset. This includes clearly 
+outlining time commitments, employer expectations, and job duties. Participants should also 
+have ample opportunities to check in with program staff and employers to help them assess 
+their progress and offer feedback on their experiences. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IT pre-apprentice Christian Cherry replaces a MacBook Pro hard  
+drive for a teacher at his worksite, Frankford High School.  
+Source: Urban Technology Project
+
+24 
+Programs should use work-based learning to develop participants’ understanding 
+of and ability to navigate company and industry culture, as well as specific 
+position functions and workplace policies and procedures. 
+Work-based learning activities should also help participants fully understand industry and 
+workplace culture. This includes helping opportunity youth understand what to expect from 
+workplace policies and procedures and how to navigate human resources and other supports 
+that may be available.  
+It is critical that programs recognize how discriminatory practices show up in the workplace and 
+prepare young people to maneuver within these environments. Programs should help young 
+people understand structures and policies that spur discrimination based on gender, gender 
+identity, and sexual orientation and should acknowledge how race is historically and structurally 
+built into the workplace. High-quality pre-apprenticeships will ensure that young women, 
+LBGTQ youth, and young people of color are properly supported and prepared for working in 
+what may be majority-white, majority male, or majority cisgender environments by helping 
+them understand how to navigate racial hierarchies and organizational policies that advance 
+inequity. Programs can hold reflection sessions for work-based learning participants to share 
+their experiences and identify and troubleshoot challenges they experienced.  
+This work does not rest solely on the shoulders of participants, and programs should ensure that 
+employers are held accountable for creating positive and supportive work environments for 
+young people. To do this, programs should actively engage employers in conversations about 
+race, gender, gender identity, and equity. They should build commitments to hiring and 
+supporting opportunity youth, young people of color, women and LGBTQ youth into 
+partnership agreements, require employers to demonstrate how they will build safe and 
+equitable work environments, and assess the quality of existing DEI policies and practices prior 
+to placing participants. Programs should not partner with employers that are not able to provide 
+work environments that are positive, safe, and supportive, and that provide equitable 
+opportunities for advancement.
+
+25 
+ 
+  
+The Corps Network and PowerCorps PHL 
+The Corps Network (TCN) is the member association for the nation’s 130-plus Service and 
+Conservation Corps. TCN engages more than 25,000 young people, many of whom are 
+opportunity youth, in service designed to prepare our next generation of environmental 
+stewards and community leaders. The Corps model combines hands-on technical skills 
+training, classroom-based education and training, credential attainment, and workforce-
+readiness skills training to create a robust pre-apprenticeship experience for a wide range 
+of employment opportunities in environmental stewardship.  
+PowerCorpsPHL (PCPHL) is a member of TCN that exemplifies quality work-based 
+learning. It designs programs to support participant success and uses a range of 
+approaches to deliver WBL. That includes job shadows, mentorships, and individual and 
+group reflection activities. PCPHL’s approach to WBL prepares participants for the 
+realities of workforce culture through scenario-based planning and trauma-informed care. 
+This aspect of its programming helps participants navigate situations that may be 
+influenced by their race, ethnicity, or socioeconomic background and emerge with greater 
+resiliency. 
+PCPHL prioritizes the inclusion of participant voice when designing WBL activities and 
+uses an evaluation tool to gather participant feedback and assess the quality and impact of 
+activities. Staff and WBL supervisors then engage participants in guided conversations to 
+learn from their experiences and identify opportunities to integrate feedback into future 
+WBL design. The program collaborates with employers to establish performance metrics 
+to help participants track their progress and find success, map classroom learning onto 
+WBL activities, vet activities against the reality of work sites, and ensure that activities are 
+designed in alignment with occupational safety standards. Finally, PCPHL provides 
+stipends to participants for their WBL through their enrollment in AmeriCorps and 
+through a range of financial partnerships. It also builds wraparound supports and services 
+into the WBL to help keep young people engaged and work with their employer partners 
+to ensure that they are providing similar supports as well.
+
+26 
+ 
+Offering of Academic, Career Exploration, and Wraparound Supports 
+High-quality pre-apprenticeships offer strong, well-balanced, and continuous blends of 
+academic, career exploration, and wraparound supports. They prioritize these as core activities 
+within a dedicated academic bridge program that contextualizes academic coursework with 
+industry content using dedicated staffing, well-sequenced activities, strategic partnerships, and 
+targeted funding (such as with Title II that allows for customized curricula in partnership with 
+adult education providers) thus increasing the likelihood of participant success at the next level. 
+This is especially true for opportunity youth who may come to the program with less developed 
+foundational skills, limited exposure to career options, and minimal work experience. Academic 
+courses should be personalized and practical and focus on critical and core academic concepts 
+important for a smooth transition to next-step training opportunities. Transportation to and 
+from job sites is also critical to preparing for real-world employment, and addressing barriers 
+(such as obtaining a driver’s license) in advance helps ensure success. In addition, to be fully 
+present and engaged, opportunity youth should be provided with positive adult supports and 
+ample access to mental health services, childcare, housing, and nutritional services.  
+Programs need to provide orientation to the industry and exposure to a range of 
+occupations, career paths, wages, and information about job opportunities. 
+Career navigation activities help young people map a clear career pathway that extends beyond 
+an entry-level job and across various occupational pathways. These activities should support 
+participants in developing a career plan that identifies short- and long-term goals, including 
+potential barriers and possible solutions. To do this, programs should start by helping 
+opportunity youth research and explore their own career interests, including what skills, 
+credentials, and continuing education are required to enter and advance. This can be 
+complemented with well-structured and sequenced informational interviews, career fairs, job 
+shadows, short-term internships, and the use of alumni, workplace mentors, and peer 
+advisories. Another best practice is engaging opportunity youth in local labor market research to 
+help them learn about the best training and career pathway opportunities, providing another 
+way to increase their agency and reinforce the lifelong skill of self-advocacy. 
+  
+Transparent Entry and 
+Success Requirements 
+Alignment with  
+Skills Sought by  
+Local Employers  
+and High-Quality 
+Apprenticeship 
+Programs 
+Culmination in One  
+or More Industry-
+Recognized 
+Credentials 
+Development of Skills 
+Through Hands-On 
+Activities and Work-
+Based Learning 
+Offering of 
+Academic, Career 
+Exploration, and 
+Wraparound 
+Supports 
+Transition into  
+a Registered 
+Apprenticeship or 
+Other High-Quality 
+Apprenticeship 
+Program
+
+27 
+Support exploration of postsecondary credential options aligned with career 
+interests. 
+While pre-apprenticeships traditionally connect to Registered Apprenticeship pathways, they 
+should also highlight the postsecondary pathways available after training. This is important for 
+those who may not be ready to advance into a Registered Apprenticeship or who may wish to 
+continue their education instead. To support opportunity youth in exploring education 
+pathways, programs can leverage “the power of place” and create activities that put young 
+people on a college campus and give them exposure to academic opportunities and resources. 
+Other best practices include inviting college campus staff to participate in college and career 
+fairs and hiring college students as mentors or volunteers to support postsecondary navigation.  
+One of the most effective strategies for helping opportunity youth and other participants 
+understand the range of post-program options available is to invite alumni to share their 
+experiences. Hearing from peers is a powerful way to highlight the opportunities available to 
+participants and to help them assess what next step is best for them. They can also help young 
+people understand the financing options and how to juggle work and school if they decide not to 
+do an apprenticeship and instead want to pursue postsecondary education in a different setting. 
+Provide wraparound supports such as tutoring and case management, including 
+access to resources for childcare, mental health, transportation, and housing. 
+The provision of wraparound supports and other related services closes academic and skills gaps 
+and helps participants be fully present and acquire the knowledge, skills, and competencies 
+needed for career advancement. Offering wraparound supports is important for opportunity 
+youth, who often face myriad barriers; such supports can promote a healthy, youth-centered, 
+and supportive environment in which they can successfully complete their training. These 
+services often include offering stipends for childcare, housing, and transportation; providing or 
+making connections to mental health and healthcare services; and inclusion of mentorship and 
+case management. Programs can offer these services in-house or partner with local community-
+based organizations and agencies to build a provider network and ecosystem of support for 
+participants. Practices that reinforce quality delivery of service and support include those that: 
+• Engage educational specialists and use well-regarded partners that can offer on-
+premises supplemental courses and tutoring, and ensure participants have access to 
+and are trained to use basic technology required for online academic supports.  
+• Facilitate connections to appropriate service providers, including orienting 
+opportunity youth to provider partners and their individual staff, providing easy 
+access, and offering incentives to follow through with important appointments. It 
+also includes co-location of services whenever possible.
+
+28 
+• Are personalized and tailored to help individual participants address specific 
+gaps in requirements and provide just-in-time supports that make it easier for 
+opportunity youth to participate successfully. 
+• Include a lens on trauma-informed or healing-centered care, with an 
+emphasis on helping young people cultivate their agency by using a strengths-based 
+approach to developing leadership and self-advocacy skills. 
+ 
+YouthBuild Philadelphia Charter School 
+YouthBuild Philadelphia Charter School’s mission is to empower young adults to develop 
+skills and connect to opportunities in an environment of love, support, and respect for 
+their whole person. They are the largest single-site YouthBuild program in the country, 
+enrolling approximately 220 students every August. All students participate in intensive 
+instruction in academics and workforce development, resulting in a high school diploma 
+and industry-recognized vocational certification(s).  
+Students develop leadership skills by working with peers and community organizations to 
+create, lead. and participate in community service projects around the city of Philadelphia. 
+After graduation, participants stay connected as they begin their postsecondary journeys to 
+college, career, and leadership development. Throughout the entire program model, young 
+people are supported by peers, student success managers, a network of staff members, and 
+a direct mentor committed to their personal and professional growth. Incoming students 
+have extensive on-site exploration opportunities to select one of four primary vocation 
+tracks: Building Trades, Business Administration Scholars, Child Development Associate, 
+and Health Care.  
+All training tracks focus on building transferrable professional skills and habits that will 
+lead to success in postsecondary education and employment. In the 2020-21 program 
+year, the school is shifting its staffing model so that a dedicated staff member will follow 
+each student through both years of the program, providing a continuous array of 
+personalized supports and guidance for overcoming life barriers, college/career planning, 
+navigating through social service systems, and supporting employment placement and 
+advancement.
+
+29 
+ 
+Transition into a Registered Apprenticeship or Other High-Quality 
+Apprenticeship Program 
+A key characteristic of a high-quality pre-apprenticeship is the connection to Registered 
+Apprenticeship or other high-quality apprenticeship programs. Building these connections for 
+opportunity youth can be challenging given the varying level of understanding of the population 
+that employers and apprenticeship sponsors have. While there has been a growing movement in 
+building apprenticeships for in-school youth, opportunity youth and other disconnected job 
+seekers remain largely unserved and therefore many employers do not understand the value and 
+assets that they present to the workforce. 
+High-quality pre-apprenticeships will also provide participants with connections to various 
+postsecondary and career pathways after training. This is especially important for those who 
+may not be ready to advance into a Registered Apprenticeship or who may wish to continue 
+their education instead.  
+Pre-apprenticeship programs should partner with industry, employers, unions, 
+intermediaries, and the public workforce system to facilitate placements. 
+Partnerships with industry, employers, unions, workforce intermediaries, and public workforce 
+partners can be especially important for programs serving opportunity youth because the 
+population is often misunderstood by these stakeholders. Many employers are hesitant to 
+engage younger workers out of concern that there may be too much risk or that they may require 
+too much support. Strong partnerships and engagement can help underscore the assets that 
+these young people bring with them, including their skills, competencies, knowledge, and 
+perspectives, and demonstrate the positive impacts that hiring them can have on an individual 
+employer or industry’s bottom line. They can also highlight the ways in which community-based 
+organizations can partner with employers for the successful retention and advancement of 
+opportunity youth. 
+  
+Transparent Entry and 
+Success Requirements 
+Alignment with  
+Skills Sought by  
+Local Employers  
+and High-Quality 
+Apprenticeship 
+Programs 
+Culmination in One  
+or More Industry-
+Recognized 
+Credentials 
+Development of Skills 
+Through Hands-On 
+Activities and Work-
+Based Learning 
+Offering of Academic, 
+Career Exploration, 
+and Wraparound 
+Supports 
+Transition into  
+a Registered 
+Apprenticeship or 
+Other High-Quality 
+Apprenticeship 
+Program
+
+30 
+To build effective partnerships, JFF recommends that programs convey the benefits pre-
+apprenticeship and opportunity youth bring to employers and other stakeholders from the start 
+of engagement. Programs should prioritize the inclusion of formal agreements for hiring and 
+placing opportunity youth participants into jobs and apprenticeships and establish 
+comprehensive memorandums of understanding that articulate the percentage of participants 
+who will receive employment upon successful completion of their pre-apprenticeship program. 
+These agreements should include commitments to diversity, equity, and inclusion, and 
+nondiscriminatory hiring practices. JFF also recommends that programs create opportunities 
+for young people to engage with employers. This can happen through job shadows, career fairs, 
+and work-based learning, as well as through mentoring and including young people in groups 
+and meetings with stakeholders where they can share their feedback. Doing this will help 
+employers better understand the value that opportunity youth represent to their workforce 
+needs and can also help participants expand their professional networks, which can support 
+their future career advancement.  
+Programs should work with program sponsors to determine their form of 
+selection preference for program graduates, such as guaranteed interviews or 
+direct entry into a high-quality apprenticeship. 
+To ensure that opportunity youth can successfully progress from a pre-apprenticeship into a 
+Registered Apprenticeship, providers should have a full understanding of the entry 
+requirements and selection criteria of apprenticeship programs and design their programs with 
+these requirements in mind. JFF recommends that programs also consult resources like The 
+Urban Institute’s Competency-Based Frameworks or JFF’s self-paced, online Competency-
+Based and Hybrid Apprenticeship course to ensure that they provide the proper technical and 
+soft skills needed for success in the apprenticeship.
+
+31 
+Programs should connect pre-apprenticeship graduates who do not enter an 
+apprenticeship to a postsecondary education and training option, or to an 
+employer in a related field for an interview. 
+As mentioned previously, not all young people who complete a pre-apprenticeship will want to 
+transition into a Registered Apprenticeship or other high-quality apprenticeship program. Some 
+may want to directly enter the workforce while others may choose to continue with their 
+education in a postsecondary setting. An apprenticeship can be an alternative route to attaining 
+a college education. Pre-apprenticeship programs can facilitate connections to postsecondary 
+education by establishing advanced standing agreements for program completers. 
+High-quality pre-apprenticeships will help opportunity youth not only understand the range of 
+workforce training and career pathways available but also the different postsecondary pathways 
+available. To do this, JFF recommends that programs leverage their career navigation activities 
+to help participants explore potential careers before they make a decision about their next steps. 
+Programs should also explore partnerships with educational providers such as community 
+colleges or four-year universities to help inform the connections participants can make to 
+postsecondary pathways.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IT apprentice Shabazz Ransom troubleshoots an issue with a  
+printer at his worksite, Philadelphia Learning Academy North. 
+Source: Urban Technology Project
+
+32 
+  
+Institute for American Apprenticeships 
+The Institute for American Apprenticeships at Vermont HITEC (IAA) has offered Registered 
+Apprenticeships in healthcare, information technology, advanced manufacturing and business 
+services for nearly two decades. Its apprenticeship model serves as an example for how pre-
+apprenticeship programs can create seamless transitions to apprenticeship for participants. Its 
+program uses three phases: 
+1. The program consults employers to identify their hiring needs and interest in developing an 
+apprenticeship. The design process starts with a commitment by the employer to hire every 
+program participant who successfully completes the pre-apprenticeship program. Once a 
+commitment has been secured, IAA staff work with the employer to determine the essential 
+functions of the occupation and qualities of a successful worker. An IAA subject matter 
+expert shadows that occupation for several months to develop an intimate understanding of 
+what it takes to learn and do the job. They document the requisite knowledge, skills and 
+abilities before designing a custom curriculum and set of technical competencies for the 
+employer. Recruitment also occurs in this phase which also allows opportunity youth to 
+learn about the occupation, the employer and about apprenticeship. This awareness is a key 
+element that contributes to the success of the individual, which then translates into a 
+higher completion and retention rate for the program. IAA leverages funding from the 
+workforce system to enable this high-quality pre-apprenticeship program. 
+2. Learners receive rigorous and time-intensive instruction as well as assistance in terms of 
+transportation, housing, counseling, childcare assistance and materials (e.g., books and 
+supplies) to encourage their ongoing involvement and support program completion. Each 
+program includes an experienced instructor and project leader who manages logistics and 
+coaches on professional presentation. IAA leverages funding from the workforce system to 
+provide both the technical program and the wraparound supports to apprentices. 
+3. An apprentice receives a mentor who offers them support on a regular basis to promote on-
+the-job learning, support services are provided until the apprenticeship is completed, and 
+apprentices earn the applicable industry-recognized credentials. 
+ 
+The attention to the needs of the individual and the employer in every phase of the process 
+have contributed to the IAA program’s completion rate of over 90 percent and to the 
+apprenticeship completion rate of 84 percent. This represents a win for the apprentice, the 
+employer and the community.
+
+33 
+Conclusion 
+For too long, opportunity youth have been left behind in the apprenticeship movement. This 
+framework aims to address that gap with specific guidance to drive strong programming. The 
+promising practices outlined in this framework can help existing pre-apprenticeship programs 
+strengthen their programming so that opportunity youth and other low-income young adults 
+can succeed and make successful transitions to high-quality apprenticeship programs. It can 
+also serve as a guide for those seeking to design new pre-apprenticeship programs for 
+opportunity youth. With the right supports and opportunities, this population can thrive in 
+apprenticeship pathways that enable them to learn, earn a paycheck, and advance in their 
+careers.   
+Resources to Support the Design of High-Quality Pre-Apprenticeships for Opportunity Youth 
+• JFF: Framework for a High-Quality Pre-Apprenticeship Program (2020) 
+• JFF: Framework for a High-Quality Pre-Apprenticeship Program: IT (2020) 
+• JFF: Work-Based Learning Framework (2018) 
+• JFF: Work-Based Learning Glossary 
+• JFF: Benefits of Work-Based Learning 
+• JFF: How to Develop an Effective Work-Based Learning Program 
+• JFF: How Apprenticeship Programs for Opportunity Youth Stay Resilient Through the 
+COVID-19 Recession (2020) 
+• JFF: CareerNext Framework 
+• YouthBuild USA: Connecting Opportunity Youth and Employers Through Work-Based 
+Learning (2020) 
+• Aspen Institute: Unpacking the Work of Work-Based Learning (2021) 
+• Corporation for a Skilled Workforce: Employing Opportunity Youth: Employing and 
+Reinforcing the Business Case (2014) 
+• Brookings Institution: Work-Based Learning Can Advance Equity & Opportunity for 
+America’s Young People (2020) 
+• Harvard Business Review: “Toward a Racially Just Workplace” (2019)
